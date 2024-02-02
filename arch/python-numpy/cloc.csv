@@ -1,0 +1,59 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=8.35 s (748.2 files/s 157584.4 lines/s)"
+1256,Python,63463,97521,250578
+124,Assembly,8318,5901,232273
+807,C,41560,71274,171893
+480,reStructuredText,22272,16197,62684
+446,C/C++ Header,4954,8117,36771
+30,CSV,0,0,36702
+202,JavaScript,4744,11874,32327
+173,Markdown,6586,16,20434
+25,SVG,50,10,19711
+1293,Meson,4245,2150,17356
+193,C++,2161,1324,13989
+161,YAML,1454,524,8712
+26,Cython,2752,7433,5386
+156,Text,777,0,4094
+340,JSON,29,0,3815
+9,SWIG,330,538,2573
+103,Fortran 90,311,149,1304
+52,CMake,287,92,977
+35,Bourne Shell,193,204,926
+37,Fortran 77,28,110,529
+19,TOML,80,69,397
+40,Vala,75,6,359
+24,D,78,10,306
+10,HTML,44,0,297
+10,make,67,53,269
+4,vim script,49,82,257
+41,Rust,55,10,242
+14,CUDA,51,0,222
+14,XML,14,5,205
+9,Mustache,64,0,204
+10,diff,21,202,158
+3,Qt,0,2,141
+16,INI,20,0,140
+1,sed,0,12,140
+2,CSS,32,19,112
+3,PowerShell,24,21,93
+9,Java,21,0,92
+1,XSD,10,1,85
+6,DOS Batch,17,17,84
+5,PO File,9,26,73
+7,C#,9,0,54
+10,Swift,9,0,42
+6,Objective-C,7,0,34
+1,NAnt script,7,0,31
+4,Objective-C++,9,0,29
+1,Verilog-SystemVerilog,4,0,28
+2,TypeScript,0,0,24
+3,Visualforce Page,0,0,24
+1,TeX,0,0,20
+7,Windows Resource File,3,0,19
+8,Windows Module Definition,0,0,17
+3,Protocol Buffers,6,0,16
+2,lex,3,0,13
+2,MATLAB,2,0,9
+1,yacc,2,0,9
+3,Vala Header,0,0,6
+1,LLVM IR,0,0,4
+6251,SUM,165306,223969,927289
