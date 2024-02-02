@@ -23,6 +23,8 @@ jobs:
         with:
           # fetch all history so commit time of arch.txt is correct
           fetch-depth: 0
+          # checkout to latest commit
+          ref: ${{ github.ref }}
       - name: Collect stat
         run: |
           if [ -e "arch.txt" ]; then
