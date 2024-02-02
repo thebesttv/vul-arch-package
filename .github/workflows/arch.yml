@@ -10,7 +10,7 @@ on:
 
 concurrency:
   group: arch
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   all-packages:
