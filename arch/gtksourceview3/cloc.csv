@@ -1,0 +1,55 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.64 s (817.9 files/s 601273.3 lines/s)"
+83,PO File,52092,114092,76270
+89,C,11735,12205,47490
+169,XML,4216,3840,43566
+72,C/C++ Header,1393,1855,3939
+23,make,228,110,1245
+2,Text,54,0,1089
+3,Qt,6,21,813
+7,Python,216,109,727
+1,Glade,0,1,598
+1,SCSS,137,157,524
+21,Bourne Shell,118,259,473
+1,LESS,158,177,458
+3,m4,59,20,311
+3,Perl,92,103,309
+1,CSS,68,86,217
+1,XSLT,26,2,210
+2,MSBuild script,0,0,195
+2,Visual Studio Solution,2,2,86
+2,DTD,15,22,51
+1,yacc,12,1,45
+1,Rust,13,1,42
+1,Groovy,17,3,35
+1,TOML,10,2,35
+1,CUDA,7,4,29
+1,Ruby,6,6,27
+1,CMake,8,6,25
+1,xBase,2,1,25
+1,Verilog-SystemVerilog,13,11,22
+1,COBOL,5,0,20
+1,Objective-C,2,0,19
+1,ASP,2,0,16
+1,HTML,0,1,16
+1,JavaScript,4,7,16
+1,Fortran 77,1,10,14
+1,HLSL,3,0,14
+2,TeX,0,1,13
+1,Haxe,3,5,12
+1,JSON,0,0,12
+1,reStructuredText,11,8,12
+1,LLVM IR,3,4,11
+1,INI,0,1,10
+1,Meson,0,0,10
+1,C++,1,0,7
+1,Forth,0,1,7
+1,Go,0,2,7
+1,F#,1,1,6
+1,Markdown,2,0,6
+1,CSV,0,0,4
+1,Pig Latin,4,3,4
+1,diff,2,6,4
+1,ANTLR Grammar,0,0,3
+1,OCaml,5,5,3
+1,Prolog,0,0,3
+521,SUM,70752,133151,179105
