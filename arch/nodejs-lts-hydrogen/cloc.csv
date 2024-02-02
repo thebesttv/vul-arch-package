@@ -1,0 +1,56 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=37.53 s (472.3 files/s 204165.1 lines/s)"
+352,Perl,29274,25391,1761182
+1836,C++,156740,161446,1093864
+7425,JavaScript,98075,123316,821799
+323,Assembly,49640,10191,572609
+3213,C/C++ Header,116156,245505,535384
+1625,C,81753,75497,533659
+655,HTML,17028,658,259943
+494,JSON,13,0,243836
+471,Markdown,54599,17144,180494
+662,Python,19383,26367,177781
+112,Bourne Shell,8673,8208,43242
+82,Text,728,0,34891
+36,m4,2712,1450,22405
+161,TypeScript,1185,1773,10541
+9,Starlark,318,574,5279
+5,Rust,15,11,4072
+12,IDL,757,0,4023
+23,make,555,376,2801
+8,CSS,413,9,2186
+21,CMake,480,480,2174
+15,diff,137,659,1887
+30,DOS Batch,149,56,1147
+43,YAML,51,55,857
+4,XHTML,101,36,834
+3,D,100,292,698
+2,Fortran 90,86,268,641
+12,XML,8,23,403
+1,WiX source,54,7,367
+16,PowerShell,22,78,362
+5,R,55,52,272
+2,Lisp,42,38,258
+1,Scheme,13,51,222
+4,Windows Resource File,49,94,209
+1,C#,55,9,186
+6,Bourne Again Shell,45,38,178
+20,WebAssembly,22,14,167
+3,SVG,1,9,152
+3,vim script,28,30,147
+4,WiX string localization,45,12,103
+3,TOML,12,0,99
+3,Windows Module Definition,1,7,97
+1,MSBuild script,0,0,93
+2,reStructuredText,22,13,59
+1,Bazel,15,3,55
+1,Visual Studio Solution,1,1,44
+3,INI,10,1,39
+1,Fish Shell,5,14,21
+1,awk,1,8,18
+1,CoffeeScript,7,8,14
+1,Ruby,4,6,14
+2,Dockerfile,3,0,11
+1,JSX,1,0,11
+2,Linker Script,0,0,6
+1,sed,0,0,6
+17724,SUM,639642,700278,6321842
