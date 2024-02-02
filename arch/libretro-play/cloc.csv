@@ -1,0 +1,47 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=3.64 s (1095.4 files/s 338433.9 lines/s)"
+335,C,45688,97620,306338
+1005,C++,36789,12517,218527
+1500,C/C++ Header,38828,51330,207774
+25,JSON,2,0,33004
+205,XML,1057,127,32781
+109,Objective-C,3030,2248,18085
+26,MSBuild script,2,0,15282
+69,Markdown,2870,3,9276
+60,Text,3371,0,9077
+26,Assembly,2763,2705,8342
+133,Bourne Shell,1315,1501,6413
+8,HTML,533,33,6393
+43,Java,815,120,5898
+90,CMake,858,657,5867
+38,C#,930,1243,5602
+58,make,1000,710,4615
+19,Qt,4,0,3423
+15,Python,566,494,3235
+36,YAML,340,328,3007
+12,Ada,710,666,2028
+8,Pascal,337,971,1946
+18,Objective-C++,276,22,1789
+22,Visual Studio Solution,18,20,1633
+1,CSV,0,0,1480
+33,Windows Resource File,266,137,1137
+14,TypeScript,72,10,619
+10,Windows Module Definition,39,31,539
+7,Meson,97,123,499
+4,Perl,103,92,351
+3,XSLT,28,27,280
+5,CSS,47,17,245
+26,DOS Batch,55,19,218
+4,Gradle,24,0,164
+2,Lua,14,3,69
+2,Swift,4,14,67
+2,Ant,4,0,65
+2,m4,10,0,54
+2,NAnt script,14,0,52
+1,Ruby,8,0,40
+2,JavaScript,5,10,39
+1,SAS,14,22,32
+2,SVG,0,0,22
+2,XAML,2,0,19
+2,Dockerfile,6,6,17
+4,Properties,1,8,15
+3991,SUM,142915,173834,916358
