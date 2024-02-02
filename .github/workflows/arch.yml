@@ -44,7 +44,6 @@ jobs:
           python -u arch-all.py
           rm -fv log
       - name: Commit all results
-        if: env.TBT_UPDATE_PACKAGE == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
       - name: Generate random seed
         id: seed
