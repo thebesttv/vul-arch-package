@@ -34,39 +34,9 @@ def get_all_packages(arch_txt):
     return packages
 
 def get_existing_packages(all_packages, pkg_root_dir):
-    packages = {}
+    packages = set()
     for name in os.listdir(pkg_root_dir):
-        pkg_dir = os.path.join(pkg_root_dir, name)
-        version_file = os.path.join(pkg_dir, 'version')
-
-        # non-existent package
-        if name not in all_packages:
-            logger.warning(f'Package {name} is not in all packages! removed')
-            shutil.rmtree(pkg_dir)
-            continue
-
-        # has no version file
-        if not os.path.isfile(version_file):
-            logger.warning(f'Package {name} does not have a version file! removed')
-            shutil.rmtree(pkg_dir)
-            continue
-
-        with open(version_file, 'r') as f:
-            version = f.read().strip()
-
-        # wrong version
-        target_version = all_packages[name]
-        if version != target_version:
-            logger.warning(f"Package {name} has inconsistent version! " +
-                           f"Global is '{target_version}' while local is '{version}'. " +
-                           f"removed")
-            shutil.rmtree(pkg_dir)
-            continue
-
-        # existing package & correct version
-        logger.debug(f'Existing: {name} {version}')
-        packages[name] = version
-
+        packages.add(name)
     return packages
 
 def write_env_var(name, value):
