@@ -1,0 +1,23 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.12 s (1049.4 files/s 307416.4 lines/s)"
+18,C,2483,652,13471
+35,Softbridge Basic,993,4289,5075
+4,Ada,86,69,837
+1,make,119,19,604
+5,Go,81,10,498
+7,Python,72,78,497
+6,Rust,59,42,491
+6,C/C++ Header,121,92,475
+4,C#,142,308,468
+4,Perl,85,53,416
+2,Pascal,95,9,404
+4,Java,58,52,383
+13,Bourne Shell,85,249,360
+2,JavaScript,32,10,358
+2,reStructuredText,62,0,191
+1,YAML,2,10,99
+2,Markdown,46,0,83
+1,Text,4,0,59
+2,diff,17,37,44
+1,TOML,1,0,6
+1,XML,0,0,6
+121,SUM,4643,5979,24825
