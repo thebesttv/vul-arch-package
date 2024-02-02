@@ -1,0 +1,11 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.13 s (1843.5 files/s 311670.9 lines/s)"
+17,C,93,43,13006
+92,C++,2445,1770,10642
+116,C/C++ Header,2089,2693,6993
+1,Objective-C,75,17,432
+3,Markdown,95,0,328
+2,CMake,51,22,131
+5,Meson,11,1,65
+3,make,17,25,20
+4,Bourne Shell,6,2,10
+243,SUM,4882,4573,31627
