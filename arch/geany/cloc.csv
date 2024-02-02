@@ -1,0 +1,67 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=2.54 s (408.4 files/s 283200.2 lines/s)"
+48,PO File,69066,82677,161018
+219,C,26305,20221,141768
+125,C++,6893,7317,63100
+16,Bourne Shell,5816,5900,35071
+237,C/C++ Header,4798,6222,22549
+34,m4,1466,537,13334
+1,Glade,0,5,10189
+5,HTML,121,14,7409
+4,Text,1628,0,4494
+5,TeX,765,25,2954
+5,SVG,5,5,2629
+23,make,172,60,1545
+39,C#,170,139,1232
+32,JavaScript,274,379,1021
+20,Python,137,117,559
+7,VHDL,75,80,558
+17,SQL,93,95,523
+31,Fortran 90,179,222,522
+14,Fortran 77,28,309,398
+14,PHP,168,61,395
+13,CSS,67,21,294
+1,Julia,123,169,208
+8,Ada,57,52,201
+2,Rust,46,6,183
+2,diff,8,39,167
+6,Perl,51,69,160
+4,Objective-C++,44,10,154
+10,Ruby,25,15,152
+1,TypeScript,35,47,149
+3,GDScript,60,26,143
+4,D,38,5,133
+6,COBOL,15,2,132
+5,Assembly,45,60,131
+11,Java,23,5,130
+9,Verilog-SystemVerilog,26,99,126
+7,ActionScript,10,5,104
+3,Go,27,3,97
+3,Markdown,42,0,96
+3,XML,15,15,88
+3,Vala,23,5,79
+2,Lua,15,3,77
+2,Tcl/Tk,24,24,77
+3,Erlang,33,47,73
+3,Pascal,22,20,69
+2,Fortran 95,24,13,68
+1,PowerShell,25,19,68
+2,AsciiDoc,30,1,61
+2,Lisp,14,1,58
+2,JSON,0,0,50
+1,Forth,8,0,49
+2,MATLAB,9,56,43
+1,GLSL,12,1,39
+2,Cython,13,8,36
+1,Windows Resource File,5,2,31
+1,R,8,26,28
+1,CMake,8,23,27
+1,reStructuredText,15,0,24
+1,YAML,9,22,20
+1,Haxe,4,0,19
+1,DOS Batch,4,8,18
+2,sed,0,0,16
+1,Visual Basic,7,0,15
+1,Clojure,5,0,10
+1,Haskell,2,0,6
+1,Korn Shell,2,0,5
+1038,SUM,119237,125312,475182
