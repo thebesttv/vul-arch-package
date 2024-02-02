@@ -1,0 +1,42 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=13.80 s (1555.1 files/s 246885.4 lines/s)"
+834,C,99407,70346,1129169
+19036,PHP,124032,59575,1062242
+809,C/C++ Header,31031,23693,289100
+93,Text,57,0,275612
+21,Bourne Shell,26451,5230,79508
+9,INI,6051,315,21641
+91,m4,2532,1199,17328
+93,Web Services Description,581,193,12964
+8,Lua,784,944,7225
+21,C++,1180,546,5001
+109,Pascal,1052,4425,4377
+7,ReasonML,855,1366,4365
+31,Markdown,1176,0,3673
+2,JavaScript,658,293,3111
+3,lex,684,379,2996
+34,YAML,121,42,2476
+4,yacc,355,126,2345
+49,XML,142,37,2326
+5,diff,192,1197,2083
+44,Assembly,597,2942,1938
+5,Windows Module Definition,1,6,1836
+10,XSD,30,17,860
+1,ANTLR Grammar,67,45,808
+16,GLSL,71,0,327
+10,DOS Batch,61,20,274
+1,make,45,17,207
+12,XSLT,16,17,160
+4,awk,16,9,149
+3,D,11,37,145
+56,JSON,6,0,133
+2,Bourne Again Shell,23,2,127
+9,PO File,5,12,78
+1,Windows Resource File,10,2,74
+5,DTD,11,0,46
+7,CSV,0,0,37
+2,reStructuredText,8,0,28
+1,NAnt script,8,0,26
+1,Windows Message File,3,0,24
+5,HTML,0,0,20
+1,Dockerfile,1,4,10
+21455,SUM,298331,173036,2934849
