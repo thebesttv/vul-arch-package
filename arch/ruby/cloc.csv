@@ -1,0 +1,46 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=7.74 s (1335.1 files/s 324530.3 lines/s)"
+8362,Ruby,147626,86095,942831
+735,C,110584,93027,740087
+438,C/C++ Header,7627,13810,93517
+30,Bourne Shell,10113,7047,57387
+58,yacc,5157,1628,47832
+18,make,470,101,16912
+54,m4,1477,190,15956
+56,Assembly,3735,6408,11715
+13,Pascal,2294,11797,11224
+32,XML,5,16,10295
+95,Markdown,3920,4,10078
+1,TeX,751,3231,6097
+7,MSBuild script,1,0,4509
+77,Text,1965,0,4419
+152,YAML,232,102,2754
+9,Windows Module Definition,212,18,2018
+10,Ada,599,560,1681
+11,C++,362,204,1508
+31,ERB,83,1,1331
+43,JSON,5,0,1223
+9,C#,230,506,879
+9,Python,173,32,838
+6,Visual Studio Solution,5,5,645
+2,CSS,118,136,552
+2,HTML,5,1,549
+5,Expect,110,161,514
+22,Ruby HTML,64,1,487
+7,DOS Batch,11,4,428
+4,JavaScript,79,67,382
+8,Perl,40,14,167
+1,CMake,27,31,155
+3,Windows Resource File,5,3,96
+2,sed,0,7,95
+2,Lisp,16,28,89
+1,diff,25,96,70
+6,Bourne Again Shell,12,14,44
+2,awk,2,0,36
+1,D,55,134,34
+1,SAS,14,22,32
+6,Scheme,10,0,31
+1,NAnt script,7,0,26
+1,INI,8,0,22
+6,CSV,0,0,17
+1,zsh,3,18,17
+10340,SUM,298237,225519,1989579
