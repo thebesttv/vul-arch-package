@@ -1,0 +1,27 @@
+name: Collect Arch Pkg Stat
+
+on:
+  workflow_dispatch:
+
+jobs:
+  Collect-stat:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Collect stat
+        uses: docker://archlinux:latest
+        env:
+          RANDOM_SSH_SECRET_KEY: ${{ secrets.RANDOM_SSH_SECRET_KEY }}
+        with:
+          entrypoint: /usr/bin/bash
+          args: go.sh
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cloc.db
+          path: cloc.db
+      # - name: Setup tmate session
+      #   uses: mxschmitt/action-tmate@v3

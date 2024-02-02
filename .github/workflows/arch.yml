@@ -1,0 +1,133 @@
+name: Arch packages
+
+on:
+  schedule:
+    - cron: '33 18 * * *'       # UTC 18:33 => UTC+8 2:33
+  push:
+    branches:
+      - '*'                     # run on all branches
+  workflow_dispatch:
+
+concurrency:
+  group: arch
+  cancel-in-progress: true
+
+jobs:
+  all-packages:
+    runs-on: ubuntu-latest
+    outputs:
+      seed: ${{ steps.seed.outputs.RANDOM_SEED }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # fetch all history so commit time of arch.txt is correct
+          fetch-depth: 0
+      - name: Collect stat
+        run: |
+          if [ -e "arch.txt" ]; then
+              commit_time=$(git log -1 --pretty="format:%ct" arch.txt)
+              current_time=$(date +"%s")
+              interval=$((12 * 60 * 60))
+
+              difference=$((current_time - commit_time))
+
+              echo "Commit time:  $commit_time"
+              echo "Current time: $current_time"
+              echo "Difference:   $difference"
+
+              if [ "$difference" -lt "$interval" ]; then
+                  echo "Less than 12 hours has passed, skipping ..."
+                  exit 0
+              fi
+          fi
+          python -u arch-all.py
+          rm -fv log
+      - name: Commit all results
+        if: env.TBT_UPDATE_PACKAGE == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Generate random seed
+        id: seed
+        run: |
+          echo "RANDOM_SEED=$(od -An -N2 -i /dev/urandom | tr -d ' ')" >> $GITHUB_OUTPUT
+
+  single-package:
+    needs: all-packages
+    runs-on: ubuntu-latest
+    env:
+      RANDOM_SEED: ${{ needs.all-packages.outputs.seed }}
+    strategy:
+      fail-fast: false
+      matrix:
+        id: [0, 1, 2, 3, 4, 5, 6, 7]
+        # id: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119]
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # checkout to latest commit
+          ref: ${{ github.ref }}
+      - name: Get one package to process
+        run: |
+          python arch-single.py
+        env:
+          JOB_ID: ${{ matrix.id }}
+      - name: Print inter result
+        run: |
+          echo $TBT_UPDATE_PACKAGE
+          echo $TBT_PACKAGE_NAME
+          echo $TBT_PACKAGE_VERSION
+      - name: Remove log
+        run: |
+          rm -fv log
+      - name: Docker
+        if: env.TBT_UPDATE_PACKAGE == 'true'
+        uses: docker://archlinux:latest
+        env:
+          RANDOM_SSH_SECRET_KEY: ${{ secrets.RANDOM_SSH_SECRET_KEY }}
+        with:
+          entrypoint: /usr/bin/bash
+          args: docker/go.sh
+      - name: Commit all results
+        if: env.TBT_UPDATE_PACKAGE == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          create_branch: true
+          branch: job-${{ matrix.id }}
+
+  merge-results:
+    needs: single-package
+    # run this job even if some single-package jobs fail
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+      with:
+        # fetch all branches
+        fetch-depth: 0
+        # use a custom token, so that this action can trigger itself
+        token: ${{ secrets.COMMIT_PAT }}
+        # checkout to latest commit
+        ref: ${{ github.ref }}
+    - name: Show info
+      run: |
+        git branch -r
+    - name: Merge, rebase, and delete branches
+      run: |
+        git config user.name 'github-actions[bot]'
+        git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+        # collect all job branches
+        mapfile -t branches < <(git branch -r --no-color | grep job | sed 's/.*origin\///')
+        # rebase & fast forward
+        for branch in "${branches[@]}"; do
+            branch=origin/$branch
+            echo $branch
+            git rebase --quiet $branch
+            git merge --ff-only $branch
+        done
+        # push result
+        git push
+        # delete remote branches
+        git push origin --delete "${branches[@]}"
