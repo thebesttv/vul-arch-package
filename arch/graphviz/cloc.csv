@@ -1,0 +1,48 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=1.18 s (1360.8 files/s 285964.8 lines/s)"
+426,C,16999,16079,137283
+92,SVG,0,894,23003
+141,XML,231,237,21866
+300,C/C++ Header,3261,4717,14321
+104,C++,2247,1438,12148
+3,Glade,646,0,10510
+27,TeX,856,85,7866
+32,Python,1266,1537,4942
+116,make,982,288,4696
+11,m4,560,203,4281
+88,CMake,614,266,4160
+50,Bourne Shell,507,506,3310
+5,yacc,431,164,3084
+24,Tcl/Tk,263,224,2799
+4,Markdown,434,0,2498
+27,HTML,192,0,2020
+19,C#,285,398,1846
+17,Text,312,0,1653
+2,YAML,82,82,1137
+6,Delphi Form,0,4368,1057
+11,Visual Basic,250,444,1056
+12,Objective-C,221,153,957
+2,Qt,0,0,940
+4,MSBuild script,0,7,729
+7,Visual Studio Solution,6,7,729
+19,Java,207,364,560
+1,JSON,0,0,422
+1,XSLT,73,14,380
+6,Dockerfile,14,183,330
+2,lex,55,61,308
+3,DOS Batch,34,59,262
+5,Perl,40,60,213
+14,diff,38,225,188
+5,awk,7,9,145
+1,Pascal,0,0,138
+1,SWIG,42,70,133
+1,C# Generated,15,23,74
+2,PowerShell,22,18,71
+2,PHP,13,5,64
+3,Ruby,16,4,62
+2,Lua,15,7,57
+1,Bourne Again Shell,5,5,47
+1,INI,6,0,31
+1,Korn Shell,4,0,23
+1,Go,0,0,5
+1,sed,0,0,1
+1603,SUM,31251,33204,272405
