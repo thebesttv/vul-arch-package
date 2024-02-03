@@ -99,7 +99,7 @@ jobs:
           echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> $GITHUB_OUTPUT
           echo 'EOF' >> $GITHUB_OUTPUT
       - name: Commit all results
-        if: env.TBT_UPDATE_PACKAGE == 'true'
+        if: env.TBT_UPDATE_PACKAGE == 'true' || failure()
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           create_branch: true
