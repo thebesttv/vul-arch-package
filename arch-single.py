@@ -69,7 +69,7 @@ if __name__ == "__main__":
     # remove ignored packages
     for name, version in ignored_packages.items():
         if name in all_packages and version == all_packages[name]:
-            logger.info(f'Ignoring: {name} {version}')
+            logger.debug(f'Ignoring: {name} {version}')
             del all_packages[name]
 
     missing_packages = [pkg for pkg in all_packages if pkg not in existing_packages]
