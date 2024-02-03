@@ -1302,7 +1302,7 @@ dsq 0.23.0-2
 dssi 1.1.1-12
 dtc 1.7.0-4
 dtk6core 6.0.4-3
-dtk6declarative 6.0.5-1
+dtk6declarative 6.0.6-1
 dtk6gui 1:6.0.4-1
 dtk6widget 6.0.4-1
 dtkcommon 5.6.21-1
@@ -1729,6 +1729,7 @@ freewheeling 0.6.6-4
 frei0r-plugins 2.3.2-2
 frescobaldi 3.3.0-2
 fribidi 1.0.13-2
+fricas 1.3.10-2
 frogatto 4.0.2-1
 frogatto-data 1.3.1-5
 frotz 2.54-1
@@ -3489,7 +3490,7 @@ hipfft 5.7.1-1
 hipify-clang 6.0.0-1
 hiprand 6.0.0-1
 hipsolver 5.7.1-1
-hipsparse 6.0.0-1
+hipsparse 5.7.1-1
 hiredis 1.2.0-2
 hitch 1.7.3-2
 hitori 44.0-1
@@ -3515,7 +3516,7 @@ hping 3.0.0-5
 hplip 1:3.23.12-2
 hq 3.1-2
 hsa-amd-aqlprofile-bin 6.0.0-1
-hsa-rocr 5.7.1-1
+hsa-rocr 6.0.0-2
 hsakmt-roct 6.0.0-1
 hsetroot 1.0.5-1
 hslua-cli 1.4.1-35
@@ -3781,7 +3782,7 @@ jenv 0.5.6-1
 jetring 0.30-1
 jfsutils 1.1.15-8
 jgmenu 4.4.1-1
-jhead 3.06.0.1-1
+jhead 3.08-1
 jitterentropy 3.4.1-1
 jlatexmath 1.0.7-2
 jless 0.9.0-1
@@ -3840,7 +3841,7 @@ just 1.23.0-1
 jwt-cli 6.0.0-1
 jxrlib 0.2.4-2
 jython 2.7.3-2
-k3b 1:24.01.95-1
+k3b 1:23.08.4-2
 k9s 0.31.5-1
 kaccounts-integration 23.08.4-1
 kaccounts-providers 24.01.95-1
@@ -3856,7 +3857,7 @@ kak-lsp 15.0.1-1
 kakasi 2.3.6-3
 kakoune 2023.07.29-1
 kalarm 23.08.4-1
-kalgebra 23.08.4-1
+kalgebra 24.01.95-1
 kalk 23.08.4-1
 kalzium 24.01.95-1
 kamene 0.32-5
@@ -3883,13 +3884,13 @@ kblocks 23.08.4-1
 kbookmarks 5.249.0-1
 kbookmarks5 5.114.0-1
 kbounce 23.08.4-1
-kbreakout 23.08.4-1
-kbruch 24.01.95-1
+kbreakout 24.01.95-1
+kbruch 23.08.4-1
 kcachegrind 24.01.95-1
 kcalc 23.08.4-1
 kcalendarcore 5.249.0-1
 kcalendarcore5 5.114.0-1
-kcalutils 24.01.95-1
+kcalutils 23.08.4-1
 kcharselect 23.08.4-1
 kchmviewer 8.0-5
 kclock 23.08.4-1
@@ -3925,7 +3926,7 @@ kdbusaddons 5.249.0-1
 kdbusaddons5 5.114.0-1
 kde-applications-meta 24.02-2
 kde-cli-tools 5.27.10-1
-kde-dev-scripts 24.01.95-1
+kde-dev-scripts 23.08.4-1
 kde-dev-utils 23.08.4-1
 kde-development-environment-meta 20231120-1
 kde-gtk-config 5.93.0-1
@@ -4002,7 +4003,7 @@ kgeography 24.01.95-1
 kget 24.01.95-1
 kglobalaccel 5.249.0-1
 kglobalaccel5 5.114.0-2
-kglobalacceld 5.93.0-1
+kglobalacceld 5.93.0-2
 kgoldrunner 24.01.95-1
 kgpg 24.01.95-1
 kgraphviewer 2.4.3-5
@@ -4199,7 +4200,7 @@ kruler 24.01.95-1
 krunner 5.249.0-1
 krunner5 5.114.0-1
 krusader 2.8.0-2
-ksanecore 24.01.95-1
+ksanecore 24.01.95-2
 kscreen 5.93.0-1
 kscreenlocker 5.93.0-1
 kseexpr 4.0.4.0-1
@@ -4223,7 +4224,7 @@ ksysguard 5.22.0-2
 ksystemlog 24.01.95-1
 ksystemstats 5.93.0-1
 kteatime 24.01.95-1
-ktextaddons 1.5.3-2
+ktextaddons 1.5.3-3
 ktexteditor 5.249.0-1
 ktexteditor5 5.114.0-1
 ktexttemplate 5.249.0-1
@@ -4365,7 +4366,6 @@ lib32-duktape 2.7.0-6
 lib32-e2fsprogs 1.47.0-1
 lib32-expat 2.5.0-2
 lib32-fakeroot 1.33-1
-lib32-faudio 24.01-1
 lib32-flac 1.4.3-1
 lib32-flex 2.6.4-4
 lib32-fluidsynth 2.3.4-1
@@ -5004,7 +5004,7 @@ libpillowfight 0.3.0-8
 libpinyin 2.8.1-1
 libpipeline 1.5.7-1
 libplacebo 6.338.2-1
-libplasma 5.93.0-1
+libplasma 5.93.0-2
 libplist 2.3.0-2
 libpng 1.6.42-1
 libpng12 1.2.59-2
@@ -7430,7 +7430,7 @@ pulumi 3.104.2-1
 puppet 7.27.0-3
 purple-plugin-pack 2.8.0-1
 purple-skypeweb 1.7-4
-purpose 5.249.0-1
+purpose 5.249.0-2
 purpose5 5.114.0-2
 putty 0.80-1
 puzzles 20230624-1
@@ -8227,7 +8227,7 @@ python-kikit 1.4.0-1
 python-kivy 2.2.1-1
 python-kiwisolver 1.4.5-1
 python-klein 23.12.0-1
-python-kombu 5.3.2-1
+python-kombu 5.3.5-1
 python-krb5 0.5.1-1
 python-kubernetes 28.1.0-1
 python-langdetect 1.0.9-4
@@ -10206,7 +10206,7 @@ sage-data-elliptic_curves 0.8.1-2
 sage-data-graphs 20210214-1
 sage-data-polytopes_db 20170220-2
 sage-notebook-exporter 3.4-2
-sagemath 10.2-1
+sagemath 10.2-2
 sagemath-doc 10.2-1
 sagetex 3.6.1-4
 salt 3006.5-1
@@ -10647,7 +10647,7 @@ swappy 1.5.1-1
 sway 1:1.8.1-5
 swaybg 1.2.0-1
 swayidle 1.8.0-1
-swayimg 2.1-1
+swayimg 2.1-2
 swaylock 1.7.2-1
 sweeper 24.01.95-1
 sweethome3d 7.2-1
@@ -10910,7 +10910,7 @@ tracker3 3.6.0-3
 tracker3-miners 3.6.2-2
 traefik 2.10.5-1
 translate-shell 0.9.7.1-1
-translate-toolkit 3.12.1-1
+translate-toolkit 3.12.2-1
 transmageddon 1.5-10
 transmission 4.0.5-1
 transmission-remote-gtk 1.5.1-1
