@@ -1,0 +1,56 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=17.08 s (840.3 files/s 295188.3 lines/s)"
+4213,C,237033,197942,1499671
+6279,C/C++ Header,177900,309865,1135985
+1923,C++,89438,49566,541366
+439,Assembly,26729,18710,246801
+198,Text,8583,0,183922
+21,Qt Linguist,75,0,119179
+114,XML,59,167,26092
+170,Markdown,7366,59,23541
+199,Bourne Shell,4209,3251,22668
+157,CMake,2084,1913,13715
+84,Python,2031,1797,10617
+112,make,1783,1075,10346
+95,YAML,739,498,7858
+34,Qt,0,0,7167
+12,reStructuredText,2339,530,6937
+71,LESS,1178,1533,5538
+9,MSBuild script,0,0,4667
+8,JSON,0,0,2927
+7,HTML,315,4,2318
+6,Objective-C,442,219,2218
+11,CUDA,372,284,2035
+9,Visual Studio Solution,2,9,1742
+1,CSV,0,0,1480
+14,Meson,169,172,1439
+14,OpenCL,283,376,1395
+10,Perl,318,420,1345
+13,GLSL,128,109,521
+8,C#,97,38,489
+29,DOS Batch,71,40,474
+16,Windows Resource File,67,260,465
+2,m4,38,23,417
+1,XSD,49,4,356
+2,SVG,0,0,231
+4,Gradle,43,41,215
+4,JavaScript,13,19,206
+1,Metal,34,42,202
+2,Windows Module Definition,3,0,200
+4,CSS,37,25,159
+8,Starlark,13,7,159
+13,INI,16,6,135
+7,Java,39,32,135
+3,Lua,37,3,105
+1,Objective-C++,10,10,61
+8,Verilog-SystemVerilog,0,0,56
+1,awk,6,5,56
+1,Ruby,9,0,52
+2,PowerShell,5,3,28
+1,Swift,2,7,27
+1,Protocol Buffers,10,2,26
+3,Brainfuck,5,0,22
+1,Jam,5,9,20
+2,Dockerfile,6,6,17
+2,Properties,0,13,6
+1,ProGuard,3,18,0
+14351,SUM,564193,589112,3887809
