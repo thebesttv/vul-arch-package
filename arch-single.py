@@ -26,6 +26,9 @@ def get_tag_of_repo(repo_path):
         return ''
 
 def get_all_packages(arch_txt):
+    # if file not exist, return empty packages
+    if not os.path.isfile(arch_txt):
+        return {}
     packages = {}
     with open(arch_txt, 'r') as file:
         for line in file:
@@ -55,11 +58,19 @@ if __name__ == "__main__":
     logger.info(f'Root: {root}')
 
     arch_txt = os.path.join(root, 'arch.txt')
+    arch_ignore = os.path.join(root, 'arch.ignore')
     pkg_dir = os.path.join(root, 'arch')
     os.makedirs(pkg_dir, exist_ok=True)
 
     all_packages = get_all_packages(arch_txt)
+    ignored_packages = get_all_packages(arch_ignore)
     existing_packages = get_existing_packages(all_packages, pkg_dir)
+
+    # remove ignored packages
+    for name, version in ignored_packages.items():
+        if name in all_packages and version == all_packages[name]:
+            logger.info(f'Ignoring: {name} {version}')
+            del all_packages[name]
 
     missing_packages = [pkg for pkg in all_packages if pkg not in existing_packages]
 
