@@ -28,6 +28,9 @@ def get_all_packages(num_pages):
             epoch = pkg['epoch']
             if epoch != 0:
                 version = f'{epoch}:{version}'
+            repo = pkg['repo']
+            if repo not in ['core', 'extra', 'multilib']:
+                continue
             packages[name] = version
     return packages
 
