@@ -1,0 +1,36 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=11.87 s (566.3 files/s 249770.8 lines/s)"
+715,C,79473,101820,886999
+1700,C++,101670,50879,603465
+3021,C/C++ Header,122783,156073,581737
+195,XML,391,331,134822
+112,CMake,1634,1316,21045
+75,Objective-C++,5287,1722,19226
+325,SVG,38,72,15167
+31,Lua,1339,1631,13420
+85,Markdown,3462,11,10580
+19,HTML,454,65,7218
+38,Text,953,0,7082
+93,Python,1793,3065,6356
+51,YAML,435,211,3325
+56,make,745,1088,2878
+24,Java,769,446,2586
+38,Bourne Shell,354,382,1464
+47,JSON,4,0,932
+13,Meson,63,20,890
+13,Perl,152,48,834
+9,DOS Batch,129,2,824
+3,CSS,11,24,530
+13,Dockerfile,49,88,424
+9,Gradle,61,0,374
+15,Visual Studio Solution,15,15,270
+7,Windows Resource File,38,0,202
+1,Jupyter Notebook,0,640,160
+3,Bourne Again Shell,25,20,144
+3,R,35,71,121
+2,PowerShell,22,8,118
+2,TOML,7,2,55
+3,diff,11,33,43
+1,INI,2,0,16
+1,Windows Module Definition,1,0,3
+1,Properties,0,0,1
+6724,SUM,322205,320083,2323311
