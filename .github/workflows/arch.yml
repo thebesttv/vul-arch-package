@@ -91,6 +91,7 @@ jobs:
           args: docker/go.sh
       - name: Set commit message
         id: commit_message_step
+        if: success() || failure()
         run: |
           echo 'commit_message<<EOF' >> $GITHUB_OUTPUT
           echo "Auto commit from single-package (${{ matrix.id }})" >> $GITHUB_OUTPUT
