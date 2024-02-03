@@ -131,7 +131,7 @@ jobs:
         git config user.email 'github-actions[bot]@users.noreply.github.com'
 
         # collect all job branches
-        mapfile -t branches < <(git branch -r --no-color | grep job | sed 's/.*origin\///')
+        mapfile -t branches < <(git branch -r --no-color | grep job | sed 's/.*origin\///' | sort -t'-' -k2 -n)
         # rebase & fast forward
         for branch in "${branches[@]}"; do
             branch=origin/$branch
