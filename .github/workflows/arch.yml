@@ -136,8 +136,7 @@ jobs:
         for branch in "${branches[@]}"; do
             branch=origin/$branch
             echo $branch
-            git rebase --quiet $branch
-            if [ $? -ne 0 ]; then
+            git rebase --quiet $branch || {
                 echo "Error while trying to rebase"
 
                 echo "Original arch.ignore:"
@@ -149,7 +148,7 @@ jobs:
 
                 git add arch.ignore
                 git -c core.editor=true rebase --continue
-            fi
+            }
             git merge --ff-only $branch
         done
         # push result
