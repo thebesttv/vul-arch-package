@@ -1,0 +1,49 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=4.03 s (1196.9 files/s 291532.3 lines/s)"
+1593,C++,76411,82388,327664
+1599,C/C++ Header,44223,66301,156242
+4,COBOL,0,0,63994
+66,XML,92,26,62117
+97,JSON,38,0,39997
+4,Logos,61,0,34748
+12,m4,58,60,29755
+2,Expect,3696,0,22253
+40,C,3397,3652,18639
+518,CMake,4057,5628,18386
+264,QML,3160,1179,17872
+44,Markdown,4192,0,14160
+55,Python,3318,5950,8614
+184,GLSL,1565,856,5544
+79,Text,901,0,4731
+6,HTML,45,27,4038
+8,Assembly,1033,1471,2755
+42,Java,1602,5930,2303
+10,Ada,599,560,1681
+16,Pascal,332,153,1455
+7,diff,72,281,1305
+9,C#,230,506,879
+2,SVG,1,2,826
+16,D,531,3714,786
+4,Objective-C++,248,124,670
+3,MSBuild script,1,0,545
+5,IDL,87,0,499
+5,Windows Resource File,93,94,484
+5,make,87,87,335
+35,Rust,48,74,324
+28,SWIG,80,19,294
+10,Bourne Shell,57,137,293
+2,Windows Module Definition,14,14,219
+5,JavaScript,21,81,207
+6,Objective-C,83,42,193
+8,DOS Batch,79,80,170
+14,Qt Project,54,0,145
+7,YAML,7,98,112
+1,Ant,8,0,46
+1,reStructuredText,34,15,44
+2,Visual Studio Solution,2,2,36
+1,CSV,0,0,32
+3,INI,6,0,32
+2,HLSL,6,0,26
+1,NAnt script,7,0,26
+1,Dockerfile,6,1,18
+1,TOML,2,1,6
+4827,SUM,150644,179553,845500
