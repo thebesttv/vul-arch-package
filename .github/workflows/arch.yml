@@ -136,6 +136,19 @@ jobs:
             branch=origin/$branch
             echo $branch
             git rebase --quiet $branch
+            if [ $? -ne 0 ]; then
+                echo "Error while trying to rebase"
+
+                echo "Original arch.ignore:"
+                cat arch.ignore
+
+                sed -i '/^<<<<<<<\|^=======\|^>>>>>>>/d' arch.ignore
+                echo "Merged all packages to arch.ignore:"
+                cat arch.ignore
+
+                git add arch.ignore
+                git -c core.editor=true rebase --continue
+            fi
             git merge --ff-only $branch
         done
         # push result
