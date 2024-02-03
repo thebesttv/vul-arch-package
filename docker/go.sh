@@ -51,3 +51,10 @@ mkdir -p $TMP_DIR && cd $TMP_DIR && \
     mkdir -p $RESULT_DIR && \
     echo $TBT_PACKAGE_VERSION > $RESULT_DIR/version && \
     mv cloc.csv $RESULT_DIR/
+
+if [ $? -ne 0 ]; then
+    echo "There were errors!"
+    cd /github/workspace
+    echo "$TBT_PACKAGE_NAME $TBT_PACKAGE_VERSION" >>arch.ignore
+    exit 1
+fi
