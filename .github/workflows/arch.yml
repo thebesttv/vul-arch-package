@@ -136,14 +136,10 @@ jobs:
             branch=origin/$branch
             echo $branch
             git rebase --quiet $branch || {
-                echo "Error while trying to rebase"
-
-                echo "Original arch.ignore:"
-                cat arch.ignore
+                echo "Error while trying to rebase, fixing ..."
 
                 sed -i '/^<<<<<<<\|^=======\|^>>>>>>>/d' arch.ignore
-                echo "Merged all packages to arch.ignore:"
-                cat arch.ignore
+                echo "Merged all packages to arch.ignore"
 
                 git add arch.ignore
                 git -c core.editor=true rebase --continue
