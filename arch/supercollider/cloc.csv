@@ -1,0 +1,42 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=5.91 s (1216.5 files/s 321080.7 lines/s)"
+5063,C/C++ Header,142787,186652,735561
+1021,C++,61592,43542,303769
+33,Bourne Shell,13377,14153,82759
+473,Scheme,13584,21,81981
+130,C,12493,14486,57387
+20,m4,4039,441,35671
+9,Qt Linguist,63,0,23618
+64,Python,2722,3740,8394
+32,Markdown,2365,25,8271
+96,CMake,1197,1189,6049
+19,MSBuild script,0,0,5195
+38,Text,936,0,4344
+23,YAML,123,114,3191
+15,Lisp,515,653,2789
+32,make,317,227,2097
+4,XSLT,247,48,2044
+19,XML,33,27,1620
+18,HTML,98,26,1359
+5,Qt,0,0,1223
+6,Perl,143,115,1150
+4,CSS,146,59,1055
+7,JavaScript,136,28,916
+8,Objective-C++,228,196,858
+8,Java,143,504,677
+6,vim script,156,177,547
+11,Visual Studio Solution,6,6,330
+1,yacc,78,57,314
+2,QML,49,36,298
+2,JSON,0,0,157
+5,Windows Module Definition,9,8,157
+3,SVG,6,16,153
+5,Ruby,33,10,140
+1,lex,28,18,130
+1,diff,29,109,85
+3,Objective-C,31,26,83
+1,TeX,12,19,59
+3,DOS Batch,13,5,27
+1,TypeScript,0,0,23
+1,INI,2,0,11
+2,Windows Resource File,0,0,2
+7195,SUM,257736,266733,1374494
