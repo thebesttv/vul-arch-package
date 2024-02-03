@@ -1,0 +1,42 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=7.29 s (1164.5 files/s 328962.7 lines/s)"
+2883,C++,127455,105714,824010
+1212,C,88868,45781,488636
+3242,C/C++ Header,66236,107985,291120
+145,Assembly,10216,9664,57121
+219,Java,4389,6879,23481
+53,PO File,5900,7748,20744
+142,Objective-C++,3235,2161,16601
+72,Python,2994,5672,10843
+75,Bourne Shell,1207,1684,8475
+11,MSBuild script,0,14,6852
+66,make,715,605,5127
+73,Markdown,1865,3,4856
+3,CSV,0,0,4611
+22,CMake,254,193,4457
+76,Meson,482,75,3781
+34,Objective-C,730,627,3090
+10,Perl,831,483,2102
+37,XML,93,116,1739
+3,CSS,269,100,1067
+8,Protocol Buffers,323,457,895
+22,Text,85,0,793
+9,Arduino Sketch,32,89,724
+7,MATLAB,134,153,607
+5,YAML,37,37,512
+10,C#,123,315,469
+2,DOS Batch,41,66,393
+5,Visual Studio Solution,5,5,358
+2,JavaScript,36,73,286
+4,GLSL,48,48,180
+10,diff,35,173,146
+3,Windows Resource File,35,52,117
+3,JSON,0,0,105
+4,XAML,30,50,90
+1,Pascal,26,1,84
+5,reStructuredText,25,14,46
+1,Dockerfile,13,5,33
+2,INI,5,0,29
+5,Windows Module Definition,1,31,22
+1,Ant,17,59,16
+4,Properties,7,34,5
+8491,SUM,316797,297166,1784623
