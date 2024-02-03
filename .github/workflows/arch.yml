@@ -89,12 +89,21 @@ jobs:
         with:
           entrypoint: /usr/bin/bash
           args: docker/go.sh
+      - name: Set commit message
+        id: commit_message_step
+        run: |
+          echo 'commit_message<<EOF' >> $GITHUB_OUTPUT
+          echo "Auto commit from single-package (${{ matrix.id }})" >> $GITHUB_OUTPUT
+          echo >> $GITHUB_OUTPUT
+          echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> $GITHUB_OUTPUT
+          echo 'EOF' >> $GITHUB_OUTPUT
       - name: Commit all results
         if: env.TBT_UPDATE_PACKAGE == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           create_branch: true
           branch: job-${{ matrix.id }}
+          commit_message: ${{ steps.commit_message_step.outputs.commit_message }}
 
   merge-results:
     needs: single-package
