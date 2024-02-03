@@ -1,0 +1,103 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=0.44 s (1325.8 files/s 203427.3 lines/s)"
+56,YAML,232,189,19501
+62,Rust,1316,647,8996
+4,JavaScript,1976,1742,6879
+7,Python,1435,819,6801
+61,Markdown,2383,34,6741
+138,Text,360,0,4535
+24,Bourne Shell,218,291,1949
+6,XML,4,33,1583
+4,Ada,130,96,1068
+15,diff,27,320,801
+2,make,120,46,604
+4,C,87,65,575
+2,CoffeeScript,108,107,567
+2,Fortran 77,0,145,501
+2,reStructuredText,158,20,462
+4,Verilog-SystemVerilog,64,43,443
+2,XAML,40,53,435
+2,Swift,87,34,415
+4,SQL,120,75,353
+2,Solidity,104,306,342
+2,SVG,0,0,337
+2,QML,90,15,333
+3,Perl,104,63,321
+2,NAnt script,21,6,307
+2,JSP,20,68,306
+2,F#,66,14,284
+2,R,54,10,276
+2,Protocol Buffers,52,0,264
+4,Assembly,24,2,256
+4,TOML,29,8,247
+2,HTML,0,1,229
+2,AsciiDoc,110,8,228
+4,Dart,44,10,222
+4,TypeScript,62,8,220
+2,GraphQL,50,39,201
+2,Fortran 90,38,7,193
+2,Crystal,40,2,192
+5,Haskell,67,15,188
+2,CSS,46,6,178
+2,PHP,49,9,164
+2,Elm,102,9,163
+2,Zig,44,15,155
+4,TeX,51,1,152
+2,SCSS,20,0,144
+2,Scala,22,37,137
+2,vim script,42,6,136
+2,Fish Shell,12,7,135
+2,Kotlin,37,0,133
+5,Ruby,24,3,132
+2,Lisp,22,7,131
+2,C++,30,7,121
+2,PureScript,48,10,120
+2,Sass,32,0,120
+2,Erlang,20,6,118
+2,Go,20,26,116
+2,OCaml,52,0,114
+2,Puppet,10,11,109
+2,C#,20,0,108
+2,Objective-C++,28,0,108
+2,Svelte,24,0,106
+3,Vuejs Component,16,0,106
+2,ActionScript,30,17,103
+4,Nim,24,5,99
+2,Clojure,11,7,98
+2,Groovy,32,26,96
+2,Stylus,26,58,96
+2,SaltStack,20,1,93
+2,Julia,54,0,88
+5,DOS Batch,26,9,86
+2,HCL,14,0,82
+2,Racket,22,9,81
+3,CSV,0,0,74
+2,Pascal,13,1,70
+2,Java,4,6,68
+2,LESS,14,5,67
+2,GLSL,12,6,66
+2,Standard ML,28,0,66
+2,ASP,8,0,64
+2,D,6,19,63
+2,Lean,34,40,62
+3,JSON,0,0,61
+2,RobotFramework,4,3,55
+2,Jinja Template,0,7,53
+2,Lua,13,7,48
+2,awk,12,10,48
+2,LLVM IR,12,2,44
+2,Elixir,20,0,42
+2,WGSL,4,0,36
+2,Slim,6,0,34
+2,Haml,0,0,30
+2,INI,4,2,30
+2,Tcl/Tk,14,0,30
+1,Mathematica,5,0,27
+2,Nix,4,1,25
+2,Dockerfile,14,0,24
+2,CMake,8,1,23
+1,Objective-C,5,4,23
+1,PowerShell,3,0,22
+2,TNSDL,0,0,10
+3,Bourne Again Shell,0,0,6
+2,ReasonML,0,0,2
+588,SUM,11117,5747,73356
