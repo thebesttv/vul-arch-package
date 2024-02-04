@@ -132,6 +132,11 @@ jobs:
 
         # collect all job branches
         mapfile -t branches < <(git branch -r --no-color | grep job | sed 's/.*origin\///' | sort -t'-' -k2 -n)
+        if [ ${#branches[@]} -eq 0 ]; then
+            echo "No job branches, exiting ..."
+            exit 0
+        fi
+
         # rebase & fast forward
         for branch in "${branches[@]}"; do
             branch=origin/$branch
