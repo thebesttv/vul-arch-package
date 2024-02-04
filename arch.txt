@@ -199,7 +199,7 @@ ardour 8.2-2
 arduino 1:1.8.19-2
 arduino-avr-core 1.8.3-2
 arduino-builder 1.6.1-2
-arduino-cli 0.35.0-1
+arduino-cli 0.35.2-1
 arduino-ctags 5.8_arduino11-4
 arduino-docs 1.6.6-8
 arduino-language-server 0.7.5-1
@@ -532,7 +532,7 @@ budgie-backgrounds 2.0-1
 budgie-control-center 1.3.0-2
 budgie-desktop 10.9.1-1
 budgie-desktop-view 1.3-2
-budgie-extras 1.7.0-2
+budgie-extras 1.7.1-1
 budgie-screensaver 5.1.0-2
 budgie-session 0.9.1-1
 buf 1.28.1-1
@@ -603,7 +603,7 @@ capstone 4.0.2-7
 cardinal 23.10-1
 cargo-about 0.6.1-1
 cargo-asm 0.1.16-1
-cargo-audit 0.18.3-1
+cargo-audit 0.19.0-1
 cargo-auditable 0.6.1-2
 cargo-binstall 1.6.1-1
 cargo-bloat 0.11.1-2
@@ -786,7 +786,7 @@ clang 16.0.6-2
 clang14 14.0.6-1
 clang15 15.0.7-2
 clanlib 4.1.0-2
-clap 1.1.10-1
+clap 1.2.0-1
 clash 1.18.0-1
 clash-ghc 1.6.6-3
 claws-mail 4.2.0-1
@@ -882,7 +882,7 @@ container-diff 0.17.0-3
 containerd 1.7.13-1
 containers-common 1:0.57.2-2
 contractor 0.3.5-2
-converseen 0.12.0.1-1
+converseen 0.12.0.2-1
 convertlit 1.8-11
 convmv 2.05-3
 cool-retro-term 1.2.0-3
@@ -921,7 +921,7 @@ cppzmq 4.9.0-1
 cracklib 2.9.11-1
 crane 0.19.0-1
 crash 8.0.3-1
-crawl 0.30.1-1
+crawl 0.31.0-1
 cri-o 1.29.1-1
 cri-tools 1.29.0-1
 crimson-font 0.800-1
@@ -960,12 +960,12 @@ cuetools 1.4.1-5
 cuneiform 1.1.0-22
 cunit 2.1.3-3
 cups 1:2.4.7-2
-cups-browsed 2.0.0-1
+cups-browsed 2.0.0-2
 cups-filters 2.0.0-1
 cups-pdf 3.0.1-7
 cups-pk-helper 0.2.7-1
 curator 5.7.6-10
-curl 8.6.0-1
+curl 8.6.0-2
 curlftpfs 0.9.2-8
 curlie 1.7.2-1
 curtail 1.8.0-1
@@ -1085,8 +1085,8 @@ deepin-gtk-theme 2020.06.10-1
 deepin-icon-theme 2024.01.31-1
 deepin-image-editor 1.0.41-1
 deepin-image-viewer 5.9.13-3
-deepin-kwin 5.25.13-1
-deepin-launchpad 0.2.2-1
+deepin-kwin 5.25.14-1
+deepin-launchpad 0.3.0-1
 deepin-menu 5.0.1-14
 deepin-movie 1:5.10.34-1
 deepin-music 7.0.3-3
@@ -1298,7 +1298,7 @@ dssi 1.1.1-12
 dtc 1.7.0-4
 dtk6core 6.0.4-3
 dtk6declarative 6.0.6-1
-dtk6gui 1:6.0.4-1
+dtk6gui 1:6.0.5-1
 dtk6widget 6.0.4-1
 dtkcommon 5.6.21-1
 dtkcore 1:5.6.22-2
@@ -1747,7 +1747,7 @@ fuse-zip 0.7.2-3
 fuse2 2.9.9-4
 fuse3 3.16.2-1
 fuseiso 20070708-8
-fusesoc 1.12.0-3
+fusesoc 2.3-1
 futuresql 0.1.1-2
 fuzzel 1.9.2-1
 fvextra 1.4-3
@@ -1756,7 +1756,7 @@ fwknop 2.6.10-2
 fwupd 1.9.12-1
 fwupd-efi 1.4-1
 fx 31.0.0-1
-fzf 0.45.0-1
+fzf 0.46.1-1
 fzy 1.0-2
 g2reverb 0.7.1-6
 gajim 1.8.4-1
@@ -1848,7 +1848,7 @@ gif2png 3.0.3-1
 giflib 5.2.1-2
 gifsicle 1.94-1
 gifski 1.14.1-1
-gigedit 1.2.0-2
+gigedit 1.2.1-1
 giggle 0.7-11
 gimagereader 3.4.1-4
 gimp 2.10.36-4
@@ -2127,7 +2127,7 @@ gpsprune 23-1
 gptfdisk 1.0.9-2
 gputils 1.5.2-1
 gpx-viewer 0.4.0-4
-gpxsee 13.14-2
+gpxsee 13.15-1
 gqrx 2.17.3-2
 gradle 8.6-1
 gradle7 7.6.3-2
@@ -2310,7 +2310,7 @@ haskell-atomic-write 0.2.0.7-252
 haskell-attoparsec 0.14.4-69
 haskell-attoparsec-aeson 2.1.0.0-20
 haskell-attoparsec-iso8601 1.1.0.0-45
-haskell-authenticate 1.3.5.1-240
+haskell-authenticate 1.3.5.2-1
 haskell-authenticate-oauth 1.7-212
 haskell-auto-update 0.1.6-331
 haskell-aws 0.24-107
@@ -2359,7 +2359,7 @@ haskell-bsb-http-chunked 0.0.0.4-375
 haskell-bug 1.0.1-19
 haskell-butcher 1.3.3.2-331
 haskell-bv-sized 1.0.5-66
-haskell-byte-order 0.1.3.0-83
+haskell-byte-order 0.1.3.1-1
 haskell-byteable 0.1.1-25
 haskell-byteorder 1.0.4-24
 haskell-bytes 0.17.3-26
@@ -2652,7 +2652,7 @@ haskell-graphviz 2999.20.1.0-193
 haskell-gridtables 0.1.0.0-42
 haskell-groups 0.5.3-1
 haskell-gsasl 0.3.7-11
-haskell-gtk-sni-tray 0.1.8.1-146
+haskell-gtk-sni-tray 0.1.8.1-147
 haskell-gtk-strut 0.1.3.2-127
 haskell-gtk2hs-buildtools 0.13.8.3-49
 haskell-gtk3 0.15.7-62
@@ -2765,6 +2765,7 @@ haskell-hspec-wai-json 0.11.0-461
 haskell-hstringtemplate 0.8.8-42
 haskell-hsyaml 0.2.1.2-12
 haskell-hsyaml-aeson 0.2.0.1-162
+haskell-hsyslog 5.0.2-1
 haskell-htf 0.15.0.1-53
 haskell-html 1.0.1.2-25
 haskell-html-conduit 1.3.2.2-207
@@ -3188,7 +3189,7 @@ haskell-stateref 0.3-6
 haskell-statevar 1.2.2-2
 haskell-static-hash 0.0.2-39
 haskell-statistics 0.16.2.1-20
-haskell-status-notifier-item 0.3.1.0-115
+haskell-status-notifier-item 0.3.1.0-116
 haskell-stm-chans 3.0.0.9-1
 haskell-stm-containers 1.2.0.3-16
 haskell-stm-delay 0.1.1.1-12
@@ -3414,7 +3415,7 @@ haskell-xmlgen 0.6.2.2-74
 haskell-xss-sanitize 0.3.7.2-18
 haskell-yaml 0.11.11.2-33
 haskell-yesod 1.6.2.1-183
-haskell-yesod-auth 1.6.11.2-35
+haskell-yesod-auth 1.6.11.2-36
 haskell-yesod-core 1.6.25.1-16
 haskell-yesod-form 1.7.6-60
 haskell-yesod-persistent 1.6.0.8-248
@@ -3484,7 +3485,7 @@ hipify-clang 5.7.1-1
 hipsolver 5.7.1-1
 hipsparse 5.7.1-1
 hiredis 1.2.0-2
-hitch 1.7.3-2
+hitch 1.8.0-1
 hitori 44.0-1
 hivex 1.3.23-3
 hledger 1.32.1-15
@@ -3625,7 +3626,7 @@ imath 3.1.10-1
 img2pdf 0.5.1-1
 iml 1.0.5-3
 imlib 1.9.15-18
-imlib2 1.12.1-2
+imlib2 1.12.2-1
 immer 0.8.1-1
 impacket 0.9.24-4
 imv 4.4.0-4
@@ -3671,7 +3672,7 @@ intel-oneapi-tbb 2021.10.0-3
 intel-ucode 20231114-2
 intel-undervolt 1.7-2
 intellij-idea-community-edition 4:2023.3.3-1
-inter-font 3.19-3
+inter-font 4.0-1
 interception-caps2esc 0.3.2-2
 interception-dual-function-keys 1.5.0-4
 interception-tools 0.6.8-7
@@ -3689,7 +3690,7 @@ ipguard 1.04-8
 ipmitool 1.8.19-2
 ipp-usb 0.9.24-1
 iproute2 6.7.0-1
-ipset 7.19-1
+ipset 7.20-1
 iptables 1:1.8.10-1
 iptraf-ng 1.2.1-1
 iptstate 2.2.7-1
@@ -4284,7 +4285,7 @@ lib32-clang 16.0.6-1
 lib32-cmocka 1.1.7-1
 lib32-colord 1.4.7-1
 lib32-cracklib 2.9.11-1
-lib32-curl 8.6.0-1
+lib32-curl 8.6.0-2
 lib32-dbus 1.14.10-2
 lib32-dbus-glib 0.112-2
 lib32-dconf 0.40.0-3
@@ -4316,7 +4317,7 @@ lib32-gtk2 2.24.33-2
 lib32-gtk3 1:3.24.41-1
 lib32-harfbuzz 8.3.0-2
 lib32-icu 74.2-1
-lib32-imlib2 1.12.1-1
+lib32-imlib2 1.12.2-1
 lib32-jack2 1.9.22-1
 lib32-jansson 2.14-1
 lib32-json-c 0.17-1
@@ -4481,7 +4482,7 @@ lib32-sdl12-compat 1.2.68-1
 lib32-sdl2 2.28.5-1
 lib32-sdl2_image 2.8.2-1
 lib32-sdl2_mixer 2.6.3-1
-lib32-sdl2_ttf 2.20.2-1
+lib32-sdl2_ttf 2.22.0-1
 lib32-sdl_image 1.2.12-8
 lib32-sdl_mixer 1.2.12-5
 lib32-sdl_net 1.2.8-3
@@ -4685,7 +4686,7 @@ libgeotiff 1.7.1-2
 libgepub 0.7.1-1
 libgexiv2 0.14.2-1
 libgfshare 2.0.0-3
-libgig 4.3.0-4
+libgig 4.4.0-1
 libgit2 1:1.7.1-1
 libgit2-glib 1.2.0-1
 libglacierapp 0.9-1
@@ -4824,7 +4825,7 @@ libmediainfo 24.01-1
 libmemcached-awesome 1.1.4-2
 libmesode 0.10.1-2
 libmicrodns 0.2.0-1
-libmicrohttpd 0.9.77-1
+libmicrohttpd 1.0.0-1
 libmikmod 3.3.11.1-6
 libmilter 8.17.2-1
 libmirage 3.2.7-1
@@ -5065,7 +5066,7 @@ libssh 0.10.6-2
 libssh2 1.11.0-1
 libstaroffice 0.0.7-2
 libstatgrab 0.92.1-1
-libstrophe 1:0.12.3-1
+libstrophe 1:0.13.0-1
 libsvgtiny 0.1.8-1
 libsvm 3.32-1
 libsysstat 0.4.6-2
@@ -5222,7 +5223,7 @@ lightsoff 40.0.1-1
 lighttpd 1.4.73-1
 lilv 0.24.24-1
 lilypond 2.24.3-2
-limesuite 23.10.0-1
+limesuite 23.11.0-1
 limine 7.0.2-1
 linbox 1.7.0-1
 lincity-ng 2.0-10
@@ -5242,7 +5243,7 @@ linux-tools 6.7-1
 linux-zen 6.7.3.zen1-1
 linuxconsole 1.8.1-1
 linuxdoc-tools 0.9.83-1
-linuxsampler 2.2.0-3
+linuxsampler 2.3.0-2
 linuxwave 0.1.5-1
 liquid-dsp 1.6.0-1
 liquidctl 1.13.0-1
@@ -5276,7 +5277,7 @@ lm32-elf-newlib 4.1.0-1
 lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.31-1
 lmdbxx 1.0.0-2
-lmms 1.2.2-20
+lmms 1.2.2-21
 lnav 0.11.2-1
 lockdev 1.0.3_1.6-7
 lockfile-progs 0.1.19-3
@@ -5433,7 +5434,7 @@ lychee 0.14.2-1
 lynis 3.0.9-1
 lynx 2.8.9-7
 lz4 1:1.9.4-2
-lzip 1.23-2
+lzip 1.24-1
 lzlib 1.13-3
 lzo 2.10-5
 lzop 1.04-3
@@ -5596,7 +5597,7 @@ melange 0.3.2-1
 meld 3.22.0-2
 mellite 3.13.11-1
 memcached 1.6.21-1
-memray 1.11.1-1
+memray 1.11.1-2
 memtest86+ 7.00-1
 memtester 4.6.0-1
 menu-cache 1.1.0-4
@@ -5847,7 +5848,7 @@ nemo-theme-glacier 0.2.1-1
 neochat 23.08.4-2
 neofetch 7.1.0-2
 neomutt 20240201-1
-neon 0.32.5-2
+neon 0.33.0-1
 neovide 0.12.2-1
 neovim 0.9.5-2
 neovim-lsp_signature 0.2.0-3
@@ -5931,7 +5932,7 @@ nginx-mod-vts 0.2.2-1
 nginx-prometheus-exporter 0.11.0-1
 ngrep 1.47-4
 ngspice 42-1
-nheko 0.11.3-9
+nheko 0.11.3-10
 nickel 1.2.1-2
 nickle 2.90-1
 nicotine+ 3.3.0-1
@@ -6070,7 +6071,7 @@ ocaml-topkg 1.0.7-2
 ocaml-zarith 1.13-1
 ocamlbuild 0.14.3-1
 ocl-icd 2.3.2-1
-ocrad 0.28-2
+ocrad 0.29-1
 ocrdesktop 4.0-1
 ocrfeeder 0.8.5-2
 octave 8.4.0-2
@@ -7076,7 +7077,7 @@ pg-safeupdate 1.4-4
 pgbouncer 1.21.0-1
 pgcli 4.0.1-2
 pgformatter 5.5-1
-pgpdump 0.35-1
+pgpdump 0.36-1
 phoc 0.35.0-1
 phodav 3.0-2
 phonegap 9.0.0-2
@@ -7151,7 +7152,7 @@ planarity 3.0.2.0-1
 plank 0.11.89-4
 plank-player 5.27.10-1
 plantri 5.4-1
-plantuml 1.2023.12-1
+plantuml 1.2023.13-1
 plantuml-ascii-math 20171116-3
 plantuml-server 1.2023.10-1
 plasma-bigscreen 5.27.10-1
@@ -7200,7 +7201,7 @@ pnpm 8.15.1-1
 po4a 0.69-1
 pocl 4.0-2
 poco 1.12.5p1-1
-podman 4.9.1-1
+podman 4.9.2-1
 podman-compose 1.0.6-3
 podman-dnsname 1.3.1-2
 podofo 0.10.3-1
@@ -7488,7 +7489,7 @@ python-asttokens 2.4.1-1
 python-astunparse 1.6.3-7
 python-async-lru 2.0.4-1
 python-async-timeout 4.0.3-1
-python-asyncpg 0.27.0-4
+python-asyncpg 0.29.0-1
 python-asynctest 0.13.0-7
 python-atomicwrites 1.4.1-3
 python-atpublic 4.0-1
@@ -7506,7 +7507,7 @@ python-automat 22.10.0-3
 python-autopage 0.5.2-1
 python-awesomeversion 23.11.0-2
 python-awkward 1.10.2-2
-python-aws-sam-translator 1.83.0-1
+python-aws-sam-translator 1.84.0-1
 python-aws-xray-sdk 2.12.1-1
 python-awscrt 0.19.19-1
 python-axolotl 0.2.3-6
@@ -7515,7 +7516,7 @@ python-b2sdk 1.26.0-1
 python-babel 2.12.1-2
 python-babelfish 0.6.0-3
 python-barectf 3.1.1-3
-python-basemap 1.2.2-4
+python-basemap 1.4.0-1
 python-bcrypt 4.1.2-1
 python-beaker 1.12.0-3
 python-beautifulsoup4 4.12.2-1
@@ -7588,7 +7589,7 @@ python-cerberus 1.3.5-1
 python-certifi 2023.11.17-1
 python-cffi 1.16.0-1
 python-cfgv 3.4.0-1
-python-cfn-lint 0.84.0-1
+python-cfn-lint 0.85.0-1
 python-cftime 1.6.3-1
 python-chai 1.1.2-7
 python-chameleon 3.10.2-2
@@ -7633,7 +7634,7 @@ python-colorcet 3.0.1-3
 python-colorclass 2.2.2-2
 python-colored-traceback 0.3.0-4
 python-coloredlogs 15.0.1-4
-python-colorlog 6.7.0-2
+python-colorlog 6.8.2-1
 python-colour 0.1.5-11
 python-comm 0.2.1-1
 python-commentjson 0.9.0-6
@@ -7696,7 +7697,7 @@ python-darkdetect 0.8.0-2
 python-dask 2023.8.0-1
 python-database-cubic-hecke 2022.4.4-2
 python-database-knotinfo 2024.2.1-1
-python-databases 0.7.0-1
+python-databases 0.8.0-1
 python-dateutil 2.8.2-6
 python-datrie 0.8.2-3
 python-dbapi-compliance 1.15.0-3
@@ -7727,8 +7728,8 @@ python-dict2xml 1.7.4-1
 python-diff-cover 8.0.3-1
 python-diff-match-patch 20200713-6
 python-digitalocean 1.17.0-5
-python-dill 0.3.7-1
-python-dirty-equals 0.6.0-1
+python-dill 0.3.8-1
+python-dirty-equals 0.7.1.post0-1
 python-discid 1.2.0-8
 python-discogs-client 2.7-1
 python-dist-meta 0.8.0-1
@@ -7786,7 +7787,7 @@ python-easygui 0.98.3-1
 python-easyprocess 1.1-2
 python-ecdsa 0.18.0-2
 python-ecos 2.0.11-2
-python-edalize 0.5.0-2
+python-edalize 0.5.4-1
 python-editables 0.5-1
 python-editdistance 0.6.2-2
 python-editdistance-s 1.0.0-5
@@ -7797,7 +7798,7 @@ python-elementpath 4.1.5-1
 python-email-validator 2.1.0-1
 python-emoji 2.10.1-1
 python-empy 3.3.4-9
-python-engineio 4.8.0-2
+python-engineio 4.8.2-1
 python-enlighten 1.12.4-1
 python-enrich 1.2.7-5
 python-entrypoint2 1.1-3
@@ -7808,7 +7809,7 @@ python-etesync 0.12.1-4
 python-ethtool 0.15-4
 python-euclid3 0.01-6
 python-evdev 1.6.1-2
-python-eventlet 0.33.3-2
+python-eventlet 0.35.1-1
 python-ewmh 0.1.6-5
 python-exceptiongroup 1.2.0-1
 python-execnet 2.0.2-1
@@ -8343,7 +8344,7 @@ python-olefile 0.46-6
 python-omegaconf 2.3.0-2
 python-omemo-dr 1.0.1-1
 python-onnx 1:1.15.0-3
-python-openai 1.7.1-1
+python-openai 1.11.0-1
 python-openapi-core 0.18.2-2
 python-openapi-schema-validator 0.6.2-1
 python-openapi-spec-validator 0.7.1-1
@@ -8429,7 +8430,7 @@ python-pem 23.1.0-2
 python-pendulum 3.0.0-1
 python-pep440 0.1.2-2
 python-pep621 0.6.1-1
-python-perf 2.5.0-2
+python-perf 2.6.2-1
 python-periphery 2.3.0-3
 python-persistent 5.1-1
 python-pew 1.2.0-7
@@ -8451,7 +8452,7 @@ python-pip 23.3.2-2
 python-pipenv 2023.12.0-1
 python-pipenv-to-requirements 0.9.0-8
 python-pipreqs 0.4.13-1
-python-pipx 1.4.1-1
+python-pipx 1.4.3-1
 python-pivy 0.6.8-2
 python-pkgconfig 1.5.5-5
 python-pkginfo 1.9.6-2
@@ -8550,9 +8551,9 @@ python-pycryptodomex 3.12.0-2
 python-pyct 0.5.0-2
 python-pycuda 2022.2.2-4
 python-pycurl 7.45.2-3
-python-pydantic 2.5.3-1
-python-pydantic-core 1:2.14.6-1
-python-pydantic-extra-types 2.4.1-1
+python-pydantic 2.6.0-1
+python-pydantic-core 1:2.16.1-1
+python-pydantic-extra-types 2.5.0-1
 python-pydantic-settings 2.1.0-1
 python-pydbus 0.6.0-10
 python-pydispatcher 2.0.7-1
@@ -8879,7 +8880,7 @@ python-salsa20 0.3.0-10
 python-saml 1.16.0-1
 python-sane 2.9.1-4
 python-sanic 22.12.0-1
-python-sanic-routing 22.8.0-2
+python-sanic-routing 23.6.0-1
 python-sanic-testing 23.12.0-1
 python-sarif-om 1.0.4-5
 python-schedutils 0.6-12
@@ -9056,7 +9057,7 @@ python-tenacity 8.2.3-1
 python-tensorboard_plugin_wit 1.8.1-7
 python-tensorflow-estimator 2.15.0-1
 python-tensorflow-serving-api 2.14.0-1
-python-termcolor 2.3.0-1
+python-termcolor 2.4.0-1
 python-terminado 0.18.0-1
 python-termstyle 0.1.11-10
 python-testfixtures 7.2.2-1
@@ -9071,6 +9072,7 @@ python-testtools 2.7.1-1
 python-text-unidecode 1.3-9
 python-textdistance 4.5.0-2
 python-texttable 1.7.0-1
+python-textual 0.48.1-1
 python-threadloop 1.0.2-7
 python-threadpoolctl 3.2.0-1
 python-threat9-test-bed 0.6.0+2+g1ed61b3-9
@@ -9093,7 +9095,7 @@ python-toolz 0.12.1-1
 python-toposort 1.10-2
 python-tornado 6.3.2-1
 python-torrentool 1.2.0-1
-python-tox 4.11.4-1
+python-tox 4.12.1-1
 python-tox-current-env 0.0.11-2
 python-tpm2-pytss 2.1.0-2
 python-tqdm 4.66.1-2
@@ -9154,7 +9156,7 @@ python-uri-template 1.3.0-1
 python-uritemplate 4.1.1-3
 python-urllib3 1.26.18-1
 python-urlobject 2.4.3-8
-python-urwid 2.4.1-1
+python-urwid 2.5.1-1
 python-urwidtrees 1.0.3-9
 python-userpath 1.9.1-1
 python-utils 3.8.2-1
@@ -9327,7 +9329,7 @@ qqwing 1.3.4-6
 qreator 20.02.1-4
 qrencode 4.1.1-2
 qrupdate 1.1.5-1
-qsampler 0.9.12-1
+qsampler 0.9.12-2
 qscintilla 2.14.1-1
 qsopt-ex 2.5.10.3-1
 qspectrumanalyzer 2.2.0-9
@@ -10243,7 +10245,7 @@ shards 0.17.3-2
 shared-color-targets 0.1.7-4
 shared-mime-info 2.4-1
 shared_meataxe 1.0.1-1
-sharutils 4.15.2-4
+sharutils 4.15.2-5
 shattered-pixel-dungeon 2.3.1-1
 sheldon 0.7.4-1
 shellcheck 0.9.0-78
@@ -10524,10 +10526,10 @@ sugar-activity-read 123-3
 sugar-activity-terminal 47-3
 sugar-activity-turtleart 220-3
 sugar-activity-write 101-3
-sugar-artwork 0.119-1
-sugar-datastore 0.119-2
+sugar-artwork 0.120-1
+sugar-datastore 0.120-1
 sugar-runner 0.110.0-6
-sugar-toolkit-gtk3 0.119-2
+sugar-toolkit-gtk3 0.120-1
 suil 0.10.20-1
 suitesparse 7.6.0-1
 sundials 6.7.0-1
@@ -10634,7 +10636,7 @@ t-prot 3.4-6
 t1lib 5.1.2-8
 t1utils 1.42-2
 tachyon 0.99.5-1
-taffybar 4.0.1-62
+taffybar 4.0.1-63
 taglib 2.0-1
 tailscale 1.58.2-1
 tailspin 3.0.0-1
@@ -10894,7 +10896,7 @@ typescript-language-server 4.3.1-1
 typescript-svelte-plugin 0.3.37-1
 typos 1.18.0-1
 typst 1:0.10.0-1
-tzdata 2023d-1
+tzdata 2024a-1
 uasm 2.56.2-1
 ublock-origin 1.55.0-1
 uboot-tools 2024.01-2
@@ -10977,7 +10979,7 @@ upterm 0.13.0-1
 uptimed 0.4.6-3
 upx 4.2.2-1
 uqm 0.8.0-3
-urh 2.9.5-4
+urh 2.9.6-1
 uriparser 0.9.7-1
 urjtag 2021.03-3
 urlscan 1.0.1-1
@@ -11028,7 +11030,7 @@ varnish 7.4.2-1
 vault 1.15.5-1
 vaultwarden 1.30.2-1
 vaultwarden-web 2024.1.2-3
-vbam 2.1.8-1
+vbam 2.1.9-1
 vbetool 1.2.2-7
 vbindiff 3.0_beta5-2
 vc 1.4.4-1
@@ -11037,7 +11039,7 @@ vcdimager 2.0.1-4
 vco-plugins 0.3.0-6
 vcsh 2.0.7-1
 vcspull 1.26.0-1
-vde2 2.3.3-4
+vde2 2.3.3-5
 vdirsyncer 0.19.2-1
 vdpauinfo 1.5-1
 vector 0.35.0-1
@@ -11123,7 +11125,7 @@ vncdotool 1.2.0-1
 vnstat 2.12-1
 vocal 2.4.2-5
 vokoscreen 4.0.0-1
-volatility3 2.5.0-1
+volatility3 2.5.2-1
 volume_key 0.3.12-8
 volumeicon 0.5.1-5
 vorbis-tools 1.4.2-3
@@ -11264,7 +11266,7 @@ wofi 1.3-2
 wol 0.7.1-9
 wolf-shaper 1.0.2-1
 wolf-spectrum 1.0.0-2
-wolfssl 5.6.4-1
+wolfssl 5.6.6-1
 woob 3.6-3
 woodpecker 2.2.2-1
 wordpress 6.4.3-1
@@ -11342,7 +11344,7 @@ xdg-desktop-portal-wlr 0.7.0-2
 xdg-desktop-portal-xapp 1.0.4-1
 xdg-user-dirs 0.18-1
 xdg-user-dirs-gtk 0.11-2
-xdg-utils 1.2.0r28+g9b7d253-1
+xdg-utils 1.2.0+1+gaf2fe0d-1
 xdg-utils-cxx 1.0.1-2
 xdialog 2.3.1-9
 xdm-archlinux 0.7-2
@@ -11584,7 +11586,7 @@ yggdrasil 0.5.5-1
 yices 2.6.4-1
 yodl 4.03.03-2
 yoshimi 2.3.1.3-1
-yosys 0.34-1
+yosys 0.37-1
 you-get 0.4.1650-2
 yq 3.2.3-1
 yrd 0.5.3-7
