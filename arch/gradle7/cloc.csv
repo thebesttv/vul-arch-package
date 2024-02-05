@@ -1,0 +1,43 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=20.01 s (1089.3 files/s 169367.6 lines/s)"
+2395,HTML,98665,108587,1178328
+5522,Groovy,147378,90681,695362
+9530,Java,103891,221507,471047
+670,Kotlin,14747,14142,58376
+2483,Gradle,6417,7501,36076
+195,AsciiDoc,12465,1366,32313
+489,XML,325,3114,21048
+28,JavaScript,3619,5498,15984
+51,C/C++ Header,2275,6500,14268
+16,CSS,1101,342,4706
+56,Text,120,0,2496
+59,Maven,102,282,1930
+16,Markdown,492,59,1498
+4,XSLT,87,96,632
+3,JSON,1,0,612
+2,XSD,2,30,268
+39,Scala,68,51,256
+25,C++,40,2,237
+45,TOML,57,33,231
+4,Bourne Shell,56,230,224
+113,Properties,33,356,202
+2,DOS Batch,42,4,138
+15,C,36,22,113
+4,Ant,15,4,74
+4,SVG,0,1,62
+2,PlantUML,16,0,56
+7,Swift,8,0,48
+5,JSP,0,0,38
+1,DTD,54,164,33
+2,Objective-C++,7,0,18
+2,Assembly,1,0,17
+1,ANTLR Grammar,7,0,16
+1,IDL,2,0,14
+1,Objective-C,3,0,7
+1,YAML,0,0,7
+1,Cucumber,1,0,6
+1,Windows Resource File,1,0,5
+1,CSV,0,0,1
+1,Ruby,0,0,1
+1,Visual Studio Solution,0,1,1
+1,ProGuard,3,18,0
+21799,SUM,392137,460591,2536749
