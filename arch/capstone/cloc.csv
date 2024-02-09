@@ -1,0 +1,31 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 1.98  T=4.61 s (306.3 files/s 163175.7 lines/s)"
+180,TableGen,29472,28746,195578
+456,C/C++ Header,23373,41782,104545
+160,C,9724,3924,58449
+109,Python,2312,2021,25254
+254,C#,4,787,24263
+19,diff,295,2606,15968
+33,Java,588,152,15582
+34,OCaml,361,87,14473
+14,Pascal,282,116141,8314
+10,Smalltalk,262,0,5672
+35,XML,0,0,5259
+12,Windows Module Definition,394,0,3106
+12,Visual Basic,375,795,2685
+19,make,370,115,1294
+3,CMake,67,19,716
+20,Bourne Shell,139,77,495
+5,C++,119,54,485
+7,YAML,35,21,449
+9,Markdown,112,0,412
+3,Visual Studio Solution,3,3,400
+1,Ruby,2,1,387
+2,PowerShell,109,162,347
+2,Cython,111,44,303
+5,Text,93,0,284
+3,DOS Batch,94,41,253
+1,MSBuild script,0,0,182
+1,Apex Class,30,0,167
+1,JSON,0,0,133
+1,INI,5,0,17
+1411,SUM,68731,197578,485472
