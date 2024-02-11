@@ -6,6 +6,9 @@ if [ "$GITHUB_ACTIONS" != "true" ]; then
     exit 1
 fi
 
+export TERM=xterm
+echo "TERM=$TERM"
+
 pwd
 whoami
 
