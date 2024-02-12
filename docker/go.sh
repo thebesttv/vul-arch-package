@@ -38,7 +38,7 @@ else
         ssh-keyscan gitlab.archlinux.org >> /root/.ssh/known_hosts
 fi
 
-TMP_DIR=/tmp/tbt
+TMP_DIR=/github/workspace/tmp_work_dir
 RESULT_DIR=/github/workspace/arch/$TBT_PACKAGE_NAME
 mkdir -p $TMP_DIR && cd $TMP_DIR && \
     echo pkgctl repo clone --switch $TBT_PACKAGE_VERSION $TBT_PACKAGE_NAME && \
@@ -59,5 +59,12 @@ if [ $? -ne 0 ]; then
     echo "There were errors!"
     cd /github/workspace
     echo "$TBT_PACKAGE_NAME $TBT_PACKAGE_VERSION" >>arch.ignore
+
+    # remove tmp dir regardless of what happens
+    cd /github/workspace && rm -rf $TMP_DIR
+
     exit 1
 fi
+
+# remove tmp dir regardless of what happens
+cd /github/workspace && rm -rf $TMP_DIR
