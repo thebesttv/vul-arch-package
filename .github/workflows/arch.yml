@@ -69,6 +69,9 @@ jobs:
           remove-dotnet: 'true'
           remove-android: 'true'
           remove-haskell: 'true'
+      - name: Show disk usage
+        run: |
+          df -h
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
