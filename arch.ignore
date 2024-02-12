@@ -27,7 +27,6 @@ singularity 1.00-7
 python-fsspec 2023.9.2-1
 xfce4-artwork 0.1.1a_git20110420-6
 qcustomplot 2.1.1-1
-electron23 23.3.13-3
 perl-image-sane 5-5
 python-librabbitmq 2.0.0-9
 dbeaver-plugin-batik 1.14.0-3
@@ -63,10 +62,8 @@ virt-viewer 11.0-2
 lockdev 1.0.3_1.6-7
 aws-cli-v2 2.15.10-1
 libx86 1.1-8
-electron22 22.3.27-3
 pdnsd 1.2.9.a-14
 soil 1.16-5
-electron28 28.2.0-1
 maven 3.8.7-1
 clash 1.18.0-1
 lrcalc 2.1-4
@@ -88,9 +85,7 @@ pipe-rename 1.6.5-1
 lib32-gmp 6.3.0-1
 dillo 3.0.5-12
 kdsoap-ws-discovery-client 0.3.0-2
-electron26 26.6.7-1
 netbeans 16-1
-electron25 25.9.8-1
 ttf-input 20220502-2
 python-ubjson 0.16.1-6
 rubocop 1.39.0-2
@@ -106,8 +101,6 @@ surfraw 2.3.0-3
 grammalecte 2.1.1-3
 pcsc-perl 1.4.14-14
 ttf-roboto 2.138-4
-electron24 24.8.8-2
-electron27 27.3.0-1
 jpegexiforient 1:20090111.b4f886f-2
 bumblebee 3.2.1-21
 cauchy 0.9.0-3
@@ -191,12 +184,5 @@ clang 16.0.6-2
 med-openmpi 4.1.1-4
 python-sqlalchemy 1.4.44-2
 nsxiv 32-2
-electron26 26.6.8-1
 med-openmpi 4.1.1-5
-electron28 28.2.1-1
-electron27 27.3.1-1
-electron27 27.3.2-1
-electron28 28.2.2-1
-electron26 26.6.9-1
 f3d 2.3.0-2
-chromium 121.0.6167.160-1
