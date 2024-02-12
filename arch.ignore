@@ -76,7 +76,6 @@ libretro-retrodream 1104-2
 python-debugpy 1.8.0-1
 libsieve 2.3.1-5
 gfan 0.6.2-2
-chromium 121.0.6167.139-2
 aspell-pl 20230701-1
 step-cli 0.25.2-1
 zig 0.11.0-1
@@ -186,10 +185,3 @@ python-sqlalchemy 1.4.44-2
 nsxiv 32-2
 med-openmpi 4.1.1-5
 f3d 2.3.0-2
-electron23 23.3.13-3
-electron28 28.2.2-1
-electron27 27.3.2-1
-electron26 26.6.9-1
-chromium 121.0.6167.160-1
-electron25 25.9.8-1
-electron22 22.3.27-3
