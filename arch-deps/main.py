@@ -20,12 +20,12 @@ def get_all_packages(arch_txt):
 
 def clone_package(name, version):
     cmd = f'pkgctl repo clone --protocol https --switch {version} {name}'
-    result = subprocess.run(cmd, shell=True, check=True)
+    result = subprocess.run(cmd, shell=True)
     return result.returncode
 
 def get_deps(name):
     cmd = f'cd {name} && env -i ../get-deps'
-    result = subprocess.run(cmd, shell=True, check=True,
+    result = subprocess.run(cmd, shell=True,
                             stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
     if result.returncode != 0:
         return None
