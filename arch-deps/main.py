@@ -19,7 +19,7 @@ def get_all_packages(arch_txt):
     return packages
 
 def clone_package(name, version):
-    cmd = f'pkgctl repo clone --protocol https --switch {version} {name}'
+    cmd = f'pkgctl repo clone --switch {version} {name}'
     result = subprocess.run(cmd, shell=True)
     return result.returncode
 
