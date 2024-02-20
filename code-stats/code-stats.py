@@ -40,7 +40,7 @@ for folder_name in os.listdir(arch_directory):
             cloc_lines_sum = 0
             # 匹配关键行
             for row in csv_reader:
-                if row[1] == 'C' or row[1] == 'C++' or row[1] == 'C/C++':
+                if row[1] in ('C', 'C++', 'C/C++ Header'):
                     cloc_lines_sum += int(row[4])
         
         # 更新统计结果
