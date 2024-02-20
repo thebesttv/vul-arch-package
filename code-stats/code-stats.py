@@ -1,5 +1,5 @@
 import os
-import re
+import csv
 import random
 
 # 获取当前脚本所在文件夹的路径
@@ -35,20 +35,13 @@ for folder_name in os.listdir(arch_directory):
     if os.path.isfile(cloc_file_path):
         # 读取cloc.csv文件中的内容
         with open(cloc_file_path, 'r') as file:
-            lines = file.readlines()
-
-        # 统计C/C++行数
-        cloc_lines_sum = 0
-        # 匹配关键行
-        pattern = r'^\d+,(C|C\+\+|C/C\+\+)'
-        for line in lines:
-            # 检查行是否符合关注行的格式
-            if re.match(pattern, line):
-                # 获取第四个逗号后面的数字
-                numbers = line.split(',')
-                if len(numbers) == 5:
-                    cloc_lines = int(numbers[4])
-                    cloc_lines_sum += cloc_lines
+            csv_reader = csv.reader(file)
+            # 统计C/C++行数
+            cloc_lines_sum = 0
+            # 匹配关键行
+            for row in csv_reader:
+                if row[1] == 'C' or row[1] == 'C++' or row[1] == 'C/C++':
+                    cloc_lines_sum += int(row[4])
         
         # 更新统计结果
         if cloc_lines_sum > 100:
