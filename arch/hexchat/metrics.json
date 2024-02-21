@@ -1,0 +1,27 @@
+{
+  "name": "hexchat",
+  "version": "2.16.2-1",
+  "depends": [
+    "dbus-glib",
+    "desktop-file-utils",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk2",
+    "libcanberra",
+    "openssl",
+    "pango",
+    "pciutils"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "iso-codes",
+    "lua",
+    "meson",
+    "perl",
+    "python-cffi"
+  ],
+  "receive": 236047124,
+  "transmit": 382200,
+  "disk": 48619152
+}
