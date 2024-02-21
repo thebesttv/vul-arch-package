@@ -1,0 +1,13 @@
+{
+  "name": "diskus",
+  "version": "0.7.0-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199714745,
+  "transmit": 465934,
+  "disk": 188612
+}
