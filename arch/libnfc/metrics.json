@@ -1,0 +1,14 @@
+{
+  "name": "libnfc",
+  "version": "1.8.0-2",
+  "depends": [
+    "libusb-compat",
+    "pcsclite"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199680770,
+  "transmit": 496953,
+  "disk": 3913191
+}
