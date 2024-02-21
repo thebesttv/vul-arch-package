@@ -1,0 +1,14 @@
+{
+  "name": "termshark",
+  "version": "2.4.0-1",
+  "depends": [
+    "glibc",
+    "wireshark-cli"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199648932,
+  "transmit": 398680,
+  "disk": 2674238
+}
