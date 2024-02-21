@@ -1,0 +1,14 @@
+{
+  "name": "ruby-erb",
+  "version": "4.0.2-2",
+  "depends": [
+    "ruby",
+    "ruby-cgi"
+  ],
+  "makedepends": [
+    "tree"
+  ],
+  "receive": 199534234,
+  "transmit": 261464,
+  "disk": 281539
+}
