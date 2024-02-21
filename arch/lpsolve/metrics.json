@@ -1,0 +1,11 @@
+{
+  "name": "lpsolve",
+  "version": "5.5.2.11-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199828203,
+  "transmit": 566239,
+  "disk": 3439058
+}
