@@ -1,0 +1,20 @@
+{
+  "name": "qastools",
+  "version": "1.4.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "qt6-tools",
+    "systemd-libs"
+  ],
+  "receive": 199503677,
+  "transmit": 278271,
+  "disk": 2403949
+}
