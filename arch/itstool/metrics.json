@@ -1,0 +1,15 @@
+{
+  "name": "itstool",
+  "version": "1:2.0.7-1",
+  "depends": [
+    "python",
+    "libxml2",
+    "docbook-xml"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199476602,
+  "transmit": 243865,
+  "disk": 1365073
+}
