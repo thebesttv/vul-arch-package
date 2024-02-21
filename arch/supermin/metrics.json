@@ -1,0 +1,17 @@
+{
+  "name": "supermin",
+  "version": "5.3.2-1",
+  "depends": [
+    "e2fsprogs",
+    "pacman",
+    "pacman-contrib",
+    "cpio"
+  ],
+  "makedepends": [
+    "ocaml",
+    "ocaml-findlib"
+  ],
+  "receive": 199704670,
+  "transmit": 389949,
+  "disk": 1274522
+}
