@@ -1,0 +1,11 @@
+{
+  "name": "lidia",
+  "version": "2.3.0-4",
+  "depends": [
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 199634349,
+  "transmit": 403364,
+  "disk": 88126506
+}
