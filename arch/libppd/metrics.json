@@ -1,0 +1,16 @@
+{
+  "name": "libppd",
+  "version": "2.0.0-1",
+  "depends": [
+    "libcups",
+    "libcupsfilters",
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "ghostscript"
+  ],
+  "receive": 199572110,
+  "transmit": 345682,
+  "disk": 4449298
+}
