@@ -1,0 +1,19 @@
+{
+  "name": "sequoia-chameleon-gnupg",
+  "version": "0.5.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "bzip2",
+    "cargo",
+    "clang",
+    "git",
+    "openssl",
+    "sqlite"
+  ],
+  "receive": 199665192,
+  "transmit": 406953,
+  "disk": 10297791
+}
