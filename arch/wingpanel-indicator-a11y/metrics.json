@@ -1,0 +1,18 @@
+{
+  "name": "wingpanel-indicator-a11y",
+  "version": "1.0.2-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgranite.so",
+    "libwingpanel.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199554056,
+  "transmit": 282382,
+  "disk": 1775749
+}
