@@ -1,0 +1,12 @@
+{
+  "name": "perl-term-readkey",
+  "version": "2.38-8",
+  "depends": [
+    "perl",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199570398,
+  "transmit": 337209,
+  "disk": 526329
+}
