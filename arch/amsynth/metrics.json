@@ -1,0 +1,29 @@
+{
+  "name": "amsynth",
+  "version": "1.13.2-1",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "atk",
+    "autoconf-archive",
+    "dssi",
+    "fontconfig",
+    "freetype2",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk2",
+    "harfbuzz",
+    "intltool",
+    "jack",
+    "ladspa",
+    "liblo",
+    "lv2",
+    "pandoc"
+  ],
+  "receive": 199642314,
+  "transmit": 377062,
+  "disk": 19893361
+}
