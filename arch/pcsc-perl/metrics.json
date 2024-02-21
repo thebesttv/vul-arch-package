@@ -1,0 +1,15 @@
+{
+  "name": "pcsc-perl",
+  "version": "1.4.16-1",
+  "depends": [
+    "glibc",
+    "pcsclite",
+    "perl"
+  ],
+  "makedepends": [
+    "pkgconfig"
+  ],
+  "receive": 199537015,
+  "transmit": 293108,
+  "disk": 374175
+}
