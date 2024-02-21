@@ -1,0 +1,15 @@
+{
+  "name": "selene",
+  "version": "0.26.1-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199686909,
+  "transmit": 396178,
+  "disk": 7198489
+}
