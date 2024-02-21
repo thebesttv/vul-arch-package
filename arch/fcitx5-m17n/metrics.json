@@ -1,0 +1,14 @@
+{
+  "name": "fcitx5-m17n",
+  "version": "5.1.0-1",
+  "depends": [
+    "fcitx5",
+    "m17n-lib"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199942072,
+  "transmit": 633713,
+  "disk": 248614
+}
