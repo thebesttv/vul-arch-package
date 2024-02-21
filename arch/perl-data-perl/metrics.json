@@ -1,0 +1,17 @@
+{
+  "name": "perl-data-perl",
+  "version": "0.002011-4",
+  "depends": [
+    "perl-class-method-modifiers",
+    "perl-list-moreutils",
+    "perl-module-runtime",
+    "perl-role-tiny",
+    "perl-scalar-list-utils",
+    "perl-parent",
+    "perl-strictures"
+  ],
+  "makedepends": [],
+  "receive": 199681090,
+  "transmit": 440121,
+  "disk": 240693
+}
