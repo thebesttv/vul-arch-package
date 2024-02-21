@@ -1,0 +1,12 @@
+{
+  "name": "libirman",
+  "version": "0.5.2-4",
+  "depends": [
+    "glibc",
+    "lirc"
+  ],
+  "makedepends": [],
+  "receive": 199657336,
+  "transmit": 425461,
+  "disk": 1957482
+}
