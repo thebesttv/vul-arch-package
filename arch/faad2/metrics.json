@@ -1,0 +1,13 @@
+{
+  "name": "faad2",
+  "version": "2.11.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199730927,
+  "transmit": 430680,
+  "disk": 3508169
+}
