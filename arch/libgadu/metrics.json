@@ -1,0 +1,12 @@
+{
+  "name": "libgadu",
+  "version": "1.12.2-13",
+  "depends": [
+    "gnutls",
+    "protobuf-c"
+  ],
+  "makedepends": [],
+  "receive": 199612710,
+  "transmit": 392649,
+  "disk": 1747416
+}
