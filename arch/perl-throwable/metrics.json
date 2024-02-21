@@ -1,0 +1,13 @@
+{
+  "name": "perl-throwable",
+  "version": "1.001-2",
+  "depends": [
+    "perl-devel-stacktrace>=1.32",
+    "perl-module-runtime>=0.002",
+    "perl-moo>=1.000001"
+  ],
+  "makedepends": [],
+  "receive": 199628172,
+  "transmit": 394964,
+  "disk": 238831
+}
