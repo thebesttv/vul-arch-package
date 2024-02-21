@@ -1,0 +1,15 @@
+{
+  "name": "perl-data-messagepack",
+  "version": "1.02-2",
+  "depends": [
+    "perl>=5.8.1"
+  ],
+  "makedepends": [
+    "perl-devel-ppport>=3.42",
+    "perl-module-build>=0.4005",
+    "perl-module-build-xsutil"
+  ],
+  "receive": 199670467,
+  "transmit": 404012,
+  "disk": 677402
+}
