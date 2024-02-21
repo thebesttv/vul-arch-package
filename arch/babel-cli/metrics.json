@@ -1,0 +1,15 @@
+{
+  "name": "babel-cli",
+  "version": "7.21.0-1",
+  "depends": [
+    "nodejs",
+    "babel-core",
+    "semver"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199595447,
+  "transmit": 341090,
+  "disk": 146318
+}
