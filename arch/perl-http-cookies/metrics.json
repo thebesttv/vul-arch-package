@@ -1,0 +1,13 @@
+{
+  "name": "perl-http-cookies",
+  "version": "6.11-1",
+  "depends": [
+    "perl",
+    "perl-http-date",
+    "perl-http-message"
+  ],
+  "makedepends": [],
+  "receive": 199542825,
+  "transmit": 297004,
+  "disk": 361776
+}
