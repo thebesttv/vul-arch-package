@@ -1,0 +1,14 @@
+{
+  "name": "rshijack",
+  "version": "0.5.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199505158,
+  "transmit": 260553,
+  "disk": 847185
+}
