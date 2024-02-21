@@ -1,0 +1,17 @@
+{
+  "name": "pacman-bintrans",
+  "version": "0.4.0-1",
+  "depends": [
+    "rekor",
+    "bzip2",
+    "openssl",
+    "shared-mime-info",
+    "zstd"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 200249321,
+  "transmit": 655954,
+  "disk": 6747544
+}
