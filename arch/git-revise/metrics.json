@@ -1,0 +1,17 @@
+{
+  "name": "git-revise",
+  "version": "0.7.0-3",
+  "depends": [
+    "git",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199679217,
+  "transmit": 429906,
+  "disk": 213979
+}
