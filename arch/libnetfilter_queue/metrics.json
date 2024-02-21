@@ -1,0 +1,12 @@
+{
+  "name": "libnetfilter_queue",
+  "version": "1.0.5-1",
+  "depends": [
+    "libnfnetlink",
+    "libmnl"
+  ],
+  "makedepends": [],
+  "receive": 199649616,
+  "transmit": 413622,
+  "disk": 2139707
+}
