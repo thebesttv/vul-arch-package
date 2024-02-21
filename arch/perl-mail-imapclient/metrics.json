@@ -1,0 +1,12 @@
+{
+  "name": "perl-mail-imapclient",
+  "version": "3.43-4",
+  "depends": [
+    "perl-parse-recdescent",
+    "perl-digest-hmac"
+  ],
+  "makedepends": [],
+  "receive": 199530980,
+  "transmit": 258013,
+  "disk": 1728076
+}
