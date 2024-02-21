@@ -1,0 +1,14 @@
+{
+  "name": "libsidplayfp",
+  "version": "2.6.0-1",
+  "depends": [
+    "libgcrypt"
+  ],
+  "makedepends": [
+    "vice",
+    "xa"
+  ],
+  "receive": 199629881,
+  "transmit": 399248,
+  "disk": 4779999
+}
