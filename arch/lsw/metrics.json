@@ -1,0 +1,11 @@
+{
+  "name": "lsw",
+  "version": "0.3-6",
+  "depends": [
+    "libx11"
+  ],
+  "makedepends": [],
+  "receive": 199617364,
+  "transmit": 384669,
+  "disk": 100037
+}
