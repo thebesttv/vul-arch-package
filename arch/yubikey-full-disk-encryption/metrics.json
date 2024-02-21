@@ -1,0 +1,14 @@
+{
+  "name": "yubikey-full-disk-encryption",
+  "version": "r155.dcaac00-1",
+  "depends": [
+    "yubikey-personalization",
+    "cryptsetup"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199692476,
+  "transmit": 463204,
+  "disk": 679232
+}
