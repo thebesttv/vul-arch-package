@@ -1,0 +1,16 @@
+{
+  "name": "lua-http",
+  "version": "0.4-1",
+  "depends": [],
+  "makedepends": [
+    "luarocks",
+    "lua51",
+    "lua52",
+    "lua53",
+    "lua",
+    "pandoc"
+  ],
+  "receive": 199671590,
+  "transmit": 421877,
+  "disk": 921999
+}
