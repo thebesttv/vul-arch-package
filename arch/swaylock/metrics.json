@@ -1,0 +1,20 @@
+{
+  "name": "swaylock",
+  "version": "1.7.2-1",
+  "depends": [
+    "cairo",
+    "libxkbcommon",
+    "pam",
+    "wayland",
+    "gdk-pixbuf2"
+  ],
+  "makedepends": [
+    "meson",
+    "scdoc",
+    "wayland-protocols",
+    "git"
+  ],
+  "receive": 199788556,
+  "transmit": 524152,
+  "disk": 324630
+}
