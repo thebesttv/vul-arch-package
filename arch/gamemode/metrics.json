@@ -1,0 +1,18 @@
+{
+  "name": "gamemode",
+  "version": "1.8.1-2",
+  "depends": [
+    "glibc",
+    "libdbus-1.so",
+    "libinih",
+    "libsystemd.so",
+    "polkit"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199519935,
+  "transmit": 278950,
+  "disk": 1927884
+}
