@@ -1,0 +1,17 @@
+{
+  "name": "python-graphene",
+  "version": "3.3.0-1",
+  "depends": [
+    "python-aniso8601",
+    "python-graphql-core",
+    "python-graphql-relay",
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199497387,
+  "transmit": 238242,
+  "disk": 7596062
+}
