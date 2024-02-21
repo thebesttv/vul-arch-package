@@ -1,0 +1,13 @@
+{
+  "name": "python-pytz",
+  "version": "2024.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199527674,
+  "transmit": 299889,
+  "disk": 1633247
+}
