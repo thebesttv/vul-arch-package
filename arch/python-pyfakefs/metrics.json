@@ -1,0 +1,17 @@
+{
+  "name": "python-pyfakefs",
+  "version": "5.3.5-1",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199571358,
+  "transmit": 296252,
+  "disk": 12329888
+}
