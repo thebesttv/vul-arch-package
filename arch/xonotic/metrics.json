@@ -1,0 +1,27 @@
+{
+  "name": "xonotic",
+  "version": "0.8.6-1",
+  "depends": [
+    "alsa-lib",
+    "curl",
+    "libjpeg-turbo",
+    "libmodplug",
+    "libvorbis",
+    "libxpm",
+    "libxxf86vm",
+    "sdl2",
+    "libpng>=1.4.0",
+    "xonotic-data",
+    "hicolor-icon-theme",
+    "gtk-update-icon-cache",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "unzip",
+    "mesa",
+    "xorgproto"
+  ],
+  "receive": 199607208,
+  "transmit": 309951,
+  "disk": 30867877
+}
