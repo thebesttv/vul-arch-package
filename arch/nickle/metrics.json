@@ -1,0 +1,11 @@
+{
+  "name": "nickle",
+  "version": "2.90-1",
+  "depends": [
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 199546842,
+  "transmit": 324357,
+  "disk": 6848275
+}
