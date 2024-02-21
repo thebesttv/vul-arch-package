@@ -1,0 +1,16 @@
+{
+  "name": "python-colorlog",
+  "version": "6.8.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199625973,
+  "transmit": 342310,
+  "disk": 205845
+}
