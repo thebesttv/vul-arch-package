@@ -1,0 +1,16 @@
+{
+  "name": "libraw",
+  "version": "0.21.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "jasper",
+    "lcms2",
+    "libjpeg-turbo",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199695384,
+  "transmit": 395119,
+  "disk": 9437110
+}
