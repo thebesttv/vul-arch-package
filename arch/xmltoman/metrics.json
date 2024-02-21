@@ -1,0 +1,11 @@
+{
+  "name": "xmltoman",
+  "version": "0.4-4",
+  "depends": [
+    "perl-xml-parser"
+  ],
+  "makedepends": [],
+  "receive": 199650617,
+  "transmit": 398368,
+  "disk": 157957
+}
