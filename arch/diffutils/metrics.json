@@ -1,0 +1,12 @@
+{
+  "name": "diffutils",
+  "version": "3.10-1",
+  "depends": [
+    "glibc",
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199591912,
+  "transmit": 308671,
+  "disk": 15247270
+}
