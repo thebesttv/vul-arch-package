@@ -1,0 +1,16 @@
+{
+  "name": "focuswriter",
+  "version": "1.8.6-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "hunspell",
+    "qt6-multimedia"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt6-tools"
+  ],
+  "receive": 210676093,
+  "transmit": 576750,
+  "disk": 28652207
+}
