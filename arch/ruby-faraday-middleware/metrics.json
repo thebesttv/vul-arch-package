@@ -1,0 +1,16 @@
+{
+  "name": "ruby-faraday-middleware",
+  "version": "1.2.0-1",
+  "depends": [
+    "ruby",
+    "ruby-faraday"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-bundler"
+  ],
+  "receive": 199810395,
+  "transmit": 483775,
+  "disk": 286885
+}
