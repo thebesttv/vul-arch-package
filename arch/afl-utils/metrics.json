@@ -1,0 +1,16 @@
+{
+  "name": "afl-utils",
+  "version": "1.35a-1",
+  "depends": [
+    "afl",
+    "coreutils",
+    "python",
+    "rsync"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199633917,
+  "transmit": 349258,
+  "disk": 820517
+}
