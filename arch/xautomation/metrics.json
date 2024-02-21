@@ -1,0 +1,12 @@
+{
+  "name": "xautomation",
+  "version": "1.09-5",
+  "depends": [
+    "libpng",
+    "libxtst"
+  ],
+  "makedepends": [],
+  "receive": 199546026,
+  "transmit": 295612,
+  "disk": 689274
+}
