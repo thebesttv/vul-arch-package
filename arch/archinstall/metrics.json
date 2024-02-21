@@ -1,0 +1,31 @@
+{
+  "name": "archinstall",
+  "version": "2.7.1-1",
+  "depends": [
+    "arch-install-scripts",
+    "btrfs-progs",
+    "coreutils",
+    "cryptsetup",
+    "e2fsprogs",
+    "glibc",
+    "kbd",
+    "pciutils",
+    "procps-ng",
+    "python",
+    "python-pyparted",
+    "python-simple-term-menu",
+    "python-sphinx_rtd_theme",
+    "systemd",
+    "util-linux"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 199665890,
+  "transmit": 414561,
+  "disk": 5898702
+}
