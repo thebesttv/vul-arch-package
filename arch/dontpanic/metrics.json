@@ -1,0 +1,11 @@
+{
+  "name": "dontpanic",
+  "version": "1.02-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 200875733,
+  "transmit": 1292339,
+  "disk": 1767182
+}
