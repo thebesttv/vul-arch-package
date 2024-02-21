@@ -1,0 +1,12 @@
+{
+  "name": "cimg",
+  "version": "3.2.6-1",
+  "depends": [
+    "fftw",
+    "graphicsmagick"
+  ],
+  "makedepends": [],
+  "receive": 202707523,
+  "transmit": 367015,
+  "disk": 38922905
+}
