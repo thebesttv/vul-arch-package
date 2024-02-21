@@ -1,0 +1,16 @@
+{
+  "name": "pdftricks",
+  "version": "0.4.1-1",
+  "depends": [
+    "ghostscript",
+    "granite",
+    "imagemagick"
+  ],
+  "makedepends": [
+    "meson",
+    "vala"
+  ],
+  "receive": 200445289,
+  "transmit": 915451,
+  "disk": 3150474
+}
