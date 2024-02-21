@@ -1,0 +1,19 @@
+{
+  "name": "cowsql",
+  "version": "1.15.3-1",
+  "depends": [
+    "glibc",
+    "libuv",
+    "raft",
+    "sqlite"
+  ],
+  "makedepends": [
+    "git",
+    "tcl",
+    "readline",
+    "zlib"
+  ],
+  "receive": 199599767,
+  "transmit": 366656,
+  "disk": 4680790
+}
