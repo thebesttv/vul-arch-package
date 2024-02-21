@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libxau",
+  "version": "1.0.11-1",
+  "depends": [
+    "lib32-glibc",
+    "libxau"
+  ],
+  "makedepends": [
+    "pkgconf",
+    "xorgproto"
+  ],
+  "receive": 199584693,
+  "transmit": 342258,
+  "disk": 2153859
+}
