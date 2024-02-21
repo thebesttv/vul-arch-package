@@ -1,0 +1,13 @@
+{
+  "name": "quazip",
+  "version": "1.4-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "qt5-base",
+    "qt6-5compat"
+  ],
+  "receive": 199712871,
+  "transmit": 459473,
+  "disk": 1013565
+}
