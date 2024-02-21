@@ -1,0 +1,11 @@
+{
+  "name": "vulscan",
+  "version": "2.0-4",
+  "depends": [
+    "nmap"
+  ],
+  "makedepends": [],
+  "receive": 208209858,
+  "transmit": 407542,
+  "disk": 47066961
+}
