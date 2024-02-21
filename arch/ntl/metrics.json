@@ -1,0 +1,12 @@
+{
+  "name": "ntl",
+  "version": "11.5.1-1",
+  "depends": [
+    "gf2x",
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 199547870,
+  "transmit": 327647,
+  "disk": 10071950
+}
