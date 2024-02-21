@@ -1,0 +1,15 @@
+{
+  "name": "libspf2",
+  "version": "1.2.11-2",
+  "depends": [
+    "glibc",
+    "libnsl"
+  ],
+  "makedepends": [
+    "libmilter",
+    "git"
+  ],
+  "receive": 199538356,
+  "transmit": 271114,
+  "disk": 4518415
+}
