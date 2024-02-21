@@ -1,0 +1,13 @@
+{
+  "name": "ruby-deep_merge",
+  "version": "1.2.2-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199530911,
+  "transmit": 247078,
+  "disk": 188865
+}
