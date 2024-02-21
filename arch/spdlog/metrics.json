@@ -1,0 +1,13 @@
+{
+  "name": "spdlog",
+  "version": "1.13.0-1",
+  "depends": [
+    "libfmt.so"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199573758,
+  "transmit": 345180,
+  "disk": 1574264
+}
