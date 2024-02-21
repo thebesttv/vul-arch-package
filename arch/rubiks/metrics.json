@@ -1,0 +1,11 @@
+{
+  "name": "rubiks",
+  "version": "20070912-4",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199628922,
+  "transmit": 379754,
+  "disk": 941434
+}
