@@ -1,0 +1,28 @@
+{
+  "name": "pantheon-applications-menu",
+  "version": "2.11.1-2",
+  "depends": [
+    "appstream",
+    "gdk-pixbuf2",
+    "glib2",
+    "gnome-menus",
+    "gtk3",
+    "json-glib",
+    "libgee",
+    "libgranite.so",
+    "libhandy-1.so",
+    "libsoup",
+    "libswitchboard-2.0.so",
+    "wingpanel",
+    "plank",
+    "zeitgeist"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199619349,
+  "transmit": 366546,
+  "disk": 14057237
+}
