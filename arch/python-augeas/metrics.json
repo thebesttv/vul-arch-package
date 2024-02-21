@@ -1,0 +1,14 @@
+{
+  "name": "python-augeas",
+  "version": "1.1.0-6",
+  "depends": [
+    "augeas",
+    "python-cffi"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199652452,
+  "transmit": 407634,
+  "disk": 543205
+}
