@@ -1,0 +1,16 @@
+{
+  "name": "box2d",
+  "version": "2.4.1-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "doctest",
+    "doxygen",
+    "ninja"
+  ],
+  "receive": 199522882,
+  "transmit": 283275,
+  "disk": 6598396
+}
