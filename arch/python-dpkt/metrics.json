@@ -1,0 +1,16 @@
+{
+  "name": "python-dpkt",
+  "version": "1.9.8-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199513948,
+  "transmit": 292209,
+  "disk": 1100072
+}
