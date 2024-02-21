@@ -1,0 +1,16 @@
+{
+  "name": "svt-av1",
+  "version": "1.8.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "nasm",
+    "ninja"
+  ],
+  "receive": 268760949,
+  "transmit": 447680,
+  "disk": 106105962
+}
