@@ -1,0 +1,11 @@
+{
+  "name": "gumbo-parser",
+  "version": "0.12.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199866610,
+  "transmit": 589054,
+  "disk": 13788587
+}
