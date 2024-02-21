@@ -1,0 +1,11 @@
+{
+  "name": "istio",
+  "version": "1.16.1-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 204597936,
+  "transmit": 324767,
+  "disk": 36351559
+}
