@@ -1,0 +1,13 @@
+{
+  "name": "seabios",
+  "version": "1.16.3-1",
+  "depends": [],
+  "makedepends": [
+    "acpica",
+    "inetutils",
+    "python"
+  ],
+  "receive": 199929259,
+  "transmit": 582149,
+  "disk": 3523407
+}
