@@ -1,0 +1,13 @@
+{
+  "name": "p8-platform",
+  "version": "2.1.0.1-4",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199687774,
+  "transmit": 382548,
+  "disk": 531375
+}
