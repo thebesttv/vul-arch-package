@@ -1,0 +1,11 @@
+{
+  "name": "par2cmdline",
+  "version": "0.8.1-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199544141,
+  "transmit": 281289,
+  "disk": 8372274
+}
