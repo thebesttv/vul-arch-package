@@ -1,0 +1,12 @@
+{
+  "name": "perl-file-listing",
+  "version": "6.16-2",
+  "depends": [
+    "perl",
+    "perl-http-date"
+  ],
+  "makedepends": [],
+  "receive": 199600376,
+  "transmit": 297921,
+  "disk": 703198
+}
