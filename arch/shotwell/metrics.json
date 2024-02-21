@@ -1,0 +1,32 @@
+{
+  "name": "shotwell",
+  "version": "2:0.32.6-1",
+  "depends": [
+    "libgee",
+    "webkit2gtk-4.1",
+    "libgexiv2",
+    "libraw",
+    "rest",
+    "desktop-file-utils",
+    "dconf",
+    "hicolor-icon-theme",
+    "json-glib",
+    "gst-plugins-base",
+    "libgphoto2",
+    "libgudev",
+    "gcr",
+    "libgdata",
+    "libportal-gtk3"
+  ],
+  "makedepends": [
+    "intltool",
+    "vala>=0.17.2",
+    "itstool",
+    "meson",
+    "ninja",
+    "cmake"
+  ],
+  "receive": 211225921,
+  "transmit": 546537,
+  "disk": 93116975
+}
