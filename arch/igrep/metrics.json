@@ -1,0 +1,13 @@
+{
+  "name": "igrep",
+  "version": "1.2.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199797459,
+  "transmit": 482660,
+  "disk": 2347711
+}
