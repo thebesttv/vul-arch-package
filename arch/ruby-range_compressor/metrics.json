@@ -1,0 +1,11 @@
+{
+  "name": "ruby-range_compressor",
+  "version": "1.2.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199655858,
+  "transmit": 404743,
+  "disk": 126422
+}
