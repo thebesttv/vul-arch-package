@@ -1,0 +1,13 @@
+{
+  "name": "python-semantic-version",
+  "version": "2.10.0-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199663232,
+  "transmit": 413728,
+  "disk": 363603
+}
