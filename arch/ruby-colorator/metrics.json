@@ -1,0 +1,13 @@
+{
+  "name": "ruby-colorator",
+  "version": "1.1.0-7",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 200157077,
+  "transmit": 778803,
+  "disk": 137604
+}
