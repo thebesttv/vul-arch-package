@@ -1,0 +1,15 @@
+{
+  "name": "plantuml",
+  "version": "1.2023.13-1",
+  "depends": [
+    "java-runtime>=8",
+    "bash"
+  ],
+  "makedepends": [
+    "gradle",
+    "java-environment>=8"
+  ],
+  "receive": 212094174,
+  "transmit": 552614,
+  "disk": 42405599
+}
