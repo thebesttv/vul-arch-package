@@ -1,0 +1,14 @@
+{
+  "name": "perl-crypt-openssl-random",
+  "version": "0.15-10",
+  "depends": [
+    "perl",
+    "openssl"
+  ],
+  "makedepends": [
+    "perl-crypt-openssl-guess>=0.11"
+  ],
+  "receive": 200037741,
+  "transmit": 777423,
+  "disk": 171556
+}
