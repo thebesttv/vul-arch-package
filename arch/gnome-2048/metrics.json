@@ -1,0 +1,19 @@
+{
+  "name": "gnome-2048",
+  "version": "3.38.2-2",
+  "depends": [
+    "clutter-gtk",
+    "libgee",
+    "libgnome-games-support"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "meson",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199745738,
+  "transmit": 492096,
+  "disk": 2437658
+}
