@@ -1,0 +1,14 @@
+{
+  "name": "automake",
+  "version": "1.16.5-2",
+  "depends": [
+    "perl",
+    "bash"
+  ],
+  "makedepends": [
+    "autoconf"
+  ],
+  "receive": 200482861,
+  "transmit": 880531,
+  "disk": 10845349
+}
