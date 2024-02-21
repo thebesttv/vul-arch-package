@@ -1,0 +1,12 @@
+{
+  "name": "yadm",
+  "version": "3.2.2-1",
+  "depends": [
+    "git",
+    "awk"
+  ],
+  "makedepends": [],
+  "receive": 199709520,
+  "transmit": 456958,
+  "disk": 672050
+}
