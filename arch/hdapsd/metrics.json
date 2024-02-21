@@ -1,0 +1,12 @@
+{
+  "name": "hdapsd",
+  "version": "20141203-4",
+  "depends": [
+    "glibc",
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199668729,
+  "transmit": 423087,
+  "disk": 225319
+}
