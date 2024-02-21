@@ -1,0 +1,16 @@
+{
+  "name": "sdbus-cpp",
+  "version": "1.4.0-1",
+  "depends": [
+    "expat",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "systemd"
+  ],
+  "receive": 199612757,
+  "transmit": 369066,
+  "disk": 1436736
+}
