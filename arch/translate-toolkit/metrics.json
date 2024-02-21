@@ -1,0 +1,15 @@
+{
+  "name": "translate-toolkit",
+  "version": "3.12.2-1",
+  "depends": [
+    "bash",
+    "python-lxml",
+    "python-ruamel-yaml"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199527942,
+  "transmit": 278956,
+  "disk": 6473699
+}
