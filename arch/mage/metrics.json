@@ -1,0 +1,11 @@
+{
+  "name": "mage",
+  "version": "1.15.0-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199743840,
+  "transmit": 451879,
+  "disk": 21191987
+}
