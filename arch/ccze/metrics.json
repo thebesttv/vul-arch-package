@@ -1,0 +1,14 @@
+{
+  "name": "ccze",
+  "version": "0.2.1-12",
+  "depends": [
+    "ncurses",
+    "pcre"
+  ],
+  "makedepends": [
+    "patch"
+  ],
+  "receive": 199820225,
+  "transmit": 471811,
+  "disk": 898034
+}
