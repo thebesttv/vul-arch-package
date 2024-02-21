@@ -1,0 +1,20 @@
+{
+  "name": "python-autodocsumm",
+  "version": "0.2.11-1",
+  "depends": [
+    "python",
+    "python-docutils",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-versioneer"
+  ],
+  "receive": 199627843,
+  "transmit": 409546,
+  "disk": 732965
+}
