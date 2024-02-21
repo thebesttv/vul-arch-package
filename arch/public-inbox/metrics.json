@@ -1,0 +1,17 @@
+{
+  "name": "public-inbox",
+  "version": "1.9.0-2",
+  "depends": [
+    "perl",
+    "perl-inline-c",
+    "perl-dbd-sqlite",
+    "perl-uri",
+    "perl-search-xapian"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200033260,
+  "transmit": 711929,
+  "disk": 3710708
+}
