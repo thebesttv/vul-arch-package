@@ -1,0 +1,17 @@
+{
+  "name": "rofi-pass",
+  "version": "2.0.2-2",
+  "depends": [
+    "xdg-utils",
+    "rofi",
+    "gawk",
+    "pass",
+    "pwgen",
+    "xdotool",
+    "xclip"
+  ],
+  "makedepends": [],
+  "receive": 199478810,
+  "transmit": 249714,
+  "disk": 261161
+}
