@@ -1,0 +1,12 @@
+{
+  "name": "linuxwave",
+  "version": "0.1.5-1",
+  "depends": [],
+  "makedepends": [
+    "zig",
+    "git"
+  ],
+  "receive": 199551675,
+  "transmit": 277062,
+  "disk": 2067863
+}
