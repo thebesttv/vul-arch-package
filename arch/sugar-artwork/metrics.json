@@ -1,0 +1,15 @@
+{
+  "name": "sugar-artwork",
+  "version": "0.120-1",
+  "depends": [],
+  "makedepends": [
+    "gtk2",
+    "gtk3",
+    "icon-naming-utils",
+    "python-empy",
+    "xorg-xcursorgen"
+  ],
+  "receive": 199631072,
+  "transmit": 358935,
+  "disk": 3202322
+}
