@@ -1,0 +1,12 @@
+{
+  "name": "ttf-liberation",
+  "version": "2.1.5-1",
+  "depends": [],
+  "makedepends": [
+    "fontforge",
+    "python-fonttools"
+  ],
+  "receive": 199686453,
+  "transmit": 389110,
+  "disk": 31839177
+}
