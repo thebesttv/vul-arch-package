@@ -1,0 +1,15 @@
+{
+  "name": "ffmpegthumbnailer",
+  "version": "2.2.2-5",
+  "depends": [
+    "ffmpeg",
+    "libjpeg",
+    "libpng"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200400563,
+  "transmit": 1124647,
+  "disk": 3268140
+}
