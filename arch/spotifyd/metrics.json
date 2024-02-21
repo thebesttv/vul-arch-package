@@ -1,0 +1,16 @@
+{
+  "name": "spotifyd",
+  "version": "0.3.5-1",
+  "depends": [
+    "alsa-lib",
+    "libogg",
+    "libpulse",
+    "dbus"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199577862,
+  "transmit": 266202,
+  "disk": 556298
+}
