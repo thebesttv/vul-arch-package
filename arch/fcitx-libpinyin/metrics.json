@@ -1,0 +1,16 @@
+{
+  "name": "fcitx-libpinyin",
+  "version": "0.5.4-2",
+  "depends": [
+    "fcitx",
+    "libpinyin",
+    "fcitx-qt5",
+    "qt5-webengine"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 201505357,
+  "transmit": 424116,
+  "disk": 82756901
+}
