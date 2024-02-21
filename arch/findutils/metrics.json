@@ -1,0 +1,12 @@
+{
+  "name": "findutils",
+  "version": "4.9.0-3",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 201693525,
+  "transmit": 354998,
+  "disk": 19740183
+}
