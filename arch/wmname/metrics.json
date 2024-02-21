@@ -1,0 +1,11 @@
+{
+  "name": "wmname",
+  "version": "0.1-5",
+  "depends": [
+    "libx11"
+  ],
+  "makedepends": [],
+  "receive": 199540338,
+  "transmit": 294480,
+  "disk": 100666
+}
