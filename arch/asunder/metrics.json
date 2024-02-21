@@ -1,0 +1,20 @@
+{
+  "name": "asunder",
+  "version": "3.0.1-1",
+  "depends": [
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gtk2",
+    "libcddb",
+    "cdparanoia"
+  ],
+  "makedepends": [
+    "pkgconfig",
+    "intltool",
+    "gettext"
+  ],
+  "receive": 199538820,
+  "transmit": 301131,
+  "disk": 2817449
+}
