@@ -1,0 +1,14 @@
+{
+  "name": "libvpx1.3",
+  "version": "1.3.0-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "yasm",
+    "git"
+  ],
+  "receive": 200885614,
+  "transmit": 374757,
+  "disk": 18404164
+}
