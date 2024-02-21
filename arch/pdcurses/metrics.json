@@ -1,0 +1,14 @@
+{
+  "name": "pdcurses",
+  "version": "3.9-2",
+  "depends": [],
+  "makedepends": [
+    "sdl",
+    "sdl2",
+    "libxpm",
+    "xaw3d"
+  ],
+  "receive": 200403887,
+  "transmit": 971485,
+  "disk": 1901370
+}
