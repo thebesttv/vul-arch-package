@@ -1,0 +1,13 @@
+{
+  "name": "perl-test-minimumversion",
+  "version": "0.101083-2",
+  "depends": [
+    "perl-file-find-rule",
+    "perl-file-find-rule-perl",
+    "perl-perl-minimumversion"
+  ],
+  "makedepends": [],
+  "receive": 199521486,
+  "transmit": 272949,
+  "disk": 220278
+}
