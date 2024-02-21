@@ -1,0 +1,13 @@
+{
+  "name": "kodi-addon-audioencoder-lame",
+  "version": "1:20.3.0-8",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "lame",
+    "kodi-dev"
+  ],
+  "receive": 199610405,
+  "transmit": 356764,
+  "disk": 969077
+}
