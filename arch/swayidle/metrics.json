@@ -1,0 +1,16 @@
+{
+  "name": "swayidle",
+  "version": "1.8.0-1",
+  "depends": [
+    "wayland",
+    "systemd"
+  ],
+  "makedepends": [
+    "meson",
+    "scdoc",
+    "wayland-protocols"
+  ],
+  "receive": 199887633,
+  "transmit": 621739,
+  "disk": 192646
+}
