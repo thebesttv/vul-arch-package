@@ -1,0 +1,13 @@
+{
+  "name": "rq",
+  "version": "1.0.4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199510652,
+  "transmit": 277728,
+  "disk": 335033
+}
