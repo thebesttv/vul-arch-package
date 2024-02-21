@@ -1,0 +1,13 @@
+{
+  "name": "ruby-build-environment",
+  "version": "1.13.0-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199554362,
+  "transmit": 304036,
+  "disk": 426964
+}
