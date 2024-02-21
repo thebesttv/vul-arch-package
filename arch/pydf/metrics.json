@@ -1,0 +1,11 @@
+{
+  "name": "pydf",
+  "version": "12-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199834366,
+  "transmit": 453737,
+  "disk": 160696
+}
