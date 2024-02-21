@@ -1,0 +1,19 @@
+{
+  "name": "yubico-piv-tool",
+  "version": "2.5.1-1",
+  "depends": [
+    "zlib",
+    "glibc",
+    "pcsclite",
+    "openssl"
+  ],
+  "makedepends": [
+    "check",
+    "cmake",
+    "gengetopt",
+    "help2man"
+  ],
+  "receive": 199536092,
+  "transmit": 259776,
+  "disk": 4058235
+}
