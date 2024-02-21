@@ -1,0 +1,20 @@
+{
+  "name": "gource",
+  "version": "0.54-2",
+  "depends": [
+    "ftgl",
+    "sdl2",
+    "sdl2_image",
+    "pcre2",
+    "glew",
+    "boost-libs"
+  ],
+  "makedepends": [
+    "boost",
+    "glm",
+    "mesa"
+  ],
+  "receive": 199612327,
+  "transmit": 346128,
+  "disk": 4109583
+}
