@@ -1,0 +1,14 @@
+{
+  "name": "haskell-loop",
+  "version": "0.3.0-242",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199493466,
+  "transmit": 262220,
+  "disk": 316679
+}
