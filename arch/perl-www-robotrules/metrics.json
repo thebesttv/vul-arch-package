@@ -1,0 +1,12 @@
+{
+  "name": "perl-www-robotrules",
+  "version": "6.02-12",
+  "depends": [
+    "perl",
+    "perl-uri"
+  ],
+  "makedepends": [],
+  "receive": 199510609,
+  "transmit": 227968,
+  "disk": 158445
+}
