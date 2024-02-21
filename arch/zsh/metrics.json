@@ -1,0 +1,14 @@
+{
+  "name": "zsh",
+  "version": "5.9-4",
+  "depends": [],
+  "makedepends": [
+    "pcre",
+    "libcap",
+    "gdbm",
+    "yodl"
+  ],
+  "receive": 201126914,
+  "transmit": 659619,
+  "disk": 34219012
+}
