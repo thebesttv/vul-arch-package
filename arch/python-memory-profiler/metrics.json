@@ -1,0 +1,16 @@
+{
+  "name": "python-memory-profiler",
+  "version": "0.61-3",
+  "depends": [
+    "python-psutil"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199749592,
+  "transmit": 437614,
+  "disk": 515542
+}
