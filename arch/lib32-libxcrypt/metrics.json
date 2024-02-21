@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libxcrypt",
+  "version": "4.4.36-1",
+  "depends": [
+    "lib32-glibc",
+    "libxcrypt"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 199502078,
+  "transmit": 281113,
+  "disk": 4467667
+}
