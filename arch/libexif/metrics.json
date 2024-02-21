@@ -1,0 +1,11 @@
+{
+  "name": "libexif",
+  "version": "0.6.24-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199639229,
+  "transmit": 363093,
+  "disk": 12737295
+}
