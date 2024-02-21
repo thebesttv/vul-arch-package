@@ -1,0 +1,13 @@
+{
+  "name": "python-hpack",
+  "version": "4.0.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199654889,
+  "transmit": 383455,
+  "disk": 62187935
+}
