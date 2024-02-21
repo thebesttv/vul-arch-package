@@ -1,0 +1,11 @@
+{
+  "name": "ruby-find",
+  "version": "0.1.1-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 200025427,
+  "transmit": 787546,
+  "disk": 185833
+}
