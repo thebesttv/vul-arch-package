@@ -1,0 +1,14 @@
+{
+  "name": "mod_dnssd",
+  "version": "0.6-9",
+  "depends": [
+    "apache",
+    "apr",
+    "avahi",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199737144,
+  "transmit": 473828,
+  "disk": 544640
+}
