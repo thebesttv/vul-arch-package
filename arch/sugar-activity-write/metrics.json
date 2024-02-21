@@ -1,0 +1,12 @@
+{
+  "name": "sugar-activity-write",
+  "version": "101-3",
+  "depends": [
+    "abiword",
+    "sugar-toolkit-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199730036,
+  "transmit": 395950,
+  "disk": 730386
+}
