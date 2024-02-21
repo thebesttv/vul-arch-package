@@ -1,0 +1,14 @@
+{
+  "name": "wpmeta",
+  "version": "0.1.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199507264,
+  "transmit": 258468,
+  "disk": 2372322
+}
