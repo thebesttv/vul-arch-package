@@ -1,0 +1,23 @@
+{
+  "name": "httpbin",
+  "version": "0.10.1-1",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-decorator",
+    "python-six",
+    "python-brotlicffi",
+    "python-werkzeug",
+    "python-flasgger",
+    "python-greenlet"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199509460,
+  "transmit": 244374,
+  "disk": 494495
+}
