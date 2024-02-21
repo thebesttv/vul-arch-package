@@ -1,0 +1,13 @@
+{
+  "name": "xvidcore",
+  "version": "1.3.7-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "nasm"
+  ],
+  "receive": 199514178,
+  "transmit": 267946,
+  "disk": 4780837
+}
