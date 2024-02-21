@@ -1,0 +1,30 @@
+{
+  "name": "guestfs-tools",
+  "version": "1.52.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "jansson",
+    "libosinfo",
+    "openssl",
+    "perl",
+    "perl-libintl-perl"
+  ],
+  "makedepends": [
+    "bash-completion",
+    "cdrtools",
+    "libguestfs",
+    "libisoburn",
+    "libvirt",
+    "libxcrypt",
+    "libxml2",
+    "ncurses",
+    "ocaml-findlib",
+    "perl-module-build",
+    "xz",
+    "zstd"
+  ],
+  "receive": 216404029,
+  "transmit": 607193,
+  "disk": 85250760
+}
