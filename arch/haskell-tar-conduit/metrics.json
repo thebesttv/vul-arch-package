@@ -1,0 +1,19 @@
+{
+  "name": "haskell-tar-conduit",
+  "version": "0.4.1-12",
+  "depends": [
+    "ghc-libs",
+    "haskell-conduit",
+    "haskell-safe-exceptions"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-conduit-extra",
+    "haskell-hspec",
+    "haskell-quickcheck",
+    "haskell-weigh"
+  ],
+  "receive": 200084858,
+  "transmit": 453089,
+  "disk": 625262
+}
