@@ -1,0 +1,13 @@
+{
+  "name": "haskell-th-abstraction",
+  "version": "0.4.5.0-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199547449,
+  "transmit": 302782,
+  "disk": 345875
+}
