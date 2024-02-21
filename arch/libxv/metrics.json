@@ -1,0 +1,13 @@
+{
+  "name": "libxv",
+  "version": "1.0.12-1",
+  "depends": [
+    "libxext"
+  ],
+  "makedepends": [
+    "xorgproto"
+  ],
+  "receive": 199767754,
+  "transmit": 476678,
+  "disk": 2282970
+}
