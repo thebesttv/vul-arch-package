@@ -1,0 +1,14 @@
+{
+  "name": "java-commons-lang",
+  "version": "3.14.0-1",
+  "depends": [
+    "java-runtime-headless"
+  ],
+  "makedepends": [
+    "java-environment",
+    "maven"
+  ],
+  "receive": 200826843,
+  "transmit": 371945,
+  "disk": 9878902
+}
