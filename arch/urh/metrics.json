@@ -1,0 +1,25 @@
+{
+  "name": "urh",
+  "version": "2.9.6-1",
+  "depends": [
+    "python",
+    "python-pyqt5",
+    "python-numpy",
+    "python-psutil"
+  ],
+  "makedepends": [
+    "cython0",
+    "gcc",
+    "python-setuptools",
+    "airspy",
+    "hackrf",
+    "libuhd",
+    "limesuite",
+    "rtl-sdr",
+    "bladerf",
+    "libiio"
+  ],
+  "receive": 199962906,
+  "transmit": 324549,
+  "disk": 43197458
+}
