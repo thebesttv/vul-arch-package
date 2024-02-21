@@ -1,0 +1,13 @@
+{
+  "name": "aws-c-sdkutils",
+  "version": "0.1.12-1",
+  "depends": [
+    "aws-c-common"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199558243,
+  "transmit": 296907,
+  "disk": 713157
+}
