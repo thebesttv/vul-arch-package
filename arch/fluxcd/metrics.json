@@ -1,0 +1,15 @@
+{
+  "name": "fluxcd",
+  "version": "2.2.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "kustomize"
+  ],
+  "receive": 199524854,
+  "transmit": 273194,
+  "disk": 13188605
+}
