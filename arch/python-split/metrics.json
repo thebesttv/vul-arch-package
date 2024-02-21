@@ -1,0 +1,11 @@
+{
+  "name": "python-split",
+  "version": "0.4-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199493209,
+  "transmit": 217834,
+  "disk": 118771
+}
