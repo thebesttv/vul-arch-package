@@ -1,0 +1,18 @@
+{
+  "name": "xwax",
+  "version": "1.9-1",
+  "depends": [
+    "glibc",
+    "sdl",
+    "sdl_ttf",
+    "sh",
+    "ttf-dejavu"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "jack"
+  ],
+  "receive": 199697216,
+  "transmit": 430240,
+  "disk": 544865
+}
