@@ -1,0 +1,23 @@
+{
+  "name": "xreader",
+  "version": "4.0.2-1",
+  "depends": [
+    "poppler-glib",
+    "webkit2gtk-4.1",
+    "xapp"
+  ],
+  "makedepends": [
+    "meson",
+    "samurai",
+    "intltool",
+    "itstool",
+    "gobject-introspection",
+    "djvulibre",
+    "libgxps",
+    "libspectre",
+    "texlive-bin"
+  ],
+  "receive": 199686364,
+  "transmit": 429968,
+  "disk": 12386737
+}
