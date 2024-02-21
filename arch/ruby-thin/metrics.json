@@ -1,0 +1,17 @@
+{
+  "name": "ruby-thin",
+  "version": "1.8.1-1",
+  "depends": [
+    "glibc",
+    "ruby",
+    "ruby-rack",
+    "ruby-eventmachine",
+    "ruby-daemons"
+  ],
+  "makedepends": [
+    "ruby-rake"
+  ],
+  "receive": 199647116,
+  "transmit": 377151,
+  "disk": 1213730
+}
