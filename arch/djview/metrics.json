@@ -1,0 +1,14 @@
+{
+  "name": "djview",
+  "version": "4.12-4",
+  "depends": [
+    "qt5-base",
+    "djvulibre"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199681065,
+  "transmit": 349130,
+  "disk": 4045199
+}
