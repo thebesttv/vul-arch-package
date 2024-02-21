@@ -1,0 +1,22 @@
+{
+  "name": "apprise",
+  "version": "1.7.2-1",
+  "depends": [
+    "python-certifi",
+    "python-click",
+    "python-markdown",
+    "python-requests-oauthlib",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "git",
+    "python-babel",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199768430,
+  "transmit": 455342,
+  "disk": 14531579
+}
