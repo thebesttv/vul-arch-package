@@ -1,0 +1,14 @@
+{
+  "name": "wishbone-utils",
+  "version": "0.7.8-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199923344,
+  "transmit": 553520,
+  "disk": 3712554
+}
