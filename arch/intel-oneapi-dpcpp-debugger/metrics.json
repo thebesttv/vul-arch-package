@@ -1,0 +1,11 @@
+{
+  "name": "intel-oneapi-dpcpp-debugger",
+  "version": "2023.2.0_49330-1",
+  "depends": [
+    "intel-oneapi-common"
+  ],
+  "makedepends": [],
+  "receive": 199620514,
+  "transmit": 313554,
+  "disk": 201024541
+}
