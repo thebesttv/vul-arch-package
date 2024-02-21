@@ -1,0 +1,16 @@
+{
+  "name": "ruby-async",
+  "version": "1.30.3-2",
+  "depends": [
+    "ruby",
+    "ruby-console",
+    "ruby-nio4r",
+    "ruby-timers"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199997712,
+  "transmit": 591289,
+  "disk": 557114
+}
