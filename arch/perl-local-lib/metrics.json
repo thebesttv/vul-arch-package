@@ -1,0 +1,11 @@
+{
+  "name": "perl-local-lib",
+  "version": "2.000029-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199598166,
+  "transmit": 364157,
+  "disk": 433659
+}
