@@ -1,0 +1,11 @@
+{
+  "name": "editline",
+  "version": "1.17.1-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199523114,
+  "transmit": 280383,
+  "disk": 318359
+}
