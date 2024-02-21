@@ -1,0 +1,25 @@
+{
+  "name": "pantheon-mail",
+  "version": "7.2.0-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libcamel-1.2.so",
+    "libedataserver-1.2.so",
+    "libedataserverui-1.2.so",
+    "libfolks.so",
+    "libgranite.so",
+    "libhandy-1.so",
+    "libportal-gtk3",
+    "webkit2gtk"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 272588160,
+  "transmit": 799430,
+  "disk": 80423247
+}
