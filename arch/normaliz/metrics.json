@@ -1,0 +1,18 @@
+{
+  "name": "normaliz",
+  "version": "3.10.1-3",
+  "depends": [
+    "flint",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "e-antic"
+  ],
+  "makedepends": [
+    "boost",
+    "nauty"
+  ],
+  "receive": 199774158,
+  "transmit": 456860,
+  "disk": 44191269
+}
