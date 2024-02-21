@@ -1,0 +1,14 @@
+{
+  "name": "nginx-mod-modsecurity",
+  "version": "1:1.0.3-4",
+  "depends": [
+    "nginx",
+    "libmodsecurity"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199595834,
+  "transmit": 348350,
+  "disk": 417391
+}
