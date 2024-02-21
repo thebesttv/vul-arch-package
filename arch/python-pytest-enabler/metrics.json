@@ -1,0 +1,21 @@
+{
+  "name": "python-pytest-enabler",
+  "version": "3.0.0-1",
+  "depends": [
+    "python-jaraco.context",
+    "python-jaraco.functools",
+    "python-pytest",
+    "python-toml",
+    "python-importlib-resources"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199753864,
+  "transmit": 419655,
+  "disk": 564721
+}
