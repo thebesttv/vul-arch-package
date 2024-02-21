@@ -1,0 +1,13 @@
+{
+  "name": "ruby-jekyll-sass-converter",
+  "version": "2.2.0-1",
+  "depends": [
+    "ruby",
+    "ruby-rdoc",
+    "ruby-sassc"
+  ],
+  "makedepends": [],
+  "receive": 199494629,
+  "transmit": 223579,
+  "disk": 285808
+}
