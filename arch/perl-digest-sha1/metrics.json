@@ -1,0 +1,11 @@
+{
+  "name": "perl-digest-sha1",
+  "version": "2.13-19",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199703760,
+  "transmit": 460411,
+  "disk": 253612
+}
