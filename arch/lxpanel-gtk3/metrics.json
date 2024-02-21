@@ -1,0 +1,21 @@
+{
+  "name": "lxpanel-gtk3",
+  "version": "0.10.1-1",
+  "depends": [
+    "alsa-lib",
+    "curl",
+    "menu-cache",
+    "lxmenu-data",
+    "libfm-gtk3",
+    "libkeybinder3"
+  ],
+  "makedepends": [
+    "intltool",
+    "docbook-xml",
+    "docbook-xsl",
+    "wireless_tools"
+  ],
+  "receive": 199548247,
+  "transmit": 263809,
+  "disk": 9603001
+}
