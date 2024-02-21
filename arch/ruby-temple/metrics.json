@@ -1,0 +1,11 @@
+{
+  "name": "ruby-temple",
+  "version": "0.9.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199661996,
+  "transmit": 440104,
+  "disk": 326219
+}
