@@ -1,0 +1,18 @@
+{
+  "name": "jellyfin-server",
+  "version": "10.8.13-1",
+  "depends": [
+    "aspnet-runtime-6.0",
+    "bash",
+    "sqlite",
+    "fontconfig",
+    "jellyfin-ffmpeg"
+  ],
+  "makedepends": [
+    "git",
+    "dotnet-sdk-6.0"
+  ],
+  "receive": 1558499112,
+  "transmit": 4032915,
+  "disk": 1352904637
+}
