@@ -1,0 +1,16 @@
+{
+  "name": "lxdm",
+  "version": "0.5.3-7",
+  "depends": [
+    "gtk2",
+    "gtk3",
+    "xorg-server"
+  ],
+  "makedepends": [
+    "intltool",
+    "iso-codes"
+  ],
+  "receive": 199753985,
+  "transmit": 396150,
+  "disk": 1751085
+}
