@@ -1,0 +1,16 @@
+{
+  "name": "dconf-editor",
+  "version": "45.0.1-1",
+  "depends": [
+    "dconf",
+    "libhandy"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199613353,
+  "transmit": 318623,
+  "disk": 15118477
+}
