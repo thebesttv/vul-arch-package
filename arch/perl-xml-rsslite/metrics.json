@@ -1,0 +1,11 @@
+{
+  "name": "perl-xml-rsslite",
+  "version": "0.17-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199527660,
+  "transmit": 264481,
+  "disk": 135525
+}
