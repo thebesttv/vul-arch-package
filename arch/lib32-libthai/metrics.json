@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libthai",
+  "version": "0.1.29-2",
+  "depends": [
+    "lib32-libdatrie"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "git"
+  ],
+  "receive": 199492073,
+  "transmit": 253218,
+  "disk": 5814974
+}
