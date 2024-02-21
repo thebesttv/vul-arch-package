@@ -1,0 +1,13 @@
+{
+  "name": "rtosc",
+  "version": "0.3.1-2",
+  "depends": [],
+  "makedepends": [
+    "asciidoctor",
+    "cmake",
+    "doxygen"
+  ],
+  "receive": 199537593,
+  "transmit": 272735,
+  "disk": 1070935
+}
