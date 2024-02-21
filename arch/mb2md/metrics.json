@@ -1,0 +1,11 @@
+{
+  "name": "mb2md",
+  "version": "3.20-6",
+  "depends": [
+    "perl-timedate"
+  ],
+  "makedepends": [],
+  "receive": 199697128,
+  "transmit": 397541,
+  "disk": 153985
+}
