@@ -1,0 +1,16 @@
+{
+  "name": "n2n",
+  "version": "3.1.1-2",
+  "depends": [
+    "libcap",
+    "openssl",
+    "miniupnpc",
+    "zstd"
+  ],
+  "makedepends": [
+    "libpcap"
+  ],
+  "receive": 199886593,
+  "transmit": 663283,
+  "disk": 2851065
+}
