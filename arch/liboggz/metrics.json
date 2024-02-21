@@ -1,0 +1,14 @@
+{
+  "name": "liboggz",
+  "version": "1.1.1-7",
+  "depends": [
+    "bash",
+    "libogg"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199535934,
+  "transmit": 302127,
+  "disk": 4495717
+}
