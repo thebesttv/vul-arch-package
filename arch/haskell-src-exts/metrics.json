@@ -1,0 +1,19 @@
+{
+  "name": "haskell-src-exts",
+  "version": "1.23.1-208",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "happy",
+    "haskell-pretty-show",
+    "haskell-smallcheck",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-smallcheck"
+  ],
+  "receive": 199670203,
+  "transmit": 414982,
+  "disk": 23958460
+}
