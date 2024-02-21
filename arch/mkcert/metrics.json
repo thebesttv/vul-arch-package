@@ -1,0 +1,14 @@
+{
+  "name": "mkcert",
+  "version": "1.4.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199549720,
+  "transmit": 305021,
+  "disk": 178195
+}
