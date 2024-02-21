@@ -1,0 +1,11 @@
+{
+  "name": "tree",
+  "version": "2.1.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199513138,
+  "transmit": 255232,
+  "disk": 361995
+}
