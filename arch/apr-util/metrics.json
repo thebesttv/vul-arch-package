@@ -1,0 +1,24 @@
+{
+  "name": "apr-util",
+  "version": "1.6.3-1",
+  "depends": [
+    "apr",
+    "expat",
+    "libxcrypt"
+  ],
+  "makedepends": [
+    "gdbm",
+    "libldap",
+    "unixodbc",
+    "openssl",
+    "nss",
+    "sqlite",
+    "mariadb-libs",
+    "db",
+    "postgresql-libs",
+    "python"
+  ],
+  "receive": 199571873,
+  "transmit": 293269,
+  "disk": 4009689
+}
