@@ -1,0 +1,14 @@
+{
+  "name": "haskell-language-haskell-extract",
+  "version": "0.2.4-15",
+  "depends": [
+    "ghc-libs",
+    "haskell-regex-posix"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199539516,
+  "transmit": 301140,
+  "disk": 120291
+}
