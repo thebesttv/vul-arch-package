@@ -1,0 +1,16 @@
+{
+  "name": "bogofilter",
+  "version": "1.2.5-8",
+  "depends": [
+    "db5.3",
+    "perl",
+    "gsl"
+  ],
+  "makedepends": [
+    "valgrind",
+    "xmlto"
+  ],
+  "receive": 200368880,
+  "transmit": 292923,
+  "disk": 5360060
+}
