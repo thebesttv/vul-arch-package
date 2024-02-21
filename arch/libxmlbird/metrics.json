@@ -1,0 +1,14 @@
+{
+  "name": "libxmlbird",
+  "version": "1.2.15-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "python",
+    "vala"
+  ],
+  "receive": 199652832,
+  "transmit": 396105,
+  "disk": 243648
+}
