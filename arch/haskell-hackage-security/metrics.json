@@ -1,0 +1,31 @@
+{
+  "name": "haskell-hackage-security",
+  "version": "0.6.2.4-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-base16-bytestring",
+    "haskell-base64-bytestring",
+    "haskell-cryptohash-sha256",
+    "haskell-ed25519",
+    "haskell-lukko",
+    "haskell-network",
+    "haskell-network-uri",
+    "haskell-tar",
+    "haskell-zlib"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-aeson",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "haskell-temporary",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "receive": 199732624,
+  "transmit": 396792,
+  "disk": 1015084
+}
