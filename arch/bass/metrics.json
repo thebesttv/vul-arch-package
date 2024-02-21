@@ -1,0 +1,11 @@
+{
+  "name": "bass",
+  "version": "1.2-13",
+  "depends": [
+    "scummvm>=0.5"
+  ],
+  "makedepends": [],
+  "receive": 245348629,
+  "transmit": 920155,
+  "disk": 142332585
+}
