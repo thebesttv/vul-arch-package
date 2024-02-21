@@ -1,0 +1,15 @@
+{
+  "name": "qopenvpn",
+  "version": "2.0.0-7",
+  "depends": [
+    "python-pyqt5",
+    "openvpn",
+    "systemd"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199542896,
+  "transmit": 283134,
+  "disk": 210729
+}
