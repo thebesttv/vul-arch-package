@@ -1,0 +1,28 @@
+{
+  "name": "haskell-casa-client",
+  "version": "0.0.1-671",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-base16-bytestring",
+    "haskell-casa-types",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-cryptonite",
+    "haskell-http-conduit",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-network-uri",
+    "haskell-resourcet",
+    "haskell-th-lift",
+    "haskell-unliftio-core",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199547390,
+  "transmit": 290838,
+  "disk": 690381
+}
