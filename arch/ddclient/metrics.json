@@ -1,0 +1,15 @@
+{
+  "name": "ddclient",
+  "version": "3.11.2-4",
+  "depends": [
+    "curl",
+    "perl-digest-sha1",
+    "net-tools"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199529539,
+  "transmit": 299080,
+  "disk": 3777141
+}
