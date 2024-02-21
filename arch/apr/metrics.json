@@ -1,0 +1,13 @@
+{
+  "name": "apr",
+  "version": "1.7.4-1",
+  "depends": [
+    "util-linux"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 201479850,
+  "transmit": 885307,
+  "disk": 7279816
+}
