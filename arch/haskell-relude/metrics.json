@@ -1,0 +1,19 @@
+{
+  "name": "haskell-relude",
+  "version": "1.1.0.0-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-doctest",
+    "haskell-glob",
+    "haskell-hedgehog"
+  ],
+  "receive": 199498545,
+  "transmit": 264585,
+  "disk": 732359
+}
