@@ -1,0 +1,14 @@
+{
+  "name": "espeak-ng",
+  "version": "1.51.1-2",
+  "depends": [
+    "pcaudiolib",
+    "libsonic"
+  ],
+  "makedepends": [
+    "ruby-ronn-ng"
+  ],
+  "receive": 203903290,
+  "transmit": 377962,
+  "disk": 54484129
+}
