@@ -1,0 +1,15 @@
+{
+  "name": "aml",
+  "version": "0.3.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "ninja"
+  ],
+  "receive": 199730948,
+  "transmit": 424884,
+  "disk": 558328
+}
