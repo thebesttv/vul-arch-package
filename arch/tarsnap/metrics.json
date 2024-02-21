@@ -1,0 +1,15 @@
+{
+  "name": "tarsnap",
+  "version": "1.0.40-2",
+  "depends": [
+    "bzip2",
+    "openssl",
+    "xz"
+  ],
+  "makedepends": [
+    "e2fsprogs"
+  ],
+  "receive": 199696207,
+  "transmit": 474997,
+  "disk": 4550501
+}
