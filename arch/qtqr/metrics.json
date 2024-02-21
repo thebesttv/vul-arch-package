@@ -1,0 +1,17 @@
+{
+  "name": "qtqr",
+  "version": "2.1-5",
+  "depends": [
+    "python-pillow",
+    "python-pyqt5",
+    "qrencode",
+    "qt5-translations",
+    "zbar"
+  ],
+  "makedepends": [
+    "breezy"
+  ],
+  "receive": 199743932,
+  "transmit": 351762,
+  "disk": 1070816
+}
