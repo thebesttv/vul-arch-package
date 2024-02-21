@@ -1,0 +1,27 @@
+{
+  "name": "switchboard-plug-online-accounts",
+  "version": "6.5.3-1",
+  "depends": [
+    "glib2",
+    "glibc",
+    "gtk3",
+    "json-glib",
+    "libcamel-1.2.so",
+    "libedataserver-1.2.so",
+    "libedataserverui-1.2.so",
+    "libgee",
+    "libgranite.so",
+    "libhandy-1.so",
+    "libswitchboard-2.0.so",
+    "rest",
+    "webkit2gtk"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199675008,
+  "transmit": 424766,
+  "disk": 11082902
+}
