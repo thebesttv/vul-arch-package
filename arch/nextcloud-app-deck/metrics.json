@@ -1,0 +1,11 @@
+{
+  "name": "nextcloud-app-deck",
+  "version": "1:1.12.2-1",
+  "depends": [],
+  "makedepends": [
+    "nextcloud"
+  ],
+  "receive": 215780138,
+  "transmit": 313196,
+  "disk": 89013892
+}
