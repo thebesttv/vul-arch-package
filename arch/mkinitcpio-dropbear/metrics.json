@@ -1,0 +1,12 @@
+{
+  "name": "mkinitcpio-dropbear",
+  "version": "0.0.3-7",
+  "depends": [
+    "dropbear",
+    "psmisc"
+  ],
+  "makedepends": [],
+  "receive": 199549796,
+  "transmit": 292853,
+  "disk": 98854
+}
