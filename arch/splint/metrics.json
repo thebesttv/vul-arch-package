@@ -1,0 +1,13 @@
+{
+  "name": "splint",
+  "version": "3.1.2.git20180129-3",
+  "depends": [
+    "flex"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200115815,
+  "transmit": 803602,
+  "disk": 24214087
+}
