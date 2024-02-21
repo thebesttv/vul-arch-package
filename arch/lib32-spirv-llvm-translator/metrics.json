@@ -1,0 +1,19 @@
+{
+  "name": "lib32-spirv-llvm-translator",
+  "version": "16.0.0.r9+g322fca5d-1",
+  "depends": [
+    "lib32-llvm-libs",
+    "lib32-spirv-tools",
+    "spirv-llvm-translator"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "llvm",
+    "lib32-llvm",
+    "spirv-headers"
+  ],
+  "receive": 199519506,
+  "transmit": 262137,
+  "disk": 36166997
+}
