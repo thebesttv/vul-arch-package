@@ -1,0 +1,16 @@
+{
+  "name": "coin-or-clp",
+  "version": "1.17.9-2",
+  "depends": [
+    "coin-or-asl",
+    "coin-or-coinutils",
+    "coin-or-osi",
+    "gcc-libs",
+    "glibc",
+    "suitesparse"
+  ],
+  "makedepends": [],
+  "receive": 199573441,
+  "transmit": 271097,
+  "disk": 14380475
+}
