@@ -1,0 +1,18 @@
+{
+  "name": "liblouis",
+  "version": "3.28.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "help2man",
+    "libyaml",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 217926987,
+  "transmit": 1030218,
+  "disk": 104551969
+}
