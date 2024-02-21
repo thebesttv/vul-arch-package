@@ -1,0 +1,11 @@
+{
+  "name": "libtasn1",
+  "version": "4.19.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199728052,
+  "transmit": 439127,
+  "disk": 9694752
+}
