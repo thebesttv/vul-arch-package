@@ -1,0 +1,11 @@
+{
+  "name": "vim-surround",
+  "version": "2.2-2",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 200248471,
+  "transmit": 707380,
+  "disk": 176026
+}
