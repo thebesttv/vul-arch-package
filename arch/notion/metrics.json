@@ -1,0 +1,26 @@
+{
+  "name": "notion",
+  "version": "1:4.0.2-4",
+  "depends": [
+    "glib2",
+    "gettext",
+    "lua",
+    "libxext",
+    "libsm",
+    "freetype2",
+    "libxft"
+  ],
+  "makedepends": [
+    "git",
+    "pkgconfig",
+    "libxinerama",
+    "libxrandr",
+    "rubber",
+    "latex2html",
+    "texlive-htmlxml",
+    "texlive-latexextra"
+  ],
+  "receive": 199757847,
+  "transmit": 524358,
+  "disk": 12363512
+}
