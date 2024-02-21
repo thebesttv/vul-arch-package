@@ -1,0 +1,12 @@
+{
+  "name": "perl-parallel-forkmanager",
+  "version": "2.02-5",
+  "depends": [
+    "perl",
+    "perl-moo"
+  ],
+  "makedepends": [],
+  "receive": 201038340,
+  "transmit": 834208,
+  "disk": 261616
+}
