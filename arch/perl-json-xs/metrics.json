@@ -1,0 +1,15 @@
+{
+  "name": "perl-json-xs",
+  "version": "4.03-4",
+  "depends": [
+    "perl",
+    "perl-common-sense",
+    "perl-types-serialiser"
+  ],
+  "makedepends": [
+    "perl-canary-stability"
+  ],
+  "receive": 199545460,
+  "transmit": 269696,
+  "disk": 496902
+}
