@@ -1,0 +1,11 @@
+{
+  "name": "bashrun",
+  "version": "0.16.1-5",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199535485,
+  "transmit": 267783,
+  "disk": 242157
+}
