@@ -1,0 +1,11 @@
+{
+  "name": "chmlib",
+  "version": "0.40-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199704707,
+  "transmit": 401820,
+  "disk": 1679261
+}
