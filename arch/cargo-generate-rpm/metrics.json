@@ -1,0 +1,12 @@
+{
+  "name": "cargo-generate-rpm",
+  "version": "0.14.0-1",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 200076991,
+  "transmit": 577224,
+  "disk": 242545
+}
