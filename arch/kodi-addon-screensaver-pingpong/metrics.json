@@ -1,0 +1,13 @@
+{
+  "name": "kodi-addon-screensaver-pingpong",
+  "version": "1:20.2.0-8",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "glm",
+    "kodi-dev"
+  ],
+  "receive": 199616385,
+  "transmit": 359740,
+  "disk": 650916
+}
