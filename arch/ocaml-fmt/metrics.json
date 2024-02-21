@@ -1,0 +1,17 @@
+{
+  "name": "ocaml-fmt",
+  "version": "0.9.0-2",
+  "depends": [
+    "ocaml",
+    "ocaml-cmdliner"
+  ],
+  "makedepends": [
+    "ocaml-findlib",
+    "ocamlbuild",
+    "ocaml-topkg",
+    "opam"
+  ],
+  "receive": 199521312,
+  "transmit": 315953,
+  "disk": 220540
+}
