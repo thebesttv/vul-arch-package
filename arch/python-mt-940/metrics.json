@@ -1,0 +1,13 @@
+{
+  "name": "python-mt-940",
+  "version": "4.30.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199567140,
+  "transmit": 272070,
+  "disk": 885433
+}
