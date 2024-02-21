@@ -1,0 +1,20 @@
+{
+  "name": "suil",
+  "version": "0.10.20-1",
+  "depends": [],
+  "makedepends": [
+    "doxygen",
+    "gtk2",
+    "gtk3",
+    "lv2",
+    "meson",
+    "python-sphinx",
+    "python-sphinx-lv2-theme",
+    "python-sphinxygen",
+    "qt5-base",
+    "qt5-x11extras"
+  ],
+  "receive": 199603477,
+  "transmit": 374764,
+  "disk": 340181
+}
