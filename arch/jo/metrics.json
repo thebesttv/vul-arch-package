@@ -1,0 +1,14 @@
+{
+  "name": "jo",
+  "version": "1.9-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "pandoc"
+  ],
+  "receive": 199609413,
+  "transmit": 395183,
+  "disk": 932816
+}
