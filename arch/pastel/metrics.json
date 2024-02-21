@@ -1,0 +1,12 @@
+{
+  "name": "pastel",
+  "version": "0.9.0-3",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199822239,
+  "transmit": 450944,
+  "disk": 13780172
+}
