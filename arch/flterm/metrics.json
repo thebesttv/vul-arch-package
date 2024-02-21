@@ -1,0 +1,13 @@
+{
+  "name": "flterm",
+  "version": "2.4-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199542046,
+  "transmit": 290922,
+  "disk": 123197
+}
