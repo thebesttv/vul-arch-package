@@ -1,0 +1,14 @@
+{
+  "name": "fcitx-unikey",
+  "version": "0.2.7-3",
+  "depends": [
+    "fcitx"
+  ],
+  "makedepends": [
+    "cmake",
+    "fcitx-qt5"
+  ],
+  "receive": 199654737,
+  "transmit": 397664,
+  "disk": 655817
+}
