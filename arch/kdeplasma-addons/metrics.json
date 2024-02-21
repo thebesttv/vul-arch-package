@@ -1,0 +1,16 @@
+{
+  "name": "kdeplasma-addons",
+  "version": "5.27.10-2",
+  "depends": [
+    "plasma-workspace",
+    "kunitconversion5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-webengine",
+    "networkmanager-qt5"
+  ],
+  "receive": 199851625,
+  "transmit": 395112,
+  "disk": 11393332
+}
