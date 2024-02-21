@@ -1,0 +1,25 @@
+{
+  "name": "desmume",
+  "version": "0.9.13-1",
+  "depends": [
+    "alsa-lib",
+    "desktop-file-utils",
+    "glu",
+    "gtk3",
+    "libopenal.so",
+    "libpcap",
+    "sdl2",
+    "soundtouch",
+    "zlib",
+    "zziplib"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "mesa",
+    "meson"
+  ],
+  "receive": 305072608,
+  "transmit": 1388962,
+  "disk": 154066152
+}
