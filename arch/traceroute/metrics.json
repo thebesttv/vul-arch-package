@@ -1,0 +1,11 @@
+{
+  "name": "traceroute",
+  "version": "2.1.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199762346,
+  "transmit": 438474,
+  "disk": 433636
+}
