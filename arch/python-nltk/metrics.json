@@ -1,0 +1,15 @@
+{
+  "name": "python-nltk",
+  "version": "3.8.1-2",
+  "depends": [
+    "python-yaml",
+    "python-click",
+    "python-regex"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199622361,
+  "transmit": 354441,
+  "disk": 11443801
+}
