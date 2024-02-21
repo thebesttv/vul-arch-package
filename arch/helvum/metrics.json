@@ -1,0 +1,27 @@
+{
+  "name": "helvum",
+  "version": "0.5.1-1",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "graphene",
+    "gtk4",
+    "hicolor-icon-theme",
+    "libadwaita",
+    "libpipewire",
+    "pango",
+    "pipewire"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "cargo",
+    "clang",
+    "meson"
+  ],
+  "receive": 199911481,
+  "transmit": 603249,
+  "disk": 792843
+}
