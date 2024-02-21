@@ -1,0 +1,13 @@
+{
+  "name": "muparser",
+  "version": "2.3.4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199536337,
+  "transmit": 276812,
+  "disk": 781297
+}
