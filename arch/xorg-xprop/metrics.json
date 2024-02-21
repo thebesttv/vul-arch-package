@@ -1,0 +1,14 @@
+{
+  "name": "xorg-xprop",
+  "version": "1.2.7-1",
+  "depends": [
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199523029,
+  "transmit": 258486,
+  "disk": 1126612
+}
