@@ -1,0 +1,15 @@
+{
+  "name": "leiningen",
+  "version": "2.10.0-2",
+  "depends": [
+    "java-environment",
+    "java-runtime"
+  ],
+  "makedepends": [
+    "leiningen",
+    "git"
+  ],
+  "receive": 199774181,
+  "transmit": 393336,
+  "disk": 12074197
+}
