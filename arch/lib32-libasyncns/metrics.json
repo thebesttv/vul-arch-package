@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libasyncns",
+  "version": "1:0.8+r3+g68cd5af-2",
+  "depends": [
+    "lib32-glibc",
+    "libasyncns"
+  ],
+  "makedepends": [
+    "git",
+    "lynx"
+  ],
+  "receive": 199640430,
+  "transmit": 382533,
+  "disk": 627149
+}
