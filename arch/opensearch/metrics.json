@@ -1,0 +1,12 @@
+{
+  "name": "opensearch",
+  "version": "2.11.1-1",
+  "depends": [],
+  "makedepends": [
+    "jdk11-openjdk",
+    "unzip"
+  ],
+  "receive": 222167255,
+  "transmit": 708341,
+  "disk": 135971880
+}
