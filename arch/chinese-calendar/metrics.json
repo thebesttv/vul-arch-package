@@ -1,0 +1,14 @@
+{
+  "name": "chinese-calendar",
+  "version": "1.0.3.r58-3",
+  "depends": [
+    "qt5-base",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "breezy"
+  ],
+  "receive": 202290777,
+  "transmit": 508548,
+  "disk": 6120910
+}
