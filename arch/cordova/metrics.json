@@ -1,0 +1,14 @@
+{
+  "name": "cordova",
+  "version": "12.0.0-1",
+  "depends": [
+    "node-gyp",
+    "nodejs-nopt",
+    "npm",
+    "semver"
+  ],
+  "makedepends": [],
+  "receive": 199590797,
+  "transmit": 370015,
+  "disk": 142553
+}
