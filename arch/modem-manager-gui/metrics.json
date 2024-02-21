@@ -1,0 +1,18 @@
+{
+  "name": "modem-manager-gui",
+  "version": "0.0.20-2",
+  "depends": [
+    "gdbm",
+    "gtk3",
+    "gtkspell3",
+    "libnotify",
+    "modemmanager"
+  ],
+  "makedepends": [
+    "po4a",
+    "itstool"
+  ],
+  "receive": 200245939,
+  "transmit": 418432,
+  "disk": 5407542
+}
