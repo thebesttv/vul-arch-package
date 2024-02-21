@@ -1,0 +1,16 @@
+{
+  "name": "vbetool",
+  "version": "1.2.2-7",
+  "depends": [
+    "zlib",
+    "libx86",
+    "libpciaccess"
+  ],
+  "makedepends": [
+    "pciutils",
+    "git"
+  ],
+  "receive": 199650009,
+  "transmit": 389342,
+  "disk": 390091
+}
