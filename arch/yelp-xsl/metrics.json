@@ -1,0 +1,12 @@
+{
+  "name": "yelp-xsl",
+  "version": "42.1-1",
+  "depends": [],
+  "makedepends": [
+    "itstool",
+    "git"
+  ],
+  "receive": 199666640,
+  "transmit": 369564,
+  "disk": 12479940
+}
