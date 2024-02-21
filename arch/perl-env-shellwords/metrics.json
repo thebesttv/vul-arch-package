@@ -1,0 +1,13 @@
+{
+  "name": "perl-env-shellwords",
+  "version": "0.02-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-test2-suite"
+  ],
+  "receive": 199658915,
+  "transmit": 393931,
+  "disk": 174612
+}
