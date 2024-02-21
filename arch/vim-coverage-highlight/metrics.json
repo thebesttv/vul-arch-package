@@ -1,0 +1,12 @@
+{
+  "name": "vim-coverage-highlight",
+  "version": "3.5-3",
+  "depends": [
+    "python-coverage",
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199745202,
+  "transmit": 450634,
+  "disk": 1155367
+}
