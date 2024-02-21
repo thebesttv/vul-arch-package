@@ -1,0 +1,12 @@
+{
+  "name": "bsd-games",
+  "version": "3.3-1",
+  "depends": [
+    "ncurses",
+    "systemd"
+  ],
+  "makedepends": [],
+  "receive": 199633136,
+  "transmit": 337526,
+  "disk": 378932
+}
