@@ -1,0 +1,15 @@
+{
+  "name": "ruby-rake-compiler",
+  "version": "1.2.5-1",
+  "depends": [
+    "ruby",
+    "rubygems",
+    "ruby-rake"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199495499,
+  "transmit": 262171,
+  "disk": 343574
+}
