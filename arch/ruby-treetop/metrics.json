@@ -1,0 +1,11 @@
+{
+  "name": "ruby-treetop",
+  "version": "1.6.12-1",
+  "depends": [
+    "ruby-polyglot"
+  ],
+  "makedepends": [],
+  "receive": 199563807,
+  "transmit": 340410,
+  "disk": 187415
+}
