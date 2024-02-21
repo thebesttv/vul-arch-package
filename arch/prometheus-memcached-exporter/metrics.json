@@ -1,0 +1,14 @@
+{
+  "name": "prometheus-memcached-exporter",
+  "version": "0.14.2-1",
+  "depends": [
+    "glibc",
+    "memcached"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199544442,
+  "transmit": 340391,
+  "disk": 286214
+}
