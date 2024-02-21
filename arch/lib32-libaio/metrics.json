@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libaio",
+  "version": "0.3.113-4",
+  "depends": [
+    "lib32-glibc",
+    "libaio=0.3.113"
+  ],
+  "makedepends": [],
+  "receive": 199657348,
+  "transmit": 383621,
+  "disk": 746055
+}
