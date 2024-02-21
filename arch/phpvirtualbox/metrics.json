@@ -1,0 +1,13 @@
+{
+  "name": "phpvirtualbox",
+  "version": "5.2_1-8",
+  "depends": [
+    "php"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199628349,
+  "transmit": 372283,
+  "disk": 41368175
+}
