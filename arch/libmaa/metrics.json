@@ -1,0 +1,13 @@
+{
+  "name": "libmaa",
+  "version": "1.4.7-2",
+  "depends": [],
+  "makedepends": [
+    "flex",
+    "mk-configure",
+    "bmake"
+  ],
+  "receive": 199619990,
+  "transmit": 392767,
+  "disk": 999227
+}
