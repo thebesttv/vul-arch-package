@@ -1,0 +1,12 @@
+{
+  "name": "sugar-activity-jukebox",
+  "version": "36-3",
+  "depends": [
+    "sugar-toolkit-gtk3",
+    "gst-plugins-base"
+  ],
+  "makedepends": [],
+  "receive": 199522998,
+  "transmit": 279192,
+  "disk": 426926
+}
