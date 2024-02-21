@@ -1,0 +1,12 @@
+{
+  "name": "kodi-addon-peripheral-joystick",
+  "version": "20.1.15-2",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "kodi-dev"
+  ],
+  "receive": 199725771,
+  "transmit": 462974,
+  "disk": 1474142
+}
