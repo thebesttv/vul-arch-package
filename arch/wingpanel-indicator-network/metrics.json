@@ -1,0 +1,22 @@
+{
+  "name": "wingpanel-indicator-network",
+  "version": "7.1.0-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libnm",
+    "libwingpanel.so",
+    "networkmanager",
+    "nm-connection-editor"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199700003,
+  "transmit": 393511,
+  "disk": 6909237
+}
