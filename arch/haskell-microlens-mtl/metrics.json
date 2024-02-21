@@ -1,0 +1,15 @@
+{
+  "name": "haskell-microlens-mtl",
+  "version": "0.2.0.3-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-microlens",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199566464,
+  "transmit": 323456,
+  "disk": 176679
+}
