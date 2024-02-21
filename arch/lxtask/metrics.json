@@ -1,0 +1,14 @@
+{
+  "name": "lxtask",
+  "version": "0.1.10-2",
+  "depends": [
+    "gtk2",
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199632159,
+  "transmit": 393308,
+  "disk": 1132650
+}
