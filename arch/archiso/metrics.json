@@ -1,0 +1,22 @@
+{
+  "name": "archiso",
+  "version": "75-1",
+  "depends": [
+    "arch-install-scripts",
+    "bash",
+    "dosfstools",
+    "e2fsprogs",
+    "erofs-utils",
+    "grub",
+    "libarchive",
+    "libisoburn",
+    "mtools",
+    "squashfs-tools"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200289505,
+  "transmit": 988539,
+  "disk": 4291456
+}
