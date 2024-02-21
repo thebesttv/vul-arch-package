@@ -1,0 +1,12 @@
+{
+  "name": "nextcloud",
+  "version": "28.0.2-1",
+  "depends": [],
+  "makedepends": [
+    "php",
+    "php-legacy"
+  ],
+  "receive": 392530058,
+  "transmit": 3377695,
+  "disk": 790249634
+}
