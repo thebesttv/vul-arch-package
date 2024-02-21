@@ -1,0 +1,22 @@
+{
+  "name": "wayland",
+  "version": "1.22.0-1",
+  "depends": [
+    "glibc",
+    "libffi",
+    "expat",
+    "libxml2",
+    "default-cursors"
+  ],
+  "makedepends": [
+    "meson",
+    "libxslt",
+    "doxygen",
+    "xmlto",
+    "graphviz",
+    "docbook-xsl"
+  ],
+  "receive": 199696313,
+  "transmit": 415346,
+  "disk": 1985590
+}
