@@ -1,0 +1,19 @@
+{
+  "name": "rxvt-unicode",
+  "version": "9.31-4",
+  "depends": [],
+  "makedepends": [
+    "libxft",
+    "libxt",
+    "libxext",
+    "libxmu",
+    "perl",
+    "startup-notification",
+    "libnsl",
+    "libptytty",
+    "signify"
+  ],
+  "receive": 199707798,
+  "transmit": 389121,
+  "disk": 1012811
+}
