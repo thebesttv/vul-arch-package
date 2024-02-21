@@ -1,0 +1,12 @@
+{
+  "name": "cutefish-icons",
+  "version": "0.8-1",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja"
+  ],
+  "receive": 205668986,
+  "transmit": 731209,
+  "disk": 28218076
+}
