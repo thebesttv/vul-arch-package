@@ -1,0 +1,16 @@
+{
+  "name": "libfontenc",
+  "version": "1.1.7-1",
+  "depends": [
+    "zlib",
+    "xorg-fonts-encodings"
+  ],
+  "makedepends": [
+    "pkgconfig",
+    "xorgproto",
+    "xorg-util-macros"
+  ],
+  "receive": 199678952,
+  "transmit": 414665,
+  "disk": 2205396
+}
