@@ -1,0 +1,18 @@
+{
+  "name": "rebuilderd",
+  "version": "0.20.0-1",
+  "depends": [
+    "liblzma.so",
+    "libssl.so",
+    "libzstd.so",
+    "shared-mime-info"
+  ],
+  "makedepends": [
+    "cargo",
+    "sqlite",
+    "scdoc"
+  ],
+  "receive": 200031786,
+  "transmit": 609711,
+  "disk": 1864606
+}
