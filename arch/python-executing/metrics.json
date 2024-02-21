@@ -1,0 +1,17 @@
+{
+  "name": "python-executing",
+  "version": "2.0.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199675250,
+  "transmit": 392978,
+  "disk": 12696098
+}
