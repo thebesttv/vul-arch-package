@@ -1,0 +1,19 @@
+{
+  "name": "signing-party",
+  "version": "2.11-1",
+  "depends": [
+    "libmd",
+    "perl-class-methodmaker",
+    "perl-gnupg-interface",
+    "perl-mailtools",
+    "perl-mime-tools",
+    "perl-net-idn-encode",
+    "perl-term-readkey",
+    "perl-text-template",
+    "qprint"
+  ],
+  "makedepends": [],
+  "receive": 199534719,
+  "transmit": 285107,
+  "disk": 1182242
+}
