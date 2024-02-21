@@ -1,0 +1,14 @@
+{
+  "name": "libosmosdr",
+  "version": "0.1.r10.gba4fd96-3",
+  "depends": [
+    "libusb"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 209262620,
+  "transmit": 298005,
+  "disk": 72767435
+}
