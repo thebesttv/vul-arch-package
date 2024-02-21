@@ -1,0 +1,11 @@
+{
+  "name": "nrg2iso",
+  "version": "0.4.1-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199497626,
+  "transmit": 250210,
+  "disk": 149768
+}
