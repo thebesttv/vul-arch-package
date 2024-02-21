@@ -1,0 +1,11 @@
+{
+  "name": "ruby-simplecov_json_formatter",
+  "version": "0.1.4-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199527464,
+  "transmit": 253790,
+  "disk": 138063
+}
