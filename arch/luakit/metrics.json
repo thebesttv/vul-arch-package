@@ -1,0 +1,16 @@
+{
+  "name": "luakit",
+  "version": "2.3.6-1",
+  "depends": [
+    "lua51-filesystem",
+    "luajit",
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "git",
+    "help2man"
+  ],
+  "receive": 199566939,
+  "transmit": 278405,
+  "disk": 10845868
+}
