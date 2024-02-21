@@ -1,0 +1,19 @@
+{
+  "name": "libcmis",
+  "version": "0.6.2-1",
+  "depends": [
+    "boost-libs",
+    "curl",
+    "libxml2",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "docbook2x",
+    "cppunit",
+    "boost"
+  ],
+  "receive": 199624940,
+  "transmit": 405984,
+  "disk": 5114218
+}
