@@ -1,0 +1,21 @@
+{
+  "name": "qsampler",
+  "version": "0.9.12-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "linuxsampler",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "libgig",
+    "liblscp",
+    "qt6-tools"
+  ],
+  "receive": 199719266,
+  "transmit": 386428,
+  "disk": 1460375
+}
