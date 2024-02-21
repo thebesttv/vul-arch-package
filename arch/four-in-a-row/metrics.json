@@ -1,0 +1,20 @@
+{
+  "name": "four-in-a-row",
+  "version": "3.38.1-1",
+  "depends": [
+    "gtk3",
+    "gsound",
+    "librsvg"
+  ],
+  "makedepends": [
+    "meson",
+    "gobject-introspection",
+    "yelp-tools",
+    "appstream-glib",
+    "vala",
+    "git"
+  ],
+  "receive": 199668417,
+  "transmit": 370241,
+  "disk": 13178912
+}
