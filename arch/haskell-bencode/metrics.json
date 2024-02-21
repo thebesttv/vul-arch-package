@@ -1,0 +1,16 @@
+{
+  "name": "haskell-bencode",
+  "version": "0.6.1.1-196",
+  "depends": [
+    "ghc-libs",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-quickcheck"
+  ],
+  "receive": 199533383,
+  "transmit": 337458,
+  "disk": 302952
+}
