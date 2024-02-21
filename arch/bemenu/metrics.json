@@ -1,0 +1,19 @@
+{
+  "name": "bemenu",
+  "version": "0.6.16-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "ncurses",
+    "scdoc",
+    "libxinerama",
+    "libxkbcommon",
+    "pango",
+    "wayland",
+    "wayland-protocols",
+    "wlroots"
+  ],
+  "receive": 199558941,
+  "transmit": 312532,
+  "disk": 907408
+}
