@@ -1,0 +1,19 @@
+{
+  "name": "python-defcon",
+  "version": "0.10.3-1",
+  "depends": [
+    "python",
+    "python-fonttools",
+    "python-fs",
+    "python-unicodedata2",
+    "python-setuptools-scm"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199702617,
+  "transmit": 460632,
+  "disk": 3295744
+}
