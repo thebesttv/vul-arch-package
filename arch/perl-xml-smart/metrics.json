@@ -1,0 +1,11 @@
+{
+  "name": "perl-xml-smart",
+  "version": "1.79-10",
+  "depends": [
+    "perl-object-multitype"
+  ],
+  "makedepends": [],
+  "receive": 200140458,
+  "transmit": 893059,
+  "disk": 766962
+}
