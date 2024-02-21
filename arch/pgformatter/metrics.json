@@ -1,0 +1,13 @@
+{
+  "name": "pgformatter",
+  "version": "5.5-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199537160,
+  "transmit": 289384,
+  "disk": 10487099
+}
