@@ -1,0 +1,13 @@
+{
+  "name": "python-psutil",
+  "version": "5.9.8-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199612387,
+  "transmit": 348218,
+  "disk": 6032624
+}
