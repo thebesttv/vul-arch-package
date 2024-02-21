@@ -1,0 +1,19 @@
+{
+  "name": "plasma-bigscreen",
+  "version": "5.27.10-1",
+  "depends": [
+    "plasma-pa",
+    "plasma-nm",
+    "plasma-nano",
+    "plasma-settings",
+    "kdeconnect",
+    "qt5-virtualkeyboard",
+    "plasma-remotecontrollers"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199650240,
+  "transmit": 345648,
+  "disk": 3922262
+}
