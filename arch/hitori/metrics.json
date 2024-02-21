@@ -1,0 +1,16 @@
+{
+  "name": "hitori",
+  "version": "44.0-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199561616,
+  "transmit": 347800,
+  "disk": 3725222
+}
