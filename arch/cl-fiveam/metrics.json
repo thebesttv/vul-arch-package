@@ -1,0 +1,17 @@
+{
+  "name": "cl-fiveam",
+  "version": "1.4.2.r12.ge11dee7-2",
+  "depends": [
+    "cl-asdf",
+    "common-lisp",
+    "cl-alexandria",
+    "cl-asdf-flv",
+    "cl-trivial-backtrace"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199641818,
+  "transmit": 368761,
+  "disk": 819451
+}
