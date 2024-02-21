@@ -1,0 +1,19 @@
+{
+  "name": "qt5-quickcontrols-nemo",
+  "version": "5.7.2-1",
+  "depends": [
+    "libglacierapp",
+    "nemo-qml-plugin-configuration",
+    "nemo-qml-plugin-notifications",
+    "nemo-theme-glacier",
+    "qt5-graphicaleffects",
+    "qt5-quickcontrols",
+    "qt5-virtualkeyboard"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199521060,
+  "transmit": 253943,
+  "disk": 980227
+}
