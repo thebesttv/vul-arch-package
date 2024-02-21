@@ -1,0 +1,16 @@
+{
+  "name": "ocaml-cmdliner",
+  "version": "1.2.0-2",
+  "depends": [
+    "ocaml"
+  ],
+  "makedepends": [
+    "ocaml-findlib",
+    "ocamlbuild",
+    "ocaml-topkg",
+    "dune"
+  ],
+  "receive": 199495285,
+  "transmit": 248419,
+  "disk": 444540
+}
