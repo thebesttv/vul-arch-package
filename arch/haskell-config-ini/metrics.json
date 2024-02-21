@@ -1,0 +1,20 @@
+{
+  "name": "haskell-config-ini",
+  "version": "0.2.6.0-28",
+  "depends": [
+    "ghc-libs",
+    "haskell-unordered-containers",
+    "haskell-megaparsec"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-ini",
+    "haskell-hedgehog",
+    "haskell-doctest",
+    "haskell-microlens"
+  ],
+  "receive": 199916638,
+  "transmit": 359661,
+  "disk": 616585
+}
