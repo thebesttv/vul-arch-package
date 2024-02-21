@@ -1,0 +1,11 @@
+{
+  "name": "antiword",
+  "version": "0.37-10",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199574126,
+  "transmit": 313736,
+  "disk": 417164
+}
