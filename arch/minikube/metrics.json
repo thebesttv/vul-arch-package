@@ -1,0 +1,14 @@
+{
+  "name": "minikube",
+  "version": "1.32.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 612378009,
+  "transmit": 794602,
+  "disk": 630919840
+}
