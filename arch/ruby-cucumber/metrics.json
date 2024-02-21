@@ -1,0 +1,34 @@
+{
+  "name": "ruby-cucumber",
+  "version": "8.0.0-1",
+  "depends": [
+    "ruby-builder",
+    "ruby-cucumber-ci-environment",
+    "ruby-cucumber-core",
+    "ruby-cucumber-cucumber-expressions",
+    "ruby-cucumber-gherkin",
+    "ruby-cucumber-html-formatter",
+    "ruby-cucumber-messages",
+    "ruby-diff-lcs",
+    "ruby-mime-types",
+    "ruby-multi_test",
+    "ruby-sys-uname"
+  ],
+  "makedepends": [
+    "ruby-cucumber-compatibility-kit",
+    "ruby-nokogiri",
+    "ruby-pry",
+    "ruby-rake",
+    "ruby-rspec",
+    "ruby-simplecov",
+    "ruby-syntax",
+    "ruby-test-unit",
+    "ruby-webrick",
+    "ruby-octokit",
+    "ruby-rack-test",
+    "ruby-sinatra"
+  ],
+  "receive": 199662611,
+  "transmit": 438788,
+  "disk": 2761786
+}
