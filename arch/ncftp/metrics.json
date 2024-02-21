@@ -1,0 +1,11 @@
+{
+  "name": "ncftp",
+  "version": "3.2.7-1",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199929244,
+  "transmit": 610478,
+  "disk": 3369573
+}
