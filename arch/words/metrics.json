@@ -1,0 +1,12 @@
+{
+  "name": "words",
+  "version": "2.1-7",
+  "depends": [],
+  "makedepends": [
+    "glibc",
+    "aspell"
+  ],
+  "receive": 201712864,
+  "transmit": 523212,
+  "disk": 7393547
+}
