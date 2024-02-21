@@ -1,0 +1,15 @@
+{
+  "name": "yass",
+  "version": "0.1.0-2",
+  "depends": [
+    "clthreads",
+    "clxclient",
+    "jack"
+  ],
+  "makedepends": [
+    "gendesk"
+  ],
+  "receive": 199539760,
+  "transmit": 267561,
+  "disk": 160248
+}
