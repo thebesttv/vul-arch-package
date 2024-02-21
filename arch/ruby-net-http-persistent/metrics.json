@@ -1,0 +1,11 @@
+{
+  "name": "ruby-net-http-persistent",
+  "version": "4.0.2-1",
+  "depends": [
+    "ruby-connection_pool"
+  ],
+  "makedepends": [],
+  "receive": 199645194,
+  "transmit": 404117,
+  "disk": 233016
+}
