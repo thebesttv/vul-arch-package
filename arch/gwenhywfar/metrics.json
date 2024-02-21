@@ -1,0 +1,17 @@
+{
+  "name": "gwenhywfar",
+  "version": "5.10.2-1",
+  "depends": [
+    "gnutls",
+    "libgcrypt",
+    "openssl"
+  ],
+  "makedepends": [
+    "git",
+    "gtk3",
+    "qt5-base"
+  ],
+  "receive": 202305985,
+  "transmit": 304776,
+  "disk": 14557225
+}
