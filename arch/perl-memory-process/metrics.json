@@ -1,0 +1,13 @@
+{
+  "name": "perl-memory-process",
+  "version": "0.06-2",
+  "depends": [
+    "perl",
+    "perl-memory-usage",
+    "perl-readonly"
+  ],
+  "makedepends": [],
+  "receive": 199662863,
+  "transmit": 400952,
+  "disk": 232555
+}
