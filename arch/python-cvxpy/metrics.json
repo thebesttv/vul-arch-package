@@ -1,0 +1,25 @@
+{
+  "name": "python-cvxpy",
+  "version": "1.4.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-clarabel",
+    "python-ecos",
+    "python-numpy",
+    "python-osqp",
+    "python-scipy",
+    "python-scs"
+  ],
+  "makedepends": [
+    "pybind11",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 205066146,
+  "transmit": 343758,
+  "disk": 66210992
+}
