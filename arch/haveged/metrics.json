@@ -1,0 +1,11 @@
+{
+  "name": "haveged",
+  "version": "1.9.18-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199497730,
+  "transmit": 272948,
+  "disk": 2571000
+}
