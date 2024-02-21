@@ -1,0 +1,20 @@
+{
+  "name": "lib32-v4l-utils",
+  "version": "1.26.1-1",
+  "depends": [
+    "v4l-utils",
+    "lib32-gcc-libs",
+    "lib32-libjpeg-turbo",
+    "lib32-systemd",
+    "lib32-libglvnd",
+    "lib32-json-c"
+  ],
+  "makedepends": [
+    "meson",
+    "clang",
+    "lib32-libbpf"
+  ],
+  "receive": 200025234,
+  "transmit": 303923,
+  "disk": 9444176
+}
