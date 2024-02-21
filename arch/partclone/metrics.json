@@ -1,0 +1,12 @@
+{
+  "name": "partclone",
+  "version": "0.3.27-1",
+  "depends": [
+    "ntfs-3g",
+    "nilfs-utils"
+  ],
+  "makedepends": [],
+  "receive": 199489594,
+  "transmit": 254734,
+  "disk": 7813433
+}
