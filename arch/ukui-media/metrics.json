@@ -1,0 +1,24 @@
+{
+  "name": "ukui-media",
+  "version": "3.0.4-2",
+  "depends": [
+    "gsettings-qt",
+    "kwindowsystem5",
+    "libmatemixer",
+    "libqtxdg",
+    "mate-desktop",
+    "qt5-multimedia",
+    "qt5-svg",
+    "libcanberra",
+    "ukui-interface"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "intltool",
+    "mate-common",
+    "qt5-tools"
+  ],
+  "receive": 199495593,
+  "transmit": 257435,
+  "disk": 3959684
+}
