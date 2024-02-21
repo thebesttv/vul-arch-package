@@ -1,0 +1,23 @@
+{
+  "name": "ntk",
+  "version": "1.3.1001-2",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "fontconfig",
+    "glibc",
+    "freetype2",
+    "libglvnd",
+    "libjpeg",
+    "libpng",
+    "libx11",
+    "libxft",
+    "zlib"
+  ],
+  "makedepends": [
+    "waf"
+  ],
+  "receive": 199649604,
+  "transmit": 409929,
+  "disk": 11785509
+}
