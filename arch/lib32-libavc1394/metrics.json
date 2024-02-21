@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libavc1394",
+  "version": "0.5.4-4",
+  "depends": [
+    "lib32-libraw1394",
+    "libavc1394"
+  ],
+  "makedepends": [],
+  "receive": 199624118,
+  "transmit": 400448,
+  "disk": 1828141
+}
