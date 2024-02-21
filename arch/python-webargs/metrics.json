@@ -1,0 +1,17 @@
+{
+  "name": "python-webargs",
+  "version": "8.3.0-1",
+  "depends": [
+    "python-marshmallow"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx",
+    "python-sphinx-issues",
+    "python-sphinx-typlog-theme",
+    "python-sphinx-furo"
+  ],
+  "receive": 199524630,
+  "transmit": 312954,
+  "disk": 650601
+}
