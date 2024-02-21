@@ -1,0 +1,18 @@
+{
+  "name": "xfsdump",
+  "version": "3.1.12-2",
+  "depends": [
+    "xfsprogs",
+    "attr",
+    "acl",
+    "dmapi",
+    "util-linux-libs",
+    "gcc-libs",
+    "ncurses",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199555932,
+  "transmit": 272088,
+  "disk": 4311015
+}
