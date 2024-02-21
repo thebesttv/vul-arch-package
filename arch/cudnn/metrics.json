@@ -1,0 +1,11 @@
+{
+  "name": "cudnn",
+  "version": "8.9.7.29-1",
+  "depends": [
+    "cuda>=12"
+  ],
+  "makedepends": [],
+  "receive": 1070299301,
+  "transmit": 1523829,
+  "disk": 3246089104
+}
