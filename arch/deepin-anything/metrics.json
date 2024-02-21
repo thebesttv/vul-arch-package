@@ -1,0 +1,12 @@
+{
+  "name": "deepin-anything",
+  "version": "5.0.18-1",
+  "depends": [],
+  "makedepends": [
+    "dtkcore",
+    "udisks2-qt5"
+  ],
+  "receive": 199785784,
+  "transmit": 466587,
+  "disk": 911705
+}
