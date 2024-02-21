@@ -1,0 +1,13 @@
+{
+  "name": "python-visitor",
+  "version": "0.1.3-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199516125,
+  "transmit": 275594,
+  "disk": 110612
+}
