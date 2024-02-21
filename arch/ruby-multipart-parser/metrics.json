@@ -1,0 +1,14 @@
+{
+  "name": "ruby-multipart-parser",
+  "version": "0.1.1-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "git"
+  ],
+  "receive": 199610081,
+  "transmit": 362248,
+  "disk": 325664
+}
