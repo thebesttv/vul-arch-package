@@ -1,0 +1,26 @@
+{
+  "name": "aircrack-ng",
+  "version": "1.7-3",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "openssl",
+    "sqlite",
+    "iw",
+    "net-tools",
+    "wireless_tools",
+    "ethtool",
+    "pcre",
+    "libpcap",
+    "libpcap.so",
+    "python",
+    "zlib",
+    "libnl",
+    "hwloc",
+    "usbutils"
+  ],
+  "makedepends": [],
+  "receive": 199523701,
+  "transmit": 268594,
+  "disk": 26704303
+}
