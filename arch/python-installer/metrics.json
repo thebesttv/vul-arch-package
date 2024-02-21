@@ -1,0 +1,19 @@
+{
+  "name": "python-installer",
+  "version": "0.7.0-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-flit-core",
+    "python-build",
+    "python-sphinx",
+    "python-sphinx-furo",
+    "python-myst-parser",
+    "python-sphinx-argparse"
+  ],
+  "receive": 199553855,
+  "transmit": 326986,
+  "disk": 1671705
+}
