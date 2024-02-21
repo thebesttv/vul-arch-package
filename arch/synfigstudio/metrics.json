@@ -1,0 +1,15 @@
+{
+  "name": "synfigstudio",
+  "version": "1.4.4-1",
+  "depends": [
+    "gtkmm3",
+    "synfig"
+  ],
+  "makedepends": [
+    "etl",
+    "intltool"
+  ],
+  "receive": 206596732,
+  "transmit": 413857,
+  "disk": 115707090
+}
