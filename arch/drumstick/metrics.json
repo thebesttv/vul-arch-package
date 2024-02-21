@@ -1,0 +1,25 @@
+{
+  "name": "drumstick",
+  "version": "2.9.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt6-base",
+    "qt6-5compat"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "doxygen",
+    "docbook-xsl",
+    "fluidsynth",
+    "graphviz",
+    "libpulse",
+    "qt6-tools",
+    "sonivox"
+  ],
+  "receive": 199621498,
+  "transmit": 347651,
+  "disk": 3628853
+}
