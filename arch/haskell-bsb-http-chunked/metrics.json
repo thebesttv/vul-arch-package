@@ -1,0 +1,20 @@
+{
+  "name": "haskell-bsb-http-chunked",
+  "version": "0.0.0.4-376",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-attoparsec",
+    "haskell-blaze-builder",
+    "haskell-hedgehog",
+    "haskell-tasty",
+    "haskell-tasty-hedgehog",
+    "haskell-tasty-hunit",
+    "haskell-doctest"
+  ],
+  "receive": 199533625,
+  "transmit": 325085,
+  "disk": 430095
+}
