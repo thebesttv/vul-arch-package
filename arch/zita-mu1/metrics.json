@@ -1,0 +1,16 @@
+{
+  "name": "zita-mu1",
+  "version": "0.3.3-3",
+  "depends": [
+    "cairo",
+    "clxclient",
+    "clthreads",
+    "jack"
+  ],
+  "makedepends": [
+    "gendesk"
+  ],
+  "receive": 199518754,
+  "transmit": 267124,
+  "disk": 351821
+}
