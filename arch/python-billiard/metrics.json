@@ -1,0 +1,16 @@
+{
+  "name": "python-billiard",
+  "version": "4.2.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199546156,
+  "transmit": 276804,
+  "disk": 924610
+}
