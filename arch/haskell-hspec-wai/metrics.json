@@ -1,0 +1,22 @@
+{
+  "name": "haskell-hspec-wai",
+  "version": "0.11.1-403",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-base-compat",
+    "haskell-case-insensitive",
+    "haskell-hspec",
+    "haskell-hspec-core",
+    "haskell-hspec-expectations",
+    "haskell-http-types",
+    "haskell-wai",
+    "haskell-wai-extra"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199654993,
+  "transmit": 381958,
+  "disk": 760810
+}
