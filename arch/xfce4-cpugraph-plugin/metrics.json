@@ -1,0 +1,14 @@
+{
+  "name": "xfce4-cpugraph-plugin",
+  "version": "1.2.10-1",
+  "depends": [
+    "xfce4-panel",
+    "xfconf"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199531969,
+  "transmit": 321869,
+  "disk": 3288005
+}
