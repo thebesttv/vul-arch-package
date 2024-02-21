@@ -1,0 +1,12 @@
+{
+  "name": "libxau",
+  "version": "1.0.11-2",
+  "depends": [
+    "glibc",
+    "xorgproto"
+  ],
+  "makedepends": [],
+  "receive": 199697315,
+  "transmit": 449996,
+  "disk": 2198968
+}
