@@ -1,0 +1,14 @@
+{
+  "name": "perl-moox-late",
+  "version": "0.100-4",
+  "depends": [
+    "perl-moo",
+    "perl-type-tiny",
+    "perl-moox-handlesvia",
+    "perl-sub-handlesvia"
+  ],
+  "makedepends": [],
+  "receive": 199598390,
+  "transmit": 368262,
+  "disk": 203899
+}
