@@ -1,0 +1,15 @@
+{
+  "name": "haskell-text-format",
+  "version": "0.3.2.1-31",
+  "depends": [
+    "ghc-libs",
+    "haskell-double-conversion",
+    "haskell-old-locale"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199672148,
+  "transmit": 267139,
+  "disk": 275709
+}
