@@ -1,0 +1,11 @@
+{
+  "name": "perl-config-general",
+  "version": "2.65-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199507551,
+  "transmit": 272599,
+  "disk": 398559
+}
