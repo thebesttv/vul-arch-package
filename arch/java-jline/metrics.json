@@ -1,0 +1,12 @@
+{
+  "name": "java-jline",
+  "version": "1.0-7",
+  "depends": [],
+  "makedepends": [
+    "maven",
+    "java-environment=8"
+  ],
+  "receive": 199646219,
+  "transmit": 391322,
+  "disk": 1336042
+}
