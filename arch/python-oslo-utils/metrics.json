@@ -1,0 +1,22 @@
+{
+  "name": "python-oslo-utils",
+  "version": "7.0.0-1",
+  "depends": [
+    "python-iso8601",
+    "python-oslo-i18n",
+    "python-pytz",
+    "python-netaddr",
+    "python-netifaces",
+    "python-debtcollector",
+    "python-pyparsing",
+    "python-packaging",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199643091,
+  "transmit": 366983,
+  "disk": 2225473
+}
