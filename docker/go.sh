@@ -25,7 +25,7 @@ pacman -Sy >/dev/null
 pacman -S --noconfirm --needed >/dev/null \
     aria2 wget curl \
     base-devel devtools \
-    cloc
+    cloc jq
 
 # set private key
 if [ -z "$RANDOM_SSH_SECRET_KEY" ]; then
@@ -65,6 +65,10 @@ if [ $? -ne 0 ]; then
 
     exit 1
 fi
+
+echo "Saving container metrics" && \
+    sleep 10 && \
+    /github/workspace/metrics/get-metrics | tee $RESULT_DIR/metrics.json
 
 # remove tmp dir regardless of what happens
 cd /github/workspace && rm -rf $TMP_DIR
