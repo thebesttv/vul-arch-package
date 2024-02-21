@@ -1,0 +1,14 @@
+{
+  "name": "ladspa",
+  "version": "1.17-4",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "libsndfile"
+  ],
+  "receive": 199706776,
+  "transmit": 430500,
+  "disk": 418878
+}
