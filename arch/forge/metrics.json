@@ -1,0 +1,23 @@
+{
+  "name": "forge",
+  "version": "2:1.0.8-1",
+  "depends": [
+    "glfw",
+    "freetype2",
+    "fontconfig",
+    "freeimage",
+    "glbinding"
+  ],
+  "makedepends": [
+    "cmake",
+    "graphviz",
+    "git",
+    "python",
+    "glm",
+    "boost",
+    "ninja"
+  ],
+  "receive": 199605298,
+  "transmit": 384377,
+  "disk": 13521481
+}
