@@ -1,0 +1,13 @@
+{
+  "name": "dash",
+  "version": "0.5.12-1",
+  "depends": [
+    "glibc",
+    "libedit",
+    "libedit.so"
+  ],
+  "makedepends": [],
+  "receive": 199529324,
+  "transmit": 289480,
+  "disk": 926673
+}
