@@ -1,0 +1,17 @@
+{
+  "name": "ruby-cairo",
+  "version": "1.17.8-2",
+  "depends": [
+    "ruby",
+    "cairo",
+    "ruby-pkg-config",
+    "ruby-native-package-installer",
+    "ruby-red-colors"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199569728,
+  "transmit": 289472,
+  "disk": 323284
+}
