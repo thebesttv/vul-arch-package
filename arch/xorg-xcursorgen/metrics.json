@@ -1,0 +1,15 @@
+{
+  "name": "xorg-xcursorgen",
+  "version": "1.0.8-1",
+  "depends": [
+    "libx11",
+    "libxcursor",
+    "libpng"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199661937,
+  "transmit": 389026,
+  "disk": 974957
+}
