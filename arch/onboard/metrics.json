@@ -1,0 +1,21 @@
+{
+  "name": "onboard",
+  "version": "1.4.1-8",
+  "depends": [
+    "gtk3",
+    "hunspell",
+    "iso-codes",
+    "libcanberra",
+    "libxkbfile",
+    "python-cairo",
+    "python-dbus",
+    "python-gobject",
+    "systemd"
+  ],
+  "makedepends": [
+    "python-distutils-extra"
+  ],
+  "receive": 199821194,
+  "transmit": 426856,
+  "disk": 41239405
+}
