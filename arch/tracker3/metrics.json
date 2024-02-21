@@ -1,0 +1,31 @@
+{
+  "name": "tracker3",
+  "version": "3.6.0-3",
+  "depends": [
+    "glib2",
+    "icu",
+    "json-glib",
+    "libsoup3",
+    "libstemmer",
+    "libxml2",
+    "sqlite"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "bash-completion",
+    "dbus",
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "libsoup",
+    "meson",
+    "python-dbus",
+    "python-gobject",
+    "python-tappy",
+    "systemd",
+    "vala"
+  ],
+  "receive": 247594381,
+  "transmit": 323838,
+  "disk": 62559183
+}
