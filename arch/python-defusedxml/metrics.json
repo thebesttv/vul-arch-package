@@ -1,0 +1,13 @@
+{
+  "name": "python-defusedxml",
+  "version": "0.7.1-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 200170907,
+  "transmit": 670402,
+  "disk": 576926
+}
