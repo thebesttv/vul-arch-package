@@ -1,0 +1,14 @@
+{
+  "name": "vegeta",
+  "version": "12.11.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199533193,
+  "transmit": 279988,
+  "disk": 5858702
+}
