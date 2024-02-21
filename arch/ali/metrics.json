@@ -1,0 +1,13 @@
+{
+  "name": "ali",
+  "version": "0.7.5-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199548714,
+  "transmit": 306436,
+  "disk": 14234668
+}
