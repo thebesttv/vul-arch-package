@@ -1,0 +1,13 @@
+{
+  "name": "ruby-hitimes",
+  "version": "2.0.0-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199559486,
+  "transmit": 349902,
+  "disk": 230615
+}
