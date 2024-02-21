@@ -1,0 +1,16 @@
+{
+  "name": "python-poppler-qt5",
+  "version": "21.3.0-2",
+  "depends": [
+    "qt5-base",
+    "poppler-qt5",
+    "python-pyqt5"
+  ],
+  "makedepends": [
+    "pyqt-builder",
+    "sip"
+  ],
+  "receive": 199531195,
+  "transmit": 267868,
+  "disk": 223516
+}
