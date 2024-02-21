@@ -1,0 +1,13 @@
+{
+  "name": "python-volatile",
+  "version": "2.1.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199524127,
+  "transmit": 270204,
+  "disk": 112335
+}
