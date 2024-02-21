@@ -1,0 +1,21 @@
+{
+  "name": "mold",
+  "version": "2.4.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "mimalloc",
+    "zlib",
+    "tbb",
+    "zstd"
+  ],
+  "makedepends": [
+    "git",
+    "python",
+    "cmake",
+    "mold"
+  ],
+  "receive": 220922193,
+  "transmit": 348890,
+  "disk": 60168994
+}
