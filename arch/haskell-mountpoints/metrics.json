@@ -1,0 +1,13 @@
+{
+  "name": "haskell-mountpoints",
+  "version": "1.0.2-24",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199958477,
+  "transmit": 660959,
+  "disk": 162857
+}
