@@ -1,0 +1,23 @@
+{
+  "name": "sherlock.lv2",
+  "version": "0.28.0-2",
+  "depends": [
+    "glew",
+    "glibc",
+    "libglvnd",
+    "libx11",
+    "lv2-host",
+    "sratom"
+  ],
+  "makedepends": [
+    "flex",
+    "glu",
+    "lv2",
+    "meson",
+    "serd",
+    "sord"
+  ],
+  "receive": 199526124,
+  "transmit": 300695,
+  "disk": 8426765
+}
