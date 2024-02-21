@@ -1,0 +1,16 @@
+{
+  "name": "knotifyconfig5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kio5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 202061487,
+  "transmit": 373695,
+  "disk": 26231619
+}
