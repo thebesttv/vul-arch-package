@@ -1,0 +1,16 @@
+{
+  "name": "python-brotlicffi",
+  "version": "1.1.0.0-1",
+  "depends": [
+    "brotli",
+    "python",
+    "python-cffi"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199594121,
+  "transmit": 349465,
+  "disk": 762168
+}
