@@ -1,0 +1,12 @@
+{
+  "name": "kodi-addon-audioencoder-wav",
+  "version": "1:20.2.0-8",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "kodi-dev"
+  ],
+  "receive": 199770970,
+  "transmit": 407001,
+  "disk": 611233
+}
