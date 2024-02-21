@@ -1,0 +1,14 @@
+{
+  "name": "ct",
+  "version": "0.9.4-1",
+  "depends": [
+    "kubectl"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199611143,
+  "transmit": 387704,
+  "disk": 1694177
+}
