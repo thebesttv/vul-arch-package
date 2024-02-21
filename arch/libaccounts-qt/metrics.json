@@ -1,0 +1,14 @@
+{
+  "name": "libaccounts-qt",
+  "version": "1.16-3",
+  "depends": [
+    "libaccounts-glib",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199522937,
+  "transmit": 264330,
+  "disk": 463154
+}
