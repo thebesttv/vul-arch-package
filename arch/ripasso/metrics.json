@@ -1,0 +1,23 @@
+{
+  "name": "ripasso",
+  "version": "0.6.5-1",
+  "depends": [
+    "openssl",
+    "libxcb",
+    "libgpg-error",
+    "zlib",
+    "gpgme",
+    "libgit2"
+  ],
+  "makedepends": [
+    "gettext",
+    "cargo",
+    "clang",
+    "python",
+    "gtk4",
+    "qt5-base"
+  ],
+  "receive": 199658361,
+  "transmit": 407752,
+  "disk": 4571818
+}
