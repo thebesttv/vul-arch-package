@@ -1,0 +1,15 @@
+{
+  "name": "python-tinycss2",
+  "version": "1.2.1-2",
+  "depends": [
+    "python-webencodings"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199539033,
+  "transmit": 329340,
+  "disk": 889522
+}
