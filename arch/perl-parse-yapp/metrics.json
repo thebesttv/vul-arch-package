@@ -1,0 +1,11 @@
+{
+  "name": "perl-parse-yapp",
+  "version": "1.21-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199485514,
+  "transmit": 256608,
+  "disk": 463840
+}
