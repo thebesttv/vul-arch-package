@@ -1,0 +1,17 @@
+{
+  "name": "khtml",
+  "version": "5.115.0-1",
+  "depends": [
+    "giflib",
+    "kparts5",
+    "kjs",
+    "phonon-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "gperf"
+  ],
+  "receive": 199906603,
+  "transmit": 518887,
+  "disk": 40641354
+}
