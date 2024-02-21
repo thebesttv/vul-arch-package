@@ -1,0 +1,22 @@
+{
+  "name": "python-shodan",
+  "version": "1.31.0-1",
+  "depends": [
+    "python",
+    "python-click",
+    "python-click-plugins",
+    "python-colorama",
+    "python-xlsxwriter",
+    "python-requests",
+    "python-setuptools",
+    "python-tldextract"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199831544,
+  "transmit": 475662,
+  "disk": 394426
+}
