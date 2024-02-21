@@ -1,0 +1,11 @@
+{
+  "name": "lightdm-webkit-theme-litarvan",
+  "version": "3.2.0-1",
+  "depends": [
+    "lightdm-webkit2-greeter"
+  ],
+  "makedepends": [],
+  "receive": 199829718,
+  "transmit": 514672,
+  "disk": 19450566
+}
