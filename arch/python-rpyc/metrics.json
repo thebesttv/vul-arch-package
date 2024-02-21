@@ -1,0 +1,17 @@
+{
+  "name": "python-rpyc",
+  "version": "5.3.1-2",
+  "depends": [
+    "python",
+    "python-plumbum"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-hatchling"
+  ],
+  "receive": 199558471,
+  "transmit": 280094,
+  "disk": 3242070
+}
