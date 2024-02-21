@@ -1,0 +1,16 @@
+{
+  "name": "pacrunner",
+  "version": "0.19-2",
+  "depends": [
+    "glib2",
+    "dbus",
+    "curl",
+    "duktape"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199682714,
+  "transmit": 424219,
+  "disk": 6441099
+}
