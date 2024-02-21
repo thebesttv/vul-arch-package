@@ -1,0 +1,13 @@
+{
+  "name": "plfit",
+  "version": "0.9.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199577814,
+  "transmit": 302808,
+  "disk": 1095802
+}
