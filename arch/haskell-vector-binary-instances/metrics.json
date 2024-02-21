@@ -1,0 +1,15 @@
+{
+  "name": "haskell-vector-binary-instances",
+  "version": "0.2.5.2-114",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199759899,
+  "transmit": 477760,
+  "disk": 313057
+}
