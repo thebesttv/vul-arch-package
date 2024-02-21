@@ -1,0 +1,16 @@
+{
+  "name": "ruby-bcrypt_pbkdf",
+  "version": "1.1.0-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-bundler",
+    "ruby-rdoc",
+    "ruby-rake-compiler"
+  ],
+  "receive": 199675277,
+  "transmit": 411206,
+  "disk": 191749
+}
