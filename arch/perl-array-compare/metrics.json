@@ -1,0 +1,11 @@
+{
+  "name": "perl-array-compare",
+  "version": "4.0.0-1",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199576288,
+  "transmit": 344042,
+  "disk": 154268
+}
