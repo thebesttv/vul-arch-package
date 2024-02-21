@@ -1,0 +1,20 @@
+{
+  "name": "freeimage",
+  "version": "3.18.0-21",
+  "depends": [
+    "libjpeg-turbo",
+    "openexr",
+    "openjpeg2",
+    "libwebp",
+    "libraw",
+    "libtiff",
+    "jxrlib"
+  ],
+  "makedepends": [
+    "mesa",
+    "glu"
+  ],
+  "receive": 207127173,
+  "transmit": 402802,
+  "disk": 41515033
+}
