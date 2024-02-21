@@ -1,0 +1,13 @@
+{
+  "name": "yaegi",
+  "version": "0.15.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 200789446,
+  "transmit": 968209,
+  "disk": 22539497
+}
