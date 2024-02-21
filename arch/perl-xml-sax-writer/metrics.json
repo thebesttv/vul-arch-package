@@ -1,0 +1,13 @@
+{
+  "name": "perl-xml-sax-writer",
+  "version": "0.57-2",
+  "depends": [
+    "perl",
+    "perl-text-iconv",
+    "perl-xml-filter-buffertext"
+  ],
+  "makedepends": [],
+  "receive": 199580643,
+  "transmit": 351604,
+  "disk": 217071
+}
