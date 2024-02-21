@@ -1,0 +1,21 @@
+{
+  "name": "appstream-glib",
+  "version": "0.8.2-3",
+  "depends": [
+    "curl",
+    "gtk3",
+    "libstemmer",
+    "libyaml",
+    "pacman"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gperf",
+    "gtk-doc",
+    "meson"
+  ],
+  "receive": 199523825,
+  "transmit": 250782,
+  "disk": 17113505
+}
