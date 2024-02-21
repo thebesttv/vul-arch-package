@@ -1,0 +1,15 @@
+{
+  "name": "libretro-citra",
+  "version": "9304-1",
+  "depends": [
+    "libretro-core-info",
+    "sdl2"
+  ],
+  "makedepends": [
+    "git",
+    "nasm"
+  ],
+  "receive": 951275908,
+  "transmit": 2332857,
+  "disk": 1034400920
+}
