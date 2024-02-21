@@ -1,0 +1,14 @@
+{
+  "name": "xonotic-data",
+  "version": "0.8.6-2",
+  "depends": [
+    "bash",
+    "perl"
+  ],
+  "makedepends": [
+    "unzip"
+  ],
+  "receive": 1446573517,
+  "transmit": 4092101,
+  "disk": 2592600027
+}
