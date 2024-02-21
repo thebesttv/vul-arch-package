@@ -1,0 +1,13 @@
+{
+  "name": "inotify-tools",
+  "version": "4.23.9.0-1",
+  "depends": [],
+  "makedepends": [
+    "gcc",
+    "make",
+    "doxygen"
+  ],
+  "receive": 199626240,
+  "transmit": 352261,
+  "disk": 590794
+}
