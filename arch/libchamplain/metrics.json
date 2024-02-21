@@ -1,0 +1,20 @@
+{
+  "name": "libchamplain",
+  "version": "0.12.21-1",
+  "depends": [
+    "clutter-gtk",
+    "libsoup3",
+    "cairo",
+    "sqlite"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "gtk-doc",
+    "vala",
+    "meson",
+    "git"
+  ],
+  "receive": 199561455,
+  "transmit": 281674,
+  "disk": 6721240
+}
