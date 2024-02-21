@@ -1,0 +1,11 @@
+{
+  "name": "jitterentropy",
+  "version": "3.4.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199765568,
+  "transmit": 489311,
+  "disk": 251790
+}
