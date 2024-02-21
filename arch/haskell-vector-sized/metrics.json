@@ -1,0 +1,23 @@
+{
+  "name": "haskell-vector-sized",
+  "version": "1.6.1-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-adjunctions",
+    "haskell-comonad",
+    "haskell-distributive",
+    "haskell-finite-typelits",
+    "haskell-hashable",
+    "haskell-indexed-list-literals",
+    "haskell-indexed-traversable",
+    "haskell-primitive",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199509741,
+  "transmit": 280448,
+  "disk": 755967
+}
