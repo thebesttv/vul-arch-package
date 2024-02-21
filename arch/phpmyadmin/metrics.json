@@ -1,0 +1,12 @@
+{
+  "name": "phpmyadmin",
+  "version": "5.2.1-1",
+  "depends": [
+    "mysql-clients",
+    "php"
+  ],
+  "makedepends": [],
+  "receive": 207168078,
+  "transmit": 293930,
+  "disk": 61363628
+}
