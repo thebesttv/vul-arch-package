@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libao",
+  "version": "1.2.2-4",
+  "depends": [
+    "libao=1.2.2",
+    "lib32-glibc",
+    "lib32-libpulse"
+  ],
+  "makedepends": [
+    "lib32-alsa-lib"
+  ],
+  "receive": 199722978,
+  "transmit": 378727,
+  "disk": 648608
+}
