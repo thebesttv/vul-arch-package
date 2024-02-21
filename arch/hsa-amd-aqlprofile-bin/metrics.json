@@ -1,0 +1,11 @@
+{
+  "name": "hsa-amd-aqlprofile-bin",
+  "version": "6.0.0-1",
+  "depends": [
+    "hsa-rocr"
+  ],
+  "makedepends": [],
+  "receive": 199672022,
+  "transmit": 289624,
+  "disk": 702451
+}
