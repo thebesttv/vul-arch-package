@@ -1,0 +1,14 @@
+{
+  "name": "shake",
+  "version": "1.0-3",
+  "depends": [
+    "attr"
+  ],
+  "makedepends": [
+    "cmake",
+    "help2man"
+  ],
+  "receive": 199519663,
+  "transmit": 255424,
+  "disk": 299750
+}
