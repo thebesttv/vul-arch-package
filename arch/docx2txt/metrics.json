@@ -1,0 +1,12 @@
+{
+  "name": "docx2txt",
+  "version": "1.4-5",
+  "depends": [
+    "perl",
+    "unzip"
+  ],
+  "makedepends": [],
+  "receive": 199617279,
+  "transmit": 367310,
+  "disk": 212544
+}
