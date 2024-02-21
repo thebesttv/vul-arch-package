@@ -1,0 +1,11 @@
+{
+  "name": "docbook-sgml31",
+  "version": "3.1-5",
+  "depends": [
+    "sgml-common"
+  ],
+  "makedepends": [],
+  "receive": 199529927,
+  "transmit": 278474,
+  "disk": 445615
+}
