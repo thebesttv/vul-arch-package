@@ -1,0 +1,13 @@
+{
+  "name": "obconf",
+  "version": "2.0.4-8",
+  "depends": [
+    "openbox",
+    "gtk3",
+    "libobrender.so"
+  ],
+  "makedepends": [],
+  "receive": 199537544,
+  "transmit": 325771,
+  "disk": 3243986
+}
