@@ -1,0 +1,14 @@
+{
+  "name": "charm",
+  "version": "0.12.6-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 200676523,
+  "transmit": 1272330,
+  "disk": 2619956
+}
