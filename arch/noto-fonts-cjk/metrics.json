@@ -1,0 +1,11 @@
+{
+  "name": "noto-fonts-cjk",
+  "version": "20230817-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 7445920711,
+  "transmit": 3999267,
+  "disk": 11459951337
+}
