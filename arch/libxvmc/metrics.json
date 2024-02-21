@@ -1,0 +1,17 @@
+{
+  "name": "libxvmc",
+  "version": "1.0.14-1",
+  "depends": [
+    "libxext",
+    "libxv",
+    "libx11",
+    "xorgproto",
+    "glibc"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199584539,
+  "transmit": 377775,
+  "disk": 2319837
+}
