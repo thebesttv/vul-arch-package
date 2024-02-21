@@ -1,0 +1,18 @@
+{
+  "name": "python-enrich",
+  "version": "1.2.7-5",
+  "depends": [
+    "python-rich"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199682233,
+  "transmit": 397218,
+  "disk": 435721
+}
