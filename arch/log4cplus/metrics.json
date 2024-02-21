@@ -1,0 +1,11 @@
+{
+  "name": "log4cplus",
+  "version": "2.1.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199557666,
+  "transmit": 320743,
+  "disk": 10670526
+}
