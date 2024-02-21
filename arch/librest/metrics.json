@@ -1,0 +1,22 @@
+{
+  "name": "librest",
+  "version": "0.9.1-2",
+  "depends": [
+    "glib2",
+    "libxml2",
+    "libsoup3",
+    "json-glib"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "git",
+    "meson",
+    "gi-docgen",
+    "vala",
+    "libadwaita",
+    "gtksourceview5"
+  ],
+  "receive": 199546928,
+  "transmit": 274165,
+  "disk": 1641309
+}
