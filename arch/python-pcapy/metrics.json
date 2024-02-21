@@ -1,0 +1,15 @@
+{
+  "name": "python-pcapy",
+  "version": "1.0.9-1",
+  "depends": [
+    "python",
+    "libpcap"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 199689433,
+  "transmit": 402771,
+  "disk": 356001
+}
