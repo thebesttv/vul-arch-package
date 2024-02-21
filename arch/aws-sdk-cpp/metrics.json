@@ -1,0 +1,21 @@
+{
+  "name": "aws-sdk-cpp",
+  "version": "1.11.124-1",
+  "depends": [
+    "openssl",
+    "curl",
+    "zlib",
+    "util-linux-libs",
+    "aws-c-common",
+    "aws-c-event-stream",
+    "libpulse",
+    "aws-crt-cpp"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 344142303,
+  "transmit": 2482955,
+  "disk": 809668307
+}
