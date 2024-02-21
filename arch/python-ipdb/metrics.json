@@ -1,0 +1,14 @@
+{
+  "name": "python-ipdb",
+  "version": "0.13.13-1",
+  "depends": [
+    "ipython"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-tomli"
+  ],
+  "receive": 199898981,
+  "transmit": 417909,
+  "disk": 195109
+}
