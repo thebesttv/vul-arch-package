@@ -1,0 +1,11 @@
+{
+  "name": "java-hamcrest",
+  "version": "1.3-5",
+  "depends": [
+    "java-runtime-headless"
+  ],
+  "makedepends": [],
+  "receive": 199631422,
+  "transmit": 380672,
+  "disk": 401287
+}
