@@ -1,0 +1,11 @@
+{
+  "name": "firejail",
+  "version": "0.9.72-1",
+  "depends": [
+    "apparmor"
+  ],
+  "makedepends": [],
+  "receive": 199665739,
+  "transmit": 365391,
+  "disk": 4441639
+}
