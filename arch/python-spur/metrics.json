@@ -1,0 +1,14 @@
+{
+  "name": "python-spur",
+  "version": "0.3.23-2",
+  "depends": [
+    "python",
+    "python-paramiko"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199621835,
+  "transmit": 359149,
+  "disk": 192878
+}
