@@ -1,0 +1,12 @@
+{
+  "name": "ksh",
+  "version": "2020.0.0-3",
+  "depends": [],
+  "makedepends": [
+    "meson",
+    "samurai"
+  ],
+  "receive": 199519090,
+  "transmit": 292523,
+  "disk": 10014933
+}
