@@ -1,0 +1,20 @@
+{
+  "name": "haskell-pandoc-types",
+  "version": "1.23.1-11",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-quickcheck",
+    "haskell-syb"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 200138698,
+  "transmit": 456867,
+  "disk": 724460
+}
