@@ -1,0 +1,11 @@
+{
+  "name": "ruby-rubytest",
+  "version": "0.8.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199528471,
+  "transmit": 288946,
+  "disk": 266471
+}
