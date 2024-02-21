@@ -1,0 +1,14 @@
+{
+  "name": "agda-stdlib",
+  "version": "1.7.3-1",
+  "depends": [
+    "agda=2.6.4"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-filemanip"
+  ],
+  "receive": 199546217,
+  "transmit": 299632,
+  "disk": 7126662
+}
