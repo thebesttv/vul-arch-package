@@ -1,0 +1,14 @@
+{
+  "name": "unshield",
+  "version": "1.5.1-2",
+  "depends": [
+    "zlib",
+    "openssl"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199554460,
+  "transmit": 301966,
+  "disk": 459557
+}
