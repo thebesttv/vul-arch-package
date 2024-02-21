@@ -1,0 +1,15 @@
+{
+  "name": "libsigc++-3.0",
+  "version": "3.6.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "mm-common"
+  ],
+  "receive": 199741711,
+  "transmit": 466049,
+  "disk": 3398432
+}
