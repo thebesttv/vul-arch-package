@@ -1,0 +1,19 @@
+{
+  "name": "python-clikit",
+  "version": "0.6.2-9",
+  "depends": [
+    "python-crashtest",
+    "python-pastel",
+    "python-pylev",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 199768963,
+  "transmit": 453305,
+  "disk": 771659
+}
