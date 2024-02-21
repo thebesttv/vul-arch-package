@@ -1,0 +1,12 @@
+{
+  "name": "dns-over-https",
+  "version": "2.3.5-1",
+  "depends": [],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199788536,
+  "transmit": 477925,
+  "disk": 376405
+}
