@@ -1,0 +1,15 @@
+{
+  "name": "feeluown-qqmusic",
+  "version": "1.0.1-1",
+  "depends": [
+    "feeluown",
+    "python-marshmallow",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199494438,
+  "transmit": 255579,
+  "disk": 249455
+}
