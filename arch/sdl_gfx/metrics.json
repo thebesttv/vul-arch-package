@@ -1,0 +1,11 @@
+{
+  "name": "sdl_gfx",
+  "version": "2.0.27-1",
+  "depends": [
+    "sdl"
+  ],
+  "makedepends": [],
+  "receive": 199516685,
+  "transmit": 262084,
+  "disk": 10807967
+}
