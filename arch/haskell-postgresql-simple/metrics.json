@@ -1,0 +1,31 @@
+{
+  "name": "haskell-postgresql-simple",
+  "version": "0.6.5-62",
+  "depends": [
+    "ghc-libs",
+    "haskell-only",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-case-insensitive",
+    "haskell-hashable",
+    "haskell-postgresql-libpq",
+    "haskell-scientific",
+    "haskell-time-compat",
+    "haskell-uuid-types",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit",
+    "haskell-base16-bytestring",
+    "haskell-cryptohash-md5",
+    "haskell-inspection-testing",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199563943,
+  "transmit": 322146,
+  "disk": 808610
+}
