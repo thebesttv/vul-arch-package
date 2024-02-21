@@ -1,0 +1,11 @@
+{
+  "name": "patchelf",
+  "version": "0.18.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199650277,
+  "transmit": 395268,
+  "disk": 2336001
+}
