@@ -1,0 +1,25 @@
+{
+  "name": "boinc",
+  "version": "7.24.1-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "curl",
+    "freeglut",
+    "glu",
+    "inetutils",
+    "libnotify",
+    "libnsl",
+    "libxmu",
+    "libxslt",
+    "libxss",
+    "mesa",
+    "perl-xml-sax",
+    "sqlite3",
+    "webkit2gtk",
+    "wxwidgets-gtk3"
+  ],
+  "receive": 527830595,
+  "transmit": 1393883,
+  "disk": 458354612
+}
