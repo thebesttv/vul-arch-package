@@ -1,0 +1,17 @@
+{
+  "name": "python-qt-material",
+  "version": "2.14-1",
+  "depends": [
+    "python-jinja"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199584959,
+  "transmit": 351950,
+  "disk": 139678345
+}
