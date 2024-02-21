@@ -1,0 +1,13 @@
+{
+  "name": "perl-memory-usage",
+  "version": "0.201-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-install"
+  ],
+  "receive": 199642490,
+  "transmit": 394020,
+  "disk": 198481
+}
