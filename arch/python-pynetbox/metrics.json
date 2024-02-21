@@ -1,0 +1,15 @@
+{
+  "name": "python-pynetbox",
+  "version": "7.0.1-1",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools-scm"
+  ],
+  "receive": 199533873,
+  "transmit": 280812,
+  "disk": 748422
+}
