@@ -1,0 +1,23 @@
+{
+  "name": "xfce4-settings",
+  "version": "4.18.4-1",
+  "depends": [
+    "exo",
+    "garcon",
+    "libxfce4ui",
+    "xfconf",
+    "libnotify",
+    "libcanberra",
+    "colord",
+    "libxklavier",
+    "elementary-icon-theme",
+    "gnome-themes-extra"
+  ],
+  "makedepends": [
+    "intltool",
+    "xf86-input-libinput"
+  ],
+  "receive": 199886498,
+  "transmit": 411735,
+  "disk": 13789945
+}
