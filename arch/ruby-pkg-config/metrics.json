@@ -1,0 +1,13 @@
+{
+  "name": "ruby-pkg-config",
+  "version": "1.5.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199613914,
+  "transmit": 402766,
+  "disk": 583705
+}
