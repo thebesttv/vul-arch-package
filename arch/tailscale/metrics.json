@@ -1,0 +1,14 @@
+{
+  "name": "tailscale",
+  "version": "1.60.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 203945221,
+  "transmit": 497592,
+  "disk": 79541403
+}
