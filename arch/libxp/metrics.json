@@ -1,0 +1,14 @@
+{
+  "name": "libxp",
+  "version": "1.0.4-2",
+  "depends": [
+    "libxext"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199521984,
+  "transmit": 270027,
+  "disk": 2392984
+}
