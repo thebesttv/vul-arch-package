@@ -1,0 +1,15 @@
+{
+  "name": "arpack",
+  "version": "3.9.1-2",
+  "depends": [
+    "lapack",
+    "openmpi"
+  ],
+  "makedepends": [
+    "gcc-fortran",
+    "git"
+  ],
+  "receive": 199535470,
+  "transmit": 278286,
+  "disk": 10486193
+}
