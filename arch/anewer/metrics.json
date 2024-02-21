@@ -1,0 +1,11 @@
+{
+  "name": "anewer",
+  "version": "0.1.6-1",
+  "depends": [],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199621081,
+  "transmit": 309010,
+  "disk": 167155
+}
