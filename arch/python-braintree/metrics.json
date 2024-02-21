@@ -1,0 +1,13 @@
+{
+  "name": "python-braintree",
+  "version": "4.26.0-1",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199617060,
+  "transmit": 392720,
+  "disk": 2061161
+}
