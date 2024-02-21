@@ -1,0 +1,15 @@
+{
+  "name": "haskell-pretty-show",
+  "version": "1.10-14",
+  "depends": [
+    "ghc-libs",
+    "haskell-lexer"
+  ],
+  "makedepends": [
+    "ghc",
+    "happy"
+  ],
+  "receive": 199543613,
+  "transmit": 268898,
+  "disk": 298848
+}
