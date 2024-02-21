@@ -1,0 +1,14 @@
+{
+  "name": "postgresql-ip4r",
+  "version": "2.4.2-1",
+  "depends": [
+    "postgresql"
+  ],
+  "makedepends": [
+    "clang15",
+    "llvm15"
+  ],
+  "receive": 199598139,
+  "transmit": 323136,
+  "disk": 1243439
+}
