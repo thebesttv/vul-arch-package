@@ -1,0 +1,19 @@
+{
+  "name": "etherape",
+  "version": "0.9.20-1",
+  "depends": [
+    "glibc",
+    "glib2",
+    "libpcap",
+    "popt",
+    "goocanvas",
+    "gtk3",
+    "libpcap.so"
+  ],
+  "makedepends": [
+    "yelp-tools"
+  ],
+  "receive": 201145843,
+  "transmit": 388652,
+  "disk": 7335994
+}
