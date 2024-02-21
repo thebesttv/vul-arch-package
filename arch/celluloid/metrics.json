@@ -1,0 +1,16 @@
+{
+  "name": "celluloid",
+  "version": "0.26-1",
+  "depends": [
+    "gtk4",
+    "mpv",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "meson"
+  ],
+  "receive": 199645212,
+  "transmit": 392499,
+  "disk": 3307451
+}
