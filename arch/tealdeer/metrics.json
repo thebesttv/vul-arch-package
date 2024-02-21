@@ -1,0 +1,14 @@
+{
+  "name": "tealdeer",
+  "version": "1.6.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199585003,
+  "transmit": 348855,
+  "disk": 4584301
+}
