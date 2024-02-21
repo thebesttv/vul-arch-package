@@ -1,0 +1,16 @@
+{
+  "name": "python-ethtool",
+  "version": "0.15-4",
+  "depends": [
+    "python",
+    "libnl"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "libnl",
+    "python-setuptools"
+  ],
+  "receive": 199549473,
+  "transmit": 279227,
+  "disk": 373357
+}
