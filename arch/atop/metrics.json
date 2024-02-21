@@ -1,0 +1,13 @@
+{
+  "name": "atop",
+  "version": "2.10.0-1",
+  "depends": [
+    "ncurses",
+    "sh",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199513261,
+  "transmit": 255684,
+  "disk": 1888467
+}
