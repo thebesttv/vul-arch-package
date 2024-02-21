@@ -1,0 +1,21 @@
+{
+  "name": "avr-gdb",
+  "version": "13.2-1",
+  "depends": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile",
+    "gdb-common",
+    "mpfr",
+    "libelf",
+    "source-highlight"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 223756717,
+  "transmit": 654249,
+  "disk": 231488916
+}
