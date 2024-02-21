@@ -1,0 +1,13 @@
+{
+  "name": "psiconv",
+  "version": "0.9.9-8",
+  "depends": [
+    "graphicsmagick"
+  ],
+  "makedepends": [
+    "bc"
+  ],
+  "receive": 199826233,
+  "transmit": 373284,
+  "disk": 3271068
+}
