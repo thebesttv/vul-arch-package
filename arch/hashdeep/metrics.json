@@ -1,0 +1,11 @@
+{
+  "name": "hashdeep",
+  "version": "4.4-7",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199562730,
+  "transmit": 294487,
+  "disk": 16853664
+}
