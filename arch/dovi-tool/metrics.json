@@ -1,0 +1,15 @@
+{
+  "name": "dovi-tool",
+  "version": "2.1.0-1",
+  "depends": [
+    "fontconfig"
+  ],
+  "makedepends": [
+    "cargo",
+    "git",
+    "gnu-free-fonts"
+  ],
+  "receive": 199651935,
+  "transmit": 367580,
+  "disk": 6265291
+}
