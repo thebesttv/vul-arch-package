@@ -1,0 +1,21 @@
+{
+  "name": "pantheon-notifications",
+  "version": "7.0.1-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libcanberra.so",
+    "libcanberra-gtk3.so",
+    "libgranite.so",
+    "libhandy-1.so"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199539812,
+  "transmit": 321559,
+  "disk": 2162751
+}
