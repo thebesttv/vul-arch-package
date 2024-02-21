@@ -1,0 +1,15 @@
+{
+  "name": "python-django-extensions",
+  "version": "3.2.3-1",
+  "depends": [
+    "python-django",
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199636722,
+  "transmit": 382822,
+  "disk": 7735172
+}
