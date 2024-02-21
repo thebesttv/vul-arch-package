@@ -1,0 +1,13 @@
+{
+  "name": "ibus-table-chinese",
+  "version": "1.8.12-1",
+  "depends": [
+    "ibus-table"
+  ],
+  "makedepends": [
+    "cmake-fedora"
+  ],
+  "receive": 203824770,
+  "transmit": 343100,
+  "disk": 41375291
+}
