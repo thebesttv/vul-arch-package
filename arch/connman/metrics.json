@@ -1,0 +1,21 @@
+{
+  "name": "connman",
+  "version": "1.41-1",
+  "depends": [
+    "dbus",
+    "iptables",
+    "gnutls",
+    "glib2"
+  ],
+  "makedepends": [
+    "bluez",
+    "wpa_supplicant",
+    "openconnect",
+    "openvpn",
+    "ppp",
+    "iwd"
+  ],
+  "receive": 199534173,
+  "transmit": 280743,
+  "disk": 6489992
+}
