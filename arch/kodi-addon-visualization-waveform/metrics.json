@@ -1,0 +1,14 @@
+{
+  "name": "kodi-addon-visualization-waveform",
+  "version": "1:20.2.1-9",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "glu",
+    "glm",
+    "kodi-dev"
+  ],
+  "receive": 199740229,
+  "transmit": 455588,
+  "disk": 1859566
+}
