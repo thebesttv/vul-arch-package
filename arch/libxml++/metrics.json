@@ -1,0 +1,17 @@
+{
+  "name": "libxml++",
+  "version": "3.2.5-1",
+  "depends": [
+    "glibmm",
+    "libxml2"
+  ],
+  "makedepends": [
+    "git",
+    "glibmm-docs",
+    "meson",
+    "mm-common"
+  ],
+  "receive": 199697098,
+  "transmit": 429890,
+  "disk": 2685057
+}
