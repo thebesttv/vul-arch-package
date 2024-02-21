@@ -1,0 +1,11 @@
+{
+  "name": "mdns-scan",
+  "version": "0.5-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199693792,
+  "transmit": 409152,
+  "disk": 156147
+}
