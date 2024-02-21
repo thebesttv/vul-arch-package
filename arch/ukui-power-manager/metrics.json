@@ -1,0 +1,20 @@
+{
+  "name": "ukui-power-manager",
+  "version": "3.0.1-2",
+  "depends": [
+    "dbus-glib",
+    "gtk3",
+    "libgnome-keyring",
+    "libnotify",
+    "upower",
+    "libcanberra"
+  ],
+  "makedepends": [
+    "intltool",
+    "mate-common",
+    "yelp-tools"
+  ],
+  "receive": 199632723,
+  "transmit": 394634,
+  "disk": 14774143
+}
