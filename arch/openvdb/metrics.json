@@ -1,0 +1,28 @@
+{
+  "name": "openvdb",
+  "version": "11.0.0-1",
+  "depends": [
+    "boost-libs",
+    "intel-tbb",
+    "zlib",
+    "jemalloc",
+    "blosc",
+    "log4cplus"
+  ],
+  "makedepends": [
+    "doxygen",
+    "boost",
+    "cmake",
+    "mesa",
+    "cppunit",
+    "glfw-x11",
+    "glu",
+    "python",
+    "python-numpy",
+    "ninja",
+    "pybind11"
+  ],
+  "receive": 204365589,
+  "transmit": 319211,
+  "disk": 25932287
+}
