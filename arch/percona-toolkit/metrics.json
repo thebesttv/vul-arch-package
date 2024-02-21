@@ -1,0 +1,16 @@
+{
+  "name": "percona-toolkit",
+  "version": "3.5.7-1",
+  "depends": [
+    "perl-term-readkey"
+  ],
+  "makedepends": [
+    "perl-dbd-mysql",
+    "perl-dbi",
+    "go",
+    "git"
+  ],
+  "receive": 221263135,
+  "transmit": 769825,
+  "disk": 115429980
+}
