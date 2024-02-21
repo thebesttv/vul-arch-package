@@ -1,0 +1,16 @@
+{
+  "name": "ruby-spdx-licenses",
+  "version": "1.3.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-minitest",
+    "ruby-mocha"
+  ],
+  "receive": 199706868,
+  "transmit": 447093,
+  "disk": 319488
+}
