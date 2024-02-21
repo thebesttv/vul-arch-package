@@ -92,6 +92,7 @@ jobs:
         run: |
           rm -fv log
       - name: Start collecting metrics
+        if: env.TBT_UPDATE_PACKAGE == 'true'
         run: |
           cd metrics && docker-compose up -d
       - name: Docker
