@@ -1,0 +1,13 @@
+{
+  "name": "perl-data-hierarchy",
+  "version": "0.34-14",
+  "depends": [
+    "perl-test-exception"
+  ],
+  "makedepends": [
+    "perl-test-exception"
+  ],
+  "receive": 199603990,
+  "transmit": 360095,
+  "disk": 150447
+}
