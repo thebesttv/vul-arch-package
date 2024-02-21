@@ -1,0 +1,13 @@
+{
+  "name": "perl-ppix-regexp",
+  "version": "0.088-2",
+  "depends": [
+    "perl-list-moreutils",
+    "perl-ppi",
+    "perl-task-weaken"
+  ],
+  "makedepends": [],
+  "receive": 199617602,
+  "transmit": 411976,
+  "disk": 1651626
+}
