@@ -1,0 +1,11 @@
+{
+  "name": "liburcu",
+  "version": "0.14.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199601265,
+  "transmit": 377547,
+  "disk": 7651414
+}
