@@ -1,0 +1,11 @@
+{
+  "name": "ruby-base64",
+  "version": "0.1.1-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199629535,
+  "transmit": 390472,
+  "disk": 136001
+}
