@@ -1,0 +1,16 @@
+{
+  "name": "jsampler",
+  "version": "0.9-9",
+  "depends": [
+    "java-runtime=8",
+    "linuxsampler"
+  ],
+  "makedepends": [
+    "gendesk",
+    "java-environment=8",
+    "apache-ant"
+  ],
+  "receive": 199560053,
+  "transmit": 266747,
+  "disk": 17245118
+}
