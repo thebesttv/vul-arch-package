@@ -1,0 +1,15 @@
+{
+  "name": "cutefish-terminal",
+  "version": "0.7-1",
+  "depends": [
+    "fishui",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools"
+  ],
+  "receive": 199686149,
+  "transmit": 452484,
+  "disk": 1569288
+}
