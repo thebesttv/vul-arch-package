@@ -1,0 +1,13 @@
+{
+  "name": "diff-so-fancy",
+  "version": "1.4.4-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199561591,
+  "transmit": 299787,
+  "disk": 648986
+}
