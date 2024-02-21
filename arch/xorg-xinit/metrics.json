@@ -1,0 +1,16 @@
+{
+  "name": "xorg-xinit",
+  "version": "1.4.2-1",
+  "depends": [
+    "libx11",
+    "xorg-xauth",
+    "xorg-xrdb",
+    "xorg-xmodmap"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199545490,
+  "transmit": 258752,
+  "disk": 1276003
+}
