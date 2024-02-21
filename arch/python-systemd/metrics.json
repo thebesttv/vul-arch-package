@@ -1,0 +1,15 @@
+{
+  "name": "python-systemd",
+  "version": "235-2",
+  "depends": [
+    "python",
+    "systemd"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 199506297,
+  "transmit": 257098,
+  "disk": 1044937
+}
