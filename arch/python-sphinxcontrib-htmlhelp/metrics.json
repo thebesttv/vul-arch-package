@@ -1,0 +1,16 @@
+{
+  "name": "python-sphinxcontrib-htmlhelp",
+  "version": "2.0.5-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199531958,
+  "transmit": 248076,
+  "disk": 1079091
+}
