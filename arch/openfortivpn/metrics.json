@@ -1,0 +1,18 @@
+{
+  "name": "openfortivpn",
+  "version": "1.21.0-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "ppp",
+    "resolvconf",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "git",
+    "systemd"
+  ],
+  "receive": 199699537,
+  "transmit": 422779,
+  "disk": 3425260
+}
