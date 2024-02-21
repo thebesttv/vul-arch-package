@@ -1,0 +1,13 @@
+{
+  "name": "lrzip",
+  "version": "0.651-2",
+  "depends": [
+    "lzo"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199840032,
+  "transmit": 486426,
+  "disk": 4062758
+}
