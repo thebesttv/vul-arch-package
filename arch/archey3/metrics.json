@@ -1,0 +1,14 @@
+{
+  "name": "archey3",
+  "version": "0.5-14",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-distribute"
+  ],
+  "receive": 199530269,
+  "transmit": 271713,
+  "disk": 532566
+}
