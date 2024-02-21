@@ -1,0 +1,13 @@
+{
+  "name": "shy",
+  "version": "0.1.10-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 200994631,
+  "transmit": 1386369,
+  "disk": 474850
+}
