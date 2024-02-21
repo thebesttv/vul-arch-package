@@ -1,0 +1,14 @@
+{
+  "name": "mimir",
+  "version": "2.11.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 551266159,
+  "transmit": 1543504,
+  "disk": 479933707
+}
