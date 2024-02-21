@@ -1,0 +1,14 @@
+{
+  "name": "nspluginwrapper",
+  "version": "1.4.4-6",
+  "depends": [
+    "curl",
+    "libxt",
+    "gcc-libs",
+    "gtk2"
+  ],
+  "makedepends": [],
+  "receive": 199651185,
+  "transmit": 396401,
+  "disk": 2684942
+}
