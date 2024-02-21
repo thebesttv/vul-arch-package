@@ -1,0 +1,13 @@
+{
+  "name": "gtk-engine-murrine",
+  "version": "0.98.2-4",
+  "depends": [
+    "gtk2"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199631957,
+  "transmit": 402693,
+  "disk": 2392376
+}
