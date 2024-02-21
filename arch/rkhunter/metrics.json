@@ -1,0 +1,13 @@
+{
+  "name": "rkhunter",
+  "version": "1.4.6-3",
+  "depends": [
+    "bash",
+    "perl",
+    "wget"
+  ],
+  "makedepends": [],
+  "receive": 199902114,
+  "transmit": 295349,
+  "disk": 1627967
+}
