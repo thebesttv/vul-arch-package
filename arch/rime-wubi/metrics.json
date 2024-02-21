@@ -1,0 +1,15 @@
+{
+  "name": "rime-wubi",
+  "version": "0.0.0.20231025-1",
+  "depends": [
+    "rime-pinyin-simp"
+  ],
+  "makedepends": [
+    "librime",
+    "rime-prelude",
+    "rime-essay"
+  ],
+  "receive": 201218286,
+  "transmit": 819879,
+  "disk": 3488851
+}
