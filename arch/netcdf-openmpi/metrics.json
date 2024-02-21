@@ -1,0 +1,17 @@
+{
+  "name": "netcdf-openmpi",
+  "version": "4.9.2-4",
+  "depends": [
+    "hdf5-openmpi",
+    "pnetcdf-openmpi",
+    "curl",
+    "libxml2",
+    "libzip"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 219885411,
+  "transmit": 634220,
+  "disk": 127722252
+}
