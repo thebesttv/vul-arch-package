@@ -1,0 +1,26 @@
+{
+  "name": "glob2",
+  "version": "0.9.4.4-47",
+  "depends": [
+    "boost-libs",
+    "sdl_net",
+    "sdl_image",
+    "sdl_ttf",
+    "libvorbis",
+    "speex",
+    "glu",
+    "fribidi",
+    "xdg-utils",
+    "libgl",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "scons",
+    "boost",
+    "mesa",
+    "patch"
+  ],
+  "receive": 199585938,
+  "transmit": 334925,
+  "disk": 40930783
+}
