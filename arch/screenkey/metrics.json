@@ -1,0 +1,20 @@
+{
+  "name": "screenkey",
+  "version": "1.5-3",
+  "depends": [
+    "python-gobject",
+    "gtk3",
+    "python-cairo",
+    "libx11",
+    "dbus-python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-wheel",
+    "python-babel",
+    "python-distutils-extra"
+  ],
+  "receive": 199596991,
+  "transmit": 363896,
+  "disk": 649334
+}
