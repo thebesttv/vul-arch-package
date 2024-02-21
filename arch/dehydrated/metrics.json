@@ -1,0 +1,15 @@
+{
+  "name": "dehydrated",
+  "version": "0.7.1-2",
+  "depends": [
+    "curl",
+    "diffutils",
+    "openssl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199684598,
+  "transmit": 422705,
+  "disk": 2973528
+}
