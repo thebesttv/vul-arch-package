@@ -1,0 +1,11 @@
+{
+  "name": "fbgrab",
+  "version": "1.5-2",
+  "depends": [
+    "libpng"
+  ],
+  "makedepends": [],
+  "receive": 199801710,
+  "transmit": 522742,
+  "disk": 214873
+}
