@@ -1,0 +1,11 @@
+{
+  "name": "perl-cpan-meta-check",
+  "version": "0.018-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199655758,
+  "transmit": 395578,
+  "disk": 190433
+}
