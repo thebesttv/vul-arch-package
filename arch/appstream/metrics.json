@@ -1,0 +1,36 @@
+{
+  "name": "appstream",
+  "version": "1.0.1-2",
+  "depends": [
+    "cairo",
+    "curl",
+    "fontconfig",
+    "freetype2",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "librsvg",
+    "libstemmer",
+    "libxml2",
+    "libxmlb",
+    "libyaml",
+    "pango",
+    "systemd-libs",
+    "zstd"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "gobject-introspection",
+    "gperf",
+    "itstool",
+    "meson",
+    "qt5-tools",
+    "qt6-tools",
+    "vala",
+    "xmlto"
+  ],
+  "receive": 199748493,
+  "transmit": 447718,
+  "disk": 18334269
+}
