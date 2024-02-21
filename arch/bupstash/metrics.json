@@ -1,0 +1,16 @@
+{
+  "name": "bupstash",
+  "version": "0.12.0-3",
+  "depends": [
+    "libsodium",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust",
+    "ruby-ronn-ng"
+  ],
+  "receive": 199506803,
+  "transmit": 257488,
+  "disk": 3940404
+}
