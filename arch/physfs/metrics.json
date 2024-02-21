@@ -1,0 +1,14 @@
+{
+  "name": "physfs",
+  "version": "3.2.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "git",
+    "ninja"
+  ],
+  "receive": 200239646,
+  "transmit": 688470,
+  "disk": 4894263
+}
