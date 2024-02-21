@@ -1,0 +1,13 @@
+{
+  "name": "bottom",
+  "version": "0.9.6-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199516400,
+  "transmit": 251869,
+  "disk": 8070053
+}
