@@ -1,0 +1,13 @@
+{
+  "name": "md4c",
+  "version": "0.5.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199692932,
+  "transmit": 399678,
+  "disk": 1431205
+}
