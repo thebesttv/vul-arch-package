@@ -1,0 +1,15 @@
+{
+  "name": "libre-graph-api",
+  "version": "1.0.4-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199980678,
+  "transmit": 708567,
+  "disk": 1346455
+}
