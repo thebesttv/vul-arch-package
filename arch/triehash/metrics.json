@@ -1,0 +1,11 @@
+{
+  "name": "triehash",
+  "version": "0.3.3-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199661139,
+  "transmit": 346843,
+  "disk": 206058
+}
