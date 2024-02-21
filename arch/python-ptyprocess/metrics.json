@@ -1,0 +1,13 @@
+{
+  "name": "python-ptyprocess",
+  "version": "0.7.0-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199689294,
+  "transmit": 450929,
+  "disk": 339646
+}
