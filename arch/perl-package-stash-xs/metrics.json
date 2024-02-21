@@ -1,0 +1,11 @@
+{
+  "name": "perl-package-stash-xs",
+  "version": "0.30-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199571981,
+  "transmit": 292506,
+  "disk": 1100604
+}
