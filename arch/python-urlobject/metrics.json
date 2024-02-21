@@ -1,0 +1,13 @@
+{
+  "name": "python-urlobject",
+  "version": "2.4.3-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199494095,
+  "transmit": 223491,
+  "disk": 241248
+}
