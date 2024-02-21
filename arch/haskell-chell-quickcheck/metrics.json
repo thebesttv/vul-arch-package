@@ -1,0 +1,16 @@
+{
+  "name": "haskell-chell-quickcheck",
+  "version": "0.2.5.3-75",
+  "depends": [
+    "ghc-libs",
+    "haskell-chell",
+    "haskell-quickcheck",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199641951,
+  "transmit": 389076,
+  "disk": 289996
+}
