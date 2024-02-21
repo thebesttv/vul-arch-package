@@ -1,0 +1,11 @@
+{
+  "name": "libkkc-data",
+  "version": "0.2.7-3",
+  "depends": [],
+  "makedepends": [
+    "python-marisa"
+  ],
+  "receive": 199628532,
+  "transmit": 396890,
+  "disk": 160404767
+}
