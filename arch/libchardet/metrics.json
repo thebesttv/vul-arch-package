@@ -1,0 +1,12 @@
+{
+  "name": "libchardet",
+  "version": "1.0.6-1",
+  "depends": [
+    "gcc-libs",
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199557189,
+  "transmit": 302008,
+  "disk": 2801499
+}
