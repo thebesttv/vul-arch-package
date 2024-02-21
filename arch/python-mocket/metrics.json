@@ -1,0 +1,17 @@
+{
+  "name": "python-mocket",
+  "version": "3.11.0-1",
+  "depends": [
+    "python-decorator",
+    "python-httptools",
+    "python-magic",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-pipenv-to-requirements",
+    "python-setuptools"
+  ],
+  "receive": 199540203,
+  "transmit": 282850,
+  "disk": 396111
+}
