@@ -1,0 +1,16 @@
+{
+  "name": "xmonk.lv2",
+  "version": "0.4-2",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libx11"
+  ],
+  "makedepends": [
+    "lv2"
+  ],
+  "receive": 200404713,
+  "transmit": 892891,
+  "disk": 2185964
+}
