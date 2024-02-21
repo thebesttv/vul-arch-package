@@ -1,0 +1,37 @@
+{
+  "name": "haskell-servant-client",
+  "version": "0.20-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-http-client",
+    "haskell-http-media",
+    "haskell-http-types",
+    "haskell-kan-extensions",
+    "haskell-monad-control",
+    "haskell-semigroupoids",
+    "haskell-servant",
+    "haskell-servant-client-core",
+    "haskell-transformers-base",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-aeson",
+    "haskell-entropy",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-http-api-data",
+    "haskell-markdown-unlit",
+    "haskell-network",
+    "haskell-servant-server",
+    "haskell-sop-core",
+    "haskell-wai",
+    "haskell-warp"
+  ],
+  "receive": 199593435,
+  "transmit": 332376,
+  "disk": 654614
+}
