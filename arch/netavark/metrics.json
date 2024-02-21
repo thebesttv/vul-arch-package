@@ -1,0 +1,18 @@
+{
+  "name": "netavark",
+  "version": "1.10.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo",
+    "git",
+    "libgit2",
+    "mandown",
+    "protobuf"
+  ],
+  "receive": 199871816,
+  "transmit": 506175,
+  "disk": 17052613
+}
