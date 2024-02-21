@@ -1,0 +1,15 @@
+{
+  "name": "yubikey-personalization",
+  "version": "1.20.0-3",
+  "depends": [
+    "libusb",
+    "json-c",
+    "yubico-c-client"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199543846,
+  "transmit": 269539,
+  "disk": 2841349
+}
