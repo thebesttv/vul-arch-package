@@ -1,0 +1,17 @@
+{
+  "name": "av1an",
+  "version": "0.4.2-1",
+  "depends": [
+    "ffmpeg",
+    "aom",
+    "vapoursynth"
+  ],
+  "makedepends": [
+    "rust",
+    "nasm",
+    "clang"
+  ],
+  "receive": 199808721,
+  "transmit": 503220,
+  "disk": 799455
+}
