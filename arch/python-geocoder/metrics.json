@@ -1,0 +1,17 @@
+{
+  "name": "python-geocoder",
+  "version": "1.38.1-5",
+  "depends": [
+    "python-requests",
+    "python-ratelim",
+    "python-click",
+    "python-six",
+    "python-future"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199527893,
+  "transmit": 266136,
+  "disk": 505439
+}
