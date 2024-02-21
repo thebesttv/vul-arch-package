@@ -1,0 +1,13 @@
+{
+  "name": "logrotate",
+  "version": "3.21.0-2",
+  "depends": [
+    "popt",
+    "gzip",
+    "acl"
+  ],
+  "makedepends": [],
+  "receive": 199708593,
+  "transmit": 541014,
+  "disk": 1264451
+}
