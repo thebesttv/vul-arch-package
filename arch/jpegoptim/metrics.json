@@ -1,0 +1,12 @@
+{
+  "name": "jpegoptim",
+  "version": "1.5.5-1",
+  "depends": [
+    "glibc",
+    "libjpeg"
+  ],
+  "makedepends": [],
+  "receive": 199687338,
+  "transmit": 431356,
+  "disk": 689735
+}
