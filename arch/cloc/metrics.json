@@ -1,0 +1,14 @@
+{
+  "name": "cloc",
+  "version": "2.00-1",
+  "depends": [
+    "perl",
+    "perl-algorithm-diff",
+    "perl-regexp-common",
+    "perl-parallel-forkmanager"
+  ],
+  "makedepends": [],
+  "receive": 199795391,
+  "transmit": 472814,
+  "disk": 14577426
+}
