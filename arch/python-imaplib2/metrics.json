@@ -1,0 +1,14 @@
+{
+  "name": "python-imaplib2",
+  "version": "3.6-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199595470,
+  "transmit": 358441,
+  "disk": 648277
+}
