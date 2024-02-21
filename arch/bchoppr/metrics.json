@@ -1,0 +1,16 @@
+{
+  "name": "bchoppr",
+  "version": "1.12.6-1",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libx11"
+  ],
+  "makedepends": [
+    "lv2"
+  ],
+  "receive": 199658488,
+  "transmit": 387309,
+  "disk": 8368300
+}
