@@ -1,0 +1,13 @@
+{
+  "name": "kvazaar",
+  "version": "2.3.0-2",
+  "depends": [
+    "crypto++"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199553759,
+  "transmit": 310667,
+  "disk": 12214704
+}
