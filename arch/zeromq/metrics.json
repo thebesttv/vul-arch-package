@@ -1,0 +1,21 @@
+{
+  "name": "zeromq",
+  "version": "4.3.5-2",
+  "depends": [
+    "glibc",
+    "gnutls",
+    "gcc-libs",
+    "util-linux",
+    "libsodium",
+    "libpgm"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "asciidoc",
+    "xmlto"
+  ],
+  "receive": 199771016,
+  "transmit": 438535,
+  "disk": 35912676
+}
