@@ -1,0 +1,13 @@
+{
+  "name": "optipng",
+  "version": "0.7.8-1",
+  "depends": [
+    "glibc",
+    "libpng",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199703490,
+  "transmit": 420187,
+  "disk": 14710184
+}
