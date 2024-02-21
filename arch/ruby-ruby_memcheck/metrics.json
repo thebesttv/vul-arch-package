@@ -1,0 +1,20 @@
+{
+  "name": "ruby-ruby_memcheck",
+  "version": "1.2.0-2",
+  "depends": [
+    "valgrind",
+    "ruby-nokogiri"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-minitest",
+    "ruby-minitest-parallel_fork",
+    "ruby-rake",
+    "ruby-rake-compiler",
+    "ruby-rspec-core",
+    "ruby-rubocop"
+  ],
+  "receive": 199599192,
+  "transmit": 390608,
+  "disk": 478053
+}
