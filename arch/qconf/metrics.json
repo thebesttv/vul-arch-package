@@ -1,0 +1,11 @@
+{
+  "name": "qconf",
+  "version": "2.5-3",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [],
+  "receive": 199790518,
+  "transmit": 548182,
+  "disk": 579473
+}
