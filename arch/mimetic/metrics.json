@@ -1,0 +1,11 @@
+{
+  "name": "mimetic",
+  "version": "0.9.8-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199516226,
+  "transmit": 249638,
+  "disk": 3049392
+}
