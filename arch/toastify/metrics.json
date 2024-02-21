@@ -1,0 +1,14 @@
+{
+  "name": "toastify",
+  "version": "0.5.4-1",
+  "depends": [
+    "dbus"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 200101735,
+  "transmit": 807900,
+  "disk": 471255
+}
