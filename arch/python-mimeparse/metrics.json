@@ -1,0 +1,14 @@
+{
+  "name": "python-mimeparse",
+  "version": "1.6.0-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 199480917,
+  "transmit": 267141,
+  "disk": 392060
+}
