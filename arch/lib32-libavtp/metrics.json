@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libavtp",
+  "version": "0.2.0-2",
+  "depends": [
+    "libavtp"
+  ],
+  "makedepends": [
+    "lib32-cmocka",
+    "meson"
+  ],
+  "receive": 199636297,
+  "transmit": 380889,
+  "disk": 475819
+}
