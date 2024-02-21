@@ -1,0 +1,16 @@
+{
+  "name": "ruby-shellany",
+  "version": "0.0.1-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-nenv",
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 199625348,
+  "transmit": 370737,
+  "disk": 4903490
+}
