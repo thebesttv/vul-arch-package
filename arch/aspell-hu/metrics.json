@@ -1,0 +1,11 @@
+{
+  "name": "aspell-hu",
+  "version": "0.99.4.2-6",
+  "depends": [
+    "aspell"
+  ],
+  "makedepends": [],
+  "receive": 199508285,
+  "transmit": 267436,
+  "disk": 3709504
+}
