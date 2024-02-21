@@ -1,0 +1,17 @@
+{
+  "name": "netcdf-fortran-openmpi",
+  "version": "4.6.0-1",
+  "depends": [
+    "gcc-libs",
+    "netcdf-openmpi",
+    "curl"
+  ],
+  "makedepends": [
+    "cmake",
+    "gcc-fortran",
+    "doxygen"
+  ],
+  "receive": 199930534,
+  "transmit": 646844,
+  "disk": 13183145
+}
