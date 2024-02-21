@@ -1,0 +1,14 @@
+{
+  "name": "compsize",
+  "version": "1.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "btrfs-progs",
+    "git"
+  ],
+  "receive": 200169370,
+  "transmit": 810957,
+  "disk": 458214
+}
