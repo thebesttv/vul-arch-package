@@ -1,0 +1,13 @@
+{
+  "name": "ruby-warnings_logger",
+  "version": "0.1.1-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199666903,
+  "transmit": 405735,
+  "disk": 341649
+}
