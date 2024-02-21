@@ -1,0 +1,16 @@
+{
+  "name": "codeblocks",
+  "version": "20.03-5",
+  "depends": [
+    "wxwidgets-gtk3",
+    "hunspell"
+  ],
+  "makedepends": [
+    "boost",
+    "imagemagick",
+    "zip"
+  ],
+  "receive": 212211777,
+  "transmit": 599706,
+  "disk": 72539908
+}
