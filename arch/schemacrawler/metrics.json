@@ -1,0 +1,16 @@
+{
+  "name": "schemacrawler",
+  "version": "16.19.11-1",
+  "depends": [
+    "java-runtime",
+    "graphviz"
+  ],
+  "makedepends": [
+    "maven",
+    "java-environment=17",
+    "unzip"
+  ],
+  "receive": 202267359,
+  "transmit": 362401,
+  "disk": 22788860
+}
