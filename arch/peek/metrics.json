@@ -1,0 +1,22 @@
+{
+  "name": "peek",
+  "version": "1.5.1-3",
+  "depends": [
+    "gtk3",
+    "libkeybinder3",
+    "ffmpeg",
+    "which"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala",
+    "appstream-glib",
+    "txt2man",
+    "gst-plugin-gtk",
+    "gst-plugins-ugly"
+  ],
+  "receive": 199607593,
+  "transmit": 356458,
+  "disk": 14816159
+}
