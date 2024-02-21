@@ -1,0 +1,18 @@
+{
+  "name": "htop",
+  "version": "3.3.0-1",
+  "depends": [
+    "libcap",
+    "libcap.so",
+    "libnl",
+    "ncurses",
+    "libncursesw.so"
+  ],
+  "makedepends": [
+    "git",
+    "lm_sensors"
+  ],
+  "receive": 199613259,
+  "transmit": 315595,
+  "disk": 10149043
+}
