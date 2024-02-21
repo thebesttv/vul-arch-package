@@ -1,0 +1,14 @@
+{
+  "name": "drone-runner-ssh",
+  "version": "1.0.1-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199574367,
+  "transmit": 321592,
+  "disk": 755726
+}
