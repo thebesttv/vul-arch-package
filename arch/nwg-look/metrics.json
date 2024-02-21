@@ -1,0 +1,31 @@
+{
+  "name": "nwg-look",
+  "version": "0.2.7-1",
+  "depends": [
+    "glibc",
+    "gtk3",
+    "libatk-1.0.so",
+    "libcairo-gobject.so",
+    "libcairo.so",
+    "libfontconfig.so",
+    "libfreetype.so",
+    "libgdk-3.so",
+    "libgdk_pixbuf-2.0.so",
+    "libgio-2.0.so",
+    "libglib-2.0.so",
+    "libgmodule-2.0.so",
+    "libgobject-2.0.so",
+    "libgtk-3.so",
+    "libharfbuzz.so",
+    "libpango-1.0.so",
+    "libpangocairo-1.0.so",
+    "libz.so",
+    "xcur2png"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199527721,
+  "transmit": 282055,
+  "disk": 236572
+}
