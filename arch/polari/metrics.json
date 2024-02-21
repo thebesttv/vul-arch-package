@@ -1,0 +1,25 @@
+{
+  "name": "polari",
+  "version": "45.0-1",
+  "depends": [
+    "gjs",
+    "gnome-keyring",
+    "gtk4",
+    "libadwaita",
+    "libsoup3",
+    "telepathy-glib",
+    "telepathy-idle",
+    "telepathy-logger",
+    "telepathy-mission-control"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199702363,
+  "transmit": 395491,
+  "disk": 19357087
+}
