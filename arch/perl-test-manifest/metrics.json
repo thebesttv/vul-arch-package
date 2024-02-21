@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-manifest",
+  "version": "2.024-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199636692,
+  "transmit": 404546,
+  "disk": 183553
+}
