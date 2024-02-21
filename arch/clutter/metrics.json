@@ -1,0 +1,17 @@
+{
+  "name": "clutter",
+  "version": "1.26.4-2",
+  "depends": [
+    "gtk3",
+    "cogl",
+    "libinput"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "gtk-doc",
+    "git"
+  ],
+  "receive": 223406661,
+  "transmit": 352773,
+  "disk": 43459390
+}
