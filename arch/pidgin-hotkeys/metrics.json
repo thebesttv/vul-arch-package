@@ -1,0 +1,11 @@
+{
+  "name": "pidgin-hotkeys",
+  "version": "0.2.4-5",
+  "depends": [
+    "pidgin"
+  ],
+  "makedepends": [],
+  "receive": 199548199,
+  "transmit": 277202,
+  "disk": 1912166
+}
