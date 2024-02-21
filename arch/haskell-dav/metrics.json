@@ -1,0 +1,27 @@
+{
+  "name": "haskell-dav",
+  "version": "1.3.4-640",
+  "depends": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-data-default",
+    "haskell-http-client",
+    "haskell-http-client-tls",
+    "haskell-http-types",
+    "haskell-lens",
+    "haskell-network",
+    "haskell-network-uri",
+    "haskell-optparse-applicative",
+    "haskell-transformers-base",
+    "haskell-transformers-compat",
+    "haskell-utf8-string",
+    "haskell-xml-conduit",
+    "haskell-xml-hamlet"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199752871,
+  "transmit": 400262,
+  "disk": 1046614
+}
