@@ -1,0 +1,16 @@
+{
+  "name": "neovim-qt",
+  "version": "0.2.18-2",
+  "depends": [
+    "neovim",
+    "qt5-svg",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake",
+    "git"
+  ],
+  "receive": 199499018,
+  "transmit": 240712,
+  "disk": 28768894
+}
