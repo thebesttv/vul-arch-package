@@ -1,0 +1,16 @@
+{
+  "name": "gnome-tweaks",
+  "version": "45.1-1",
+  "depends": [
+    "gnome-settings-daemon",
+    "libhandy",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199693829,
+  "transmit": 397471,
+  "disk": 7778438
+}
