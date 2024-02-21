@@ -1,0 +1,20 @@
+{
+  "name": "libosmium",
+  "version": "2.20.0-1",
+  "depends": [
+    "expat",
+    "zlib",
+    "bzip2",
+    "boost",
+    "boost-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "cppcheck",
+    "clang",
+    "protozero"
+  ],
+  "receive": 199693063,
+  "transmit": 430990,
+  "disk": 4350850
+}
