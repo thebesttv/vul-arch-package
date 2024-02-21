@@ -1,0 +1,13 @@
+{
+  "name": "jackminimix",
+  "version": "0.2.1-3",
+  "depends": [
+    "glibc",
+    "libjack.so",
+    "liblo.so"
+  ],
+  "makedepends": [],
+  "receive": 199899074,
+  "transmit": 591796,
+  "disk": 187948
+}
