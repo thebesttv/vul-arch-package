@@ -1,0 +1,15 @@
+{
+  "name": "vorbis-tools",
+  "version": "1.4.2-3",
+  "depends": [
+    "curl",
+    "flac",
+    "libao",
+    "libvorbis",
+    "opusfile"
+  ],
+  "makedepends": [],
+  "receive": 199572507,
+  "transmit": 323347,
+  "disk": 7283837
+}
