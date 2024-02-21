@@ -1,0 +1,16 @@
+{
+  "name": "plasma-pa",
+  "version": "5.27.10-1",
+  "depends": [
+    "plasma-workspace",
+    "pulse-native-provider",
+    "perl"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199740088,
+  "transmit": 363445,
+  "disk": 2219738
+}
