@@ -1,0 +1,33 @@
+{
+  "name": "deepin-appearance",
+  "version": "1.1.25-1",
+  "depends": [
+    "qt5-base",
+    "dtkcore",
+    "kconfig5",
+    "kwindowsystem5",
+    "kglobalaccel5",
+    "libxcursor",
+    "libxfixes",
+    "libx11",
+    "gtk3",
+    "libxcb",
+    "xcb-util-cursor",
+    "fontconfig",
+    "openssl",
+    "gsettings-qt",
+    "glib2",
+    "dtkgui",
+    "glibc",
+    "gcc-libs",
+    "startdde"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199508761,
+  "transmit": 242024,
+  "disk": 960848
+}
