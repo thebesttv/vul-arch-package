@@ -1,0 +1,15 @@
+{
+  "name": "xfconf",
+  "version": "4.18.3-1",
+  "depends": [
+    "libxfce4util"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection",
+    "vala"
+  ],
+  "receive": 200258450,
+  "transmit": 286400,
+  "disk": 5181189
+}
