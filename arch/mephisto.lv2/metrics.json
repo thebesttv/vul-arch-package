@@ -1,0 +1,24 @@
+{
+  "name": "mephisto.lv2",
+  "version": "0.18.2-3",
+  "depends": [
+    "glibc",
+    "libglvnd",
+    "libvterm",
+    "libx11",
+    "lv2-host",
+    "ttf-fira-code",
+    "ttf-fira-sans"
+  ],
+  "makedepends": [
+    "faust",
+    "fontconfig",
+    "glew",
+    "glu",
+    "lv2",
+    "meson"
+  ],
+  "receive": 200093137,
+  "transmit": 608010,
+  "disk": 14249607
+}
