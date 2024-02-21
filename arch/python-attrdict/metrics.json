@@ -1,0 +1,16 @@
+{
+  "name": "python-attrdict",
+  "version": "2.0.1-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199515752,
+  "transmit": 274795,
+  "disk": 148105
+}
