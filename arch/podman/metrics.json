@@ -1,0 +1,20 @@
+{
+  "name": "podman",
+  "version": "4.9.3-1",
+  "depends": [],
+  "makedepends": [
+    "apparmor",
+    "btrfs-progs",
+    "catatonit",
+    "device-mapper",
+    "git",
+    "go",
+    "go-md2man",
+    "gpgme",
+    "libseccomp",
+    "systemd"
+  ],
+  "receive": 424004919,
+  "transmit": 784600,
+  "disk": 333759472
+}
