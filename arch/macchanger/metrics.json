@@ -1,0 +1,11 @@
+{
+  "name": "macchanger",
+  "version": "1.7.0-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199527739,
+  "transmit": 283332,
+  "disk": 1301498
+}
