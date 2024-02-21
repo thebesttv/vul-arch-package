@@ -1,0 +1,14 @@
+{
+  "name": "ruby-open-uri",
+  "version": "0.2.0-3",
+  "depends": [
+    "ruby",
+    "ruby-stringio",
+    "ruby-time",
+    "ruby-uri"
+  ],
+  "makedepends": [],
+  "receive": 199517290,
+  "transmit": 257580,
+  "disk": 274428
+}
