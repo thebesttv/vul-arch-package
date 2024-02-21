@@ -1,0 +1,14 @@
+{
+  "name": "hound",
+  "version": "0.7.1-2",
+  "depends": [
+    "glibc",
+    "git"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 224951944,
+  "transmit": 1720814,
+  "disk": 26764044
+}
