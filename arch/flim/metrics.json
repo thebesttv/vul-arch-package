@@ -1,0 +1,14 @@
+{
+  "name": "flim",
+  "version": "1.14.9-9",
+  "depends": [
+    "emacs",
+    "emacs-apel>=10.7"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199648442,
+  "transmit": 383548,
+  "disk": 5137740
+}
