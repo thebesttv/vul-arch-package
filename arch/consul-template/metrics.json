@@ -1,0 +1,14 @@
+{
+  "name": "consul-template",
+  "version": "0.35.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 252192771,
+  "transmit": 324611,
+  "disk": 82483361
+}
