@@ -1,0 +1,23 @@
+{
+  "name": "neatvnc",
+  "version": "0.7.2-1",
+  "depends": [
+    "glibc",
+    "gnutls",
+    "libaml.so",
+    "libavcodec.so",
+    "libdrm",
+    "libpixman-1.so",
+    "libturbojpeg.so",
+    "mesa",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "ninja"
+  ],
+  "receive": 199632713,
+  "transmit": 411023,
+  "disk": 2965779
+}
