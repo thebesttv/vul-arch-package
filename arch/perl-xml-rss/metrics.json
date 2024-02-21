@@ -1,0 +1,15 @@
+{
+  "name": "perl-xml-rss",
+  "version": "1.63-1",
+  "depends": [
+    "perl-datetime",
+    "perl-datetime-format-mail",
+    "perl-datetime-format-w3cdtf",
+    "perl-html-parser",
+    "perl-xml-parser"
+  ],
+  "makedepends": [],
+  "receive": 199573848,
+  "transmit": 321668,
+  "disk": 904877
+}
