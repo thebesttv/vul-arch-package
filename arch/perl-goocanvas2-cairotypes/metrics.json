@@ -1,0 +1,15 @@
+{
+  "name": "perl-goocanvas2-cairotypes",
+  "version": "0.001-7",
+  "depends": [
+    "goocanvas",
+    "perl-gtk3"
+  ],
+  "makedepends": [
+    "perl-extutils-depends",
+    "perl-extutils-pkgconfig"
+  ],
+  "receive": 200519114,
+  "transmit": 942679,
+  "disk": 163727
+}
