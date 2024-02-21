@@ -1,0 +1,17 @@
+{
+  "name": "cozy-desktop",
+  "version": "3.39.0-1",
+  "depends": [
+    "electron23"
+  ],
+  "makedepends": [
+    "nodejs",
+    "yarn",
+    "git",
+    "node-gyp",
+    "python"
+  ],
+  "receive": 199740641,
+  "transmit": 449099,
+  "disk": 120657415
+}
