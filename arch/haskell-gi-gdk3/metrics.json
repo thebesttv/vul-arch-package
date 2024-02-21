@@ -1,0 +1,24 @@
+{
+  "name": "haskell-gi-gdk3",
+  "version": "3.0.25-128",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-cairo",
+    "haskell-gi-gdkpixbuf",
+    "haskell-gi-gio",
+    "haskell-gi-glib",
+    "haskell-gi-gobject",
+    "haskell-gi-pango",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "gtk3"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199781069,
+  "transmit": 382963,
+  "disk": 308261
+}
