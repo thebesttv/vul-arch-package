@@ -1,0 +1,15 @@
+{
+  "name": "haskell-libxml-sax",
+  "version": "0.7.5-32",
+  "depends": [
+    "ghc-libs",
+    "haskell-xml-types",
+    "libxml2"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199613516,
+  "transmit": 367043,
+  "disk": 181598
+}
