@@ -1,0 +1,16 @@
+{
+  "name": "python-sphinxcontrib-applehelp",
+  "version": "1.0.8-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199689920,
+  "transmit": 436638,
+  "disk": 1099361
+}
