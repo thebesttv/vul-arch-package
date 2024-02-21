@@ -1,0 +1,16 @@
+{
+  "name": "oxygen",
+  "version": "5.27.10-1",
+  "depends": [
+    "frameworkintegration5",
+    "kdecoration"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kcmutils5",
+    "kdoctools5"
+  ],
+  "receive": 199793663,
+  "transmit": 392105,
+  "disk": 26782571
+}
