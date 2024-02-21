@@ -1,0 +1,14 @@
+{
+  "name": "libmythes",
+  "version": "1:1.2.5-1",
+  "depends": [
+    "glibc",
+    "perl"
+  ],
+  "makedepends": [
+    "hunspell"
+  ],
+  "receive": 199491624,
+  "transmit": 256339,
+  "disk": 19486675
+}
