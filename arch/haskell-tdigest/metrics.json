@@ -1,0 +1,21 @@
+{
+  "name": "haskell-tdigest",
+  "version": "0.3-27",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-foldable1-classes-compat",
+    "haskell-reducers",
+    "haskell-vector",
+    "haskell-vector-algorithms"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199537614,
+  "transmit": 281662,
+  "disk": 388429
+}
