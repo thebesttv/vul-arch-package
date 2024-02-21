@@ -1,0 +1,13 @@
+{
+  "name": "partimage",
+  "version": "0.6.9-14",
+  "depends": [
+    "libnewt",
+    "bzip2",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199755971,
+  "transmit": 484452,
+  "disk": 4738573
+}
