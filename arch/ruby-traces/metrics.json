@@ -1,0 +1,11 @@
+{
+  "name": "ruby-traces",
+  "version": "0.8.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199683703,
+  "transmit": 335280,
+  "disk": 173225
+}
