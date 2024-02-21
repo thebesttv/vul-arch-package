@@ -1,0 +1,16 @@
+{
+  "name": "libwpg",
+  "version": "0.3.4-1",
+  "depends": [
+    "libwpd",
+    "perl",
+    "librevenge"
+  ],
+  "makedepends": [
+    "doxygen",
+    "boost"
+  ],
+  "receive": 199704930,
+  "transmit": 377285,
+  "disk": 2807220
+}
