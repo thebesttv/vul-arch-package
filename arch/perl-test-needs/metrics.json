@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-needs",
+  "version": "0.002010-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199770138,
+  "transmit": 579957,
+  "disk": 183920
+}
