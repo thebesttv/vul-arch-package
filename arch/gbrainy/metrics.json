@@ -1,0 +1,17 @@
+{
+  "name": "gbrainy",
+  "version": "1:2.4.6-1",
+  "depends": [
+    "gtk-sharp-3",
+    "librsvg",
+    "hicolor-icon-theme",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "intltool",
+    "itstool"
+  ],
+  "receive": 199515792,
+  "transmit": 268110,
+  "disk": 16786341
+}
