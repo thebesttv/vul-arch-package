@@ -1,0 +1,13 @@
+{
+  "name": "perl-bytes-random-secure",
+  "version": "0.29-11",
+  "depends": [
+    "perl>=5.6.0",
+    "perl-crypt-random-seed",
+    "perl-math-random-isaac"
+  ],
+  "makedepends": [],
+  "receive": 199503175,
+  "transmit": 267894,
+  "disk": 222896
+}
