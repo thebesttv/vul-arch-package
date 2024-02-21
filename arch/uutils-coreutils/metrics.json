@@ -1,0 +1,16 @@
+{
+  "name": "uutils-coreutils",
+  "version": "0.0.24-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust",
+    "cargo",
+    "python-sphinx"
+  ],
+  "receive": 199614711,
+  "transmit": 358078,
+  "disk": 12626526
+}
