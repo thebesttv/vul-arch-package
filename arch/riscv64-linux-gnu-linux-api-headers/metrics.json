@@ -1,0 +1,11 @@
+{
+  "name": "riscv64-linux-gnu-linux-api-headers",
+  "version": "5.8-1",
+  "depends": [],
+  "makedepends": [
+    "rsync"
+  ],
+  "receive": 314402057,
+  "transmit": 413253,
+  "disk": 1062149812
+}
