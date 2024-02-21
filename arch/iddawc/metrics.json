@@ -1,0 +1,22 @@
+{
+  "name": "iddawc",
+  "version": "1.1.9-1",
+  "depends": [
+    "glibc",
+    "liborcania.so",
+    "librhonabwy.so",
+    "libulfius.so",
+    "libyder.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "git",
+    "graphviz",
+    "ninja",
+    "systemd"
+  ],
+  "receive": 199505634,
+  "transmit": 311875,
+  "disk": 10088233
+}
