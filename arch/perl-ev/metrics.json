@@ -1,0 +1,13 @@
+{
+  "name": "perl-ev",
+  "version": "4.34-1",
+  "depends": [
+    "perl-common-sense"
+  ],
+  "makedepends": [
+    "perl-canary-stability"
+  ],
+  "receive": 199617073,
+  "transmit": 370672,
+  "disk": 1097510
+}
