@@ -1,0 +1,55 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=8.58 s (1095.1 files/s 395045.2 lines/s)"
+2169,C++,92434,38301,776729
+20,TNSDL,2,57,414592
+2826,C/C++ Header,62891,83589,391599
+1577,HTML,4794,6974,201850
+503,C,28370,26089,145041
+185,PO File,213413,571833,100218
+183,XML,3385,344,41258
+88,Objective-C++,4374,1442,23082
+317,CMake,2429,1778,17918
+131,JSON,2,0,16872
+48,Text,2666,0,16049
+668,JavaScript,262,189,12972
+93,Markdown,3012,9,9988
+100,Bourne Shell,721,664,6366
+79,make,1055,603,6161
+40,Python,1073,1859,5761
+74,YAML,730,469,5560
+11,CSS,778,147,4348
+15,m4,443,298,3277
+3,diff,497,2171,3034
+18,Java,633,1476,2309
+10,Swift,444,690,1954
+4,Rust,503,876,1872
+34,Meson,268,119,1623
+12,Objective-C,257,151,1224
+87,SVG,1,1,1211
+3,TypeScript,239,319,904
+17,DOS Batch,210,70,867
+7,Dockerfile,93,4,856
+7,Bourne Again Shell,107,57,625
+4,Assembly,110,398,445
+4,XSLT,40,35,410
+4,Qt,0,0,360
+5,Visual Studio Solution,2,5,326
+2,Perl,95,117,278
+7,Windows Resource File,38,58,244
+3,dtrace,24,8,211
+2,reStructuredText,58,21,202
+2,Fortran 77,22,0,148
+1,Maven,12,0,123
+2,IDL,13,0,95
+3,Protocol Buffers,58,91,76
+1,Pascal,30,196,74
+10,INI,12,0,70
+1,D,18,79,44
+1,Starlark,3,0,39
+1,TeX,13,0,35
+3,TOML,4,0,34
+1,DTD,0,0,32
+1,Visual Basic Script,3,0,32
+2,sed,0,0,16
+1,Windows Module Definition,0,0,4
+1,Qt Project,0,0,3
+9391,SUM,426641,741587,2219421
