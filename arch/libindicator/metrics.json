@@ -1,0 +1,13 @@
+{
+  "name": "libindicator",
+  "version": "12.10.1-10",
+  "depends": [],
+  "makedepends": [
+    "gtk2",
+    "gtk3",
+    "python"
+  ],
+  "receive": 200071721,
+  "transmit": 413502,
+  "disk": 2374580
+}
