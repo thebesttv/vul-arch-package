@@ -1,0 +1,14 @@
+{
+  "name": "patch",
+  "version": "2.7.6-10",
+  "depends": [
+    "glibc",
+    "attr"
+  ],
+  "makedepends": [
+    "ed"
+  ],
+  "receive": 199670111,
+  "transmit": 393038,
+  "disk": 6031202
+}
