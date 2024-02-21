@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libxss",
+  "version": "1.2.4-1",
+  "depends": [
+    "lib32-libxext",
+    "libxss"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "gcc-multilib"
+  ],
+  "receive": 199512933,
+  "transmit": 283056,
+  "disk": 2122608
+}
