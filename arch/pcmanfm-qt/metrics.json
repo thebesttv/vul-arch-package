@@ -1,0 +1,15 @@
+{
+  "name": "pcmanfm-qt",
+  "version": "1.4.1-1",
+  "depends": [
+    "desktop-file-utils",
+    "libfm-qt",
+    "libfm-qt.so"
+  ],
+  "makedepends": [
+    "lxqt-build-tools"
+  ],
+  "receive": 199566282,
+  "transmit": 291889,
+  "disk": 6129987
+}
