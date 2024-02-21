@@ -1,0 +1,20 @@
+{
+  "name": "blueman",
+  "version": "2.3.5-3",
+  "depends": [
+    "bluez",
+    "bluez-libs",
+    "gtk3",
+    "libnm",
+    "python-cairo",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "cython",
+    "intltool",
+    "iproute2"
+  ],
+  "receive": 199640988,
+  "transmit": 370809,
+  "disk": 12731817
+}
