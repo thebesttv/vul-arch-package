@@ -1,0 +1,14 @@
+{
+  "name": "esh",
+  "version": "0.3.2-1",
+  "depends": [
+    "gawk",
+    "sed"
+  ],
+  "makedepends": [
+    "asciidoctor"
+  ],
+  "receive": 199604212,
+  "transmit": 372228,
+  "disk": 155963
+}
