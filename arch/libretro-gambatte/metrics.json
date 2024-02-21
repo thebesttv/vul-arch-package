@@ -1,0 +1,13 @@
+{
+  "name": "libretro-gambatte",
+  "version": "1017-1",
+  "depends": [
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199544576,
+  "transmit": 305134,
+  "disk": 10788949
+}
