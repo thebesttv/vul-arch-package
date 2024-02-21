@@ -1,0 +1,11 @@
+{
+  "name": "mysql++",
+  "version": "3.3.0-1",
+  "depends": [
+    "mariadb-libs"
+  ],
+  "makedepends": [],
+  "receive": 199622389,
+  "transmit": 368544,
+  "disk": 21479644
+}
