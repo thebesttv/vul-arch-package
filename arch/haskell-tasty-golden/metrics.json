@@ -1,0 +1,20 @@
+{
+  "name": "haskell-tasty-golden",
+  "version": "2.3.5-84",
+  "depends": [
+    "ghc-libs",
+    "haskell-tasty",
+    "haskell-optparse-applicative",
+    "haskell-temporary",
+    "haskell-tagged",
+    "haskell-async",
+    "haskell-typed-process"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199751707,
+  "transmit": 296807,
+  "disk": 422853
+}
