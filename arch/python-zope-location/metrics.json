@@ -1,0 +1,14 @@
+{
+  "name": "python-zope-location",
+  "version": "5.0-1",
+  "depends": [
+    "python-setuptools",
+    "python-zope-interface",
+    "python-zope-schema",
+    "python-zope-proxy"
+  ],
+  "makedepends": [],
+  "receive": 199501368,
+  "transmit": 238652,
+  "disk": 267257
+}
