@@ -1,0 +1,16 @@
+{
+  "name": "qxlsx",
+  "version": "1.4.7-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-base",
+    "qt6-base"
+  ],
+  "receive": 204530711,
+  "transmit": 412929,
+  "disk": 18815526
+}
