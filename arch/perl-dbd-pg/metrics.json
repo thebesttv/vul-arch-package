@@ -1,0 +1,12 @@
+{
+  "name": "perl-dbd-pg",
+  "version": "3.18.0-1",
+  "depends": [
+    "perl-dbi>=1.52",
+    "postgresql-libs"
+  ],
+  "makedepends": [],
+  "receive": 199517756,
+  "transmit": 258844,
+  "disk": 1672152
+}
