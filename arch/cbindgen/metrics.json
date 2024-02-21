@@ -1,0 +1,14 @@
+{
+  "name": "cbindgen",
+  "version": "0.26.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 199796658,
+  "transmit": 490150,
+  "disk": 6452254
+}
