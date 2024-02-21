@@ -1,0 +1,23 @@
+{
+  "name": "sfml",
+  "version": "2.6.1-1",
+  "depends": [
+    "libsndfile",
+    "libxrandr",
+    "openal",
+    "glew",
+    "freetype2",
+    "libx11",
+    "libxcursor"
+  ],
+  "makedepends": [
+    "mesa",
+    "cmake",
+    "doxygen",
+    "systemd",
+    "ninja"
+  ],
+  "receive": 221516897,
+  "transmit": 988572,
+  "disk": 106473895
+}
