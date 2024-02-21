@@ -1,0 +1,18 @@
+{
+  "name": "glibmm-2.68",
+  "version": "2.78.1-1",
+  "depends": [
+    "glib2",
+    "libsigc++-3.0"
+  ],
+  "makedepends": [
+    "clang",
+    "git",
+    "meson",
+    "mm-common",
+    "perl-xml-parser"
+  ],
+  "receive": 199586186,
+  "transmit": 338186,
+  "disk": 20574164
+}
