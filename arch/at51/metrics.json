@@ -1,0 +1,15 @@
+{
+  "name": "at51",
+  "version": "1.0.0-4",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "rust",
+    "cargo"
+  ],
+  "receive": 199524026,
+  "transmit": 250163,
+  "disk": 325215
+}
