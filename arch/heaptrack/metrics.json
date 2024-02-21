@@ -1,0 +1,31 @@
+{
+  "name": "heaptrack",
+  "version": "1.5.0-3",
+  "depends": [
+    "boost-libs",
+    "gcc-libs",
+    "glibc",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kdiagram5",
+    "ki18n5",
+    "kiconthemes5",
+    "kio5",
+    "kwidgetsaddons5",
+    "libelf",
+    "libunwind",
+    "qt5-base",
+    "qt5-svg",
+    "threadweaver5"
+  ],
+  "makedepends": [
+    "boost",
+    "extra-cmake-modules",
+    "kitemmodels5",
+    "sparsehash"
+  ],
+  "receive": 199678238,
+  "transmit": 442854,
+  "disk": 13547790
+}
