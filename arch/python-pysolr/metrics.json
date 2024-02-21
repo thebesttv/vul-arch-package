@@ -1,0 +1,13 @@
+{
+  "name": "python-pysolr",
+  "version": "3.9.0-6",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools-scm"
+  ],
+  "receive": 199544741,
+  "transmit": 251665,
+  "disk": 362441
+}
