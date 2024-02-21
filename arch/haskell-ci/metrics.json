@@ -1,0 +1,36 @@
+{
+  "name": "haskell-ci",
+  "version": "0.12.1-477",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-base-compat",
+    "haskell-base16-bytestring",
+    "haskell-cabal-install-parsers",
+    "haskell-cryptohash-sha256",
+    "haskell-generic-lens-lite",
+    "haskell-hsyaml",
+    "haskell-indexed-traversable",
+    "haskell-indexed-traversable-instances",
+    "haskell-ini",
+    "haskell-lattices",
+    "haskell-network-uri",
+    "haskell-optparse-applicative",
+    "shellcheck",
+    "haskell-temporary",
+    "haskell-unordered-containers",
+    "haskell-zinza"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-diff",
+    "haskell-ansi-terminal",
+    "haskell-tasty",
+    "haskell-tasty-golden"
+  ],
+  "receive": 199690533,
+  "transmit": 380614,
+  "disk": 1565900
+}
