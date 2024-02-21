@@ -1,0 +1,11 @@
+{
+  "name": "intltool",
+  "version": "0.51.0-6",
+  "depends": [
+    "perl-xml-parser"
+  ],
+  "makedepends": [],
+  "receive": 199526136,
+  "transmit": 258297,
+  "disk": 845910
+}
