@@ -1,0 +1,15 @@
+{
+  "name": "man-pages-zh",
+  "version": "1.6.4.0-2",
+  "depends": [
+    "man"
+  ],
+  "makedepends": [
+    "opencc",
+    "python",
+    "git"
+  ],
+  "receive": 199506822,
+  "transmit": 279542,
+  "disk": 11825810
+}
