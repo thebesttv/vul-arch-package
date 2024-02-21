@@ -1,0 +1,32 @@
+{
+  "name": "glewlwyd",
+  "version": "2.7.6-2",
+  "depends": [
+    "glibc",
+    "gnutls",
+    "jansson",
+    "libcbor.so",
+    "libconfig.so",
+    "libcrypt.so",
+    "libhoel.so",
+    "libiddawc.so",
+    "libldap",
+    "liboath.so",
+    "liborcania.so",
+    "librhonabwy.so",
+    "libulfius.so",
+    "libyder.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "mariadb-libs",
+    "ninja",
+    "postgresql-libs",
+    "sqlite",
+    "systemd"
+  ],
+  "receive": 231874552,
+  "transmit": 492610,
+  "disk": 56480374
+}
