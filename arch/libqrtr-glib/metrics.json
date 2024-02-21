@@ -1,0 +1,16 @@
+{
+  "name": "libqrtr-glib",
+  "version": "1.2.2-2",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "meson",
+    "git",
+    "gobject-introspection"
+  ],
+  "receive": 199538693,
+  "transmit": 263126,
+  "disk": 588605
+}
