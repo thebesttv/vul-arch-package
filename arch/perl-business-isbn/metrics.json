@@ -1,0 +1,12 @@
+{
+  "name": "perl-business-isbn",
+  "version": "3.009-1",
+  "depends": [
+    "perl",
+    "perl-business-isbn-data"
+  ],
+  "makedepends": [],
+  "receive": 199562536,
+  "transmit": 296293,
+  "disk": 1755696
+}
