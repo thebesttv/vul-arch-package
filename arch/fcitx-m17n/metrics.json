@@ -1,0 +1,14 @@
+{
+  "name": "fcitx-m17n",
+  "version": "0.2.4-2",
+  "depends": [
+    "fcitx",
+    "m17n-lib"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199652377,
+  "transmit": 384444,
+  "disk": 322656
+}
