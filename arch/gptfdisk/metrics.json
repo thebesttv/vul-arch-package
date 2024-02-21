@@ -1,0 +1,14 @@
+{
+  "name": "gptfdisk",
+  "version": "1.0.10-1",
+  "depends": [
+    "gcc-libs",
+    "popt",
+    "libuuid.so",
+    "libncursesw.so"
+  ],
+  "makedepends": [],
+  "receive": 199698333,
+  "transmit": 423327,
+  "disk": 1106491
+}
