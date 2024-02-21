@@ -1,0 +1,19 @@
+{
+  "name": "perl-net-oauth",
+  "version": "0.28-13",
+  "depends": [
+    "perl-class-accessor",
+    "perl-class-data-inheritable",
+    "perl-digest-hmac",
+    "perl-digest-sha1",
+    "perl-uri",
+    "perl-libwww",
+    "perl-file-slurp-tiny"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199546071,
+  "transmit": 306821,
+  "disk": 252218
+}
