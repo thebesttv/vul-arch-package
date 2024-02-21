@@ -1,0 +1,13 @@
+{
+  "name": "ruby-async-rspec",
+  "version": "1.17.0-1",
+  "depends": [
+    "ruby-rspec",
+    "ruby-rspec-files",
+    "ruby-rspec-memory"
+  ],
+  "makedepends": [],
+  "receive": 199527075,
+  "transmit": 315300,
+  "disk": 168539
+}
