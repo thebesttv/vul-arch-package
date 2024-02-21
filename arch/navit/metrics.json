@@ -1,0 +1,18 @@
+{
+  "name": "navit",
+  "version": "0.5.6-6",
+  "depends": [
+    "dbus-glib",
+    "gpsd",
+    "gtk2",
+    "imlib2",
+    "sdl_image"
+  ],
+  "makedepends": [
+    "cmake",
+    "libxslt"
+  ],
+  "receive": 209010125,
+  "transmit": 458274,
+  "disk": 42440957
+}
