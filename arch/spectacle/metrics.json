@@ -1,0 +1,19 @@
+{
+  "name": "spectacle",
+  "version": "23.08.5-1",
+  "depends": [
+    "xcb-util-cursor",
+    "purpose5",
+    "knewstuff5",
+    "qt5-tools",
+    "kpipewire"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "plasma-wayland-protocols"
+  ],
+  "receive": 199671490,
+  "transmit": 297236,
+  "disk": 6784356
+}
