@@ -1,0 +1,16 @@
+{
+  "name": "ruby-tomlrb",
+  "version": "2.0.3-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-bundler"
+  ],
+  "receive": 200449186,
+  "transmit": 998624,
+  "disk": 681672
+}
