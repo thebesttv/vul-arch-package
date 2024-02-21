@@ -1,0 +1,14 @@
+{
+  "name": "haskell-temporary",
+  "version": "1.3-573",
+  "depends": [
+    "ghc-libs",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199655832,
+  "transmit": 396404,
+  "disk": 582351
+}
