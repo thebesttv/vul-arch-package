@@ -1,0 +1,13 @@
+{
+  "name": "python-yarg",
+  "version": "0.1.9-10",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199727342,
+  "transmit": 410533,
+  "disk": 1107834
+}
