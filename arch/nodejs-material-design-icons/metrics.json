@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-material-design-icons",
+  "version": "3.0.1-5",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199655468,
+  "transmit": 389750,
+  "disk": 33078735
+}
