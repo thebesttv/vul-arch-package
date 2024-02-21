@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libxrender",
+  "version": "0.9.11-1",
+  "depends": [
+    "lib32-libx11>=1.3.4",
+    "libxrender"
+  ],
+  "makedepends": [
+    "pkgconfig",
+    "gcc-multilib",
+    "xorgproto"
+  ],
+  "receive": 199876629,
+  "transmit": 542976,
+  "disk": 2376902
+}
