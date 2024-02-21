@@ -1,0 +1,15 @@
+{
+  "name": "python-termcolor",
+  "version": "2.4.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatch-vcs"
+  ],
+  "receive": 199496965,
+  "transmit": 248827,
+  "disk": 183155
+}
