@@ -1,0 +1,18 @@
+{
+  "name": "shattered-pixel-dungeon",
+  "version": "2.3.1-1",
+  "depends": [
+    "bash",
+    "xorg-xrandr",
+    "java-runtime>=11",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "git",
+    "jdk11-openjdk",
+    "gradle"
+  ],
+  "receive": 379114755,
+  "transmit": 545501,
+  "disk": 257185312
+}
