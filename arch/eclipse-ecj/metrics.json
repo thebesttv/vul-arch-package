@@ -1,0 +1,12 @@
+{
+  "name": "eclipse-ecj",
+  "version": "4.22-2",
+  "depends": [],
+  "makedepends": [
+    "ant",
+    "java-environment=11"
+  ],
+  "receive": 199595930,
+  "transmit": 299391,
+  "disk": 13013474
+}
