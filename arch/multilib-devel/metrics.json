@@ -1,0 +1,14 @@
+{
+  "name": "multilib-devel",
+  "version": "1-1",
+  "depends": [
+    "base-devel",
+    "lib32-fakeroot",
+    "lib32-gcc-libs",
+    "lib32-libltdl"
+  ],
+  "makedepends": [],
+  "receive": 199647166,
+  "transmit": 435910,
+  "disk": 82992
+}
