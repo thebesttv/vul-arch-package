@@ -1,0 +1,17 @@
+{
+  "name": "zenity",
+  "version": "4.0.1-1",
+  "depends": [
+    "libadwaita"
+  ],
+  "makedepends": [
+    "git",
+    "help2man",
+    "meson",
+    "util-linux",
+    "yelp-tools"
+  ],
+  "receive": 201845112,
+  "transmit": 429225,
+  "disk": 21889030
+}
