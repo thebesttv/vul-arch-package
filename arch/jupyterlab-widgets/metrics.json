@@ -1,0 +1,18 @@
+{
+  "name": "jupyterlab-widgets",
+  "version": "3.0.10-1",
+  "depends": [
+    "jupyterlab",
+    "python",
+    "python-ipywidgets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-jupyter_packaging",
+    "python-setuptools"
+  ],
+  "receive": 199637999,
+  "transmit": 397930,
+  "disk": 1069310
+}
