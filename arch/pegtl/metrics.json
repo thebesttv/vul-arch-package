@@ -1,0 +1,12 @@
+{
+  "name": "pegtl",
+  "version": "3.2.7-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 199555268,
+  "transmit": 274612,
+  "disk": 9590770
+}
