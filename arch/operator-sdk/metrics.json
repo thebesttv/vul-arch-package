@@ -1,0 +1,13 @@
+{
+  "name": "operator-sdk",
+  "version": "1.33.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199862045,
+  "transmit": 486514,
+  "disk": 10979691
+}
