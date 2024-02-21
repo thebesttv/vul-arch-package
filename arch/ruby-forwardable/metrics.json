@@ -1,0 +1,11 @@
+{
+  "name": "ruby-forwardable",
+  "version": "1.3.2-6",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199509103,
+  "transmit": 270536,
+  "disk": 199409
+}
