@@ -1,0 +1,16 @@
+{
+  "name": "ciano",
+  "version": "0.2.4-5",
+  "depends": [
+    "ffmpeg",
+    "granite",
+    "imagemagick"
+  ],
+  "makedepends": [
+    "meson",
+    "vala"
+  ],
+  "receive": 199502193,
+  "transmit": 252553,
+  "disk": 968161
+}
