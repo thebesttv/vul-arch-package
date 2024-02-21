@@ -1,0 +1,11 @@
+{
+  "name": "ruby-docile",
+  "version": "1.4.0-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199584174,
+  "transmit": 284788,
+  "disk": 182503
+}
