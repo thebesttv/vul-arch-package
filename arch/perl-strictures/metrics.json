@@ -1,0 +1,11 @@
+{
+  "name": "perl-strictures",
+  "version": "2.000006-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199547395,
+  "transmit": 281794,
+  "disk": 215289
+}
