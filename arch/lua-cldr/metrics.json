@@ -1,0 +1,15 @@
+{
+  "name": "lua-cldr",
+  "version": "0.3.0-1",
+  "depends": [],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 200809456,
+  "transmit": 1430236,
+  "disk": 151417
+}
