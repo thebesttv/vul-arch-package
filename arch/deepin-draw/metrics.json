@@ -1,0 +1,22 @@
+{
+  "name": "deepin-draw",
+  "version": "6.0.10-2",
+  "depends": [
+    "deepin-qt5integration",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "qt5-svg",
+    "gcc-libs",
+    "deepin-picker",
+    "adobe-source-han-sans-otc-fonts"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools"
+  ],
+  "receive": 199590397,
+  "transmit": 281677,
+  "disk": 71330367
+}
