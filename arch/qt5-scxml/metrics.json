@@ -1,0 +1,13 @@
+{
+  "name": "qt5-scxml",
+  "version": "5.15.12-1",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199584702,
+  "transmit": 298130,
+  "disk": 8924718
+}
