@@ -1,0 +1,24 @@
+{
+  "name": "haskell-hls-brittany-plugin",
+  "version": "1.1.0.0-154",
+  "depends": [
+    "ghc-libs",
+    "haskell-brittany",
+    "haskell-czipwith",
+    "haskell-extra",
+    "haskell-ghc",
+    "haskell-ghc-exactprint",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp-types"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 199633081,
+  "transmit": 406198,
+  "disk": 539972
+}
