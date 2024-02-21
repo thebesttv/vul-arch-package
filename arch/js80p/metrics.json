@@ -1,0 +1,20 @@
+{
+  "name": "js80p",
+  "version": "2.4.4-2",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "libxcb",
+    "cairo"
+  ],
+  "makedepends": [
+    "git",
+    "alsa-lib",
+    "libx11",
+    "zenity",
+    "kdialog"
+  ],
+  "receive": 199540249,
+  "transmit": 279357,
+  "disk": 191283060
+}
