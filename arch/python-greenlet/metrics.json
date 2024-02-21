@@ -1,0 +1,16 @@
+{
+  "name": "python-greenlet",
+  "version": "3.0.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199497553,
+  "transmit": 258248,
+  "disk": 963123
+}
