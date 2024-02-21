@@ -1,0 +1,12 @@
+{
+  "name": "bitsery",
+  "version": "5.2.3-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "gtest"
+  ],
+  "receive": 199668332,
+  "transmit": 402038,
+  "disk": 932548
+}
