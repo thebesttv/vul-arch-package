@@ -1,0 +1,16 @@
+{
+  "name": "libva-nvidia-driver",
+  "version": "0.0.11-1",
+  "depends": [
+    "gst-plugins-bad-libs",
+    "libegl"
+  ],
+  "makedepends": [
+    "meson",
+    "ffnvcodec-headers",
+    "libva"
+  ],
+  "receive": 199539513,
+  "transmit": 270706,
+  "disk": 1760328
+}
