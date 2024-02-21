@@ -1,0 +1,11 @@
+{
+  "name": "ruby-timecop",
+  "version": "0.9.8-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199513361,
+  "transmit": 261154,
+  "disk": 210278
+}
