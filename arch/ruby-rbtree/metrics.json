@@ -1,0 +1,11 @@
+{
+  "name": "ruby-rbtree",
+  "version": "0.4.6-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199608503,
+  "transmit": 289054,
+  "disk": 115309
+}
