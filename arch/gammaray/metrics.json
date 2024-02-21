@@ -1,0 +1,29 @@
+{
+  "name": "gammaray",
+  "version": "3.0.0-6",
+  "depends": [
+    "qt6-tools",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-svg",
+    "qt5-script",
+    "qt5-wayland",
+    "qt5-webengine",
+    "qt5-scxml",
+    "qt5-location",
+    "qt5-connectivity",
+    "syntax-highlighting5",
+    "qt6-shadertools",
+    "qt6-wayland",
+    "qt6-webengine",
+    "qt6-scxml",
+    "qt6-location",
+    "qt6-connectivity",
+    "doxygen"
+  ],
+  "receive": 210756675,
+  "transmit": 405089,
+  "disk": 28568497
+}
