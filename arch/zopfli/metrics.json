@@ -1,0 +1,14 @@
+{
+  "name": "zopfli",
+  "version": "1.0.3-3",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199614986,
+  "transmit": 380748,
+  "disk": 1017141
+}
