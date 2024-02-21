@@ -1,0 +1,15 @@
+{
+  "name": "hcxkeys",
+  "version": "6.2.1-2",
+  "depends": [
+    "openssl",
+    "opencl-driver",
+    "opencl-icd-loader"
+  ],
+  "makedepends": [
+    "opencl-headers"
+  ],
+  "receive": 199727238,
+  "transmit": 453975,
+  "disk": 193701
+}
