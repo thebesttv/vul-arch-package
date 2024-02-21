@@ -1,0 +1,11 @@
+{
+  "name": "cddlib",
+  "version": "1:0.94m-1",
+  "depends": [
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 199559255,
+  "transmit": 299055,
+  "disk": 5550427
+}
