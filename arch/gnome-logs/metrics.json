@@ -1,0 +1,23 @@
+{
+  "name": "gnome-logs",
+  "version": "45beta-1",
+  "depends": [
+    "dconf",
+    "glib2",
+    "gsettings-desktop-schemas",
+    "gtk4",
+    "hicolor-icon-theme",
+    "libadwaita",
+    "pango",
+    "systemd"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199963157,
+  "transmit": 497056,
+  "disk": 6866934
+}
