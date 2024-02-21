@@ -1,0 +1,17 @@
+{
+  "name": "gocryptfs",
+  "version": "2.4.0-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "fuse3"
+  ],
+  "makedepends": [
+    "go",
+    "pandoc",
+    "man-db"
+  ],
+  "receive": 200073041,
+  "transmit": 694647,
+  "disk": 15394169
+}
