@@ -1,0 +1,17 @@
+{
+  "name": "libkgapi",
+  "version": "23.08.5-1",
+  "depends": [
+    "kcalendarcore5",
+    "kcontacts5",
+    "kwallet5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "doxygen"
+  ],
+  "receive": 200207841,
+  "transmit": 423989,
+  "disk": 4064228
+}
