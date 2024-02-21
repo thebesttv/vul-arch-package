@@ -1,0 +1,14 @@
+{
+  "name": "python-slugify",
+  "version": "8.0.3-1",
+  "depends": [
+    "python-text-unidecode"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199524465,
+  "transmit": 292810,
+  "disk": 675314
+}
