@@ -1,0 +1,14 @@
+{
+  "name": "talhelper",
+  "version": "2.0.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199492690,
+  "transmit": 257599,
+  "disk": 5165081
+}
