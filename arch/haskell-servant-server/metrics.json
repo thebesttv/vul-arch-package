@@ -1,0 +1,41 @@
+{
+  "name": "haskell-servant-server",
+  "version": "0.20-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-aeson",
+    "haskell-base64-bytestring",
+    "haskell-constraints",
+    "haskell-http-api-data",
+    "haskell-http-media",
+    "haskell-http-types",
+    "haskell-network-uri",
+    "haskell-monad-control",
+    "haskell-network",
+    "haskell-servant",
+    "haskell-sop-core",
+    "haskell-string-conversions",
+    "haskell-resourcet",
+    "haskell-tagged",
+    "haskell-transformers-base",
+    "haskell-wai",
+    "haskell-wai-app-static",
+    "haskell-warp",
+    "haskell-word8"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-wai",
+    "haskell-should-not-typecheck",
+    "haskell-quickcheck",
+    "haskell-safe",
+    "haskell-wai-extra",
+    "haskell-temporary",
+    "haskell-transformers-compat"
+  ],
+  "receive": 199512767,
+  "transmit": 269614,
+  "disk": 1275642
+}
