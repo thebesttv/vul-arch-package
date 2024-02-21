@@ -1,0 +1,21 @@
+{
+  "name": "libcanberra",
+  "version": "1:0.30+r2+gc0620e4-3",
+  "depends": [
+    "libvorbis",
+    "libltdl",
+    "alsa-lib",
+    "libpulse",
+    "tdb",
+    "sound-theme-freedesktop"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "gtk2",
+    "gtk3",
+    "git"
+  ],
+  "receive": 199655872,
+  "transmit": 414672,
+  "disk": 1438574
+}
