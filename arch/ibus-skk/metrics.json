@@ -1,0 +1,16 @@
+{
+  "name": "ibus-skk",
+  "version": "1.4.3-2",
+  "depends": [
+    "ibus",
+    "libskk"
+  ],
+  "makedepends": [
+    "intltool",
+    "gnome-common",
+    "vala"
+  ],
+  "receive": 199669102,
+  "transmit": 431957,
+  "disk": 534700
+}
