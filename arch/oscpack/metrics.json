@@ -1,0 +1,12 @@
+{
+  "name": "oscpack",
+  "version": "1.1.0-3",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199532892,
+  "transmit": 285711,
+  "disk": 371674
+}
