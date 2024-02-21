@@ -1,0 +1,15 @@
+{
+  "name": "goattracker",
+  "version": "2.76-3",
+  "depends": [
+    "gcc-libs",
+    "sdl12-compat",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "gendesk"
+  ],
+  "receive": 199844518,
+  "transmit": 612780,
+  "disk": 5738329
+}
