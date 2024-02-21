@@ -1,0 +1,15 @@
+{
+  "name": "yaml-cpp",
+  "version": "0.8.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199530690,
+  "transmit": 277732,
+  "disk": 6242682
+}
