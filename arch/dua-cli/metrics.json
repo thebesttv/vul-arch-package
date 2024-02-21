@@ -1,0 +1,13 @@
+{
+  "name": "dua-cli",
+  "version": "2.28.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199531145,
+  "transmit": 290417,
+  "disk": 2124478
+}
