@@ -1,0 +1,12 @@
+{
+  "name": "gst-plugins-espeak",
+  "version": "0.5.0-4",
+  "depends": [
+    "gst-plugins-base-libs",
+    "espeak-ng"
+  ],
+  "makedepends": [],
+  "receive": 199686388,
+  "transmit": 392974,
+  "disk": 209998
+}
