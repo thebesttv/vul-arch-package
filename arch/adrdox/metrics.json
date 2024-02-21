@@ -1,0 +1,13 @@
+{
+  "name": "adrdox",
+  "version": "2.5.4-1",
+  "depends": [
+    "postgresql-libs"
+  ],
+  "makedepends": [
+    "dmd"
+  ],
+  "receive": 200667276,
+  "transmit": 1218911,
+  "disk": 5325838
+}
