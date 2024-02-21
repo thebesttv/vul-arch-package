@@ -1,0 +1,20 @@
+{
+  "name": "pc-ble-driver",
+  "version": "4.1.4-9",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "asio",
+    "catch2",
+    "cmake",
+    "fmt",
+    "git",
+    "spdlog",
+    "systemd"
+  ],
+  "receive": 199639316,
+  "transmit": 394610,
+  "disk": 15681643
+}
