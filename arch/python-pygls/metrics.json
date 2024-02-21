@@ -1,0 +1,17 @@
+{
+  "name": "python-pygls",
+  "version": "1.3.0-1",
+  "depends": [
+    "python-cattrs",
+    "python-lsprotocol"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199666857,
+  "transmit": 455701,
+  "disk": 4148773
+}
