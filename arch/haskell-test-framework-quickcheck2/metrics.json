@@ -1,0 +1,17 @@
+{
+  "name": "haskell-test-framework-quickcheck2",
+  "version": "0.3.0.5-645",
+  "depends": [
+    "ghc-libs",
+    "haskell-test-framework",
+    "haskell-quickcheck",
+    "haskell-extensible-exceptions",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199626882,
+  "transmit": 365513,
+  "disk": 629506
+}
