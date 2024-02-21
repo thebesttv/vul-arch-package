@@ -1,0 +1,31 @@
+{
+  "name": "dbmail",
+  "version": "3.4.1-1",
+  "depends": [
+    "glib2",
+    "glibc",
+    "gmime3",
+    "libevent",
+    "libzdb",
+    "libxcrypt",
+    "mhash",
+    "openssl",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "docbook-xsl",
+    "docbook-xml",
+    "git",
+    "libldap",
+    "libsieve",
+    "mariadb-libs",
+    "postgresql-libs",
+    "sqlite",
+    "systemd",
+    "xmlto"
+  ],
+  "receive": 199754533,
+  "transmit": 530666,
+  "disk": 9248219
+}
