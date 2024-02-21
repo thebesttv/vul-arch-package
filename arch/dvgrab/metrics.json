@@ -1,0 +1,19 @@
+{
+  "name": "dvgrab",
+  "version": "3.5-13",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libdv",
+    "libavc1394",
+    "libjpeg-turbo",
+    "libiec61883",
+    "libraw1394"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199511815,
+  "transmit": 265246,
+  "disk": 911665
+}
