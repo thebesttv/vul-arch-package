@@ -1,0 +1,13 @@
+{
+  "name": "liborigin",
+  "version": "3.0.2-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199591960,
+  "transmit": 372829,
+  "disk": 693250
+}
