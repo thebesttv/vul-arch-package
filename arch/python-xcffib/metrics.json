@@ -1,0 +1,16 @@
+{
+  "name": "python-xcffib",
+  "version": "1.4.0-1",
+  "depends": [
+    "python-cffi",
+    "libxcb"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "haskell-xcffib"
+  ],
+  "receive": 199635485,
+  "transmit": 381884,
+  "disk": 1251879
+}
