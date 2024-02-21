@@ -1,0 +1,22 @@
+{
+  "name": "libpanel",
+  "version": "1.4.1-1",
+  "depends": [
+    "cairo",
+    "glib2",
+    "graphene",
+    "gtk4",
+    "hicolor-icon-theme",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199580772,
+  "transmit": 348071,
+  "disk": 2717043
+}
