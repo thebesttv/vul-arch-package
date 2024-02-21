@@ -1,0 +1,13 @@
+{
+  "name": "haskell-time-units",
+  "version": "1.0.0-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199483114,
+  "transmit": 242381,
+  "disk": 110616
+}
