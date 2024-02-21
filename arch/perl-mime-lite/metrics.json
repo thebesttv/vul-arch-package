@@ -1,0 +1,14 @@
+{
+  "name": "perl-mime-lite",
+  "version": "3.033-3",
+  "depends": [
+    "perl-email-date-format",
+    "perl-mailtools",
+    "perl-mime-types",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199656998,
+  "transmit": 414990,
+  "disk": 463588
+}
