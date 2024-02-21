@@ -1,0 +1,17 @@
+{
+  "name": "haskell-hxt",
+  "version": "9.3.1.22-123",
+  "depends": [
+    "ghc-libs",
+    "haskell-hxt-charproperties",
+    "haskell-hxt-regex-xmlschema",
+    "haskell-hxt-unicode",
+    "haskell-network-uri"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199581846,
+  "transmit": 322647,
+  "disk": 1802354
+}
