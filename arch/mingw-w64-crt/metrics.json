@@ -1,0 +1,13 @@
+{
+  "name": "mingw-w64-crt",
+  "version": "11.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "mingw-w64-gcc",
+    "mingw-w64-binutils",
+    "mingw-w64-headers=11.0.0"
+  ],
+  "receive": 209860888,
+  "transmit": 430712,
+  "disk": 120841665
+}
