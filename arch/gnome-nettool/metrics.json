@@ -1,0 +1,21 @@
+{
+  "name": "gnome-nettool",
+  "version": "42.0-2",
+  "depends": [
+    "gtk3",
+    "iputils",
+    "libgtop",
+    "whois"
+  ],
+  "makedepends": [
+    "bind",
+    "git",
+    "meson",
+    "net-tools",
+    "nmap",
+    "yelp-tools"
+  ],
+  "receive": 199517009,
+  "transmit": 303091,
+  "disk": 7454301
+}
