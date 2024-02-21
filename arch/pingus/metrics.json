@@ -1,0 +1,18 @@
+{
+  "name": "pingus",
+  "version": "0.7.6-28",
+  "depends": [
+    "sdl_image",
+    "sdl_mixer",
+    "libgl"
+  ],
+  "makedepends": [
+    "scons",
+    "boost",
+    "mesa",
+    "glu"
+  ],
+  "receive": 199580436,
+  "transmit": 277175,
+  "disk": 39142712
+}
