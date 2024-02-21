@@ -1,0 +1,16 @@
+{
+  "name": "procps-ng",
+  "version": "4.0.4-2",
+  "depends": [
+    "glibc",
+    "ncurses",
+    "libncursesw.so",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 200430315,
+  "transmit": 440730,
+  "disk": 14342316
+}
