@@ -1,0 +1,15 @@
+{
+  "name": "pidgin-otr",
+  "version": "4.0.2-4",
+  "depends": [
+    "libotr>=4.0.2",
+    "pidgin",
+    "perl-xml-parser"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199735890,
+  "transmit": 403898,
+  "disk": 2885384
+}
