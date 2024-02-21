@@ -1,0 +1,34 @@
+{
+  "name": "haskell-criterion",
+  "version": "1.6.1.0-11",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-base-compat-batteries",
+    "haskell-binary-orphans",
+    "haskell-cassava",
+    "haskell-code-page",
+    "haskell-criterion-measurement",
+    "haskell-glob",
+    "haskell-js-chart",
+    "haskell-microstache",
+    "haskell-mwc-random",
+    "haskell-optparse-applicative",
+    "haskell-statistics",
+    "haskell-transformers-compat",
+    "haskell-vector",
+    "haskell-vector-algorithms"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-base-compat",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199500713,
+  "transmit": 249611,
+  "disk": 1028720
+}
