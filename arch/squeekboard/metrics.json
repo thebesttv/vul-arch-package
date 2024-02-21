@@ -1,0 +1,21 @@
+{
+  "name": "squeekboard",
+  "version": "1.22.0-1",
+  "depends": [
+    "feedbackd",
+    "gnome-desktop",
+    "python"
+  ],
+  "makedepends": [
+    "pkg-config",
+    "meson",
+    "libbsd",
+    "intltool",
+    "rust",
+    "gtk-doc",
+    "wayland-protocols"
+  ],
+  "receive": 199531909,
+  "transmit": 265491,
+  "disk": 1480025
+}
