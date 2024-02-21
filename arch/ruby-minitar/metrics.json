@@ -1,0 +1,16 @@
+{
+  "name": "ruby-minitar",
+  "version": "0.9-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-hoe",
+    "ruby-minitest"
+  ],
+  "receive": 199509199,
+  "transmit": 244112,
+  "disk": 273519
+}
