@@ -1,0 +1,17 @@
+{
+  "name": "perl-graphviz",
+  "version": "2.26-1",
+  "depends": [
+    "graphviz",
+    "perl-file-which",
+    "perl-ipc-run",
+    "perl-libwww",
+    "perl-parse-recdescent",
+    "perl-xml-twig",
+    "perl-xml-xpath"
+  ],
+  "makedepends": [],
+  "receive": 199642127,
+  "transmit": 344938,
+  "disk": 993637
+}
