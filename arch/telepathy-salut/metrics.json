@@ -1,0 +1,18 @@
+{
+  "name": "telepathy-salut",
+  "version": "0.8.1-7",
+  "depends": [
+    "telepathy-glib",
+    "avahi",
+    "libsoup",
+    "util-linux"
+  ],
+  "makedepends": [
+    "libxslt",
+    "python",
+    "xmldiff"
+  ],
+  "receive": 199561198,
+  "transmit": 300128,
+  "disk": 11813058
+}
