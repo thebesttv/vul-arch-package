@@ -1,0 +1,13 @@
+{
+  "name": "avr-binutils",
+  "version": "2.41-1",
+  "depends": [
+    "glibc",
+    "zlib",
+    "libelf"
+  ],
+  "makedepends": [],
+  "receive": 237639007,
+  "transmit": 779657,
+  "disk": 326766086
+}
