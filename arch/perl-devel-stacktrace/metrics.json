@@ -1,0 +1,11 @@
+{
+  "name": "perl-devel-stacktrace",
+  "version": "2.04-3",
+  "depends": [
+    "perl>=5.6"
+  ],
+  "makedepends": [],
+  "receive": 199534718,
+  "transmit": 298861,
+  "disk": 332059
+}
