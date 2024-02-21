@@ -1,0 +1,17 @@
+{
+  "name": "haskell-refinery",
+  "version": "0.4.0.0-169",
+  "depends": [
+    "ghc-libs",
+    "haskell-mmorph"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-checkers",
+    "haskell-hspec"
+  ],
+  "receive": 199506333,
+  "transmit": 230143,
+  "disk": 403072
+}
