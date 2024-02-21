@@ -1,0 +1,13 @@
+{
+  "name": "mp3info",
+  "version": "0.8.5a-8",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [
+    "gtk2"
+  ],
+  "receive": 199561783,
+  "transmit": 346095,
+  "disk": 642495
+}
