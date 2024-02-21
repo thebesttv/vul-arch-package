@@ -1,0 +1,13 @@
+{
+  "name": "python-pytest-lazy-fixture",
+  "version": "0.6.3-6",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199569514,
+  "transmit": 312545,
+  "disk": 151302
+}
