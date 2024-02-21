@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-subcalls",
+  "version": "1.10-6",
+  "depends": [
+    "perl-hook-lexwrap"
+  ],
+  "makedepends": [],
+  "receive": 199701077,
+  "transmit": 367213,
+  "disk": 116699
+}
