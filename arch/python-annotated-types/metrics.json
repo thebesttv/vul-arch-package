@@ -1,0 +1,15 @@
+{
+  "name": "python-annotated-types",
+  "version": "0.6.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199593776,
+  "transmit": 361368,
+  "disk": 169742
+}
