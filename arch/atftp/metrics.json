@@ -1,0 +1,12 @@
+{
+  "name": "atftp",
+  "version": "0.8.0-3",
+  "depends": [
+    "pcre2",
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 199581147,
+  "transmit": 312574,
+  "disk": 942559
+}
