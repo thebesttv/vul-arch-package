@@ -1,0 +1,16 @@
+{
+  "name": "haskell-record-dot-preprocessor",
+  "version": "0.2.17-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-extra",
+    "haskell-uniplate"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-record-hasfield"
+  ],
+  "receive": 199731778,
+  "transmit": 377455,
+  "disk": 440120
+}
