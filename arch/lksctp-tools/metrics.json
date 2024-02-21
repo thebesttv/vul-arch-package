@@ -1,0 +1,13 @@
+{
+  "name": "lksctp-tools",
+  "version": "1.0.19-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199872053,
+  "transmit": 545076,
+  "disk": 4748085
+}
