@@ -1,0 +1,14 @@
+{
+  "name": "sarg",
+  "version": "2.4.0-3",
+  "depends": [
+    "gd",
+    "libldap"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199613783,
+  "transmit": 360594,
+  "disk": 6563580
+}
