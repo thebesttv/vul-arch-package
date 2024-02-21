@@ -1,0 +1,13 @@
+{
+  "name": "perl-algorithm-annotate",
+  "version": "0.10-14",
+  "depends": [
+    "perl-algorithm-diff"
+  ],
+  "makedepends": [
+    "perl-algorithm-diff"
+  ],
+  "receive": 199712229,
+  "transmit": 418353,
+  "disk": 107101
+}
