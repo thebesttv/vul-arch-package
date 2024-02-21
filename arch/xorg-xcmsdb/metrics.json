@@ -1,0 +1,13 @@
+{
+  "name": "xorg-xcmsdb",
+  "version": "1.0.6-1",
+  "depends": [
+    "libx11"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 200007265,
+  "transmit": 673146,
+  "disk": 1125075
+}
