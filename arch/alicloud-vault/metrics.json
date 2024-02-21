@@ -1,0 +1,13 @@
+{
+  "name": "alicloud-vault",
+  "version": "1.3.4-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199628803,
+  "transmit": 395168,
+  "disk": 227836
+}
