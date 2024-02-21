@@ -1,0 +1,23 @@
+{
+  "name": "capnet-assist",
+  "version": "2.4.4-1",
+  "depends": [
+    "gcr",
+    "glib2",
+    "gtk3",
+    "libgranite.so",
+    "libhandy-1.so",
+    "libsoup",
+    "networkmanager",
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199550822,
+  "transmit": 274686,
+  "disk": 13906629
+}
