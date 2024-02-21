@@ -1,0 +1,29 @@
+{
+  "name": "aegisub",
+  "version": "3.3.3-7",
+  "depends": [
+    "alsa-lib",
+    "boost-libs",
+    "fftw",
+    "fontconfig",
+    "hunspell",
+    "icu",
+    "libass.so",
+    "libffms2.so",
+    "libgl",
+    "libpulse",
+    "uchardet",
+    "wxwidgets-gtk3",
+    "zlib"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "git",
+    "mesa",
+    "ninja"
+  ],
+  "receive": 207060756,
+  "transmit": 459131,
+  "disk": 68540598
+}
