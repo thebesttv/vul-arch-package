@@ -1,0 +1,22 @@
+{
+  "name": "xdg-desktop-portal-dde",
+  "version": "1.0.5-5",
+  "depends": [
+    "qt5-base",
+    "wayland",
+    "dwayland",
+    "ki18n5",
+    "knotifications5",
+    "glibc",
+    "gcc-libs",
+    "xdg-desktop-portal"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "extra-cmake-modules"
+  ],
+  "receive": 199533083,
+  "transmit": 275202,
+  "disk": 519671
+}
