@@ -1,0 +1,20 @@
+{
+  "name": "qtkeychain",
+  "version": "0.14.2-1",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "org.freedesktop.secrets"
+  ],
+  "makedepends": [
+    "clang",
+    "cmake",
+    "qt5-tools",
+    "qt6-declarative",
+    "qt6-tools"
+  ],
+  "receive": 199664086,
+  "transmit": 407855,
+  "disk": 428747
+}
