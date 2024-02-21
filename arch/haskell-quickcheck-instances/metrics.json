@@ -1,0 +1,33 @@
+{
+  "name": "haskell-quickcheck-instances",
+  "version": "0.3.30-40",
+  "depends": [
+    "ghc-libs",
+    "haskell-onetuple",
+    "haskell-quickcheck",
+    "haskell-case-insensitive",
+    "haskell-data-array-byte",
+    "haskell-data-fix",
+    "haskell-hashable",
+    "haskell-integer-logarithms",
+    "haskell-old-time",
+    "haskell-primitive",
+    "haskell-scientific",
+    "haskell-splitmix",
+    "haskell-strict",
+    "haskell-tagged",
+    "haskell-text-short",
+    "haskell-these",
+    "haskell-time-compat",
+    "haskell-transformers-compat",
+    "haskell-unordered-containers",
+    "haskell-uuid-types",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199808044,
+  "transmit": 458813,
+  "disk": 546090
+}
