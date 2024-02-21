@@ -1,0 +1,13 @@
+{
+  "name": "python-pylons-sphinx-themes",
+  "version": "1.0.13-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199536289,
+  "transmit": 324237,
+  "disk": 435587
+}
