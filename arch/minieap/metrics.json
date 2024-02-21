@@ -1,0 +1,12 @@
+{
+  "name": "minieap",
+  "version": "0.93-1",
+  "depends": [
+    "glibc",
+    "coreutils"
+  ],
+  "makedepends": [],
+  "receive": 199514814,
+  "transmit": 278703,
+  "disk": 952103
+}
