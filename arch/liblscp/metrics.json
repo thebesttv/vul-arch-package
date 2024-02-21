@@ -1,0 +1,13 @@
+{
+  "name": "liblscp",
+  "version": "0.9.12-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200410215,
+  "transmit": 731995,
+  "disk": 744065
+}
