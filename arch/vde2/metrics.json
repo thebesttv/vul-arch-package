@@ -1,0 +1,14 @@
+{
+  "name": "vde2",
+  "version": "2.3.3-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "libpcap",
+    "wolfssl"
+  ],
+  "receive": 199544716,
+  "transmit": 274380,
+  "disk": 1313773
+}
