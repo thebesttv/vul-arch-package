@@ -1,0 +1,12 @@
+{
+  "name": "xbindkeys",
+  "version": "1.8.7-4",
+  "depends": [
+    "libx11",
+    "guile"
+  ],
+  "makedepends": [],
+  "receive": 199589495,
+  "transmit": 371152,
+  "disk": 932212
+}
