@@ -1,0 +1,13 @@
+{
+  "name": "pop-gtk-theme",
+  "version": "5.5.1.r6.190b5cce-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "meson",
+    "sassc"
+  ],
+  "receive": 232763656,
+  "transmit": 385365,
+  "disk": 46558485
+}
