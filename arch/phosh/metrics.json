@@ -1,0 +1,37 @@
+{
+  "name": "phosh",
+  "version": "0.36.0-1",
+  "depends": [
+    "gtk3",
+    "libhandy",
+    "gnome-desktop",
+    "gnome-session",
+    "upower",
+    "libpulse",
+    "gcr",
+    "libnm",
+    "phoc",
+    "gnome-shell",
+    "callaudiod",
+    "evince",
+    "fribidi",
+    "wayland",
+    "evolution-data-server",
+    "libsecret",
+    "polkit",
+    "libadwaita",
+    "libical",
+    "libedataserverui4",
+    "squeekboard"
+  ],
+  "makedepends": [
+    "meson",
+    "git",
+    "wayland-protocols",
+    "python-docutils",
+    "feedbackd"
+  ],
+  "receive": 199697441,
+  "transmit": 411338,
+  "disk": 11638842
+}
