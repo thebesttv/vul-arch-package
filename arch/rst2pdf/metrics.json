@@ -1,0 +1,25 @@
+{
+  "name": "rst2pdf",
+  "version": "0.101-1",
+  "depends": [
+    "python",
+    "python-docutils",
+    "python-importlib-metadata",
+    "python-jinja",
+    "python-packaging",
+    "python-pillow",
+    "python-pygments",
+    "python-reportlab",
+    "python-smartypants",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199798600,
+  "transmit": 563927,
+  "disk": 36219161
+}
