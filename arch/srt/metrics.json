@@ -1,0 +1,16 @@
+{
+  "name": "srt",
+  "version": "1.5.3-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199690873,
+  "transmit": 359394,
+  "disk": 30989339
+}
