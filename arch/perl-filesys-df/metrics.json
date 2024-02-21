@@ -1,0 +1,11 @@
+{
+  "name": "perl-filesys-df",
+  "version": "0.92-14",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199684307,
+  "transmit": 401396,
+  "disk": 132616
+}
