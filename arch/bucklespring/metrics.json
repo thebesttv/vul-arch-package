@@ -1,0 +1,15 @@
+{
+  "name": "bucklespring",
+  "version": "1.5.1-1",
+  "depends": [
+    "openal",
+    "alure",
+    "libxtst",
+    "dumb",
+    "mpg123"
+  ],
+  "makedepends": [],
+  "receive": 199632685,
+  "transmit": 382222,
+  "disk": 9738665
+}
