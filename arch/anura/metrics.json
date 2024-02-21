@@ -1,0 +1,24 @@
+{
+  "name": "anura",
+  "version": "4.0.2-1",
+  "depends": [
+    "libgl",
+    "mesa",
+    "glew",
+    "cairo",
+    "sdl2",
+    "sdl2_image",
+    "sdl2_ttf",
+    "sdl2_mixer",
+    "libpng",
+    "boost-libs"
+  ],
+  "makedepends": [
+    "git",
+    "boost",
+    "glm"
+  ],
+  "receive": 608156133,
+  "transmit": 549002,
+  "disk": 631775208
+}
