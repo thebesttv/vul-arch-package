@@ -1,0 +1,14 @@
+{
+  "name": "gio-qt",
+  "version": "0.0.12-1",
+  "depends": [
+    "glibmm",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 201402938,
+  "transmit": 1235106,
+  "disk": 419287
+}
