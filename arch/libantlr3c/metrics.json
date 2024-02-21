@@ -1,0 +1,11 @@
+{
+  "name": "libantlr3c",
+  "version": "3.5.3-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 209010049,
+  "transmit": 422874,
+  "disk": 37887990
+}
