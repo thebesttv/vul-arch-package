@@ -1,0 +1,18 @@
+{
+  "name": "python-hvac",
+  "version": "2.1.0-1",
+  "depends": [
+    "python",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "vault",
+    "python-pyhcl"
+  ],
+  "receive": 199714367,
+  "transmit": 440180,
+  "disk": 2657059
+}
