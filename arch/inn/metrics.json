@@ -1,0 +1,23 @@
+{
+  "name": "inn",
+  "version": "2.7.1-2",
+  "depends": [
+    "openssl",
+    "perl-mime-tools",
+    "perl-gd",
+    "pam",
+    "db5.3"
+  ],
+  "makedepends": [
+    "make",
+    "bison",
+    "python",
+    "gcc",
+    "smtp-forwarder",
+    "libsasl",
+    "sqlite"
+  ],
+  "receive": 199693008,
+  "transmit": 402921,
+  "disk": 14463274
+}
