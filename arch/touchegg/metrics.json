@@ -1,0 +1,22 @@
+{
+  "name": "touchegg",
+  "version": "2.0.17-1",
+  "depends": [
+    "libinput",
+    "cairo",
+    "systemd-libs",
+    "libx11",
+    "libxi",
+    "libxrandr",
+    "libxtst",
+    "pugixml",
+    "gtk3",
+    "glib2"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199499837,
+  "transmit": 265290,
+  "disk": 54501094
+}
