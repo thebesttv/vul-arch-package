@@ -1,0 +1,11 @@
+{
+  "name": "retry",
+  "version": "1.0.5-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 200940657,
+  "transmit": 1407646,
+  "disk": 1849627
+}
