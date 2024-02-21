@@ -1,0 +1,13 @@
+{
+  "name": "c-ares",
+  "version": "1.26.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199831165,
+  "transmit": 411266,
+  "disk": 7637358
+}
