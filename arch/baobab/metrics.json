@@ -1,0 +1,22 @@
+{
+  "name": "baobab",
+  "version": "45.0-1",
+  "depends": [
+    "dconf",
+    "gsettings-desktop-schemas",
+    "gtk4",
+    "libadwaita",
+    "librsvg"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199561945,
+  "transmit": 261020,
+  "disk": 13696084
+}
