@@ -1,0 +1,12 @@
+{
+  "name": "clipnotify",
+  "version": "1.0.2-2",
+  "depends": [
+    "libx11",
+    "libxfixes"
+  ],
+  "makedepends": [],
+  "receive": 199571756,
+  "transmit": 337667,
+  "disk": 93661
+}
