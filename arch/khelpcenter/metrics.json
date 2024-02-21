@@ -1,0 +1,17 @@
+{
+  "name": "khelpcenter",
+  "version": "23.08.5-1",
+  "depends": [
+    "khtml",
+    "kdoctools5",
+    "xapian-core",
+    "grantlee",
+    "perl"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 204199257,
+  "transmit": 397762,
+  "disk": 23007873
+}
