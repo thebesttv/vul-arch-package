@@ -1,0 +1,15 @@
+{
+  "name": "ruby-crack",
+  "version": "0.4.4-3",
+  "depends": [
+    "ruby",
+    "ruby-safe_yaml",
+    "ruby-rexml"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199625045,
+  "transmit": 370518,
+  "disk": 3306175
+}
