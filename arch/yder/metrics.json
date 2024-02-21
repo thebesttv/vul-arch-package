@@ -1,0 +1,20 @@
+{
+  "name": "yder",
+  "version": "1.4.20-1",
+  "depends": [
+    "glibc",
+    "liborcania.so",
+    "libsystemd.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "git",
+    "graphviz",
+    "ninja",
+    "systemd"
+  ],
+  "receive": 202296960,
+  "transmit": 1828173,
+  "disk": 1095611
+}
