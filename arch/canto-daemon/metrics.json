@@ -1,0 +1,13 @@
+{
+  "name": "canto-daemon",
+  "version": "0.9.8-4",
+  "depends": [
+    "python-feedparser"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199541780,
+  "transmit": 304468,
+  "disk": 333592
+}
