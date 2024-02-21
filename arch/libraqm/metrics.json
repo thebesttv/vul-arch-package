@@ -1,0 +1,15 @@
+{
+  "name": "libraqm",
+  "version": "0.10.1-1",
+  "depends": [
+    "freetype2",
+    "fribidi"
+  ],
+  "makedepends": [
+    "meson",
+    "gtk-doc"
+  ],
+  "receive": 199595883,
+  "transmit": 365052,
+  "disk": 1145499
+}
