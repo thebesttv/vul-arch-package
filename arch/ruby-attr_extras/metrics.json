@@ -1,0 +1,13 @@
+{
+  "name": "ruby-attr_extras",
+  "version": "7.1.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199532910,
+  "transmit": 276803,
+  "disk": 630192
+}
