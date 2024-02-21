@@ -1,0 +1,20 @@
+{
+  "name": "python-can",
+  "version": "4.3.1-1",
+  "depends": [
+    "python",
+    "python-aenum",
+    "python-setuptools",
+    "python-typing_extensions",
+    "python-wrapt"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199532634,
+  "transmit": 264465,
+  "disk": 12615863
+}
