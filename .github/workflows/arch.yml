@@ -103,7 +103,7 @@ jobs:
           entrypoint: /usr/bin/bash
           args: docker/go.sh
       - name: Save container metrics
-        if: false && env.TBT_UPDATE_PACKAGE == 'true' && success()
+        if: env.TBT_UPDATE_PACKAGE == 'true' && success()
         run: |
           if ! command -v jq &> /dev/null
           then
