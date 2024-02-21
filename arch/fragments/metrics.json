@@ -1,0 +1,16 @@
+{
+  "name": "fragments",
+  "version": "2.1.1-1",
+  "depends": [
+    "libadwaita",
+    "transmission-cli"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "rust"
+  ],
+  "receive": 199948232,
+  "transmit": 477286,
+  "disk": 6755321
+}
