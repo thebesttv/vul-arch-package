@@ -1,0 +1,13 @@
+{
+  "name": "perl-perlio-utf8-strict",
+  "version": "0.010-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-test-exception"
+  ],
+  "receive": 199528608,
+  "transmit": 272865,
+  "disk": 879998
+}
