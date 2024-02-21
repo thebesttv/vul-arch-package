@@ -1,0 +1,15 @@
+{
+  "name": "mp3splt-gtk",
+  "version": "0.9.2-4",
+  "depends": [
+    "desktop-file-utils",
+    "gtk3",
+    "libmp3splt",
+    "gst-plugins-good",
+    "gst-plugins-ugly"
+  ],
+  "makedepends": [],
+  "receive": 199566507,
+  "transmit": 297235,
+  "disk": 4815674
+}
