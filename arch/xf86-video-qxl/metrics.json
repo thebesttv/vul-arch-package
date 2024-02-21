@@ -1,0 +1,20 @@
+{
+  "name": "xf86-video-qxl",
+  "version": "0.1.6-1",
+  "depends": [
+    "spice",
+    "systemd-libs",
+    "libxfont2"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-VIDEODRV_VERSION=25.2",
+    "spice-protocol",
+    "xorgproto",
+    "git",
+    "libcacard"
+  ],
+  "receive": 201606661,
+  "transmit": 1578300,
+  "disk": 3311620
+}
