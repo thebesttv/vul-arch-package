@@ -1,0 +1,14 @@
+{
+  "name": "ruby-octokit",
+  "version": "6.1.1-1",
+  "depends": [
+    "ruby-faraday",
+    "ruby-sawyer"
+  ],
+  "makedepends": [
+    "ruby-rake"
+  ],
+  "receive": 202843352,
+  "transmit": 311038,
+  "disk": 26520298
+}
