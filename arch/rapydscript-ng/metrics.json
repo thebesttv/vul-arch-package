@@ -1,0 +1,14 @@
+{
+  "name": "rapydscript-ng",
+  "version": "0.7.22-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "npm"
+  ],
+  "receive": 199684785,
+  "transmit": 341153,
+  "disk": 7503259
+}
