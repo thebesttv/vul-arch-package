@@ -1,0 +1,16 @@
+{
+  "name": "cairo-dock",
+  "version": "3.5.0-1",
+  "depends": [
+    "curl",
+    "dbus-glib",
+    "glu",
+    "gtk3"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199571015,
+  "transmit": 311045,
+  "disk": 14796167
+}
