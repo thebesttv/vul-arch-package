@@ -1,0 +1,16 @@
+{
+  "name": "keycloak-hcaptcha",
+  "version": "1.0.1-2",
+  "depends": [
+    "java-runtime"
+  ],
+  "makedepends": [
+    "jdk-openjdk",
+    "maven",
+    "keycloak",
+    "git"
+  ],
+  "receive": 199691642,
+  "transmit": 396014,
+  "disk": 3521287
+}
