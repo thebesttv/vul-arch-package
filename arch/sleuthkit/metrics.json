@@ -1,0 +1,13 @@
+{
+  "name": "sleuthkit",
+  "version": "4.12.1-1",
+  "depends": [
+    "perl",
+    "libewf",
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 203473324,
+  "transmit": 403752,
+  "disk": 21227310
+}
