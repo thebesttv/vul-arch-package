@@ -1,0 +1,18 @@
+{
+  "name": "gsettings-desktop-schemas",
+  "version": "45.0-1",
+  "depends": [
+    "adobe-source-code-pro-fonts",
+    "cantarell-fonts",
+    "dconf",
+    "glib2"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson"
+  ],
+  "receive": 210467070,
+  "transmit": 465845,
+  "disk": 19576539
+}
