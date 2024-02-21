@@ -1,0 +1,14 @@
+{
+  "name": "zxing-cpp",
+  "version": "2.2.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199512792,
+  "transmit": 277561,
+  "disk": 4297713
+}
