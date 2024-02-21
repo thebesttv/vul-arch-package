@@ -1,0 +1,20 @@
+{
+  "name": "thefuck",
+  "version": "3.32-5",
+  "depends": [
+    "python-colorama",
+    "python-decorator",
+    "python-psutil",
+    "python-pyte",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199566174,
+  "transmit": 257090,
+  "disk": 3164064
+}
