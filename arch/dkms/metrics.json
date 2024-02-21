@@ -1,0 +1,20 @@
+{
+  "name": "dkms",
+  "version": "3.0.12-1",
+  "depends": [
+    "coreutils",
+    "bash",
+    "gawk",
+    "sed",
+    "kmod",
+    "gcc",
+    "make",
+    "patch"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199666524,
+  "transmit": 338341,
+  "disk": 2773686
+}
