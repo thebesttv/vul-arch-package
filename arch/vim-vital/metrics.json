@@ -1,0 +1,12 @@
+{
+  "name": "vim-vital",
+  "version": "1:3113.982e0bf3-3",
+  "depends": [
+    "vim-plugin-runtime",
+    "git"
+  ],
+  "makedepends": [],
+  "receive": 199730703,
+  "transmit": 415482,
+  "disk": 7540634
+}
