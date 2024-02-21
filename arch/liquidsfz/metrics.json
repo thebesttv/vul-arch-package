@@ -1,0 +1,14 @@
+{
+  "name": "liquidsfz",
+  "version": "0.3.2-1",
+  "depends": [],
+  "makedepends": [
+    "jack",
+    "libsndfile",
+    "lv2",
+    "readline"
+  ],
+  "receive": 199613022,
+  "transmit": 381758,
+  "disk": 1244647
+}
