@@ -1,0 +1,15 @@
+{
+  "name": "dkfilter",
+  "version": "0.11-13",
+  "depends": [
+    "perl-crypt-openssl-rsa",
+    "perl-mailtools",
+    "perl-net-dns",
+    "perl-net-server",
+    "perl-mail-domainkeys"
+  ],
+  "makedepends": [],
+  "receive": 199568160,
+  "transmit": 281400,
+  "disk": 526432
+}
