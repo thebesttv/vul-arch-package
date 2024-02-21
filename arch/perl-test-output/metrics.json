@@ -1,0 +1,15 @@
+{
+  "name": "perl-test-output",
+  "version": "1.034-2",
+  "depends": [
+    "perl-sub-exporter",
+    "perl-test-simple",
+    "perl-test-pod",
+    "perl-test-pod-coverage",
+    "perl-capture-tiny"
+  ],
+  "makedepends": [],
+  "receive": 199498900,
+  "transmit": 238590,
+  "disk": 275736
+}
