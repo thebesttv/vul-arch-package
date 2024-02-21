@@ -1,0 +1,13 @@
+{
+  "name": "ibus-unikey",
+  "version": "0.6.1-7",
+  "depends": [
+    "ibus"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199659341,
+  "transmit": 407635,
+  "disk": 2910678
+}
