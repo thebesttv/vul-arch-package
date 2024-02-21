@@ -1,0 +1,14 @@
+{
+  "name": "perl-module-manifest",
+  "version": "1.09-1",
+  "depends": [
+    "perl",
+    "perl-params-util",
+    "perl",
+    "perl-file-slurp"
+  ],
+  "makedepends": [],
+  "receive": 199832353,
+  "transmit": 532683,
+  "disk": 121164
+}
