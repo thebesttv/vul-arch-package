@@ -1,0 +1,13 @@
+{
+  "name": "python-contextlib2",
+  "version": "21.6.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199538603,
+  "transmit": 271053,
+  "disk": 338993
+}
