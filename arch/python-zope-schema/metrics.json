@@ -1,0 +1,13 @@
+{
+  "name": "python-zope-schema",
+  "version": "7.0.1-2",
+  "depends": [
+    "python-setuptools",
+    "python-zope-interface",
+    "python-zope-event"
+  ],
+  "makedepends": [],
+  "receive": 199591202,
+  "transmit": 350223,
+  "disk": 700204
+}
