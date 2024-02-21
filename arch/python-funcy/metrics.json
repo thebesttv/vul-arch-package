@@ -1,0 +1,14 @@
+{
+  "name": "python-funcy",
+  "version": "2.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 200193614,
+  "transmit": 661405,
+  "disk": 1938699
+}
