@@ -1,0 +1,15 @@
+{
+  "name": "libretro-parallel-n64",
+  "version": "5251-1",
+  "depends": [
+    "libgl",
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git",
+    "mesa"
+  ],
+  "receive": 207309859,
+  "transmit": 331570,
+  "disk": 78955049
+}
