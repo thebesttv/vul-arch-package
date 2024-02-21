@@ -1,0 +1,12 @@
+{
+  "name": "kubeone",
+  "version": "1.7.0-1",
+  "depends": [],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199716165,
+  "transmit": 403003,
+  "disk": 24872461
+}
