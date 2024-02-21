@@ -1,0 +1,14 @@
+{
+  "name": "ntp",
+  "version": "4.2.8.p17-1",
+  "depends": [
+    "openssl",
+    "perl",
+    "libcap",
+    "libedit"
+  ],
+  "makedepends": [],
+  "receive": 199781583,
+  "transmit": 588244,
+  "disk": 36707136
+}
