@@ -1,0 +1,15 @@
+{
+  "name": "libcontentaction",
+  "version": "0.4.3-1",
+  "depends": [
+    "qt5-systems",
+    "mlite"
+  ],
+  "makedepends": [
+    "python",
+    "qt5-tools"
+  ],
+  "receive": 199612535,
+  "transmit": 302933,
+  "disk": 436226
+}
