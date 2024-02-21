@@ -1,0 +1,13 @@
+{
+  "name": "ruby-mercenary",
+  "version": "0.4.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 200139830,
+  "transmit": 659308,
+  "disk": 168502
+}
