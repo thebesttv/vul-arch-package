@@ -1,0 +1,14 @@
+{
+  "name": "libftdi-compat",
+  "version": "0.20-8",
+  "depends": [
+    "libusb-compat",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 199696312,
+  "transmit": 431574,
+  "disk": 2295964
+}
