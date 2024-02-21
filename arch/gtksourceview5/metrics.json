@@ -1,0 +1,26 @@
+{
+  "name": "gtksourceview5",
+  "version": "5.10.0-1",
+  "depends": [
+    "cairo",
+    "fontconfig",
+    "fribidi",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk4",
+    "hicolor-icon-theme",
+    "libxml2",
+    "pango",
+    "pcre2"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199627253,
+  "transmit": 314409,
+  "disk": 33734429
+}
