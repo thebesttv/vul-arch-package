@@ -1,0 +1,15 @@
+{
+  "name": "profile-cleaner",
+  "version": "2.45-1",
+  "depends": [
+    "bash",
+    "bc",
+    "findutils",
+    "parallel",
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 199521290,
+  "transmit": 253492,
+  "disk": 137733
+}
