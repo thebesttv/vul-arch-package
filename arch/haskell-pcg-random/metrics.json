@@ -1,0 +1,18 @@
+{
+  "name": "haskell-pcg-random",
+  "version": "0.1.4.0-19",
+  "depends": [
+    "ghc-libs",
+    "haskell-entropy",
+    "haskell-primitive",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-cabal-doctest",
+    "haskell-doctest"
+  ],
+  "receive": 199694975,
+  "transmit": 411522,
+  "disk": 381373
+}
