@@ -1,0 +1,19 @@
+{
+  "name": "ukui-menu",
+  "version": "3.0.3-2",
+  "depends": [
+    "bamf",
+    "gsettings-qt",
+    "kwindowsystem5",
+    "qt5-svg",
+    "qt5-x11extras",
+    "uchardet",
+    "ukui-interface"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199571759,
+  "transmit": 306008,
+  "disk": 2329741
+}
