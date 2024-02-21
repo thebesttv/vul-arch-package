@@ -1,0 +1,17 @@
+{
+  "name": "spice-up",
+  "version": "1.9.1-1",
+  "depends": [
+    "granite",
+    "libevdev",
+    "libgudev",
+    "libsoup"
+  ],
+  "makedepends": [
+    "meson",
+    "vala"
+  ],
+  "receive": 199538916,
+  "transmit": 272973,
+  "disk": 5545821
+}
