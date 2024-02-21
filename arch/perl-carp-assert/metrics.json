@@ -1,0 +1,11 @@
+{
+  "name": "perl-carp-assert",
+  "version": "0.22-2",
+  "depends": [
+    "perl>=5.6"
+  ],
+  "makedepends": [],
+  "receive": 199714387,
+  "transmit": 389316,
+  "disk": 148692
+}
