@@ -1,0 +1,21 @@
+{
+  "name": "libportal",
+  "version": "0.7.1-2",
+  "depends": [],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gjs",
+    "gobject-introspection",
+    "gtk3",
+    "gtk4",
+    "meson",
+    "qt5-base",
+    "qt5-x11extras",
+    "vala",
+    "xdg-desktop-portal"
+  ],
+  "receive": 199519999,
+  "transmit": 266106,
+  "disk": 2865600
+}
