@@ -1,0 +1,19 @@
+{
+  "name": "python-outcome",
+  "version": "1.3.0.post0-2",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199746146,
+  "transmit": 421527,
+  "disk": 525523
+}
