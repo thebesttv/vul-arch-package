@@ -1,0 +1,22 @@
+{
+  "name": "vkmark",
+  "version": "20220318-1",
+  "depends": [
+    "vulkan-icd-loader",
+    "assimp"
+  ],
+  "makedepends": [
+    "git",
+    "vulkan-headers",
+    "meson",
+    "ninja",
+    "wayland-protocols",
+    "glm",
+    "xcb-util-wm",
+    "xorgproto",
+    "wayland"
+  ],
+  "receive": 199575967,
+  "transmit": 346538,
+  "disk": 3399856
+}
