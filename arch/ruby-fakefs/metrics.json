@@ -1,0 +1,13 @@
+{
+  "name": "ruby-fakefs",
+  "version": "2.5.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199683563,
+  "transmit": 416864,
+  "disk": 2823766
+}
