@@ -1,0 +1,13 @@
+{
+  "name": "python-django-gravatar",
+  "version": "1.4.4-6",
+  "depends": [
+    "python-django"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199722691,
+  "transmit": 421424,
+  "disk": 151044
+}
