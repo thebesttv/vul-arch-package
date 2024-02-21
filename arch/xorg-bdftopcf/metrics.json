@@ -1,0 +1,14 @@
+{
+  "name": "xorg-bdftopcf",
+  "version": "1.1.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199595614,
+  "transmit": 358293,
+  "disk": 1142437
+}
