@@ -1,0 +1,13 @@
+{
+  "name": "libfixposix",
+  "version": "0.5.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199604032,
+  "transmit": 329158,
+  "disk": 1273744
+}
