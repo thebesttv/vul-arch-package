@@ -1,0 +1,16 @@
+{
+  "name": "cl-ppcre",
+  "version": "2.1.1.r3.gb4056c5-1",
+  "depends": [
+    "common-lisp",
+    "cl-asdf",
+    "cl-unicode"
+  ],
+  "makedepends": [
+    "git",
+    "sbcl"
+  ],
+  "receive": 199560923,
+  "transmit": 314728,
+  "disk": 2526185
+}
