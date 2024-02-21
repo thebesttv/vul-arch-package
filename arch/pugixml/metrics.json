@@ -1,0 +1,13 @@
+{
+  "name": "pugixml",
+  "version": "1.14-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199489839,
+  "transmit": 246271,
+  "disk": 2137826
+}
