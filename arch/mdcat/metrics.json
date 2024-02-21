@@ -1,0 +1,15 @@
+{
+  "name": "mdcat",
+  "version": "2.1.1-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "asciidoctor",
+    "cargo"
+  ],
+  "receive": 199665573,
+  "transmit": 411735,
+  "disk": 1671574
+}
