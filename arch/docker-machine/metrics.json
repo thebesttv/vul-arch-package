@@ -1,0 +1,13 @@
+{
+  "name": "docker-machine",
+  "version": "0.16.2-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 202598544,
+  "transmit": 470292,
+  "disk": 23276586
+}
