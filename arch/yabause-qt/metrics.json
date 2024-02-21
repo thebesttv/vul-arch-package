@@ -1,0 +1,20 @@
+{
+  "name": "yabause-qt",
+  "version": "0.9.15-3",
+  "depends": [
+    "freeglut",
+    "glew",
+    "openal",
+    "qt5-base",
+    "qt5-multimedia",
+    "sdl2"
+  ],
+  "makedepends": [
+    "cmake",
+    "glu",
+    "libxmu"
+  ],
+  "receive": 200603010,
+  "transmit": 409851,
+  "disk": 13425708
+}
