@@ -1,0 +1,11 @@
+{
+  "name": "gsm",
+  "version": "1.0.22-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199656037,
+  "transmit": 407656,
+  "disk": 509577
+}
