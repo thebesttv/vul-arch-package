@@ -1,0 +1,11 @@
+{
+  "name": "perl-io-socket-inet6",
+  "version": "2.73-3",
+  "depends": [
+    "perl-socket6>=0.12"
+  ],
+  "makedepends": [],
+  "receive": 199576587,
+  "transmit": 337452,
+  "disk": 233399
+}
