@@ -1,0 +1,19 @@
+{
+  "name": "cinnamon-desktop",
+  "version": "6.0.0-1",
+  "depends": [
+    "accountsservice",
+    "gtk3",
+    "libxkbfile",
+    "libpulse"
+  ],
+  "makedepends": [
+    "meson",
+    "samurai",
+    "gobject-introspection",
+    "intltool"
+  ],
+  "receive": 199700817,
+  "transmit": 420738,
+  "disk": 3430605
+}
