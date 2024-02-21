@@ -1,0 +1,16 @@
+{
+  "name": "cppgir",
+  "version": "0.git2.4c16bffe646af52b7112785cda8112d761f95860-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "git",
+    "boost",
+    "fmt",
+    "tl-expected"
+  ],
+  "receive": 199728042,
+  "transmit": 405630,
+  "disk": 2332677
+}
