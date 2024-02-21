@@ -1,0 +1,15 @@
+{
+  "name": "python-pytest-xvfb",
+  "version": "2.0.0-6",
+  "depends": [
+    "python-pytest",
+    "python-pyvirtualdisplay",
+    "xorg-server-xvfb"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199677469,
+  "transmit": 416021,
+  "disk": 132987
+}
