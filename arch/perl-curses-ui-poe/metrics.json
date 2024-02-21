@@ -1,0 +1,15 @@
+{
+  "name": "perl-curses-ui-poe",
+  "version": "0.04-6",
+  "depends": [
+    "perl-curses-ui",
+    "perl-poe"
+  ],
+  "makedepends": [
+    "perl-curses-ui",
+    "perl-poe"
+  ],
+  "receive": 199580887,
+  "transmit": 314376,
+  "disk": 208819
+}
