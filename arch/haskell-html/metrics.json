@@ -1,0 +1,13 @@
+{
+  "name": "haskell-html",
+  "version": "1.0.1.2-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199483492,
+  "transmit": 249474,
+  "disk": 167039
+}
