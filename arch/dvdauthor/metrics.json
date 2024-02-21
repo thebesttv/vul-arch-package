@@ -1,0 +1,13 @@
+{
+  "name": "dvdauthor",
+  "version": "0.7.2-11",
+  "depends": [
+    "libdvdread",
+    "imagemagick",
+    "libxml2"
+  ],
+  "makedepends": [],
+  "receive": 200317550,
+  "transmit": 409818,
+  "disk": 3416819
+}
