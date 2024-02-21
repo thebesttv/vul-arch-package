@@ -1,0 +1,23 @@
+{
+  "name": "ruby-puma",
+  "version": "5.6.5-2",
+  "depends": [
+    "ruby",
+    "ruby-nio4r",
+    "ruby-sd_notify"
+  ],
+  "makedepends": [
+    "ruby-bundler",
+    "ruby-minitest",
+    "ruby-minitest-proveit",
+    "ruby-minitest-retry",
+    "ruby-minitest-stub-const",
+    "ruby-rack",
+    "ruby-rake",
+    "ruby-rake-compiler",
+    "ruby-rdoc"
+  ],
+  "receive": 199880397,
+  "transmit": 538849,
+  "disk": 1622724
+}
