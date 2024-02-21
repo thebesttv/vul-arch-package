@@ -1,0 +1,17 @@
+{
+  "name": "libevent",
+  "version": "2.1.12-4",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "python",
+    "zlib",
+    "doxygen"
+  ],
+  "receive": 199679910,
+  "transmit": 413567,
+  "disk": 5912241
+}
