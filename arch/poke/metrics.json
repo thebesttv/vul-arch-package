@@ -1,0 +1,16 @@
+{
+  "name": "poke",
+  "version": "3.3-1",
+  "depends": [
+    "gc",
+    "readline",
+    "gettext",
+    "json-c"
+  ],
+  "makedepends": [
+    "help2man"
+  ],
+  "receive": 199551080,
+  "transmit": 279775,
+  "disk": 72921655
+}
