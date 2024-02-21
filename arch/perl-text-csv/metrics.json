@@ -1,0 +1,11 @@
+{
+  "name": "perl-text-csv",
+  "version": "2.04-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199503592,
+  "transmit": 237005,
+  "disk": 806854
+}
