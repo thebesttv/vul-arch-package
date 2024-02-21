@@ -1,0 +1,37 @@
+{
+  "name": "smb4k",
+  "version": "3.2.5-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kauth5",
+    "kcompletion5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kcrash5",
+    "kdbusaddons5",
+    "kdnssd5",
+    "ki18n5",
+    "kiconthemes5",
+    "kio5",
+    "kjobwidgets5",
+    "knotifications5",
+    "kwallet5",
+    "kwidgetsaddons5",
+    "kwindowsystem5",
+    "kxmlgui5",
+    "qt5-base",
+    "qt5-declarative",
+    "smbclient",
+    "solid5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "plasma-framework5"
+  ],
+  "receive": 203060535,
+  "transmit": 314446,
+  "disk": 22983248
+}
