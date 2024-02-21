@@ -1,0 +1,13 @@
+{
+  "name": "tanka",
+  "version": "0.26.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199520446,
+  "transmit": 253648,
+  "disk": 4859817
+}
