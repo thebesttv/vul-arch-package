@@ -1,0 +1,14 @@
+{
+  "name": "memcached",
+  "version": "1.6.21-1",
+  "depends": [
+    "glibc",
+    "libevent",
+    "libseccomp",
+    "libseccomp.so"
+  ],
+  "makedepends": [],
+  "receive": 199725460,
+  "transmit": 390347,
+  "disk": 5893669
+}
