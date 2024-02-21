@@ -1,0 +1,17 @@
+{
+  "name": "lib32-libtiff",
+  "version": "4.6.0-2",
+  "depends": [
+    "libtiff=4.6.0",
+    "lib32-glibc",
+    "lib32-gcc-libs",
+    "lib32-libjpeg-turbo",
+    "lib32-xz",
+    "lib32-zlib",
+    "lib32-zstd"
+  ],
+  "makedepends": [],
+  "receive": 199540018,
+  "transmit": 258158,
+  "disk": 16158068
+}
