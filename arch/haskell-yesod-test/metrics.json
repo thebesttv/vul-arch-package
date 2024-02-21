@@ -1,0 +1,37 @@
+{
+  "name": "haskell-yesod-test",
+  "version": "1.6.16-32",
+  "depends": [
+    "ghc-libs",
+    "haskell-hunit",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-blaze-builder",
+    "haskell-blaze-html",
+    "haskell-blaze-markup",
+    "haskell-case-insensitive",
+    "haskell-conduit",
+    "haskell-cookie",
+    "haskell-hspec-core",
+    "haskell-html-conduit",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-network",
+    "haskell-pretty-show",
+    "haskell-wai",
+    "haskell-wai-extra",
+    "haskell-xml-conduit",
+    "haskell-xml-types",
+    "haskell-yesod-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-yesod-form",
+    "haskell-hspec",
+    "haskell-unliftio",
+    "haskell-unliftio-core"
+  ],
+  "receive": 199825574,
+  "transmit": 514656,
+  "disk": 1222062
+}
