@@ -1,0 +1,11 @@
+{
+  "name": "libtommath",
+  "version": "1.2.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199555701,
+  "transmit": 305286,
+  "disk": 2309737
+}
