@@ -1,0 +1,14 @@
+{
+  "name": "haskell-filepath-bytestring",
+  "version": "1.4.2.1.9-79",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199730239,
+  "transmit": 294823,
+  "disk": 427325
+}
