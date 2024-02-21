@@ -1,0 +1,14 @@
+{
+  "name": "ruby-pathutil",
+  "version": "0.16.2-2",
+  "depends": [
+    "ruby",
+    "ruby-forwardable-extended"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199511460,
+  "transmit": 287068,
+  "disk": 271313
+}
