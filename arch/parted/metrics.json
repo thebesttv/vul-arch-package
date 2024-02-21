@@ -1,0 +1,14 @@
+{
+  "name": "parted",
+  "version": "3.6-1",
+  "depends": [
+    "device-mapper",
+    "util-linux-libs"
+  ],
+  "makedepends": [
+    "pkg-config"
+  ],
+  "receive": 200184361,
+  "transmit": 425538,
+  "disk": 18166904
+}
