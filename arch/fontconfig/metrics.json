@@ -1,0 +1,19 @@
+{
+  "name": "fontconfig",
+  "version": "2:2.15.0-2",
+  "depends": [
+    "expat",
+    "freetype2"
+  ],
+  "makedepends": [
+    "docbook-sgml",
+    "docbook-utils",
+    "git",
+    "gperf",
+    "meson",
+    "perl-sgmls"
+  ],
+  "receive": 199612640,
+  "transmit": 302195,
+  "disk": 8318084
+}
