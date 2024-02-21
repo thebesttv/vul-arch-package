@@ -1,0 +1,14 @@
+{
+  "name": "soapyrtlsdr",
+  "version": "0.3.3-2",
+  "depends": [
+    "soapysdr",
+    "rtl-sdr"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199766046,
+  "transmit": 393949,
+  "disk": 196493
+}
