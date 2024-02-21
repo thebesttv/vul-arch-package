@@ -1,0 +1,16 @@
+{
+  "name": "libdisplay-info",
+  "version": "0.1.1-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "hwdata",
+    "meson",
+    "ninja",
+    "python"
+  ],
+  "receive": 199559888,
+  "transmit": 293891,
+  "disk": 685250
+}
