@@ -1,0 +1,18 @@
+{
+  "name": "master_me",
+  "version": "1.2.0-1",
+  "depends": [],
+  "makedepends": [
+    "faustpp",
+    "gcc-libs",
+    "gendesk",
+    "glibc",
+    "libglvnd",
+    "libx11",
+    "libxext",
+    "libxrandr"
+  ],
+  "receive": 199615758,
+  "transmit": 342709,
+  "disk": 48510631
+}
