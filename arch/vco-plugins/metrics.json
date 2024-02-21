@@ -1,0 +1,13 @@
+{
+  "name": "vco-plugins",
+  "version": "0.3.0-6",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "ladspa"
+  ],
+  "receive": 200187295,
+  "transmit": 630829,
+  "disk": 182099
+}
