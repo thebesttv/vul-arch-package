@@ -1,0 +1,13 @@
+{
+  "name": "vim-jedi",
+  "version": "0.11.2-1",
+  "depends": [
+    "vim-plugin-runtime",
+    "python-jedi",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199640251,
+  "transmit": 351325,
+  "disk": 369064
+}
