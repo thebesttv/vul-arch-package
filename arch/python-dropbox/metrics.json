@@ -1,0 +1,22 @@
+{
+  "name": "python-dropbox",
+  "version": "11.36.2-1",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-setuptools",
+    "python-six",
+    "python-stone",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-pytest-runner",
+    "python-wheel"
+  ],
+  "receive": 199715912,
+  "transmit": 375803,
+  "disk": 7762571
+}
