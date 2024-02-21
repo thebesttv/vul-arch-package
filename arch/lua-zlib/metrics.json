@@ -1,0 +1,16 @@
+{
+  "name": "lua-zlib",
+  "version": "1:1.2-4",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [
+    "lua",
+    "lua53",
+    "lua52",
+    "lua51"
+  ],
+  "receive": 199535441,
+  "transmit": 288716,
+  "disk": 193231
+}
