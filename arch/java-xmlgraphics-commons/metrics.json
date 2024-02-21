@@ -1,0 +1,11 @@
+{
+  "name": "java-xmlgraphics-commons",
+  "version": "2.9-1",
+  "depends": [
+    "java-runtime>=9"
+  ],
+  "makedepends": [],
+  "receive": 199710708,
+  "transmit": 419148,
+  "disk": 15219482
+}
