@@ -1,0 +1,11 @@
+{
+  "name": "libsmf",
+  "version": "1.3-11",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [],
+  "receive": 199758247,
+  "transmit": 473070,
+  "disk": 3120448
+}
