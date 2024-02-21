@@ -1,0 +1,11 @@
+{
+  "name": "lcms2",
+  "version": "2.16-1",
+  "depends": [
+    "libtiff"
+  ],
+  "makedepends": [],
+  "receive": 199547104,
+  "transmit": 308035,
+  "disk": 21450175
+}
