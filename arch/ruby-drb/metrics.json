@@ -1,0 +1,12 @@
+{
+  "name": "ruby-drb",
+  "version": "2.1.0-5",
+  "depends": [
+    "ruby",
+    "ruby-ruby2_keywords"
+  ],
+  "makedepends": [],
+  "receive": 199549504,
+  "transmit": 309746,
+  "disk": 339847
+}
