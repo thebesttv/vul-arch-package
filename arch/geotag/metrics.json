@@ -1,0 +1,13 @@
+{
+  "name": "geotag",
+  "version": "0.103-5",
+  "depends": [
+    "hicolor-icon-theme",
+    "java-runtime",
+    "perl-image-exiftool"
+  ],
+  "makedepends": [],
+  "receive": 199624894,
+  "transmit": 361674,
+  "disk": 3779790
+}
