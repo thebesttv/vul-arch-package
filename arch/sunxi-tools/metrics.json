@@ -1,0 +1,11 @@
+{
+  "name": "sunxi-tools",
+  "version": "1.4.2-3",
+  "depends": [
+    "libusb"
+  ],
+  "makedepends": [],
+  "receive": 199686317,
+  "transmit": 427523,
+  "disk": 513072
+}
