@@ -1,0 +1,13 @@
+{
+  "name": "syncplay",
+  "version": "1.7.1-4",
+  "depends": [
+    "hicolor-icon-theme",
+    "python",
+    "python-twisted"
+  ],
+  "makedepends": [],
+  "receive": 199688014,
+  "transmit": 421873,
+  "disk": 5390944
+}
