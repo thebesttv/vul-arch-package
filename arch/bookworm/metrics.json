@@ -1,0 +1,21 @@
+{
+  "name": "bookworm",
+  "version": "1.1.2-3",
+  "depends": [
+    "granite",
+    "poppler-glib",
+    "python",
+    "unarchiver",
+    "unzip",
+    "webkit2gtk",
+    "python-html2text"
+  ],
+  "makedepends": [
+    "meson",
+    "vala",
+    "ninja"
+  ],
+  "receive": 199628226,
+  "transmit": 341630,
+  "disk": 11435834
+}
