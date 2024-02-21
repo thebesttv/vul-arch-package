@@ -1,0 +1,20 @@
+{
+  "name": "python-sphinx-click",
+  "version": "5.1.0-1",
+  "depends": [
+    "python",
+    "python-click",
+    "python-docutils",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-pbr",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199575176,
+  "transmit": 340840,
+  "disk": 271681
+}
