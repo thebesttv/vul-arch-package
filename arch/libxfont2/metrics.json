@@ -1,0 +1,16 @@
+{
+  "name": "libxfont2",
+  "version": "2.0.6-2",
+  "depends": [
+    "freetype2",
+    "libfontenc",
+    "xorgproto"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xtrans"
+  ],
+  "receive": 199698269,
+  "transmit": 430161,
+  "disk": 3387744
+}
