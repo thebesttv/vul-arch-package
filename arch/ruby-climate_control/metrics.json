@@ -1,0 +1,15 @@
+{
+  "name": "ruby-climate_control",
+  "version": "1.2.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rspec",
+    "ruby-rake",
+    "ruby-simplecov"
+  ],
+  "receive": 199877549,
+  "transmit": 674922,
+  "disk": 142332
+}
