@@ -1,0 +1,11 @@
+{
+  "name": "perl-universal-isa",
+  "version": "1.20171012-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199552691,
+  "transmit": 291060,
+  "disk": 125274
+}
