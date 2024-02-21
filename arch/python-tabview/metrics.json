@@ -1,0 +1,13 @@
+{
+  "name": "python-tabview",
+  "version": "1.4.4-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199633039,
+  "transmit": 402930,
+  "disk": 1060992
+}
