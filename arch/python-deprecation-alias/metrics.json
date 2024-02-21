@@ -1,0 +1,19 @@
+{
+  "name": "python-deprecation-alias",
+  "version": "0.3.2-1",
+  "depends": [
+    "python",
+    "python-deprecation",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199623314,
+  "transmit": 375250,
+  "disk": 595964
+}
