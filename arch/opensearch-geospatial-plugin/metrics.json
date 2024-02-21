@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-geospatial-plugin",
+  "version": "2.11.1.0-1",
+  "depends": [
+    "opensearch=2.11.1"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 199541535,
+  "transmit": 285388,
+  "disk": 19277877
+}
