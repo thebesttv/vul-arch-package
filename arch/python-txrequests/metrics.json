@@ -1,0 +1,14 @@
+{
+  "name": "python-txrequests",
+  "version": "0.9.6-9",
+  "depends": [
+    "python-requests",
+    "python-twisted"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199555761,
+  "transmit": 332995,
+  "disk": 129478
+}
