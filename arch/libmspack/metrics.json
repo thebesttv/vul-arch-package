@@ -1,0 +1,13 @@
+{
+  "name": "libmspack",
+  "version": "1:0.11alpha-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200154860,
+  "transmit": 443388,
+  "disk": 3107344
+}
