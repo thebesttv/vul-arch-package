@@ -1,0 +1,17 @@
+{
+  "name": "python-pytest-mypy-testing",
+  "version": "0.1.1-1",
+  "depends": [
+    "mypy",
+    "python",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199618188,
+  "transmit": 394202,
+  "disk": 242466
+}
