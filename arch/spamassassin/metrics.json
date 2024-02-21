@@ -1,0 +1,25 @@
+{
+  "name": "spamassassin",
+  "version": "4.0.0-2",
+  "depends": [
+    "openssl",
+    "zlib",
+    "re2c",
+    "perl-net-dns",
+    "perl-io-socket-ssl",
+    "perl-libwww",
+    "perl-mail-spf",
+    "perl-http-message",
+    "perl-net-http",
+    "perl-io-socket-inet6",
+    "perl-mail-dkim",
+    "perl-crypt-ssleay"
+  ],
+  "makedepends": [
+    "razor",
+    "perl-dbi"
+  ],
+  "receive": 199660427,
+  "transmit": 317401,
+  "disk": 19603601
+}
