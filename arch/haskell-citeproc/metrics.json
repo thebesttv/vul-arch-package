@@ -1,0 +1,30 @@
+{
+  "name": "haskell-citeproc",
+  "version": "0.8.1-87",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-attoparsec",
+    "haskell-case-insensitive",
+    "haskell-data-default",
+    "haskell-file-embed",
+    "haskell-pandoc-types",
+    "haskell-safe",
+    "haskell-scientific",
+    "haskell-text-icu",
+    "haskell-unicode-collation",
+    "haskell-uniplate",
+    "haskell-vector",
+    "haskell-xml-conduit"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-diff",
+    "haskell-timeit"
+  ],
+  "receive": 199529685,
+  "transmit": 340282,
+  "disk": 6016707
+}
