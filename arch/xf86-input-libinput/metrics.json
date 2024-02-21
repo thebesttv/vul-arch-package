@@ -1,0 +1,18 @@
+{
+  "name": "xf86-input-libinput",
+  "version": "1.4.0-1",
+  "depends": [
+    "libinput",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-XINPUT_VERSION=24.4",
+    "libxi",
+    "libx11",
+    "xorgproto"
+  ],
+  "receive": 199509304,
+  "transmit": 275790,
+  "disk": 2613954
+}
