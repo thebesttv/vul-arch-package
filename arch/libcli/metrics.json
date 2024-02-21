@@ -1,0 +1,13 @@
+{
+  "name": "libcli",
+  "version": "1.10.7-1",
+  "depends": [
+    "glibc",
+    "libxcrypt",
+    "libcrypt.so"
+  ],
+  "makedepends": [],
+  "receive": 199642243,
+  "transmit": 385682,
+  "disk": 370532
+}
