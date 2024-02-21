@@ -1,0 +1,13 @@
+{
+  "name": "zita-convolver",
+  "version": "4.0.3-3",
+  "depends": [
+    "fftw",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199519250,
+  "transmit": 273675,
+  "disk": 192550
+}
