@@ -1,0 +1,13 @@
+{
+  "name": "alsa-lib",
+  "version": "1.2.11-1",
+  "depends": [
+    "alsa-topology-conf",
+    "alsa-ucm-conf",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199727114,
+  "transmit": 434415,
+  "disk": 8130822
+}
