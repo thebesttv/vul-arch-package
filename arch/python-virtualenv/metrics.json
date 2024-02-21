@@ -1,0 +1,25 @@
+{
+  "name": "python-virtualenv",
+  "version": "20.25.0-1",
+  "depends": [
+    "python",
+    "python-distlib",
+    "python-filelock",
+    "python-platformdirs"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs",
+    "python-sphinx",
+    "python-sphinx-argparse",
+    "python-sphinxcontrib-towncrier",
+    "python-wheel",
+    "towncrier"
+  ],
+  "receive": 199663280,
+  "transmit": 331747,
+  "disk": 154659782
+}
