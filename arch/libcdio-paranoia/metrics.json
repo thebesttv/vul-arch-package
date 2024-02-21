@@ -1,0 +1,12 @@
+{
+  "name": "libcdio-paranoia",
+  "version": "10.2+2.0.1-3",
+  "depends": [
+    "glibc",
+    "libcdio"
+  ],
+  "makedepends": [],
+  "receive": 199523276,
+  "transmit": 307677,
+  "disk": 4177193
+}
