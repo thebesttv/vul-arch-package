@@ -1,0 +1,42 @@
+{
+  "name": "scribus",
+  "version": "1.6.1-1",
+  "depends": [
+    "cairo",
+    "fontconfig",
+    "freetype2",
+    "harfbuzz-icu",
+    "hunspell",
+    "icu",
+    "libicuuc.so",
+    "lcms2",
+    "libcdr",
+    "libcups",
+    "libfreehand",
+    "libjpeg",
+    "libmspub",
+    "libpagemaker",
+    "libpng",
+    "libqxp",
+    "librevenge",
+    "libtiff",
+    "libvisio",
+    "libxml2",
+    "libzmf",
+    "openscenegraph",
+    "openssl",
+    "podofo",
+    "poppler",
+    "python3",
+    "qt5-base",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "mesa",
+    "qt5-tools"
+  ],
+  "receive": 274336195,
+  "transmit": 982680,
+  "disk": 316763646
+}
