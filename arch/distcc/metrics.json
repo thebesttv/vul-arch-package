@@ -1,0 +1,16 @@
+{
+  "name": "distcc",
+  "version": "3.4-9",
+  "depends": [
+    "avahi",
+    "popt",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "gtk3"
+  ],
+  "receive": 199639182,
+  "transmit": 372249,
+  "disk": 23308821
+}
