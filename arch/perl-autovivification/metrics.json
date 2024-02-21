@@ -1,0 +1,11 @@
+{
+  "name": "perl-autovivification",
+  "version": "0.18-9",
+  "depends": [
+    "perl>=5.8.3"
+  ],
+  "makedepends": [],
+  "receive": 199592721,
+  "transmit": 363529,
+  "disk": 449331
+}
