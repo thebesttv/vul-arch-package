@@ -1,0 +1,28 @@
+{
+  "name": "haskell-primitive-extras",
+  "version": "0.10.1.10-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-deferred-folds",
+    "haskell-focus",
+    "haskell-foldl",
+    "haskell-list-t",
+    "haskell-primitive",
+    "haskell-primitive-unlifted",
+    "haskell-profunctors",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199541946,
+  "transmit": 307854,
+  "disk": 301099
+}
