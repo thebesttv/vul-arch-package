@@ -1,0 +1,11 @@
+{
+  "name": "perl-params-util",
+  "version": "1.102-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199575546,
+  "transmit": 323177,
+  "disk": 1251570
+}
