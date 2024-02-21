@@ -1,0 +1,15 @@
+{
+  "name": "psutils",
+  "version": "2.10-1",
+  "depends": [
+    "glibc",
+    "ghostscript",
+    "perl",
+    "perl-ipc-run3",
+    "libpaper"
+  ],
+  "makedepends": [],
+  "receive": 199735797,
+  "transmit": 437689,
+  "disk": 6486566
+}
