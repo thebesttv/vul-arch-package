@@ -1,0 +1,16 @@
+{
+  "name": "libpcap",
+  "version": "1.10.4-1",
+  "depends": [
+    "glibc",
+    "libnl",
+    "sh"
+  ],
+  "makedepends": [
+    "bluez-libs",
+    "dbus"
+  ],
+  "receive": 200601451,
+  "transmit": 293341,
+  "disk": 4937637
+}
