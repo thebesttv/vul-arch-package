@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libxshmfence",
+  "version": "1.3.2-1",
+  "depends": [
+    "lib32-glibc",
+    "libxshmfence"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto",
+    "gcc-multilib"
+  ],
+  "receive": 199768783,
+  "transmit": 520707,
+  "disk": 2154762
+}
