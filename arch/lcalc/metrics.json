@@ -1,0 +1,13 @@
+{
+  "name": "lcalc",
+  "version": "2.0.5-2",
+  "depends": [
+    "pari"
+  ],
+  "makedepends": [
+    "gengetopt"
+  ],
+  "receive": 199627131,
+  "transmit": 389186,
+  "disk": 2728136
+}
