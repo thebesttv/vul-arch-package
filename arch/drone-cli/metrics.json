@@ -1,0 +1,14 @@
+{
+  "name": "drone-cli",
+  "version": "1.7.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199517528,
+  "transmit": 279460,
+  "disk": 18078115
+}
