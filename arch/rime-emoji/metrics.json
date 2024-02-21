@@ -1,0 +1,11 @@
+{
+  "name": "rime-emoji",
+  "version": "0.0.0.20230825-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199697802,
+  "transmit": 419599,
+  "disk": 1482403
+}
