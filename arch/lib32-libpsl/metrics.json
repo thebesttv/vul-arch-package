@@ -1,0 +1,21 @@
+{
+  "name": "lib32-libpsl",
+  "version": "0.21.2-1",
+  "depends": [
+    "libpsl",
+    "lib32-glibc",
+    "lib32-libidn2",
+    "lib32-libunistring"
+  ],
+  "makedepends": [
+    "git",
+    "libxslt",
+    "meson",
+    "ninja",
+    "python",
+    "publicsuffix-list"
+  ],
+  "receive": 199607993,
+  "transmit": 270972,
+  "disk": 49406494
+}
