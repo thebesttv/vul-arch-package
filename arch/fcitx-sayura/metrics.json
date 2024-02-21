@@ -1,0 +1,14 @@
+{
+  "name": "fcitx-sayura",
+  "version": "0.1.2-2",
+  "depends": [
+    "fcitx"
+  ],
+  "makedepends": [
+    "cmake",
+    "intltool"
+  ],
+  "receive": 199581294,
+  "transmit": 364318,
+  "disk": 198432
+}
