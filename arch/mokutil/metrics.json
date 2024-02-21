@@ -1,0 +1,16 @@
+{
+  "name": "mokutil",
+  "version": "0.7.0-1",
+  "depends": [
+    "efivar",
+    "openssl",
+    "keyutils",
+    "libxcrypt"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199593903,
+  "transmit": 352100,
+  "disk": 907392
+}
