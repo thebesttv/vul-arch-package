@@ -1,0 +1,15 @@
+{
+  "name": "gnupg-pkcs11-scd",
+  "version": "0.10.0-2",
+  "depends": [
+    "libassuan",
+    "libgcrypt",
+    "libgpg-error",
+    "openssl",
+    "pkcs11-helper"
+  ],
+  "makedepends": [],
+  "receive": 199509719,
+  "transmit": 231863,
+  "disk": 1081460
+}
