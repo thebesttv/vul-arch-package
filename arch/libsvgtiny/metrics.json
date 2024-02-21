@@ -1,0 +1,16 @@
+{
+  "name": "libsvgtiny",
+  "version": "0.1.8-1",
+  "depends": [
+    "libdom>=0.4.2"
+  ],
+  "makedepends": [
+    "gperf",
+    "libdom",
+    "libwapcaplet",
+    "netsurf-buildsystem"
+  ],
+  "receive": 199675684,
+  "transmit": 396985,
+  "disk": 9351881
+}
