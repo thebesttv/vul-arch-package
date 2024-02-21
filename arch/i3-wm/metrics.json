@@ -1,0 +1,23 @@
+{
+  "name": "i3-wm",
+  "version": "4.23-1",
+  "depends": [
+    "libev",
+    "libxkbcommon-x11",
+    "pango",
+    "startup-notification",
+    "ttf-font",
+    "xcb-util-cursor",
+    "xcb-util-keysyms",
+    "xcb-util-wm",
+    "xcb-util-xrm",
+    "yajl"
+  ],
+  "makedepends": [
+    "meson",
+    "xmlto"
+  ],
+  "receive": 199746767,
+  "transmit": 482443,
+  "disk": 7877089
+}
