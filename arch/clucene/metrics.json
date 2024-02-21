@@ -1,0 +1,15 @@
+{
+  "name": "clucene",
+  "version": "2.3.3.4-14",
+  "depends": [
+    "gcc-libs>=4.7.1-5",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost>=1.54.0"
+  ],
+  "receive": 199522857,
+  "transmit": 256932,
+  "disk": 11281250
+}
