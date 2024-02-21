@@ -1,0 +1,22 @@
+{
+  "name": "python-llvmlite",
+  "version": "0.42.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "llvm14-libs",
+    "python"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "llvm14",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199603655,
+  "transmit": 366499,
+  "disk": 1011061
+}
