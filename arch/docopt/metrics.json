@@ -1,0 +1,14 @@
+{
+  "name": "docopt",
+  "version": "0.6.3-4",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja",
+    "setconf"
+  ],
+  "receive": 199587092,
+  "transmit": 317884,
+  "disk": 999663
+}
