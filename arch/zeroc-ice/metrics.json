@@ -1,0 +1,19 @@
+{
+  "name": "zeroc-ice",
+  "version": "3.7.10-1",
+  "depends": [
+    "mcpp",
+    "lmdb",
+    "libedit",
+    "expat",
+    "bzip2",
+    "openssl",
+    "libxcrypt"
+  ],
+  "makedepends": [
+    "java-environment=11"
+  ],
+  "receive": 210213697,
+  "transmit": 538732,
+  "disk": 72784767
+}
