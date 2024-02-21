@@ -1,0 +1,15 @@
+{
+  "name": "nautilus-share",
+  "version": "0.7.5-3",
+  "depends": [
+    "nautilus",
+    "samba"
+  ],
+  "makedepends": [
+    "intltool",
+    "meson"
+  ],
+  "receive": 199519360,
+  "transmit": 278113,
+  "disk": 686454
+}
