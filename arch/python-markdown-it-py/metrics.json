@@ -1,0 +1,15 @@
+{
+  "name": "python-markdown-it-py",
+  "version": "3.0.0-1",
+  "depends": [
+    "python-mdurl"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199563461,
+  "transmit": 348781,
+  "disk": 1723546
+}
