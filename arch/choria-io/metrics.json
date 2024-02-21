@@ -1,0 +1,16 @@
+{
+  "name": "choria-io",
+  "version": "0.23.0-1",
+  "depends": [
+    "glibc",
+    "logrotate",
+    "puppet>=6.0.0",
+    "facter"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199695757,
+  "transmit": 410831,
+  "disk": 5397601
+}
