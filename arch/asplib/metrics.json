@@ -1,0 +1,14 @@
+{
+  "name": "asplib",
+  "version": "20160310.da66f51-4",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 199515782,
+  "transmit": 282627,
+  "disk": 1526930
+}
