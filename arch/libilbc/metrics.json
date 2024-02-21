@@ -1,0 +1,14 @@
+{
+  "name": "libilbc",
+  "version": "3.0.4-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 533685919,
+  "transmit": 499977,
+  "disk": 351645274
+}
