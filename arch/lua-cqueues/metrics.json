@@ -1,0 +1,17 @@
+{
+  "name": "lua-cqueues",
+  "version": "20200726-4",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "luarocks",
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53"
+  ],
+  "receive": 199614094,
+  "transmit": 368069,
+  "disk": 2122528
+}
