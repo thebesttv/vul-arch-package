@@ -1,0 +1,27 @@
+{
+  "name": "kwin",
+  "version": "5.27.10-2",
+  "depends": [
+    "kscreenlocker",
+    "xcb-util-cursor",
+    "plasma-framework5",
+    "kcmutils5",
+    "breeze",
+    "pipewire-session-manager",
+    "libqaccessibilityclient",
+    "lcms2",
+    "libxcvt"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "kdoctools5",
+    "krunner5",
+    "wayland-protocols",
+    "plasma-wayland-protocols",
+    "python"
+  ],
+  "receive": 207627373,
+  "transmit": 473061,
+  "disk": 58775927
+}
