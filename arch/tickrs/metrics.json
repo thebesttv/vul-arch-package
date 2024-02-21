@@ -1,0 +1,14 @@
+{
+  "name": "tickrs",
+  "version": "2:0.14.9-1",
+  "depends": [
+    "gcc-libs",
+    "zlib"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199625540,
+  "transmit": 390871,
+  "disk": 2059799
+}
