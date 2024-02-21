@@ -1,0 +1,12 @@
+{
+  "name": "libdca",
+  "version": "0.0.7-2",
+  "depends": [
+    "bash",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199649691,
+  "transmit": 414678,
+  "disk": 979262
+}
