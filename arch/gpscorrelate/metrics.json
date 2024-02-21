@@ -1,0 +1,14 @@
+{
+  "name": "gpscorrelate",
+  "version": "2.0-5",
+  "depends": [
+    "exiv2",
+    "gtk3"
+  ],
+  "makedepends": [
+    "libxslt"
+  ],
+  "receive": 199645036,
+  "transmit": 406292,
+  "disk": 348101
+}
