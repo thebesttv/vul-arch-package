@@ -1,0 +1,22 @@
+{
+  "name": "krita-plugin-gmic",
+  "version": "3.2.4.1-5",
+  "depends": [
+    "fftw",
+    "gcc-libs",
+    "glibc",
+    "gmic",
+    "kcoreaddons5",
+    "krita",
+    "libx11",
+    "qt5-base",
+    "zlib"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools"
+  ],
+  "receive": 199612680,
+  "transmit": 367646,
+  "disk": 41623045
+}
