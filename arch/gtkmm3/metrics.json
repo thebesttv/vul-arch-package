@@ -1,0 +1,21 @@
+{
+  "name": "gtkmm3",
+  "version": "3.24.8-1",
+  "depends": [
+    "atkmm",
+    "gtk3",
+    "pangomm"
+  ],
+  "makedepends": [
+    "atkmm-docs",
+    "cairomm-docs",
+    "git",
+    "glibmm-docs",
+    "meson",
+    "mm-common",
+    "pangomm-docs"
+  ],
+  "receive": 199612770,
+  "transmit": 334669,
+  "disk": 30660203
+}
