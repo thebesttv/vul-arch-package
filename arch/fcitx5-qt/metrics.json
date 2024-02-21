@@ -1,0 +1,22 @@
+{
+  "name": "fcitx5-qt",
+  "version": "5.1.4-4",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "libxcb",
+    "libxkbcommon",
+    "fcitx5",
+    "qt5-base",
+    "qt6-base",
+    "qt6-wayland",
+    "wayland"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja"
+  ],
+  "receive": 199720480,
+  "transmit": 449225,
+  "disk": 1126936
+}
