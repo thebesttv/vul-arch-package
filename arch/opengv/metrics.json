@@ -1,0 +1,17 @@
+{
+  "name": "opengv",
+  "version": "1.0.git1-4",
+  "depends": [
+    "eigen",
+    "python-numpy",
+    "pybind11"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199524198,
+  "transmit": 274265,
+  "disk": 16635018
+}
