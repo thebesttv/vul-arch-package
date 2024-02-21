@@ -1,0 +1,19 @@
+{
+  "name": "python-jaraco.logging",
+  "version": "3.3.0-1",
+  "depends": [
+    "python",
+    "python-tempora"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 199605064,
+  "transmit": 359806,
+  "disk": 138251
+}
