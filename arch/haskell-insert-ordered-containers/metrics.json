@@ -1,0 +1,24 @@
+{
+  "name": "haskell-insert-ordered-containers",
+  "version": "0.2.5.3-33",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-hashable",
+    "haskell-indexed-traversable",
+    "haskell-lens",
+    "haskell-optics-core",
+    "haskell-optics-extra",
+    "haskell-semigroupoids",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199562831,
+  "transmit": 328618,
+  "disk": 630737
+}
