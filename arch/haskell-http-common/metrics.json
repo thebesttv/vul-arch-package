@@ -1,0 +1,20 @@
+{
+  "name": "haskell-http-common",
+  "version": "0.8.3.4-150",
+  "depends": [
+    "ghc-libs",
+    "haskell-base64-bytestring",
+    "haskell-blaze-builder",
+    "haskell-case-insensitive",
+    "haskell-network",
+    "haskell-random",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199928664,
+  "transmit": 432241,
+  "disk": 412000
+}
