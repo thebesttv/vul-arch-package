@@ -1,0 +1,11 @@
+{
+  "name": "libnatpmp",
+  "version": "20230423-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199480487,
+  "transmit": 223181,
+  "disk": 250145
+}
