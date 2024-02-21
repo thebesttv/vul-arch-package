@@ -1,0 +1,22 @@
+{
+  "name": "texworks",
+  "version": "0.6.9-2",
+  "depends": [
+    "hunspell",
+    "libsynctex",
+    "poppler-qt6",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-tools",
+    "qt6-5compat",
+    "libpoppler-qt6.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "lua",
+    "python"
+  ],
+  "receive": 199521784,
+  "transmit": 257802,
+  "disk": 40217677
+}
