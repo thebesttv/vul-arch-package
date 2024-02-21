@@ -1,0 +1,14 @@
+{
+  "name": "cppdap",
+  "version": "1.58.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "nlohmann-json"
+  ],
+  "receive": 199520137,
+  "transmit": 257256,
+  "disk": 843920
+}
