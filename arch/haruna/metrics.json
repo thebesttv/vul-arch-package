@@ -1,0 +1,30 @@
+{
+  "name": "haruna",
+  "version": "0.12.3-1",
+  "depends": [
+    "ffmpeg",
+    "gcc-libs",
+    "glibc",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kdeclarative5",
+    "kfilemetadata5",
+    "ki18n5",
+    "kio5",
+    "kirigami2",
+    "kwindowsystem5",
+    "mpv",
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-quickcontrols2",
+    "qt5-x11extras"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199503734,
+  "transmit": 284233,
+  "disk": 3655638
+}
