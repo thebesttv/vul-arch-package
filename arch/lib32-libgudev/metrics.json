@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libgudev",
+  "version": "238-1",
+  "depends": [
+    "lib32-glib2",
+    "lib32-systemd",
+    "libgudev"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199523911,
+  "transmit": 260653,
+  "disk": 588423
+}
