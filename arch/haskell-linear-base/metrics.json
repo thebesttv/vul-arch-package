@@ -1,0 +1,25 @@
+{
+  "name": "haskell-linear-base",
+  "version": "0.3.0-57",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-linear-generics",
+    "haskell-primitive",
+    "haskell-storable-tuple",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-cabal-doctest",
+    "haskell-hedgehog",
+    "haskell-inspection-testing",
+    "haskell-mmorph",
+    "haskell-tasty",
+    "haskell-tasty-hedgehog",
+    "haskell-tasty-inspection-testing"
+  ],
+  "receive": 199822056,
+  "transmit": 454840,
+  "disk": 1414336
+}
