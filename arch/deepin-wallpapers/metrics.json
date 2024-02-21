@@ -1,0 +1,11 @@
+{
+  "name": "deepin-wallpapers",
+  "version": "1:1.7.7-2",
+  "depends": [],
+  "makedepends": [
+    "deepin-api"
+  ],
+  "receive": 199528028,
+  "transmit": 255985,
+  "disk": 104945609
+}
