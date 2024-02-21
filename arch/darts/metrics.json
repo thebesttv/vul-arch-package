@@ -1,0 +1,11 @@
+{
+  "name": "darts",
+  "version": "0.32-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199561650,
+  "transmit": 311952,
+  "disk": 1190838
+}
