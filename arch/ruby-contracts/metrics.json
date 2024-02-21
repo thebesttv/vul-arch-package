@@ -1,0 +1,13 @@
+{
+  "name": "ruby-contracts",
+  "version": "0.17-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199479857,
+  "transmit": 247168,
+  "disk": 1520747
+}
