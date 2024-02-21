@@ -1,0 +1,16 @@
+{
+  "name": "zita-ajbridge",
+  "version": "0.8.4-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "jack",
+    "zita-alsa-pcmi",
+    "zita-resampler"
+  ],
+  "receive": 199653106,
+  "transmit": 390496,
+  "disk": 219403
+}
