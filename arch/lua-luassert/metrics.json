@@ -1,0 +1,15 @@
+{
+  "name": "lua-luassert",
+  "version": "1.9.0-1",
+  "depends": [],
+  "makedepends": [
+    "luarocks",
+    "lua51",
+    "lua52",
+    "lua53",
+    "lua"
+  ],
+  "receive": 199529001,
+  "transmit": 265473,
+  "disk": 375874
+}
