@@ -1,0 +1,15 @@
+{
+  "name": "gtk2-perl",
+  "version": "1.24993-5",
+  "depends": [
+    "gtk2",
+    "pango-perl"
+  ],
+  "makedepends": [
+    "perl-extutils-pkgconfig",
+    "perl-extutils-depends"
+  ],
+  "receive": 199531179,
+  "transmit": 227608,
+  "disk": 3954132
+}
