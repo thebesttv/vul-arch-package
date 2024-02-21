@@ -1,0 +1,15 @@
+{
+  "name": "perl-email-reply",
+  "version": "1.204-5",
+  "depends": [
+    "perl-email-address>=1.80",
+    "perl-email-mime-creator>=1.41",
+    "perl-email-mime>=1.82",
+    "perl-email-abstract>=2.01",
+    "perl-email-mime-modifier>=1.42"
+  ],
+  "makedepends": [],
+  "receive": 199572757,
+  "transmit": 353804,
+  "disk": 217132
+}
