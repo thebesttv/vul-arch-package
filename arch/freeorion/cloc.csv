@@ -1,0 +1,26 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=1.55 s (1217.3 files/s 307037.2 lines/s)"
+291,C++,28106,13367,137288
+662,Text,29331,0,92637
+292,C/C++ Header,11693,12076,58744
+394,Python,5563,6441,30725
+6,Godot Resource,1452,0,10717
+41,XML,28,0,7936
+54,GDScript,1530,1917,5393
+47,CMake,636,928,4607
+23,Markdown,841,72,4532
+2,C,512,353,2809
+14,Godot Scene,232,0,1718
+20,YAML,41,48,1218
+17,Bourne Shell,104,252,425
+4,TNSDL,17,1,294
+2,JSON,0,0,200
+4,INI,4,0,158
+1,Perl,31,42,101
+4,Dockerfile,13,0,87
+1,Visual Studio Solution,0,1,79
+1,TOML,1,3,43
+2,Objective-C++,17,9,40
+1,diff,3,13,14
+1,GLSL,3,1,8
+1,Windows Resource File,0,0,1
+1885,SUM,80158,35524,359774

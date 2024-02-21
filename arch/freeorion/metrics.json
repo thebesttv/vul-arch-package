@@ -1,0 +1,22 @@
+{
+  "name": "freeorion",
+  "version": "0.5-3",
+  "depends": [
+    "boost-libs",
+    "python",
+    "sdl2",
+    "libvorbis",
+    "glew",
+    "openal",
+    "hicolor-icon-theme",
+    "freetype2"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "boost"
+  ],
+  "receive": 970427061,
+  "transmit": 1682392,
+  "disk": 939592310
+}
