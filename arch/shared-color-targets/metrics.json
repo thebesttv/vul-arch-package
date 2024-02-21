@@ -1,0 +1,11 @@
+{
+  "name": "shared-color-targets",
+  "version": "0.1.7-4",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199650614,
+  "transmit": 407481,
+  "disk": 16645120
+}
