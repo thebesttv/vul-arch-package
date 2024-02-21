@@ -1,0 +1,20 @@
+{
+  "name": "five-or-more",
+  "version": "3.32.3-1",
+  "depends": [
+    "gtk3",
+    "librsvg",
+    "libgnome-games-support"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "yelp-tools",
+    "appstream-glib",
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199565006,
+  "transmit": 289379,
+  "disk": 16437812
+}
