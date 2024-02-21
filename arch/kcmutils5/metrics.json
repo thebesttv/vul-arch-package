@@ -1,0 +1,16 @@
+{
+  "name": "kcmutils5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kdeclarative5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199554418,
+  "transmit": 309341,
+  "disk": 26862980
+}
