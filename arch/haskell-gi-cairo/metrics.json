@@ -1,0 +1,18 @@
+{
+  "name": "haskell-gi-cairo",
+  "version": "1.0.29-43",
+  "depends": [
+    "ghc-libs",
+    "cairo",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199552931,
+  "transmit": 335706,
+  "disk": 428086
+}
