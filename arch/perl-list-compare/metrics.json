@@ -1,0 +1,13 @@
+{
+  "name": "perl-list-compare",
+  "version": "0.55-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-capture-tiny"
+  ],
+  "receive": 199664054,
+  "transmit": 372302,
+  "disk": 1040969
+}
