@@ -1,0 +1,16 @@
+{
+  "name": "rime-bopomofo",
+  "version": "0.0.0.20210131-1",
+  "depends": [
+    "rime-cangjie",
+    "rime-terra-pinyin"
+  ],
+  "makedepends": [
+    "librime",
+    "rime-prelude",
+    "rime-essay"
+  ],
+  "receive": 199602165,
+  "transmit": 364231,
+  "disk": 113724
+}
