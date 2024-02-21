@@ -1,0 +1,15 @@
+{
+  "name": "libpurple-lurch",
+  "version": "0.7.0-1",
+  "depends": [
+    "libomemo.so",
+    "libaxc.so",
+    "libsignal-protocol-c"
+  ],
+  "makedepends": [
+    "libpurple"
+  ],
+  "receive": 199539341,
+  "transmit": 322456,
+  "disk": 511235
+}
