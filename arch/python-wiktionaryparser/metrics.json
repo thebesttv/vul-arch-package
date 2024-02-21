@@ -1,0 +1,14 @@
+{
+  "name": "python-wiktionaryparser",
+  "version": "0.0.97.20210613-4",
+  "depends": [
+    "python-beautifulsoup4",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199553491,
+  "transmit": 275614,
+  "disk": 2931018
+}
