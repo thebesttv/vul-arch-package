@@ -1,0 +1,16 @@
+{
+  "name": "gnome-font-viewer",
+  "version": "45.0-1",
+  "depends": [
+    "gnome-desktop-4",
+    "gtk4",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199557560,
+  "transmit": 271657,
+  "disk": 6057590
+}
