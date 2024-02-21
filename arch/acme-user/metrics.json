@@ -1,0 +1,12 @@
+{
+  "name": "acme-user",
+  "version": "1.0.1-1",
+  "depends": [
+    "acme-tiny",
+    "systemd"
+  ],
+  "makedepends": [],
+  "receive": 199677625,
+  "transmit": 442624,
+  "disk": 100049
+}
