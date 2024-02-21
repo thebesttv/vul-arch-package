@@ -1,0 +1,11 @@
+{
+  "name": "aribb24",
+  "version": "1.0.3-3",
+  "depends": [
+    "libpng"
+  ],
+  "makedepends": [],
+  "receive": 199680508,
+  "transmit": 424886,
+  "disk": 380309
+}
