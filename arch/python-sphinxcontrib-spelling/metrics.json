@@ -1,0 +1,18 @@
+{
+  "name": "python-sphinxcontrib-spelling",
+  "version": "8.0.0-2",
+  "depends": [
+    "python-sphinx",
+    "python-pyenchant"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-setuptools-scm"
+  ],
+  "receive": 199552420,
+  "transmit": 296601,
+  "disk": 291905
+}
