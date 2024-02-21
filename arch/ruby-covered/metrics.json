@@ -1,0 +1,13 @@
+{
+  "name": "ruby-covered",
+  "version": "0.18.5-1",
+  "depends": [
+    "ruby-console",
+    "ruby-msgpack",
+    "ruby-parser"
+  ],
+  "makedepends": [],
+  "receive": 199653622,
+  "transmit": 380370,
+  "disk": 733004
+}
