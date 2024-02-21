@@ -1,0 +1,13 @@
+{
+  "name": "perl-xml-libxml-prettyprint",
+  "version": "0.006-8",
+  "depends": [
+    "perl",
+    "perl-exporter-tiny",
+    "perl-xml-libxml"
+  ],
+  "makedepends": [],
+  "receive": 199676056,
+  "transmit": 388459,
+  "disk": 220085
+}
