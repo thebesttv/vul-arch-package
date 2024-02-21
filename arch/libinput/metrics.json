@@ -1,0 +1,21 @@
+{
+  "name": "libinput",
+  "version": "1.25.0-1",
+  "depends": [
+    "mtdev",
+    "systemd",
+    "libevdev",
+    "libwacom",
+    "systemd-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "gtk4",
+    "meson",
+    "wayland-protocols",
+    "check"
+  ],
+  "receive": 199549212,
+  "transmit": 303269,
+  "disk": 7381138
+}
