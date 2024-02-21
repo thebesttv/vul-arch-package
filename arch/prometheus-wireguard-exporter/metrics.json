@@ -1,0 +1,13 @@
+{
+  "name": "prometheus-wireguard-exporter",
+  "version": "3.6.6-1",
+  "depends": [
+    "wireguard-tools"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199524214,
+  "transmit": 286501,
+  "disk": 731115
+}
