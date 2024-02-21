@@ -1,0 +1,14 @@
+{
+  "name": "kgamma",
+  "version": "5.27.10-2",
+  "depends": [
+    "systemsettings"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199587341,
+  "transmit": 343219,
+  "disk": 1206702
+}
