@@ -1,0 +1,14 @@
+{
+  "name": "evtest",
+  "version": "1.35-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "xmlto"
+  ],
+  "receive": 199531048,
+  "transmit": 278746,
+  "disk": 179704
+}
