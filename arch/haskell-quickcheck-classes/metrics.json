@@ -1,0 +1,26 @@
+{
+  "name": "haskell-quickcheck-classes",
+  "version": "0.6.5.0-186",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-aeson",
+    "haskell-primitive",
+    "haskell-primitive-addr",
+    "haskell-quickcheck-classes-base",
+    "haskell-semigroupoids",
+    "haskell-semirings",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-base-orphans",
+    "haskell-tagged",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199539556,
+  "transmit": 327500,
+  "disk": 395866
+}
