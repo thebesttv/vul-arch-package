@@ -1,0 +1,15 @@
+{
+  "name": "ibus-pinyin",
+  "version": "1.5.0-8",
+  "depends": [
+    "ibus",
+    "pyzy",
+    "lua"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199641364,
+  "transmit": 417812,
+  "disk": 3826616
+}
