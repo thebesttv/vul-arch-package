@@ -1,0 +1,14 @@
+{
+  "name": "tangler",
+  "version": "0.2.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199549082,
+  "transmit": 275900,
+  "disk": 188872
+}
