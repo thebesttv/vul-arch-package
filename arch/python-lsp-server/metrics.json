@@ -1,0 +1,22 @@
+{
+  "name": "python-lsp-server",
+  "version": "1.9.0-1",
+  "depends": [
+    "python-jedi",
+    "python-lsp-jsonrpc",
+    "python-pluggy",
+    "python-ujson",
+    "python-setuptools",
+    "python-websockets",
+    "python-docstring-to-markdown"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199541818,
+  "transmit": 259710,
+  "disk": 768225
+}
