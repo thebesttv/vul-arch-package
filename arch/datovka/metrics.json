@@ -1,0 +1,20 @@
+{
+  "name": "datovka",
+  "version": "4.23.6-1",
+  "depends": [
+    "qt6-base",
+    "qt6-svg",
+    "qt6-5compat",
+    "quazip-qt6",
+    "qt6-websockets",
+    "libdatovka",
+    "openssl",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "qt6-tools"
+  ],
+  "receive": 199547454,
+  "transmit": 289638,
+  "disk": 17303600
+}
