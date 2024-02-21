@@ -1,0 +1,12 @@
+{
+  "name": "ruby-net-http",
+  "version": "0.2.2-2",
+  "depends": [
+    "ruby",
+    "ruby-uri"
+  ],
+  "makedepends": [],
+  "receive": 199929219,
+  "transmit": 608502,
+  "disk": 456068
+}
