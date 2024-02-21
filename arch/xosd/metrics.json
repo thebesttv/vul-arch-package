@@ -1,0 +1,13 @@
+{
+  "name": "xosd",
+  "version": "2.2.14-11",
+  "depends": [
+    "libxt",
+    "libxinerama",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199594621,
+  "transmit": 368280,
+  "disk": 2490445
+}
