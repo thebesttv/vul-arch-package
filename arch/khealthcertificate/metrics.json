@@ -1,0 +1,16 @@
+{
+  "name": "khealthcertificate",
+  "version": "23.01.0-2",
+  "depends": [
+    "karchive5",
+    "kcodecs5",
+    "ki18n5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-declarative"
+  ],
+  "receive": 199676485,
+  "transmit": 393211,
+  "disk": 1989322
+}
