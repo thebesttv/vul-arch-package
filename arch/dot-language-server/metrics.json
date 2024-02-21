@@ -1,0 +1,13 @@
+{
+  "name": "dot-language-server",
+  "version": "1.2.1-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199678804,
+  "transmit": 438351,
+  "disk": 1685537
+}
