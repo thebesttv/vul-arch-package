@@ -1,0 +1,21 @@
+{
+  "name": "haskell-tagstream-conduit",
+  "version": "0.5.6-358",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-blaze-builder",
+    "haskell-case-insensitive",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-data-default",
+    "haskell-resourcet",
+    "haskell-xml-conduit"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199709895,
+  "transmit": 457044,
+  "disk": 683924
+}
