@@ -1,0 +1,13 @@
+{
+  "name": "updlockfiles",
+  "version": "0.1.0-1",
+  "depends": [
+    "pacman-contrib"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199582718,
+  "transmit": 356410,
+  "disk": 364934
+}
