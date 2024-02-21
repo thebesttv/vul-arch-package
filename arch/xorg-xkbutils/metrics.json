@@ -1,0 +1,17 @@
+{
+  "name": "xorg-xkbutils",
+  "version": "1.0.6-1",
+  "depends": [
+    "libxaw",
+    "libxt",
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199608970,
+  "transmit": 345068,
+  "disk": 1065768
+}
