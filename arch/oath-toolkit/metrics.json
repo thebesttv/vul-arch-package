@@ -1,0 +1,13 @@
+{
+  "name": "oath-toolkit",
+  "version": "2.6.11-1",
+  "depends": [
+    "glibc",
+    "pam",
+    "xmlsec"
+  ],
+  "makedepends": [],
+  "receive": 200831345,
+  "transmit": 306099,
+  "disk": 25063982
+}
