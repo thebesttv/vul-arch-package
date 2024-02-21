@@ -1,0 +1,14 @@
+{
+  "name": "metalog",
+  "version": "20230719-1",
+  "depends": [
+    "glibc",
+    "pcre2"
+  ],
+  "makedepends": [
+    "autoconf-archive"
+  ],
+  "receive": 199592984,
+  "transmit": 383330,
+  "disk": 300777
+}
