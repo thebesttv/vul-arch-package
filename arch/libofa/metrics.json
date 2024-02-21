@@ -1,0 +1,13 @@
+{
+  "name": "libofa",
+  "version": "0.9.3-9",
+  "depends": [
+    "expat",
+    "curl",
+    "fftw"
+  ],
+  "makedepends": [],
+  "receive": 199819722,
+  "transmit": 615003,
+  "disk": 2202875
+}
