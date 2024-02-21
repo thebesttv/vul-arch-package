@@ -1,0 +1,12 @@
+{
+  "name": "xssstate",
+  "version": "1.1-5",
+  "depends": [
+    "libxss",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199560719,
+  "transmit": 342510,
+  "disk": 102412
+}
