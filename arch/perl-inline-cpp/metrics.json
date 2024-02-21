@@ -1,0 +1,15 @@
+{
+  "name": "perl-inline-cpp",
+  "version": "0.80-6",
+  "depends": [
+    "perl-inline",
+    "perl-inline-c",
+    "perl-parse-recdescent"
+  ],
+  "makedepends": [
+    "perl-extutils-cppguess"
+  ],
+  "receive": 199699638,
+  "transmit": 434636,
+  "disk": 408677
+}
