@@ -1,0 +1,13 @@
+{
+  "name": "lxqt-sudo",
+  "version": "1.4.0-1",
+  "depends": [
+    "liblxqt"
+  ],
+  "makedepends": [
+    "lxqt-build-tools"
+  ],
+  "receive": 199803428,
+  "transmit": 492739,
+  "disk": 460077
+}
