@@ -1,0 +1,11 @@
+{
+  "name": "ssh-key-confirmer",
+  "version": "0.1-2",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199643326,
+  "transmit": 412693,
+  "disk": 113978
+}
