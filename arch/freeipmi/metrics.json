@@ -1,0 +1,11 @@
+{
+  "name": "freeipmi",
+  "version": "1.6.14-1",
+  "depends": [
+    "libgcrypt"
+  ],
+  "makedepends": [],
+  "receive": 199535328,
+  "transmit": 290127,
+  "disk": 25587674
+}
