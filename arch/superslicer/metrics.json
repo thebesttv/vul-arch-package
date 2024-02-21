@@ -1,0 +1,34 @@
+{
+  "name": "superslicer",
+  "version": "1:2.4.58.5-9",
+  "depends": [
+    "boost-libs",
+    "glew",
+    "gtk3",
+    "imath",
+    "libjpeg-turbo",
+    "libspnav",
+    "nlopt",
+    "openvdb",
+    "qhull",
+    "slicer-udev"
+  ],
+  "makedepends": [
+    "boost",
+    "cereal",
+    "cgal",
+    "cmake",
+    "eigen",
+    "git",
+    "glu",
+    "gst-plugins-base",
+    "libigl",
+    "libnotify",
+    "ninja",
+    "systemd",
+    "webkit2gtk"
+  ],
+  "receive": 668541878,
+  "transmit": 904548,
+  "disk": 737344875
+}
