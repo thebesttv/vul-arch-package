@@ -1,0 +1,20 @@
+{
+  "name": "perl-soap-lite",
+  "version": "1.27-8",
+  "depends": [
+    "perl",
+    "perl-crypt-ssleay",
+    "perl-mime-lite",
+    "perl-libwww",
+    "perl-uri",
+    "perl-mime-tools",
+    "perl-io-socket-ssl",
+    "perl-xml-parser",
+    "perl-fcgi",
+    "perl-class-inspector"
+  ],
+  "makedepends": [],
+  "receive": 199709572,
+  "transmit": 378690,
+  "disk": 1478867
+}
