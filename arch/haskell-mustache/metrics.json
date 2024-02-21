@@ -1,0 +1,27 @@
+{
+  "name": "haskell-mustache",
+  "version": "2.4.2-79",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-scientific",
+    "haskell-th-lift",
+    "haskell-cmdargs",
+    "haskell-yaml"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-base-unicode-symbols",
+    "haskell-wreq",
+    "haskell-zlib",
+    "haskell-tar",
+    "haskell-lens",
+    "haskell-temporary"
+  ],
+  "receive": 200132709,
+  "transmit": 346818,
+  "disk": 935537
+}
