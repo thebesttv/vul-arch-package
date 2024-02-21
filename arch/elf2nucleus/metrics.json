@@ -1,0 +1,13 @@
+{
+  "name": "elf2nucleus",
+  "version": "0.1.0-1",
+  "depends": [
+    "micronucleus"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199662753,
+  "transmit": 447314,
+  "disk": 364756
+}
