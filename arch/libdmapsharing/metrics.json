@@ -1,0 +1,19 @@
+{
+  "name": "libdmapsharing",
+  "version": "3.9.13-1",
+  "depends": [
+    "avahi",
+    "gdk-pixbuf2",
+    "gst-plugins-base-libs",
+    "libsoup3"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "vala"
+  ],
+  "receive": 199552076,
+  "transmit": 322690,
+  "disk": 2832851
+}
