@@ -1,0 +1,17 @@
+{
+  "name": "copyq",
+  "version": "7.1.0-2",
+  "depends": [
+    "hicolor-icon-theme",
+    "qt5-svg",
+    "qt5-wayland",
+    "knotifications5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools"
+  ],
+  "receive": 199563280,
+  "transmit": 333044,
+  "disk": 14059178
+}
