@@ -1,0 +1,11 @@
+{
+  "name": "libhx",
+  "version": "4.16-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199842317,
+  "transmit": 569207,
+  "disk": 2730901
+}
