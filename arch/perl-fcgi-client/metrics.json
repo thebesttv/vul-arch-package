@@ -1,0 +1,15 @@
+{
+  "name": "perl-fcgi-client",
+  "version": "0.09-3",
+  "depends": [
+    "perl>=5.8.1",
+    "perl-moo>=2",
+    "perl-type-tiny"
+  ],
+  "makedepends": [
+    "perl-module-build-tiny>=0.035"
+  ],
+  "receive": 199694000,
+  "transmit": 379933,
+  "disk": 214240
+}
