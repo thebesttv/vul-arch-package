@@ -1,0 +1,17 @@
+{
+  "name": "jsonrpc-glib",
+  "version": "3.44.0-1",
+  "depends": [
+    "json-glib"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199601429,
+  "transmit": 358371,
+  "disk": 1053310
+}
