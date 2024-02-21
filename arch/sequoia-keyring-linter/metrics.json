@@ -1,0 +1,21 @@
+{
+  "name": "sequoia-keyring-linter",
+  "version": "1.0.0-1",
+  "depends": [
+    "glibc",
+    "nettle",
+    "libhogweed.so",
+    "libnettle.so",
+    "gcc-libs",
+    "gmp"
+  ],
+  "makedepends": [
+    "git",
+    "cargo",
+    "llvm",
+    "clang"
+  ],
+  "receive": 199555789,
+  "transmit": 292929,
+  "disk": 453426
+}
