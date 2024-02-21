@@ -1,0 +1,12 @@
+{
+  "name": "libisofs",
+  "version": "1.5.6-1",
+  "depends": [
+    "acl",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199640020,
+  "transmit": 326304,
+  "disk": 4785916
+}
