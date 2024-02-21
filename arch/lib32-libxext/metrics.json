@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libxext",
+  "version": "1.3.5-1",
+  "depends": [
+    "lib32-libx11",
+    "libxext"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "gcc-multilib"
+  ],
+  "receive": 199704973,
+  "transmit": 406071,
+  "disk": 2778914
+}
