@@ -1,0 +1,12 @@
+{
+  "name": "p7zip",
+  "version": "1:17.05-2",
+  "depends": [
+    "gcc-libs",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 206626901,
+  "transmit": 457503,
+  "disk": 26575810
+}
