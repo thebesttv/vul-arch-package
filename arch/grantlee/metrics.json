@@ -1,0 +1,15 @@
+{
+  "name": "grantlee",
+  "version": "5.3.1-1",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "graphviz"
+  ],
+  "receive": 199641598,
+  "transmit": 408778,
+  "disk": 4265401
+}
