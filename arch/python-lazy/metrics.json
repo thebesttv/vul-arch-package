@@ -1,0 +1,13 @@
+{
+  "name": "python-lazy",
+  "version": "1.6-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199566904,
+  "transmit": 324744,
+  "disk": 202724
+}
