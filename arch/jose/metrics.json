@@ -1,0 +1,17 @@
+{
+  "name": "jose",
+  "version": "11-2",
+  "depends": [
+    "jansson",
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "asciidoc",
+    "meson"
+  ],
+  "receive": 199742644,
+  "transmit": 459506,
+  "disk": 4124835
+}
