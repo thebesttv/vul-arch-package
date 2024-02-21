@@ -1,0 +1,13 @@
+{
+  "name": "php-mongodb",
+  "version": "1.17.2-2",
+  "depends": [],
+  "makedepends": [
+    "php-legacy",
+    "php",
+    "re2c"
+  ],
+  "receive": 199664720,
+  "transmit": 358148,
+  "disk": 16124393
+}
