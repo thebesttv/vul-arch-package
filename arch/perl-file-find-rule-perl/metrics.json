@@ -1,0 +1,12 @@
+{
+  "name": "perl-file-find-rule-perl",
+  "version": "1.16-3",
+  "depends": [
+    "perl-file-find-rule",
+    "perl-params-util"
+  ],
+  "makedepends": [],
+  "receive": 199651216,
+  "transmit": 347680,
+  "disk": 100835
+}
