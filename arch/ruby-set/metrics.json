@@ -1,0 +1,13 @@
+{
+  "name": "ruby-set",
+  "version": "1.0.3-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199574918,
+  "transmit": 360099,
+  "disk": 609715
+}
