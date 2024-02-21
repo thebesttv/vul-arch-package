@@ -1,0 +1,17 @@
+{
+  "name": "libspatialite",
+  "version": "5.1.0-1",
+  "depends": [
+    "geos",
+    "libfreexl",
+    "librttopo",
+    "libxml2",
+    "minizip",
+    "proj",
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 199725257,
+  "transmit": 461707,
+  "disk": 50223492
+}
