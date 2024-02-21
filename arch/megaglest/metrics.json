@@ -1,0 +1,31 @@
+{
+  "name": "megaglest",
+  "version": "3.13.0-8",
+  "depends": [
+    "curl",
+    "megaglest-data",
+    "xerces-c",
+    "sdl2",
+    "libvorbis",
+    "openal",
+    "libgl",
+    "lua51",
+    "icu",
+    "ftgl",
+    "glew",
+    "libircclient",
+    "miniupnpc",
+    "wxwidgets-gtk3",
+    "glu",
+    "libx11",
+    "libminiupnpc.so"
+  ],
+  "makedepends": [
+    "ftjam",
+    "cmake",
+    "mesa"
+  ],
+  "receive": 201918776,
+  "transmit": 515429,
+  "disk": 13726284
+}
