@@ -1,0 +1,13 @@
+{
+  "name": "sound-gambit",
+  "version": "0.7-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libsndfile"
+  ],
+  "makedepends": [],
+  "receive": 199845914,
+  "transmit": 463436,
+  "disk": 178381
+}
