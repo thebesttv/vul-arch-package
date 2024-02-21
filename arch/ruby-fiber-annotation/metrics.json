@@ -1,0 +1,11 @@
+{
+  "name": "ruby-fiber-annotation",
+  "version": "0.2.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199695484,
+  "transmit": 420477,
+  "disk": 148729
+}
