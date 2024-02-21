@@ -1,0 +1,13 @@
+{
+  "name": "lbzip2",
+  "version": "2.5-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "patch"
+  ],
+  "receive": 199628515,
+  "transmit": 373915,
+  "disk": 3624710
+}
