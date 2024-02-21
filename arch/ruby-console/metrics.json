@@ -1,0 +1,12 @@
+{
+  "name": "ruby-console",
+  "version": "1.23.3-1",
+  "depends": [
+    "ruby-fiber-annotation",
+    "ruby-fiber-local"
+  ],
+  "makedepends": [],
+  "receive": 199731512,
+  "transmit": 415447,
+  "disk": 359686
+}
