@@ -1,0 +1,21 @@
+{
+  "name": "lincity-ng",
+  "version": "2.0-10",
+  "depends": [
+    "sdl_mixer",
+    "sdl_ttf",
+    "sdl_image",
+    "physfs",
+    "libxml2",
+    "sdl_gfx",
+    "libgl"
+  ],
+  "makedepends": [
+    "ftjam",
+    "mesa",
+    "glu"
+  ],
+  "receive": 239641705,
+  "transmit": 524325,
+  "disk": 87854721
+}
