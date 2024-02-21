@@ -1,0 +1,13 @@
+{
+  "name": "ruby-net-dns",
+  "version": "0.9.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199539731,
+  "transmit": 319382,
+  "disk": 427704
+}
