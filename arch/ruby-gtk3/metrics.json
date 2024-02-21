@@ -1,0 +1,23 @@
+{
+  "name": "ruby-gtk3",
+  "version": "4.1.2-1",
+  "depends": [
+    "gobject-introspection",
+    "gtk3",
+    "ruby",
+    "ruby-atk",
+    "ruby-cairo",
+    "ruby-gdk3",
+    "ruby-gdk_pixbuf2",
+    "ruby-gio2",
+    "ruby-gobject-introspection",
+    "ruby-pango"
+  ],
+  "makedepends": [
+    "ruby-native-package-installer",
+    "ruby-glib2"
+  ],
+  "receive": 199650083,
+  "transmit": 416236,
+  "disk": 973570
+}
