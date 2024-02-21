@@ -1,0 +1,16 @@
+{
+  "name": "nomad-driver-nspawn",
+  "version": "0.10.0-1",
+  "depends": [
+    "glibc",
+    "nomad",
+    "systemd"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 219375203,
+  "transmit": 604130,
+  "disk": 65548049
+}
