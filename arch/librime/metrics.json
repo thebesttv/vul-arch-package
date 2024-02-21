@@ -1,0 +1,25 @@
+{
+  "name": "librime",
+  "version": "1:1.10.0-2",
+  "depends": [
+    "boost-libs",
+    "capnproto",
+    "opencc",
+    "yaml-cpp",
+    "leveldb",
+    "librime-data",
+    "lua",
+    "google-glog",
+    "marisa"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "boost",
+    "gtest",
+    "ninja"
+  ],
+  "receive": 221066520,
+  "transmit": 357661,
+  "disk": 29895379
+}
