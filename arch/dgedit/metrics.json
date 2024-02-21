@@ -1,0 +1,16 @@
+{
+  "name": "dgedit",
+  "version": "0.10.0-2",
+  "depends": [
+    "hicolor-icon-theme",
+    "libao",
+    "libsndfile",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199526403,
+  "transmit": 289173,
+  "disk": 2617908
+}
