@@ -1,0 +1,12 @@
+{
+  "name": "perl-ppix-utils",
+  "version": "0.003-4",
+  "depends": [
+    "perl-b-keywords",
+    "perl-ppi"
+  ],
+  "makedepends": [],
+  "receive": 199656004,
+  "transmit": 414135,
+  "disk": 337731
+}
