@@ -1,0 +1,17 @@
+{
+  "name": "rest",
+  "version": "0.8.1+r4+ge5ee6ef-1",
+  "depends": [
+    "glib2",
+    "libxml2",
+    "libsoup"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "gtk-doc",
+    "git"
+  ],
+  "receive": 199688059,
+  "transmit": 394817,
+  "disk": 1600842
+}
