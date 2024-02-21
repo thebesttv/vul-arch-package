@@ -1,0 +1,16 @@
+{
+  "name": "mate-desktop",
+  "version": "1.26.2-1",
+  "depends": [
+    "gtk3",
+    "startup-notification",
+    "iso-codes"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "intltool"
+  ],
+  "receive": 199540922,
+  "transmit": 283483,
+  "disk": 13726297
+}
