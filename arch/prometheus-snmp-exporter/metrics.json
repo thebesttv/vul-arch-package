@@ -1,0 +1,15 @@
+{
+  "name": "prometheus-snmp-exporter",
+  "version": "0.24.1-2",
+  "depends": [
+    "glibc",
+    "net-snmp"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199658974,
+  "transmit": 417260,
+  "disk": 13421234
+}
