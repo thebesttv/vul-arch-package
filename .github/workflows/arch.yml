@@ -108,13 +108,13 @@ jobs:
           echo >> $GITHUB_OUTPUT
           echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> $GITHUB_OUTPUT
           echo 'EOF' >> $GITHUB_OUTPUT
-      - name: Commit all results
-        if: env.TBT_UPDATE_PACKAGE == 'true' || failure()
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          create_branch: true
-          branch: job-${{ matrix.id }}
-          commit_message: ${{ steps.commit_message_step.outputs.commit_message }}
+      # - name: Commit all results
+      #   if: env.TBT_UPDATE_PACKAGE == 'true' || failure()
+      #   uses: stefanzweifel/git-auto-commit-action@v5
+      #   with:
+      #     create_branch: true
+      #     branch: job-${{ matrix.id }}
+      #     commit_message: ${{ steps.commit_message_step.outputs.commit_message }}
 
   merge-results:
     needs: single-package
