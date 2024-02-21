@@ -1,0 +1,13 @@
+{
+  "name": "perl-gtk3",
+  "version": "0.038-4",
+  "depends": [
+    "gtk3",
+    "perl-cairo-gobject",
+    "perl-glib-object-introspection"
+  ],
+  "makedepends": [],
+  "receive": 199664575,
+  "transmit": 402606,
+  "disk": 394618
+}
