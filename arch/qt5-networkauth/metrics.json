@@ -1,0 +1,13 @@
+{
+  "name": "qt5-networkauth",
+  "version": "5.15.12-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199549241,
+  "transmit": 286964,
+  "disk": 2210388
+}
