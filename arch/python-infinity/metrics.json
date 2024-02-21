@@ -1,0 +1,13 @@
+{
+  "name": "python-infinity",
+  "version": "1.5-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199630505,
+  "transmit": 382593,
+  "disk": 120438
+}
