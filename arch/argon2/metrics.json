@@ -1,0 +1,11 @@
+{
+  "name": "argon2",
+  "version": "20190702-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199510366,
+  "transmit": 266600,
+  "disk": 5093481
+}
