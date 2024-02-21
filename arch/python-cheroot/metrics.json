@@ -1,0 +1,20 @@
+{
+  "name": "python-cheroot",
+  "version": "9.0.0-5",
+  "depends": [
+    "python-jaraco.functools",
+    "python-jaraco.text",
+    "python-more-itertools",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199603421,
+  "transmit": 363148,
+  "disk": 1150825
+}
