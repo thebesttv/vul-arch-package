@@ -1,0 +1,32 @@
+{
+  "name": "haskell-arithmoi",
+  "version": "0.13.0.0-37",
+  "depends": [
+    "ghc-libs",
+    "haskell-chimera",
+    "haskell-constraints",
+    "haskell-exact-pi",
+    "haskell-infinite-list",
+    "haskell-integer-logarithms",
+    "haskell-integer-roots",
+    "haskell-mod",
+    "haskell-random",
+    "haskell-semirings",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-classes",
+    "haskell-smallcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "haskell-tasty-rerun",
+    "haskell-tasty-smallcheck"
+  ],
+  "receive": 199641130,
+  "transmit": 411406,
+  "disk": 1266994
+}
