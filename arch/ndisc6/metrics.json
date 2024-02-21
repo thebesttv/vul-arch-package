@@ -1,0 +1,16 @@
+{
+  "name": "ndisc6",
+  "version": "1.0.8-1",
+  "depends": [
+    "glibc",
+    "perl"
+  ],
+  "makedepends": [
+    "glibc",
+    "gcc",
+    "systemd"
+  ],
+  "receive": 199659399,
+  "transmit": 391582,
+  "disk": 1795749
+}
