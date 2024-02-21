@@ -1,0 +1,12 @@
+{
+  "name": "remake",
+  "version": "4.3+dbg1.6-2",
+  "depends": [
+    "glibc",
+    "guile"
+  ],
+  "makedepends": [],
+  "receive": 199624785,
+  "transmit": 389721,
+  "disk": 12590954
+}
