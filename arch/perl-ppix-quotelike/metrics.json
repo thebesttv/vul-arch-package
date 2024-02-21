@@ -1,0 +1,14 @@
+{
+  "name": "perl-ppix-quotelike",
+  "version": "0.023-2",
+  "depends": [
+    "perl-ppi"
+  ],
+  "makedepends": [
+    "perl-ppix-regexp",
+    "perl-readonly"
+  ],
+  "receive": 199688665,
+  "transmit": 416336,
+  "disk": 494526
+}
