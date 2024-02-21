@@ -1,0 +1,16 @@
+{
+  "name": "notify-osd",
+  "version": "0.9.35+20.04.20191129-1",
+  "depends": [
+    "libwnck3",
+    "dbus-glib",
+    "gsettings-desktop-schemas"
+  ],
+  "makedepends": [
+    "gnome-common",
+    "libnotify"
+  ],
+  "receive": 199577998,
+  "transmit": 312513,
+  "disk": 1755725
+}
