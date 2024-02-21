@@ -1,0 +1,25 @@
+{
+  "name": "x42-plugins",
+  "version": "20230915-1",
+  "depends": [],
+  "makedepends": [
+    "cairo",
+    "fftw",
+    "ftgl",
+    "gendesk",
+    "glib2",
+    "glu",
+    "help2man",
+    "jack",
+    "liblo",
+    "libltc",
+    "libsamplerate",
+    "libsndfile",
+    "lv2",
+    "pango",
+    "ttf-dejavu"
+  ],
+  "receive": 199684543,
+  "transmit": 362747,
+  "disk": 18915418
+}
