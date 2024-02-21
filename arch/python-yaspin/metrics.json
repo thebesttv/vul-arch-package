@@ -1,0 +1,15 @@
+{
+  "name": "python-yaspin",
+  "version": "2.5.0-1",
+  "depends": [
+    "python-termcolor"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199550206,
+  "transmit": 272952,
+  "disk": 3943339
+}
