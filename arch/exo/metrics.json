@@ -1,0 +1,13 @@
+{
+  "name": "exo",
+  "version": "4.18.0-1",
+  "depends": [
+    "libxfce4ui"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199617595,
+  "transmit": 329753,
+  "disk": 7449889
+}
