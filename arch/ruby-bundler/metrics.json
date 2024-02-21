@@ -1,0 +1,14 @@
+{
+  "name": "ruby-bundler",
+  "version": "2.5.4-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 213691737,
+  "transmit": 586855,
+  "disk": 53018014
+}
