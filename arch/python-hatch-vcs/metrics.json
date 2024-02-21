@@ -1,0 +1,16 @@
+{
+  "name": "python-hatch-vcs",
+  "version": "0.4.0-1",
+  "depends": [
+    "python-hatchling",
+    "python-setuptools-scm"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 199514262,
+  "transmit": 275690,
+  "disk": 421782
+}
