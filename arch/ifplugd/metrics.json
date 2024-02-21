@@ -1,0 +1,12 @@
+{
+  "name": "ifplugd",
+  "version": "0.28-17",
+  "depends": [
+    "libdaemon",
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199810029,
+  "transmit": 446143,
+  "disk": 933772
+}
