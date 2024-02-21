@@ -1,0 +1,19 @@
+{
+  "name": "lld",
+  "version": "16.0.6-1",
+  "depends": [
+    "llvm-libs",
+    "gcc-libs",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "llvm",
+    "cmake",
+    "ninja",
+    "python-sphinx"
+  ],
+  "receive": 257682028,
+  "transmit": 375988,
+  "disk": 815690891
+}
