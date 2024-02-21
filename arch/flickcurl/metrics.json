@@ -1,0 +1,15 @@
+{
+  "name": "flickcurl",
+  "version": "1.26-12",
+  "depends": [
+    "curl",
+    "libxml2",
+    "raptor"
+  ],
+  "makedepends": [
+    "gtk-doc"
+  ],
+  "receive": 201564254,
+  "transmit": 378696,
+  "disk": 7772492
+}
