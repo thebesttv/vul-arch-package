@@ -1,0 +1,11 @@
+{
+  "name": "rime-essay",
+  "version": "0.0.0.20230204-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 225584505,
+  "transmit": 1131092,
+  "disk": 28853538
+}
