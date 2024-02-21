@@ -1,0 +1,13 @@
+{
+  "name": "ruby-forwardable-extended",
+  "version": "2.6.0-6",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199689668,
+  "transmit": 486922,
+  "disk": 156335
+}
