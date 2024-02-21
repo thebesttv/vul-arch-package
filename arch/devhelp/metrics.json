@@ -1,0 +1,18 @@
+{
+  "name": "devhelp",
+  "version": "43.0-1",
+  "depends": [
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "git",
+    "appstream-glib",
+    "gobject-introspection",
+    "meson",
+    "yelp-tools",
+    "gi-docgen"
+  ],
+  "receive": 199779486,
+  "transmit": 501505,
+  "disk": 9524121
+}
