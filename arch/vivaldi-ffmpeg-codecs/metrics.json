@@ -1,0 +1,19 @@
+{
+  "name": "vivaldi-ffmpeg-codecs",
+  "version": "120.0.6099.80-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "gn",
+    "ninja",
+    "python",
+    "gtk3",
+    "nss",
+    "libva",
+    "libevdev"
+  ],
+  "receive": 3514271281,
+  "transmit": 8781028,
+  "disk": 20526348225
+}
