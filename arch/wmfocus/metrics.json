@@ -1,0 +1,16 @@
+{
+  "name": "wmfocus",
+  "version": "1.5.0-1",
+  "depends": [
+    "xcb-util-keysyms",
+    "cairo",
+    "libxkbcommon-x11"
+  ],
+  "makedepends": [
+    "rust",
+    "python"
+  ],
+  "receive": 199623003,
+  "transmit": 384421,
+  "disk": 415153
+}
