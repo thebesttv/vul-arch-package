@@ -1,0 +1,41 @@
+{
+  "name": "firefox",
+  "version": "123.0-1",
+  "depends": [
+    "dbus",
+    "ffmpeg",
+    "gtk3",
+    "libpulse",
+    "libxss",
+    "libxt",
+    "mime-types",
+    "nss",
+    "ttf-font"
+  ],
+  "makedepends": [
+    "cbindgen",
+    "clang",
+    "diffutils",
+    "imake",
+    "inetutils",
+    "jack",
+    "lld",
+    "llvm",
+    "mesa",
+    "nasm",
+    "nodejs",
+    "python",
+    "rust",
+    "unzip",
+    "wasi-compiler-rt",
+    "wasi-libc",
+    "wasi-libc++",
+    "wasi-libc++abi",
+    "xorg-server-xvfb",
+    "yasm",
+    "zip"
+  ],
+  "receive": 742211788,
+  "transmit": 1726179,
+  "disk": 3295173110
+}
