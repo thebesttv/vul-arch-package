@@ -1,0 +1,13 @@
+{
+  "name": "unittestpp",
+  "version": "2.0.0-6",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199687704,
+  "transmit": 403566,
+  "disk": 499167
+}
