@@ -1,0 +1,12 @@
+{
+  "name": "nemo-qml-plugin-configuration",
+  "version": "0.2.6-1",
+  "depends": [
+    "mlite",
+    "qt5-declarative"
+  ],
+  "makedepends": [],
+  "receive": 199568463,
+  "transmit": 277727,
+  "disk": 154294
+}
