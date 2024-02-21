@@ -1,0 +1,12 @@
+{
+  "name": "python-discid",
+  "version": "1.2.0-8",
+  "depends": [
+    "libdiscid",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199672658,
+  "transmit": 439468,
+  "disk": 242718
+}
