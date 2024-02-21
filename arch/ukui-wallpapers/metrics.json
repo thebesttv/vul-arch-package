@@ -1,0 +1,11 @@
+{
+  "name": "ukui-wallpapers",
+  "version": "20.04.2-1",
+  "depends": [],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199548795,
+  "transmit": 322456,
+  "disk": 50965467
+}
