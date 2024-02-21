@@ -1,0 +1,14 @@
+{
+  "name": "rarcrack",
+  "version": "0.2-7",
+  "depends": [
+    "libxml2.so",
+    "p7zip",
+    "unrar",
+    "unzip"
+  ],
+  "makedepends": [],
+  "receive": 199638979,
+  "transmit": 386846,
+  "disk": 187279
+}
