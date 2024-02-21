@@ -1,0 +1,18 @@
+{
+  "name": "qmidictl",
+  "version": "0.9.12-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt6-tools"
+  ],
+  "receive": 199672663,
+  "transmit": 365973,
+  "disk": 1069062
+}
