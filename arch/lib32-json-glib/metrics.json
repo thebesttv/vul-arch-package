@@ -1,0 +1,15 @@
+{
+  "name": "lib32-json-glib",
+  "version": "1.8.0-1",
+  "depends": [
+    "json-glib",
+    "lib32-glib2"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199922429,
+  "transmit": 672844,
+  "disk": 3464692
+}
