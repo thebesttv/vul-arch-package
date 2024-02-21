@@ -1,0 +1,15 @@
+{
+  "name": "soplex",
+  "version": "6.0.4-1",
+  "depends": [
+    "zlib",
+    "mpfr"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost"
+  ],
+  "receive": 199619033,
+  "transmit": 366192,
+  "disk": 7484938
+}
