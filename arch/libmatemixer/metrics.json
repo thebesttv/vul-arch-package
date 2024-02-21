@@ -1,0 +1,14 @@
+{
+  "name": "libmatemixer",
+  "version": "1.26.1-1",
+  "depends": [
+    "glib2",
+    "gettext",
+    "libpulse",
+    "alsa-lib"
+  ],
+  "makedepends": [],
+  "receive": 199514385,
+  "transmit": 250690,
+  "disk": 6050524
+}
