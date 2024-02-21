@@ -1,0 +1,14 @@
+{
+  "name": "epubcheck",
+  "version": "5.1.0-3",
+  "depends": [
+    "bash",
+    "java-runtime=21"
+  ],
+  "makedepends": [
+    "maven"
+  ],
+  "receive": 201096757,
+  "transmit": 1440544,
+  "disk": 19234595
+}
