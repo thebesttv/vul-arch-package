@@ -1,0 +1,15 @@
+{
+  "name": "ruby-minitest-retry",
+  "version": "0.2.2-1",
+  "depends": [
+    "ruby",
+    "ruby-minitest"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-bundler"
+  ],
+  "receive": 199514323,
+  "transmit": 287160,
+  "disk": 147731
+}
