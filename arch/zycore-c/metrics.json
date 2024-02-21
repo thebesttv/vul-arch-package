@@ -1,0 +1,14 @@
+{
+  "name": "zycore-c",
+  "version": "1.4.1-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 199722087,
+  "transmit": 454427,
+  "disk": 1315614
+}
