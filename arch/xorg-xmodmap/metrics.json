@@ -1,0 +1,13 @@
+{
+  "name": "xorg-xmodmap",
+  "version": "1.0.11-1",
+  "depends": [
+    "libx11"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199773798,
+  "transmit": 374814,
+  "disk": 1070190
+}
