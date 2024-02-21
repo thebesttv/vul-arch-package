@@ -1,0 +1,14 @@
+{
+  "name": "ruby-io-wait",
+  "version": "0.2.3-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rake-compiler"
+  ],
+  "receive": 199517845,
+  "transmit": 280708,
+  "disk": 260183
+}
