@@ -1,0 +1,20 @@
+{
+  "name": "libgphoto2",
+  "version": "2.5.31-1",
+  "depends": [
+    "curl",
+    "gd",
+    "libexif",
+    "libjpeg",
+    "libltdl",
+    "libusb",
+    "libxml2"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "git"
+  ],
+  "receive": 236312669,
+  "transmit": 398941,
+  "disk": 64617908
+}
