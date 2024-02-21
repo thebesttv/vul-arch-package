@@ -1,0 +1,11 @@
+{
+  "name": "sloccount",
+  "version": "2.26-10",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199507600,
+  "transmit": 258100,
+  "disk": 949728
+}
