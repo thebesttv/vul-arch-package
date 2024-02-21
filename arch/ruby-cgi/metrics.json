@@ -1,0 +1,13 @@
+{
+  "name": "ruby-cgi",
+  "version": "0.3.6-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake-compiler"
+  ],
+  "receive": 199584099,
+  "transmit": 334844,
+  "disk": 824599
+}
