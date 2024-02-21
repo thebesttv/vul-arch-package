@@ -1,0 +1,14 @@
+{
+  "name": "gost",
+  "version": "2.11.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199533083,
+  "transmit": 307278,
+  "disk": 1152339
+}
