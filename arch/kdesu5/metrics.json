@@ -1,0 +1,17 @@
+{
+  "name": "kdesu5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kpty5",
+    "kconfig5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199564816,
+  "transmit": 287881,
+  "disk": 731530
+}
