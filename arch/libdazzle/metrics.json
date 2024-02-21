@@ -1,0 +1,17 @@
+{
+  "name": "libdazzle",
+  "version": "3.44.0-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala",
+    "gobject-introspection",
+    "gtk-doc"
+  ],
+  "receive": 199536808,
+  "transmit": 275335,
+  "disk": 6206173
+}
