@@ -1,0 +1,19 @@
+{
+  "name": "libwebsockets",
+  "version": "4.3.3-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "libuv",
+    "libev",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "glib2",
+    "libcap"
+  ],
+  "receive": 199850645,
+  "transmit": 549987,
+  "disk": 44213025
+}
