@@ -1,0 +1,11 @@
+{
+  "name": "ucarp",
+  "version": "1.5.2-8",
+  "depends": [
+    "libpcap"
+  ],
+  "makedepends": [],
+  "receive": 200093506,
+  "transmit": 482875,
+  "disk": 2637279
+}
