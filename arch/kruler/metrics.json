@@ -1,0 +1,16 @@
+{
+  "name": "kruler",
+  "version": "23.08.5-1",
+  "depends": [
+    "knotifications5",
+    "kxmlgui5",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199500178,
+  "transmit": 258892,
+  "disk": 2000233
+}
