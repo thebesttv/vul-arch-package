@@ -1,0 +1,14 @@
+{
+  "name": "tinycompress",
+  "version": "1.2.11-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "ffmpeg",
+    "git"
+  ],
+  "receive": 200378830,
+  "transmit": 791703,
+  "disk": 626944
+}
