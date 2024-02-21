@@ -1,0 +1,16 @@
+{
+  "name": "contractor",
+  "version": "0.3.5-2",
+  "depends": [
+    "glib2",
+    "libgee"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199541522,
+  "transmit": 264898,
+  "disk": 1197460
+}
