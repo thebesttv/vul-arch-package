@@ -1,0 +1,52 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=5.82 s (761.1 files/s 374207.5 lines/s)"
+1357,C,141352,183744,764338
+1370,C/C++ Header,43158,105214,348391
+382,C++,16487,37092,151277
+155,XML,230,175,86553
+76,Bourne Shell,9141,10937,57385
+49,m4,4196,2218,40576
+87,Python,4375,14990,19797
+66,Text,3059,0,17672
+4,MSBuild script,0,0,8688
+160,make,2799,3950,7923
+83,Java,1587,2402,7708
+61,CMake,1399,1700,7263
+35,Visual Studio Solution,4,29,7207
+59,Markdown,2352,1,6875
+20,HTML,1263,90,6204
+23,JavaScript,894,382,5282
+63,reStructuredText,7230,5336,3309
+225,D,358,0,3029
+49,YAML,384,279,2806
+15,Perl,592,613,2685
+4,Pascal,526,208,1971
+7,Meson,248,125,1623
+9,DOS Batch,292,375,1480
+7,Fortran 77,22,9,1212
+4,Windows Module Definition,4,10,544
+9,Windows Resource File,70,114,383
+3,CSS,50,31,357
+1,Visual Basic Script,30,60,341
+1,Assembly,24,71,284
+2,C#,34,37,268
+2,WebAssembly,32,0,252
+5,diff,71,247,227
+3,SAS,52,113,210
+5,Smalltalk,9,0,203
+4,TNSDL,16,34,187
+5,SVG,2,5,161
+3,awk,38,0,153
+1,Gencat NLS,2,0,109
+2,Bourne Again Shell,19,31,106
+1,Lua,15,42,100
+2,INI,14,0,93
+1,TeX,4,0,65
+1,Snakemake,0,0,52
+2,Protocol Buffers,10,48,46
+1,JSON,0,0,24
+1,Dockerfile,4,1,12
+1,Lisp,1,2,7
+1,sed,0,0,7
+1,TOML,1,2,4
+3,Scheme,0,0,3
+4431,SUM,242450,370717,1565452

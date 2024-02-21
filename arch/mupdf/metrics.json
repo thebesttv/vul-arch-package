@@ -1,0 +1,30 @@
+{
+  "name": "mupdf",
+  "version": "1.23.10-1",
+  "depends": [],
+  "makedepends": [
+    "clang",
+    "curl",
+    "desktop-file-utils",
+    "freeglut",
+    "freetype2",
+    "glu",
+    "gumbo-parser",
+    "harfbuzz",
+    "jbig2dec",
+    "leptonica",
+    "libjpeg",
+    "libx11",
+    "libxext",
+    "mesa-libgl",
+    "openjpeg2",
+    "openssl",
+    "python",
+    "swig",
+    "tesseract",
+    "zlib"
+  ],
+  "receive": 255504850,
+  "transmit": 536433,
+  "disk": 195678950
+}
