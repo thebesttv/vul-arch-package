@@ -1,0 +1,20 @@
+{
+  "name": "polkit",
+  "version": "124-2",
+  "depends": [
+    "duktape",
+    "expat",
+    "glib2",
+    "pam",
+    "systemd"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson"
+  ],
+  "receive": 199878403,
+  "transmit": 538914,
+  "disk": 6293678
+}
