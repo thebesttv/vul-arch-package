@@ -1,0 +1,12 @@
+{
+  "name": "nvidia-cg-toolkit",
+  "version": "3.1-6",
+  "depends": [
+    "glibc",
+    "libgl"
+  ],
+  "makedepends": [],
+  "receive": 199595760,
+  "transmit": 370169,
+  "disk": 122907941
+}
