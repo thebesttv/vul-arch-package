@@ -1,0 +1,17 @@
+{
+  "name": "perl-http-message",
+  "version": "6.45-1",
+  "depends": [
+    "perl",
+    "perl-clone",
+    "perl-encode-locale",
+    "perl-http-date",
+    "perl-io-html",
+    "perl-lwp-mediatypes",
+    "perl-uri"
+  ],
+  "makedepends": [],
+  "receive": 199602297,
+  "transmit": 294947,
+  "disk": 547331
+}
