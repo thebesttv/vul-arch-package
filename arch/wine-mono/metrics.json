@@ -1,0 +1,11 @@
+{
+  "name": "wine-mono",
+  "version": "9.0.0-1",
+  "depends": [
+    "wine"
+  ],
+  "makedepends": [],
+  "receive": 240770883,
+  "transmit": 417731,
+  "disk": 280124074
+}
