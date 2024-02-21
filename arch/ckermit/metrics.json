@@ -1,0 +1,13 @@
+{
+  "name": "ckermit",
+  "version": "9.0.302-11",
+  "depends": [
+    "glibc",
+    "libxcrypt",
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199693073,
+  "transmit": 451121,
+  "disk": 15657468
+}
