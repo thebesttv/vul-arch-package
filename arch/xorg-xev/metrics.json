@@ -1,0 +1,15 @@
+{
+  "name": "xorg-xev",
+  "version": "1.2.5-1",
+  "depends": [
+    "libx11",
+    "libxrandr"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199618007,
+  "transmit": 366868,
+  "disk": 1018565
+}
