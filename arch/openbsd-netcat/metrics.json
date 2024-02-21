@@ -1,0 +1,14 @@
+{
+  "name": "openbsd-netcat",
+  "version": "1.226_1-2",
+  "depends": [
+    "libbsd"
+  ],
+  "makedepends": [
+    "gcc",
+    "make"
+  ],
+  "receive": 199754492,
+  "transmit": 396135,
+  "disk": 510315
+}
