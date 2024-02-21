@@ -1,0 +1,22 @@
+{
+  "name": "po4a",
+  "version": "0.70-1",
+  "depends": [
+    "perl",
+    "gettext",
+    "perl-yaml-tiny",
+    "perl-unicode-linebreak"
+  ],
+  "makedepends": [
+    "perl-text-wrapi18n",
+    "perl-locale-gettext",
+    "perl-term-readkey",
+    "perl-sgmls",
+    "perl-module-build",
+    "perl-pod-parser",
+    "docbook-xsl"
+  ],
+  "receive": 199551699,
+  "transmit": 304644,
+  "disk": 19824039
+}
