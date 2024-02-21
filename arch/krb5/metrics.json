@@ -1,0 +1,21 @@
+{
+  "name": "krb5",
+  "version": "1.21.2-2",
+  "depends": [
+    "glibc",
+    "e2fsprogs",
+    "libldap",
+    "keyutils",
+    "libverto-module-base",
+    "libkeyutils.so",
+    "libss.so",
+    "libcom_err.so",
+    "libverto.so"
+  ],
+  "makedepends": [
+    "perl"
+  ],
+  "receive": 199773092,
+  "transmit": 406250,
+  "disk": 50013290
+}
