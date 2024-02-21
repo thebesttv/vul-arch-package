@@ -1,0 +1,17 @@
+{
+  "name": "cl-unicode",
+  "version": "0.1.6.r11.g2790a6b-1",
+  "depends": [
+    "common-lisp",
+    "cl-asdf",
+    "cl-ppcre"
+  ],
+  "makedepends": [
+    "git",
+    "sbcl",
+    "cl-flexi-streams"
+  ],
+  "receive": 200285919,
+  "transmit": 956691,
+  "disk": 10405552
+}
