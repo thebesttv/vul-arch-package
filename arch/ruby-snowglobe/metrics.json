@@ -1,0 +1,11 @@
+{
+  "name": "ruby-snowglobe",
+  "version": "0.3.0.20200907-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 201646183,
+  "transmit": 1435158,
+  "disk": 260755
+}
