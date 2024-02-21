@@ -1,0 +1,22 @@
+{
+  "name": "gcr",
+  "version": "3.41.2-1",
+  "depends": [
+    "gtk3",
+    "libgcrypt",
+    "libsecret",
+    "openssh",
+    "p11-kit"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "libxslt",
+    "meson",
+    "vala"
+  ],
+  "receive": 200115079,
+  "transmit": 642127,
+  "disk": 14983235
+}
