@@ -1,0 +1,11 @@
+{
+  "name": "sgml-common",
+  "version": "0.6.3-8",
+  "depends": [
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199666875,
+  "transmit": 428202,
+  "disk": 525847
+}
