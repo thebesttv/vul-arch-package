@@ -1,0 +1,39 @@
+{
+  "name": "gnome-shell",
+  "version": "1:45.4-1",
+  "depends": [
+    "accountsservice",
+    "gcr-4",
+    "gjs",
+    "gnome-autoar",
+    "gnome-session",
+    "gnome-settings-daemon",
+    "gsettings-desktop-schemas",
+    "gtk4",
+    "libadwaita",
+    "libcanberra-pulse",
+    "libgdm",
+    "libgweather-4",
+    "libibus",
+    "libnma-gtk4",
+    "libsecret",
+    "libsoup3",
+    "mutter",
+    "unzip",
+    "upower"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "bash-completion",
+    "evolution-data-server",
+    "git",
+    "gnome-control-center",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "sassc"
+  ],
+  "receive": 259102232,
+  "transmit": 377519,
+  "disk": 80964754
+}
