@@ -1,0 +1,13 @@
+{
+  "name": "bluez-tools",
+  "version": "0.2.0-5",
+  "depends": [
+    "bluez"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199620794,
+  "transmit": 372300,
+  "disk": 1691755
+}
