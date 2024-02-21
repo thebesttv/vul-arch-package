@@ -1,0 +1,17 @@
+{
+  "name": "gupnp-dlna",
+  "version": "0.12.0-2",
+  "depends": [
+    "gst-plugins-base-libs"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "gtk-doc",
+    "vala",
+    "meson",
+    "git"
+  ],
+  "receive": 199731795,
+  "transmit": 439917,
+  "disk": 1756085
+}
