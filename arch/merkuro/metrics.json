@@ -1,0 +1,16 @@
+{
+  "name": "merkuro",
+  "version": "23.08.5-1",
+  "depends": [
+    "kdepim-runtime",
+    "mailcommon",
+    "qqc2-desktop-style5",
+    "kirigami-addons5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199642629,
+  "transmit": 380583,
+  "disk": 8700420
+}
