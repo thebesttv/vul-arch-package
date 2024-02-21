@@ -1,0 +1,17 @@
+{
+  "name": "python-importlib-metadata",
+  "version": "5.1.0-1",
+  "depends": [
+    "python-zipp"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199666206,
+  "transmit": 366508,
+  "disk": 2122560
+}
