@@ -1,0 +1,16 @@
+{
+  "name": "python-warlock",
+  "version": "2.0.1-2",
+  "depends": [
+    "python-jsonschema",
+    "python-jsonpatch"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199680979,
+  "transmit": 434712,
+  "disk": 200084
+}
