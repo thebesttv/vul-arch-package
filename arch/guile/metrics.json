@@ -1,0 +1,18 @@
+{
+  "name": "guile",
+  "version": "3.0.9-1",
+  "depends": [
+    "gmp",
+    "ncurses",
+    "libunistring",
+    "gc",
+    "libffi",
+    "libxcrypt"
+  ],
+  "makedepends": [
+    "texinfo"
+  ],
+  "receive": 200559637,
+  "transmit": 426112,
+  "disk": 53070955
+}
