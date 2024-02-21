@@ -1,0 +1,11 @@
+{
+  "name": "zsh-autosuggestions",
+  "version": "0.7.0-2",
+  "depends": [
+    "zsh"
+  ],
+  "makedepends": [],
+  "receive": 199505911,
+  "transmit": 247416,
+  "disk": 272564
+}
