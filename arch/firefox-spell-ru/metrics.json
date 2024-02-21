@@ -1,0 +1,11 @@
+{
+  "name": "firefox-spell-ru",
+  "version": "0.4.5.1-1",
+  "depends": [
+    "firefox"
+  ],
+  "makedepends": [],
+  "receive": 199521074,
+  "transmit": 284847,
+  "disk": 622406
+}
