@@ -1,0 +1,14 @@
+{
+  "name": "up",
+  "version": "0.4-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199630475,
+  "transmit": 332826,
+  "disk": 1399531
+}
