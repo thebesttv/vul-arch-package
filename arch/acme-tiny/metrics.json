@@ -1,0 +1,12 @@
+{
+  "name": "acme-tiny",
+  "version": "5.0.1-1",
+  "depends": [
+    "python",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199650607,
+  "transmit": 369518,
+  "disk": 191006
+}
