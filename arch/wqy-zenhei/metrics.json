@@ -1,0 +1,11 @@
+{
+  "name": "wqy-zenhei",
+  "version": "0.9.45-9",
+  "depends": [
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199549358,
+  "transmit": 303867,
+  "disk": 26290599
+}
