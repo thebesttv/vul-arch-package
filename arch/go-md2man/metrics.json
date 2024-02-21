@@ -1,0 +1,11 @@
+{
+  "name": "go-md2man",
+  "version": "2.0.3-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199591189,
+  "transmit": 315826,
+  "disk": 485652
+}
