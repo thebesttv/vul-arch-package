@@ -1,0 +1,15 @@
+{
+  "name": "perl-data-optlist",
+  "version": "0.114-2",
+  "depends": [
+    "perl-params-util",
+    "perl-scalar-list-utils",
+    "perl-sub-install"
+  ],
+  "makedepends": [
+    "perl-extutils-makemaker"
+  ],
+  "receive": 199557515,
+  "transmit": 297328,
+  "disk": 228843
+}
