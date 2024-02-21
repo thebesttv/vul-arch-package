@@ -1,0 +1,12 @@
+{
+  "name": "mailgraph",
+  "version": "1.14-6",
+  "depends": [
+    "rrdtool",
+    "perl-file-tail"
+  ],
+  "makedepends": [],
+  "receive": 199535938,
+  "transmit": 297456,
+  "disk": 181417
+}
