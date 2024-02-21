@@ -1,0 +1,34 @@
+{
+  "name": "musescore",
+  "version": "4.2.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libasound.so",
+    "libfreetype.so",
+    "libsndfile.so",
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-graphicaleffects",
+    "qt5-networkauth",
+    "qt5-quickcontrols",
+    "qt5-quickcontrols2",
+    "qt5-svg",
+    "qt5-x11extras",
+    "qt5-xmlpatterns",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "git",
+    "lame",
+    "ninja",
+    "python",
+    "qt5-tools"
+  ],
+  "receive": 1378916057,
+  "transmit": 2124624,
+  "disk": 1693048985
+}
