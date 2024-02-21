@@ -1,0 +1,13 @@
+{
+  "name": "flawfinder",
+  "version": "2.0.19-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199621651,
+  "transmit": 372502,
+  "disk": 997757
+}
