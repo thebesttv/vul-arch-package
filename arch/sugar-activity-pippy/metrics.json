@@ -1,0 +1,14 @@
+{
+  "name": "sugar-activity-pippy",
+  "version": "75-3",
+  "depends": [
+    "python-pybox2d",
+    "python-pygame",
+    "sugar",
+    "vte3"
+  ],
+  "makedepends": [],
+  "receive": 199514300,
+  "transmit": 240765,
+  "disk": 1331450
+}
