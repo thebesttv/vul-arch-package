@@ -1,0 +1,16 @@
+{
+  "name": "python-future",
+  "version": "0.18.3-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199697734,
+  "transmit": 425813,
+  "disk": 4250605
+}
