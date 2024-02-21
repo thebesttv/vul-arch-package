@@ -1,0 +1,16 @@
+{
+  "name": "python-handy-archives",
+  "version": "0.2.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 200421382,
+  "transmit": 803557,
+  "disk": 3651294
+}
