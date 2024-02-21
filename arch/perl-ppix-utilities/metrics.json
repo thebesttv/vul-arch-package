@@ -1,0 +1,16 @@
+{
+  "name": "perl-ppix-utilities",
+  "version": "1.001000-6",
+  "depends": [
+    "perl-exception-class",
+    "perl-ppi",
+    "perl-readonly",
+    "perl-task-weaken"
+  ],
+  "makedepends": [
+    "perl-test-deep"
+  ],
+  "receive": 199637072,
+  "transmit": 398086,
+  "disk": 242721
+}
