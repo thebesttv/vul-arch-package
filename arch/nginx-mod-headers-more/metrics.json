@@ -1,0 +1,13 @@
+{
+  "name": "nginx-mod-headers-more",
+  "version": "0.37-1",
+  "depends": [
+    "nginx"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199525320,
+  "transmit": 280933,
+  "disk": 323417
+}
