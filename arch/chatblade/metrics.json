@@ -1,0 +1,33 @@
+{
+  "name": "chatblade",
+  "version": "0.3.4-3",
+  "depends": [
+    "python",
+    "python-setuptools",
+    "python-aiohttp",
+    "python-aiosignal",
+    "python-async-timeout",
+    "python-attrs",
+    "python-certifi",
+    "python-charset-normalizer",
+    "python-frozenlist",
+    "python-idna",
+    "python-markdown-it-py",
+    "python-mdurl",
+    "python-multidict",
+    "python-openai",
+    "python-pygments",
+    "python-yaml",
+    "python-regex",
+    "python-requests",
+    "python-rich",
+    "python-tiktoken",
+    "python-tqdm",
+    "python-urllib3",
+    "python-yarl"
+  ],
+  "makedepends": [],
+  "receive": 199504801,
+  "transmit": 251064,
+  "disk": 3868229
+}
