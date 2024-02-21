@@ -1,0 +1,16 @@
+{
+  "name": "xorg-fonts-75dpi",
+  "version": "1.0.4-1",
+  "depends": [
+    "xorg-fonts-alias-75dpi"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorg-mkfontscale",
+    "xorg-bdftopcf",
+    "xorg-font-util"
+  ],
+  "receive": 201410007,
+  "transmit": 338600,
+  "disk": 23888003
+}
