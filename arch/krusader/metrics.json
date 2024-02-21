@@ -1,0 +1,40 @@
+{
+  "name": "krusader",
+  "version": "2.8.0-2",
+  "depends": [
+    "acl",
+    "gcc-libs",
+    "glibc",
+    "karchive5",
+    "kbookmarks5",
+    "kcodecs5",
+    "kcompletion5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kguiaddons5",
+    "ki18n5",
+    "kiconthemes5",
+    "kio5",
+    "kitemviews5",
+    "kjobwidgets5",
+    "knotifications5",
+    "kparts5",
+    "kservice5",
+    "ktextwidgets5",
+    "kwallet5",
+    "kwidgetsaddons5",
+    "kwindowsystem5",
+    "kxmlgui5",
+    "qt5-base",
+    "solid5",
+    "zlib"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199534357,
+  "transmit": 255540,
+  "disk": 26365696
+}
