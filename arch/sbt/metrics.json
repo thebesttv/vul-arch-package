@@ -1,0 +1,16 @@
+{
+  "name": "sbt",
+  "version": "1:1.9.8-1",
+  "depends": [
+    "java-runtime-headless",
+    "sh"
+  ],
+  "makedepends": [
+    "sbt",
+    "git",
+    "jdk8-openjdk"
+  ],
+  "receive": 223434498,
+  "transmit": 494386,
+  "disk": 54643060
+}
