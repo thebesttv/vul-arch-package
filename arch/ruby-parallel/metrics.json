@@ -1,0 +1,11 @@
+{
+  "name": "ruby-parallel",
+  "version": "1.22.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199591160,
+  "transmit": 366926,
+  "disk": 219538
+}
