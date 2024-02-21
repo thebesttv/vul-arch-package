@@ -1,0 +1,22 @@
+{
+  "name": "libextractor",
+  "version": "1.13-1",
+  "depends": [
+    "libltdl"
+  ],
+  "makedepends": [
+    "exiv2",
+    "file",
+    "flac",
+    "gst-plugins-base-libs",
+    "libgsf",
+    "libmpeg2",
+    "libvorbis",
+    "poppler",
+    "libsmf",
+    "giflib"
+  ],
+  "receive": 199541637,
+  "transmit": 307078,
+  "disk": 22526623
+}
