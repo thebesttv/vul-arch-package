@@ -1,0 +1,17 @@
+{
+  "name": "libtool",
+  "version": "2.4.7+4+g1ec8fa28-7",
+  "depends": [
+    "sh",
+    "tar",
+    "glibc"
+  ],
+  "makedepends": [
+    "gcc>=13.2.1",
+    "git",
+    "help2man"
+  ],
+  "receive": 287208629,
+  "transmit": 753921,
+  "disk": 149609368
+}
