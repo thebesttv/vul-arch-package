@@ -1,0 +1,15 @@
+{
+  "name": "qgo",
+  "version": "2.1.1-1",
+  "depends": [
+    "libsm",
+    "qt5-multimedia"
+  ],
+  "makedepends": [
+    "git",
+    "qt5-tools"
+  ],
+  "receive": 199573721,
+  "transmit": 295852,
+  "disk": 17350527
+}
