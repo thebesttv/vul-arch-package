@@ -1,0 +1,18 @@
+{
+  "name": "arianna",
+  "version": "23.08.5-1",
+  "depends": [
+    "kirigami-addons5",
+    "qqc2-desktop-style5",
+    "baloo5",
+    "qt5-webengine",
+    "qt5-websockets",
+    "kquickcharts5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199499864,
+  "transmit": 245626,
+  "disk": 3258360
+}
