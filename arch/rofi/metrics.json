@@ -1,0 +1,19 @@
+{
+  "name": "rofi",
+  "version": "1.7.5-2",
+  "depends": [
+    "libxdg-basedir",
+    "startup-notification",
+    "libxkbcommon-x11",
+    "xcb-util-wm",
+    "xcb-util-xrm",
+    "librsvg",
+    "xcb-util-cursor"
+  ],
+  "makedepends": [
+    "check"
+  ],
+  "receive": 199591062,
+  "transmit": 351684,
+  "disk": 4729926
+}
