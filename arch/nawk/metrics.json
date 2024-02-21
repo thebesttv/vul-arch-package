@@ -1,0 +1,13 @@
+{
+  "name": "nawk",
+  "version": "20231228-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199622850,
+  "transmit": 353316,
+  "disk": 12326693
+}
