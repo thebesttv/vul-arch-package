@@ -1,0 +1,13 @@
+{
+  "name": "python-pytddmon",
+  "version": "1.0.8-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199613816,
+  "transmit": 389613,
+  "disk": 286973
+}
