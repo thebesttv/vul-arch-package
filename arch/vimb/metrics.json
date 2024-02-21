@@ -1,0 +1,13 @@
+{
+  "name": "vimb",
+  "version": "3.7.0-1",
+  "depends": [
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199662388,
+  "transmit": 377833,
+  "disk": 5222297
+}
