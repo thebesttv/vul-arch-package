@@ -1,0 +1,21 @@
+{
+  "name": "haskell-fsnotify0.3",
+  "version": "0.3.0.1-58",
+  "depends": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-hinotify",
+    "haskell-shelly",
+    "haskell-unix-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-random",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-temporary"
+  ],
+  "receive": 199599112,
+  "transmit": 379521,
+  "disk": 304220
+}
