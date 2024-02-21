@@ -1,0 +1,11 @@
+{
+  "name": "vim-syntastic",
+  "version": "3.10.0-3",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199538637,
+  "transmit": 281486,
+  "disk": 1961793
+}
