@@ -1,0 +1,12 @@
+{
+  "name": "lib32-popt",
+  "version": "1.19-1",
+  "depends": [
+    "lib32-glibc",
+    "popt"
+  ],
+  "makedepends": [],
+  "receive": 199725571,
+  "transmit": 463592,
+  "disk": 3003605
+}
