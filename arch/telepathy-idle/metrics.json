@@ -1,0 +1,17 @@
+{
+  "name": "telepathy-idle",
+  "version": "0.2.2-2",
+  "depends": [
+    "dbus-glib",
+    "glib2",
+    "glibc",
+    "telepathy-glib"
+  ],
+  "makedepends": [
+    "libxslt",
+    "python"
+  ],
+  "receive": 199514232,
+  "transmit": 239497,
+  "disk": 3215820
+}
