@@ -1,0 +1,13 @@
+{
+  "name": "slowhttptest",
+  "version": "1.9.0-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 201430586,
+  "transmit": 1570846,
+  "disk": 767172
+}
