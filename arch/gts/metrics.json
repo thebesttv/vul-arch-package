@@ -1,0 +1,12 @@
+{
+  "name": "gts",
+  "version": "0.7.6.121130-2",
+  "depends": [
+    "glib2",
+    "netpbm"
+  ],
+  "makedepends": [],
+  "receive": 199529851,
+  "transmit": 271340,
+  "disk": 4385912
+}
