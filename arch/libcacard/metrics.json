@@ -1,0 +1,14 @@
+{
+  "name": "libcacard",
+  "version": "2.7.0-3",
+  "depends": [
+    "glib2",
+    "glibc",
+    "nspr",
+    "nss"
+  ],
+  "makedepends": [],
+  "receive": 200091182,
+  "transmit": 436166,
+  "disk": 2850358
+}
