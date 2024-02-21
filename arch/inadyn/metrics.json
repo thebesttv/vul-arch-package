@@ -1,0 +1,13 @@
+{
+  "name": "inadyn",
+  "version": "2.12.0-1",
+  "depends": [
+    "ca-certificates",
+    "confuse",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199631095,
+  "transmit": 403362,
+  "disk": 2688535
+}
