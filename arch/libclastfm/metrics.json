@@ -1,0 +1,11 @@
+{
+  "name": "libclastfm",
+  "version": "0.5-8",
+  "depends": [
+    "curl"
+  ],
+  "makedepends": [],
+  "receive": 199614176,
+  "transmit": 371274,
+  "disk": 1864057
+}
