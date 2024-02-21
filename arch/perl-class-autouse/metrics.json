@@ -1,0 +1,11 @@
+{
+  "name": "perl-class-autouse",
+  "version": "2.01-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199655045,
+  "transmit": 396829,
+  "disk": 383738
+}
