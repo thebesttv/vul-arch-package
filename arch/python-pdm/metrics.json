@@ -1,0 +1,36 @@
+{
+  "name": "python-pdm",
+  "version": "2.12.3-1",
+  "depends": [
+    "python",
+    "python-blinker",
+    "python-cachecontrol",
+    "python-certifi",
+    "python-dep-logic",
+    "python-dotenv",
+    "python-findpython",
+    "python-installer",
+    "python-lockfile",
+    "python-packaging",
+    "python-pdm-backend",
+    "python-platformdirs",
+    "python-pyproject-hooks",
+    "python-requests",
+    "python-requests-toolbelt",
+    "python-resolvelib",
+    "python-rich",
+    "python-shellingham",
+    "python-tomlkit",
+    "python-truststore",
+    "python-unearth",
+    "python-urllib3",
+    "python-virtualenv"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-wheel"
+  ],
+  "receive": 199928297,
+  "transmit": 571972,
+  "disk": 7574936
+}
