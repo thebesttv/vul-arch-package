@@ -1,0 +1,17 @@
+{
+  "name": "ruby-stomp",
+  "version": "1.4.10-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rspec",
+    "ruby-bundler",
+    "ruby-rdoc",
+    "ruby-test-unit"
+  ],
+  "receive": 199811535,
+  "transmit": 610483,
+  "disk": 737955
+}
