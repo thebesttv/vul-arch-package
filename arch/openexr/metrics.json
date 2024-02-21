@@ -1,0 +1,16 @@
+{
+  "name": "openexr",
+  "version": "3.2.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "imath",
+    "libdeflate"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199582374,
+  "transmit": 351020,
+  "disk": 53627027
+}
