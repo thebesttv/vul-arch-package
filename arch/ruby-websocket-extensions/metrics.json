@@ -1,0 +1,11 @@
+{
+  "name": "ruby-websocket-extensions",
+  "version": "0.1.5-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199526409,
+  "transmit": 278388,
+  "disk": 161685
+}
