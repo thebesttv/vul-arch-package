@@ -1,0 +1,11 @@
+{
+  "name": "ruby-mustache",
+  "version": "1.1.1-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199513230,
+  "transmit": 252508,
+  "disk": 134353
+}
