@@ -1,0 +1,16 @@
+{
+  "name": "lua-language-server",
+  "version": "3.7.4-1",
+  "depends": [
+    "bash",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "ninja",
+    "rsync"
+  ],
+  "receive": 311552046,
+  "transmit": 621147,
+  "disk": 200142525
+}
