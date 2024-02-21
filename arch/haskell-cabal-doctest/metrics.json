@@ -1,0 +1,13 @@
+{
+  "name": "haskell-cabal-doctest",
+  "version": "1.0.9-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199651991,
+  "transmit": 379086,
+  "disk": 163138
+}
