@@ -1,0 +1,18 @@
+{
+  "name": "qmc2",
+  "version": "0.243-4",
+  "depends": [
+    "qt5-webengine",
+    "qt5-svg",
+    "qt5-multimedia",
+    "qt5-xmlpatterns",
+    "sdl2",
+    "minizip-ng"
+  ],
+  "makedepends": [
+    "rsync"
+  ],
+  "receive": 214658254,
+  "transmit": 518233,
+  "disk": 64606314
+}
