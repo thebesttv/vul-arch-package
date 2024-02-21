@@ -1,0 +1,33 @@
+{
+  "name": "gnome-applets",
+  "version": "3.50.0-2",
+  "depends": [
+    "at-spi2-core",
+    "cairo",
+    "cpupower",
+    "dconf",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gnome-panel",
+    "gsettings-desktop-schemas",
+    "gtk3",
+    "hicolor-icon-theme",
+    "libgtop",
+    "libgweather-4",
+    "libnotify",
+    "libwnck3",
+    "libx11",
+    "libxml2",
+    "pango",
+    "polkit",
+    "tracker3",
+    "upower"
+  ],
+  "makedepends": [
+    "itstool"
+  ],
+  "receive": 199577470,
+  "transmit": 333476,
+  "disk": 54532423
+}
