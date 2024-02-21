@@ -1,0 +1,14 @@
+{
+  "name": "libcss",
+  "version": "0.9.2-1",
+  "depends": [
+    "libparserutils>=0.2.5",
+    "libwapcaplet>=0.4.3"
+  ],
+  "makedepends": [
+    "netsurf-buildsystem"
+  ],
+  "receive": 199662173,
+  "transmit": 404971,
+  "disk": 4302880
+}
