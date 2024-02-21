@@ -1,0 +1,11 @@
+{
+  "name": "perl-common-sense",
+  "version": "3.75-5",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199560852,
+  "transmit": 287935,
+  "disk": 160457
+}
