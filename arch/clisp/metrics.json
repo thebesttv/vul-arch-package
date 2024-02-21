@@ -1,0 +1,17 @@
+{
+  "name": "clisp",
+  "version": "2.49.93-7",
+  "depends": [
+    "readline",
+    "libsigsegv",
+    "ffcall",
+    "libxcrypt",
+    "libunistring"
+  ],
+  "makedepends": [
+    "mercurial"
+  ],
+  "receive": 254322364,
+  "transmit": 439169,
+  "disk": 149780764
+}
