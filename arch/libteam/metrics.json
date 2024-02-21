@@ -1,0 +1,20 @@
+{
+  "name": "libteam",
+  "version": "1.32-1",
+  "depends": [
+    "bash",
+    "jansson",
+    "libdaemon",
+    "libdbus",
+    "libnl",
+    "zeromq"
+  ],
+  "makedepends": [
+    "doxygen",
+    "git",
+    "graphviz"
+  ],
+  "receive": 199595564,
+  "transmit": 351820,
+  "disk": 21077223
+}
