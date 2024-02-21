@@ -1,0 +1,16 @@
+{
+  "name": "libsm",
+  "version": "1.2.4-1",
+  "depends": [
+    "libice",
+    "util-linux-libs"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xtrans",
+    "xorgproto"
+  ],
+  "receive": 199634260,
+  "transmit": 383573,
+  "disk": 2507267
+}
