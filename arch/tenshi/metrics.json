@@ -1,0 +1,12 @@
+{
+  "name": "tenshi",
+  "version": "0.17-2",
+  "depends": [
+    "perl",
+    "perl-io-bufferedselect"
+  ],
+  "makedepends": [],
+  "receive": 199767412,
+  "transmit": 431370,
+  "disk": 212624
+}
