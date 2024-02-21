@@ -1,0 +1,13 @@
+{
+  "name": "xorg-twm",
+  "version": "1.0.12-1",
+  "depends": [
+    "libxmu"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199576970,
+  "transmit": 296821,
+  "disk": 2001072
+}
