@@ -1,0 +1,31 @@
+{
+  "name": "deepin-screen-recorder",
+  "version": "5.12.15-1",
+  "depends": [
+    "deepin-qt5integration",
+    "deepin-qt-dbus-factory",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "qt5-x11extras",
+    "qt5-multimedia",
+    "deepin-turbo",
+    "ffmpeg",
+    "libxtst",
+    "opencv",
+    "dconf",
+    "libxext",
+    "libx11",
+    "libxfixes",
+    "portaudio",
+    "deepin-image-editor",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "deepin-dock"
+  ],
+  "receive": 199500566,
+  "transmit": 268712,
+  "disk": 51695588
+}
