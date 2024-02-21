@@ -1,0 +1,14 @@
+{
+  "name": "cmt",
+  "version": "1.18-3",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "ladspa"
+  ],
+  "receive": 199591260,
+  "transmit": 343091,
+  "disk": 530307
+}
