@@ -1,0 +1,20 @@
+{
+  "name": "aeolus",
+  "version": "0.10.4-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libx11"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "clthreads",
+    "clxclient",
+    "jack",
+    "readline",
+    "zita-alsa-pcmi"
+  ],
+  "receive": 200218018,
+  "transmit": 761266,
+  "disk": 1219347
+}
