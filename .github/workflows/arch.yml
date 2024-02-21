@@ -102,7 +102,7 @@ jobs:
         with:
           entrypoint: /usr/bin/bash
           args: docker/go.sh
-      - name: Show metrics
+      - name: Save container metrics
         run: |
           if ! command -v jq &> /dev/null
           then
@@ -111,12 +111,8 @@ jobs:
               sudo apt-get install -y jq >dev/null
           fi
 
-          for ((i=1; i<=5; i++)); do
           sleep 10
-          curl -s 'http://localhost:9090/api/v1/query?query=container_network_receive_bytes_total%7Bimage%3D%22archlinux%3Alatest%22%7D' | \
-              jq 'if (.data.result | length) != 1 then error("Length is not 1!") else (.data.result[0].value[1] | tonumber) end'
-          done
-
+          ./metrics/get-metrics > arch/$TBT_PACKAGE_NAME/metrics.json
       - name: Set commit message
         id: commit_message_step
         if: success() || failure()
