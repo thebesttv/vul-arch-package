@@ -1,0 +1,14 @@
+{
+  "name": "brook",
+  "version": "20221010-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199697914,
+  "transmit": 398281,
+  "disk": 1125616
+}
