@@ -1,0 +1,14 @@
+{
+  "name": "gnome-shell-extension-gtile",
+  "version": "56-1",
+  "depends": [
+    "gnome-shell"
+  ],
+  "makedepends": [
+    "npm",
+    "typescript"
+  ],
+  "receive": 199600945,
+  "transmit": 360302,
+  "disk": 652112
+}
