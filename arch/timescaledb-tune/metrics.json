@@ -1,0 +1,15 @@
+{
+  "name": "timescaledb-tune",
+  "version": "0.15.0-1",
+  "depends": [
+    "glibc",
+    "postgresql"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199762041,
+  "transmit": 470361,
+  "disk": 1004045
+}
