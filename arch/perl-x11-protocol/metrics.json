@@ -1,0 +1,11 @@
+{
+  "name": "perl-x11-protocol",
+  "version": "0.56-14",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200157933,
+  "transmit": 901228,
+  "disk": 617813
+}
