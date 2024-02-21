@@ -1,0 +1,14 @@
+{
+  "name": "cmark-gfm",
+  "version": "0.29.0.gfm.13-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "python"
+  ],
+  "receive": 199562466,
+  "transmit": 257959,
+  "disk": 2011808
+}
