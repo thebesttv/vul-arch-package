@@ -1,0 +1,13 @@
+{
+  "name": "python-virtualenv-clone",
+  "version": "0.5.7-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199641994,
+  "transmit": 361226,
+  "disk": 140178
+}
