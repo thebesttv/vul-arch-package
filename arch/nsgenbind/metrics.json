@@ -1,0 +1,11 @@
+{
+  "name": "nsgenbind",
+  "version": "0.9-1",
+  "depends": [],
+  "makedepends": [
+    "netsurf-buildsystem"
+  ],
+  "receive": 199683281,
+  "transmit": 431910,
+  "disk": 839914
+}
