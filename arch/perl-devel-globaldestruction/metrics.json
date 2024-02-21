@@ -1,0 +1,13 @@
+{
+  "name": "perl-devel-globaldestruction",
+  "version": "0.14-9",
+  "depends": [
+    "perl",
+    "perl-sub-exporter",
+    "perl-sub-exporter-progressive"
+  ],
+  "makedepends": [],
+  "receive": 199808136,
+  "transmit": 353818,
+  "disk": 161893
+}
