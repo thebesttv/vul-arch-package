@@ -1,0 +1,15 @@
+{
+  "name": "xboard",
+  "version": "4.9.1-3",
+  "depends": [
+    "texinfo",
+    "xdg-utils",
+    "gtk2",
+    "cairo",
+    "librsvg"
+  ],
+  "makedepends": [],
+  "receive": 199920605,
+  "transmit": 428502,
+  "disk": 16922987
+}
