@@ -1,0 +1,21 @@
+{
+  "name": "hexter",
+  "version": "1.1.1-2",
+  "depends": [
+    "cairo",
+    "dssi-host",
+    "glibc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "dssi",
+    "glib2",
+    "gtk2",
+    "ladspa",
+    "liblo",
+    "pango"
+  ],
+  "receive": 199701792,
+  "transmit": 413910,
+  "disk": 1918514
+}
