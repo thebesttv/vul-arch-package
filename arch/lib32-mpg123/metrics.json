@@ -1,0 +1,16 @@
+{
+  "name": "lib32-mpg123",
+  "version": "1.32.5-1",
+  "depends": [
+    "lib32-alsa-lib",
+    "mpg123"
+  ],
+  "makedepends": [
+    "lib32-sdl2",
+    "lib32-jack2",
+    "lib32-libpulse"
+  ],
+  "receive": 199832093,
+  "transmit": 419147,
+  "disk": 6801731
+}
