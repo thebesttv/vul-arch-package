@@ -1,0 +1,17 @@
+{
+  "name": "mercurial",
+  "version": "6.6.3-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-docutils"
+  ],
+  "receive": 200164131,
+  "transmit": 571361,
+  "disk": 44713392
+}
