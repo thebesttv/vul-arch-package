@@ -1,0 +1,19 @@
+{
+  "name": "arch-install-scripts",
+  "version": "28-1",
+  "depends": [
+    "awk",
+    "bash",
+    "coreutils",
+    "grep",
+    "pacman",
+    "util-linux"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "git"
+  ],
+  "receive": 199667324,
+  "transmit": 393752,
+  "disk": 668100
+}
