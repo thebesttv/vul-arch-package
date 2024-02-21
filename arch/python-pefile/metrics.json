@@ -1,0 +1,16 @@
+{
+  "name": "python-pefile",
+  "version": "2023.2.7-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 212761141,
+  "transmit": 385367,
+  "disk": 129078941
+}
