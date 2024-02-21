@@ -1,0 +1,16 @@
+{
+  "name": "xsane",
+  "version": "0.999-6",
+  "depends": [],
+  "makedepends": [
+    "gtk2",
+    "lcms2",
+    "sane",
+    "zlib",
+    "libjpeg",
+    "gimp"
+  ],
+  "receive": 199822880,
+  "transmit": 479120,
+  "disk": 3110406
+}
