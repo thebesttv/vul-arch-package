@@ -1,0 +1,42 @@
+{
+  "name": "jami-daemon",
+  "version": "20231123-1",
+  "depends": [
+    "glibc",
+    "opendht",
+    "gnutls",
+    "nettle",
+    "libgit2",
+    "libsecp256k1",
+    "libsecp256k1.so",
+    "ffmpeg",
+    "speexdsp",
+    "fmt",
+    "yaml-cpp",
+    "jsoncpp",
+    "zlib",
+    "alsa-lib",
+    "libpulse",
+    "jack",
+    "libupnp",
+    "libnatpmp",
+    "openssl",
+    "webrtc-audio-processing",
+    "systemd-libs",
+    "libarchive"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "perl",
+    "asio",
+    "msgpack-c",
+    "msgpack-cxx",
+    "restinio",
+    "systemd",
+    "meson"
+  ],
+  "receive": 307139332,
+  "transmit": 1415487,
+  "disk": 121974850
+}
