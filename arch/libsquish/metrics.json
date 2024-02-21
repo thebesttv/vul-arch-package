@@ -1,0 +1,13 @@
+{
+  "name": "libsquish",
+  "version": "1.15-7",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "setconf"
+  ],
+  "receive": 199715520,
+  "transmit": 479857,
+  "disk": 487105
+}
