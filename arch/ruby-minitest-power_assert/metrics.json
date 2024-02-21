@@ -1,0 +1,17 @@
+{
+  "name": "ruby-minitest-power_assert",
+  "version": "0.3.1-1",
+  "depends": [
+    "ruby",
+    "ruby-minitest",
+    "ruby-power_assert"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-bundler"
+  ],
+  "receive": 199846927,
+  "transmit": 474687,
+  "disk": 118293
+}
