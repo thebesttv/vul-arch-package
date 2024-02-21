@@ -1,0 +1,11 @@
+{
+  "name": "sugar-activity-calculate",
+  "version": "47-3",
+  "depends": [
+    "sugar-toolkit-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199622797,
+  "transmit": 395529,
+  "disk": 1981748
+}
