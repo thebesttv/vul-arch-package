@@ -1,0 +1,11 @@
+{
+  "name": "wxsqlite3",
+  "version": "4.9.8-1",
+  "depends": [
+    "wxwidgets-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 205084457,
+  "transmit": 374594,
+  "disk": 30203759
+}
