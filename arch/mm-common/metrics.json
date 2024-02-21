@@ -1,0 +1,19 @@
+{
+  "name": "mm-common",
+  "version": "1.0.6-1",
+  "depends": [
+    "doxygen",
+    "graphviz",
+    "gtk-doc",
+    "libsigc++-docs",
+    "perl-xml-parser"
+  ],
+  "makedepends": [
+    "git",
+    "libsigc++",
+    "meson"
+  ],
+  "receive": 199998531,
+  "transmit": 362939,
+  "disk": 4899584
+}
