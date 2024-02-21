@@ -1,0 +1,14 @@
+{
+  "name": "vamp-aubio-plugins",
+  "version": "0.5.1-5",
+  "depends": [
+    "aubio",
+    "vamp-plugin-sdk"
+  ],
+  "makedepends": [
+    "waf"
+  ],
+  "receive": 199699100,
+  "transmit": 392036,
+  "disk": 1054618
+}
