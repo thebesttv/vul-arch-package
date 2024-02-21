@@ -1,0 +1,16 @@
+{
+  "name": "ruby-elftools",
+  "version": "1.2.0-1",
+  "depends": [
+    "ruby",
+    "ruby-bindata"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199606898,
+  "transmit": 297654,
+  "disk": 3008731
+}
