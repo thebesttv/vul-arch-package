@@ -1,0 +1,14 @@
+{
+  "name": "ruby-introspection",
+  "version": "0.0.4-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-minitest",
+    "ruby-metaclass"
+  ],
+  "receive": 200809388,
+  "transmit": 998730,
+  "disk": 137868
+}
