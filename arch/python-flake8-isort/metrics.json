@@ -1,0 +1,19 @@
+{
+  "name": "python-flake8-isort",
+  "version": "6.0.0-2",
+  "depends": [
+    "python",
+    "flake8",
+    "python-isort",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199660003,
+  "transmit": 409864,
+  "disk": 724880
+}
