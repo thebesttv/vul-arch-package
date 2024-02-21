@@ -1,0 +1,12 @@
+{
+  "name": "cowfortune",
+  "version": "0.1.2-7",
+  "depends": [
+    "cowsay",
+    "fortune-mod"
+  ],
+  "makedepends": [],
+  "receive": 199555832,
+  "transmit": 281068,
+  "disk": 107578
+}
