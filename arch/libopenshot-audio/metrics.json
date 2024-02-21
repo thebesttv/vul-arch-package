@@ -1,0 +1,17 @@
+{
+  "name": "libopenshot-audio",
+  "version": "0.3.2-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "doxygen",
+    "freetype2",
+    "libx11",
+    "python",
+    "zlib"
+  ],
+  "receive": 199623875,
+  "transmit": 377494,
+  "disk": 12065054
+}
