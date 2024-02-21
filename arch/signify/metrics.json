@@ -1,0 +1,12 @@
+{
+  "name": "signify",
+  "version": "31-3",
+  "depends": [
+    "glibc",
+    "libbsd>=0.8"
+  ],
+  "makedepends": [],
+  "receive": 199674202,
+  "transmit": 356400,
+  "disk": 655321
+}
