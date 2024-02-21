@@ -1,0 +1,11 @@
+{
+  "name": "mandoc",
+  "version": "1.14.6-2",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199688913,
+  "transmit": 416718,
+  "disk": 4210639
+}
