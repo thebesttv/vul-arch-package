@@ -1,0 +1,14 @@
+{
+  "name": "rt-tests",
+  "version": "2.6-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "numactl",
+    "python"
+  ],
+  "receive": 199610758,
+  "transmit": 384036,
+  "disk": 906195
+}
