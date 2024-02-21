@@ -1,0 +1,26 @@
+{
+  "name": "discover",
+  "version": "5.27.10.1-1",
+  "depends": [
+    "knewstuff5",
+    "kidletime5",
+    "qt5-graphicaleffects",
+    "appstream-qt5",
+    "archlinux-appstream-data",
+    "kirigami2",
+    "discount",
+    "kuserfeedback5",
+    "purpose5",
+    "qt5-webview"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "plasma-framework5",
+    "packagekit-qt5",
+    "flatpak",
+    "fwupd"
+  ],
+  "receive": 199789822,
+  "transmit": 316741,
+  "disk": 11281743
+}
