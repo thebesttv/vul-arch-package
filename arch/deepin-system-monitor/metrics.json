@@ -1,0 +1,33 @@
+{
+  "name": "deepin-system-monitor",
+  "version": "6.0.12-1",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "dwayland",
+    "qt5-base",
+    "qt5-svg",
+    "gsettings-qt",
+    "icu",
+    "dconf",
+    "libxcb",
+    "xcb-util-wm",
+    "gcc-libs",
+    "libnl",
+    "libcap",
+    "libpcap",
+    "startdde"
+  ],
+  "makedepends": [
+    "cmake",
+    "deepin-gettext-tools",
+    "gtest",
+    "ninja",
+    "qt5-tools",
+    "deepin-dock"
+  ],
+  "receive": 199909290,
+  "transmit": 499945,
+  "disk": 42245770
+}
