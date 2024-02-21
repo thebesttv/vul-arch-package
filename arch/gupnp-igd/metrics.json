@@ -1,0 +1,16 @@
+{
+  "name": "gupnp-igd",
+  "version": "1.6.0-1",
+  "depends": [
+    "gupnp"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson"
+  ],
+  "receive": 199650708,
+  "transmit": 392929,
+  "disk": 670878
+}
