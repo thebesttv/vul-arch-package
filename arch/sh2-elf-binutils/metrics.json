@@ -1,0 +1,11 @@
+{
+  "name": "sh2-elf-binutils",
+  "version": "2.39-1",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 237073598,
+  "transmit": 717299,
+  "disk": 312991000
+}
