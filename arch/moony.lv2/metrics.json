@@ -1,0 +1,21 @@
+{
+  "name": "moony.lv2",
+  "version": "0.40.0-2",
+  "depends": [
+    "glibc",
+    "libglvnd",
+    "libx11",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "glew",
+    "glu",
+    "libvterm",
+    "lv2",
+    "meson",
+    "sord"
+  ],
+  "receive": 199646398,
+  "transmit": 403755,
+  "disk": 24281095
+}
