@@ -1,0 +1,13 @@
+{
+  "name": "desync",
+  "version": "0.9.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199665523,
+  "transmit": 396336,
+  "disk": 23658221
+}
