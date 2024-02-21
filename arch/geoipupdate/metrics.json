@@ -1,0 +1,14 @@
+{
+  "name": "geoipupdate",
+  "version": "6.1.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "pandoc"
+  ],
+  "receive": 199583237,
+  "transmit": 328039,
+  "disk": 381240
+}
