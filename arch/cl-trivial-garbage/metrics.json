@@ -1,0 +1,14 @@
+{
+  "name": "cl-trivial-garbage",
+  "version": "0.21.r8.gb3af9c0-2",
+  "depends": [
+    "common-lisp",
+    "cl-asdf"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199931659,
+  "transmit": 661829,
+  "disk": 379924
+}
