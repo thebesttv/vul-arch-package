@@ -1,0 +1,19 @@
+{
+  "name": "haskell-data-serializer",
+  "version": "0.3.5-196",
+  "depends": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-data-endian",
+    "haskell-parsers",
+    "haskell-split"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199783634,
+  "transmit": 297610,
+  "disk": 500292
+}
