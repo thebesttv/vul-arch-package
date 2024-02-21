@@ -1,0 +1,15 @@
+{
+  "name": "ruby-kramdown",
+  "version": "2.3.1-2",
+  "depends": [
+    "ruby",
+    "ruby-rexml"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake"
+  ],
+  "receive": 199547480,
+  "transmit": 267781,
+  "disk": 1628018
+}
