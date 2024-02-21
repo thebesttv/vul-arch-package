@@ -1,0 +1,24 @@
+{
+  "name": "osm2pgsql",
+  "version": "1.10.0-5",
+  "depends": [
+    "boost-libs",
+    "expat",
+    "geos",
+    "proj",
+    "postgresql-libs",
+    "zlib",
+    "python",
+    "python-psycopg",
+    "python-osmium",
+    "lua"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "nlohmann-json"
+  ],
+  "receive": 200864618,
+  "transmit": 1307105,
+  "disk": 9817345
+}
