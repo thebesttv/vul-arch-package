@@ -1,0 +1,13 @@
+{
+  "name": "perl-extutils-config",
+  "version": "0.008-9",
+  "depends": [
+    "perl-data-dumper"
+  ],
+  "makedepends": [
+    "perl"
+  ],
+  "receive": 199716786,
+  "transmit": 456385,
+  "disk": 149630
+}
