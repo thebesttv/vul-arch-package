@@ -1,0 +1,15 @@
+{
+  "name": "ossp",
+  "version": "1.3.2+11+g9e94d67-3",
+  "depends": [
+    "fuse2>=2.8.0"
+  ],
+  "makedepends": [
+    "libpulse",
+    "alsa-lib",
+    "git"
+  ],
+  "receive": 199524981,
+  "transmit": 286309,
+  "disk": 526420
+}
