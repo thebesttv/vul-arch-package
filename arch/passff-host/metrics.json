@@ -1,0 +1,12 @@
+{
+  "name": "passff-host",
+  "version": "1:1.2.4-1",
+  "depends": [
+    "pass",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 200014628,
+  "transmit": 765503,
+  "disk": 162370
+}
