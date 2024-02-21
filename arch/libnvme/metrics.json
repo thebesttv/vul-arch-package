@@ -1,0 +1,20 @@
+{
+  "name": "libnvme",
+  "version": "1.8-1",
+  "depends": [
+    "json-c",
+    "openssl",
+    "keyutils",
+    "dbus"
+  ],
+  "makedepends": [
+    "systemd",
+    "meson",
+    "asciidoc",
+    "python",
+    "swig"
+  ],
+  "receive": 199536988,
+  "transmit": 254122,
+  "disk": 3849009
+}
