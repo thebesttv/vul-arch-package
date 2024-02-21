@@ -1,0 +1,16 @@
+{
+  "name": "griffith",
+  "version": "0.19-1",
+  "depends": [
+    "gtkspell3",
+    "python-chardet",
+    "python-gobject",
+    "python-pillow",
+    "python-reportlab",
+    "python-sqlalchemy"
+  ],
+  "makedepends": [],
+  "receive": 199542880,
+  "transmit": 268968,
+  "disk": 8393987
+}
