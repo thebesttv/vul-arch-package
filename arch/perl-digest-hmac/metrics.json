@@ -1,0 +1,12 @@
+{
+  "name": "perl-digest-hmac",
+  "version": "1.04-4",
+  "depends": [
+    "perl-digest-sha1",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199649274,
+  "transmit": 378574,
+  "disk": 170665
+}
