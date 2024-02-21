@@ -1,0 +1,13 @@
+{
+  "name": "libgooglepinyin",
+  "version": "0.1.2-5",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199537635,
+  "transmit": 269731,
+  "disk": 9049198
+}
