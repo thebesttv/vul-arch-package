@@ -1,0 +1,15 @@
+{
+  "name": "libliftoff",
+  "version": "0.4.1-1",
+  "depends": [
+    "glibc",
+    "libdrm"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199914255,
+  "transmit": 532346,
+  "disk": 959581
+}
