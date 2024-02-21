@@ -1,0 +1,11 @@
+{
+  "name": "libparserutils",
+  "version": "0.2.5-1",
+  "depends": [],
+  "makedepends": [
+    "netsurf-buildsystem"
+  ],
+  "receive": 199871078,
+  "transmit": 643038,
+  "disk": 716440
+}
