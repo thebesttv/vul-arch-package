@@ -1,0 +1,42 @@
+{
+  "name": "tenacity",
+  "version": "1.3.3-4",
+  "depends": [
+    "flac",
+    "gtk3",
+    "jack",
+    "libebml",
+    "libid3tag",
+    "libmad",
+    "libmatroska",
+    "libsoxr",
+    "lilv",
+    "lv2",
+    "portaudio",
+    "portmidi",
+    "portsmf",
+    "soundtouch",
+    "suil",
+    "twolame",
+    "vamp-plugin-sdk",
+    "wxwidgets-common",
+    "wxwidgets-gtk3"
+  ],
+  "makedepends": [
+    "chrpath",
+    "clang",
+    "cmake",
+    "ffmpeg",
+    "git",
+    "gst-plugins-bad-libs",
+    "gstreamer",
+    "libnotify",
+    "libsoup",
+    "nasm",
+    "python",
+    "sdl2"
+  ],
+  "receive": 496704429,
+  "transmit": 2024917,
+  "disk": 396376762
+}
