@@ -1,0 +1,23 @@
+{
+  "name": "dexed",
+  "version": "0.9.6.r90.g9e01c0c-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "curl",
+    "freetype2",
+    "gendesk",
+    "git",
+    "jack",
+    "libpng",
+    "libx11",
+    "libxrandr",
+    "libxinerama",
+    "libxcursor",
+    "webkit2gtk"
+  ],
+  "receive": 833835197,
+  "transmit": 972425,
+  "disk": 891853304
+}
