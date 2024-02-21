@@ -1,0 +1,12 @@
+{
+  "name": "firefox-extension-passff",
+  "version": "1.16.0-1",
+  "depends": [
+    "firefox",
+    "passff-host"
+  ],
+  "makedepends": [],
+  "receive": 199575419,
+  "transmit": 353223,
+  "disk": 168073
+}
