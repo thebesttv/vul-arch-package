@@ -1,0 +1,12 @@
+{
+  "name": "cdrtools",
+  "version": "3.02a09-5",
+  "depends": [
+    "acl",
+    "libcap"
+  ],
+  "makedepends": [],
+  "receive": 201920142,
+  "transmit": 431103,
+  "disk": 14250386
+}
