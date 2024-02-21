@@ -1,0 +1,11 @@
+{
+  "name": "mate-icon-theme-faenza",
+  "version": "1.20.0-2",
+  "depends": [],
+  "makedepends": [
+    "mate-common"
+  ],
+  "receive": 219196865,
+  "transmit": 471069,
+  "disk": 100906737
+}
