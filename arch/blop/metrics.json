@@ -1,0 +1,13 @@
+{
+  "name": "blop",
+  "version": "0.2.8-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "ladspa"
+  ],
+  "receive": 199647433,
+  "transmit": 416470,
+  "disk": 1548229
+}
