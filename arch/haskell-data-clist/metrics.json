@@ -1,0 +1,14 @@
+{
+  "name": "haskell-data-clist",
+  "version": "0.2-65",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199640642,
+  "transmit": 390385,
+  "disk": 307495
+}
