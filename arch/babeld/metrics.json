@@ -1,0 +1,11 @@
+{
+  "name": "babeld",
+  "version": "1.12.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199743013,
+  "transmit": 434443,
+  "disk": 7260498
+}
