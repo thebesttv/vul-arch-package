@@ -1,0 +1,15 @@
+{
+  "name": "python-flask-nav",
+  "version": "0.6-7",
+  "depends": [
+    "python-flask",
+    "python-visitor",
+    "python-dominate"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199594569,
+  "transmit": 368782,
+  "disk": 164018
+}
