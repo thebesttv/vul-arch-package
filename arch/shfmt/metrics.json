@@ -1,0 +1,15 @@
+{
+  "name": "shfmt",
+  "version": "3.7.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "scdoc"
+  ],
+  "receive": 201127356,
+  "transmit": 1148134,
+  "disk": 1307721
+}
