@@ -1,0 +1,11 @@
+{
+  "name": "perl-timedate",
+  "version": "2.33-5",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199876338,
+  "transmit": 559688,
+  "disk": 259268
+}
