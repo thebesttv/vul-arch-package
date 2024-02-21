@@ -1,0 +1,16 @@
+{
+  "name": "ruby-webmock",
+  "version": "3.19.1-1",
+  "depends": [
+    "ruby",
+    "ruby-crack",
+    "ruby-hashdiff",
+    "ruby-addressable"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199639874,
+  "transmit": 382926,
+  "disk": 1006260
+}
