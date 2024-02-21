@@ -1,0 +1,19 @@
+{
+  "name": "afl",
+  "version": "2.57b-13",
+  "depends": [
+    "glibc",
+    "bash"
+  ],
+  "makedepends": [
+    "clang14",
+    "llvm14",
+    "gcc",
+    "wget",
+    "python",
+    "lib32-glibc"
+  ],
+  "receive": 199650021,
+  "transmit": 338819,
+  "disk": 2692422
+}
