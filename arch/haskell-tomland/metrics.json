@@ -1,0 +1,23 @@
+{
+  "name": "haskell-tomland",
+  "version": "1.3.3.2-64",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-megaparsec",
+    "haskell-parser-combinators",
+    "haskell-unordered-containers",
+    "haskell-validation-selective"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hedgehog",
+    "haskell-hspec",
+    "haskell-hspec-hedgehog",
+    "haskell-hspec-megaparsec"
+  ],
+  "receive": 199671892,
+  "transmit": 370301,
+  "disk": 858430
+}
