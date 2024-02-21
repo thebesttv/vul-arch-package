@@ -1,0 +1,32 @@
+{
+  "name": "wlroots0.16",
+  "version": "0.16.2-2",
+  "depends": [
+    "libglvnd",
+    "libinput",
+    "libpixman-1.so",
+    "libseat.so",
+    "libudev.so",
+    "libvulkan.so",
+    "libwayland-client.so",
+    "libwayland-server.so",
+    "libxcb",
+    "libxkbcommon.so",
+    "opengl-driver",
+    "xcb-util-errors",
+    "xcb-util-renderutil",
+    "xcb-util-wm"
+  ],
+  "makedepends": [
+    "glslang",
+    "meson",
+    "ninja",
+    "systemd",
+    "vulkan-headers",
+    "wayland-protocols",
+    "xorg-xwayland"
+  ],
+  "receive": 200574741,
+  "transmit": 610427,
+  "disk": 3832380
+}
