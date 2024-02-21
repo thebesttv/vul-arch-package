@@ -1,0 +1,12 @@
+{
+  "name": "figlet",
+  "version": "2.2.5-5",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199622308,
+  "transmit": 387090,
+  "disk": 1513312
+}
