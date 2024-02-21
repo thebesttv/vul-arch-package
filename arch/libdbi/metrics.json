@@ -1,0 +1,11 @@
+{
+  "name": "libdbi",
+  "version": "0.9.0-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199551499,
+  "transmit": 288755,
+  "disk": 5118505
+}
