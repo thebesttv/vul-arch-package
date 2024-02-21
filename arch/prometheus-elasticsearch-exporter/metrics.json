@@ -1,0 +1,14 @@
+{
+  "name": "prometheus-elasticsearch-exporter",
+  "version": "1.7.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199639990,
+  "transmit": 391026,
+  "disk": 1071468
+}
