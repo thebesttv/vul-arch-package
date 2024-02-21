@@ -1,0 +1,16 @@
+{
+  "name": "exempi",
+  "version": "2.6.5-1",
+  "depends": [
+    "expat",
+    "gcc-libs",
+    "glibc",
+    "zlib"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 202170326,
+  "transmit": 557568,
+  "disk": 14148929
+}
