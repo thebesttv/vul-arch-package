@@ -1,0 +1,17 @@
+{
+  "name": "python-pyqt6-sip",
+  "version": "13.6.0-1",
+  "depends": [
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199658234,
+  "transmit": 390002,
+  "disk": 743734
+}
