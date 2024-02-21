@@ -1,0 +1,22 @@
+{
+  "name": "gqrx",
+  "version": "2.17.4-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libvolk",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "gnuradio",
+    "gnuradio-osmosdr",
+    "libpulse"
+  ],
+  "receive": 199577169,
+  "transmit": 243699,
+  "disk": 9367458
+}
