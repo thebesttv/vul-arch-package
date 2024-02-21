@@ -1,0 +1,15 @@
+{
+  "name": "lua-stdlib",
+  "version": "41.2.2-8",
+  "depends": [],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 199533733,
+  "transmit": 270260,
+  "disk": 2280068
+}
