@@ -1,0 +1,18 @@
+{
+  "name": "certbot-dns-dnsimple",
+  "version": "2.8.0-1",
+  "depends": [
+    "certbot=2.8.0",
+    "python-acme=2.8.0",
+    "dns-lexicon"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-wheel",
+    "python-installer"
+  ],
+  "receive": 291576330,
+  "transmit": 497065,
+  "disk": 101868312
+}
