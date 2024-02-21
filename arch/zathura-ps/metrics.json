@@ -1,0 +1,16 @@
+{
+  "name": "zathura-ps",
+  "version": "0.2.7-4",
+  "depends": [
+    "libspectre",
+    "zathura",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja"
+  ],
+  "receive": 199625625,
+  "transmit": 406851,
+  "disk": 133068
+}
