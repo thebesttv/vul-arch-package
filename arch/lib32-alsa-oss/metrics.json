@@ -1,0 +1,14 @@
+{
+  "name": "lib32-alsa-oss",
+  "version": "1.1.8-4",
+  "depends": [
+    "alsa-oss=1.1.8",
+    "lib32-glibc"
+  ],
+  "makedepends": [
+    "lib32-alsa-lib"
+  ],
+  "receive": 199618569,
+  "transmit": 361999,
+  "disk": 1947801
+}
