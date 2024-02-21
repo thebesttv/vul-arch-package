@@ -1,0 +1,11 @@
+{
+  "name": "perl-sub-name",
+  "version": "0.27-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199780966,
+  "transmit": 400276,
+  "disk": 257756
+}
