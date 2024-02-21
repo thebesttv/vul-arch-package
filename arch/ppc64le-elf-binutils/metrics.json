@@ -1,0 +1,11 @@
+{
+  "name": "ppc64le-elf-binutils",
+  "version": "2.39-1",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 236932753,
+  "transmit": 646133,
+  "disk": 312999223
+}
