@@ -1,0 +1,16 @@
+{
+  "name": "lib32-sdl_image",
+  "version": "1.2.12-8",
+  "depends": [
+    "lib32-sdl>=1.2.13",
+    "lib32-libpng",
+    "lib32-libjpeg-turbo",
+    "lib32-libtiff",
+    "lib32-zlib",
+    "sdl_image"
+  ],
+  "makedepends": [],
+  "receive": 199525059,
+  "transmit": 254532,
+  "disk": 8666521
+}
