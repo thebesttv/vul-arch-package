@@ -1,0 +1,11 @@
+{
+  "name": "ruby-ipaddr",
+  "version": "1.2.4-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199515243,
+  "transmit": 279412,
+  "disk": 215341
+}
