@@ -1,0 +1,16 @@
+{
+  "name": "plasma-nm",
+  "version": "5.27.10-1",
+  "depends": [
+    "plasma-workspace",
+    "modemmanager-qt5",
+    "networkmanager-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "openconnect"
+  ],
+  "receive": 199682470,
+  "transmit": 302265,
+  "disk": 18758123
+}
