@@ -1,0 +1,29 @@
+{
+  "name": "colord",
+  "version": "1.4.7-2",
+  "depends": [
+    "dbus",
+    "dconf",
+    "lcms2",
+    "libgudev",
+    "libgusb",
+    "polkit",
+    "shared-mime-info",
+    "sqlite",
+    "systemd"
+  ],
+  "makedepends": [
+    "argyllcms",
+    "bash-completion",
+    "docbook-xsl",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "sane",
+    "vala"
+  ],
+  "receive": 199615547,
+  "transmit": 291930,
+  "disk": 21175033
+}
