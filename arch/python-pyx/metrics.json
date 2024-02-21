@@ -1,0 +1,14 @@
+{
+  "name": "python-pyx",
+  "version": "0.16-3",
+  "depends": [
+    "python",
+    "texlive-latex"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199494946,
+  "transmit": 260542,
+  "disk": 4821371
+}
