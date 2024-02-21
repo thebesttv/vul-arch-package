@@ -1,0 +1,19 @@
+{
+  "name": "python-mailmanclient",
+  "version": "3.3.5-3",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-typing-extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 201345613,
+  "transmit": 364765,
+  "disk": 2994810
+}
