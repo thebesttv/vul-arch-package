@@ -1,0 +1,18 @@
+{
+  "name": "perlbrew",
+  "version": "0.98-1",
+  "depends": [
+    "perl",
+    "perl-capture-tiny",
+    "perl-cpan-perl-releases",
+    "perl-devel-patchperl",
+    "perl-file-path-tiny",
+    "perl-local-lib"
+  ],
+  "makedepends": [
+    "perl-module-build-tiny"
+  ],
+  "receive": 200784949,
+  "transmit": 1020776,
+  "disk": 631839
+}
