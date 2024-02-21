@@ -1,0 +1,12 @@
+{
+  "name": "scrypt",
+  "version": "1.3.2-1",
+  "depends": [
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199619979,
+  "transmit": 378360,
+  "disk": 2386249
+}
