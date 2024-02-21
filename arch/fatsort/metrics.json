@@ -1,0 +1,13 @@
+{
+  "name": "fatsort",
+  "version": "1.6.5.640-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "help2man"
+  ],
+  "receive": 199598369,
+  "transmit": 299130,
+  "disk": 1877933
+}
