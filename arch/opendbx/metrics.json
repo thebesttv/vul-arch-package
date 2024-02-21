@@ -1,0 +1,18 @@
+{
+  "name": "opendbx",
+  "version": "1.4.6-12",
+  "depends": [
+    "libfbclient",
+    "mariadb-libs",
+    "postgresql-libs",
+    "sqlite",
+    "freetds"
+  ],
+  "makedepends": [
+    "doxygen",
+    "docbook2x"
+  ],
+  "receive": 200907069,
+  "transmit": 795106,
+  "disk": 3611051
+}
