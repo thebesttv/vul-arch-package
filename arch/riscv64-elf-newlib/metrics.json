@@ -1,0 +1,11 @@
+{
+  "name": "riscv64-elf-newlib",
+  "version": "4.1.0-3",
+  "depends": [],
+  "makedepends": [
+    "riscv64-elf-gcc"
+  ],
+  "receive": 218545259,
+  "transmit": 488290,
+  "disk": 105576784
+}
