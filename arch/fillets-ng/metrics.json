@@ -1,0 +1,21 @@
+{
+  "name": "fillets-ng",
+  "version": "1.0.1-11",
+  "depends": [
+    "fillets-ng-data",
+    "lua51",
+    "fribidi",
+    "gcc-libs",
+    "libx11",
+    "sdl_mixer",
+    "sdl_ttf",
+    "sdl_image",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "gendesk"
+  ],
+  "receive": 199552184,
+  "transmit": 280091,
+  "disk": 2160565
+}
