@@ -1,0 +1,20 @@
+{
+  "name": "accerciser",
+  "version": "3.42.0-1",
+  "depends": [
+    "gtk3",
+    "ipython",
+    "libwnck3",
+    "python",
+    "python-atspi",
+    "python-cairo"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "yelp-tools"
+  ],
+  "receive": 199579420,
+  "transmit": 267512,
+  "disk": 14790915
+}
