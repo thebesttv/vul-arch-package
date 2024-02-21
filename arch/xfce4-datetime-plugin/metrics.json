@@ -1,0 +1,13 @@
+{
+  "name": "xfce4-datetime-plugin",
+  "version": "0.8.3-1",
+  "depends": [
+    "xfce4-panel"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199551706,
+  "transmit": 269813,
+  "disk": 2168643
+}
