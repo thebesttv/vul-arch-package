@@ -1,0 +1,17 @@
+{
+  "name": "networkmanager-l2tp",
+  "version": "1.20.10-1",
+  "depends": [
+    "ppp=2.5.0",
+    "xl2tpd"
+  ],
+  "makedepends": [
+    "intltool",
+    "libnma",
+    "libnma-gtk4",
+    "python"
+  ],
+  "receive": 199683641,
+  "transmit": 441249,
+  "disk": 3007439
+}
