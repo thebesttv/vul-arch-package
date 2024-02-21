@@ -1,0 +1,32 @@
+{
+  "name": "curl",
+  "version": "8.6.0-3",
+  "depends": [
+    "ca-certificates",
+    "brotli",
+    "libbrotlidec.so",
+    "krb5",
+    "libgssapi_krb5.so",
+    "libidn2",
+    "libidn2.so",
+    "libnghttp2",
+    "libnghttp2.so",
+    "libnghttp3",
+    "libnghttp3.so",
+    "libpsl",
+    "libpsl.so",
+    "libssh2",
+    "libssh2.so",
+    "zlib",
+    "libz.so",
+    "zstd",
+    "libzstd.so"
+  ],
+  "makedepends": [
+    "git",
+    "patchelf"
+  ],
+  "receive": 358420805,
+  "transmit": 634941,
+  "disk": 183090516
+}
