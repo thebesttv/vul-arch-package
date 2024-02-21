@@ -1,0 +1,14 @@
+{
+  "name": "ruby-multipart-post",
+  "version": "2.3.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rspec",
+    "ruby-covered"
+  ],
+  "receive": 200084617,
+  "transmit": 719196,
+  "disk": 216536
+}
