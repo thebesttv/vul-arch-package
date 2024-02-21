@@ -1,0 +1,16 @@
+{
+  "name": "zix",
+  "version": "0.4.2-2",
+  "depends": [],
+  "makedepends": [
+    "doxygen",
+    "glibc",
+    "meson",
+    "python-sphinx",
+    "python-sphinx-lv2-theme",
+    "python-sphinxygen"
+  ],
+  "receive": 199581741,
+  "transmit": 301809,
+  "disk": 673477
+}
