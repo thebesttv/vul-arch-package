@@ -1,0 +1,13 @@
+{
+  "name": "perl-test-script",
+  "version": "1.29-4",
+  "depends": [
+    "perl-capture-tiny",
+    "perl-probe-perl",
+    "perl-test2-suite"
+  ],
+  "makedepends": [],
+  "receive": 199508709,
+  "transmit": 252837,
+  "disk": 249467
+}
