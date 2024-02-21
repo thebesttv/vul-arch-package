@@ -1,0 +1,17 @@
+{
+  "name": "libfm",
+  "version": "1.3.2-1",
+  "depends": [
+    "gtk2",
+    "gtk3",
+    "libexif",
+    "menu-cache"
+  ],
+  "makedepends": [
+    "intltool",
+    "gtk-doc"
+  ],
+  "receive": 199738121,
+  "transmit": 424043,
+  "disk": 9631747
+}
