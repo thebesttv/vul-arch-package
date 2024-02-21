@@ -1,0 +1,15 @@
+{
+  "name": "libmatekbd",
+  "version": "1.26.0-1",
+  "depends": [
+    "gtk3",
+    "gettext",
+    "libxklavier"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199641529,
+  "transmit": 387183,
+  "disk": 5169208
+}
