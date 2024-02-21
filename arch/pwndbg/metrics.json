@@ -1,0 +1,32 @@
+{
+  "name": "pwndbg",
+  "version": "2024.02.14-2",
+  "depends": [
+    "debuginfod",
+    "gdb",
+    "python",
+    "python-capstone",
+    "python-psutil",
+    "python-pt",
+    "python-ptrace",
+    "python-pwntools",
+    "python-pycparser",
+    "python-pyelftools",
+    "python-pygments",
+    "python-requests",
+    "python-setuptools",
+    "python-tabulate",
+    "python-typing_extensions",
+    "python-unicorn",
+    "which"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 208696757,
+  "transmit": 501538,
+  "disk": 30375883
+}
