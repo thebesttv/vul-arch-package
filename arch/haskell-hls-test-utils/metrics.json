@@ -1,0 +1,33 @@
+{
+  "name": "haskell-hls-test-utils",
+  "version": "1.5.0.0-146",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-async",
+    "haskell-blaze-markup",
+    "haskell-data-default",
+    "haskell-extra",
+    "haskell-ghcide",
+    "haskell-hls-graph",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-lsp-test",
+    "haskell-lsp-types",
+    "haskell-tasty",
+    "haskell-tasty-expected-failure",
+    "haskell-tasty-golden",
+    "haskell-tasty-hunit",
+    "haskell-tasty-rerun",
+    "haskell-temporary",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199571712,
+  "transmit": 357120,
+  "disk": 710032
+}
