@@ -1,0 +1,14 @@
+{
+  "name": "task",
+  "version": "2.6.2-2",
+  "depends": [
+    "util-linux",
+    "gnutls"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199700203,
+  "transmit": 408694,
+  "disk": 3870968
+}
