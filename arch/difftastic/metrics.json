@@ -1,0 +1,17 @@
+{
+  "name": "difftastic",
+  "version": "0.55.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "shared-mime-info"
+  ],
+  "makedepends": [
+    "cargo",
+    "git",
+    "mdbook"
+  ],
+  "receive": 1980280213,
+  "transmit": 14639788,
+  "disk": 2647422374
+}
