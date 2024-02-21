@@ -1,0 +1,12 @@
+{
+  "name": "xsensors",
+  "version": "0.80-3",
+  "depends": [
+    "gtk3",
+    "lm_sensors"
+  ],
+  "makedepends": [],
+  "receive": 199707470,
+  "transmit": 403297,
+  "disk": 924425
+}
