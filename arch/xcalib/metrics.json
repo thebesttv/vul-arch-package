@@ -1,0 +1,14 @@
+{
+  "name": "xcalib",
+  "version": "0.10-4",
+  "depends": [
+    "libxxf86vm",
+    "libxrandr"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199542522,
+  "transmit": 284151,
+  "disk": 715088
+}
