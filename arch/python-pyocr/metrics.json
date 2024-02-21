@@ -1,0 +1,15 @@
+{
+  "name": "python-pyocr",
+  "version": "0.8.3-2",
+  "depends": [
+    "python-pillow",
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm"
+  ],
+  "receive": 199669910,
+  "transmit": 375859,
+  "disk": 3376421
+}
