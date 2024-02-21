@@ -1,0 +1,16 @@
+{
+  "name": "reflector",
+  "version": "2023-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199626620,
+  "transmit": 411022,
+  "disk": 243999
+}
