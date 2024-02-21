@@ -1,0 +1,19 @@
+{
+  "name": "kreport",
+  "version": "3.2.0-4",
+  "depends": [
+    "kproperty",
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "python",
+    "qt5-tools",
+    "marble-common",
+    "doxygen",
+    "qt5-doc"
+  ],
+  "receive": 199999222,
+  "transmit": 372920,
+  "disk": 4691212
+}
