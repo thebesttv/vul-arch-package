@@ -1,0 +1,35 @@
+{
+  "name": "carla",
+  "version": "2.5.8-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libx11",
+    "python",
+    "python-pyqt5",
+    "python-pyliblo",
+    "python-rdflib",
+    "qt5-base",
+    "qt5-svg",
+    "sdl2",
+    "sh"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "file",
+    "fluidsynth",
+    "freetype2",
+    "git",
+    "libglvnd",
+    "liblo",
+    "libpulse",
+    "libsndfile",
+    "python-requests",
+    "python-tornado",
+    "qt5-tools"
+  ],
+  "receive": 300994600,
+  "transmit": 416252,
+  "disk": 158851788
+}
