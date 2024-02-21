@@ -1,0 +1,14 @@
+{
+  "name": "kseexpr",
+  "version": "4.0.4.0-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools"
+  ],
+  "receive": 199532862,
+  "transmit": 268992,
+  "disk": 4304165
+}
