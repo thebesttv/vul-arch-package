@@ -1,0 +1,20 @@
+{
+  "name": "java-atk-wrapper",
+  "version": "0.40.0-2",
+  "depends": [],
+  "makedepends": [
+    "gobject-introspection",
+    "gnome-common",
+    "gtk2",
+    "gtk3",
+    "xorg-xprop",
+    "at-spi2-atk",
+    "java-environment=8",
+    "java-environment=11",
+    "java-environment=17",
+    "java-environment=19"
+  ],
+  "receive": 199732269,
+  "transmit": 426323,
+  "disk": 675135
+}
