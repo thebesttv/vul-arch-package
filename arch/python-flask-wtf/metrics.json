@@ -1,0 +1,22 @@
+{
+  "name": "python-flask-wtf",
+  "version": "1.2.1-1",
+  "depends": [
+    "python-flask",
+    "python-wtforms",
+    "python-werkzeug",
+    "python-flask-babel"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-sphinx",
+    "python-pallets-sphinx-themes",
+    "python-sphinxcontrib-log-cabinet",
+    "python-sphinx-issues",
+    "python-hatchling"
+  ],
+  "receive": 199492625,
+  "transmit": 246567,
+  "disk": 349944
+}
