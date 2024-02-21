@@ -1,0 +1,13 @@
+{
+  "name": "debootstrap",
+  "version": "1.0.134-1",
+  "depends": [
+    "perl",
+    "wget",
+    "binutils"
+  ],
+  "makedepends": [],
+  "receive": 199585246,
+  "transmit": 305352,
+  "disk": 616577
+}
