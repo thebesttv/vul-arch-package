@@ -1,0 +1,26 @@
+{
+  "name": "dtk6core",
+  "version": "6.0.4-3",
+  "depends": [
+    "deepin-desktop-base",
+    "dtkcommon",
+    "gcc-libs",
+    "glibc",
+    "icu",
+    "libsystemd",
+    "lshw",
+    "qt6-base",
+    "uchardet",
+    "spdlog"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-tools",
+    "gtest",
+    "doxygen"
+  ],
+  "receive": 199515753,
+  "transmit": 248320,
+  "disk": 4337066
+}
