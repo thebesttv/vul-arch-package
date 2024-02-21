@@ -1,0 +1,27 @@
+{
+  "name": "vbam",
+  "version": "2.1.9-1",
+  "depends": [
+    "glu",
+    "libsfml-network.so",
+    "libsfml-system.so",
+    "libgl",
+    "libpng",
+    "sdl2",
+    "sfml",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "doctest",
+    "ffmpeg",
+    "git",
+    "libglvnd",
+    "ninja",
+    "wxwidgets-gtk3",
+    "zip"
+  ],
+  "receive": 262654759,
+  "transmit": 390371,
+  "disk": 76010295
+}
