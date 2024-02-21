@@ -1,0 +1,17 @@
+{
+  "name": "lib32-libxtst",
+  "version": "1.2.4-1",
+  "depends": [
+    "lib32-libxext",
+    "lib32-libxi",
+    "lib32-libxfixes",
+    "libxtst"
+  ],
+  "makedepends": [
+    "gcc-multilib",
+    "xorg-util-macros"
+  ],
+  "receive": 199594120,
+  "transmit": 333752,
+  "disk": 2336971
+}
