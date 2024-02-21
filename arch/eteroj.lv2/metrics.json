@@ -1,0 +1,16 @@
+{
+  "name": "eteroj.lv2",
+  "version": "0.10.0-2",
+  "depends": [
+    "glibc",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "lv2",
+    "meson",
+    "sord"
+  ],
+  "receive": 199644182,
+  "transmit": 380643,
+  "disk": 652306
+}
