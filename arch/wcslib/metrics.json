@@ -1,0 +1,14 @@
+{
+  "name": "wcslib",
+  "version": "8.2.2-1",
+  "depends": [
+    "cfitsio",
+    "glibc"
+  ],
+  "makedepends": [
+    "gcc-fortran"
+  ],
+  "receive": 199636595,
+  "transmit": 271027,
+  "disk": 19105103
+}
