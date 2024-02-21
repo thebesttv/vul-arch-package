@@ -1,0 +1,24 @@
+{
+  "name": "fltk",
+  "version": "1.3.9-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "doxygen",
+    "fontconfig",
+    "libglvnd",
+    "libjpeg-turbo",
+    "libpng",
+    "libx11",
+    "libxcursor",
+    "libxfixes",
+    "libxft",
+    "libxinerama",
+    "libxrender",
+    "mesa"
+  ],
+  "receive": 199779320,
+  "transmit": 485089,
+  "disk": 26462215
+}
