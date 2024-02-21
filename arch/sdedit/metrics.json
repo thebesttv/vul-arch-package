@@ -1,0 +1,12 @@
+{
+  "name": "sdedit",
+  "version": "4.2.1-1",
+  "depends": [
+    "java-runtime",
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199507259,
+  "transmit": 265075,
+  "disk": 5577156
+}
