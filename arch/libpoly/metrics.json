@@ -1,0 +1,15 @@
+{
+  "name": "libpoly",
+  "version": "0.1.12-1",
+  "depends": [
+    "gmp"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 199600245,
+  "transmit": 362040,
+  "disk": 3125101
+}
