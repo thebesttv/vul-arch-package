@@ -1,0 +1,12 @@
+{
+  "name": "vim-easymotion",
+  "version": "3.0.1-6",
+  "depends": [
+    "vim-plugin-runtime",
+    "vim-vital"
+  ],
+  "makedepends": [],
+  "receive": 199572481,
+  "transmit": 296596,
+  "disk": 1615152
+}
