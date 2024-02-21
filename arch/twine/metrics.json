@@ -1,0 +1,25 @@
+{
+  "name": "twine",
+  "version": "4.0.2-4",
+  "depends": [
+    "python-pkginfo",
+    "python-readme-renderer",
+    "python-requests",
+    "python-requests-toolbelt",
+    "python-urllib3",
+    "python-importlib-metadata",
+    "python-keyring",
+    "python-rfc3986",
+    "python-rich"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199541471,
+  "transmit": 299888,
+  "disk": 3481380
+}
