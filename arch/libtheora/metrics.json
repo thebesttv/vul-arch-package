@@ -1,0 +1,16 @@
+{
+  "name": "libtheora",
+  "version": "1.1.1-6",
+  "depends": [
+    "glibc",
+    "libogg"
+  ],
+  "makedepends": [
+    "libpng",
+    "libvorbis",
+    "sdl"
+  ],
+  "receive": 199636645,
+  "transmit": 388912,
+  "disk": 8092371
+}
