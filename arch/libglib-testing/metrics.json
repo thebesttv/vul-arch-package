@@ -1,0 +1,16 @@
+{
+  "name": "libglib-testing",
+  "version": "0.1.1-1",
+  "depends": [
+    "glib2",
+    "dbus"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "gtk-doc"
+  ],
+  "receive": 199654740,
+  "transmit": 425190,
+  "disk": 476912
+}
