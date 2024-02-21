@@ -1,0 +1,11 @@
+{
+  "name": "xorg-fonts-alias",
+  "version": "1.0.5-1",
+  "depends": [],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199665201,
+  "transmit": 396717,
+  "disk": 725404
+}
