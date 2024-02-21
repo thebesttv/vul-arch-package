@@ -1,0 +1,21 @@
+{
+  "name": "cjdns",
+  "version": "22-1",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "nodejs",
+    "python",
+    "libseccomp",
+    "util-linux",
+    "which",
+    "audit",
+    "rust",
+    "linux-headers"
+  ],
+  "receive": 202806441,
+  "transmit": 863123,
+  "disk": 14910108
+}
