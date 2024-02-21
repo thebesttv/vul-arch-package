@@ -1,0 +1,14 @@
+{
+  "name": "dagger",
+  "version": "0.9.7-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 290477425,
+  "transmit": 477567,
+  "disk": 121192927
+}
