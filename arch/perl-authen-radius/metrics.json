@@ -1,0 +1,12 @@
+{
+  "name": "perl-authen-radius",
+  "version": "0.32-2",
+  "depends": [
+    "perl-data-hexdump>=0.02",
+    "perl-net-ip"
+  ],
+  "makedepends": [],
+  "receive": 199640953,
+  "transmit": 334232,
+  "disk": 371629
+}
