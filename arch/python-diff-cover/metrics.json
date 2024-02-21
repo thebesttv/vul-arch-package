@@ -1,0 +1,20 @@
+{
+  "name": "python-diff-cover",
+  "version": "8.0.3-1",
+  "depends": [
+    "python",
+    "python-chardet",
+    "python-jinja",
+    "python-pluggy",
+    "python-pygments"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 199648983,
+  "transmit": 417404,
+  "disk": 802301
+}
