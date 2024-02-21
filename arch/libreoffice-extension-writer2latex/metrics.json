@@ -1,0 +1,12 @@
+{
+  "name": "libreoffice-extension-writer2latex",
+  "version": "1.6.1-2",
+  "depends": [
+    "libreoffice",
+    "java-runtime-headless"
+  ],
+  "makedepends": [],
+  "receive": 199691851,
+  "transmit": 419675,
+  "disk": 4704850
+}
