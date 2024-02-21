@@ -1,0 +1,17 @@
+{
+  "name": "pamixer",
+  "version": "1.6-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libpulse"
+  ],
+  "makedepends": [
+    "cxxopts",
+    "meson",
+    "ninja"
+  ],
+  "receive": 199682301,
+  "transmit": 380534,
+  "disk": 192559
+}
