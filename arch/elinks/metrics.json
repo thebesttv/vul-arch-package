@@ -1,0 +1,33 @@
+{
+  "name": "elinks",
+  "version": "0.17.0-1",
+  "depends": [
+    "glibc",
+    "brotli",
+    "bzip2",
+    "gpm",
+    "openssl",
+    "lua",
+    "libdom",
+    "libcss",
+    "libidn2",
+    "xz",
+    "libwapcaplet",
+    "expat",
+    "zlib",
+    "curl",
+    "tre"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "dblatex",
+    "xmlto",
+    "libiconv",
+    "gc",
+    "cmake"
+  ],
+  "receive": 224222601,
+  "transmit": 328881,
+  "disk": 43772525
+}
