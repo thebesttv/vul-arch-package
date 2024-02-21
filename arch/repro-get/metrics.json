@@ -1,0 +1,11 @@
+{
+  "name": "repro-get",
+  "version": "0.4.1-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199536548,
+  "transmit": 239934,
+  "disk": 531818
+}
