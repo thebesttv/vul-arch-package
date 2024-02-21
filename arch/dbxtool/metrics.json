@@ -1,0 +1,14 @@
+{
+  "name": "dbxtool",
+  "version": "8-1",
+  "depends": [
+    "efivar",
+    "popt"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199516230,
+  "transmit": 245634,
+  "disk": 553926
+}
