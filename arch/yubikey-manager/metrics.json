@@ -1,0 +1,23 @@
+{
+  "name": "yubikey-manager",
+  "version": "1:5.3.0-1",
+  "depends": [
+    "python",
+    "python-click",
+    "python-cryptography",
+    "python-pyopenssl",
+    "python-pyscard",
+    "python-fido2",
+    "ccid",
+    "yubikey-personalization",
+    "python-keyring"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199674014,
+  "transmit": 426096,
+  "disk": 1343425
+}
