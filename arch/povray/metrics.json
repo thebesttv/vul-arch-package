@@ -1,0 +1,19 @@
+{
+  "name": "povray",
+  "version": "2:3.7.0.10-11",
+  "depends": [
+    "boost-libs",
+    "imath",
+    "libpng",
+    "libtiff",
+    "openexr"
+  ],
+  "makedepends": [
+    "boost",
+    "git",
+    "glu"
+  ],
+  "receive": 253985205,
+  "transmit": 671791,
+  "disk": 174820940
+}
