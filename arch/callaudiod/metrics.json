@@ -1,0 +1,15 @@
+{
+  "name": "callaudiod",
+  "version": "0.1.9-2",
+  "depends": [
+    "alsa-lib",
+    "glib2",
+    "libpulse"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199521096,
+  "transmit": 269646,
+  "disk": 278144
+}
