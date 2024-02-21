@@ -1,0 +1,12 @@
+{
+  "name": "ruby-bake-bundler",
+  "version": "0.3.5-1",
+  "depends": [
+    "ruby-bake",
+    "ruby-rspec"
+  ],
+  "makedepends": [],
+  "receive": 199765069,
+  "transmit": 378217,
+  "disk": 143896
+}
