@@ -1,0 +1,11 @@
+{
+  "name": "perl-version-compare",
+  "version": "0.14-7",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199490225,
+  "transmit": 256676,
+  "disk": 147503
+}
