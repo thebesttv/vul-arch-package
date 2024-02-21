@@ -1,0 +1,11 @@
+{
+  "name": "faac",
+  "version": "1.30-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199673602,
+  "transmit": 405534,
+  "disk": 1251521
+}
