@@ -1,0 +1,19 @@
+{
+  "name": "yt-dlp",
+  "version": "2023.12.30-1",
+  "depends": [
+    "python",
+    "python-certifi",
+    "python-requests"
+  ],
+  "makedepends": [
+    "pandoc",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 205009724,
+  "transmit": 294327,
+  "disk": 19480955
+}
