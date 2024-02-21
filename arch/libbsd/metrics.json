@@ -1,0 +1,14 @@
+{
+  "name": "libbsd",
+  "version": "0.11.8-1",
+  "depends": [
+    "glibc",
+    "libmd"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199616779,
+  "transmit": 354790,
+  "disk": 2356902
+}
