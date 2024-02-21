@@ -1,0 +1,15 @@
+{
+  "name": "critter",
+  "version": "1.0.2-12",
+  "depends": [
+    "sdl_image",
+    "sdl_mixer",
+    "libgl"
+  ],
+  "makedepends": [
+    "mesa"
+  ],
+  "receive": 199667892,
+  "transmit": 421592,
+  "disk": 18926246
+}
