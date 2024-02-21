@@ -1,0 +1,17 @@
+{
+  "name": "deepin-desktop-schemas",
+  "version": "6.0.5-2",
+  "depends": [
+    "dconf",
+    "deepin-gtk-theme",
+    "deepin-icon-theme",
+    "deepin-sound-theme"
+  ],
+  "makedepends": [
+    "python",
+    "go"
+  ],
+  "receive": 199739270,
+  "transmit": 416168,
+  "disk": 874805
+}
