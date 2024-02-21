@@ -1,0 +1,15 @@
+{
+  "name": "elf2uf2-rs",
+  "version": "2.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libudev.so"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199626363,
+  "transmit": 386865,
+  "disk": 606714
+}
