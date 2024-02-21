@@ -1,0 +1,19 @@
+{
+  "name": "tldr",
+  "version": "3.2.0-1",
+  "depends": [
+    "python-shtab",
+    "python-colorama",
+    "python-termcolor"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-sphinx-argparse",
+    "python-wheel"
+  ],
+  "receive": 199601527,
+  "transmit": 340892,
+  "disk": 193322
+}
