@@ -1,0 +1,24 @@
+{
+  "name": "opencolorio",
+  "version": "2.3.1-2",
+  "depends": [
+    "freeglut",
+    "glew",
+    "lcms2",
+    "tinyxml",
+    "yaml-cpp",
+    "imath",
+    "pystring",
+    "minizip-ng",
+    "openexr"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "pybind11",
+    "ninja"
+  ],
+  "receive": 203957650,
+  "transmit": 369633,
+  "disk": 64215076
+}
