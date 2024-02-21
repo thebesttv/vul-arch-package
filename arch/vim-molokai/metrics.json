@@ -1,0 +1,11 @@
+{
+  "name": "vim-molokai",
+  "version": "1.1-8",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199527056,
+  "transmit": 281541,
+  "disk": 98316
+}
