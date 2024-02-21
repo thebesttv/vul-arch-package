@@ -1,0 +1,14 @@
+{
+  "name": "haskell-contravariant",
+  "version": "1.5.5-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-statevar"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199796919,
+  "transmit": 529258,
+  "disk": 221969
+}
