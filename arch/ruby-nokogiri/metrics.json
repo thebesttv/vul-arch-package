@@ -1,0 +1,13 @@
+{
+  "name": "ruby-nokogiri",
+  "version": "1.13.9-1",
+  "depends": [
+    "libxslt",
+    "ruby",
+    "ruby-mini_portile2"
+  ],
+  "makedepends": [],
+  "receive": 199737515,
+  "transmit": 398293,
+  "disk": 18541353
+}
