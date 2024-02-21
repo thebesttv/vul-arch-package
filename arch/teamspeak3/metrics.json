@@ -1,0 +1,19 @@
+{
+  "name": "teamspeak3",
+  "version": "3.6.2-1",
+  "depends": [
+    "libxslt",
+    "libxss",
+    "nss",
+    "libc++",
+    "libxkbcommon",
+    "xcb-util-keysyms",
+    "xcb-util-image",
+    "xcb-util-wm",
+    "xcb-util-renderutil"
+  ],
+  "makedepends": [],
+  "receive": 199704667,
+  "transmit": 360950,
+  "disk": 111119841
+}
