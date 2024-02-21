@@ -1,0 +1,14 @@
+{
+  "name": "perl-crypt-ssleay",
+  "version": "0.73_06-4",
+  "depends": [
+    "perl-lwp-protocol-https",
+    "perl-try-tiny",
+    "perl-path-class",
+    "perl-bytes-random-secure"
+  ],
+  "makedepends": [],
+  "receive": 199559734,
+  "transmit": 259447,
+  "disk": 651678
+}
