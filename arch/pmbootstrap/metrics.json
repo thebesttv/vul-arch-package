@@ -1,0 +1,17 @@
+{
+  "name": "pmbootstrap",
+  "version": "2.2.1-1",
+  "depends": [
+    "python",
+    "python-argcomplete"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199655574,
+  "transmit": 400272,
+  "disk": 46066234
+}
