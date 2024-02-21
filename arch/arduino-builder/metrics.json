@@ -1,0 +1,15 @@
+{
+  "name": "arduino-builder",
+  "version": "1.6.1-2",
+  "depends": [
+    "arduino-ctags"
+  ],
+  "makedepends": [
+    "go",
+    "git",
+    "unzip"
+  ],
+  "receive": 199552726,
+  "transmit": 314160,
+  "disk": 279792
+}
