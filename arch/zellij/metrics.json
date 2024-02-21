@@ -1,0 +1,17 @@
+{
+  "name": "zellij",
+  "version": "0.39.2-2",
+  "depends": [
+    "curl",
+    "libcurl.so",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo",
+    "mandown"
+  ],
+  "receive": 199850583,
+  "transmit": 541988,
+  "disk": 30767293
+}
