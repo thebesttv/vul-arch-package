@@ -1,0 +1,13 @@
+{
+  "name": "libforensic1394",
+  "version": "0.2-10",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "glibc",
+    "python"
+  ],
+  "receive": 200011402,
+  "transmit": 668056,
+  "disk": 411966
+}
