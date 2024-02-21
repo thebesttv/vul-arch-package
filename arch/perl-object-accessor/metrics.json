@@ -1,0 +1,11 @@
+{
+  "name": "perl-object-accessor",
+  "version": "0.48-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199659578,
+  "transmit": 389278,
+  "disk": 165329
+}
