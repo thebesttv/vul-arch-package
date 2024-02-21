@@ -1,0 +1,33 @@
+{
+  "name": "ukui-control-center",
+  "version": "3.0.4-10",
+  "depends": [
+    "bluez-qt5",
+    "ddcutil",
+    "kconfig5",
+    "kconfigwidgets5",
+    "ki18n5",
+    "kscreen",
+    "kwidgetsaddons5",
+    "libpwquality",
+    "lsb-release",
+    "peony",
+    "qt5-quickcontrols",
+    "ukui-interface",
+    "ukui-panel",
+    "ukui-media",
+    "ukui-menus",
+    "ukui-power-manager",
+    "ukui-screensaver",
+    "ukui-settings-daemon",
+    "upower",
+    "libcanberra"
+  ],
+  "makedepends": [
+    "boost",
+    "qt5-tools"
+  ],
+  "receive": 199675331,
+  "transmit": 441096,
+  "disk": 43130064
+}
