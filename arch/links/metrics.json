@@ -1,0 +1,26 @@
+{
+  "name": "links",
+  "version": "2.29-1",
+  "depends": [
+    "brotli",
+    "libbrotlidec.so",
+    "bzip2",
+    "libbz2.so",
+    "gpm",
+    "libgpm.so",
+    "libevent",
+    "openssl",
+    "xz",
+    "zstd",
+    "libzstd.so"
+  ],
+  "makedepends": [
+    "libtiff",
+    "libpng",
+    "libxt",
+    "librsvg"
+  ],
+  "receive": 206353879,
+  "transmit": 496450,
+  "disk": 23503458
+}
