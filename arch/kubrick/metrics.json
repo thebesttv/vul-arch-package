@@ -1,0 +1,16 @@
+{
+  "name": "kubrick",
+  "version": "23.08.5-1",
+  "depends": [
+    "libkdegames",
+    "glu",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199826007,
+  "transmit": 489843,
+  "disk": 3150113
+}
