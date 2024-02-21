@@ -1,0 +1,16 @@
+{
+  "name": "obsidian",
+  "version": "1.5.3-4",
+  "depends": [
+    "zlib",
+    "hicolor-icon-theme",
+    "fuse",
+    "electron25"
+  ],
+  "makedepends": [
+    "asar"
+  ],
+  "receive": 299815093,
+  "transmit": 385058,
+  "disk": 370028747
+}
