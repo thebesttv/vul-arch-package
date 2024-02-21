@@ -1,0 +1,11 @@
+{
+  "name": "scite",
+  "version": "5.4.1-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [],
+  "receive": 204411255,
+  "transmit": 451820,
+  "disk": 19867435
+}
