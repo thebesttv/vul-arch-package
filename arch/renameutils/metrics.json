@@ -1,0 +1,11 @@
+{
+  "name": "renameutils",
+  "version": "0.12.0-7",
+  "depends": [
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 199611373,
+  "transmit": 375746,
+  "disk": 5744672
+}
