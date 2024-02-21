@@ -1,0 +1,15 @@
+{
+  "name": "fuseiso",
+  "version": "20070708-8",
+  "depends": [
+    "fuse2",
+    "glib2",
+    "zlib"
+  ],
+  "makedepends": [
+    "pkgconfig"
+  ],
+  "receive": 199655325,
+  "transmit": 353626,
+  "disk": 1804388
+}
