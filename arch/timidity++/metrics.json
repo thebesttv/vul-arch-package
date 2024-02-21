@@ -1,0 +1,21 @@
+{
+  "name": "timidity++",
+  "version": "2.15.0-10",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "flac",
+    "jack",
+    "libao",
+    "libogg",
+    "libvorbis",
+    "libxaw",
+    "tk",
+    "xaw3d"
+  ],
+  "receive": 200593258,
+  "transmit": 778675,
+  "disk": 10595757
+}
