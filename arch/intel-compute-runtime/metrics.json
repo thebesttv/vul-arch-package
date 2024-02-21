@@ -1,0 +1,19 @@
+{
+  "name": "intel-compute-runtime",
+  "version": "23.48.27912.11-1",
+  "depends": [
+    "gcc-libs",
+    "intel-gmmlib",
+    "intel-graphics-compiler"
+  ],
+  "makedepends": [
+    "cmake",
+    "igsc",
+    "libva",
+    "level-zero-headers",
+    "opencl-headers"
+  ],
+  "receive": 206693261,
+  "transmit": 363421,
+  "disk": 62771616
+}
