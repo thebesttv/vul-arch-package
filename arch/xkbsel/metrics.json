@@ -1,0 +1,15 @@
+{
+  "name": "xkbsel",
+  "version": "0.13-11",
+  "depends": [
+    "gdbm",
+    "libxaw"
+  ],
+  "makedepends": [
+    "patch",
+    "xkeyboard-config"
+  ],
+  "receive": 199502447,
+  "transmit": 256294,
+  "disk": 1656606
+}
