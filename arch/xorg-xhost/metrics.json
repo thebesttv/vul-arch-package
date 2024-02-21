@@ -1,0 +1,14 @@
+{
+  "name": "xorg-xhost",
+  "version": "1.0.9-1",
+  "depends": [
+    "libx11",
+    "libxmu"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199547415,
+  "transmit": 289649,
+  "disk": 1042919
+}
