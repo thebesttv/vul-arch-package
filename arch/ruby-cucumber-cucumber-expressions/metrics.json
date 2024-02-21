@@ -1,0 +1,15 @@
+{
+  "name": "ruby-cucumber-cucumber-expressions",
+  "version": "16.1.2-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 199685729,
+  "transmit": 402870,
+  "disk": 14046916
+}
