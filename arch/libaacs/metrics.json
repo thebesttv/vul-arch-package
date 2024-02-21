@@ -1,0 +1,11 @@
+{
+  "name": "libaacs",
+  "version": "0.11.1-2",
+  "depends": [
+    "libgcrypt"
+  ],
+  "makedepends": [],
+  "receive": 199662354,
+  "transmit": 430886,
+  "disk": 2250902
+}
