@@ -1,0 +1,11 @@
+{
+  "name": "perl-danga-socket",
+  "version": "1.62-2",
+  "depends": [
+    "perl-sys-syscall"
+  ],
+  "makedepends": [],
+  "receive": 199709635,
+  "transmit": 394667,
+  "disk": 210848
+}
