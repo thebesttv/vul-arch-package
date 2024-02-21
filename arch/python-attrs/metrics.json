@@ -1,0 +1,18 @@
+{
+  "name": "python-attrs",
+  "version": "23.2.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs",
+    "python-hatch-fancy-pypi-readme"
+  ],
+  "receive": 199695029,
+  "transmit": 430848,
+  "disk": 7848014
+}
