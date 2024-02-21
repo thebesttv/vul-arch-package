@@ -1,0 +1,18 @@
+{
+  "name": "perl-moo",
+  "version": "2.005005-2",
+  "depends": [
+    "perl-class-method-modifiers>=1.1",
+    "perl-devel-globaldestruction>=0.11",
+    "perl-import-into>=1.002",
+    "perl-module-runtime>=0.014",
+    "perl-role-tiny>=2",
+    "perl-sub-quote"
+  ],
+  "makedepends": [
+    "perl-test-fatal>=0.003"
+  ],
+  "receive": 199493490,
+  "transmit": 241909,
+  "disk": 623450
+}
