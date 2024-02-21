@@ -1,0 +1,11 @@
+{
+  "name": "ruby-did_you_mean",
+  "version": "1.6.1-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199904514,
+  "transmit": 611857,
+  "disk": 357084
+}
