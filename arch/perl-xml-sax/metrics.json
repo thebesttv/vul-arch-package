@@ -1,0 +1,13 @@
+{
+  "name": "perl-xml-sax",
+  "version": "1.02-1",
+  "depends": [
+    "perl",
+    "perl-xml-sax-base",
+    "perl-xml-namespacesupport"
+  ],
+  "makedepends": [],
+  "receive": 199531417,
+  "transmit": 270452,
+  "disk": 381015
+}
