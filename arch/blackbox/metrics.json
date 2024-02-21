@@ -1,0 +1,15 @@
+{
+  "name": "blackbox",
+  "version": "0.77-2",
+  "depends": [
+    "gcc-libs",
+    "libxft",
+    "libxext",
+    "libx11",
+    "libxt"
+  ],
+  "makedepends": [],
+  "receive": 199540653,
+  "transmit": 268685,
+  "disk": 2737341
+}
