@@ -1,0 +1,12 @@
+{
+  "name": "libprocps",
+  "version": "3.3.17-3",
+  "depends": [
+    "glibc",
+    "systemd-libs"
+  ],
+  "makedepends": [],
+  "receive": 199645537,
+  "transmit": 387848,
+  "disk": 9892441
+}
