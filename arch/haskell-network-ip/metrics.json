@@ -1,0 +1,22 @@
+{
+  "name": "haskell-network-ip",
+  "version": "0.3.0.3-328",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default-class",
+    "haskell-data-dword",
+    "haskell-data-endian",
+    "haskell-data-serializer",
+    "haskell-data-textual",
+    "haskell-hashable",
+    "haskell-parsers",
+    "haskell-text-printer",
+    "haskell-type-hint"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199907614,
+  "transmit": 373391,
+  "disk": 517615
+}
