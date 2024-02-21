@@ -1,0 +1,19 @@
+{
+  "name": "libpst",
+  "version": "0.6.76-9",
+  "depends": [
+    "gcc-libs",
+    "libgsf"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "docbook-xsl",
+    "doxygen",
+    "git",
+    "graphviz",
+    "xmlto"
+  ],
+  "receive": 199589142,
+  "transmit": 310802,
+  "disk": 13190265
+}
