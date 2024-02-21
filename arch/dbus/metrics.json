@@ -1,0 +1,21 @@
+{
+  "name": "dbus",
+  "version": "1.14.10-2",
+  "depends": [
+    "audit",
+    "libcap-ng",
+    "expat",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "doxygen",
+    "python",
+    "systemd",
+    "xmlto",
+    "yelp-tools"
+  ],
+  "receive": 199763055,
+  "transmit": 422189,
+  "disk": 10958477
+}
