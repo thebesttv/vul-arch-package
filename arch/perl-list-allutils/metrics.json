@@ -1,0 +1,15 @@
+{
+  "name": "perl-list-allutils",
+  "version": "0.19-2",
+  "depends": [
+    "perl>=5.19.3",
+    "perl-list-moreutils>=0.28",
+    "perl-scalar-list-utils>=1.45",
+    "perl-list-someutils",
+    "perl-list-utilsby"
+  ],
+  "makedepends": [],
+  "receive": 199592145,
+  "transmit": 356436,
+  "disk": 409595
+}
