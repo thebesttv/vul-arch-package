@@ -1,0 +1,17 @@
+{
+  "name": "primus_vk",
+  "version": "1.6.2-1",
+  "depends": [
+    "nvidia-utils",
+    "bumblebee",
+    "vulkan-icd-loader",
+    "primus"
+  ],
+  "makedepends": [
+    "git",
+    "vulkan-validation-layers"
+  ],
+  "receive": 199542371,
+  "transmit": 283425,
+  "disk": 561505
+}
