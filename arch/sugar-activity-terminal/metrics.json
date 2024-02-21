@@ -1,0 +1,12 @@
+{
+  "name": "sugar-activity-terminal",
+  "version": "47-3",
+  "depends": [
+    "sugar-toolkit-gtk3",
+    "vte3"
+  ],
+  "makedepends": [],
+  "receive": 199493699,
+  "transmit": 252178,
+  "disk": 557776
+}
