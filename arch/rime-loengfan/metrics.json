@@ -1,0 +1,15 @@
+{
+  "name": "rime-loengfan",
+  "version": "0.0.0.20220303-1",
+  "depends": [
+    "rime-cangjie"
+  ],
+  "makedepends": [
+    "librime",
+    "rime-prelude",
+    "rime-essay"
+  ],
+  "receive": 199664886,
+  "transmit": 409368,
+  "disk": 2348573
+}
