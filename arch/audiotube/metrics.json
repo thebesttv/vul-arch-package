@@ -1,0 +1,25 @@
+{
+  "name": "audiotube",
+  "version": "23.08.5-1",
+  "depends": [
+    "kirigami-addons5",
+    "qt5-imageformats",
+    "qt5-multimedia",
+    "qt5-svg",
+    "ki18n5",
+    "kcrash5",
+    "kwindowsystem5",
+    "yt-dlp",
+    "python-ytmusicapi",
+    "futuresql-qt5",
+    "purpose5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "pybind11",
+    "qcoro-qt5"
+  ],
+  "receive": 199645480,
+  "transmit": 404996,
+  "disk": 1771494
+}
