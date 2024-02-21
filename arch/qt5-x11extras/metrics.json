@@ -1,0 +1,13 @@
+{
+  "name": "qt5-x11extras",
+  "version": "5.15.12-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199539050,
+  "transmit": 287504,
+  "disk": 4012404
+}
