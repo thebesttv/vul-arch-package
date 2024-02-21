@@ -1,0 +1,13 @@
+{
+  "name": "perl-test-more-utf8",
+  "version": "0.05-7",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-install"
+  ],
+  "receive": 199579332,
+  "transmit": 351372,
+  "disk": 122064
+}
