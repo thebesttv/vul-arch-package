@@ -1,0 +1,11 @@
+{
+  "name": "perl-config-grammar",
+  "version": "1.13-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199661572,
+  "transmit": 393004,
+  "disk": 263521
+}
