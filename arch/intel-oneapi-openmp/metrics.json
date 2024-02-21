@@ -1,0 +1,14 @@
+{
+  "name": "intel-oneapi-openmp",
+  "version": "2023.2.0-1",
+  "depends": [
+    "intel-oneapi-common",
+    "libelf",
+    "level-zero-loader",
+    "libffi"
+  ],
+  "makedepends": [],
+  "receive": 371150070,
+  "transmit": 649434,
+  "disk": 221920387
+}
