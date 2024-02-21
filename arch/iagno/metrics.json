@@ -1,0 +1,20 @@
+{
+  "name": "iagno",
+  "version": "3.38.1+r57+gd147e1a-1",
+  "depends": [
+    "gtk3",
+    "gsound",
+    "librsvg"
+  ],
+  "makedepends": [
+    "meson",
+    "gobject-introspection",
+    "yelp-tools",
+    "appstream-glib",
+    "vala",
+    "git"
+  ],
+  "receive": 199659962,
+  "transmit": 408121,
+  "disk": 22619240
+}
