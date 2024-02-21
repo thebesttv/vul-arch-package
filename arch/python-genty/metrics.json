@@ -1,0 +1,14 @@
+{
+  "name": "python-genty",
+  "version": "1.3.2-12",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 199625987,
+  "transmit": 360804,
+  "disk": 589169
+}
