@@ -1,0 +1,12 @@
+{
+  "name": "perl-datetime-format-w3cdtf",
+  "version": "0.08-3",
+  "depends": [
+    "perl>=5.10.0",
+    "perl-datetime"
+  ],
+  "makedepends": [],
+  "receive": 200317326,
+  "transmit": 966086,
+  "disk": 261459
+}
