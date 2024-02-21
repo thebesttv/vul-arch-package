@@ -1,0 +1,13 @@
+{
+  "name": "molequeue",
+  "version": "0.9.0-3",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199614112,
+  "transmit": 383396,
+  "disk": 2634300
+}
