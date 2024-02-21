@@ -1,0 +1,11 @@
+{
+  "name": "perl-crypt-des",
+  "version": "2.07-14",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199565663,
+  "transmit": 301554,
+  "disk": 172934
+}
