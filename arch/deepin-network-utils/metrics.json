@@ -1,0 +1,16 @@
+{
+  "name": "deepin-network-utils",
+  "version": "5.4.13-1",
+  "depends": [
+    "deepin-qt-dbus-factory",
+    "gio-qt",
+    "gsettings-qt"
+  ],
+  "makedepends": [
+    "qt5-tools",
+    "gtest"
+  ],
+  "receive": 199678008,
+  "transmit": 387350,
+  "disk": 508771
+}
