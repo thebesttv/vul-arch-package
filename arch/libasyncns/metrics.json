@@ -1,0 +1,14 @@
+{
+  "name": "libasyncns",
+  "version": "1:0.8+r3+g68cd5af-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "lynx"
+  ],
+  "receive": 199654515,
+  "transmit": 399133,
+  "disk": 626559
+}
