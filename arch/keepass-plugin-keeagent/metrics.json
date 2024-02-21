@@ -1,0 +1,15 @@
+{
+  "name": "keepass-plugin-keeagent",
+  "version": "0.12.1-3",
+  "depends": [
+    "keepass"
+  ],
+  "makedepends": [
+    "git",
+    "msbuild",
+    "nuget"
+  ],
+  "receive": 199517152,
+  "transmit": 260968,
+  "disk": 23540118
+}
