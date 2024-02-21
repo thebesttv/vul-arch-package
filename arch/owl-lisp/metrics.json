@@ -1,0 +1,13 @@
+{
+  "name": "owl-lisp",
+  "version": "0.2.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "pandoc"
+  ],
+  "receive": 199544293,
+  "transmit": 269237,
+  "disk": 2279122
+}
