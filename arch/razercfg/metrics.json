@@ -1,0 +1,16 @@
+{
+  "name": "razercfg",
+  "version": "0.42-6",
+  "depends": [
+    "hicolor-icon-theme",
+    "libusb",
+    "python"
+  ],
+  "makedepends": [
+    "cmake",
+    "systemd"
+  ],
+  "receive": 199574264,
+  "transmit": 304664,
+  "disk": 834965
+}
