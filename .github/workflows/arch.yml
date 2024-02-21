@@ -122,7 +122,7 @@ jobs:
       - name: Remove tmp work dir
         if: success() || failure()
         run: |
-          rm -rf tmp_work_dir
+          sudo rm -rf tmp_work_dir
 
       - name: Set commit message
         id: commit_message_step
