@@ -1,0 +1,22 @@
+{
+  "name": "magnum-plugins",
+  "version": "2020.06-3",
+  "depends": [
+    "assimp",
+    "devil",
+    "faad2",
+    "freetype2",
+    "libjpeg",
+    "libpng",
+    "magnum"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "glfw",
+    "ninja"
+  ],
+  "receive": 199565495,
+  "transmit": 281198,
+  "disk": 47264145
+}
