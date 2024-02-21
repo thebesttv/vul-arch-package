@@ -1,0 +1,16 @@
+{
+  "name": "python-inflate64",
+  "version": "0.3.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199680981,
+  "transmit": 425426,
+  "disk": 2263848
+}
