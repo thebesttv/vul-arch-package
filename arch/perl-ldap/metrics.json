@@ -1,0 +1,13 @@
+{
+  "name": "perl-ldap",
+  "version": "0.68-3",
+  "depends": [
+    "perl-convert-asn1",
+    "perl-xml-sax-writer",
+    "perl-text-soundex"
+  ],
+  "makedepends": [],
+  "receive": 199717705,
+  "transmit": 439496,
+  "disk": 1773508
+}
