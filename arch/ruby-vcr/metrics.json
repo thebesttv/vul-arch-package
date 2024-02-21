@@ -1,0 +1,16 @@
+{
+  "name": "ruby-vcr",
+  "version": "6.2.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rspec",
+    "ruby-test-unit",
+    "ruby-rake",
+    "ruby-pry"
+  ],
+  "receive": 199621747,
+  "transmit": 376727,
+  "disk": 1105122
+}
