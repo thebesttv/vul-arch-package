@@ -1,0 +1,13 @@
+{
+  "name": "vim-ale",
+  "version": "3.3.0-1",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 226264252,
+  "transmit": 350383,
+  "disk": 55509848
+}
