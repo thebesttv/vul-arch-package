@@ -1,0 +1,21 @@
+{
+  "name": "granite",
+  "version": "6.2.0-2",
+  "depends": [
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "libgee",
+    "pango"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199804023,
+  "transmit": 486553,
+  "disk": 20221482
+}
