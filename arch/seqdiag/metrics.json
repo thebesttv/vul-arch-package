@@ -1,0 +1,11 @@
+{
+  "name": "seqdiag",
+  "version": "3.0.0-2",
+  "depends": [
+    "blockdiag"
+  ],
+  "makedepends": [],
+  "receive": 199542337,
+  "transmit": 293648,
+  "disk": 7060044
+}
