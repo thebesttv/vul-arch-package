@@ -1,0 +1,22 @@
+{
+  "name": "reprotest",
+  "version": "0.7.25-1",
+  "depends": [
+    "python-setuptools",
+    "python",
+    "python-rstr",
+    "diffoscope",
+    "fakeroot",
+    "python-distro",
+    "python-wheel",
+    "libfaketime"
+  ],
+  "makedepends": [
+    "help2man",
+    "python-docutils",
+    "git"
+  ],
+  "receive": 201172737,
+  "transmit": 395802,
+  "disk": 2877387
+}
