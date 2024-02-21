@@ -1,0 +1,13 @@
+{
+  "name": "gtk2-compat",
+  "version": "1.0.0-4",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199635487,
+  "transmit": 416049,
+  "disk": 303481
+}
