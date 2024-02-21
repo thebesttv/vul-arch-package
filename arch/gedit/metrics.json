@@ -1,0 +1,39 @@
+{
+  "name": "gedit",
+  "version": "46.2-1",
+  "depends": [
+    "bash",
+    "cairo",
+    "dconf",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gobject-introspection-runtime",
+    "gsettings-desktop-schemas",
+    "gspell",
+    "gtk3",
+    "hicolor-icon-theme",
+    "libgedit-amtk",
+    "libgedit-gtksourceview",
+    "libgirepository",
+    "libpeas",
+    "pango",
+    "python",
+    "python-gobject",
+    "tepl"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "desktop-file-utils",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 274214890,
+  "transmit": 632182,
+  "disk": 102399531
+}
