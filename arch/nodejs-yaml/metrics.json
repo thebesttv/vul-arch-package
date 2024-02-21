@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-yaml",
+  "version": "2.2.2-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199559666,
+  "transmit": 263432,
+  "disk": 201010
+}
