@@ -1,0 +1,14 @@
+{
+  "name": "systemc",
+  "version": "2.3.4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199525701,
+  "transmit": 300365,
+  "disk": 16849042
+}
