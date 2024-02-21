@@ -1,0 +1,11 @@
+{
+  "name": "hunspell-en",
+  "version": "2020.12.07-5",
+  "depends": [],
+  "makedepends": [
+    "qt6-webengine"
+  ],
+  "receive": 199981905,
+  "transmit": 416777,
+  "disk": 4938281
+}
