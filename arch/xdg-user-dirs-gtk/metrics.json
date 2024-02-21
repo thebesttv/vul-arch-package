@@ -1,0 +1,15 @@
+{
+  "name": "xdg-user-dirs-gtk",
+  "version": "0.11-2",
+  "depends": [
+    "gtk3",
+    "xdg-user-dirs"
+  ],
+  "makedepends": [
+    "git",
+    "intltool"
+  ],
+  "receive": 199614933,
+  "transmit": 363653,
+  "disk": 906460
+}
