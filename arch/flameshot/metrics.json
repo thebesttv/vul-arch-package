@@ -1,0 +1,17 @@
+{
+  "name": "flameshot",
+  "version": "12.1.0-3",
+  "depends": [
+    "qt5-svg",
+    "hicolor-icon-theme",
+    "kguiaddons5"
+  ],
+  "makedepends": [
+    "make",
+    "qt5-tools",
+    "cmake"
+  ],
+  "receive": 199613796,
+  "transmit": 379194,
+  "disk": 37689119
+}
