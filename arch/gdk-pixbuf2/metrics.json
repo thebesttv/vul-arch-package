@@ -1,0 +1,21 @@
+{
+  "name": "gdk-pixbuf2",
+  "version": "2.42.10-2",
+  "depends": [
+    "glib2",
+    "libpng",
+    "libtiff",
+    "libjpeg",
+    "shared-mime-info"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "git",
+    "meson",
+    "gi-docgen",
+    "python-docutils"
+  ],
+  "receive": 355816639,
+  "transmit": 351155,
+  "disk": 188545628
+}
