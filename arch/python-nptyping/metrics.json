@@ -1,0 +1,17 @@
+{
+  "name": "python-nptyping",
+  "version": "2.5.0-2",
+  "depends": [
+    "python-numpy",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199544938,
+  "transmit": 265704,
+  "disk": 426546
+}
