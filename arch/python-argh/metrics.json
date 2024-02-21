@@ -1,0 +1,16 @@
+{
+  "name": "python-argh",
+  "version": "0.29.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199900470,
+  "transmit": 425654,
+  "disk": 1520802
+}
