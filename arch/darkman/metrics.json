@@ -1,0 +1,13 @@
+{
+  "name": "darkman",
+  "version": "1.5.4-2",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "go",
+    "scdoc"
+  ],
+  "receive": 199635711,
+  "transmit": 449009,
+  "disk": 715622
+}
