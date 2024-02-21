@@ -1,0 +1,13 @@
+{
+  "name": "haskell-leancheck",
+  "version": "1.0.2-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199517984,
+  "transmit": 271457,
+  "disk": 1144215
+}
