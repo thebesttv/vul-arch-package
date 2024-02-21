@@ -1,0 +1,18 @@
+{
+  "name": "python-ypy-websocket",
+  "version": "0.12.4-1",
+  "depends": [
+    "python",
+    "python-aiosqlite",
+    "python-anyio",
+    "python-y-py"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199574814,
+  "transmit": 348928,
+  "disk": 200080
+}
