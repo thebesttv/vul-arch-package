@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libpcap",
+  "version": "1.10.4-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-libnl",
+    "libpcap=1.10.4"
+  ],
+  "makedepends": [
+    "bluez-libs",
+    "lib32-dbus"
+  ],
+  "receive": 199649606,
+  "transmit": 417972,
+  "disk": 4910364
+}
