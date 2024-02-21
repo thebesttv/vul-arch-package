@@ -1,0 +1,15 @@
+{
+  "name": "astyle",
+  "version": "3.4.10-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "jdk8-openjdk"
+  ],
+  "receive": 205543187,
+  "transmit": 862211,
+  "disk": 17836166
+}
