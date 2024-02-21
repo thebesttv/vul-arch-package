@@ -1,0 +1,35 @@
+{
+  "name": "deepin-control-center",
+  "version": "6.0.40-1",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "deepin-account-faces",
+    "deepin-api",
+    "libpwquality",
+    "deepin-daemon",
+    "startdde",
+    "deepin-qt5integration",
+    "deepin-pw-check",
+    "deepin-network-core",
+    "qt5-multimedia",
+    "polkit-qt5",
+    "deepin-desktop-theme",
+    "icu"
+  ],
+  "makedepends": [
+    "cmake",
+    "deepin-dock",
+    "gmock",
+    "gtest",
+    "ninja",
+    "qt5-tools",
+    "deepin-gettext-tools",
+    "doxygen"
+  ],
+  "receive": 200040992,
+  "transmit": 526441,
+  "disk": 42797554
+}
