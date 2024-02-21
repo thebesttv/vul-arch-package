@@ -1,0 +1,17 @@
+{
+  "name": "pyzy",
+  "version": "1.1-2",
+  "depends": [
+    "glib2",
+    "sqlite",
+    "util-linux"
+  ],
+  "makedepends": [
+    "doxygen",
+    "gnome-common",
+    "python"
+  ],
+  "receive": 199575259,
+  "transmit": 291504,
+  "disk": 6797742
+}
