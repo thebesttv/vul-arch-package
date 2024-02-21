@@ -1,0 +1,17 @@
+{
+  "name": "qt6-scxml",
+  "version": "6.6.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-declarative"
+  ],
+  "receive": 199630515,
+  "transmit": 330657,
+  "disk": 1301180
+}
