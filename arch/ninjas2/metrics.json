@@ -1,0 +1,15 @@
+{
+  "name": "ninjas2",
+  "version": "0.2.0-3",
+  "depends": [],
+  "makedepends": [
+    "aubio",
+    "gendesk",
+    "jack",
+    "libsamplerate",
+    "libsndfile"
+  ],
+  "receive": 199773149,
+  "transmit": 506265,
+  "disk": 56168996
+}
