@@ -1,0 +1,19 @@
+{
+  "name": "simutrans",
+  "version": "123.0.1-1",
+  "depends": [
+    "gcc-libs",
+    "zlib",
+    "sdl2",
+    "libpng",
+    "bzip2",
+    "simutrans-pak64",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "dos2unix"
+  ],
+  "receive": 199631515,
+  "transmit": 323867,
+  "disk": 21024066
+}
