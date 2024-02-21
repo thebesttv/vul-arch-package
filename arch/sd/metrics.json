@@ -1,0 +1,13 @@
+{
+  "name": "sd",
+  "version": "1.0.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199757099,
+  "transmit": 423722,
+  "disk": 279030
+}
