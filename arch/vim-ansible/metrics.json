@@ -1,0 +1,15 @@
+{
+  "name": "vim-ansible",
+  "version": "3.4-1",
+  "depends": [
+    "python-jinja",
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [
+    "ansible",
+    "python"
+  ],
+  "receive": 199547959,
+  "transmit": 270552,
+  "disk": 177151
+}
