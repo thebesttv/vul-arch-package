@@ -1,0 +1,13 @@
+{
+  "name": "libusb",
+  "version": "1.0.27-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199489022,
+  "transmit": 241141,
+  "disk": 4212091
+}
