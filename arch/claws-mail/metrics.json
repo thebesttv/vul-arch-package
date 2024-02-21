@@ -1,0 +1,35 @@
+{
+  "name": "claws-mail",
+  "version": "4.2.0-1",
+  "depends": [
+    "gtk3",
+    "gnutls",
+    "startup-notification",
+    "enchant",
+    "gpgme",
+    "libetpan",
+    "compface",
+    "libsm",
+    "dbus-glib"
+  ],
+  "makedepends": [
+    "spamassassin",
+    "bogofilter",
+    "networkmanager",
+    "valgrind",
+    "libnotify",
+    "libcanberra",
+    "poppler-glib",
+    "libytnef",
+    "libical",
+    "dillo",
+    "python",
+    "gumbo-parser",
+    "webkit2gtk",
+    "docbook-utils",
+    "texlive-formatsextra"
+  ],
+  "receive": 206491257,
+  "transmit": 399599,
+  "disk": 54010370
+}
