@@ -1,0 +1,11 @@
+{
+  "name": "visualvm",
+  "version": "2.1.7-1",
+  "depends": [
+    "java-environment"
+  ],
+  "makedepends": [],
+  "receive": 199479226,
+  "transmit": 234163,
+  "disk": 73402523
+}
