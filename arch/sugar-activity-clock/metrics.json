@@ -1,0 +1,12 @@
+{
+  "name": "sugar-activity-clock",
+  "version": "22.1-2",
+  "depends": [
+    "espeak-ng-espeak",
+    "sugar-toolkit-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199532507,
+  "transmit": 289257,
+  "disk": 1367747
+}
