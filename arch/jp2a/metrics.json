@@ -1,0 +1,17 @@
+{
+  "name": "jp2a",
+  "version": "1.2.0-1",
+  "depends": [
+    "curl",
+    "libjpeg",
+    "libpng"
+  ],
+  "makedepends": [
+    "doxygen",
+    "autoconf-archive",
+    "git"
+  ],
+  "receive": 200960789,
+  "transmit": 1424569,
+  "disk": 6975532
+}
