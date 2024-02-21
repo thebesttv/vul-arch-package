@@ -1,0 +1,17 @@
+{
+  "name": "lua-luarepl",
+  "version": "0.10-2",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 199702402,
+  "transmit": 444976,
+  "disk": 237230
+}
