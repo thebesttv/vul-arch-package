@@ -1,0 +1,16 @@
+{
+  "name": "fomp.lv2",
+  "version": "1.2.4-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "lv2",
+    "meson"
+  ],
+  "receive": 199496671,
+  "transmit": 246534,
+  "disk": 375857
+}
