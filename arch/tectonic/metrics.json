@@ -1,0 +1,16 @@
+{
+  "name": "tectonic",
+  "version": "0.15.0-1",
+  "depends": [
+    "fontconfig",
+    "harfbuzz-icu",
+    "openssl"
+  ],
+  "makedepends": [
+    "cargo",
+    "pkg-config"
+  ],
+  "receive": 199523662,
+  "transmit": 255372,
+  "disk": 13110743
+}
