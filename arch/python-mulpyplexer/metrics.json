@@ -1,0 +1,16 @@
+{
+  "name": "python-mulpyplexer",
+  "version": "0.9-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199523962,
+  "transmit": 284792,
+  "disk": 99716
+}
