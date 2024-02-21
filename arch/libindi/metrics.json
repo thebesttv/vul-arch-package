@@ -1,0 +1,29 @@
+{
+  "name": "libindi",
+  "version": "2.0.6-1",
+  "depends": [
+    "cblas",
+    "cfitsio",
+    "curl",
+    "fftw",
+    "gcc-libs",
+    "glibc",
+    "gsl",
+    "libev",
+    "libjpeg",
+    "libnova",
+    "libogg",
+    "libtheora",
+    "libusb",
+    "libxisf",
+    "rtl-sdr",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-base"
+  ],
+  "receive": 199568651,
+  "transmit": 356127,
+  "disk": 15859129
+}
