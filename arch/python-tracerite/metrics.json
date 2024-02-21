@@ -1,0 +1,16 @@
+{
+  "name": "python-tracerite",
+  "version": "1.1.1-2",
+  "depends": [
+    "python",
+    "python-setuptools",
+    "python-html5tagger"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm"
+  ],
+  "receive": 199659615,
+  "transmit": 383632,
+  "disk": 1621365
+}
