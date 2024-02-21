@@ -1,0 +1,13 @@
+{
+  "name": "cross",
+  "version": "0.2.5-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199603777,
+  "transmit": 310782,
+  "disk": 1229640
+}
