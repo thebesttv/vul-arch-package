@@ -1,0 +1,16 @@
+{
+  "name": "xorg-fonts-misc",
+  "version": "1.0.4-1",
+  "depends": [
+    "xorg-fonts-alias-misc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorg-mkfontscale",
+    "xorg-bdftopcf",
+    "xorg-font-util"
+  ],
+  "receive": 205249314,
+  "transmit": 473489,
+  "disk": 53478895
+}
