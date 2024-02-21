@@ -1,0 +1,21 @@
+{
+  "name": "lib32-libcanberra",
+  "version": "1:0.30+r2+gc0620e4-2",
+  "depends": [
+    "lib32-libvorbis",
+    "lib32-libltdl",
+    "lib32-alsa-lib",
+    "lib32-libpulse",
+    "lib32-tdb",
+    "libcanberra"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "lib32-gtk2",
+    "lib32-gtk3",
+    "git"
+  ],
+  "receive": 199732377,
+  "transmit": 404945,
+  "disk": 1421478
+}
