@@ -1,0 +1,30 @@
+{
+  "name": "enlightenment",
+  "version": "0.26.0-1",
+  "depends": [
+    "alsa-lib",
+    "bc",
+    "bluez-libs",
+    "efl",
+    "hicolor-icon-theme",
+    "libexif",
+    "librsvg",
+    "libpulse",
+    "libxkbcommon",
+    "pam",
+    "pulse-native-provider",
+    "ttf-font",
+    "udisks2",
+    "util-linux-libs",
+    "wayland",
+    "xorg-server-xwayland"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "wayland-protocols"
+  ],
+  "receive": 613850357,
+  "transmit": 3481204,
+  "disk": 855983319
+}
