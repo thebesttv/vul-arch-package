@@ -1,0 +1,16 @@
+{
+  "name": "blop.lv2",
+  "version": "1.0.4-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "lv2",
+    "meson"
+  ],
+  "receive": 199678546,
+  "transmit": 418166,
+  "disk": 515039
+}
