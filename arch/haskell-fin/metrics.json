@@ -1,0 +1,22 @@
+{
+  "name": "haskell-fin",
+  "version": "0.3-20",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-boring",
+    "haskell-dec",
+    "haskell-hashable",
+    "haskell-some",
+    "haskell-universe-base"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-inspection-testing",
+    "haskell-tagged"
+  ],
+  "receive": 199758120,
+  "transmit": 405201,
+  "disk": 311188
+}
