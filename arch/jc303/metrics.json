@@ -1,0 +1,21 @@
+{
+  "name": "jc303",
+  "version": "0.9.1-2",
+  "depends": [],
+  "makedepends": [
+    "glibc",
+    "gcc-libs",
+    "freetype2",
+    "git",
+    "cmake",
+    "libx11",
+    "libxrandr",
+    "libxinerama",
+    "libxcursor",
+    "alsa-lib",
+    "gtk3"
+  ],
+  "receive": 527736576,
+  "transmit": 706963,
+  "disk": 405395110
+}
