@@ -1,0 +1,15 @@
+{
+  "name": "zita-njbridge",
+  "version": "0.4.8-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "jack",
+    "zita-resampler"
+  ],
+  "receive": 199922171,
+  "transmit": 526045,
+  "disk": 285500
+}
