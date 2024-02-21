@@ -1,0 +1,11 @@
+{
+  "name": "perl-gtk3-simplelist",
+  "version": "0.21-1",
+  "depends": [
+    "perl-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199520343,
+  "transmit": 254281,
+  "disk": 179920
+}
