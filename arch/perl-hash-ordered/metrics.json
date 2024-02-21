@@ -1,0 +1,11 @@
+{
+  "name": "perl-hash-ordered",
+  "version": "0.014-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199509169,
+  "transmit": 245803,
+  "disk": 294497
+}
