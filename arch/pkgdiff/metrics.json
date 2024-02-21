@@ -1,0 +1,16 @@
+{
+  "name": "pkgdiff",
+  "version": "1.7.2-4",
+  "depends": [
+    "perl",
+    "diffutils",
+    "gawk",
+    "wdiff"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199865915,
+  "transmit": 508605,
+  "disk": 418417
+}
