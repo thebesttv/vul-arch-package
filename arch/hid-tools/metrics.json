@@ -1,0 +1,23 @@
+{
+  "name": "hid-tools",
+  "version": "0.7-1",
+  "depends": [
+    "python-parse",
+    "python-pyudev",
+    "python-libevdev",
+    "python-click",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-pypandoc",
+    "python-sphinx",
+    "python-sphinx_rtd_theme",
+    "python-sphinxcontrib-apidoc"
+  ],
+  "receive": 199558963,
+  "transmit": 334306,
+  "disk": 1383504
+}
