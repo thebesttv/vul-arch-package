@@ -1,0 +1,12 @@
+{
+  "name": "cups-pdf",
+  "version": "3.0.1-7",
+  "depends": [
+    "cups",
+    "ghostscript"
+  ],
+  "makedepends": [],
+  "receive": 199682857,
+  "transmit": 439007,
+  "disk": 269932
+}
