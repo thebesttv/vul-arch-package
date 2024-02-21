@@ -1,0 +1,11 @@
+{
+  "name": "xdg-utils-cxx",
+  "version": "1.0.1-2",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199530890,
+  "transmit": 255703,
+  "disk": 330023
+}
