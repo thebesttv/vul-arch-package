@@ -1,0 +1,16 @@
+{
+  "name": "freeverb3",
+  "version": "3.2.1-4",
+  "depends": [
+    "fftw"
+  ],
+  "makedepends": [
+    "audacious",
+    "chrpath",
+    "gtk3",
+    "jack"
+  ],
+  "receive": 199761604,
+  "transmit": 440679,
+  "disk": 24143399
+}
