@@ -1,0 +1,16 @@
+{
+  "name": "lib32-json-c",
+  "version": "0.17-1",
+  "depends": [
+    "lib32-glibc",
+    "json-c"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199658368,
+  "transmit": 405603,
+  "disk": 7098271
+}
