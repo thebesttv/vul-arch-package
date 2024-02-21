@@ -1,0 +1,16 @@
+{
+  "name": "python-seaborn",
+  "version": "0.12.2-3",
+  "depends": [
+    "python-pandas",
+    "python-matplotlib"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199729857,
+  "transmit": 465910,
+  "disk": 7539717
+}
