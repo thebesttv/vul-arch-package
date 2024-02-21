@@ -1,0 +1,11 @@
+{
+  "name": "paxtest",
+  "version": "0.9.15-3",
+  "depends": [
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199513596,
+  "transmit": 257859,
+  "disk": 264240
+}
