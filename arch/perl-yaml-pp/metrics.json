@@ -1,0 +1,14 @@
+{
+  "name": "perl-yaml-pp",
+  "version": "0.38.0-1",
+  "depends": [
+    "perl>=0"
+  ],
+  "makedepends": [
+    "perl-test-deep>=0",
+    "perl-test-warn>=0"
+  ],
+  "receive": 199521814,
+  "transmit": 272654,
+  "disk": 3056174
+}
