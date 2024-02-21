@@ -1,0 +1,16 @@
+{
+  "name": "xfmpc",
+  "version": "0.3.1-1",
+  "depends": [
+    "libxfce4ui",
+    "libmpd"
+  ],
+  "makedepends": [
+    "git",
+    "xfce4-dev-tools",
+    "vala"
+  ],
+  "receive": 199653826,
+  "transmit": 399459,
+  "disk": 2096925
+}
