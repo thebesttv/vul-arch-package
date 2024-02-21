@@ -1,0 +1,11 @@
+{
+  "name": "hyphen-de",
+  "version": "20220923-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 416168138,
+  "transmit": 1807351,
+  "disk": 628625377
+}
