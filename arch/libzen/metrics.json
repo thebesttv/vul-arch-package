@@ -1,0 +1,12 @@
+{
+  "name": "libzen",
+  "version": "0.4.41-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199769513,
+  "transmit": 460852,
+  "disk": 1507717
+}
