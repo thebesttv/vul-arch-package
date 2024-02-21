@@ -1,0 +1,18 @@
+{
+  "name": "geocode-glib",
+  "version": "3.26.4-4",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "glib2",
+    "gobject-introspection",
+    "gtk-doc",
+    "json-glib",
+    "libsoup",
+    "libsoup3",
+    "meson"
+  ],
+  "receive": 199594633,
+  "transmit": 342498,
+  "disk": 1548945
+}
