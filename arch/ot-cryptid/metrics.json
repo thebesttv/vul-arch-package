@@ -1,0 +1,19 @@
+{
+  "name": "ot-cryptid",
+  "version": "1.0.1-3",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "rust",
+    "jack",
+    "python",
+    "libglvnd",
+    "libx11",
+    "libxcb",
+    "libxcursor",
+    "xcb-util-wm"
+  ],
+  "receive": 199532728,
+  "transmit": 269713,
+  "disk": 12391615
+}
