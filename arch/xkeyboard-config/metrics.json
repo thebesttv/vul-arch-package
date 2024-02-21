@@ -1,0 +1,14 @@
+{
+  "name": "xkeyboard-config",
+  "version": "2.41-1",
+  "depends": [],
+  "makedepends": [
+    "xorg-xkbcomp",
+    "libxslt",
+    "python",
+    "meson"
+  ],
+  "receive": 199571894,
+  "transmit": 268303,
+  "disk": 10002808
+}
