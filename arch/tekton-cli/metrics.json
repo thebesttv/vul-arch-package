@@ -1,0 +1,14 @@
+{
+  "name": "tekton-cli",
+  "version": "0.33.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 271563615,
+  "transmit": 580169,
+  "disk": 202686678
+}
