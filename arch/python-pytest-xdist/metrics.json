@@ -1,0 +1,18 @@
+{
+  "name": "python-pytest-xdist",
+  "version": "3.5.0-1",
+  "depends": [
+    "python-execnet",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199666114,
+  "transmit": 393144,
+  "disk": 3135752
+}
