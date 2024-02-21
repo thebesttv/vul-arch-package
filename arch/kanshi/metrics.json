@@ -1,0 +1,15 @@
+{
+  "name": "kanshi",
+  "version": "1.5.1-1",
+  "depends": [
+    "wayland",
+    "libvarlink"
+  ],
+  "makedepends": [
+    "meson",
+    "scdoc"
+  ],
+  "receive": 199762282,
+  "transmit": 471030,
+  "disk": 239859
+}
