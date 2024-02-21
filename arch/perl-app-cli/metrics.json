@@ -1,0 +1,11 @@
+{
+  "name": "perl-app-cli",
+  "version": "0.52-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199568686,
+  "transmit": 332952,
+  "disk": 215170
+}
