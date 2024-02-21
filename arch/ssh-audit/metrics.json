@@ -1,0 +1,17 @@
+{
+  "name": "ssh-audit",
+  "version": "3.1.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199672280,
+  "transmit": 380469,
+  "disk": 2634035
+}
