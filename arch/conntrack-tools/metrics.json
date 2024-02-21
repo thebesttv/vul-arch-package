@@ -1,0 +1,21 @@
+{
+  "name": "conntrack-tools",
+  "version": "1.4.8-1",
+  "depends": [
+    "glibc",
+    "libnetfilter_conntrack",
+    "libnetfilter_cttimeout",
+    "libnetfilter_cthelper",
+    "libnetfilter_queue",
+    "libmnl",
+    "systemd-libs",
+    "libnfnetlink"
+  ],
+  "makedepends": [
+    "systemd",
+    "libtirpc"
+  ],
+  "receive": 199759760,
+  "transmit": 334490,
+  "disk": 3625786
+}
