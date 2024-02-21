@@ -1,0 +1,14 @@
+{
+  "name": "media-player-info",
+  "version": "24-2",
+  "depends": [
+    "systemd"
+  ],
+  "makedepends": [
+    "python",
+    "git"
+  ],
+  "receive": 199540570,
+  "transmit": 281002,
+  "disk": 735293
+}
