@@ -1,0 +1,19 @@
+{
+  "name": "haskell-tls-session-manager",
+  "version": "0.0.4-367",
+  "depends": [
+    "ghc-libs",
+    "haskell-auto-update",
+    "haskell-basement",
+    "haskell-clock",
+    "haskell-memory",
+    "haskell-psqueues",
+    "haskell-tls"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199712015,
+  "transmit": 435244,
+  "disk": 505096
+}
