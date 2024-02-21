@@ -1,0 +1,19 @@
+{
+  "name": "python-uhi",
+  "version": "0.3.3-2",
+  "depends": [
+    "python-numpy",
+    "python-typing_extensions",
+    "root"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatch-vcs",
+    "python-hatchling"
+  ],
+  "receive": 199532384,
+  "transmit": 314092,
+  "disk": 823743
+}
