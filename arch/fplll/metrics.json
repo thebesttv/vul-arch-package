@@ -1,0 +1,15 @@
+{
+  "name": "fplll",
+  "version": "5.4.5-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "mpfr",
+    "qd"
+  ],
+  "makedepends": [],
+  "receive": 199629674,
+  "transmit": 382906,
+  "disk": 14938858
+}
