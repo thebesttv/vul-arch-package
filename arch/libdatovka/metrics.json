@@ -1,0 +1,15 @@
+{
+  "name": "libdatovka",
+  "version": "0.6.1-1",
+  "depends": [
+    "libxml2",
+    "openssl",
+    "curl"
+  ],
+  "makedepends": [
+    "docbook-xsl"
+  ],
+  "receive": 199901451,
+  "transmit": 376585,
+  "disk": 6429791
+}
