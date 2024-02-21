@@ -1,0 +1,22 @@
+{
+  "name": "haskell-crypton-conduit",
+  "version": "0.2.3-39",
+  "depends": [
+    "ghc-libs",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-crypton",
+    "haskell-memory",
+    "haskell-resourcet"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199533335,
+  "transmit": 303855,
+  "disk": 225766
+}
