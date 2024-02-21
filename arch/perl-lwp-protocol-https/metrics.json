@@ -1,0 +1,14 @@
+{
+  "name": "perl-lwp-protocol-https",
+  "version": "6.11-1",
+  "depends": [
+    "ca-certificates",
+    "perl-io-socket-ssl",
+    "perl-net-http",
+    "perl-libwww"
+  ],
+  "makedepends": [],
+  "receive": 199571893,
+  "transmit": 284153,
+  "disk": 283554
+}
