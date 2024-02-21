@@ -1,0 +1,13 @@
+{
+  "name": "udp2raw",
+  "version": "20230206.0-1",
+  "depends": [
+    "iptables"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199628658,
+  "transmit": 396416,
+  "disk": 7805749
+}
