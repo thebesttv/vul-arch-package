@@ -1,0 +1,14 @@
+{
+  "name": "postfwd",
+  "version": "2.03-1",
+  "depends": [
+    "perl",
+    "perl-io-multiplex",
+    "perl-net-server",
+    "perl-net-dns"
+  ],
+  "makedepends": [],
+  "receive": 199525183,
+  "transmit": 260203,
+  "disk": 1147315
+}
