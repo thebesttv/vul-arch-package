@@ -1,0 +1,18 @@
+{
+  "name": "klayout",
+  "version": "0.28.15-1",
+  "depends": [
+    "libgit2",
+    "qt5-base",
+    "qt5-tools",
+    "qt5-multimedia",
+    "qt5-xmlpatterns",
+    "qt5-svg",
+    "python",
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 281569576,
+  "transmit": 1992697,
+  "disk": 347643836
+}
