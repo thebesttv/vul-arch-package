@@ -1,0 +1,17 @@
+{
+  "name": "sparse",
+  "version": "0.6.4-4",
+  "depends": [
+    "perl",
+    "libxml2",
+    "sqlite"
+  ],
+  "makedepends": [
+    "git",
+    "llvm14",
+    "gtk3"
+  ],
+  "receive": 199529515,
+  "transmit": 281281,
+  "disk": 7657270
+}
