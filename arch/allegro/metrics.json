@@ -1,0 +1,29 @@
+{
+  "name": "allegro",
+  "version": "5.2.9.1-1",
+  "depends": [
+    "dumb",
+    "gtk3",
+    "jack",
+    "libgl",
+    "libpulse",
+    "libtheora",
+    "libwebp",
+    "libxpm",
+    "opusfile",
+    "physfs"
+  ],
+  "makedepends": [
+    "cmake",
+    "glu",
+    "libtheora",
+    "mesa-libgl",
+    "ninja",
+    "opusfile",
+    "pandoc",
+    "xorgproto"
+  ],
+  "receive": 209656458,
+  "transmit": 484314,
+  "disk": 31057999
+}
