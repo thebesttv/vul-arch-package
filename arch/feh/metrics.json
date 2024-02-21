@@ -1,0 +1,17 @@
+{
+  "name": "feh",
+  "version": "3.10.2-1",
+  "depends": [
+    "curl",
+    "file",
+    "imlib2",
+    "libexif",
+    "libxinerama"
+  ],
+  "makedepends": [
+    "libxt"
+  ],
+  "receive": 199756188,
+  "transmit": 359125,
+  "disk": 2334282
+}
