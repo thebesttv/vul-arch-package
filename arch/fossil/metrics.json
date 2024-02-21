@@ -1,0 +1,16 @@
+{
+  "name": "fossil",
+  "version": "2.23-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "zlib",
+    "sqlite"
+  ],
+  "makedepends": [
+    "tcl"
+  ],
+  "receive": 199636612,
+  "transmit": 384246,
+  "disk": 33219091
+}
