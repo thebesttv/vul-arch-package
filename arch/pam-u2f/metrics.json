@@ -1,0 +1,15 @@
+{
+  "name": "pam-u2f",
+  "version": "1.3.0-1",
+  "depends": [
+    "libfido2",
+    "openssl",
+    "pam"
+  ],
+  "makedepends": [
+    "asciidoc"
+  ],
+  "receive": 199741656,
+  "transmit": 454495,
+  "disk": 2426760
+}
