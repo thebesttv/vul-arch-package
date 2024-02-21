@@ -1,0 +1,13 @@
+{
+  "name": "xprintidle",
+  "version": "0.2.5-1",
+  "depends": [
+    "libxss"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199708691,
+  "transmit": 412477,
+  "disk": 132235
+}
