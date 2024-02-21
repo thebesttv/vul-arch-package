@@ -1,0 +1,24 @@
+{
+  "name": "arch-release-promotion",
+  "version": "0.3.0-1",
+  "depends": [
+    "python",
+    "python-dotenv",
+    "python-email-validator",
+    "python-gitlab",
+    "python-orjson",
+    "python-prometheus_client",
+    "python-pydantic",
+    "python-pydantic-settings",
+    "python-pyxdg",
+    "python-torrentool"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-pdm-backend"
+  ],
+  "receive": 199532622,
+  "transmit": 257201,
+  "disk": 502338
+}
