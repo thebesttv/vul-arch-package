@@ -1,0 +1,13 @@
+{
+  "name": "libisoburn",
+  "version": "1.5.6-1",
+  "depends": [
+    "libburn",
+    "libisofs",
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 199556320,
+  "transmit": 278080,
+  "disk": 8461578
+}
