@@ -1,0 +1,12 @@
+{
+  "name": "ruby-parallel_tests",
+  "version": "3.12.1-1",
+  "depends": [
+    "ruby",
+    "ruby-parallel"
+  ],
+  "makedepends": [],
+  "receive": 199594379,
+  "transmit": 335182,
+  "disk": 1160662
+}
