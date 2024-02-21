@@ -1,0 +1,13 @@
+{
+  "name": "ruby-tilt",
+  "version": "2.3.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199541496,
+  "transmit": 273429,
+  "disk": 424967
+}
