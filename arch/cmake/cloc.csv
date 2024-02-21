@@ -1,0 +1,62 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=9.34 s (1896.5 files/s 148353.5 lines/s)"
+1352,C,55841,67543,325179
+1450,C++,37464,26113,257377
+7599,CMake,40427,23596,206794
+1449,C/C++ Header,23108,45445,101254
+2018,reStructuredText,21005,18552,41191
+159,JSON,0,0,30590
+3192,Text,3893,0,28021
+2,vim script,158,32,4883
+4,yacc,519,101,3240
+28,Python,682,255,2938
+16,Bourne Shell,208,254,2281
+26,XML,34,106,2269
+33,Qt,0,0,1965
+34,Bourne Again Shell,244,167,1404
+66,CUDA,274,51,1402
+7,lex,226,134,969
+32,Fortran 77,34,13,494
+6,Markdown,206,0,464
+8,Windows Resource File,56,99,405
+50,Fortran 90,87,76,391
+1,Lisp,63,86,382
+8,Dockerfile,35,47,379
+11,Assembly,76,285,329
+20,Java,46,36,266
+18,C#,26,12,234
+2,MSBuild script,1,0,229
+3,Perl,55,36,219
+14,Objective-C,105,130,168
+4,Pascal,22,23,123
+4,YAML,0,7,123
+2,PowerShell,20,17,113
+3,WiX source,22,0,107
+2,JavaScript,7,0,83
+3,HTML,4,0,77
+8,MATLAB,22,9,76
+7,Objective-C++,15,2,74
+13,Swift,8,0,68
+1,CSS,11,13,64
+7,DOS Batch,18,2,64
+2,Tcl/Tk,36,27,55
+2,HLSL,9,2,42
+7,D,3,0,39
+4,XAML,4,0,38
+8,SWIG,11,5,37
+1,MUMPS,0,10,36
+1,m4,7,2,35
+1,C# Generated,8,23,32
+1,IDL,2,0,28
+1,PHP,17,14,27
+4,diff,15,42,25
+1,Ruby,14,13,22
+1,Visual Studio Solution,0,0,21
+9,Windows Module Definition,0,0,21
+4,Protocol Buffers,6,0,19
+1,R,3,1,14
+1,Ant,0,0,4
+1,make,0,0,2
+1,Expect,0,0,1
+1,Lua,0,0,1
+1,TeX,0,0,1
+17715,SUM,185157,183381,1017189
