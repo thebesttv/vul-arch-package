@@ -1,0 +1,12 @@
+{
+  "name": "sigrok-cli",
+  "version": "0.7.2-1",
+  "depends": [
+    "libsigrok",
+    "libsigrokdecode"
+  ],
+  "makedepends": [],
+  "receive": 199545979,
+  "transmit": 296895,
+  "disk": 1129682
+}
