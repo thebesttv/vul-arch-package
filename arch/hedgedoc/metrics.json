@@ -1,0 +1,19 @@
+{
+  "name": "hedgedoc",
+  "version": "1.9.9-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "nodejs",
+    "sqlite",
+    "python",
+    "node-gyp",
+    "git",
+    "yarn",
+    "npm"
+  ],
+  "receive": 199655871,
+  "transmit": 420504,
+  "disk": 28093477
+}
