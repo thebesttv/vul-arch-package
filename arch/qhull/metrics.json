@@ -1,0 +1,13 @@
+{
+  "name": "qhull",
+  "version": "2020.2-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199526681,
+  "transmit": 271556,
+  "disk": 7871727
+}
