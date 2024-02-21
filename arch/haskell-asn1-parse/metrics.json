@@ -1,0 +1,15 @@
+{
+  "name": "haskell-asn1-parse",
+  "version": "0.9.5-226",
+  "depends": [
+    "ghc-libs",
+    "haskell-asn1-encoding",
+    "haskell-asn1-types"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199908310,
+  "transmit": 438510,
+  "disk": 352646
+}
