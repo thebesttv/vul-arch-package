@@ -1,0 +1,13 @@
+{
+  "name": "python-gflags",
+  "version": "3.1.2-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199631152,
+  "transmit": 400536,
+  "disk": 385607
+}
