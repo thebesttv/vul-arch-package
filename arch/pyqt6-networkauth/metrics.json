@@ -1,0 +1,19 @@
+{
+  "name": "pyqt6-networkauth",
+  "version": "6.6.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-pyqt6",
+    "qt6-base",
+    "qt6-networkauth"
+  ],
+  "makedepends": [
+    "pyqt-builder",
+    "sip"
+  ],
+  "receive": 199598311,
+  "transmit": 305214,
+  "disk": 203517
+}
