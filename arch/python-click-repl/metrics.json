@@ -1,0 +1,18 @@
+{
+  "name": "python-click-repl",
+  "version": "0.3.0-1",
+  "depends": [
+    "python",
+    "python-click",
+    "python-prompt_toolkit"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199523195,
+  "transmit": 253571,
+  "disk": 212711
+}
