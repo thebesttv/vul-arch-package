@@ -1,0 +1,13 @@
+{
+  "name": "nethack",
+  "version": "3.6.7-5",
+  "depends": [
+    "filesystem",
+    "ncurses",
+    "gzip"
+  ],
+  "makedepends": [],
+  "receive": 199488387,
+  "transmit": 221647,
+  "disk": 24546699
+}
