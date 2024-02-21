@@ -1,0 +1,19 @@
+{
+  "name": "volume_key",
+  "version": "0.3.12-8",
+  "depends": [],
+  "makedepends": [
+    "cryptsetup",
+    "glib2",
+    "glibc",
+    "gpgme",
+    "nspr",
+    "nss",
+    "python",
+    "swig",
+    "util-linux-libs"
+  ],
+  "receive": 199568373,
+  "transmit": 309763,
+  "disk": 4823416
+}
