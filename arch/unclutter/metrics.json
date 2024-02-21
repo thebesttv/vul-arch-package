@@ -1,0 +1,16 @@
+{
+  "name": "unclutter",
+  "version": "1:1.6-3",
+  "depends": [
+    "libxi",
+    "libx11",
+    "libxfixes",
+    "libev"
+  ],
+  "makedepends": [
+    "asciidoc"
+  ],
+  "receive": 199580385,
+  "transmit": 323476,
+  "disk": 151348
+}
