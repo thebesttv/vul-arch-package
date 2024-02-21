@@ -1,0 +1,18 @@
+{
+  "name": "haskell-wai-handler-launch",
+  "version": "3.0.3.1-591",
+  "depends": [
+    "ghc-libs",
+    "haskell-wai",
+    "haskell-warp",
+    "haskell-http-types",
+    "haskell-streaming-commons",
+    "haskell-async"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200281547,
+  "transmit": 350734,
+  "disk": 817484
+}
