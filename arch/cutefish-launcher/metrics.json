@@ -1,0 +1,17 @@
+{
+  "name": "cutefish-launcher",
+  "version": "0.8-2",
+  "depends": [
+    "fishui",
+    "kwindowsystem5",
+    "libcutefish"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199496957,
+  "transmit": 267986,
+  "disk": 363392
+}
