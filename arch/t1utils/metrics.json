@@ -1,0 +1,11 @@
+{
+  "name": "t1utils",
+  "version": "1.42-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199552697,
+  "transmit": 268658,
+  "disk": 430758
+}
