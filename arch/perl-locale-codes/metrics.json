@@ -1,0 +1,11 @@
+{
+  "name": "perl-locale-codes",
+  "version": "3.73-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199636628,
+  "transmit": 371384,
+  "disk": 5455217
+}
