@@ -1,0 +1,18 @@
+{
+  "name": "jedi-language-server",
+  "version": "0.41.2-1",
+  "depends": [
+    "python-docstring-to-markdown",
+    "python-jedi",
+    "python-pygls"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199708370,
+  "transmit": 385123,
+  "disk": 1792474
+}
