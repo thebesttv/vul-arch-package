@@ -1,0 +1,22 @@
+{
+  "name": "lib32-libsoup",
+  "version": "2.74.3-1",
+  "depends": [
+    "lib32-brotli",
+    "lib32-glib-networking",
+    "lib32-glib2",
+    "lib32-krb5",
+    "lib32-libpsl",
+    "lib32-libxml2",
+    "lib32-sqlite",
+    "libsoup"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "samba"
+  ],
+  "receive": 199641403,
+  "transmit": 376686,
+  "disk": 15562615
+}
