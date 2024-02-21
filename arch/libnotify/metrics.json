@@ -1,0 +1,19 @@
+{
+  "name": "libnotify",
+  "version": "0.8.3-1",
+  "depends": [
+    "gdk-pixbuf2"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "gtk3",
+    "meson",
+    "xmlto"
+  ],
+  "receive": 199614926,
+  "transmit": 340686,
+  "disk": 1598399
+}
