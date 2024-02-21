@@ -1,0 +1,13 @@
+{
+  "name": "python-janus",
+  "version": "1.0.0-2",
+  "depends": [
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199575526,
+  "transmit": 287404,
+  "disk": 211128
+}
