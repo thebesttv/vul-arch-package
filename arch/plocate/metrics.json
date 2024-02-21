@@ -1,0 +1,15 @@
+{
+  "name": "plocate",
+  "version": "1.1.22-1",
+  "depends": [
+    "zstd",
+    "liburing",
+    "systemd"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199583474,
+  "transmit": 360703,
+  "disk": 452621
+}
