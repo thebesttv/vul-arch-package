@@ -1,0 +1,14 @@
+{
+  "name": "cosign",
+  "version": "2.2.2-1",
+  "depends": [
+    "pcsclite"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 200176354,
+  "transmit": 409157,
+  "disk": 4860519
+}
