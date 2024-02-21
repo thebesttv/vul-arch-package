@@ -1,0 +1,13 @@
+{
+  "name": "rocm-llvm",
+  "version": "6.0.0-2",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "python",
+    "ninja"
+  ],
+  "receive": 389591227,
+  "transmit": 3255099,
+  "disk": 1598903474
+}
