@@ -1,0 +1,11 @@
+{
+  "name": "perl-object-event",
+  "version": "1.23-10",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199554172,
+  "transmit": 300942,
+  "disk": 191003
+}
