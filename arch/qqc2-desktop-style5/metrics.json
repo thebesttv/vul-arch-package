@@ -1,0 +1,15 @@
+{
+  "name": "qqc2-desktop-style5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kirigami2",
+    "kiconthemes5",
+    "sonnet5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199700813,
+  "transmit": 470102,
+  "disk": 625725
+}
