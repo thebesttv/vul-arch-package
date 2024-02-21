@@ -1,0 +1,14 @@
+{
+  "name": "python-socketpool",
+  "version": "0.5.3-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 199611797,
+  "transmit": 368796,
+  "disk": 415093
+}
