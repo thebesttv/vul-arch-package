@@ -1,0 +1,14 @@
+{
+  "name": "gpg-crypter",
+  "version": "0.4.1-4",
+  "depends": [
+    "gtk3",
+    "gpgme"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199650486,
+  "transmit": 403198,
+  "disk": 965127
+}
