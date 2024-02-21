@@ -1,0 +1,17 @@
+{
+  "name": "qt6-httpserver",
+  "version": "6.6.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-websockets"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199760263,
+  "transmit": 459308,
+  "disk": 285630
+}
