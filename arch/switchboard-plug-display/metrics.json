@@ -1,0 +1,20 @@
+{
+  "name": "switchboard-plug-display",
+  "version": "7.0.0-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libswitchboard-2.0.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "switchboard",
+    "vala"
+  ],
+  "receive": 199669299,
+  "transmit": 378204,
+  "disk": 6058007
+}
