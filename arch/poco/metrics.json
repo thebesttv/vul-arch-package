@@ -1,0 +1,16 @@
+{
+  "name": "poco",
+  "version": "1.12.5p2-1",
+  "depends": [
+    "mariadb-libs",
+    "openssl",
+    "unixodbc"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 205847836,
+  "transmit": 473610,
+  "disk": 58540700
+}
