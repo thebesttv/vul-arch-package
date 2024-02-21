@@ -1,0 +1,11 @@
+{
+  "name": "perl-clone",
+  "version": "0.46-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199502616,
+  "transmit": 275786,
+  "disk": 863422
+}
