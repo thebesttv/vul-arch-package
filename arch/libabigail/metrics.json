@@ -1,0 +1,20 @@
+{
+  "name": "libabigail",
+  "version": "2.4-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "binutils",
+    "libxml2",
+    "libelf",
+    "elfutils",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-sphinx"
+  ],
+  "receive": 708800989,
+  "transmit": 726457,
+  "disk": 1301599232
+}
