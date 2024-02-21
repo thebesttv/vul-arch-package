@@ -1,0 +1,18 @@
+{
+  "name": "kleopatra",
+  "version": "23.08.5-1",
+  "depends": [
+    "libkleo",
+    "kidentitymanagement",
+    "kmailtransport",
+    "akonadi-mime"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "kcmutils5"
+  ],
+  "receive": 202537825,
+  "transmit": 426872,
+  "disk": 37001199
+}
