@@ -1,0 +1,16 @@
+{
+  "name": "cutefish-filemanager",
+  "version": "0.8-2",
+  "depends": [
+    "fishui",
+    "kio5",
+    "solid5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools"
+  ],
+  "receive": 199669263,
+  "transmit": 402872,
+  "disk": 1773552
+}
