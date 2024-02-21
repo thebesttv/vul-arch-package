@@ -1,0 +1,14 @@
+{
+  "name": "xcb-util-renderutil",
+  "version": "0.3.10-1",
+  "depends": [
+    "libxcb>=1.7"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199755633,
+  "transmit": 429963,
+  "disk": 2101664
+}
