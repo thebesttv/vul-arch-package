@@ -1,0 +1,35 @@
+{
+  "name": "haskell-tree-diff",
+  "version": "0.3.0.1-51",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-ansi-wl-pprint",
+    "haskell-ansi-terminal",
+    "haskell-base-compat",
+    "haskell-data-array-byte",
+    "haskell-hashable",
+    "haskell-parsers",
+    "haskell-primitive",
+    "haskell-quickcheck",
+    "haskell-scientific",
+    "haskell-semialign",
+    "haskell-strict",
+    "haskell-tagged",
+    "haskell-these",
+    "haskell-unordered-containers",
+    "haskell-uuid-types",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-trifecta",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199662221,
+  "transmit": 380642,
+  "disk": 655354
+}
