@@ -1,0 +1,14 @@
+{
+  "name": "python-sqlobject",
+  "version": "3.11.0-1",
+  "depends": [
+    "python-pydispatcher",
+    "python-formencode"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199751389,
+  "transmit": 407402,
+  "disk": 1798248
+}
