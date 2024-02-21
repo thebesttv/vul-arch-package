@@ -1,0 +1,15 @@
+{
+  "name": "leveldb",
+  "version": "1.23-3",
+  "depends": [
+    "snappy"
+  ],
+  "makedepends": [
+    "cmake",
+    "gmock",
+    "benchmark"
+  ],
+  "receive": 199543697,
+  "transmit": 274728,
+  "disk": 1380007
+}
