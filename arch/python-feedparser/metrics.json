@@ -1,0 +1,18 @@
+{
+  "name": "python-feedparser",
+  "version": "6.0.11-1",
+  "depends": [
+    "libxml2",
+    "python-sgmllib3k"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199550946,
+  "transmit": 304129,
+  "disk": 10172554
+}
