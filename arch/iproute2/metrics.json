@@ -1,0 +1,17 @@
+{
+  "name": "iproute2",
+  "version": "6.7.0-1",
+  "depends": [
+    "glibc",
+    "iptables",
+    "libcap",
+    "libelf",
+    "libbpf"
+  ],
+  "makedepends": [
+    "linux-atm"
+  ],
+  "receive": 199727893,
+  "transmit": 315797,
+  "disk": 6711121
+}
