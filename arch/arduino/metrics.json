@@ -1,0 +1,21 @@
+{
+  "name": "arduino",
+  "version": "1:1.8.19-2",
+  "depends": [
+    "gtk3",
+    "desktop-file-utils",
+    "shared-mime-info",
+    "java-runtime=8",
+    "arduino-builder"
+  ],
+  "makedepends": [
+    "gtk2-compat",
+    "java-environment=8",
+    "ant",
+    "unzip",
+    "asciidoc"
+  ],
+  "receive": 255357562,
+  "transmit": 371748,
+  "disk": 159629006
+}
