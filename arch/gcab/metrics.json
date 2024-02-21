@@ -1,0 +1,17 @@
+{
+  "name": "gcab",
+  "version": "1.6-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "vala"
+  ],
+  "receive": 199974605,
+  "transmit": 658215,
+  "disk": 1315413
+}
