@@ -1,0 +1,12 @@
+{
+  "name": "ruby-rainbow",
+  "version": "3.1.1-1",
+  "depends": [
+    "ruby",
+    "ruby-rdoc"
+  ],
+  "makedepends": [],
+  "receive": 201001926,
+  "transmit": 1098417,
+  "disk": 200769
+}
