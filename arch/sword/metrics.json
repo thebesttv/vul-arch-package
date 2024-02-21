@@ -1,0 +1,15 @@
+{
+  "name": "sword",
+  "version": "1.9.0-11",
+  "depends": [],
+  "makedepends": [
+    "curl",
+    "clucene",
+    "swig",
+    "cmake",
+    "python"
+  ],
+  "receive": 199510373,
+  "transmit": 277794,
+  "disk": 15173419
+}
