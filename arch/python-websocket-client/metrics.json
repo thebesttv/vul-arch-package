@@ -1,0 +1,13 @@
+{
+  "name": "python-websocket-client",
+  "version": "1.7.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199617172,
+  "transmit": 390174,
+  "disk": 446995
+}
