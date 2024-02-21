@@ -1,0 +1,11 @@
+{
+  "name": "sdl_net",
+  "version": "1.2.8-5",
+  "depends": [
+    "sdl"
+  ],
+  "makedepends": [],
+  "receive": 199688922,
+  "transmit": 341002,
+  "disk": 2000903
+}
