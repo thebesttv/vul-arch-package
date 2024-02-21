@@ -1,0 +1,18 @@
+{
+  "name": "qcoro",
+  "version": "0.10.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-declarative",
+    "qt5-websockets",
+    "qt6-declarative",
+    "qt6-websockets"
+  ],
+  "receive": 199524981,
+  "transmit": 252991,
+  "disk": 1132647
+}
