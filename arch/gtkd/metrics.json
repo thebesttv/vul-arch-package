@@ -1,0 +1,14 @@
+{
+  "name": "gtkd",
+  "version": "3.10.0-11",
+  "depends": [
+    "liblphobos",
+    "gtk3"
+  ],
+  "makedepends": [
+    "ldc"
+  ],
+  "receive": 202961351,
+  "transmit": 393058,
+  "disk": 21352160
+}
