@@ -1,0 +1,23 @@
+{
+  "name": "kdiskmark",
+  "version": "3.1.4-1",
+  "depends": [
+    "qt5-base",
+    "fio",
+    "libaio",
+    "hicolor-icon-theme",
+    "kauth5",
+    "glibc",
+    "gcc-libs",
+    "polkit-qt5"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "extra-cmake-modules",
+    "qt5-tools"
+  ],
+  "receive": 199597895,
+  "transmit": 388362,
+  "disk": 1995328
+}
