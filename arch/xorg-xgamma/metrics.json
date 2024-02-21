@@ -1,0 +1,14 @@
+{
+  "name": "xorg-xgamma",
+  "version": "1.0.7-1",
+  "depends": [
+    "libx11",
+    "libxxf86vm"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199806997,
+  "transmit": 542780,
+  "disk": 958417
+}
