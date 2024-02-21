@@ -1,0 +1,34 @@
+{
+  "name": "slurm-llnl",
+  "version": "23.11.3.1-2",
+  "depends": [
+    "curl",
+    "dbus",
+    "glibc",
+    "hwloc",
+    "lz4",
+    "munge",
+    "numactl",
+    "pam",
+    "readline"
+  ],
+  "makedepends": [
+    "freeipmi",
+    "gtk2",
+    "hdf5",
+    "http-parser",
+    "json-c",
+    "level-zero-headers",
+    "level-zero-loader",
+    "libyaml",
+    "lua",
+    "mariadb-libs",
+    "openpmix",
+    "python",
+    "rdma-core",
+    "rrdtool"
+  ],
+  "receive": 199615208,
+  "transmit": 360697,
+  "disk": 52991889
+}
