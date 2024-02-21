@@ -1,0 +1,31 @@
+{
+  "name": "haskell-servant-swagger",
+  "version": "1.2-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-http-media",
+    "haskell-insert-ordered-containers",
+    "haskell-lens",
+    "haskell-servant",
+    "haskell-singleton-bool",
+    "haskell-swagger2",
+    "haskell-unordered-containers",
+    "haskell-hspec",
+    "haskell-quickcheck"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-base-compat",
+    "haskell-cabal-doctest",
+    "haskell-doctest",
+    "haskell-hspec-discover",
+    "haskell-lens-aeson",
+    "haskell-utf8-string",
+    "haskell-vector"
+  ],
+  "receive": 199565403,
+  "transmit": 335452,
+  "disk": 856721
+}
