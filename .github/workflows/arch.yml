@@ -113,7 +113,9 @@ jobs:
           fi
 
           sleep 10
-          ./metrics/get-metrics | sudo tee arch/$TBT_PACKAGE_NAME/metrics.json
+
+          ./metrics/get-metrics tmp_work_dir/$TBT_PACKAGE_NAME | \
+              sudo tee arch/$TBT_PACKAGE_NAME/metrics.json
 
           ls arch/$TBT_PACKAGE_NAME/metrics.json
 

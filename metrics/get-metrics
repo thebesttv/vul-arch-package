@@ -1,5 +1,19 @@
 #!/bin/bash
 
+if [ -n "$1" ]; then
+    cd "$1" || { echo "Failed to change directory"; exit 1; }
+fi
+
+if [ ! -f "PKGBUILD" ]; then
+    echo "Error: PKGBUILD not found!"
+    exit 1
+fi
+
+source PKGBUILD
+
+JSON_depends=$(jq -c -n '$ARGS.positional' --args -- "${depends[@]}")
+JSON_makedepends=$(jq -c -n '$ARGS.positional' --args -- "${makedepends[@]}")
+
 query_prometheus() {
     local METRIC="$1"
 
@@ -14,9 +28,14 @@ receive=$(query_prometheus 'container_network_receive_bytes_total')
 transmit=$(query_prometheus 'container_network_transmit_bytes_total')
 disk=$(query_prometheus 'container_fs_usage_bytes')
 
+disk=$(du -sb . | awk '{print $1}')
+
 jq -n \
    --arg name         "$TBT_PACKAGE_NAME" \
    --arg version      "$TBT_PACKAGE_VERSION" \
+   --argjson depends  "$JSON_depends" \
+   --argjson makedepends "$JSON_makedepends"\
    --argjson receive  $receive \
    --argjson transmit $transmit \
-   '{name: $name, version: $version, receive: $receive, transmit: $transmit}'
+   --argjson disk     $disk \
+   '{name: $name, version: $version, depends: $depends, makedepends: $makedepends, receive: $receive, transmit: $transmit, disk: $disk}'
