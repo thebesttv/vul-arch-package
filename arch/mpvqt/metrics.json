@@ -1,0 +1,17 @@
+{
+  "name": "mpvqt",
+  "version": "1.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "mpv",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199523912,
+  "transmit": 281316,
+  "disk": 307940
+}
