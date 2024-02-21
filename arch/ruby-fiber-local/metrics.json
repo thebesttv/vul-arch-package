@@ -1,0 +1,11 @@
+{
+  "name": "ruby-fiber-local",
+  "version": "1.0.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199565941,
+  "transmit": 293900,
+  "disk": 132153
+}
