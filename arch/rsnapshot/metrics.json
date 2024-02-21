@@ -1,0 +1,14 @@
+{
+  "name": "rsnapshot",
+  "version": "1.4.5-1",
+  "depends": [
+    "perl",
+    "rsync",
+    "openssh",
+    "perl-lchown"
+  ],
+  "makedepends": [],
+  "receive": 199546658,
+  "transmit": 303016,
+  "disk": 985602
+}
