@@ -1,0 +1,11 @@
+{
+  "name": "dmidecode",
+  "version": "3.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199658755,
+  "transmit": 339908,
+  "disk": 488978
+}
