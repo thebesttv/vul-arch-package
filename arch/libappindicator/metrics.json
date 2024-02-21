@@ -1,0 +1,18 @@
+{
+  "name": "libappindicator",
+  "version": "12.10.0.r298-3",
+  "depends": [],
+  "makedepends": [
+    "breezy",
+    "dbus-glib",
+    "gnome-common",
+    "gobject-introspection",
+    "gtk-doc",
+    "libdbusmenu-gtk2",
+    "libdbusmenu-gtk3",
+    "vala"
+  ],
+  "receive": 202465063,
+  "transmit": 466849,
+  "disk": 5458974
+}
