@@ -1,0 +1,14 @@
+{
+  "name": "liri-calculator",
+  "version": "1.3.0-1",
+  "depends": [
+    "fluid"
+  ],
+  "makedepends": [
+    "liri-cmake-shared",
+    "qt5-tools"
+  ],
+  "receive": 200022637,
+  "transmit": 619192,
+  "disk": 1583471
+}
