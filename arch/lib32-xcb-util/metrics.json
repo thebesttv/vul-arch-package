@@ -1,0 +1,16 @@
+{
+  "name": "lib32-xcb-util",
+  "version": "0.4.1-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-libxcb",
+    "xcb-util"
+  ],
+  "makedepends": [
+    "gperf",
+    "xorgproto"
+  ],
+  "receive": 199552105,
+  "transmit": 284705,
+  "disk": 2094164
+}
