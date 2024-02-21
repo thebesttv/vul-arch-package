@@ -1,0 +1,17 @@
+{
+  "name": "ruby-chef-utils",
+  "version": "18.4.6-1",
+  "depends": [
+    "ruby",
+    "ruby-concurrent"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-bundler"
+  ],
+  "receive": 527635552,
+  "transmit": 1096818,
+  "disk": 547491266
+}
