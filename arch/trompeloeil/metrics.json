@@ -1,0 +1,12 @@
+{
+  "name": "trompeloeil",
+  "version": "47-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199697209,
+  "transmit": 406756,
+  "disk": 1542646
+}
