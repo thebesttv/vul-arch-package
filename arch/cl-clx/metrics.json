@@ -1,0 +1,15 @@
+{
+  "name": "cl-clx",
+  "version": "0.7.5.r71.gf5bc0ab-1",
+  "depends": [
+    "common-lisp",
+    "cl-asdf",
+    "xorg-server"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199547178,
+  "transmit": 290280,
+  "disk": 4395740
+}
