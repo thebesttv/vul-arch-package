@@ -1,0 +1,18 @@
+{
+  "name": "xcolor",
+  "version": "0.5.1-3",
+  "depends": [
+    "libxcb",
+    "libxcursor",
+    "libx11",
+    "gcc-libs",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "rust",
+    "python"
+  ],
+  "receive": 199639200,
+  "transmit": 397868,
+  "disk": 1075079
+}
