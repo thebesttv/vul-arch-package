@@ -1,0 +1,19 @@
+{
+  "name": "chewing-editor",
+  "version": "0.1.1-10",
+  "depends": [
+    "glibc",
+    "libchewing",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools",
+    "help2man",
+    "gtest",
+    "gmock"
+  ],
+  "receive": 199636088,
+  "transmit": 386919,
+  "disk": 12594268
+}
