@@ -1,0 +1,13 @@
+{
+  "name": "python-repoze.lru",
+  "version": "0.7-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199493591,
+  "transmit": 243474,
+  "disk": 218670
+}
