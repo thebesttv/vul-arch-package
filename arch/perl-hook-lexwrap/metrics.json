@@ -1,0 +1,11 @@
+{
+  "name": "perl-hook-lexwrap",
+  "version": "0.26-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199621296,
+  "transmit": 387722,
+  "disk": 121692
+}
