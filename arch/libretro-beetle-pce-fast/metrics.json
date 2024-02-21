@@ -1,0 +1,16 @@
+{
+  "name": "libretro-beetle-pce-fast",
+  "version": "1236-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libretro-core-info",
+    "zlib"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 212162592,
+  "transmit": 509947,
+  "disk": 33114612
+}
