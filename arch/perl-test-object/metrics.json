@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-object",
+  "version": "0.08-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199674212,
+  "transmit": 400938,
+  "disk": 116242
+}
