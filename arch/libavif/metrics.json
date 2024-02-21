@@ -1,0 +1,23 @@
+{
+  "name": "libavif",
+  "version": "1.0.4-1",
+  "depends": [
+    "glibc",
+    "aom",
+    "dav1d",
+    "librav1e.so",
+    "svt-av1",
+    "libpng",
+    "libjpeg",
+    "libyuv"
+  ],
+  "makedepends": [
+    "cmake",
+    "nasm",
+    "pkgconf",
+    "gdk-pixbuf2"
+  ],
+  "receive": 199600932,
+  "transmit": 351860,
+  "disk": 25018179
+}
