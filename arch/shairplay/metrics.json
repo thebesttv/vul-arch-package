@@ -1,0 +1,14 @@
+{
+  "name": "shairplay",
+  "version": "20180824.096b61a-4",
+  "depends": [
+    "libao",
+    "avahi"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199539458,
+  "transmit": 250451,
+  "disk": 10139667
+}
