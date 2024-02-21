@@ -1,0 +1,15 @@
+{
+  "name": "sniffglue",
+  "version": "0.16.0-1",
+  "depends": [
+    "libpcap",
+    "libseccomp"
+  ],
+  "makedepends": [
+    "cargo",
+    "scdoc"
+  ],
+  "receive": 200390367,
+  "transmit": 1006870,
+  "disk": 1541270
+}
