@@ -1,0 +1,17 @@
+{
+  "name": "libwnck",
+  "version": "2.31.0-3",
+  "depends": [
+    "gtk2",
+    "startup-notification",
+    "libxres"
+  ],
+  "makedepends": [
+    "libxt",
+    "intltool",
+    "gobject-introspection"
+  ],
+  "receive": 199727399,
+  "transmit": 405149,
+  "disk": 6736914
+}
