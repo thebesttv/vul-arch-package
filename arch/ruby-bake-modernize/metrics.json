@@ -1,0 +1,17 @@
+{
+  "name": "ruby-bake-modernize",
+  "version": "0.18.0-1",
+  "depends": [
+    "ruby-async-http",
+    "ruby-bake",
+    "ruby-build-files",
+    "ruby-markly",
+    "ruby-rugged"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199771600,
+  "transmit": 471127,
+  "disk": 1321184
+}
