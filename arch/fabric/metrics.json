@@ -1,0 +1,20 @@
+{
+  "name": "fabric",
+  "version": "3.2.2-1",
+  "depends": [
+    "python-paramiko",
+    "python-invoke",
+    "python-decorator",
+    "python-deprecated",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-wheel",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 199529965,
+  "transmit": 280175,
+  "disk": 953253
+}
