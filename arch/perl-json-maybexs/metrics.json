@@ -1,0 +1,14 @@
+{
+  "name": "perl-json-maybexs",
+  "version": "1.004005-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-test-needs",
+    "perl-cpanel-json-xs"
+  ],
+  "receive": 199755398,
+  "transmit": 424036,
+  "disk": 116251
+}
