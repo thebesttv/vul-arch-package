@@ -1,0 +1,11 @@
+{
+  "name": "ruby-simplecov-html",
+  "version": "0.12.3-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199641008,
+  "transmit": 400356,
+  "disk": 1637352
+}
