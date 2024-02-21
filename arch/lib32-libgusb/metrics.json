@@ -1,0 +1,17 @@
+{
+  "name": "lib32-libgusb",
+  "version": "0.4.8-1",
+  "depends": [
+    "lib32-glib2",
+    "lib32-json-glib",
+    "lib32-libusb",
+    "libgusb"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199554459,
+  "transmit": 321196,
+  "disk": 1345578
+}
