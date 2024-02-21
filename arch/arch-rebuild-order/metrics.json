@@ -1,0 +1,16 @@
+{
+  "name": "arch-rebuild-order",
+  "version": "0.4.2-1",
+  "depends": [
+    "glibc",
+    "libalpm.so"
+  ],
+  "makedepends": [
+    "cargo",
+    "mandown",
+    "git"
+  ],
+  "receive": 199606006,
+  "transmit": 340333,
+  "disk": 477118
+}
