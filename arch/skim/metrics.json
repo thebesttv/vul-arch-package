@@ -1,0 +1,14 @@
+{
+  "name": "skim",
+  "version": "0.10.4-2",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199604291,
+  "transmit": 387856,
+  "disk": 2811613
+}
