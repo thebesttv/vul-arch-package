@@ -1,0 +1,30 @@
+{
+  "name": "julia",
+  "version": "2:1.10.1-1",
+  "depends": [
+    "blas64-openblas",
+    "fftw",
+    "libblastrampoline",
+    "libgit2",
+    "libunwind",
+    "libutf8proc",
+    "lld",
+    "llvm-julia-libs",
+    "mbedtls2",
+    "openlibm",
+    "p7zip",
+    "pcre2",
+    "suitesparse"
+  ],
+  "makedepends": [
+    "cmake",
+    "gcc-fortran",
+    "libwhich",
+    "llvm-julia",
+    "patchelf",
+    "python"
+  ],
+  "receive": 520003086,
+  "transmit": 1038272,
+  "disk": 673081752
+}
