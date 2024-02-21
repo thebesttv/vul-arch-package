@@ -1,0 +1,20 @@
+{
+  "name": "pwninit",
+  "version": "3.3.1-2",
+  "depends": [
+    "elfutils",
+    "gcc-libs",
+    "glibc",
+    "openssl",
+    "patchelf",
+    "xz",
+    "zstd"
+  ],
+  "makedepends": [
+    "git",
+    "cargo"
+  ],
+  "receive": 199595524,
+  "transmit": 384993,
+  "disk": 1152690
+}
