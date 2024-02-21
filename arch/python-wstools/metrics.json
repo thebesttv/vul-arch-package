@@ -1,0 +1,14 @@
+{
+  "name": "python-wstools",
+  "version": "0.4.10-6",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-pbr",
+    "python-setuptools"
+  ],
+  "receive": 199672029,
+  "transmit": 421450,
+  "disk": 3056045
+}
