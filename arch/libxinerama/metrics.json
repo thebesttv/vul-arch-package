@@ -1,0 +1,14 @@
+{
+  "name": "libxinerama",
+  "version": "1.1.5-1",
+  "depends": [
+    "libxext"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199682050,
+  "transmit": 392967,
+  "disk": 2103670
+}
