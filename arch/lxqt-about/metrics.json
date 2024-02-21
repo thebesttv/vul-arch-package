@@ -1,0 +1,14 @@
+{
+  "name": "lxqt-about",
+  "version": "1.4.0-1",
+  "depends": [
+    "liblxqt",
+    "libQt5Xdg.so"
+  ],
+  "makedepends": [
+    "lxqt-build-tools"
+  ],
+  "receive": 199650731,
+  "transmit": 388071,
+  "disk": 677971
+}
