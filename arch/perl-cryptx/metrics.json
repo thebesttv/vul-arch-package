@@ -1,0 +1,11 @@
+{
+  "name": "perl-cryptx",
+  "version": "0.080-1",
+  "depends": [
+    "perl>=5.6"
+  ],
+  "makedepends": [],
+  "receive": 199515357,
+  "transmit": 260240,
+  "disk": 8819274
+}
