@@ -1,0 +1,20 @@
+{
+  "name": "python-moddb",
+  "version": "0.10.0-1",
+  "depends": [
+    "python-beautifulsoup4",
+    "python-pyrate-limiter",
+    "python-requests",
+    "python-toolz"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199580642,
+  "transmit": 301511,
+  "disk": 96456967
+}
