@@ -1,0 +1,13 @@
+{
+  "name": "putty",
+  "version": "0.80-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 202164261,
+  "transmit": 406251,
+  "disk": 13088015
+}
