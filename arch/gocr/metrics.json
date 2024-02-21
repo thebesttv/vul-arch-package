@@ -1,0 +1,12 @@
+{
+  "name": "gocr",
+  "version": "0.52-2",
+  "depends": [
+    "libjpeg-turbo",
+    "netpbm"
+  ],
+  "makedepends": [],
+  "receive": 199565538,
+  "transmit": 301768,
+  "disk": 2025775
+}
