@@ -1,0 +1,14 @@
+{
+  "name": "haskell-hunit",
+  "version": "1.6.2.0-219",
+  "depends": [
+    "ghc-libs",
+    "haskell-call-stack"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199975787,
+  "transmit": 426167,
+  "disk": 464156
+}
