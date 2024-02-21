@@ -1,0 +1,16 @@
+{
+  "name": "haskell-text-latin1",
+  "version": "0.3.1-208",
+  "depends": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-data-checked",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199532016,
+  "transmit": 276402,
+  "disk": 305226
+}
