@@ -1,0 +1,17 @@
+{
+  "name": "perl-datetime-format-ical",
+  "version": "0.09-13",
+  "depends": [
+    "perl-datetime-timezone",
+    "perl-datetime-event-ical",
+    "perl-datetime",
+    "perl-params-validate",
+    "perl-datetime-set"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199676966,
+  "transmit": 408313,
+  "disk": 193268
+}
