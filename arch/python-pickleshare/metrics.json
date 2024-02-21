@@ -1,0 +1,13 @@
+{
+  "name": "python-pickleshare",
+  "version": "0.7.5-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199512920,
+  "transmit": 232686,
+  "disk": 124864
+}
