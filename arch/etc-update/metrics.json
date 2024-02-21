@@ -1,0 +1,13 @@
+{
+  "name": "etc-update",
+  "version": "2.3.99-2",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199593011,
+  "transmit": 346207,
+  "disk": 7646188
+}
