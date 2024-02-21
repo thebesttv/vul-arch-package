@@ -1,0 +1,14 @@
+{
+  "name": "rekor",
+  "version": "1.3.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199646161,
+  "transmit": 412574,
+  "disk": 4530939
+}
