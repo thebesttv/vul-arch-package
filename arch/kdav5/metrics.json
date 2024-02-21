@@ -1,0 +1,16 @@
+{
+  "name": "kdav5",
+  "version": "1:5.115.0-1",
+  "depends": [
+    "kio5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199674885,
+  "transmit": 437529,
+  "disk": 847183
+}
