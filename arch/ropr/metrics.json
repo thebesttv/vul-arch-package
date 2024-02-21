@@ -1,0 +1,14 @@
+{
+  "name": "ropr",
+  "version": "0.2.25-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199632962,
+  "transmit": 310149,
+  "disk": 154660
+}
