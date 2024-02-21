@@ -1,0 +1,16 @@
+{
+  "name": "python-kiwisolver",
+  "version": "1.4.5-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-cppy",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199655157,
+  "transmit": 372305,
+  "disk": 1539801
+}
