@@ -1,0 +1,11 @@
+{
+  "name": "kxstudio-lv2-extensions",
+  "version": "2022.09.28-2",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199621408,
+  "transmit": 397386,
+  "disk": 391440
+}
