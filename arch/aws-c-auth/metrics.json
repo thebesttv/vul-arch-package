@@ -1,0 +1,15 @@
+{
+  "name": "aws-c-auth",
+  "version": "0.7.1-1",
+  "depends": [
+    "aws-c-common",
+    "aws-c-http",
+    "aws-c-sdkutils"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199523391,
+  "transmit": 256291,
+  "disk": 2934880
+}
