@@ -1,0 +1,20 @@
+{
+  "name": "perl-datetime",
+  "version": "1.65-1",
+  "depends": [
+    "perl-datetime-timezone>=0.59",
+    "perl-datetime-locale>=0.41",
+    "perl-params-validate>=0.76",
+    "perl-math-round",
+    "perl-namespace-autoclean",
+    "perl-specio",
+    "perl-eval-closure",
+    "perl-params-validationcompiler"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199926311,
+  "transmit": 298963,
+  "disk": 1987948
+}
