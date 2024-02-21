@@ -1,0 +1,14 @@
+{
+  "name": "libqb",
+  "version": "2.0.3-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "doxygen",
+    "splint"
+  ],
+  "receive": 200025733,
+  "transmit": 789055,
+  "disk": 4160070
+}
