@@ -1,0 +1,11 @@
+{
+  "name": "spin",
+  "version": "6.5.2-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199710495,
+  "transmit": 415339,
+  "disk": 13630744
+}
