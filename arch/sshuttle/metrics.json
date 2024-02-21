@@ -1,0 +1,16 @@
+{
+  "name": "sshuttle",
+  "version": "1.1.2-1",
+  "depends": [
+    "iptables",
+    "openssh",
+    "net-tools"
+  ],
+  "makedepends": [
+    "python-sphinx",
+    "python-setuptools"
+  ],
+  "receive": 199610118,
+  "transmit": 386074,
+  "disk": 687403
+}
