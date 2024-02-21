@@ -1,0 +1,11 @@
+{
+  "name": "m17n-db",
+  "version": "1.8.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199613205,
+  "transmit": 276748,
+  "disk": 10937963
+}
