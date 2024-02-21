@@ -1,0 +1,17 @@
+{
+  "name": "clanlib",
+  "version": "4.1.0-2",
+  "depends": [
+    "alsa-lib",
+    "fontconfig",
+    "libgl",
+    "libxrender"
+  ],
+  "makedepends": [
+    "doxygen",
+    "graphviz"
+  ],
+  "receive": 205822241,
+  "transmit": 406274,
+  "disk": 26308113
+}
