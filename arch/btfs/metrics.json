@@ -1,0 +1,15 @@
+{
+  "name": "btfs",
+  "version": "2.24-3",
+  "depends": [
+    "fuse2",
+    "libtorrent-rasterbar",
+    "curl"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 200631372,
+  "transmit": 1315861,
+  "disk": 222395
+}
