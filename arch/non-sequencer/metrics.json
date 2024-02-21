@@ -1,0 +1,21 @@
+{
+  "name": "non-sequencer",
+  "version": "1.10.0-3",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libsigc++",
+    "libx11"
+  ],
+  "makedepends": [
+    "jack",
+    "liblo",
+    "ntk",
+    "waf"
+  ],
+  "receive": 199650470,
+  "transmit": 403433,
+  "disk": 11509822
+}
