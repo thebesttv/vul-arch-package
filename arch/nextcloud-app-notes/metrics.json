@@ -1,0 +1,12 @@
+{
+  "name": "nextcloud-app-notes",
+  "version": "4.9.2-1",
+  "depends": [],
+  "makedepends": [
+    "nextcloud",
+    "yq"
+  ],
+  "receive": 199594020,
+  "transmit": 305463,
+  "disk": 34748219
+}
