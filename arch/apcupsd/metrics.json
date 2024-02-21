@@ -1,0 +1,15 @@
+{
+  "name": "apcupsd",
+  "version": "3.14.14-7",
+  "depends": [
+    "gcc-libs",
+    "systemd-sysvcompat",
+    "libusb-compat"
+  ],
+  "makedepends": [
+    "gd"
+  ],
+  "receive": 201658503,
+  "transmit": 467336,
+  "disk": 7169255
+}
