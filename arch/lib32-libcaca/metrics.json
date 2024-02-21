@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libcaca",
+  "version": "0.99.beta20-1",
+  "depends": [
+    "lib32-imlib2",
+    "libcaca"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199904525,
+  "transmit": 562662,
+  "disk": 9683502
+}
