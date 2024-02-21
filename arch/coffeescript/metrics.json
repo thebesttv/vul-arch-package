@@ -1,0 +1,13 @@
+{
+  "name": "coffeescript",
+  "version": "2.7.0-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199705848,
+  "transmit": 432234,
+  "disk": 473540
+}
