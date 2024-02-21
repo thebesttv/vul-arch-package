@@ -1,0 +1,12 @@
+{
+  "name": "pbzip2",
+  "version": "1.1.13-3",
+  "depends": [
+    "bzip2",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199619025,
+  "transmit": 380898,
+  "disk": 348409
+}
