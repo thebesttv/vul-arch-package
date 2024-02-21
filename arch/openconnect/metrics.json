@@ -1,0 +1,37 @@
+{
+  "name": "openconnect",
+  "version": "1:9.12-1",
+  "depends": [
+    "libxml2",
+    "gnutls",
+    "libproxy",
+    "vpnc",
+    "krb5",
+    "lz4",
+    "pcsclite",
+    "stoken",
+    "tpm2-tss",
+    "oath-toolkit",
+    "libproxy",
+    "libp11-kit",
+    "xdg-utils",
+    "libstoken.so",
+    "libtss2-esys.so",
+    "libtss2-mu.so",
+    "libtss2-tctildr.so",
+    "libxml2.so",
+    "libproxy.so",
+    "libhogweed.so",
+    "libp11-kit.so",
+    "libpskc.so",
+    "libgssapi_krb5.so",
+    "libpcsclite.so"
+  ],
+  "makedepends": [
+    "intltool",
+    "python"
+  ],
+  "receive": 201183695,
+  "transmit": 347441,
+  "disk": 14143620
+}
