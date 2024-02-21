@@ -1,0 +1,14 @@
+{
+  "name": "pngquant",
+  "version": "3.0.3-2",
+  "depends": [
+    "libpng",
+    "lcms2"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199520436,
+  "transmit": 294160,
+  "disk": 370219
+}
