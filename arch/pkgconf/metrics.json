@@ -1,0 +1,15 @@
+{
+  "name": "pkgconf",
+  "version": "2.1.0-2",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199711620,
+  "transmit": 452145,
+  "disk": 2561216
+}
