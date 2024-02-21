@@ -1,0 +1,25 @@
+{
+  "name": "pinentry",
+  "version": "1.2.1-3",
+  "depends": [
+    "glibc",
+    "ncurses",
+    "libassuan",
+    "libsecret",
+    "glib2",
+    "libsecret-1.so",
+    "libncursesw.so",
+    "libassuan.so",
+    "libglib-2.0.so"
+  ],
+  "makedepends": [
+    "gtk2",
+    "qt5-base",
+    "qt5-x11extras",
+    "kwayland5",
+    "gcr"
+  ],
+  "receive": 200395025,
+  "transmit": 455990,
+  "disk": 3483515
+}
