@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-fatal",
+  "version": "0.017-2",
+  "depends": [
+    "perl-try-tiny"
+  ],
+  "makedepends": [],
+  "receive": 199573977,
+  "transmit": 349799,
+  "disk": 238852
+}
