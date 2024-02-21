@@ -1,0 +1,11 @@
+{
+  "name": "perl-html-element-extended",
+  "version": "1.18-11",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199529576,
+  "transmit": 263885,
+  "disk": 188626
+}
