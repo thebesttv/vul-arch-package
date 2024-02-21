@@ -1,0 +1,13 @@
+{
+  "name": "wp-cli",
+  "version": "2.10.0-1",
+  "depends": [
+    "php"
+  ],
+  "makedepends": [
+    "composer"
+  ],
+  "receive": 201330311,
+  "transmit": 1181585,
+  "disk": 587032
+}
