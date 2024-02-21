@@ -1,0 +1,16 @@
+{
+  "name": "xarchiver",
+  "version": "0.5.4.22-1",
+  "depends": [
+    "gtk2",
+    "gtk3"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "intltool",
+    "xmlto"
+  ],
+  "receive": 199729945,
+  "transmit": 416042,
+  "disk": 5798228
+}
