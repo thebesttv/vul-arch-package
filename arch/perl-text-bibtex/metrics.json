@@ -1,0 +1,15 @@
+{
+  "name": "perl-text-bibtex",
+  "version": "0.89-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build",
+    "perl-config-autoconf",
+    "perl-extutils-libbuilder"
+  ],
+  "receive": 199626608,
+  "transmit": 390066,
+  "disk": 1454819
+}
