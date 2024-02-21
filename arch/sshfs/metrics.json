@@ -1,0 +1,16 @@
+{
+  "name": "sshfs",
+  "version": "3.7.3-1",
+  "depends": [
+    "fuse3",
+    "glib2",
+    "openssh"
+  ],
+  "makedepends": [
+    "meson",
+    "python-docutils"
+  ],
+  "receive": 199539921,
+  "transmit": 268818,
+  "disk": 405066
+}
