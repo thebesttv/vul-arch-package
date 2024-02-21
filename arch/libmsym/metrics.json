@@ -1,0 +1,14 @@
+{
+  "name": "libmsym",
+  "version": "0.2.3-8",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "python"
+  ],
+  "receive": 199682091,
+  "transmit": 410106,
+  "disk": 713266
+}
