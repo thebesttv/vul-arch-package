@@ -1,0 +1,29 @@
+{
+  "name": "haskell-dns",
+  "version": "4.1.1-7",
+  "depends": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-auto-update",
+    "haskell-attoparsec",
+    "haskell-base16-bytestring",
+    "haskell-base64-bytestring",
+    "haskell-case-insensitive",
+    "haskell-cryptonite",
+    "haskell-hourglass",
+    "haskell-iproute",
+    "haskell-network",
+    "haskell-psqueues"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-word8",
+    "haskell-quickcheck"
+  ],
+  "receive": 199521274,
+  "transmit": 283804,
+  "disk": 885446
+}
