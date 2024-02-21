@@ -1,0 +1,13 @@
+{
+  "name": "watchbind",
+  "version": "0.2.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199549271,
+  "transmit": 303896,
+  "disk": 478655
+}
