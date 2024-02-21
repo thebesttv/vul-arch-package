@@ -1,0 +1,18 @@
+{
+  "name": "ibus-hangul",
+  "version": "1.5.5-1",
+  "depends": [
+    "ibus",
+    "libhangul",
+    "iso-codes",
+    "gtk-update-icon-cache",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "intltool",
+    "gnome-common"
+  ],
+  "receive": 199631292,
+  "transmit": 397668,
+  "disk": 483721
+}
