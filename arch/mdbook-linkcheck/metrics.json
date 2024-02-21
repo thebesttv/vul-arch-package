@@ -1,0 +1,14 @@
+{
+  "name": "mdbook-linkcheck",
+  "version": "0.7.7-1",
+  "depends": [
+    "mdbook"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199628041,
+  "transmit": 397228,
+  "disk": 25017567
+}
