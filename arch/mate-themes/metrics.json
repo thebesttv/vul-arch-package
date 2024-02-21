@@ -1,0 +1,12 @@
+{
+  "name": "mate-themes",
+  "version": "3.22.24-1",
+  "depends": [],
+  "makedepends": [
+    "gtk2",
+    "intltool"
+  ],
+  "receive": 205497482,
+  "transmit": 484729,
+  "disk": 93360443
+}
