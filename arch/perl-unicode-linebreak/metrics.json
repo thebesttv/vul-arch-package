@@ -1,0 +1,13 @@
+{
+  "name": "perl-unicode-linebreak",
+  "version": "2019.001-6",
+  "depends": [
+    "perl",
+    "perl-mime-charset",
+    "libthai"
+  ],
+  "makedepends": [],
+  "receive": 200223584,
+  "transmit": 318570,
+  "disk": 5517826
+}
