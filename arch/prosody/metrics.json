@@ -1,0 +1,17 @@
+{
+  "name": "prosody",
+  "version": "1:0.12.4-1",
+  "depends": [
+    "lua",
+    "lua-sec",
+    "lua-socket",
+    "lua-expat",
+    "lua-filesystem",
+    "libidn",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199759498,
+  "transmit": 399435,
+  "disk": 3488991
+}
