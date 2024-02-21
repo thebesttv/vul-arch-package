@@ -1,0 +1,11 @@
+{
+  "name": "perl-set-intspan",
+  "version": "1.19-8",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199689714,
+  "transmit": 439049,
+  "disk": 237070
+}
