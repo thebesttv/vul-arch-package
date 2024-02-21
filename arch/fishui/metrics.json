@@ -1,0 +1,18 @@
+{
+  "name": "fishui",
+  "version": "0.8-2",
+  "depends": [
+    "kwindowsystem5",
+    "qt5-declarative",
+    "qt5-graphicaleffects",
+    "qt5-quickcontrols2"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199594317,
+  "transmit": 347385,
+  "disk": 669478
+}
