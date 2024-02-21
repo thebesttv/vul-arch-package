@@ -1,0 +1,9 @@
+{
+  "name": "lib32-nvidia-utils",
+  "version": "545.29.06-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 213457312,
+  "transmit": 342962,
+  "disk": 324955568
+}
