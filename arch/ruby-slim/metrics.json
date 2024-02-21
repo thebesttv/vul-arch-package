@@ -1,0 +1,13 @@
+{
+  "name": "ruby-slim",
+  "version": "4.1.0-3",
+  "depends": [
+    "ruby",
+    "ruby-temple",
+    "ruby-tilt"
+  ],
+  "makedepends": [],
+  "receive": 200181509,
+  "transmit": 657003,
+  "disk": 693340
+}
