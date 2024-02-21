@@ -1,0 +1,15 @@
+{
+  "name": "waylandpp",
+  "version": "1.0.0-2",
+  "depends": [
+    "wayland",
+    "pugixml"
+  ],
+  "makedepends": [
+    "cmake",
+    "egl-wayland"
+  ],
+  "receive": 199777752,
+  "transmit": 513222,
+  "disk": 1352196
+}
