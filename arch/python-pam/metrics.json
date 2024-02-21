@@ -1,0 +1,17 @@
+{
+  "name": "python-pam",
+  "version": "2.0.2-2",
+  "depends": [
+    "pam",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199623271,
+  "transmit": 380906,
+  "disk": 156547
+}
