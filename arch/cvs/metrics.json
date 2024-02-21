@@ -1,0 +1,13 @@
+{
+  "name": "cvs",
+  "version": "1.11.23-15",
+  "depends": [
+    "krb5"
+  ],
+  "makedepends": [
+    "tinyxxd"
+  ],
+  "receive": 199760398,
+  "transmit": 347944,
+  "disk": 14045805
+}
