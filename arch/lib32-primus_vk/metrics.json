@@ -1,0 +1,17 @@
+{
+  "name": "lib32-primus_vk",
+  "version": "1.6.2-1",
+  "depends": [
+    "lib32-nvidia-utils",
+    "bumblebee",
+    "lib32-vulkan-icd-loader",
+    "lib32-primus"
+  ],
+  "makedepends": [
+    "git",
+    "vulkan-validation-layers"
+  ],
+  "receive": 199579530,
+  "transmit": 346515,
+  "disk": 561435
+}
