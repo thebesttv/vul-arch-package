@@ -1,0 +1,11 @@
+{
+  "name": "perl-data-munge",
+  "version": "1:0.10-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199865423,
+  "transmit": 567247,
+  "disk": 144321
+}
