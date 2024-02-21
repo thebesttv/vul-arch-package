@@ -1,0 +1,16 @@
+{
+  "name": "goverlay",
+  "version": "1.0-1",
+  "depends": [
+    "glu",
+    "qt5pas",
+    "mangohud"
+  ],
+  "makedepends": [
+    "git",
+    "lazarus"
+  ],
+  "receive": 199659112,
+  "transmit": 407230,
+  "disk": 5006509
+}
