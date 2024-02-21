@@ -1,0 +1,12 @@
+{
+  "name": "nnn",
+  "version": "4.9-1",
+  "depends": [
+    "bash",
+    "sed"
+  ],
+  "makedepends": [],
+  "receive": 200077562,
+  "transmit": 609552,
+  "disk": 1304098
+}
