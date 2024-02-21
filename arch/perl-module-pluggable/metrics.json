@@ -1,0 +1,11 @@
+{
+  "name": "perl-module-pluggable",
+  "version": "5.2-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 202175585,
+  "transmit": 1696299,
+  "disk": 391398
+}
