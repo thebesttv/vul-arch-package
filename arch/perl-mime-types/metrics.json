@@ -1,0 +1,11 @@
+{
+  "name": "perl-mime-types",
+  "version": "2.26-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199896271,
+  "transmit": 645810,
+  "disk": 411050
+}
