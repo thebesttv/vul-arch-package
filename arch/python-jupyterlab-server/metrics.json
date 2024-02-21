@@ -1,0 +1,26 @@
+{
+  "name": "python-jupyterlab-server",
+  "version": "2.25.3-1",
+  "depends": [
+    "jupyter-server",
+    "python",
+    "python-babel",
+    "python-importlib-metadata",
+    "python-json5",
+    "python-jsonschema",
+    "python-jupyter-core",
+    "python-packaging",
+    "python-requests",
+    "python-ruamel-yaml",
+    "python-tornado",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199513862,
+  "transmit": 283327,
+  "disk": 645239
+}
