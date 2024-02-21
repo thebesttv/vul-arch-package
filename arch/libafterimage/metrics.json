@@ -1,0 +1,11 @@
+{
+  "name": "libafterimage",
+  "version": "1.20-7",
+  "depends": [
+    "librsvg"
+  ],
+  "makedepends": [],
+  "receive": 199670196,
+  "transmit": 419904,
+  "disk": 6143282
+}
