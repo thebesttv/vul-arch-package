@@ -1,0 +1,11 @@
+{
+  "name": "libidn",
+  "version": "1.42-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199546519,
+  "transmit": 282528,
+  "disk": 16004117
+}
