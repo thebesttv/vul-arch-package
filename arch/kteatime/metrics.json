@@ -1,0 +1,15 @@
+{
+  "name": "kteatime",
+  "version": "23.08.5-1",
+  "depends": [
+    "knotifyconfig5",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 200112579,
+  "transmit": 415259,
+  "disk": 2107344
+}
