@@ -1,0 +1,11 @@
+{
+  "name": "perl-scope-guard",
+  "version": "0.21-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200374955,
+  "transmit": 747830,
+  "disk": 124562
+}
