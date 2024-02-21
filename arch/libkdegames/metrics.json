@@ -1,0 +1,14 @@
+{
+  "name": "libkdegames",
+  "version": "23.08.5-1",
+  "depends": [
+    "kdnssd5",
+    "knewstuff5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 206016860,
+  "transmit": 475958,
+  "disk": 44776543
+}
