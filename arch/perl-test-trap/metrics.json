@@ -1,0 +1,12 @@
+{
+  "name": "perl-test-trap",
+  "version": "0.3.5-2",
+  "depends": [
+    "perl",
+    "perl-data-dump"
+  ],
+  "makedepends": [],
+  "receive": 199567976,
+  "transmit": 316617,
+  "disk": 352273
+}
