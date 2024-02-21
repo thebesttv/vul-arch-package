@@ -1,0 +1,23 @@
+{
+  "name": "dpdk",
+  "version": "23.07-1",
+  "depends": [
+    "numactl",
+    "libelf",
+    "libpcap",
+    "libbpf",
+    "libbsd",
+    "dtc",
+    "jansson",
+    "libarchive"
+  ],
+  "makedepends": [
+    "linux-headers",
+    "python-pyelftools",
+    "meson",
+    "ninja"
+  ],
+  "receive": 215773900,
+  "transmit": 396877,
+  "disk": 111848126
+}
