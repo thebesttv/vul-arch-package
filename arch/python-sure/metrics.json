@@ -1,0 +1,14 @@
+{
+  "name": "python-sure",
+  "version": "2.0.1-3",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 199563330,
+  "transmit": 334185,
+  "disk": 1944288
+}
