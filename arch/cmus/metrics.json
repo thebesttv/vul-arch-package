@@ -1,0 +1,28 @@
+{
+  "name": "cmus",
+  "version": "2.10.0-4",
+  "depends": [
+    "libdiscid",
+    "ncurses"
+  ],
+  "makedepends": [
+    "faad2",
+    "ffmpeg",
+    "flac",
+    "jack",
+    "libao",
+    "libcdio-paranoia",
+    "libmad",
+    "libmodplug",
+    "libmp4v2",
+    "libmpcdec",
+    "libpulse",
+    "libsamplerate",
+    "libvorbis",
+    "opusfile>=0.12",
+    "wavpack"
+  ],
+  "receive": 199654622,
+  "transmit": 373870,
+  "disk": 1874702
+}
