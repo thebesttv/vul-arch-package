@@ -1,0 +1,13 @@
+{
+  "name": "haskell-unliftio-core",
+  "version": "0.2.1.0-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199740981,
+  "transmit": 404184,
+  "disk": 135361
+}
