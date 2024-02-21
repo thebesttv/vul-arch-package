@@ -1,0 +1,13 @@
+{
+  "name": "jellyfin-web",
+  "version": "10.8.13-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "nodejs",
+    "npm"
+  ],
+  "receive": 355191977,
+  "transmit": 609388,
+  "disk": 173953891
+}
