@@ -1,0 +1,11 @@
+{
+  "name": "perl-sub-info",
+  "version": "0.002-10",
+  "depends": [
+    "perl-importer"
+  ],
+  "makedepends": [],
+  "receive": 199655862,
+  "transmit": 404128,
+  "disk": 155172
+}
