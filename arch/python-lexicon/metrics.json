@@ -1,0 +1,13 @@
+{
+  "name": "python-lexicon",
+  "version": "2.0.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199935597,
+  "transmit": 618547,
+  "disk": 144155
+}
