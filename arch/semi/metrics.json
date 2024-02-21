@@ -1,0 +1,15 @@
+{
+  "name": "semi",
+  "version": "1.14.6-9",
+  "depends": [
+    "emacs",
+    "emacs-apel>=10.7",
+    "flim>=1.6.0"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199692508,
+  "transmit": 389096,
+  "disk": 5770355
+}
