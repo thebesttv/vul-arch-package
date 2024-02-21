@@ -1,0 +1,11 @@
+{
+  "name": "pg-safeupdate",
+  "version": "1.4-4",
+  "depends": [
+    "postgresql"
+  ],
+  "makedepends": [],
+  "receive": 199691164,
+  "transmit": 432791,
+  "disk": 104247
+}
