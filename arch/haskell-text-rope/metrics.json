@@ -1,0 +1,17 @@
+{
+  "name": "haskell-text-rope",
+  "version": "0.2-22",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199688262,
+  "transmit": 353475,
+  "disk": 360814
+}
