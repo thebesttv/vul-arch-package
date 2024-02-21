@@ -1,0 +1,24 @@
+{
+  "name": "grilo-plugins",
+  "version": "1:0.3.16-1",
+  "depends": [
+    "chromaprint",
+    "gom",
+    "grilo",
+    "gst-plugins-bad",
+    "libdmapsharing",
+    "libgoa",
+    "libmediaart",
+    "lua",
+    "tracker3"
+  ],
+  "makedepends": [
+    "git",
+    "gperf",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199547516,
+  "transmit": 248048,
+  "disk": 12032085
+}
