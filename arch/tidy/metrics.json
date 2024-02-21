@@ -1,0 +1,14 @@
+{
+  "name": "tidy",
+  "version": "5.8.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "libxslt"
+  ],
+  "receive": 199622487,
+  "transmit": 353419,
+  "disk": 4378235
+}
