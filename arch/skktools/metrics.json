@@ -1,0 +1,12 @@
+{
+  "name": "skktools",
+  "version": "1.3.4-4",
+  "depends": [
+    "gdbm",
+    "glib2"
+  ],
+  "makedepends": [],
+  "receive": 199563448,
+  "transmit": 318594,
+  "disk": 2101325
+}
