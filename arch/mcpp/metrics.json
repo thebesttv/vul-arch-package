@@ -1,0 +1,11 @@
+{
+  "name": "mcpp",
+  "version": "2.7.2-8",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199587383,
+  "transmit": 339801,
+  "disk": 6924088
+}
