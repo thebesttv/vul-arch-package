@@ -1,0 +1,21 @@
+{
+  "name": "python-pywlroots",
+  "version": "0.16.6-2",
+  "depends": [
+    "glibc",
+    "python",
+    "python-cffi",
+    "python-pywayland",
+    "python-xkbcommon",
+    "wlroots0.16"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199526051,
+  "transmit": 281790,
+  "disk": 716991
+}
