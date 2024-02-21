@@ -1,0 +1,27 @@
+{
+  "name": "polyphone",
+  "version": "2.3.0-5",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "openssl",
+    "qt5-base",
+    "qt5-svg",
+    "zlib"
+  ],
+  "makedepends": [
+    "flac",
+    "jack",
+    "libogg",
+    "libvorbis",
+    "portaudio",
+    "rtmidi",
+    "qcustomplot",
+    "qt5-tools",
+    "stk"
+  ],
+  "receive": 199609573,
+  "transmit": 363947,
+  "disk": 13687024
+}
