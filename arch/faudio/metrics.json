@@ -1,0 +1,14 @@
+{
+  "name": "faudio",
+  "version": "24.02-1",
+  "depends": [
+    "sdl2",
+    "gst-libav"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199520250,
+  "transmit": 268929,
+  "disk": 5418503
+}
