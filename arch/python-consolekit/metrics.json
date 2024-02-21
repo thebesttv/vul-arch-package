@@ -1,0 +1,22 @@
+{
+  "name": "python-consolekit",
+  "version": "1.6.0-1",
+  "depends": [
+    "python",
+    "python-click",
+    "python-colorama",
+    "python-deprecation-alias",
+    "python-domdf-python-tools",
+    "python-mistletoe",
+    "python-typing-extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199641557,
+  "transmit": 394494,
+  "disk": 1517868
+}
