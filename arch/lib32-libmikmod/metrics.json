@@ -1,0 +1,17 @@
+{
+  "name": "lib32-libmikmod",
+  "version": "3.3.11.1-6",
+  "depends": [
+    "lib32-glibc",
+    "lib32-libpulse",
+    "libmikmod"
+  ],
+  "makedepends": [
+    "lib32-alsa-lib",
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199705215,
+  "transmit": 441161,
+  "disk": 6698355
+}
