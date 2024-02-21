@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libraw1394",
+  "version": "2.1.2-4",
+  "depends": [
+    "lib32-glibc",
+    "libraw1394"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 200551597,
+  "transmit": 1143382,
+  "disk": 2342642
+}
