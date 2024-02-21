@@ -1,0 +1,23 @@
+{
+  "name": "cppcheck",
+  "version": "2.12.0-2",
+  "depends": [
+    "python-pygments",
+    "tinyxml2",
+    "pcre"
+  ],
+  "makedepends": [
+    "git",
+    "docbook-xsl",
+    "qt6-tools",
+    "qt6-base",
+    "qt6-declarative",
+    "python",
+    "pandoc",
+    "cmake",
+    "clang"
+  ],
+  "receive": 394099330,
+  "transmit": 592196,
+  "disk": 219749122
+}
