@@ -1,0 +1,20 @@
+{
+  "name": "haskell-psqueues",
+  "version": "0.2.8.0-6",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-tagged",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199923005,
+  "transmit": 492791,
+  "disk": 528248
+}
