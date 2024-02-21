@@ -1,0 +1,13 @@
+{
+  "name": "kdevelop-pg-qt",
+  "version": "2.2.2-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199681435,
+  "transmit": 383509,
+  "disk": 6637017
+}
