@@ -1,0 +1,17 @@
+{
+  "name": "cups-filters",
+  "version": "2.0.0-1",
+  "depends": [
+    "libcups",
+    "libppd",
+    "libcupsfilters",
+    "glibc"
+  ],
+  "makedepends": [
+    "ghostscript",
+    "mupdf-tools"
+  ],
+  "receive": 200268178,
+  "transmit": 919057,
+  "disk": 3679328
+}
