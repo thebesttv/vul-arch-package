@@ -1,0 +1,26 @@
+{
+  "name": "ruby-faraday",
+  "version": "1.8.0-1",
+  "depends": [
+    "ruby",
+    "ruby-multipart-post",
+    "ruby-ruby2_keywords",
+    "ruby-faraday-net_http",
+    "ruby-faraday-em_http",
+    "ruby-faraday-em_synchrony",
+    "ruby-faraday-excon",
+    "ruby-faraday-httpclient",
+    "ruby-faraday-net_http",
+    "ruby-faraday-net_http_persistent",
+    "ruby-faraday-patron",
+    "ruby-faraday-rack"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 200199309,
+  "transmit": 620894,
+  "disk": 2327456
+}
