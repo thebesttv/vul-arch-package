@@ -1,0 +1,17 @@
+{
+  "name": "jenkins",
+  "version": "2.446-1",
+  "depends": [
+    "java-runtime=17",
+    "ttf-dejavu",
+    "fontconfig"
+  ],
+  "makedepends": [
+    "java-environment=17",
+    "git",
+    "maven"
+  ],
+  "receive": 207379931,
+  "transmit": 587912,
+  "disk": 45238090
+}
