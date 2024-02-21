@@ -1,0 +1,23 @@
+{
+  "name": "lib32-libpulse",
+  "version": "17.0-1",
+  "depends": [
+    "lib32-dbus",
+    "lib32-libasyncns",
+    "lib32-libsndfile",
+    "lib32-libxtst",
+    "lib32-systemd",
+    "libpulse"
+  ],
+  "makedepends": [
+    "git",
+    "lib32-glib2",
+    "lib32-gtk3",
+    "lib32-speexdsp",
+    "meson",
+    "valgrind"
+  ],
+  "receive": 199708767,
+  "transmit": 402781,
+  "disk": 38361292
+}
