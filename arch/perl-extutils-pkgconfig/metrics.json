@@ -1,0 +1,11 @@
+{
+  "name": "perl-extutils-pkgconfig",
+  "version": "1.16-11",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199503512,
+  "transmit": 247815,
+  "disk": 153714
+}
