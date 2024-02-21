@@ -1,0 +1,19 @@
+{
+  "name": "libayatana-indicator",
+  "version": "0.9.4-1",
+  "depends": [
+    "ayatana-ido",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gtk3"
+  ],
+  "makedepends": [
+    "cmake",
+    "gobject-introspection",
+    "vala"
+  ],
+  "receive": 199624575,
+  "transmit": 390066,
+  "disk": 857799
+}
