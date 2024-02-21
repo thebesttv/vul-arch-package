@@ -1,0 +1,11 @@
+{
+  "name": "lzo",
+  "version": "2.10-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199652972,
+  "transmit": 403341,
+  "disk": 3890743
+}
