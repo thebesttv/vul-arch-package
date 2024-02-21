@@ -1,0 +1,12 @@
+{
+  "name": "immer",
+  "version": "0.8.1-1",
+  "depends": [],
+  "makedepends": [
+    "catch2",
+    "cmake"
+  ],
+  "receive": 199502191,
+  "transmit": 257679,
+  "disk": 6649359
+}
