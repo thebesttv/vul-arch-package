@@ -1,0 +1,24 @@
+{
+  "name": "crawl",
+  "version": "0.31.0-1",
+  "depends": [],
+  "makedepends": [
+    "bison",
+    "flex",
+    "lua51",
+    "mesa",
+    "perl",
+    "python-yaml",
+    "pngcrush",
+    "sqlite",
+    "freetype2",
+    "glu",
+    "libpng",
+    "sdl2_image",
+    "ttf-dejavu",
+    "ncurses"
+  ],
+  "receive": 238754265,
+  "transmit": 477535,
+  "disk": 275736891
+}
