@@ -1,0 +1,12 @@
+{
+  "name": "perl-fuse",
+  "version": "0.16.1-14",
+  "depends": [
+    "perl",
+    "fuse2"
+  ],
+  "makedepends": [],
+  "receive": 199801496,
+  "transmit": 484822,
+  "disk": 317044
+}
