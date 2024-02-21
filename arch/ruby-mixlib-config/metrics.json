@@ -1,0 +1,17 @@
+{
+  "name": "ruby-mixlib-config",
+  "version": "3.0.29-1",
+  "depends": [
+    "ruby-tomlrb"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-bundler",
+    "ruby-rspec"
+  ],
+  "receive": 199700641,
+  "transmit": 439268,
+  "disk": 858959
+}
