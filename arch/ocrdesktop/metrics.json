@@ -1,0 +1,14 @@
+{
+  "name": "ocrdesktop",
+  "version": "4.0-1",
+  "depends": [
+    "libwnck3",
+    "python-atspi",
+    "python-pillow",
+    "python-pytesseract"
+  ],
+  "makedepends": [],
+  "receive": 199677024,
+  "transmit": 411088,
+  "disk": 188799
+}
