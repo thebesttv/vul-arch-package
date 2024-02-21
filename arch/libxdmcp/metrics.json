@@ -1,0 +1,14 @@
+{
+  "name": "libxdmcp",
+  "version": "1.1.4-2",
+  "depends": [
+    "glibc",
+    "xorgproto"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199614592,
+  "transmit": 377000,
+  "disk": 2369906
+}
