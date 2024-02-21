@@ -1,0 +1,16 @@
+{
+  "name": "zeitgeist-explorer",
+  "version": "0.2-12",
+  "depends": [
+    "gtk3",
+    "python-dbus",
+    "python-gobject",
+    "zeitgeist"
+  ],
+  "makedepends": [
+    "python-distutils-extra"
+  ],
+  "receive": 199606777,
+  "transmit": 355132,
+  "disk": 421028
+}
