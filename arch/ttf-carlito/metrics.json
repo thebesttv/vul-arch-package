@@ -1,0 +1,11 @@
+{
+  "name": "ttf-carlito",
+  "version": "20230509-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199491167,
+  "transmit": 220258,
+  "disk": 4333857
+}
