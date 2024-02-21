@@ -1,0 +1,13 @@
+{
+  "name": "haskell-js-flot",
+  "version": "0.8.3-24",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199921961,
+  "transmit": 563042,
+  "disk": 1546682
+}
