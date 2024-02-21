@@ -1,0 +1,12 @@
+{
+  "name": "man2html",
+  "version": "3.0.1-9",
+  "depends": [
+    "man",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200214841,
+  "transmit": 942757,
+  "disk": 310989
+}
