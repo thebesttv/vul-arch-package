@@ -1,0 +1,20 @@
+{
+  "name": "phodav",
+  "version": "3.0-2",
+  "depends": [
+    "avahi",
+    "glib2",
+    "libsoup3",
+    "libxml2",
+    "systemd"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "gtk-doc",
+    "meson",
+    "xmlto"
+  ],
+  "receive": 199540146,
+  "transmit": 283966,
+  "disk": 520513
+}
