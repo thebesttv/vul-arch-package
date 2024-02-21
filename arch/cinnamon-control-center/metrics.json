@@ -1,0 +1,20 @@
+{
+  "name": "cinnamon-control-center",
+  "version": "6.0.1-1",
+  "depends": [
+    "cinnamon-settings-daemon",
+    "cinnamon-menus",
+    "colord",
+    "libgnomekbd",
+    "libmm-glib",
+    "nm-connection-editor"
+  ],
+  "makedepends": [
+    "meson",
+    "samurai",
+    "gnome-online-accounts"
+  ],
+  "receive": 199639722,
+  "transmit": 349520,
+  "disk": 19253909
+}
