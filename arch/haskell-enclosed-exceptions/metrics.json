@@ -1,0 +1,16 @@
+{
+  "name": "haskell-enclosed-exceptions",
+  "version": "1.0.3-249",
+  "depends": [
+    "ghc-libs",
+    "haskell-lifted-base",
+    "haskell-monad-control",
+    "haskell-transformers-base"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199554776,
+  "transmit": 319080,
+  "disk": 339291
+}
