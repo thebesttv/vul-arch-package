@@ -1,0 +1,11 @@
+{
+  "name": "libnfnetlink",
+  "version": "1.0.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199661286,
+  "transmit": 399025,
+  "disk": 1937494
+}
