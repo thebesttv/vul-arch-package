@@ -1,0 +1,11 @@
+{
+  "name": "noto-fonts-emoji",
+  "version": "1:2.042-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 896808524,
+  "transmit": 545856,
+  "disk": 975307222
+}
