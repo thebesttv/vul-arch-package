@@ -1,0 +1,11 @@
+{
+  "name": "sound-theme-freedesktop",
+  "version": "0.8-5",
+  "depends": [],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199611287,
+  "transmit": 351282,
+  "disk": 1409948
+}
