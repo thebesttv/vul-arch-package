@@ -1,0 +1,15 @@
+{
+  "name": "libdeflate",
+  "version": "1.19-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199510375,
+  "transmit": 257745,
+  "disk": 2816499
+}
