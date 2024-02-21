@@ -1,0 +1,19 @@
+{
+  "name": "python-ciso8601",
+  "version": "2.3.1-2",
+  "depends": [
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199634414,
+  "transmit": 370044,
+  "disk": 850089
+}
