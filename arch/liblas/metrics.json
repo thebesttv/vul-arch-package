@@ -1,0 +1,19 @@
+{
+  "name": "liblas",
+  "version": "1.8.1.r128+gded46373-8",
+  "depends": [
+    "boost-libs",
+    "gdal",
+    "laszip2",
+    "libgeotiff",
+    "proj"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "git"
+  ],
+  "receive": 219192728,
+  "transmit": 503681,
+  "disk": 67479797
+}
