@@ -1,0 +1,13 @@
+{
+  "name": "pacoloco",
+  "version": "1.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199935448,
+  "transmit": 486951,
+  "disk": 284350
+}
