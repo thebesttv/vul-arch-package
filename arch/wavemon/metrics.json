@@ -1,0 +1,16 @@
+{
+  "name": "wavemon",
+  "version": "0.9.5-1",
+  "depends": [
+    "glibc",
+    "ncurses",
+    "libncursesw.so",
+    "libcap",
+    "libcap.so",
+    "libnl"
+  ],
+  "makedepends": [],
+  "receive": 199738377,
+  "transmit": 485160,
+  "disk": 1153389
+}
