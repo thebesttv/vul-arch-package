@@ -1,0 +1,13 @@
+{
+  "name": "netperf",
+  "version": "2.7.0-6",
+  "depends": [
+    "glibc",
+    "libsmbios",
+    "lksctp-tools"
+  ],
+  "makedepends": [],
+  "receive": 199751968,
+  "transmit": 433252,
+  "disk": 8206157
+}
