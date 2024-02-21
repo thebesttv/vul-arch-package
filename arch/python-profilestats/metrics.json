@@ -1,0 +1,12 @@
+{
+  "name": "python-profilestats",
+  "version": "2.0-12",
+  "depends": [
+    "python-setuptools",
+    "pyprof2calltree"
+  ],
+  "makedepends": [],
+  "receive": 199564085,
+  "transmit": 359120,
+  "disk": 101226
+}
