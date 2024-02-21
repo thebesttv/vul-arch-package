@@ -1,0 +1,11 @@
+{
+  "name": "perl-string-shellquote",
+  "version": "1.04-7",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199886201,
+  "transmit": 562406,
+  "disk": 115923
+}
