@@ -1,0 +1,12 @@
+{
+  "name": "libnoise",
+  "version": "1.0.0-6",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "unzip"
+  ],
+  "receive": 199953910,
+  "transmit": 641298,
+  "disk": 1759911
+}
