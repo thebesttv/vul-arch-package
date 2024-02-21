@@ -1,0 +1,14 @@
+{
+  "name": "lib32-twolame",
+  "version": "0.4.0-2",
+  "depends": [
+    "lib32-glibc",
+    "twolame"
+  ],
+  "makedepends": [
+    "lib32-libsndfile"
+  ],
+  "receive": 199541012,
+  "transmit": 290623,
+  "disk": 4064959
+}
