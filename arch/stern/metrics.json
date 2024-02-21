@@ -1,0 +1,13 @@
+{
+  "name": "stern",
+  "version": "1.28.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199649509,
+  "transmit": 430426,
+  "disk": 404538
+}
