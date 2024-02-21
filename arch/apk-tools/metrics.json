@@ -1,0 +1,16 @@
+{
+  "name": "apk-tools",
+  "version": "2.14.0-1",
+  "depends": [
+    "zlib",
+    "openssl"
+  ],
+  "makedepends": [
+    "scdoc",
+    "lua53",
+    "lua53-zlib"
+  ],
+  "receive": 199722225,
+  "transmit": 425305,
+  "disk": 1086505
+}
