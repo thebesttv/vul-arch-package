@@ -1,0 +1,16 @@
+{
+  "name": "xonsh",
+  "version": "0.14.4-1",
+  "depends": [
+    "python",
+    "python-ply",
+    "python-setproctitle"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199531539,
+  "transmit": 246322,
+  "disk": 30681405
+}
