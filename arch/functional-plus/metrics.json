@@ -1,0 +1,12 @@
+{
+  "name": "functional-plus",
+  "version": "0.2.18-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "python"
+  ],
+  "receive": 200019060,
+  "transmit": 613362,
+  "disk": 1963208
+}
