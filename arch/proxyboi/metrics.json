@@ -1,0 +1,13 @@
+{
+  "name": "proxyboi",
+  "version": "0.5.0-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199668381,
+  "transmit": 425058,
+  "disk": 1165817
+}
