@@ -1,0 +1,13 @@
+{
+  "name": "dub",
+  "version": "1.36.0-1",
+  "depends": [
+    "curl"
+  ],
+  "makedepends": [
+    "ldc"
+  ],
+  "receive": 199798736,
+  "transmit": 524258,
+  "disk": 8047888
+}
