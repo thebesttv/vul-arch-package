@@ -1,0 +1,15 @@
+{
+  "name": "jnettop",
+  "version": "0.13.0-9",
+  "depends": [
+    "libpcap",
+    "glib2",
+    "db5.3"
+  ],
+  "makedepends": [
+    "pkgconfig"
+  ],
+  "receive": 199630922,
+  "transmit": 338712,
+  "disk": 820669
+}
