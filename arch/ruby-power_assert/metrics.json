@@ -1,0 +1,14 @@
+{
+  "name": "ruby-power_assert",
+  "version": "2.0.3-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake"
+  ],
+  "receive": 199813703,
+  "transmit": 511789,
+  "disk": 207640
+}
