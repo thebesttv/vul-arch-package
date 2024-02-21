@@ -1,0 +1,16 @@
+{
+  "name": "ruby-paint",
+  "version": "2.3.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rspec",
+    "ruby-rainbow",
+    "ruby-term-ansicolor"
+  ],
+  "receive": 199601553,
+  "transmit": 362156,
+  "disk": 207469
+}
