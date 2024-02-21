@@ -1,0 +1,16 @@
+{
+  "name": "squeak-vm",
+  "version": "4.10.2.2614-7",
+  "depends": [
+    "libgl",
+    "libpulse",
+    "libxrender",
+    "alsa-lib"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 202706839,
+  "transmit": 450328,
+  "disk": 15055876
+}
