@@ -1,0 +1,15 @@
+{
+  "name": "lxappearance-obconf",
+  "version": "0.2.3-3",
+  "depends": [
+    "lxappearance",
+    "openbox",
+    "libobrender.so"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199677458,
+  "transmit": 399574,
+  "disk": 2270851
+}
