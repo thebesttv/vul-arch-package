@@ -1,0 +1,14 @@
+{
+  "name": "plasma-thunderbolt",
+  "version": "5.27.10-1",
+  "depends": [
+    "bolt",
+    "systemsettings"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199647232,
+  "transmit": 342387,
+  "disk": 966701
+}
