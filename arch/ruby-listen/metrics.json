@@ -1,0 +1,14 @@
+{
+  "name": "ruby-listen",
+  "version": "3.8.0-2",
+  "depends": [
+    "ruby-rb-fsevent",
+    "ruby-rb-inotify"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199725307,
+  "transmit": 438207,
+  "disk": 2734062
+}
