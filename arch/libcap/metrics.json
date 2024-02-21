@@ -1,0 +1,16 @@
+{
+  "name": "libcap",
+  "version": "2.69-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "pam"
+  ],
+  "makedepends": [
+    "go",
+    "linux-api-headers"
+  ],
+  "receive": 199529797,
+  "transmit": 255666,
+  "disk": 1285824
+}
