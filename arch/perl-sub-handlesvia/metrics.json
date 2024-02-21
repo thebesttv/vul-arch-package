@@ -1,0 +1,16 @@
+{
+  "name": "perl-sub-handlesvia",
+  "version": "0.016-4",
+  "depends": [
+    "perl",
+    "perl-moo",
+    "perl-mouse",
+    "perl-exporter-tiny",
+    "perl-type-tiny",
+    "perl-class-tiny"
+  ],
+  "makedepends": [],
+  "receive": 199513761,
+  "transmit": 283632,
+  "disk": 828273
+}
