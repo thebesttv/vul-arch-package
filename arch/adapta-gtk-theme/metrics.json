@@ -1,0 +1,16 @@
+{
+  "name": "adapta-gtk-theme",
+  "version": "3.95.0.11-2",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "gnome-shell",
+    "inkscape",
+    "libxml2",
+    "parallel",
+    "sassc"
+  ],
+  "receive": 235342452,
+  "transmit": 576344,
+  "disk": 42077639
+}
