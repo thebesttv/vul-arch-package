@@ -1,0 +1,15 @@
+{
+  "name": "yrd",
+  "version": "0.5.3-7",
+  "depends": [
+    "python-argh",
+    "python-requests",
+    "cjdns"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199648061,
+  "transmit": 407508,
+  "disk": 225463
+}
