@@ -1,0 +1,13 @@
+{
+  "name": "python-json-config",
+  "version": "2.0.1-7",
+  "depends": [
+    "python-future"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199508231,
+  "transmit": 251920,
+  "disk": 325954
+}
