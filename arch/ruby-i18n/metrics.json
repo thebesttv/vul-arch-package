@@ -1,0 +1,14 @@
+{
+  "name": "ruby-i18n",
+  "version": "1.14.1-1",
+  "depends": [
+    "ruby",
+    "ruby-concurrent"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199999889,
+  "transmit": 606327,
+  "disk": 618980
+}
