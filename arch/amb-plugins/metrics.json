@@ -1,0 +1,13 @@
+{
+  "name": "amb-plugins",
+  "version": "0.8.1-7",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "ladspa"
+  ],
+  "receive": 199571107,
+  "transmit": 299700,
+  "disk": 292000
+}
