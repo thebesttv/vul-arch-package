@@ -1,0 +1,18 @@
+{
+  "name": "libgrss",
+  "version": "0.7.0+16+g971c421-3",
+  "depends": [
+    "glib2",
+    "libsoup",
+    "libxml2"
+  ],
+  "makedepends": [
+    "intltool",
+    "gtk-doc",
+    "gobject-introspection",
+    "git"
+  ],
+  "receive": 199609063,
+  "transmit": 369806,
+  "disk": 1275120
+}
