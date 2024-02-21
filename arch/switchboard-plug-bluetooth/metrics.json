@@ -1,0 +1,19 @@
+{
+  "name": "switchboard-plug-bluetooth",
+  "version": "2.3.6-2",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libswitchboard-2.0.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199525262,
+  "transmit": 283313,
+  "disk": 5275966
+}
