@@ -1,0 +1,15 @@
+{
+  "name": "libewf",
+  "version": "20140608-6",
+  "depends": [
+    "util-linux",
+    "zlib",
+    "bzip2"
+  ],
+  "makedepends": [
+    "fuse2"
+  ],
+  "receive": 199798062,
+  "transmit": 537151,
+  "disk": 18587091
+}
