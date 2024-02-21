@@ -1,0 +1,13 @@
+{
+  "name": "jwt-cli",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199822708,
+  "transmit": 466329,
+  "disk": 301665
+}
