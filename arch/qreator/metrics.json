@@ -1,0 +1,23 @@
+{
+  "name": "qreator",
+  "version": "20.02.1-4",
+  "depends": [
+    "geoclue",
+    "libchamplain",
+    "libnm",
+    "python-pillow",
+    "python-cairo",
+    "python-gobject",
+    "python-qrencode",
+    "python-requests",
+    "python-vobject",
+    "python-pyxdg"
+  ],
+  "makedepends": [
+    "python-distutils-extra",
+    "git"
+  ],
+  "receive": 200628962,
+  "transmit": 328365,
+  "disk": 4570691
+}
