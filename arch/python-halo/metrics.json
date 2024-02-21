@@ -1,0 +1,17 @@
+{
+  "name": "python-halo",
+  "version": "0.0.31-5",
+  "depends": [
+    "python",
+    "python-log_symbols",
+    "python-spinners",
+    "python-termcolor",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 200084069,
+  "transmit": 644517,
+  "disk": 160702
+}
