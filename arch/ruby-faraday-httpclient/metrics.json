@@ -1,0 +1,14 @@
+{
+  "name": "ruby-faraday-httpclient",
+  "version": "1.0.1-1",
+  "depends": [
+    "ruby",
+    "ruby-httpclient"
+  ],
+  "makedepends": [
+    "ruby-rspec"
+  ],
+  "receive": 199685599,
+  "transmit": 393590,
+  "disk": 158831
+}
