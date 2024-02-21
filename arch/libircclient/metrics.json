@@ -1,0 +1,13 @@
+{
+  "name": "libircclient",
+  "version": "1.10-5",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "python-sphinx"
+  ],
+  "receive": 199699517,
+  "transmit": 443424,
+  "disk": 1664306
+}
