@@ -1,0 +1,11 @@
+{
+  "name": "perl-locale-maketext-lexicon",
+  "version": "1.00-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199793838,
+  "transmit": 476952,
+  "disk": 595720
+}
