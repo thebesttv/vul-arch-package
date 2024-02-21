@@ -1,0 +1,14 @@
+{
+  "name": "gnome-user-docs",
+  "version": "45.1-1",
+  "depends": [
+    "yelp"
+  ],
+  "makedepends": [
+    "git",
+    "yelp-tools"
+  ],
+  "receive": 407349705,
+  "transmit": 354669,
+  "disk": 271000374
+}
