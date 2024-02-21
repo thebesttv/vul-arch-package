@@ -1,0 +1,16 @@
+{
+  "name": "liblxqt",
+  "version": "1.4.0-1",
+  "depends": [
+    "kwindowsystem5",
+    "libxss",
+    "polkit-qt5",
+    "libQt5Xdg.so"
+  ],
+  "makedepends": [
+    "lxqt-build-tools"
+  ],
+  "receive": 199736506,
+  "transmit": 447575,
+  "disk": 972028
+}
