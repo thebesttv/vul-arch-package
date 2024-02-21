@@ -1,0 +1,30 @@
+{
+  "name": "haskell-htf",
+  "version": "0.15.0.1-54",
+  "depends": [
+    "ghc-libs",
+    "haskell-diff",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-aeson",
+    "haskell-base64-bytestring",
+    "haskell-cpphs",
+    "haskell-src",
+    "haskell-lifted-base",
+    "haskell-monad-control",
+    "haskell-old-time",
+    "haskell-random",
+    "haskell-regex-compat",
+    "haskell-vector",
+    "haskell-xmlgen"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-aeson-pretty",
+    "haskell-temporary",
+    "haskell-unordered-containers"
+  ],
+  "receive": 199623327,
+  "transmit": 377557,
+  "disk": 715446
+}
