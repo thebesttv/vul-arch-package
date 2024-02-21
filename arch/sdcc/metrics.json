@@ -1,0 +1,16 @@
+{
+  "name": "sdcc",
+  "version": "4.3.0-1",
+  "depends": [
+    "gcc-libs",
+    "bash"
+  ],
+  "makedepends": [
+    "gputils",
+    "boost",
+    "patchutils"
+  ],
+  "receive": 220548915,
+  "transmit": 850387,
+  "disk": 253430923
+}
