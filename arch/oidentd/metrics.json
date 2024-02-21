@@ -1,0 +1,12 @@
+{
+  "name": "oidentd",
+  "version": "3.0.0-1",
+  "depends": [
+    "glibc",
+    "libnetfilter_conntrack"
+  ],
+  "makedepends": [],
+  "receive": 199679867,
+  "transmit": 416599,
+  "disk": 1358026
+}
