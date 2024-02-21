@@ -1,0 +1,13 @@
+{
+  "name": "python-cjkwrap",
+  "version": "2.2-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199549494,
+  "transmit": 327158,
+  "disk": 189292
+}
