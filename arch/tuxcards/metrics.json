@@ -1,0 +1,13 @@
+{
+  "name": "tuxcards",
+  "version": "2.2.1-8",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "dos2unix"
+  ],
+  "receive": 199489223,
+  "transmit": 269814,
+  "disk": 1852192
+}
