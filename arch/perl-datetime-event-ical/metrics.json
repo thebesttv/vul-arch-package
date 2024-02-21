@@ -1,0 +1,11 @@
+{
+  "name": "perl-datetime-event-ical",
+  "version": "0.13-9",
+  "depends": [
+    "perl-datetime-event-recurrence"
+  ],
+  "makedepends": [],
+  "receive": 199492287,
+  "transmit": 237619,
+  "disk": 265513
+}
