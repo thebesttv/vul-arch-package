@@ -1,0 +1,26 @@
+{
+  "name": "libsoup3",
+  "version": "3.4.4-1",
+  "depends": [
+    "brotli",
+    "glib-networking",
+    "glib2",
+    "krb5",
+    "libnghttp2",
+    "libpsl",
+    "libsysprof-capture",
+    "sqlite"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "python-quart",
+    "samba",
+    "vala"
+  ],
+  "receive": 199582617,
+  "transmit": 278799,
+  "disk": 16044350
+}
