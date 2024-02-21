@@ -1,0 +1,16 @@
+{
+  "name": "libinstpatch",
+  "version": "1.1.6-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "glib2",
+    "libsndfile",
+    "python"
+  ],
+  "receive": 199568928,
+  "transmit": 284798,
+  "disk": 3503665
+}
