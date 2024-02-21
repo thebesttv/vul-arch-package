@@ -1,0 +1,16 @@
+{
+  "name": "katomic",
+  "version": "23.08.5-1",
+  "depends": [
+    "libkdegames",
+    "hicolor-icon-theme",
+    "perl"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 200205714,
+  "transmit": 378853,
+  "disk": 4682781
+}
