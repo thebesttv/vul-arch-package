@@ -1,0 +1,14 @@
+{
+  "name": "haskell-template-haskell-compat-v0208",
+  "version": "0.1.9.3-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199791892,
+  "transmit": 429967,
+  "disk": 134581
+}
