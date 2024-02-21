@@ -1,0 +1,14 @@
+{
+  "name": "ruby-rack-test",
+  "version": "2.1.0-1",
+  "depends": [
+    "ruby",
+    "ruby-rack"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199540699,
+  "transmit": 268660,
+  "disk": 284265
+}
