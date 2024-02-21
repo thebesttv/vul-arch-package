@@ -1,0 +1,18 @@
+{
+  "name": "python-setuptools-scm",
+  "version": "8.0.4-1",
+  "depends": [
+    "python-packaging",
+    "python-setuptools",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199543055,
+  "transmit": 311334,
+  "disk": 3021458
+}
