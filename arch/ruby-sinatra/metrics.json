@@ -1,0 +1,11 @@
+{
+  "name": "ruby-sinatra",
+  "version": "2.2.2-2",
+  "depends": [],
+  "makedepends": [
+    "ruby"
+  ],
+  "receive": 199599884,
+  "transmit": 348446,
+  "disk": 2495275
+}
