@@ -1,0 +1,13 @@
+{
+  "name": "cargo-watch",
+  "version": "8.5.2-1",
+  "depends": [
+    "cargo"
+  ],
+  "makedepends": [
+    "ruby-ronn"
+  ],
+  "receive": 199575943,
+  "transmit": 357060,
+  "disk": 642143
+}
