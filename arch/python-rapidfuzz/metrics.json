@@ -1,0 +1,20 @@
+{
+  "name": "python-rapidfuzz",
+  "version": "3.6.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "cython",
+    "python-scikit-build",
+    "rapidfuzz-cpp"
+  ],
+  "receive": 350072434,
+  "transmit": 589986,
+  "disk": 312146997
+}
