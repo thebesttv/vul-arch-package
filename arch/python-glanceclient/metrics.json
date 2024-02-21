@@ -1,0 +1,21 @@
+{
+  "name": "python-glanceclient",
+  "version": "4.4.0-1",
+  "depends": [
+    "python-pbr",
+    "python-prettytable",
+    "python-keystoneauth1",
+    "python-requests",
+    "python-warlock",
+    "python-oslo-utils",
+    "python-oslo-i18n",
+    "python-wrapt",
+    "python-pyopenssl"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199503427,
+  "transmit": 280195,
+  "disk": 1378792
+}
