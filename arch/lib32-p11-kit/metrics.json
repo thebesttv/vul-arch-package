@@ -1,0 +1,18 @@
+{
+  "name": "lib32-p11-kit",
+  "version": "0.25.3-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-libffi",
+    "lib32-libtasn1",
+    "libp11-kit"
+  ],
+  "makedepends": [
+    "lib32-systemd",
+    "meson",
+    "systemd"
+  ],
+  "receive": 199514338,
+  "transmit": 259256,
+  "disk": 11004727
+}
