@@ -1,0 +1,11 @@
+{
+  "name": "ngrep",
+  "version": "1.47-4",
+  "depends": [
+    "libpcap>=1.0.0"
+  ],
+  "makedepends": [],
+  "receive": 199628373,
+  "transmit": 411154,
+  "disk": 991092
+}
