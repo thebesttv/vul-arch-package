@@ -1,0 +1,19 @@
+{
+  "name": "rubberband",
+  "version": "3.3.0-1",
+  "depends": [],
+  "makedepends": [
+    "boost",
+    "fftw",
+    "java-environment",
+    "ladspa",
+    "lv2",
+    "meson",
+    "libsamplerate",
+    "libsndfile",
+    "vamp-plugin-sdk"
+  ],
+  "receive": 199577441,
+  "transmit": 283781,
+  "disk": 1875562
+}
