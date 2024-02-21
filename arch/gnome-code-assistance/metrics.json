@@ -1,0 +1,29 @@
+{
+  "name": "gnome-code-assistance",
+  "version": "3:3.16.1+r14+gaad6437-2",
+  "depends": [
+    "libgee",
+    "python-dbus",
+    "python-gobject",
+    "python-pylint",
+    "python-pyflakes",
+    "python-pycodestyle",
+    "python-lxml",
+    "python-simplejson",
+    "ruby-dbus",
+    "ruby-sass"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection",
+    "llvm",
+    "clang",
+    "gjs",
+    "go",
+    "gnome-common",
+    "git"
+  ],
+  "receive": 199589141,
+  "transmit": 363927,
+  "disk": 6406464
+}
