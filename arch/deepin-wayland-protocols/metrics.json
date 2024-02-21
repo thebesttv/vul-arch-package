@@ -1,0 +1,13 @@
+{
+  "name": "deepin-wayland-protocols",
+  "version": "1.6.0.deepin.1.2-1",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "qt5-base"
+  ],
+  "receive": 199547308,
+  "transmit": 262473,
+  "disk": 485602
+}
