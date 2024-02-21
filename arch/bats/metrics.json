@@ -1,0 +1,14 @@
+{
+  "name": "bats",
+  "version": "1.10.0-3",
+  "depends": [
+    "bash",
+    "coreutils",
+    "ncurses",
+    "parallel"
+  ],
+  "makedepends": [],
+  "receive": 199509406,
+  "transmit": 257893,
+  "disk": 1155009
+}
