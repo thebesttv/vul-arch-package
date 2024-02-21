@@ -1,0 +1,11 @@
+{
+  "name": "lcdproc",
+  "version": "0.5.9-8",
+  "depends": [
+    "libftdi-compat"
+  ],
+  "makedepends": [],
+  "receive": 199551642,
+  "transmit": 329806,
+  "disk": 5758538
+}
