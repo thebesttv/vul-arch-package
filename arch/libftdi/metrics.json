@@ -1,0 +1,17 @@
+{
+  "name": "libftdi",
+  "version": "1.5-5",
+  "depends": [
+    "libusb",
+    "confuse"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "python",
+    "swig"
+  ],
+  "receive": 199560072,
+  "transmit": 297123,
+  "disk": 859566
+}
