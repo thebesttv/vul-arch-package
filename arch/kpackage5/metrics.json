@@ -1,0 +1,19 @@
+{
+  "name": "kpackage5",
+  "version": "5.115.0-1",
+  "depends": [
+    "karchive5",
+    "ki18n5",
+    "kcoreaddons5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "qt5-doc",
+    "kdoctools5",
+    "doxygen"
+  ],
+  "receive": 199533022,
+  "transmit": 261152,
+  "disk": 2270561
+}
