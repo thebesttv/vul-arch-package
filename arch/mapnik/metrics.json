@@ -1,0 +1,28 @@
+{
+  "name": "mapnik",
+  "version": "3.1.0-22",
+  "depends": [
+    "boost-libs",
+    "cairo",
+    "freetype2",
+    "gdal",
+    "harfbuzz",
+    "icu",
+    "libjpeg-turbo",
+    "libpng",
+    "libtiff",
+    "libwebp",
+    "libxml2",
+    "postgresql-libs",
+    "proj",
+    "sqlite",
+    "zlib"
+  ],
+  "makedepends": [
+    "boost",
+    "scons"
+  ],
+  "receive": 209843254,
+  "transmit": 342518,
+  "disk": 40109503
+}
