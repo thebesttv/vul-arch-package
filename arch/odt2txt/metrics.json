@@ -1,0 +1,14 @@
+{
+  "name": "odt2txt",
+  "version": "0.5-5",
+  "depends": [
+    "zlib",
+    "libzip"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199627619,
+  "transmit": 380402,
+  "disk": 507053
+}
