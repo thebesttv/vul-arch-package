@@ -1,0 +1,12 @@
+{
+  "name": "vim-tagbar",
+  "version": "3.1.1-1",
+  "depends": [
+    "ctags",
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199575147,
+  "transmit": 354043,
+  "disk": 595249
+}
