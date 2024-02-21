@@ -1,0 +1,16 @@
+{
+  "name": "lib32-glew",
+  "version": "2.2.0-4",
+  "depends": [
+    "lib32-libxmu",
+    "lib32-libxi",
+    "lib32-glu",
+    "glew>=2.2.0"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 199626329,
+  "transmit": 385693,
+  "disk": 6530286
+}
