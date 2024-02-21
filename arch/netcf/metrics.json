@@ -1,0 +1,16 @@
+{
+  "name": "netcf",
+  "version": "0.2.8-8",
+  "depends": [
+    "augeas>=0.7.4",
+    "libxslt",
+    "libxml2",
+    "libnl"
+  ],
+  "makedepends": [
+    "gcc"
+  ],
+  "receive": 199740080,
+  "transmit": 458219,
+  "disk": 7009759
+}
