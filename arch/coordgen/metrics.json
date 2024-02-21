@@ -1,0 +1,14 @@
+{
+  "name": "coordgen",
+  "version": "3.0.2-1",
+  "depends": [
+    "maeparser"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost"
+  ],
+  "receive": 199657454,
+  "transmit": 394851,
+  "disk": 1289523
+}
