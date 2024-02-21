@@ -1,0 +1,15 @@
+{
+  "name": "nspr",
+  "version": "4.35-2",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "mercurial",
+    "zip"
+  ],
+  "receive": 204576897,
+  "transmit": 435349,
+  "disk": 19449795
+}
