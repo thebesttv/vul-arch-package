@@ -1,0 +1,15 @@
+{
+  "name": "pass",
+  "version": "1.7.4-5",
+  "depends": [
+    "bash",
+    "gnupg",
+    "tree"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199580592,
+  "transmit": 344088,
+  "disk": 1071861
+}
