@@ -1,0 +1,11 @@
+{
+  "name": "publicsuffix-list",
+  "version": "20230222.1337.ab05301-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199688988,
+  "transmit": 428512,
+  "disk": 12528880
+}
