@@ -1,0 +1,14 @@
+{
+  "name": "perl-dbd-mariadb",
+  "version": "1.23-1",
+  "depends": [
+    "mariadb-libs",
+    "perl-dbi"
+  ],
+  "makedepends": [
+    "perl-devel-checklib"
+  ],
+  "receive": 199754751,
+  "transmit": 469628,
+  "disk": 1052905
+}
