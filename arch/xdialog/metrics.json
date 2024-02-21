@@ -1,0 +1,11 @@
+{
+  "name": "xdialog",
+  "version": "2.3.1-9",
+  "depends": [
+    "gtk2"
+  ],
+  "makedepends": [],
+  "receive": 199638107,
+  "transmit": 334964,
+  "disk": 2022128
+}
