@@ -1,0 +1,17 @@
+{
+  "name": "jless",
+  "version": "0.9.0-1",
+  "depends": [
+    "gcc-libs",
+    "libxcb",
+    "libxkbcommon"
+  ],
+  "makedepends": [
+    "git",
+    "rust",
+    "python"
+  ],
+  "receive": 199687595,
+  "transmit": 432968,
+  "disk": 5922432
+}
