@@ -1,0 +1,13 @@
+{
+  "name": "haskell-numinstances",
+  "version": "1.4-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199635013,
+  "transmit": 404119,
+  "disk": 147156
+}
