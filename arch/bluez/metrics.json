@@ -1,0 +1,19 @@
+{
+  "name": "bluez",
+  "version": "5.72-2",
+  "depends": [],
+  "makedepends": [
+    "dbus",
+    "libical",
+    "systemd",
+    "alsa-lib",
+    "json-c",
+    "ell",
+    "python-docutils",
+    "python-pygments",
+    "cups"
+  ],
+  "receive": 202300635,
+  "transmit": 431390,
+  "disk": 21639310
+}
