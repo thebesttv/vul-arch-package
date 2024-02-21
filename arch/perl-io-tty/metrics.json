@@ -1,0 +1,11 @@
+{
+  "name": "perl-io-tty",
+  "version": "1.20-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199763275,
+  "transmit": 414741,
+  "disk": 229377
+}
