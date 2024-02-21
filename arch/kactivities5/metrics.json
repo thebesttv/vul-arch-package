@@ -1,0 +1,20 @@
+{
+  "name": "kactivities5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kcoreaddons5",
+    "kconfig5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "boost",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc",
+    "qt5-declarative",
+    "kwindowsystem5"
+  ],
+  "receive": 199591732,
+  "transmit": 317077,
+  "disk": 636752
+}
