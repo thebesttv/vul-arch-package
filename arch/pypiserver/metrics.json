@@ -1,0 +1,18 @@
+{
+  "name": "pypiserver",
+  "version": "2.0.1-1",
+  "depends": [
+    "python",
+    "python-pip"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-git",
+    "python-wheel"
+  ],
+  "receive": 199673531,
+  "transmit": 378184,
+  "disk": 823103
+}
