@@ -1,0 +1,11 @@
+{
+  "name": "liquid-dsp",
+  "version": "1.6.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199521859,
+  "transmit": 275343,
+  "disk": 8532962
+}
