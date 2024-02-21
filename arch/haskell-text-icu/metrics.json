@@ -1,0 +1,20 @@
+{
+  "name": "haskell-text-icu",
+  "version": "0.8.0.4-13",
+  "depends": [
+    "ghc-libs",
+    "icu"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-random",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199522197,
+  "transmit": 281862,
+  "disk": 718843
+}
