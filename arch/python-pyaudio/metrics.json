@@ -1,0 +1,17 @@
+{
+  "name": "python-pyaudio",
+  "version": "0.2.14-2",
+  "depends": [
+    "portaudio",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199663257,
+  "transmit": 424156,
+  "disk": 389886
+}
