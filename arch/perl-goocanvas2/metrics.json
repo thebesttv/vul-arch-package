@@ -1,0 +1,12 @@
+{
+  "name": "perl-goocanvas2",
+  "version": "0.06-6",
+  "depends": [
+    "perl-gtk3",
+    "goocanvas"
+  ],
+  "makedepends": [],
+  "receive": 199749726,
+  "transmit": 386700,
+  "disk": 117964
+}
