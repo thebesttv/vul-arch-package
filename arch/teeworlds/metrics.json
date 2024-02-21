@@ -1,0 +1,21 @@
+{
+  "name": "teeworlds",
+  "version": "0.7.5-2",
+  "depends": [
+    "alsa-lib",
+    "glu",
+    "sdl2",
+    "freetype2"
+  ],
+  "makedepends": [
+    "python",
+    "bam",
+    "mesa",
+    "imagemagick",
+    "gendesk",
+    "git"
+  ],
+  "receive": 383782708,
+  "transmit": 1195196,
+  "disk": 199923075
+}
