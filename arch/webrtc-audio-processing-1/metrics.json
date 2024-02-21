@@ -1,0 +1,15 @@
+{
+  "name": "webrtc-audio-processing-1",
+  "version": "1.3-2",
+  "depends": [
+    "abseil-cpp",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199664859,
+  "transmit": 373730,
+  "disk": 7909970
+}
