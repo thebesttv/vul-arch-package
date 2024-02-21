@@ -1,0 +1,19 @@
+{
+  "name": "transmission-remote-gtk",
+  "version": "1.5.1-1",
+  "depends": [
+    "curl",
+    "glib2",
+    "gtk3",
+    "json-glib",
+    "libappindicator-gtk3",
+    "libproxy",
+    "geoip"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 201064053,
+  "transmit": 1373436,
+  "disk": 2515640
+}
