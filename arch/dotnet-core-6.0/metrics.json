@@ -1,0 +1,29 @@
+{
+  "name": "dotnet-core-6.0",
+  "version": "6.0.26.sdk126-1",
+  "depends": [],
+  "makedepends": [
+    "bash",
+    "clang",
+    "cmake",
+    "dotnet-sdk-6.0",
+    "dotnet-source-built-artifacts-6.0",
+    "git",
+    "icu",
+    "inetutils",
+    "krb5",
+    "libgit2",
+    "libunwind",
+    "libxml2",
+    "lldb",
+    "llvm",
+    "lttng-ust2.12",
+    "nodejs",
+    "openssl",
+    "systemd",
+    "zlib"
+  ],
+  "receive": 308952894,
+  "transmit": 997416,
+  "disk": 121340117
+}
