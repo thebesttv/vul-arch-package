@@ -1,0 +1,17 @@
+{
+  "name": "python-aiodns",
+  "version": "3.1.1-1",
+  "depends": [
+    "python-pycares"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199526154,
+  "transmit": 278592,
+  "disk": 447900
+}
