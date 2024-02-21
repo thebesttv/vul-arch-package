@@ -1,0 +1,21 @@
+{
+  "name": "ibus-libpinyin",
+  "version": "1.15.3-1",
+  "depends": [
+    "ibus",
+    "libpinyin",
+    "libsoup",
+    "lua",
+    "opencc",
+    "python-pyxdg"
+  ],
+  "makedepends": [
+    "boost",
+    "git",
+    "gnome-common",
+    "intltool"
+  ],
+  "receive": 200280086,
+  "transmit": 751930,
+  "disk": 12851741
+}
