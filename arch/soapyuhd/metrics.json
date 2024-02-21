@@ -1,0 +1,15 @@
+{
+  "name": "soapyuhd",
+  "version": "0.4.1-10",
+  "depends": [
+    "libuhd",
+    "soapysdr"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost"
+  ],
+  "receive": 199817697,
+  "transmit": 497543,
+  "disk": 280839
+}
