@@ -1,0 +1,21 @@
+{
+  "name": "dvisvgm",
+  "version": "3.2-1",
+  "depends": [
+    "brotli",
+    "freetype2",
+    "gcc-libs",
+    "ghostscript",
+    "glibc",
+    "potrace",
+    "texlive-bin",
+    "woff2",
+    "zlib"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199710779,
+  "transmit": 453168,
+  "disk": 14933320
+}
