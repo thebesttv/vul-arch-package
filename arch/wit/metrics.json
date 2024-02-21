@@ -1,0 +1,19 @@
+{
+  "name": "wit",
+  "version": "3.05a-1",
+  "depends": [
+    "bzip2",
+    "fuse2",
+    "glibc",
+    "libcrypto.so",
+    "libncursesw.so",
+    "zlib"
+  ],
+  "makedepends": [
+    "clang",
+    "git"
+  ],
+  "receive": 199569895,
+  "transmit": 291521,
+  "disk": 13482873
+}
