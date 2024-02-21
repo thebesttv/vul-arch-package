@@ -1,0 +1,12 @@
+{
+  "name": "riff",
+  "version": "1.0.3-1",
+  "depends": [
+    "cargo",
+    "nix"
+  ],
+  "makedepends": [],
+  "receive": 200393100,
+  "transmit": 940985,
+  "disk": 1061122
+}
