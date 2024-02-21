@@ -1,0 +1,13 @@
+{
+  "name": "judy",
+  "version": "1.0.5-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "gcc"
+  ],
+  "receive": 199684304,
+  "transmit": 410403,
+  "disk": 6654827
+}
