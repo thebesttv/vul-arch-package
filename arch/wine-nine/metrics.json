@@ -1,0 +1,15 @@
+{
+  "name": "wine-nine",
+  "version": "0.9-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "filesystem",
+    "lib32-mesa",
+    "wine",
+    "meson"
+  ],
+  "receive": 199891161,
+  "transmit": 556758,
+  "disk": 1136878
+}
