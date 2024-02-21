@@ -1,0 +1,14 @@
+{
+  "name": "ldoc",
+  "version": "1.5.0-1",
+  "depends": [
+    "lua",
+    "lua-penlight"
+  ],
+  "makedepends": [
+    "luarocks"
+  ],
+  "receive": 199527323,
+  "transmit": 291454,
+  "disk": 794040
+}
