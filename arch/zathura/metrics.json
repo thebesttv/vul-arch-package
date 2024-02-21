@@ -1,0 +1,24 @@
+{
+  "name": "zathura",
+  "version": "0.5.4-2",
+  "depends": [
+    "girara",
+    "sqlite",
+    "desktop-file-utils",
+    "file",
+    "libsynctex",
+    "file",
+    "libseccomp"
+  ],
+  "makedepends": [
+    "python-sphinx",
+    "texlive-bin",
+    "meson",
+    "ninja",
+    "appstream-glib",
+    "check"
+  ],
+  "receive": 199632621,
+  "transmit": 390734,
+  "disk": 1641076
+}
