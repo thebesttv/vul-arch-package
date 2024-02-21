@@ -1,0 +1,13 @@
+{
+  "name": "ioping",
+  "version": "1.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199594099,
+  "transmit": 367631,
+  "disk": 628157
+}
