@@ -1,0 +1,14 @@
+{
+  "name": "goimapnotify",
+  "version": "2.3.10-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199856605,
+  "transmit": 424720,
+  "disk": 210685
+}
