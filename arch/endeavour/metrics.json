@@ -1,0 +1,21 @@
+{
+  "name": "endeavour",
+  "version": "43.0-2",
+  "depends": [
+    "evolution-data-server",
+    "gtk4",
+    "libadwaita",
+    "libpeas",
+    "python"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199657973,
+  "transmit": 367047,
+  "disk": 12321741
+}
