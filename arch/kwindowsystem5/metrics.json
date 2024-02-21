@@ -1,0 +1,16 @@
+{
+  "name": "kwindowsystem5",
+  "version": "5.115.0-1",
+  "depends": [
+    "qt5-x11extras"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "qt5-doc",
+    "doxygen"
+  ],
+  "receive": 199550246,
+  "transmit": 278751,
+  "disk": 25429397
+}
