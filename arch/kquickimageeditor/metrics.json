@@ -1,0 +1,18 @@
+{
+  "name": "kquickimageeditor",
+  "version": "0.3.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-base",
+    "qt5-declarative",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "receive": 199595277,
+  "transmit": 322491,
+  "disk": 8098244
+}
