@@ -1,0 +1,14 @@
+{
+  "name": "efivar",
+  "version": "39-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "mandoc"
+  ],
+  "receive": 199671532,
+  "transmit": 371482,
+  "disk": 4785496
+}
