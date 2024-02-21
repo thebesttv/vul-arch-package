@@ -1,0 +1,11 @@
+{
+  "name": "gsimplecal",
+  "version": "2.5.1-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199541463,
+  "transmit": 310854,
+  "disk": 171551
+}
