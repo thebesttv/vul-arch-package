@@ -1,0 +1,12 @@
+{
+  "name": "perl-async-interrupt",
+  "version": "1.26-5",
+  "depends": [
+    "perl-canary-stability",
+    "perl-common-sense"
+  ],
+  "makedepends": [],
+  "receive": 199524451,
+  "transmit": 280794,
+  "disk": 266122
+}
