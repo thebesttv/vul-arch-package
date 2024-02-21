@@ -1,0 +1,11 @@
+{
+  "name": "libnumbertext",
+  "version": "1.0.11-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199747021,
+  "transmit": 394849,
+  "disk": 1432788
+}
