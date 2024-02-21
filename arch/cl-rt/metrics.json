@@ -1,0 +1,14 @@
+{
+  "name": "cl-rt",
+  "version": "1990.12.19.r19.ga6a7503-2",
+  "depends": [
+    "common-lisp",
+    "cl-asdf"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199575870,
+  "transmit": 332576,
+  "disk": 399125
+}
