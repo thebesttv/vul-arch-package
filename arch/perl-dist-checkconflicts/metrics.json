@@ -1,0 +1,14 @@
+{
+  "name": "perl-dist-checkconflicts",
+  "version": "0.11-9",
+  "depends": [
+    "perl-list-moreutils",
+    "perl-exporter"
+  ],
+  "makedepends": [
+    "perl-extutils-makemaker"
+  ],
+  "receive": 199517896,
+  "transmit": 301417,
+  "disk": 331614
+}
