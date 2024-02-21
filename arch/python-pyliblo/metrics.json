@@ -1,0 +1,19 @@
+{
+  "name": "python-pyliblo",
+  "version": "0.10.0-11",
+  "depends": [
+    "glibc",
+    "liblo",
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199595440,
+  "transmit": 318020,
+  "disk": 270239
+}
