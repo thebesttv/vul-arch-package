@@ -1,0 +1,15 @@
+{
+  "name": "openapi-diff",
+  "version": "2.0.1-2",
+  "depends": [
+    "bash",
+    "java-runtime=8"
+  ],
+  "makedepends": [
+    "maven",
+    "java-environment=8"
+  ],
+  "receive": 199506422,
+  "transmit": 268026,
+  "disk": 1184567
+}
