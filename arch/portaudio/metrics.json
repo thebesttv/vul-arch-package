@@ -1,0 +1,16 @@
+{
+  "name": "portaudio",
+  "version": "1:19.7.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "jack"
+  ],
+  "receive": 199545783,
+  "transmit": 250026,
+  "disk": 8739776
+}
