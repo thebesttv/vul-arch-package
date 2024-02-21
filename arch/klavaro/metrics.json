@@ -1,0 +1,18 @@
+{
+  "name": "klavaro",
+  "version": "3.14-1",
+  "depends": [
+    "curl",
+    "glib2",
+    "gtk3",
+    "gtkdatabox",
+    "pango"
+  ],
+  "makedepends": [
+    "cairo",
+    "intltool"
+  ],
+  "receive": 199688833,
+  "transmit": 488308,
+  "disk": 7393074
+}
