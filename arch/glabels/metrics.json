@@ -1,0 +1,17 @@
+{
+  "name": "glabels",
+  "version": "3.4.1-9",
+  "depends": [
+    "evolution-data-server",
+    "iec16022",
+    "qrencode"
+  ],
+  "makedepends": [
+    "intltool",
+    "itstool",
+    "python"
+  ],
+  "receive": 200317583,
+  "transmit": 967435,
+  "disk": 19637593
+}
