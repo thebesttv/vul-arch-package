@@ -1,0 +1,14 @@
+{
+  "name": "audiofile",
+  "version": "0.3.6-8",
+  "depends": [
+    "gcc-libs",
+    "flac"
+  ],
+  "makedepends": [
+    "alsa-lib"
+  ],
+  "receive": 199767921,
+  "transmit": 453059,
+  "disk": 4868413
+}
