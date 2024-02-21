@@ -1,0 +1,13 @@
+{
+  "name": "ruby-minitest-stub-const",
+  "version": "0.6-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake"
+  ],
+  "receive": 199489714,
+  "transmit": 219382,
+  "disk": 116699
+}
