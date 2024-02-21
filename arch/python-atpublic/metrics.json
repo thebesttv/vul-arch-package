@@ -1,0 +1,15 @@
+{
+  "name": "python-atpublic",
+  "version": "4.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-pdm-backend"
+  ],
+  "receive": 199537120,
+  "transmit": 263381,
+  "disk": 175537
+}
