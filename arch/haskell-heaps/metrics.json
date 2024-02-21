@@ -1,0 +1,14 @@
+{
+  "name": "haskell-heaps",
+  "version": "0.4-4",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199473755,
+  "transmit": 263482,
+  "disk": 153438
+}
