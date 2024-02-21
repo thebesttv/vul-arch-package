@@ -1,0 +1,38 @@
+{
+  "name": "kbibtex",
+  "version": "1:0.10.0-4",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "icu",
+    "kcompletion5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kcrash5",
+    "ki18n5",
+    "kiconthemes5",
+    "kitemviews5",
+    "kio5",
+    "kjobwidgets5",
+    "kparts5",
+    "kservice5",
+    "ktexteditor5",
+    "ktextwidgets5",
+    "kwallet5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "poppler-qt5",
+    "qt5-base",
+    "qt5-networkauth",
+    "qt5-webengine",
+    "qt5-xmlpatterns"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199714649,
+  "transmit": 421417,
+  "disk": 27202548
+}
