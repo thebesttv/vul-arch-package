@@ -1,0 +1,14 @@
+{
+  "name": "perl-sub-exporter",
+  "version": "0.991-1",
+  "depends": [
+    "perl",
+    "perl-data-optlist",
+    "perl-params-util",
+    "perl-sub-install"
+  ],
+  "makedepends": [],
+  "receive": 199627372,
+  "transmit": 390163,
+  "disk": 439703
+}
