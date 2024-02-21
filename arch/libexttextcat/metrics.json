@@ -1,0 +1,11 @@
+{
+  "name": "libexttextcat",
+  "version": "3.4.7-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199555260,
+  "transmit": 332449,
+  "disk": 6167908
+}
