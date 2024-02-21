@@ -1,0 +1,21 @@
+{
+  "name": "python-alembic",
+  "version": "1.9.4-3",
+  "depends": [
+    "python",
+    "python-mako",
+    "python-sqlalchemy",
+    "python-editor",
+    "python-dateutil"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-mako",
+    "python-sqlalchemy",
+    "python-editor",
+    "python-dateutil"
+  ],
+  "receive": 199612684,
+  "transmit": 357008,
+  "disk": 3078152
+}
