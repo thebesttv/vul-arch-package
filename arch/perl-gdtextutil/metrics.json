@@ -1,0 +1,11 @@
+{
+  "name": "perl-gdtextutil",
+  "version": "0.86-8",
+  "depends": [
+    "perl-gd>=1"
+  ],
+  "makedepends": [],
+  "receive": 200342952,
+  "transmit": 1040401,
+  "disk": 319883
+}
