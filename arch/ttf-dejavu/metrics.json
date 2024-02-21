@@ -1,0 +1,13 @@
+{
+  "name": "ttf-dejavu",
+  "version": "2.37+18+g9b5d1b2f-6",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "fontforge",
+    "perl-font-ttf"
+  ],
+  "receive": 595992838,
+  "transmit": 570737,
+  "disk": 452441433
+}
