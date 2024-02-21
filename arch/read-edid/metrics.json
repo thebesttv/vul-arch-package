@@ -1,0 +1,13 @@
+{
+  "name": "read-edid",
+  "version": "3.0.2-4",
+  "depends": [
+    "libx86>=0.99"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199575765,
+  "transmit": 333429,
+  "disk": 188813
+}
