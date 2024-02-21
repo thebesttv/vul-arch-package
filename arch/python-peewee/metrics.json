@@ -1,0 +1,18 @@
+{
+  "name": "python-peewee",
+  "version": "3.17.1-1",
+  "depends": [
+    "python",
+    "sqlite"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "cython",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199728165,
+  "transmit": 395749,
+  "disk": 4400189
+}
