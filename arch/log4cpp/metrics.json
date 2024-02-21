@@ -1,0 +1,12 @@
+{
+  "name": "log4cpp",
+  "version": "1.1.4-1",
+  "depends": [
+    "gcc-libs",
+    "libnsl"
+  ],
+  "makedepends": [],
+  "receive": 199579821,
+  "transmit": 323120,
+  "disk": 4173700
+}
