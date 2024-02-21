@@ -1,0 +1,14 @@
+{
+  "name": "jpeg-archive",
+  "version": "2.2.0-3",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "git",
+    "nasm"
+  ],
+  "receive": 220767688,
+  "transmit": 377686,
+  "disk": 46400308
+}
