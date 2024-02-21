@@ -1,0 +1,12 @@
+{
+  "name": "perl-http-negotiate",
+  "version": "6.01-12",
+  "depends": [
+    "perl",
+    "perl-http-message"
+  ],
+  "makedepends": [],
+  "receive": 199687132,
+  "transmit": 421954,
+  "disk": 147638
+}
