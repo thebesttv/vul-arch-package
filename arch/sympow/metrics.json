@@ -1,0 +1,13 @@
+{
+  "name": "sympow",
+  "version": "2.023.6-1",
+  "depends": [
+    "pari"
+  ],
+  "makedepends": [
+    "help2man"
+  ],
+  "receive": 199660330,
+  "transmit": 401076,
+  "disk": 402363
+}
