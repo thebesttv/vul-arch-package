@@ -1,0 +1,21 @@
+{
+  "name": "opensips",
+  "version": "3.4.2-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "libldap",
+    "libmariadbclient",
+    "libmicrohttpd",
+    "libxml2",
+    "libxslt",
+    "lynx",
+    "openssl",
+    "postgresql-libs",
+    "unixodbc"
+  ],
+  "receive": 227064957,
+  "transmit": 500391,
+  "disk": 135909926
+}
