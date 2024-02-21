@@ -1,0 +1,33 @@
+{
+  "name": "incus",
+  "version": "0.5.1-1",
+  "depends": [
+    "lxc",
+    "lxcfs",
+    "squashfs-tools",
+    "dnsmasq",
+    "cowsql",
+    "libuv",
+    "ebtables",
+    "raft",
+    "sqlite",
+    "libcap",
+    "acl",
+    "qemu-base",
+    "qemu-chardev-spice",
+    "qemu-hw-usb-redirect",
+    "qemu-hw-display-virtio-vga",
+    "qemu-hw-display-virtio-gpu"
+  ],
+  "makedepends": [
+    "go",
+    "git",
+    "tcl",
+    "apparmor",
+    "libseccomp",
+    "systemd"
+  ],
+  "receive": 210779274,
+  "transmit": 339207,
+  "disk": 113902900
+}
