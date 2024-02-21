@@ -1,0 +1,22 @@
+{
+  "name": "deepin-widgets",
+  "version": "6.0.14-2",
+  "depends": [
+    "qt5-base",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "glibc",
+    "gcc-libs",
+    "startdde"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "gtest",
+    "qt5-tools"
+  ],
+  "receive": 199584422,
+  "transmit": 345423,
+  "disk": 1251343
+}
