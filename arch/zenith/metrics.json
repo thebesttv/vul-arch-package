@@ -1,0 +1,14 @@
+{
+  "name": "zenith",
+  "version": "0.14.0-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "clang"
+  ],
+  "receive": 199627523,
+  "transmit": 396159,
+  "disk": 1899092
+}
