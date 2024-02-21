@@ -1,0 +1,12 @@
+{
+  "name": "libstatgrab",
+  "version": "0.92.1-1",
+  "depends": [
+    "ncurses",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199577388,
+  "transmit": 294284,
+  "disk": 4772157
+}
