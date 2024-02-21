@@ -1,0 +1,14 @@
+{
+  "name": "python-cchardet",
+  "version": "2.1.7-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools"
+  ],
+  "receive": 199729211,
+  "transmit": 473608,
+  "disk": 3353859
+}
