@@ -1,0 +1,17 @@
+{
+  "name": "trash-cli",
+  "version": "0.23.11.10-1",
+  "depends": [
+    "python",
+    "python-typing_extensions",
+    "python-psutil",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-shtab"
+  ],
+  "receive": 199823558,
+  "transmit": 425618,
+  "disk": 969734
+}
