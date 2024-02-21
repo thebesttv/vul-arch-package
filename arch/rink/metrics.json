@@ -1,0 +1,15 @@
+{
+  "name": "rink",
+  "version": "0.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199606924,
+  "transmit": 346635,
+  "disk": 4535537
+}
