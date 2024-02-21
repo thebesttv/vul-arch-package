@@ -1,0 +1,18 @@
+{
+  "name": "python-cleo",
+  "version": "2.1.0-1",
+  "depends": [
+    "python-crashtest",
+    "python-rapidfuzz",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 199711361,
+  "transmit": 384741,
+  "disk": 1018614
+}
