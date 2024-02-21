@@ -1,0 +1,17 @@
+{
+  "name": "yabause-gtk",
+  "version": "0.9.15-3",
+  "depends": [
+    "freeglut",
+    "glew",
+    "gtkglext",
+    "openal",
+    "sdl2"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199521431,
+  "transmit": 243255,
+  "disk": 13420986
+}
