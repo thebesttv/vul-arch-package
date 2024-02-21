@@ -1,0 +1,28 @@
+{
+  "name": "plasma-settings",
+  "version": "23.01.0-5",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "kconfig5",
+    "kcoreaddons5",
+    "kdeclarative5",
+    "kdbusaddons5",
+    "ki18n5",
+    "kpackage5",
+    "kirigami-addons5",
+    "modemmanager-qt5",
+    "networkmanager-qt5",
+    "plasma-framework5",
+    "qt5-base",
+    "qt5-declarative",
+    "solid5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199606647,
+  "transmit": 384080,
+  "disk": 5182852
+}
