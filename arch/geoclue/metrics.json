@@ -1,0 +1,22 @@
+{
+  "name": "geoclue",
+  "version": "2.7.1-2",
+  "depends": [
+    "avahi",
+    "json-glib",
+    "libmm-glib",
+    "libsoup3"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "libnotify",
+    "meson",
+    "systemd",
+    "vala"
+  ],
+  "receive": 199575757,
+  "transmit": 285300,
+  "disk": 3390667
+}
