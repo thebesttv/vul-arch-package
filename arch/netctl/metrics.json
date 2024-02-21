@@ -1,0 +1,16 @@
+{
+  "name": "netctl",
+  "version": "1.29-1",
+  "depends": [
+    "coreutils",
+    "iproute2",
+    "resolvconf",
+    "systemd>=233"
+  ],
+  "makedepends": [
+    "pkg-config"
+  ],
+  "receive": 199636309,
+  "transmit": 378532,
+  "disk": 435147
+}
