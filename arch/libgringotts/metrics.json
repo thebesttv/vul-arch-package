@@ -1,0 +1,14 @@
+{
+  "name": "libgringotts",
+  "version": "1.2.1-14",
+  "depends": [
+    "bzip2",
+    "libmcrypt",
+    "mhash",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199536756,
+  "transmit": 302582,
+  "disk": 1209031
+}
