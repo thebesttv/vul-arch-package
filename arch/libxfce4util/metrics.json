@@ -1,0 +1,15 @@
+{
+  "name": "libxfce4util",
+  "version": "4.18.2-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection",
+    "vala"
+  ],
+  "receive": 199630156,
+  "transmit": 394358,
+  "disk": 3707345
+}
