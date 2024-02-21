@@ -1,0 +1,13 @@
+{
+  "name": "xdo",
+  "version": "0.5.7-2",
+  "depends": [
+    "libxcb",
+    "xcb-util-wm",
+    "xcb-util"
+  ],
+  "makedepends": [],
+  "receive": 199609543,
+  "transmit": 377053,
+  "disk": 128240
+}
