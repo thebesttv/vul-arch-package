@@ -1,0 +1,13 @@
+{
+  "name": "qtdbusextended",
+  "version": "0.0.3-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199544567,
+  "transmit": 303574,
+  "disk": 167235
+}
