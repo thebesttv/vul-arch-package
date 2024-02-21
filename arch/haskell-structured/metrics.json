@@ -1,0 +1,23 @@
+{
+  "name": "haskell-structured",
+  "version": "0.1.1-166",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-base16-bytestring",
+    "haskell-hashable",
+    "haskell-scientific",
+    "haskell-tagged",
+    "haskell-time-compat",
+    "haskell-unordered-containers",
+    "haskell-uuid-types",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199845940,
+  "transmit": 380099,
+  "disk": 382460
+}
