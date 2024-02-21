@@ -1,0 +1,17 @@
+{
+  "name": "python-click-aliases",
+  "version": "1.0.1-2",
+  "depends": [
+    "python",
+    "python-click"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199700079,
+  "transmit": 410632,
+  "disk": 119510
+}
