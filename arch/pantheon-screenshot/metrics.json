@@ -1,0 +1,21 @@
+{
+  "name": "pantheon-screenshot",
+  "version": "6.0.4-1",
+  "depends": [
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "libcanberra",
+    "libgranite.so",
+    "libhandy-1.so"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199552410,
+  "transmit": 278236,
+  "disk": 6824066
+}
