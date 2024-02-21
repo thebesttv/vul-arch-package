@@ -1,0 +1,11 @@
+{
+  "name": "libnsutils",
+  "version": "0.1.1-1",
+  "depends": [],
+  "makedepends": [
+    "netsurf-buildsystem"
+  ],
+  "receive": 208892222,
+  "transmit": 504957,
+  "disk": 71401555
+}
