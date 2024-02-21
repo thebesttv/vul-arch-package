@@ -1,0 +1,12 @@
+{
+  "name": "perl-test-deep",
+  "version": "1.204-1",
+  "depends": [
+    "perl-test-nowarnings",
+    "perl-test-simple"
+  ],
+  "makedepends": [],
+  "receive": 199652378,
+  "transmit": 416921,
+  "disk": 506273
+}
