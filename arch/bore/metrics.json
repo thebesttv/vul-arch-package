@@ -1,0 +1,13 @@
+{
+  "name": "bore",
+  "version": "0.5.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199775717,
+  "transmit": 408208,
+  "disk": 210455
+}
