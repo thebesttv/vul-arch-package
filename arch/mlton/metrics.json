@@ -1,0 +1,15 @@
+{
+  "name": "mlton",
+  "version": "20210117-5",
+  "depends": [
+    "gmp"
+  ],
+  "makedepends": [
+    "git",
+    "mlton",
+    "setconf"
+  ],
+  "receive": 284890704,
+  "transmit": 352113,
+  "disk": 124985115
+}
