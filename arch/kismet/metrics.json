@@ -1,0 +1,42 @@
+{
+  "name": "kismet",
+  "version": "2023_07_R1-6",
+  "depends": [
+    "libpcap",
+    "pcre2",
+    "bluez-libs",
+    "libcap",
+    "protobuf-c",
+    "libprotobuf-c.so",
+    "sqlite",
+    "libnm",
+    "gcc-libs",
+    "libusb",
+    "libusb-1.0.so",
+    "libnl",
+    "glibc",
+    "zlib",
+    "libelf",
+    "lm_sensors",
+    "systemd",
+    "python",
+    "python-setuptools",
+    "python-protobuf",
+    "python-pyserial",
+    "python-numpy",
+    "python-websockets",
+    "libwebsockets",
+    "libcap-ng",
+    "libpcap.so",
+    "libprotobuf.so",
+    "libnm.so",
+    "libwebsockets.so",
+    "libsensors.so"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 210776873,
+  "transmit": 327563,
+  "disk": 63801690
+}
