@@ -1,0 +1,15 @@
+{
+  "name": "python-requests-mock",
+  "version": "1.11.0-1",
+  "depends": [
+    "python-requests",
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-pbr"
+  ],
+  "receive": 199695694,
+  "transmit": 441689,
+  "disk": 1147765
+}
