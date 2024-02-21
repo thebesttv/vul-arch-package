@@ -1,0 +1,16 @@
+{
+  "name": "python-pyppmd",
+  "version": "1.1.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199529758,
+  "transmit": 283160,
+  "disk": 3949630
+}
