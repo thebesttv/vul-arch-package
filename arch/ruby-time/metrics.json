@@ -1,0 +1,12 @@
+{
+  "name": "ruby-time",
+  "version": "0.2.0-4",
+  "depends": [
+    "ruby",
+    "ruby-date"
+  ],
+  "makedepends": [],
+  "receive": 199630542,
+  "transmit": 347068,
+  "disk": 234596
+}
