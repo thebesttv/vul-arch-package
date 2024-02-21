@@ -1,0 +1,13 @@
+{
+  "name": "corrade",
+  "version": "2020.06-3",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199705239,
+  "transmit": 445046,
+  "disk": 23163691
+}
