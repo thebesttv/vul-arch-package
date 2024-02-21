@@ -1,0 +1,22 @@
+{
+  "name": "spectmorph",
+  "version": "0.6.1-1",
+  "depends": [],
+  "makedepends": [
+    "cairo",
+    "fftw",
+    "freetype2",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "jack",
+    "lv2",
+    "libao",
+    "libglvnd",
+    "libsndfile",
+    "qt5-base"
+  ],
+  "receive": 247521332,
+  "transmit": 306773,
+  "disk": 100483165
+}
