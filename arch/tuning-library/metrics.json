@@ -1,0 +1,12 @@
+{
+  "name": "tuning-library",
+  "version": "1.1.0-3",
+  "depends": [],
+  "makedepends": [
+    "catch2",
+    "cmake"
+  ],
+  "receive": 199623319,
+  "transmit": 381726,
+  "disk": 989376
+}
