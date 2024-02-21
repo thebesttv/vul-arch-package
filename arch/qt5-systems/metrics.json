@@ -1,0 +1,12 @@
+{
+  "name": "qt5-systems",
+  "version": "5.4.0.20181230-2",
+  "depends": [
+    "bluez-libs",
+    "qt5-declarative"
+  ],
+  "makedepends": [],
+  "receive": 199635582,
+  "transmit": 367832,
+  "disk": 5672745
+}
