@@ -1,0 +1,12 @@
+{
+  "name": "debugedit",
+  "version": "5.0-5",
+  "depends": [
+    "glibc",
+    "libelf"
+  ],
+  "makedepends": [],
+  "receive": 199603162,
+  "transmit": 352572,
+  "disk": 1178165
+}
