@@ -1,0 +1,23 @@
+{
+  "name": "python-awkward",
+  "version": "1.10.2-2",
+  "depends": [
+    "python-numpy",
+    "python-packaging",
+    "python-importlib_resources"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "cuda",
+    "doxygen",
+    "python-sphinx",
+    "python-sphinx_rtd_theme"
+  ],
+  "receive": 512001474,
+  "transmit": 718858,
+  "disk": 341058259
+}
