@@ -1,0 +1,19 @@
+{
+  "name": "python-zope-component",
+  "version": "6.0-1",
+  "depends": [
+    "python",
+    "python-setuptools",
+    "python-zope-event",
+    "python-zope-hookable",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199715306,
+  "transmit": 462994,
+  "disk": 682569
+}
