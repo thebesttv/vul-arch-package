@@ -1,0 +1,12 @@
+{
+  "name": "sdl_ttf",
+  "version": "2.0.11-6",
+  "depends": [
+    "sdl",
+    "freetype2"
+  ],
+  "makedepends": [],
+  "receive": 199605411,
+  "transmit": 352121,
+  "disk": 16054070
+}
