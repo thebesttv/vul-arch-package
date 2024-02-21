@@ -1,0 +1,14 @@
+{
+  "name": "python-flask-gravatar",
+  "version": "0.5.0-8",
+  "depends": [],
+  "makedepends": [
+    "python-flask",
+    "python-sphinx",
+    "python-setuptools",
+    "python-pytest-runner"
+  ],
+  "receive": 199836505,
+  "transmit": 455817,
+  "disk": 181950
+}
