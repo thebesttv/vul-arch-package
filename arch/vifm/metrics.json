@@ -1,0 +1,14 @@
+{
+  "name": "vifm",
+  "version": "0.13-1",
+  "depends": [
+    "ncurses",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "perl"
+  ],
+  "receive": 201317937,
+  "transmit": 443546,
+  "disk": 10715888
+}
