@@ -1,0 +1,13 @@
+{
+  "name": "python-bitstring",
+  "version": "3.1.9-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199524665,
+  "transmit": 289633,
+  "disk": 1409645
+}
