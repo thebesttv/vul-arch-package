@@ -1,0 +1,13 @@
+{
+  "name": "haskell-murmur-hash",
+  "version": "0.1.0.10-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199665854,
+  "transmit": 305133,
+  "disk": 131116
+}
