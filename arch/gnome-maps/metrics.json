@@ -1,0 +1,28 @@
+{
+  "name": "gnome-maps",
+  "version": "45.4-1",
+  "depends": [
+    "dconf",
+    "hicolor-icon-theme",
+    "geoclue",
+    "geocode-glib-2",
+    "gjs",
+    "glib2",
+    "gtk4",
+    "libadwaita",
+    "libgweather-4",
+    "libportal",
+    "librest",
+    "libshumate",
+    "libxml2"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199682511,
+  "transmit": 302147,
+  "disk": 39935271
+}
