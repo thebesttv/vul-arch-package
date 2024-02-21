@@ -1,0 +1,11 @@
+{
+  "name": "zzuf",
+  "version": "0.15-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199670267,
+  "transmit": 397556,
+  "disk": 803641
+}
