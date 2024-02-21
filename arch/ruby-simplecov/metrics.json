@@ -1,0 +1,14 @@
+{
+  "name": "ruby-simplecov",
+  "version": "0.21.2-1",
+  "depends": [
+    "ruby",
+    "ruby-docile",
+    "ruby-simplecov-html",
+    "ruby-simplecov_json_formatter"
+  ],
+  "makedepends": [],
+  "receive": 199635807,
+  "transmit": 384097,
+  "disk": 940386
+}
