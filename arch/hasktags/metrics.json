@@ -1,0 +1,18 @@
+{
+  "name": "hasktags",
+  "version": "0.73.0-6",
+  "depends": [
+    "ghc-libs",
+    "haskell-json",
+    "haskell-microlens-platform",
+    "haskell-optparse-applicative",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit"
+  ],
+  "receive": 199799306,
+  "transmit": 359014,
+  "disk": 648890
+}
