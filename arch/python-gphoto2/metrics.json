@@ -1,0 +1,15 @@
+{
+  "name": "python-gphoto2",
+  "version": "2.3.4-2",
+  "depends": [
+    "libgphoto2",
+    "python"
+  ],
+  "makedepends": [
+    "swig",
+    "python-setuptools"
+  ],
+  "receive": 199558403,
+  "transmit": 307568,
+  "disk": 652416
+}
