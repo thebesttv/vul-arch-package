@@ -1,0 +1,18 @@
+{
+  "name": "python-jupyter-core",
+  "version": "5.7.1-1",
+  "depends": [
+    "python",
+    "python-argcomplete",
+    "python-traitlets",
+    "python-platformdirs"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199494734,
+  "transmit": 254290,
+  "disk": 674323
+}
