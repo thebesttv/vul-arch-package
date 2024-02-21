@@ -1,0 +1,15 @@
+{
+  "name": "quota-tools",
+  "version": "1:4.09-1",
+  "depends": [
+    "libnl",
+    "dbus",
+    "libtirpc"
+  ],
+  "makedepends": [
+    "rpcsvc-proto"
+  ],
+  "receive": 199499816,
+  "transmit": 258208,
+  "disk": 2657761
+}
