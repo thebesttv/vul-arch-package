@@ -1,0 +1,13 @@
+{
+  "name": "tinc",
+  "version": "1.0.36-3",
+  "depends": [
+    "lzo",
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199609684,
+  "transmit": 368627,
+  "disk": 2531152
+}
