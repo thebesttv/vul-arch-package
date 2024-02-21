@@ -1,0 +1,15 @@
+{
+  "name": "lib32-xcb-util-keysyms",
+  "version": "0.4.1-1",
+  "depends": [
+    "lib32-libxcb",
+    "xcb-util-keysyms"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199647906,
+  "transmit": 419272,
+  "disk": 2043455
+}
