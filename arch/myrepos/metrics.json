@@ -1,0 +1,11 @@
+{
+  "name": "myrepos",
+  "version": "1.20180726-7",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199569480,
+  "transmit": 347774,
+  "disk": 446864
+}
