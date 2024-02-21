@@ -1,0 +1,22 @@
+{
+  "name": "v4l-utils",
+  "version": "1.26.1-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "gcc-libs",
+    "libjpeg-turbo",
+    "systemd-libs",
+    "json-c"
+  ],
+  "makedepends": [
+    "qt5-base",
+    "alsa-lib",
+    "meson",
+    "clang",
+    "doxygen",
+    "libbpf"
+  ],
+  "receive": 199659302,
+  "transmit": 397017,
+  "disk": 9457474
+}
