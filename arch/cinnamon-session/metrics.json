@@ -1,0 +1,18 @@
+{
+  "name": "cinnamon-session",
+  "version": "6.0.4-1",
+  "depends": [
+    "cinnamon-desktop",
+    "libsm",
+    "libcanberra",
+    "xapps"
+  ],
+  "makedepends": [
+    "meson",
+    "samurai",
+    "xtrans"
+  ],
+  "receive": 199741807,
+  "transmit": 435877,
+  "disk": 1375285
+}
