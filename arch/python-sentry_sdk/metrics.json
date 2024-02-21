@@ -1,0 +1,17 @@
+{
+  "name": "python-sentry_sdk",
+  "version": "1.40.5-1",
+  "depends": [
+    "python-urllib3",
+    "python-certifi"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199637302,
+  "transmit": 386252,
+  "disk": 1550059
+}
