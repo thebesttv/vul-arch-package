@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libxxf86vm",
+  "version": "1.1.5-1",
+  "depends": [
+    "lib32-libxext",
+    "libxxf86vm"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "gcc-multilib"
+  ],
+  "receive": 199640244,
+  "transmit": 380926,
+  "disk": 2139644
+}
