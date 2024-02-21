@@ -1,0 +1,12 @@
+{
+  "name": "perl-file-fcntllock",
+  "version": "0.22-1",
+  "depends": [
+    "glibc",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199493853,
+  "transmit": 272620,
+  "disk": 191491
+}
