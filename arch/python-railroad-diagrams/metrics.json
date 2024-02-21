@@ -1,0 +1,14 @@
+{
+  "name": "python-railroad-diagrams",
+  "version": "3.0.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199668656,
+  "transmit": 406112,
+  "disk": 1118119
+}
