@@ -1,0 +1,19 @@
+{
+  "name": "maude",
+  "version": "3.3-1",
+  "depends": [
+    "buddy",
+    "cvc4",
+    "libtecla",
+    "gmp",
+    "libsigsegv",
+    "yices"
+  ],
+  "makedepends": [
+    "flex",
+    "bison"
+  ],
+  "receive": 202163800,
+  "transmit": 304071,
+  "disk": 19301240
+}
