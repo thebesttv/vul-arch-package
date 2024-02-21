@@ -1,0 +1,13 @@
+{
+  "name": "nginx-mod-ndk-set-misc",
+  "version": "0.33+0.3.3-6",
+  "depends": [
+    "nginx"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199571541,
+  "transmit": 327591,
+  "disk": 1040356
+}
