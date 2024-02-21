@@ -1,0 +1,11 @@
+{
+  "name": "lua",
+  "version": "5.4.6-3",
+  "depends": [
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 199617750,
+  "transmit": 349770,
+  "disk": 1828520
+}
