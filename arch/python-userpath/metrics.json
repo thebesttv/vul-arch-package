@@ -1,0 +1,18 @@
+{
+  "name": "python-userpath",
+  "version": "1.9.1-1",
+  "depends": [
+    "python",
+    "python-click",
+    "python-distro"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-wheel"
+  ],
+  "receive": 199634173,
+  "transmit": 362819,
+  "disk": 182204
+}
