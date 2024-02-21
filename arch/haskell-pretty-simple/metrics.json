@@ -1,0 +1,20 @@
+{
+  "name": "haskell-pretty-simple",
+  "version": "4.1.2.0-65",
+  "depends": [
+    "ghc-libs",
+    "haskell-optparse-applicative",
+    "haskell-prettyprinter",
+    "haskell-prettyprinter-ansi-terminal"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-cabal-doctest",
+    "haskell-doctest",
+    "haskell-glob",
+    "haskell-quickcheck"
+  ],
+  "receive": 199747331,
+  "transmit": 283725,
+  "disk": 533624
+}
