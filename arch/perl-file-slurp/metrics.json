@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-slurp",
+  "version": "9999.32-4",
+  "depends": [
+    "perl>=5.14.0"
+  ],
+  "makedepends": [],
+  "receive": 200079129,
+  "transmit": 589414,
+  "disk": 316168
+}
