@@ -1,0 +1,17 @@
+{
+  "name": "ruby-rubocop-ast",
+  "version": "1.23.0-2",
+  "depends": [
+    "ruby",
+    "ruby-parser"
+  ],
+  "makedepends": [
+    "ruby-bump",
+    "ruby-oedipus_lex",
+    "ruby-rspec",
+    "ruby-simplecov"
+  ],
+  "receive": 200157482,
+  "transmit": 839993,
+  "disk": 963132
+}
