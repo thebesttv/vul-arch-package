@@ -1,0 +1,13 @@
+{
+  "name": "haskell-bitarray",
+  "version": "0.0.1.1-23",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199557916,
+  "transmit": 287777,
+  "disk": 128237
+}
