@@ -1,0 +1,31 @@
+{
+  "name": "magpie-wm",
+  "version": "0.9.3-1",
+  "depends": [
+    "colord",
+    "dconf",
+    "gnome-desktop",
+    "gnome-settings-daemon",
+    "graphene",
+    "gsettings-desktop-schemas",
+    "lcms2",
+    "libcanberra",
+    "libgudev",
+    "libinput",
+    "libsm",
+    "libxkbcommon-x11",
+    "libxkbfile",
+    "mutter",
+    "pipewire",
+    "startup-notification"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "sysprof",
+    "xorg-server"
+  ],
+  "receive": 199598231,
+  "transmit": 322038,
+  "disk": 28286826
+}
