@@ -1,0 +1,14 @@
+{
+  "name": "nodm",
+  "version": "0.13-3",
+  "depends": [
+    "pam",
+    "xorg-xinit"
+  ],
+  "makedepends": [
+    "help2man"
+  ],
+  "receive": 199669001,
+  "transmit": 374159,
+  "disk": 316949
+}
