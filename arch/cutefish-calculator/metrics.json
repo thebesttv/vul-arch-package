@@ -1,0 +1,15 @@
+{
+  "name": "cutefish-calculator",
+  "version": "0.4-2",
+  "depends": [
+    "fishui"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199631440,
+  "transmit": 370966,
+  "disk": 446293
+}
