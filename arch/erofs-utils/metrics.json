@@ -1,0 +1,17 @@
+{
+  "name": "erofs-utils",
+  "version": "1.7.1-1",
+  "depends": [
+    "glibc",
+    "lz4",
+    "zlib"
+  ],
+  "makedepends": [
+    "fuse2",
+    "util-linux",
+    "xz"
+  ],
+  "receive": 199709120,
+  "transmit": 418675,
+  "disk": 916300
+}
