@@ -1,0 +1,13 @@
+{
+  "name": "expat",
+  "version": "2.6.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200332707,
+  "transmit": 411292,
+  "disk": 4344132
+}
