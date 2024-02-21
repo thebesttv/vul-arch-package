@@ -1,0 +1,19 @@
+{
+  "name": "xmlsec",
+  "version": "1.2.39-1",
+  "depends": [
+    "libxslt",
+    "openssl",
+    "gnutls",
+    "nss",
+    "libltdl",
+    "libgcrypt",
+    "nspr",
+    "libxml2",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199771004,
+  "transmit": 273115,
+  "disk": 14262632
+}
