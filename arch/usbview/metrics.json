@@ -1,0 +1,15 @@
+{
+  "name": "usbview",
+  "version": "3.0-3",
+  "depends": [
+    "gtk3",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "pkg-config",
+    "imagemagick"
+  ],
+  "receive": 199555849,
+  "transmit": 288137,
+  "disk": 1582097
+}
