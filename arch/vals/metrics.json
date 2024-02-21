@@ -1,0 +1,13 @@
+{
+  "name": "vals",
+  "version": "0.28.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199692500,
+  "transmit": 416742,
+  "disk": 568952
+}
