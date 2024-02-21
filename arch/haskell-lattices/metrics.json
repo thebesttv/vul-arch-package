@@ -1,0 +1,25 @@
+{
+  "name": "haskell-lattices",
+  "version": "2.1-53",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-base-compat",
+    "haskell-hashable",
+    "haskell-integer-logarithms",
+    "haskell-semigroupoids",
+    "haskell-tagged",
+    "haskell-universe-base",
+    "haskell-universe-reverse-instances",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199604300,
+  "transmit": 324777,
+  "disk": 546274
+}
