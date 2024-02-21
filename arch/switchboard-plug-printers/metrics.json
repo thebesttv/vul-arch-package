@@ -1,0 +1,20 @@
+{
+  "name": "switchboard-plug-printers",
+  "version": "2.2.1-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libcups",
+    "libgee",
+    "libgranite.so",
+    "libswitchboard-2.0.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199652739,
+  "transmit": 389719,
+  "disk": 9299177
+}
