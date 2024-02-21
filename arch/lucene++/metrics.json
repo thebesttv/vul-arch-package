@@ -1,0 +1,15 @@
+{
+  "name": "lucene++",
+  "version": "3.0.8-7",
+  "depends": [
+    "boost-libs"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "subversion"
+  ],
+  "receive": 200411311,
+  "transmit": 1088586,
+  "disk": 15175381
+}
