@@ -1,0 +1,23 @@
+{
+  "name": "ukui-panel",
+  "version": "3.0.6.4-3",
+  "depends": [
+    "dconf",
+    "gsettings-qt",
+    "kwindowsystem5",
+    "libdbusmenu-qt5",
+    "libqtxdg",
+    "peony",
+    "ukui-biometric-auth",
+    "ukui-menu",
+    "ukui-menus"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199572585,
+  "transmit": 331950,
+  "disk": 8216274
+}
