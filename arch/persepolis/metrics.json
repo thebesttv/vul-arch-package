@@ -1,0 +1,23 @@
+{
+  "name": "persepolis",
+  "version": "3.2.0-8",
+  "depends": [
+    "aria2",
+    "ffmpeg",
+    "libnotify",
+    "libpulse",
+    "python-psutil",
+    "python-pyqt5",
+    "python-requests",
+    "python-setproctitle",
+    "qt5-svg",
+    "sound-theme-freedesktop",
+    "youtube-dl"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199541460,
+  "transmit": 275800,
+  "disk": 4580875
+}
