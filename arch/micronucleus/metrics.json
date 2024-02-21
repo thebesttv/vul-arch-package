@@ -1,0 +1,11 @@
+{
+  "name": "micronucleus",
+  "version": "2.6-2",
+  "depends": [
+    "libusb-compat"
+  ],
+  "makedepends": [],
+  "receive": 202182505,
+  "transmit": 1631369,
+  "disk": 7823704
+}
