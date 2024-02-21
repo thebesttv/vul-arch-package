@@ -1,0 +1,13 @@
+{
+  "name": "mmtf-cpp",
+  "version": "1.1.0-1",
+  "depends": [
+    "msgpack-cxx"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199708918,
+  "transmit": 432490,
+  "disk": 605177
+}
