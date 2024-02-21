@@ -1,0 +1,17 @@
+{
+  "name": "pkgfile",
+  "version": "21-2",
+  "depends": [
+    "libarchive",
+    "curl",
+    "pcre",
+    "pacman"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199540438,
+  "transmit": 259543,
+  "disk": 2832367
+}
