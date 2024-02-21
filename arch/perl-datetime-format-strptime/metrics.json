@@ -1,0 +1,15 @@
+{
+  "name": "perl-datetime-format-strptime",
+  "version": "1.79-2",
+  "depends": [
+    "perl-datetime>=0.72",
+    "perl-datetime-locale>=0.45",
+    "perl-datetime-timezone>=0.79",
+    "perl-params-validate>=0.64",
+    "perl-package-deprecationmanager"
+  ],
+  "makedepends": [],
+  "receive": 199584014,
+  "transmit": 329544,
+  "disk": 4263145
+}
