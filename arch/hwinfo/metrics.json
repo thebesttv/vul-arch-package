@@ -1,0 +1,17 @@
+{
+  "name": "hwinfo",
+  "version": "23.2-1",
+  "depends": [
+    "libx86emu=3.5",
+    "perl-xml-parser",
+    "perl-xml-writer"
+  ],
+  "makedepends": [
+    "flex",
+    "git",
+    "sysfsutils"
+  ],
+  "receive": 199529451,
+  "transmit": 280014,
+  "disk": 21406585
+}
