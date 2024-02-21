@@ -1,0 +1,14 @@
+{
+  "name": "ruby-io-nonblock",
+  "version": "0.1.0-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rake-compiler"
+  ],
+  "receive": 199631100,
+  "transmit": 359323,
+  "disk": 136466
+}
