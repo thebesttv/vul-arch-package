@@ -1,0 +1,19 @@
+{
+  "name": "cups-browsed",
+  "version": "2.0.0-2",
+  "depends": [
+    "libcups",
+    "libcupsfilters",
+    "libppd",
+    "avahi",
+    "glib2",
+    "glibc",
+    "libldap"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199701021,
+  "transmit": 376966,
+  "disk": 3108780
+}
