@@ -1,0 +1,19 @@
+{
+  "name": "networkmanager-pptp",
+  "version": "1.2.12-3",
+  "depends": [
+    "libnm",
+    "libsecret",
+    "ppp=2.5.0",
+    "pptpclient"
+  ],
+  "makedepends": [
+    "git",
+    "libnma",
+    "libnma-gtk4",
+    "python"
+  ],
+  "receive": 199565485,
+  "transmit": 342116,
+  "disk": 2836997
+}
