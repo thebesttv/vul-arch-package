@@ -1,0 +1,14 @@
+{
+  "name": "python-sphinx-autorun",
+  "version": "1.1.1-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm"
+  ],
+  "receive": 200168268,
+  "transmit": 693744,
+  "disk": 412096
+}
