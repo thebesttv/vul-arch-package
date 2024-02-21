@@ -1,0 +1,22 @@
+{
+  "name": "vis",
+  "version": "0.8-2",
+  "depends": [
+    "acl",
+    "libacl.so",
+    "bash",
+    "ncurses",
+    "libncursesw.so",
+    "libtermkey",
+    "libtermkey.so",
+    "lua",
+    "tre",
+    "file"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199909963,
+  "transmit": 578417,
+  "disk": 18811568
+}
