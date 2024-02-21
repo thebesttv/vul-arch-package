@@ -1,0 +1,13 @@
+{
+  "name": "howl",
+  "version": "0.6-2",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "setconf"
+  ],
+  "receive": 199625294,
+  "transmit": 370670,
+  "disk": 11576203
+}
