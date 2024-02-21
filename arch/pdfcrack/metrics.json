@@ -1,0 +1,11 @@
+{
+  "name": "pdfcrack",
+  "version": "0.20-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199709276,
+  "transmit": 388669,
+  "disk": 284574
+}
