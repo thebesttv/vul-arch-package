@@ -1,0 +1,13 @@
+{
+  "name": "cargo-ndk",
+  "version": "3.4.0-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199952533,
+  "transmit": 572540,
+  "disk": 316100
+}
