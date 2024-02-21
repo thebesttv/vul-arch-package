@@ -1,0 +1,11 @@
+{
+  "name": "uasm",
+  "version": "2.56.2-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 257439097,
+  "transmit": 360842,
+  "disk": 65532996
+}
