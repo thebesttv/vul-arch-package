@@ -1,0 +1,19 @@
+{
+  "name": "python-ipycanvas",
+  "version": "0.13.1-2",
+  "depends": [
+    "python-ipywidgets",
+    "python-pillow",
+    "python-numpy",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-jupyter_packaging",
+    "jupyterlab"
+  ],
+  "receive": 199541841,
+  "transmit": 297708,
+  "disk": 7269635
+}
