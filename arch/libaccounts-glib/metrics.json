@@ -1,0 +1,19 @@
+{
+  "name": "libaccounts-glib",
+  "version": "1.26-2",
+  "depends": [
+    "glib2",
+    "libxml2",
+    "sqlite"
+  ],
+  "makedepends": [
+    "python-gobject",
+    "gobject-introspection",
+    "vala",
+    "meson",
+    "check"
+  ],
+  "receive": 199599692,
+  "transmit": 309224,
+  "disk": 909700
+}
