@@ -1,0 +1,18 @@
+{
+  "name": "libwnck3",
+  "version": "43.0-3",
+  "depends": [
+    "gtk3",
+    "startup-notification",
+    "libxres"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "gtk-doc",
+    "git",
+    "meson"
+  ],
+  "receive": 199818163,
+  "transmit": 458011,
+  "disk": 8794630
+}
