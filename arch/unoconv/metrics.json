@@ -1,0 +1,15 @@
+{
+  "name": "unoconv",
+  "version": "0.9-2",
+  "depends": [
+    "python",
+    "libreoffice"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "git"
+  ],
+  "receive": 199581607,
+  "transmit": 336159,
+  "disk": 1430824
+}
