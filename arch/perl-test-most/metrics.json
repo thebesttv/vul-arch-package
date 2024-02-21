@@ -1,0 +1,16 @@
+{
+  "name": "perl-test-most",
+  "version": "0.38-2",
+  "depends": [
+    "perl",
+    "perl-exception-class",
+    "perl-test-deep",
+    "perl-test-differences",
+    "perl-test-exception",
+    "perl-test-warn"
+  ],
+  "makedepends": [],
+  "receive": 199531229,
+  "transmit": 274542,
+  "disk": 183693
+}
