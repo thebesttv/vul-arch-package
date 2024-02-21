@@ -1,0 +1,12 @@
+{
+  "name": "gtk-sharp-3",
+  "version": "2.99.3-5",
+  "depends": [
+    "mono",
+    "gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199546046,
+  "transmit": 311858,
+  "disk": 21913682
+}
