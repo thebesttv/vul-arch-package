@@ -1,0 +1,16 @@
+{
+  "name": "efifs",
+  "version": "1.9-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "mingw-w64-gcc",
+    "arm-none-eabi-gcc",
+    "arm-none-eabi-newlib",
+    "aarch64-linux-gnu-gcc",
+    "riscv64-linux-gnu-gcc"
+  ],
+  "receive": 294574587,
+  "transmit": 742457,
+  "disk": 117398941
+}
