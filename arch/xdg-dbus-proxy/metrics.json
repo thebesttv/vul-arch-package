@@ -1,0 +1,16 @@
+{
+  "name": "xdg-dbus-proxy",
+  "version": "0.1.5-1",
+  "depends": [
+    "dbus",
+    "glib2"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "meson"
+  ],
+  "receive": 199679178,
+  "transmit": 461169,
+  "disk": 682462
+}
