@@ -1,0 +1,11 @@
+{
+  "name": "perl-svn-simple-edit",
+  "version": "0.28-6",
+  "depends": [],
+  "makedepends": [
+    "subversion"
+  ],
+  "receive": 199511518,
+  "transmit": 270475,
+  "disk": 130164
+}
