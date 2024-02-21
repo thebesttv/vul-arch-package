@@ -1,0 +1,13 @@
+{
+  "name": "lib32-libindicator",
+  "version": "12.10.1-9",
+  "depends": [],
+  "makedepends": [
+    "lib32-gtk2",
+    "lib32-gtk3",
+    "python"
+  ],
+  "receive": 200178843,
+  "transmit": 445262,
+  "disk": 2374556
+}
