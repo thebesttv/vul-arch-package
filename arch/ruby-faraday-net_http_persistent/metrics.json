@@ -1,0 +1,13 @@
+{
+  "name": "ruby-faraday-net_http_persistent",
+  "version": "1.2.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rspec"
+  ],
+  "receive": 199527284,
+  "transmit": 265855,
+  "disk": 151484
+}
