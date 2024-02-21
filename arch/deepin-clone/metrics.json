@@ -1,0 +1,26 @@
+{
+  "name": "deepin-clone",
+  "version": "5.0.15-2",
+  "depends": [
+    "deepin-qt5integration",
+    "deepin-file-manager",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "gcc-libs",
+    "e2fsprogs",
+    "jfsutils",
+    "xfsprogs",
+    "partclone"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools",
+    "deepin-gettext-tools"
+  ],
+  "receive": 199524881,
+  "transmit": 277216,
+  "disk": 9633721
+}
