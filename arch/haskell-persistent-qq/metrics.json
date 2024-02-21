@@ -1,0 +1,23 @@
+{
+  "name": "haskell-persistent-qq",
+  "version": "2.12.0.2-205",
+  "depends": [
+    "ghc-libs",
+    "haskell-src-meta",
+    "haskell-persistent"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-aeson",
+    "haskell-fast-logger",
+    "haskell-hspec",
+    "haskell-hunit",
+    "haskell-monad-logger",
+    "haskell-persistent-sqlite",
+    "haskell-resourcet",
+    "haskell-unliftio"
+  ],
+  "receive": 199968907,
+  "transmit": 492374,
+  "disk": 709989
+}
