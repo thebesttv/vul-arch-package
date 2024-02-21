@@ -1,0 +1,15 @@
+{
+  "name": "python-prawcore",
+  "version": "2.4.0-1",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199559316,
+  "transmit": 274742,
+  "disk": 4289134
+}
