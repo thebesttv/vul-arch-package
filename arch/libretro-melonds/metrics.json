@@ -1,0 +1,15 @@
+{
+  "name": "libretro-melonds",
+  "version": "2014-1",
+  "depends": [
+    "libgl",
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git",
+    "libglvnd"
+  ],
+  "receive": 199536612,
+  "transmit": 298331,
+  "disk": 22481743
+}
