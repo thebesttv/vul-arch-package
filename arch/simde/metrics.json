@@ -1,0 +1,11 @@
+{
+  "name": "simde",
+  "version": "0.7.6-1",
+  "depends": [],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199661344,
+  "transmit": 390343,
+  "disk": 50209962
+}
