@@ -1,0 +1,13 @@
+{
+  "name": "gopass-summon-provider",
+  "version": "1.15.11-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199531304,
+  "transmit": 296776,
+  "disk": 181081
+}
