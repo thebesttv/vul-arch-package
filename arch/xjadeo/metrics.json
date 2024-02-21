@@ -1,0 +1,27 @@
+{
+  "name": "xjadeo",
+  "version": "0.8.13-1",
+  "depends": [
+    "glibc",
+    "imlib2",
+    "libx11",
+    "libxext",
+    "libxpm",
+    "libxv"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "ffmpeg",
+    "gendesk",
+    "git",
+    "glu",
+    "jack",
+    "libglvnd",
+    "liblo",
+    "libltc",
+    "portmidi"
+  ],
+  "receive": 199597446,
+  "transmit": 372148,
+  "disk": 3118433
+}
