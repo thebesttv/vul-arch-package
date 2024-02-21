@@ -1,0 +1,12 @@
+{
+  "name": "nuget",
+  "version": "6.5.0-1",
+  "depends": [
+    "mono",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199550654,
+  "transmit": 284825,
+  "disk": 7431352
+}
