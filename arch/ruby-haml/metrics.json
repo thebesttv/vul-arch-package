@@ -1,0 +1,14 @@
+{
+  "name": "ruby-haml",
+  "version": "6.0.10-1",
+  "depends": [
+    "ruby",
+    "ruby-temple",
+    "ruby-thor",
+    "ruby-tilt"
+  ],
+  "makedepends": [],
+  "receive": 199942586,
+  "transmit": 532894,
+  "disk": 2052096
+}
