@@ -1,0 +1,15 @@
+{
+  "name": "meterbridge",
+  "version": "0.9.3-3",
+  "depends": [
+    "jack",
+    "sdl_image",
+    "libglvnd"
+  ],
+  "makedepends": [
+    "mesa"
+  ],
+  "receive": 199533590,
+  "transmit": 295897,
+  "disk": 1628429
+}
