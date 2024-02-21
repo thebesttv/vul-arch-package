@@ -1,0 +1,19 @@
+{
+  "name": "libvdpau-va-gl",
+  "version": "0.4.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libgl",
+    "libvdpau",
+    "libx11",
+    "libva.so",
+    "libva-x11.so"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199656554,
+  "transmit": 396102,
+  "disk": 838834
+}
