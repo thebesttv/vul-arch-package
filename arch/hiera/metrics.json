@@ -1,0 +1,11 @@
+{
+  "name": "hiera",
+  "version": "3.12.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 200122818,
+  "transmit": 385481,
+  "disk": 443711
+}
