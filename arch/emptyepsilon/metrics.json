@@ -1,0 +1,21 @@
+{
+  "name": "emptyepsilon",
+  "version": "2023.06.17-2",
+  "depends": [
+    "libglvnd",
+    "libx11",
+    "libxrandr",
+    "glibc",
+    "gcc-libs",
+    "sdl2"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "mesa",
+    "python"
+  ],
+  "receive": 874468123,
+  "transmit": 1980283,
+  "disk": 976551522
+}
