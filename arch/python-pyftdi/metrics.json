@@ -1,0 +1,18 @@
+{
+  "name": "python-pyftdi",
+  "version": "0.55.0-1",
+  "depends": [
+    "python",
+    "python-pyusb",
+    "python-pyserial"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199704291,
+  "transmit": 446860,
+  "disk": 1090605
+}
