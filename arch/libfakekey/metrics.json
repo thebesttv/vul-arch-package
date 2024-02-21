@@ -1,0 +1,11 @@
+{
+  "name": "libfakekey",
+  "version": "0.3-2",
+  "depends": [
+    "libxtst"
+  ],
+  "makedepends": [],
+  "receive": 199646670,
+  "transmit": 336949,
+  "disk": 149957
+}
