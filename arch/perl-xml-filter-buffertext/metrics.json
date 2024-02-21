@@ -1,0 +1,12 @@
+{
+  "name": "perl-xml-filter-buffertext",
+  "version": "1.01-9",
+  "depends": [
+    "perl>=5.10.0",
+    "perl-xml-sax"
+  ],
+  "makedepends": [],
+  "receive": 199623722,
+  "transmit": 361943,
+  "disk": 104730
+}
