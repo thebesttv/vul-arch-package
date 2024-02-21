@@ -1,0 +1,20 @@
+{
+  "name": "patchmatrix",
+  "version": "0.26.0-2",
+  "depends": [
+    "glibc",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "libx11"
+  ],
+  "makedepends": [
+    "glew",
+    "glu",
+    "jack",
+    "lv2",
+    "meson"
+  ],
+  "receive": 199598526,
+  "transmit": 304946,
+  "disk": 7488174
+}
