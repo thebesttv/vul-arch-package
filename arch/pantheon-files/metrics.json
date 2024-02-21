@@ -1,0 +1,33 @@
+{
+  "name": "pantheon-files",
+  "version": "6.5.3-1",
+  "depends": [
+    "atk",
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "gvfs",
+    "libcanberra",
+    "libcloudproviders",
+    "libgee",
+    "libgit2-glib",
+    "libgranite.so",
+    "libhandy-1.so",
+    "libnotify",
+    "pango",
+    "plank",
+    "sqlite",
+    "zeitgeist"
+  ],
+  "makedepends": [
+    "flatpak-builder",
+    "git",
+    "gnome-common",
+    "meson",
+    "vala"
+  ],
+  "receive": 404915282,
+  "transmit": 707326,
+  "disk": 223192677
+}
