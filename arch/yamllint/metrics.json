@@ -1,0 +1,18 @@
+{
+  "name": "yamllint",
+  "version": "1.33.0-1",
+  "depends": [
+    "python-pathspec",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199574973,
+  "transmit": 334386,
+  "disk": 2550594
+}
