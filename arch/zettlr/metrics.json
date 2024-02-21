@@ -1,0 +1,22 @@
+{
+  "name": "zettlr",
+  "version": "3.0.5-2",
+  "depends": [
+    "crimson-font",
+    "electron28",
+    "pandoc-cli",
+    "ttf-inconsolata",
+    "ttf-liberation"
+  ],
+  "makedepends": [
+    "gendesk",
+    "git",
+    "nodejs-lts-iron",
+    "node-gyp",
+    "yarn",
+    "jq"
+  ],
+  "receive": 211583260,
+  "transmit": 564186,
+  "disk": 95439241
+}
