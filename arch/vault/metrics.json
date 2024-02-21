@@ -1,0 +1,21 @@
+{
+  "name": "vault",
+  "version": "1.15.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git",
+    "yarn",
+    "bower",
+    "nodejs-lts-iron",
+    "npm",
+    "zip",
+    "gox",
+    "go-tools"
+  ],
+  "receive": 604553005,
+  "transmit": 2024424,
+  "disk": 487277809
+}
