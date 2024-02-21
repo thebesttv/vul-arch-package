@@ -1,0 +1,12 @@
+{
+  "name": "libdv",
+  "version": "1.0.0-11",
+  "depends": [
+    "glibc",
+    "popt"
+  ],
+  "makedepends": [],
+  "receive": 199640114,
+  "transmit": 396177,
+  "disk": 3257995
+}
