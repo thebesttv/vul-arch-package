@@ -1,0 +1,14 @@
+{
+  "name": "ruby-marcel",
+  "version": "1.0.2-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-bundler",
+    "ruby-rake"
+  ],
+  "receive": 199517497,
+  "transmit": 246735,
+  "disk": 21935644
+}
