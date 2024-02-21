@@ -1,0 +1,20 @@
+{
+  "name": "python-xapian-haystack",
+  "version": "3.1.0-1",
+  "depends": [
+    "python",
+    "python-django",
+    "python-django-haystack",
+    "python-filelock",
+    "python-xapian"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199521630,
+  "transmit": 295379,
+  "disk": 2946384
+}
