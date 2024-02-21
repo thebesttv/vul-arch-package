@@ -1,0 +1,20 @@
+{
+  "name": "python-pytest",
+  "version": "1:7.4.4-1",
+  "depends": [
+    "python-iniconfig",
+    "python-packaging",
+    "python-pluggy"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 241352198,
+  "transmit": 590289,
+  "disk": 50593665
+}
