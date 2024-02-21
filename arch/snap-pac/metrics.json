@@ -1,0 +1,16 @@
+{
+  "name": "snap-pac",
+  "version": "3.0.1-2",
+  "depends": [
+    "snapper",
+    "pacman",
+    "btrfs-progs",
+    "python"
+  ],
+  "makedepends": [
+    "python-sphinx"
+  ],
+  "receive": 199894076,
+  "transmit": 491188,
+  "disk": 225946
+}
