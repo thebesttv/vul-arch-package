@@ -1,0 +1,15 @@
+{
+  "name": "evolution-on",
+  "version": "3.24.2-3",
+  "depends": [
+    "evolution",
+    "libnotify"
+  ],
+  "makedepends": [
+    "git",
+    "gnome-common"
+  ],
+  "receive": 199657298,
+  "transmit": 425344,
+  "disk": 205610
+}
