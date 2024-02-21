@@ -1,0 +1,13 @@
+{
+  "name": "python-func-timeout",
+  "version": "4.3.5-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199644791,
+  "transmit": 388927,
+  "disk": 323734
+}
