@@ -1,0 +1,14 @@
+{
+  "name": "python-doublex",
+  "version": "1.9.6.1-1",
+  "depends": [
+    "python-pyhamcrest",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199691692,
+  "transmit": 418772,
+  "disk": 578546
+}
