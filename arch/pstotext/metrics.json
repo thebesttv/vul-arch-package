@@ -1,0 +1,11 @@
+{
+  "name": "pstotext",
+  "version": "1.9-7",
+  "depends": [
+    "ghostscript"
+  ],
+  "makedepends": [],
+  "receive": 199623296,
+  "transmit": 369969,
+  "disk": 255657
+}
