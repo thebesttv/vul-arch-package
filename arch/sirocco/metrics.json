@@ -1,0 +1,11 @@
+{
+  "name": "sirocco",
+  "version": "2.1.0-1",
+  "depends": [
+    "mpfr"
+  ],
+  "makedepends": [],
+  "receive": 199662400,
+  "transmit": 430686,
+  "disk": 2237972
+}
