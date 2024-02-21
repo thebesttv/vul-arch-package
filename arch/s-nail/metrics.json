@@ -1,0 +1,13 @@
+{
+  "name": "s-nail",
+  "version": "14.9.24-2",
+  "depends": [
+    "openssl",
+    "krb5",
+    "libidn2"
+  ],
+  "makedepends": [],
+  "receive": 199527306,
+  "transmit": 298502,
+  "disk": 5104367
+}
