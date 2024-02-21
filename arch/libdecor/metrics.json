@@ -1,0 +1,19 @@
+{
+  "name": "libdecor",
+  "version": "0.2.2-1",
+  "depends": [
+    "wayland",
+    "pango",
+    "dbus"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "meson",
+    "wayland-protocols",
+    "gtk3"
+  ],
+  "receive": 199805150,
+  "transmit": 492909,
+  "disk": 499769
+}
