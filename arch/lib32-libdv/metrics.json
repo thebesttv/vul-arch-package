@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libdv",
+  "version": "1.0.0-8",
+  "depends": [
+    "libdv",
+    "lib32-popt"
+  ],
+  "makedepends": [],
+  "receive": 199545995,
+  "transmit": 274650,
+  "disk": 3248498
+}
