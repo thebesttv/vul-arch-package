@@ -1,0 +1,11 @@
+{
+  "name": "jhead",
+  "version": "3.08-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 200386305,
+  "transmit": 714056,
+  "disk": 3135178
+}
