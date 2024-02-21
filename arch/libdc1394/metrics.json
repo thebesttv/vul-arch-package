@@ -1,0 +1,15 @@
+{
+  "name": "libdc1394",
+  "version": "2.2.7-1",
+  "depends": [
+    "glibc",
+    "libraw1394",
+    "libusb"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199658016,
+  "transmit": 366818,
+  "disk": 3459489
+}
