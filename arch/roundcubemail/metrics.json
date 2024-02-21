@@ -1,0 +1,13 @@
+{
+  "name": "roundcubemail",
+  "version": "1.6.6-1",
+  "depends": [
+    "php-interpreter"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199716649,
+  "transmit": 368609,
+  "disk": 30753016
+}
