@@ -1,0 +1,14 @@
+{
+  "name": "gpx-viewer",
+  "version": "0.4.0-4",
+  "depends": [
+    "gdl",
+    "libchamplain"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199662016,
+  "transmit": 383149,
+  "disk": 3059387
+}
