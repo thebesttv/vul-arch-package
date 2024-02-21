@@ -1,0 +1,15 @@
+{
+  "name": "shadowsocks-rust",
+  "version": "1.18.1-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199508010,
+  "transmit": 255876,
+  "disk": 3801406
+}
