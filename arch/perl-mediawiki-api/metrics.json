@@ -1,0 +1,13 @@
+{
+  "name": "perl-mediawiki-api",
+  "version": "0.52-3",
+  "depends": [
+    "perl-json-xs",
+    "perl-json",
+    "perl-libwww"
+  ],
+  "makedepends": [],
+  "receive": 199558106,
+  "transmit": 285950,
+  "disk": 231255
+}
