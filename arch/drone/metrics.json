@@ -1,0 +1,12 @@
+{
+  "name": "drone",
+  "version": "2.18.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 200071099,
+  "transmit": 648558,
+  "disk": 65245598
+}
