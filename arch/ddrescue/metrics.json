@@ -1,0 +1,12 @@
+{
+  "name": "ddrescue",
+  "version": "1.28-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199521355,
+  "transmit": 256186,
+  "disk": 1186665
+}
