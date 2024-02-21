@@ -1,0 +1,11 @@
+{
+  "name": "brightnessctl",
+  "version": "0.5.1-2",
+  "depends": [
+    "systemd-libs"
+  ],
+  "makedepends": [],
+  "receive": 199548078,
+  "transmit": 325049,
+  "disk": 122375
+}
