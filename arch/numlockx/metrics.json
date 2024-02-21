@@ -1,0 +1,11 @@
+{
+  "name": "numlockx",
+  "version": "1.2-5",
+  "depends": [
+    "libxtst"
+  ],
+  "makedepends": [],
+  "receive": 199694717,
+  "transmit": 401968,
+  "disk": 505984
+}
