@@ -1,0 +1,21 @@
+{
+  "name": "dnssec-tools",
+  "version": "2.2.3-11",
+  "depends": [
+    "dnsutils",
+    "perl",
+    "perl-timedate",
+    "perl-net-dns",
+    "perl-net-dns-sec",
+    "perl-mailtools",
+    "bind",
+    "openssl",
+    "glibc",
+    "perl-html-parser",
+    "perl-cgi"
+  ],
+  "makedepends": [],
+  "receive": 204403538,
+  "transmit": 427395,
+  "disk": 227697521
+}
