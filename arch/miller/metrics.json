@@ -1,0 +1,14 @@
+{
+  "name": "miller",
+  "version": "6.11.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 422780742,
+  "transmit": 712837,
+  "disk": 300363246
+}
