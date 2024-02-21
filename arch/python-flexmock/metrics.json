@@ -1,0 +1,13 @@
+{
+  "name": "python-flexmock",
+  "version": "0.11.3-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199557792,
+  "transmit": 267304,
+  "disk": 655755
+}
