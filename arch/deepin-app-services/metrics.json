@@ -1,0 +1,19 @@
+{
+  "name": "deepin-app-services",
+  "version": "1.0.25-1",
+  "depends": [
+    "qt5-base",
+    "dtkcore",
+    "dtkwidget"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "doxygen",
+    "gtest",
+    "qt5-tools"
+  ],
+  "receive": 201068100,
+  "transmit": 1489662,
+  "disk": 764316
+}
