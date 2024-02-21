@@ -1,0 +1,14 @@
+{
+  "name": "perl-tk",
+  "version": "804.036-5",
+  "depends": [
+    "libpng",
+    "libjpeg",
+    "libx11",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 206718970,
+  "transmit": 399695,
+  "disk": 36616059
+}
