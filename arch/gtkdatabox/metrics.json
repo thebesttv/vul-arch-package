@@ -1,0 +1,16 @@
+{
+  "name": "gtkdatabox",
+  "version": "1.0.0-1",
+  "depends": [
+    "gtk3",
+    "cairo",
+    "pango",
+    "glade"
+  ],
+  "makedepends": [
+    "gtk-doc"
+  ],
+  "receive": 199866601,
+  "transmit": 494047,
+  "disk": 3164758
+}
