@@ -1,0 +1,13 @@
+{
+  "name": "tetrinet",
+  "version": "0.11-9",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [
+    "pkgconfig"
+  ],
+  "receive": 199537987,
+  "transmit": 286087,
+  "disk": 321818
+}
