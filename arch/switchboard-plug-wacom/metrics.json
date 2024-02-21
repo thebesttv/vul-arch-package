@@ -1,0 +1,22 @@
+{
+  "name": "switchboard-plug-wacom",
+  "version": "1.0.1-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgranite.so",
+    "libgudev-1.0.so",
+    "libswitchboard-2.0.so",
+    "libwacom",
+    "libx11",
+    "libxi"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199613463,
+  "transmit": 366043,
+  "disk": 1721598
+}
