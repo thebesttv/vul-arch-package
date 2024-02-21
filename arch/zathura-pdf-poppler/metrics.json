@@ -1,0 +1,16 @@
+{
+  "name": "zathura-pdf-poppler",
+  "version": "0.3.2-2",
+  "depends": [
+    "poppler-glib",
+    "zathura",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja"
+  ],
+  "receive": 199706784,
+  "transmit": 378156,
+  "disk": 176834
+}
