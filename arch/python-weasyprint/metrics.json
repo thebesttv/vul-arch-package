@@ -1,0 +1,28 @@
+{
+  "name": "python-weasyprint",
+  "version": "61.0-1",
+  "depends": [
+    "pango",
+    "python",
+    "python-brotli",
+    "python-cffi",
+    "python-cssselect2",
+    "python-fonttools",
+    "python-html5lib",
+    "python-pillow",
+    "python-pydyf",
+    "python-pyphen",
+    "python-tinycss2",
+    "python-zopfli",
+    "ttf-font"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 234918411,
+  "transmit": 425581,
+  "disk": 38404513
+}
