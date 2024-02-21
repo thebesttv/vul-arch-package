@@ -1,0 +1,12 @@
+{
+  "name": "perl-email-simple",
+  "version": "2.218-2",
+  "depends": [
+    "perl",
+    "perl-email-date-format"
+  ],
+  "makedepends": [],
+  "receive": 201399120,
+  "transmit": 1699335,
+  "disk": 334637
+}
