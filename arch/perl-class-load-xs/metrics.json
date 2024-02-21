@@ -1,0 +1,11 @@
+{
+  "name": "perl-class-load-xs",
+  "version": "0.10-11",
+  "depends": [
+    "perl-class-load"
+  ],
+  "makedepends": [],
+  "receive": 199499549,
+  "transmit": 225682,
+  "disk": 174863
+}
