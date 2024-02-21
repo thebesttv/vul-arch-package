@@ -1,0 +1,14 @@
+{
+  "name": "gnomon",
+  "version": "1.5.0-3",
+  "depends": [
+    "nodejs",
+    "semver"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199498391,
+  "transmit": 236374,
+  "disk": 92123
+}
