@@ -1,0 +1,21 @@
+{
+  "name": "silicon",
+  "version": "0.5.2-1",
+  "depends": [
+    "fontconfig",
+    "freetype2",
+    "xclip"
+  ],
+  "makedepends": [
+    "rust",
+    "cargo",
+    "glibc",
+    "llvm-libs",
+    "gcc-libs",
+    "clang",
+    "python"
+  ],
+  "receive": 199693116,
+  "transmit": 372796,
+  "disk": 5866219
+}
