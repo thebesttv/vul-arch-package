@@ -1,0 +1,13 @@
+{
+  "name": "terminology",
+  "version": "1.13.0-1",
+  "depends": [
+    "efl"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199699844,
+  "transmit": 429234,
+  "disk": 11052108
+}
