@@ -1,0 +1,19 @@
+{
+  "name": "haskell-githash",
+  "version": "0.1.6.3-115",
+  "depends": [
+    "ghc-libs",
+    "haskell-th-compat",
+    "git"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hpack",
+    "haskell-hspec",
+    "haskell-temporary",
+    "haskell-unliftio"
+  ],
+  "receive": 199528084,
+  "transmit": 266284,
+  "disk": 1007409
+}
