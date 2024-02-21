@@ -1,0 +1,19 @@
+{
+  "name": "deepin-terminal-gtk",
+  "version": "5.0.4.4-1",
+  "depends": [
+    "vte3",
+    "libsecret",
+    "libgee",
+    "libwnck3",
+    "expect"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "vala"
+  ],
+  "receive": 199596013,
+  "transmit": 331270,
+  "disk": 13052558
+}
