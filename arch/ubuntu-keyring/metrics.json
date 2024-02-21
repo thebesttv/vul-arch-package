@@ -1,0 +1,11 @@
+{
+  "name": "ubuntu-keyring",
+  "version": "2021.03.26-1",
+  "depends": [
+    "gnupg"
+  ],
+  "makedepends": [],
+  "receive": 199538999,
+  "transmit": 291848,
+  "disk": 192257
+}
