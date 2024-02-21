@@ -1,0 +1,11 @@
+{
+  "name": "unrtf",
+  "version": "0.21.10-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 200104670,
+  "transmit": 738996,
+  "disk": 5588348
+}
