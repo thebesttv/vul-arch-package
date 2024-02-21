@@ -1,0 +1,14 @@
+{
+  "name": "fuse-zip",
+  "version": "0.7.2-3",
+  "depends": [
+    "fuse",
+    "libzip"
+  ],
+  "makedepends": [
+    "setconf"
+  ],
+  "receive": 199534002,
+  "transmit": 307176,
+  "disk": 10406208
+}
