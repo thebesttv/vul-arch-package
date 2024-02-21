@@ -1,0 +1,15 @@
+{
+  "name": "usbutils",
+  "version": "017-1",
+  "depends": [
+    "glibc",
+    "hwdata"
+  ],
+  "makedepends": [
+    "libusb",
+    "systemd"
+  ],
+  "receive": 199594525,
+  "transmit": 348066,
+  "disk": 1676969
+}
