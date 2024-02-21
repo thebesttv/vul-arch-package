@@ -1,0 +1,11 @@
+{
+  "name": "perl-term-animation",
+  "version": "2.6-10",
+  "depends": [
+    "perl-curses"
+  ],
+  "makedepends": [],
+  "receive": 199664389,
+  "transmit": 402758,
+  "disk": 201596
+}
