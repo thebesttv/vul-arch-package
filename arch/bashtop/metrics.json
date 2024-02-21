@@ -1,0 +1,19 @@
+{
+  "name": "bashtop",
+  "version": "0.9.25-1",
+  "depends": [
+    "bash",
+    "coreutils",
+    "grep",
+    "sed",
+    "gawk",
+    "procps-ng"
+  ],
+  "makedepends": [
+    "git",
+    "sed"
+  ],
+  "receive": 199494431,
+  "transmit": 237822,
+  "disk": 2070217
+}
