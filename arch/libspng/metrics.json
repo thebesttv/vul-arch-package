@@ -1,0 +1,15 @@
+{
+  "name": "libspng",
+  "version": "0.7.4-2",
+  "depends": [
+    "glibc",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 200111317,
+  "transmit": 456730,
+  "disk": 2179793
+}
