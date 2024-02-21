@@ -1,0 +1,14 @@
+{
+  "name": "dhcpcd",
+  "version": "10.0.6-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "sh",
+    "systemd-libs"
+  ],
+  "makedepends": [],
+  "receive": 199666649,
+  "transmit": 420346,
+  "disk": 2019560
+}
