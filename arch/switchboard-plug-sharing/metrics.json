@@ -1,0 +1,21 @@
+{
+  "name": "switchboard-plug-sharing",
+  "version": "2.1.6-1",
+  "depends": [
+    "glib2",
+    "gnome-user-share",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libswitchboard-2.0.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "switchboard",
+    "vala"
+  ],
+  "receive": 199611581,
+  "transmit": 363691,
+  "disk": 2971014
+}
