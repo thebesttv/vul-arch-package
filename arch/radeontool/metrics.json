@@ -1,0 +1,11 @@
+{
+  "name": "radeontool",
+  "version": "1.6.3-4",
+  "depends": [
+    "libpciaccess"
+  ],
+  "makedepends": [],
+  "receive": 199706812,
+  "transmit": 454120,
+  "disk": 2487003
+}
