@@ -1,0 +1,13 @@
+{
+  "name": "helmfile",
+  "version": "0.159.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199682636,
+  "transmit": 416826,
+  "disk": 7676847
+}
