@@ -1,0 +1,11 @@
+{
+  "name": "libnsgif",
+  "version": "1.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "netsurf-buildsystem"
+  ],
+  "receive": 199598824,
+  "transmit": 340255,
+  "disk": 1638095
+}
