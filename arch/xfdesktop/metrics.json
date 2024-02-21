@@ -1,0 +1,18 @@
+{
+  "name": "xfdesktop",
+  "version": "4.18.1-1",
+  "depends": [
+    "libxfce4ui",
+    "libwnck3",
+    "exo",
+    "thunar",
+    "garcon",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 201849166,
+  "transmit": 376807,
+  "disk": 11495840
+}
