@@ -1,0 +1,19 @@
+{
+  "name": "python-pytest-integration",
+  "version": "0.2.3-1",
+  "depends": [
+    "python-pytest",
+    "python-pytest-timeout",
+    "python-pytest-cov"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "git"
+  ],
+  "receive": 199538545,
+  "transmit": 267505,
+  "disk": 314653
+}
