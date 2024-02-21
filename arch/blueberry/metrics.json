@@ -1,0 +1,17 @@
+{
+  "name": "blueberry",
+  "version": "1.4.8-1",
+  "depends": [
+    "bluez-tools",
+    "gnome-bluetooth",
+    "python-dbus",
+    "python-gobject",
+    "python-setproctitle",
+    "rfkill",
+    "xapps"
+  ],
+  "makedepends": [],
+  "receive": 199571687,
+  "transmit": 291262,
+  "disk": 3885733
+}
