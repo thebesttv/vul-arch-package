@@ -1,0 +1,14 @@
+{
+  "name": "gomuks",
+  "version": "0.3.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "libolm",
+    "go"
+  ],
+  "receive": 199572055,
+  "transmit": 330166,
+  "disk": 1137773
+}
