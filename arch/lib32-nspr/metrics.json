@@ -1,0 +1,15 @@
+{
+  "name": "lib32-nspr",
+  "version": "4.35-2",
+  "depends": [
+    "lib32-glibc",
+    "nspr"
+  ],
+  "makedepends": [
+    "mercurial",
+    "zip"
+  ],
+  "receive": 202231539,
+  "transmit": 504557,
+  "disk": 19439568
+}
