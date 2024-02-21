@@ -1,0 +1,13 @@
+{
+  "name": "vivid",
+  "version": "0.9.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199635149,
+  "transmit": 406707,
+  "disk": 275765
+}
