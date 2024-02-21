@@ -1,0 +1,13 @@
+{
+  "name": "qt5-location",
+  "version": "5.15.12+kde+r6-1",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 585206832,
+  "transmit": 4296729,
+  "disk": 489919428
+}
