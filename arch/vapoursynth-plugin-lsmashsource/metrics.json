@@ -1,0 +1,20 @@
+{
+  "name": "vapoursynth-plugin-lsmashsource",
+  "version": "1:A.5b-2",
+  "depends": [
+    "glibc",
+    "vapoursynth",
+    "libavcodec.so",
+    "libavformat.so",
+    "libavutil.so",
+    "liblsmash.so",
+    "libswscale.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199624838,
+  "transmit": 377832,
+  "disk": 5411805
+}
