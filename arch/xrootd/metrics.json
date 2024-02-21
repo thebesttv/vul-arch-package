@@ -1,0 +1,25 @@
+{
+  "name": "xrootd",
+  "version": "5.6.4-1",
+  "depends": [
+    "curl",
+    "fuse2",
+    "json-c",
+    "libxml2",
+    "openssl",
+    "perl",
+    "python",
+    "systemd",
+    "python-setuptools",
+    "tinyxml",
+    "davix"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "python-pip"
+  ],
+  "receive": 199590478,
+  "transmit": 274380,
+  "disk": 105069141
+}
