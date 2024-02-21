@@ -1,0 +1,15 @@
+{
+  "name": "lxrandr",
+  "version": "0.3.2-3",
+  "depends": [
+    "gtk2",
+    "gtk3",
+    "xorg-xrandr"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199555967,
+  "transmit": 284256,
+  "disk": 1135689
+}
