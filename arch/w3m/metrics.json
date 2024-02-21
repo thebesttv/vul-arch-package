@@ -1,0 +1,17 @@
+{
+  "name": "w3m",
+  "version": "0.5.3.git20230713_1-1",
+  "depends": [
+    "openssl",
+    "gc",
+    "ncurses",
+    "gpm"
+  ],
+  "makedepends": [
+    "git",
+    "imlib2"
+  ],
+  "receive": 199820343,
+  "transmit": 470541,
+  "disk": 44712309
+}
