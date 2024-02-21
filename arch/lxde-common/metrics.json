@@ -1,0 +1,11 @@
+{
+  "name": "lxde-common",
+  "version": "0.99.2-3",
+  "depends": [],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199575903,
+  "transmit": 288544,
+  "disk": 2384134
+}
