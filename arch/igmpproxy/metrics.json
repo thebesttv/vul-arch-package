@@ -1,0 +1,9 @@
+{
+  "name": "igmpproxy",
+  "version": "0.4-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 200442152,
+  "transmit": 1087446,
+  "disk": 897483
+}
