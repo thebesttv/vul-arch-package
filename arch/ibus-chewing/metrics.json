@@ -1,0 +1,16 @@
+{
+  "name": "ibus-chewing",
+  "version": "1.6.2-1",
+  "depends": [
+    "ibus",
+    "libchewing",
+    "gtk3"
+  ],
+  "makedepends": [
+    "gob2",
+    "cmake-fedora"
+  ],
+  "receive": 199526610,
+  "transmit": 301086,
+  "disk": 895777
+}
