@@ -1,0 +1,11 @@
+{
+  "name": "amf-headers",
+  "version": "1.4.33-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 1119664502,
+  "transmit": 988590,
+  "disk": 1521163966
+}
