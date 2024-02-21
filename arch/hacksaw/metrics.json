@@ -1,0 +1,15 @@
+{
+  "name": "hacksaw",
+  "version": "1.0.4-1",
+  "depends": [
+    "gcc-libs",
+    "libxcb"
+  ],
+  "makedepends": [
+    "python",
+    "rust"
+  ],
+  "receive": 199627917,
+  "transmit": 391398,
+  "disk": 170318
+}
