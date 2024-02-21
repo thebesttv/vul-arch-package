@@ -1,0 +1,21 @@
+{
+  "name": "ctwm",
+  "version": "4.1.0-1",
+  "depends": [
+    "libjpeg-turbo",
+    "libxmu",
+    "libxpm",
+    "xorg-xrandr"
+  ],
+  "makedepends": [
+    "cmake",
+    "ctags",
+    "doxygen",
+    "gendesk",
+    "graphviz",
+    "ninja"
+  ],
+  "receive": 199593347,
+  "transmit": 358386,
+  "disk": 4603961
+}
