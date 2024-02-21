@@ -1,0 +1,14 @@
+{
+  "name": "python-qt.py",
+  "version": "1.3.8-2",
+  "depends": [
+    "python",
+    "qt5-python-bindings"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199901289,
+  "transmit": 538500,
+  "disk": 430754
+}
