@@ -1,0 +1,12 @@
+{
+  "name": "ruby-fuubar",
+  "version": "2.5.1-1",
+  "depends": [
+    "ruby-rspec-core",
+    "ruby-ruby-progressbar"
+  ],
+  "makedepends": [],
+  "receive": 199608863,
+  "transmit": 328588,
+  "disk": 350559
+}
