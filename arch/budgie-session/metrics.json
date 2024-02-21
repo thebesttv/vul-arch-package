@@ -1,0 +1,28 @@
+{
+  "name": "budgie-session",
+  "version": "0.9.1-1",
+  "depends": [
+    "dconf",
+    "gnome-desktop",
+    "gsettings-desktop-schemas",
+    "json-glib",
+    "libgl",
+    "libsm",
+    "libxtst",
+    "systemd"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "gtk-doc",
+    "mesa",
+    "meson",
+    "python",
+    "python-packaging",
+    "xmlto",
+    "xtrans"
+  ],
+  "receive": 199640546,
+  "transmit": 390606,
+  "disk": 4231848
+}
