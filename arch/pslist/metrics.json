@@ -1,0 +1,11 @@
+{
+  "name": "pslist",
+  "version": "1.4.0-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200204857,
+  "transmit": 644471,
+  "disk": 161026
+}
