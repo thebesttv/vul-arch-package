@@ -1,0 +1,24 @@
+{
+  "name": "thunar",
+  "version": "4.18.10-1",
+  "depends": [
+    "desktop-file-utils",
+    "libexif",
+    "hicolor-icon-theme",
+    "libnotify",
+    "pcre2",
+    "libgudev",
+    "exo",
+    "libxfce4util",
+    "libxfce4ui",
+    "libpng"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection",
+    "xfce4-panel"
+  ],
+  "receive": 202595312,
+  "transmit": 346134,
+  "disk": 26891404
+}
