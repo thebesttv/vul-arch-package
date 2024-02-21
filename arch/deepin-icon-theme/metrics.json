@@ -1,0 +1,11 @@
+{
+  "name": "deepin-icon-theme",
+  "version": "2024.01.31-1",
+  "depends": [
+    "papirus-icon-theme"
+  ],
+  "makedepends": [],
+  "receive": 247782384,
+  "transmit": 843065,
+  "disk": 165697548
+}
