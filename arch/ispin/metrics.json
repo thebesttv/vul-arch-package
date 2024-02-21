@@ -1,0 +1,13 @@
+{
+  "name": "ispin",
+  "version": "6.5.0-2",
+  "depends": [
+    "spin>=6.0",
+    "tk>=8.5",
+    "gcc"
+  ],
+  "makedepends": [],
+  "receive": 199712787,
+  "transmit": 416926,
+  "disk": 10156332
+}
