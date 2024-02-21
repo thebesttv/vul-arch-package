@@ -1,0 +1,23 @@
+{
+  "name": "tor",
+  "version": "0.4.8.10-1",
+  "depends": [
+    "bash",
+    "libcap.so",
+    "libcrypto.so",
+    "libevent",
+    "liblzma.so",
+    "libseccomp.so",
+    "libssl.so",
+    "libsystemd.so",
+    "libz.so",
+    "libzstd.so"
+  ],
+  "makedepends": [
+    "ca-certificates",
+    "systemd"
+  ],
+  "receive": 208045042,
+  "transmit": 361384,
+  "disk": 47585795
+}
