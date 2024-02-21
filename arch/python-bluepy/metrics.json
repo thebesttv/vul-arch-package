@@ -1,0 +1,19 @@
+{
+  "name": "python-bluepy",
+  "version": "1.3.0-9",
+  "depends": [
+    "python",
+    "bluez",
+    "glib2"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 199564060,
+  "transmit": 290053,
+  "disk": 1791498
+}
