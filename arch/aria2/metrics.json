@@ -1,0 +1,16 @@
+{
+  "name": "aria2",
+  "version": "1.37.0-1",
+  "depends": [
+    "gnutls",
+    "libxml2",
+    "sqlite",
+    "c-ares",
+    "ca-certificates",
+    "libssh2"
+  ],
+  "makedepends": [],
+  "receive": 199650201,
+  "transmit": 321291,
+  "disk": 20734040
+}
