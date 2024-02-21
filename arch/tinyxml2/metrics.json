@@ -1,0 +1,14 @@
+{
+  "name": "tinyxml2",
+  "version": "10.0.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199531082,
+  "transmit": 296244,
+  "disk": 3842249
+}
