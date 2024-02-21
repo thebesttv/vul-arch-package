@@ -1,0 +1,14 @@
+{
+  "name": "memtest86+",
+  "version": "7.00-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "xorriso",
+    "dosfstools",
+    "mtools"
+  ],
+  "receive": 199550285,
+  "transmit": 293399,
+  "disk": 2791287
+}
