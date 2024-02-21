@@ -1,0 +1,11 @@
+{
+  "name": "progress",
+  "version": "0.17-1",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199531183,
+  "transmit": 252214,
+  "disk": 272790
+}
