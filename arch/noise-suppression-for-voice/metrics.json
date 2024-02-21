@@ -1,0 +1,17 @@
+{
+  "name": "noise-suppression-for-voice",
+  "version": "1.03-1",
+  "depends": [
+    "freetype2"
+  ],
+  "makedepends": [
+    "cmake",
+    "libx11",
+    "libxrandr",
+    "libxinerama",
+    "libxcursor"
+  ],
+  "receive": 220354597,
+  "transmit": 839419,
+  "disk": 86464203
+}
