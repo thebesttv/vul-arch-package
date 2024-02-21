@@ -1,0 +1,13 @@
+{
+  "name": "rx_tools",
+  "version": "1.0.3-4",
+  "depends": [
+    "soapysdr"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199519751,
+  "transmit": 317299,
+  "disk": 327232
+}
