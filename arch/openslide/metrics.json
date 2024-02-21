@@ -1,0 +1,16 @@
+{
+  "name": "openslide",
+  "version": "4.0.0-4",
+  "depends": [
+    "cairo",
+    "gdk-pixbuf2",
+    "openjpeg2",
+    "sqlite"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199705849,
+  "transmit": 439422,
+  "disk": 1762067
+}
