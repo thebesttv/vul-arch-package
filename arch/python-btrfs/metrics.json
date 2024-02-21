@@ -1,0 +1,13 @@
+{
+  "name": "python-btrfs",
+  "version": "13-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199533421,
+  "transmit": 257716,
+  "disk": 1608819
+}
