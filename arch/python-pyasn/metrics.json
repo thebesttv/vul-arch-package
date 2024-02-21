@@ -1,0 +1,18 @@
+{
+  "name": "python-pyasn",
+  "version": "1.6.1-4",
+  "depends": [
+    "python",
+    "python-ujson"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199600970,
+  "transmit": 358108,
+  "disk": 50343254
+}
