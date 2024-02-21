@@ -1,0 +1,13 @@
+{
+  "name": "perl-extutils-cppguess",
+  "version": "0.27-1",
+  "depends": [
+    "perl-capture-tiny"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199501596,
+  "transmit": 253636,
+  "disk": 195252
+}
