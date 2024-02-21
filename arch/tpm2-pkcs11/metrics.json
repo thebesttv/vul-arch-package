@@ -1,0 +1,34 @@
+{
+  "name": "tpm2-pkcs11",
+  "version": "1.9.0-1",
+  "depends": [
+    "glibc",
+    "libyaml",
+    "openssl",
+    "python",
+    "python-bcrypt",
+    "python-cryptography",
+    "python-pyasn1",
+    "python-pyasn1-modules",
+    "python-tpm2-pytss",
+    "python-yaml",
+    "sqlite",
+    "tpm2-tools",
+    "tpm2-tss",
+    "libtss2-esys.so",
+    "libtss2-fapi.so",
+    "libtss2-mu.so",
+    "libtss2-rc.so",
+    "libtss2-tctildr.so"
+  ],
+  "makedepends": [
+    "cmocka",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199676031,
+  "transmit": 395413,
+  "disk": 5699393
+}
