@@ -1,0 +1,16 @@
+{
+  "name": "greetd-tuigreet",
+  "version": "0.8.0-2",
+  "depends": [
+    "gcc-libs",
+    "greetd",
+    "systemd"
+  ],
+  "makedepends": [
+    "cargo",
+    "scdoc"
+  ],
+  "receive": 200796125,
+  "transmit": 1257679,
+  "disk": 370726
+}
