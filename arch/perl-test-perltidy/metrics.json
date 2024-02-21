@@ -1,0 +1,15 @@
+{
+  "name": "perl-test-perltidy",
+  "version": "20230226-1",
+  "depends": [
+    "perl",
+    "perl-text-diff",
+    "perl-file-slurp",
+    "perl-tidy",
+    "perl-file-finder"
+  ],
+  "makedepends": [],
+  "receive": 199659410,
+  "transmit": 400778,
+  "disk": 193433
+}
