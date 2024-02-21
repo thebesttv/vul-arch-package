@@ -1,0 +1,11 @@
+{
+  "name": "perl-crypt-openssl-dsa",
+  "version": "0.20-5",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199586136,
+  "transmit": 322382,
+  "disk": 171814
+}
