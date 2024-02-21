@@ -1,0 +1,22 @@
+{
+  "name": "ulogd",
+  "version": "2.0.8-1",
+  "depends": [
+    "libmnl",
+    "libnetfilter_acct",
+    "libnetfilter_conntrack",
+    "libnetfilter_log",
+    "libnfnetlink"
+  ],
+  "makedepends": [
+    "mariadb-libs",
+    "libpcap",
+    "libdbi",
+    "postgresql-libs",
+    "sqlite",
+    "jansson"
+  ],
+  "receive": 199999427,
+  "transmit": 283722,
+  "disk": 3159465
+}
