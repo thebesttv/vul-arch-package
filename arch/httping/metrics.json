@@ -1,0 +1,13 @@
+{
+  "name": "httping",
+  "version": "2.9-1",
+  "depends": [
+    "openssl",
+    "ncurses",
+    "fftw"
+  ],
+  "makedepends": [],
+  "receive": 199488946,
+  "transmit": 251790,
+  "disk": 461600
+}
