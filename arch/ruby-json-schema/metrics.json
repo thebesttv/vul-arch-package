@@ -1,0 +1,15 @@
+{
+  "name": "ruby-json-schema",
+  "version": "4.1.1-1",
+  "depends": [
+    "ruby",
+    "ruby-addressable"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199531002,
+  "transmit": 311068,
+  "disk": 591768
+}
