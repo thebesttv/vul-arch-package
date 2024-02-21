@@ -1,0 +1,11 @@
+{
+  "name": "protobuf-c",
+  "version": "1.5.0-1",
+  "depends": [
+    "protobuf"
+  ],
+  "makedepends": [],
+  "receive": 199562355,
+  "transmit": 354391,
+  "disk": 3051049
+}
