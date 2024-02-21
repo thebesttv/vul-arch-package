@@ -1,0 +1,12 @@
+{
+  "name": "gdb-dashboard",
+  "version": "0.17.2-1",
+  "depends": [
+    "gdb",
+    "binutils"
+  ],
+  "makedepends": [],
+  "receive": 199566880,
+  "transmit": 270170,
+  "disk": 215428
+}
