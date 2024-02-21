@@ -1,0 +1,14 @@
+{
+  "name": "blaze",
+  "version": "3.8.2-2",
+  "depends": [
+    "blas",
+    "lapack"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 208832080,
+  "transmit": 504308,
+  "disk": 161787540
+}
