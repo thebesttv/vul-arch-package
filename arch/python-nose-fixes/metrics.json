@@ -1,0 +1,14 @@
+{
+  "name": "python-nose-fixes",
+  "version": "1.3-7",
+  "depends": [
+    "python-nose"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 199593951,
+  "transmit": 331992,
+  "disk": 331536
+}
