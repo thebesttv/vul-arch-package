@@ -1,0 +1,17 @@
+{
+  "name": "xfce4-xkb-plugin",
+  "version": "0.8.3-1",
+  "depends": [
+    "xfce4-panel",
+    "libxklavier",
+    "librsvg",
+    "libwnck3",
+    "libnotify"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199624847,
+  "transmit": 381311,
+  "disk": 5029089
+}
