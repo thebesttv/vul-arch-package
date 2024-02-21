@@ -1,0 +1,14 @@
+{
+  "name": "ruby-erubi",
+  "version": "1.11.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 199598239,
+  "transmit": 358662,
+  "disk": 169065
+}
