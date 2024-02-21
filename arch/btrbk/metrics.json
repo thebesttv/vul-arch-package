@@ -1,0 +1,14 @@
+{
+  "name": "btrbk",
+  "version": "0.32.6-1",
+  "depends": [
+    "btrfs-progs",
+    "perl"
+  ],
+  "makedepends": [
+    "asciidoctor"
+  ],
+  "receive": 199996448,
+  "transmit": 598062,
+  "disk": 746307
+}
