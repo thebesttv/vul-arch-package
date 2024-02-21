@@ -1,0 +1,17 @@
+{
+  "name": "cgit-aurweb",
+  "version": "1.2.3-3",
+  "depends": [
+    "openssl",
+    "luajit"
+  ],
+  "makedepends": [
+    "git",
+    "zlib",
+    "curl",
+    "asciidoc"
+  ],
+  "receive": 200059482,
+  "transmit": 732605,
+  "disk": 2244372
+}
