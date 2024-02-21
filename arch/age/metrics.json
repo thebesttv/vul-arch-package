@@ -1,0 +1,13 @@
+{
+  "name": "age",
+  "version": "1.1.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199548308,
+  "transmit": 270514,
+  "disk": 846582
+}
