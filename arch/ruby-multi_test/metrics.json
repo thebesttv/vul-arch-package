@@ -1,0 +1,13 @@
+{
+  "name": "ruby-multi_test",
+  "version": "1.1.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199481928,
+  "transmit": 228948,
+  "disk": 552228
+}
