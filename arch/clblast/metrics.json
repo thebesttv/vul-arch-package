@@ -1,0 +1,16 @@
+{
+  "name": "clblast",
+  "version": "1.6.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "ocl-icd",
+    "opencl-headers"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199679727,
+  "transmit": 456620,
+  "disk": 6577395
+}
