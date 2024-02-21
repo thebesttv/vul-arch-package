@@ -1,0 +1,24 @@
+{
+  "name": "roc-toolkit",
+  "version": "0.3.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "libunwind",
+    "libuv"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cpputest",
+    "gengetopt",
+    "libpulse",
+    "openfec",
+    "ragel",
+    "scons",
+    "sox",
+    "speexdsp"
+  ],
+  "receive": 199685507,
+  "transmit": 395121,
+  "disk": 8043184
+}
