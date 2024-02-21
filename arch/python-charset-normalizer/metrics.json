@@ -1,0 +1,14 @@
+{
+  "name": "python-charset-normalizer",
+  "version": "3.3.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199568056,
+  "transmit": 297393,
+  "disk": 2612490
+}
