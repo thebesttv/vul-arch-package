@@ -1,0 +1,11 @@
+{
+  "name": "reptyr",
+  "version": "0.10.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199587810,
+  "transmit": 336891,
+  "disk": 302758
+}
