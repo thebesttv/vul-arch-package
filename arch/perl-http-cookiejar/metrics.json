@@ -1,0 +1,11 @@
+{
+  "name": "perl-http-cookiejar",
+  "version": "0.014-1",
+  "depends": [
+    "perl-http-date"
+  ],
+  "makedepends": [],
+  "receive": 200115782,
+  "transmit": 884686,
+  "disk": 258050
+}
