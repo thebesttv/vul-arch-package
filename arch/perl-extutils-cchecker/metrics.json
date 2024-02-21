@@ -1,0 +1,16 @@
+{
+  "name": "perl-extutils-cchecker",
+  "version": "0.11-2",
+  "depends": [
+    "perl",
+    "perl-extutils-cbuilder"
+  ],
+  "makedepends": [
+    "perl-test-exception",
+    "perl-test-fatal",
+    "perl-module-build"
+  ],
+  "receive": 200303512,
+  "transmit": 1015474,
+  "disk": 190938
+}
