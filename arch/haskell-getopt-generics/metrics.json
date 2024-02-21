@@ -1,0 +1,21 @@
+{
+  "name": "haskell-getopt-generics",
+  "version": "0.13.1.0-26",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-base-orphans",
+    "haskell-generics-sop",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-quickcheck",
+    "haskell-safe",
+    "haskell-silently"
+  ],
+  "receive": 199539638,
+  "transmit": 302354,
+  "disk": 372596
+}
