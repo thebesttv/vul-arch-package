@@ -1,0 +1,13 @@
+{
+  "name": "python-editdistance-s",
+  "version": "1.0.0-5",
+  "depends": [
+    "python-cffi"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199580081,
+  "transmit": 360920,
+  "disk": 113268
+}
