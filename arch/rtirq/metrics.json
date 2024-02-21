@@ -1,0 +1,11 @@
+{
+  "name": "rtirq",
+  "version": "20240220-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199727909,
+  "transmit": 413254,
+  "disk": 183664
+}
