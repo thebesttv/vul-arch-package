@@ -1,0 +1,19 @@
+{
+  "name": "gstreamermm",
+  "version": "1.10.0-2",
+  "depends": [
+    "glibmm",
+    "gst-plugins-base"
+  ],
+  "makedepends": [
+    "mm-common",
+    "glibmm-docs",
+    "cairomm",
+    "cairomm-docs",
+    "pangomm",
+    "pangomm-docs"
+  ],
+  "receive": 199655382,
+  "transmit": 410827,
+  "disk": 35824966
+}
