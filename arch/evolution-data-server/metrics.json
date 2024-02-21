@@ -1,0 +1,31 @@
+{
+  "name": "evolution-data-server",
+  "version": "3.50.4-1",
+  "depends": [
+    "gtk3",
+    "krb5",
+    "libcanberra",
+    "libgoa",
+    "libgweather-4",
+    "libical",
+    "libphonenumber",
+    "libsecret",
+    "nss",
+    "sqlite",
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "git",
+    "gobject-introspection",
+    "gperf",
+    "gtk-doc",
+    "ninja",
+    "vala",
+    "webkitgtk-6.0"
+  ],
+  "receive": 294212696,
+  "transmit": 823944,
+  "disk": 142064313
+}
