@@ -1,0 +1,23 @@
+{
+  "name": "fceux",
+  "version": "2.6.6-1",
+  "depends": [
+    "gd",
+    "lua",
+    "minizip",
+    "qt5-base",
+    "sdl2"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "glu",
+    "mesa-libgl",
+    "ninja",
+    "setconf",
+    "scons"
+  ],
+  "receive": 377684494,
+  "transmit": 678796,
+  "disk": 240921459
+}
