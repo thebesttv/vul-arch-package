@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-differences",
+  "version": "0.71-1",
+  "depends": [
+    "perl-text-diff"
+  ],
+  "makedepends": [],
+  "receive": 199788214,
+  "transmit": 508350,
+  "disk": 201657
+}
