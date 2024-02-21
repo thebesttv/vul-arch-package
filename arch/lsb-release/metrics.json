@@ -1,0 +1,13 @@
+{
+  "name": "lsb-release",
+  "version": "2.0.r53.a86f885-1",
+  "depends": [
+    "sh"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199649489,
+  "transmit": 384200,
+  "disk": 514308
+}
