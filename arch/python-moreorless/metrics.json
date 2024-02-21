@@ -1,0 +1,16 @@
+{
+  "name": "python-moreorless",
+  "version": "0.4.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199506191,
+  "transmit": 262487,
+  "disk": 150431
+}
