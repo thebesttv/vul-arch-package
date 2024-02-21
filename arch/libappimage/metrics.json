@@ -1,0 +1,21 @@
+{
+  "name": "libappimage",
+  "version": "1.0.4.5-5",
+  "depends": [
+    "libarchive",
+    "squashfuse",
+    "boost-libs",
+    "librsvg"
+  ],
+  "makedepends": [
+    "cmake",
+    "wget",
+    "vim",
+    "desktop-file-utils",
+    "boost",
+    "xdg-utils-cxx"
+  ],
+  "receive": 199570930,
+  "transmit": 247132,
+  "disk": 6181321
+}
