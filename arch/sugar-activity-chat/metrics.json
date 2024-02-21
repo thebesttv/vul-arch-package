@@ -1,0 +1,11 @@
+{
+  "name": "sugar-activity-chat",
+  "version": "86-3",
+  "depends": [
+    "sugar-toolkit-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199725763,
+  "transmit": 475108,
+  "disk": 2511407
+}
