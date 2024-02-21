@@ -1,0 +1,32 @@
+{
+  "name": "sox",
+  "version": "14.4.2+r182+g42b3557e-4",
+  "depends": [
+    "file",
+    "gcc-libs",
+    "gsm",
+    "libid3tag",
+    "libltdl",
+    "libpng",
+    "zlib"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "autoconf-archive",
+    "flac",
+    "git",
+    "lame",
+    "libao",
+    "libmad",
+    "libpulse",
+    "libsndfile",
+    "libvorbis",
+    "opencore-amr",
+    "opusfile",
+    "twolame",
+    "wavpack"
+  ],
+  "receive": 200095198,
+  "transmit": 578634,
+  "disk": 11331605
+}
