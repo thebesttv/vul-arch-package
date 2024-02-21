@@ -1,0 +1,13 @@
+{
+  "name": "perl-package-stash",
+  "version": "0.40-3",
+  "depends": [
+    "perl-dist-checkconflicts",
+    "perl-package-stash-xs",
+    "perl-module-implementation"
+  ],
+  "makedepends": [],
+  "receive": 199695062,
+  "transmit": 401070,
+  "disk": 158119
+}
