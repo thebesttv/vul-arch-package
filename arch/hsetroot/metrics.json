@@ -1,0 +1,12 @@
+{
+  "name": "hsetroot",
+  "version": "1.0.5-1",
+  "depends": [
+    "imlib2",
+    "libxinerama"
+  ],
+  "makedepends": [],
+  "receive": 199552336,
+  "transmit": 279590,
+  "disk": 155086
+}
