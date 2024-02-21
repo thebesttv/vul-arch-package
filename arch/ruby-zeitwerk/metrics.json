@@ -1,0 +1,14 @@
+{
+  "name": "ruby-zeitwerk",
+  "version": "2.6.13-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 199850102,
+  "transmit": 573025,
+  "disk": 677312
+}
