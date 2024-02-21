@@ -1,0 +1,14 @@
+{
+  "name": "lout",
+  "version": "3.42.2-1",
+  "depends": [
+    "glibc",
+    "zlib"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199551041,
+  "transmit": 300766,
+  "disk": 12551781
+}
