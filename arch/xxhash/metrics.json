@@ -1,0 +1,13 @@
+{
+  "name": "xxhash",
+  "version": "0.8.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199600451,
+  "transmit": 348950,
+  "disk": 10951537
+}
