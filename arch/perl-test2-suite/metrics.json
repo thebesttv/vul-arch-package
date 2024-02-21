@@ -1,0 +1,13 @@
+{
+  "name": "perl-test2-suite",
+  "version": "0.000159-1",
+  "depends": [
+    "perl-module-pluggable",
+    "perl-term-table",
+    "perl-test-simple>=1.302176"
+  ],
+  "makedepends": [],
+  "receive": 199689369,
+  "transmit": 448544,
+  "disk": 1553525
+}
