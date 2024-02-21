@@ -1,0 +1,17 @@
+{
+  "name": "lshw",
+  "version": "B.02.20-1",
+  "depends": [
+    "gcc-libs",
+    "hwdata"
+  ],
+  "makedepends": [
+    "gcc",
+    "gtk2-compat",
+    "sqlite",
+    "git"
+  ],
+  "receive": 199866458,
+  "transmit": 547412,
+  "disk": 16255912
+}
