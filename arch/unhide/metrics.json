@@ -1,0 +1,15 @@
+{
+  "name": "unhide",
+  "version": "20220611-2",
+  "depends": [
+    "iproute2",
+    "lsof",
+    "psmisc",
+    "net-tools",
+    "procps-ng"
+  ],
+  "makedepends": [],
+  "receive": 199665985,
+  "transmit": 400249,
+  "disk": 503504
+}
