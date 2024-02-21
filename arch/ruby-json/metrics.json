@@ -1,0 +1,16 @@
+{
+  "name": "ruby-json",
+  "version": "2.7.1-1",
+  "depends": [
+    "glibc",
+    "ruby"
+  ],
+  "makedepends": [
+    "ragel",
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 199696528,
+  "transmit": 427820,
+  "disk": 873763
+}
