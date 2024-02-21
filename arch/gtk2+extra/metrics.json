@@ -1,0 +1,13 @@
+{
+  "name": "gtk2+extra",
+  "version": "3.3.4-2",
+  "depends": [
+    "gtk2"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199588771,
+  "transmit": 281897,
+  "disk": 11227244
+}
