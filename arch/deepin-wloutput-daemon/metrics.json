@@ -1,0 +1,19 @@
+{
+  "name": "deepin-wloutput-daemon",
+  "version": "2.0.3-1",
+  "depends": [
+    "qt5-base",
+    "dwayland",
+    "dtkcore",
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "extra-cmake-modules"
+  ],
+  "receive": 199507979,
+  "transmit": 272752,
+  "disk": 319846
+}
