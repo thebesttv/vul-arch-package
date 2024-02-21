@@ -1,0 +1,21 @@
+{
+  "name": "mgba",
+  "version": "0.10.3-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "qt5-multimedia",
+    "sdl2",
+    "zlib",
+    "libpng",
+    "libzip",
+    "libedit",
+    "ffmpeg",
+    "desktop-file-utils",
+    "qt5-tools",
+    "lua"
+  ],
+  "receive": 211088279,
+  "transmit": 606515,
+  "disk": 84255032
+}
