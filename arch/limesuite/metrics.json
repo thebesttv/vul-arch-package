@@ -1,0 +1,23 @@
+{
+  "name": "limesuite",
+  "version": "23.11.0-1",
+  "depends": [
+    "sqlite3",
+    "wxwidgets-gtk3",
+    "freeglut",
+    "libusb",
+    "soapysdr",
+    "wget",
+    "gnuplot",
+    "glew",
+    "fltk"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "octave"
+  ],
+  "receive": 200047894,
+  "transmit": 611527,
+  "disk": 25370335
+}
