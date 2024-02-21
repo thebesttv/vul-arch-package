@@ -1,0 +1,14 @@
+{
+  "name": "srrdb-terminal-client",
+  "version": "1.2.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199649485,
+  "transmit": 365155,
+  "disk": 376838
+}
