@@ -1,0 +1,13 @@
+{
+  "name": "python-pythondata-software-compiler_rt",
+  "version": "2022.08-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199764082,
+  "transmit": 422042,
+  "disk": 30777056
+}
