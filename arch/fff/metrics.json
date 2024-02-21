@@ -1,0 +1,13 @@
+{
+  "name": "fff",
+  "version": "2.2-3",
+  "depends": [
+    "xdg-utils"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199494271,
+  "transmit": 235969,
+  "disk": 939923
+}
