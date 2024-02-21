@@ -1,0 +1,13 @@
+{
+  "name": "patatt",
+  "version": "0.6.3-2",
+  "depends": [
+    "python-pynacl"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199621532,
+  "transmit": 384434,
+  "disk": 506414
+}
