@@ -1,0 +1,26 @@
+{
+  "name": "haskell-tasty-sugar",
+  "version": "2.1.0.0-38",
+  "depends": [
+    "ghc-libs",
+    "haskell-filemanip",
+    "haskell-kvitable",
+    "haskell-logict",
+    "haskell-microlens",
+    "haskell-optparse-applicative",
+    "haskell-parallel",
+    "haskell-prettyprinter",
+    "haskell-tasty"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hedgehog",
+    "haskell-pretty-show",
+    "haskell-raw-strings-qq",
+    "haskell-tasty-hedgehog",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199905288,
+  "transmit": 433653,
+  "disk": 696602
+}
