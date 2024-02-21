@@ -1,0 +1,11 @@
+{
+  "name": "perl-xml-simple",
+  "version": "2.25-8",
+  "depends": [
+    "perl-xml-sax-expat"
+  ],
+  "makedepends": [],
+  "receive": 199720028,
+  "transmit": 427734,
+  "disk": 492818
+}
