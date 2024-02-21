@@ -1,0 +1,29 @@
+{
+  "name": "deepin-album",
+  "version": "6.0.4-4",
+  "depends": [
+    "deepin-qt5integration",
+    "dtkdeclarative",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "qt5-svg",
+    "qt5-declarative",
+    "ffmpeg",
+    "ffmpegthumbnailer",
+    "freeimage",
+    "gio-qt",
+    "udisks2-qt5",
+    "gcc-libs",
+    "startdde"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199677918,
+  "transmit": 392595,
+  "disk": 17193379
+}
