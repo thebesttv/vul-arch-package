@@ -1,0 +1,14 @@
+{
+  "name": "meek",
+  "version": "0.38.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199518669,
+  "transmit": 272290,
+  "disk": 1182349
+}
