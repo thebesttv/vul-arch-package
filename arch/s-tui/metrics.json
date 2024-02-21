@@ -1,0 +1,16 @@
+{
+  "name": "s-tui",
+  "version": "1.1.4-6",
+  "depends": [
+    "stress",
+    "python",
+    "python-urwid",
+    "python-psutil"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199593494,
+  "transmit": 344398,
+  "disk": 5688794
+}
