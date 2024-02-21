@@ -1,0 +1,13 @@
+{
+  "name": "perl-path-class",
+  "version": "0.37-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199572072,
+  "transmit": 328428,
+  "disk": 270209
+}
