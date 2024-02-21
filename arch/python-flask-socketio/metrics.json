@@ -1,0 +1,20 @@
+{
+  "name": "python-flask-socketio",
+  "version": "5.3.6-1",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-eventlet",
+    "python-socketio"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199488868,
+  "transmit": 239848,
+  "disk": 443556
+}
