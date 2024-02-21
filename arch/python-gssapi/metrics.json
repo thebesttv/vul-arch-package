@@ -1,0 +1,16 @@
+{
+  "name": "python-gssapi",
+  "version": "1.8.3-1",
+  "depends": [
+    "python",
+    "python-decorator",
+    "krb5"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 199641589,
+  "transmit": 394796,
+  "disk": 790939
+}
