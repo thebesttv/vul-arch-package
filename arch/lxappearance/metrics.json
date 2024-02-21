@@ -1,0 +1,15 @@
+{
+  "name": "lxappearance",
+  "version": "0.6.3-4",
+  "depends": [
+    "gtk2",
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool",
+    "dbus-glib"
+  ],
+  "receive": 199559595,
+  "transmit": 330692,
+  "disk": 1585289
+}
