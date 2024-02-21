@@ -1,0 +1,11 @@
+{
+  "name": "perl-module-find",
+  "version": "0.16-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199703089,
+  "transmit": 457809,
+  "disk": 164188
+}
