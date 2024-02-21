@@ -1,0 +1,13 @@
+{
+  "name": "serverless",
+  "version": "3.38.0-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199668214,
+  "transmit": 380961,
+  "disk": 885048
+}
