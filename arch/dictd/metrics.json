@@ -1,0 +1,16 @@
+{
+  "name": "dictd",
+  "version": "1.13.1-5",
+  "depends": [
+    "glibc",
+    "sh",
+    "zlib",
+    "libmaa"
+  ],
+  "makedepends": [
+    "flex"
+  ],
+  "receive": 199689281,
+  "transmit": 413555,
+  "disk": 2725023
+}
