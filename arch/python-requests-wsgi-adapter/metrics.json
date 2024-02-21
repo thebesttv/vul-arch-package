@@ -1,0 +1,16 @@
+{
+  "name": "python-requests-wsgi-adapter",
+  "version": "0.4.1-2",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199520370,
+  "transmit": 274806,
+  "disk": 107715
+}
