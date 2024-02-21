@@ -1,0 +1,18 @@
+{
+  "name": "python-fire",
+  "version": "0.5.0-2",
+  "depends": [
+    "python",
+    "python-six",
+    "python-termcolor"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 200846530,
+  "transmit": 989416,
+  "disk": 584150
+}
