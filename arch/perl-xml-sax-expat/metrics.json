@@ -1,0 +1,13 @@
+{
+  "name": "perl-xml-sax-expat",
+  "version": "0.51-7",
+  "depends": [
+    "perl-xml-namespacesupport",
+    "perl-xml-parser",
+    "perl-xml-sax"
+  ],
+  "makedepends": [],
+  "receive": 199556777,
+  "transmit": 290635,
+  "disk": 141884
+}
