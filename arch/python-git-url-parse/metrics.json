@@ -1,0 +1,13 @@
+{
+  "name": "python-git-url-parse",
+  "version": "1.2.2-5",
+  "depends": [
+    "python-pbr"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199575454,
+  "transmit": 328044,
+  "disk": 173212
+}
