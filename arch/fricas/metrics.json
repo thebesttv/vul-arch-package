@@ -1,0 +1,19 @@
+{
+  "name": "fricas",
+  "version": "1.3.10-2",
+  "depends": [
+    "gawk",
+    "glibc",
+    "libx11",
+    "libxpm",
+    "sh",
+    "zstd"
+  ],
+  "makedepends": [
+    "sbcl",
+    "texlive-basic"
+  ],
+  "receive": 210641000,
+  "transmit": 371648,
+  "disk": 122491363
+}
