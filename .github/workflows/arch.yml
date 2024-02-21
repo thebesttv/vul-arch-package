@@ -145,7 +145,7 @@ jobs:
   merge-results:
     needs: single-package
     # run this job even if some single-package jobs fail
-    if: ${{ always() }}
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
