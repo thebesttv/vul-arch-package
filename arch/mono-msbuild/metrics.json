@@ -1,0 +1,16 @@
+{
+  "name": "mono-msbuild",
+  "version": "16.10.1.xamarinxplat.2021.05.26.14.00-4",
+  "depends": [
+    "mono"
+  ],
+  "makedepends": [
+    "bash",
+    "git",
+    "dotnet-sdk",
+    "unzip"
+  ],
+  "receive": 258801008,
+  "transmit": 397950,
+  "disk": 115015668
+}
