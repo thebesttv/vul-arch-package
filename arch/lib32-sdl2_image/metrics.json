@@ -1,0 +1,19 @@
+{
+  "name": "lib32-sdl2_image",
+  "version": "2.8.2-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-libjpeg",
+    "lib32-libpng",
+    "lib32-libtiff",
+    "lib32-sdl2",
+    "lib32-libwebp",
+    "sdl2_image"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 289691807,
+  "transmit": 419651,
+  "disk": 125986101
+}
