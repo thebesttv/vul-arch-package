@@ -1,0 +1,18 @@
+{
+  "name": "anything-sync-daemon",
+  "version": "6.0.0-2",
+  "depends": [
+    "bash",
+    "findutils",
+    "procps-ng",
+    "pv",
+    "rsync",
+    "systemd",
+    "tar",
+    "zstd"
+  ],
+  "makedepends": [],
+  "receive": 199845656,
+  "transmit": 524608,
+  "disk": 179997
+}
