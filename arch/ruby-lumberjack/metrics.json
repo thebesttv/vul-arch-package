@@ -1,0 +1,13 @@
+{
+  "name": "ruby-lumberjack",
+  "version": "1.2.10-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199703791,
+  "transmit": 428121,
+  "disk": 854541
+}
