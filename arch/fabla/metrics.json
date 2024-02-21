@@ -1,0 +1,19 @@
+{
+  "name": "fabla",
+  "version": "1.4-1",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "libglvnd",
+    "libsndfile",
+    "lv2",
+    "ntk"
+  ],
+  "receive": 199559382,
+  "transmit": 294420,
+  "disk": 4378775
+}
