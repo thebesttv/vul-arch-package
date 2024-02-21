@@ -1,0 +1,14 @@
+{
+  "name": "atomicparsley",
+  "version": "20221229.172126.d813aa6-1",
+  "depends": [
+    "gcc-libs",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199671374,
+  "transmit": 405579,
+  "disk": 1375864
+}
