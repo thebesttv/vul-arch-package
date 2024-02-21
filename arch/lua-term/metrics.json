@@ -1,0 +1,15 @@
+{
+  "name": "lua-term",
+  "version": "0.8-1",
+  "depends": [],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 199557722,
+  "transmit": 285628,
+  "disk": 119697
+}
