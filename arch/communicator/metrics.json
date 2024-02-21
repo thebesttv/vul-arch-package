@@ -1,0 +1,18 @@
+{
+  "name": "communicator",
+  "version": "3.0.2-1",
+  "depends": [
+    "mauikit-filebrowsing",
+    "mauikit-texteditor",
+    "hicolor-icon-theme",
+    "kpeople5",
+    "kcontacts5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-location"
+  ],
+  "receive": 199659185,
+  "transmit": 382031,
+  "disk": 858954
+}
