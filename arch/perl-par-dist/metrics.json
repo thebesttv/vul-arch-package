@@ -1,0 +1,11 @@
+{
+  "name": "perl-par-dist",
+  "version": "0.52-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199680751,
+  "transmit": 399208,
+  "disk": 250686
+}
