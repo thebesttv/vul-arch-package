@@ -1,0 +1,11 @@
+{
+  "name": "liblockfile",
+  "version": "1.17_1-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199560615,
+  "transmit": 315063,
+  "disk": 453503
+}
