@@ -1,0 +1,28 @@
+{
+  "name": "monitoring-plugins",
+  "version": "2.3.5-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "net-snmp",
+    "postgresql-libs",
+    "libdbi",
+    "mariadb-libs",
+    "procps-ng",
+    "iputils",
+    "fping",
+    "dnsutils",
+    "rpcbind",
+    "smbclient",
+    "openssh",
+    "inetutils",
+    "postfix",
+    "perl-net-snmp",
+    "curl",
+    "uriparser"
+  ],
+  "receive": 199967532,
+  "transmit": 387862,
+  "disk": 13256969
+}
