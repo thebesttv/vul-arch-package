@@ -1,0 +1,13 @@
+{
+  "name": "python-tarantool",
+  "version": "0.9.0-3",
+  "depends": [
+    "python-msgpack"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199669492,
+  "transmit": 407698,
+  "disk": 586034
+}
