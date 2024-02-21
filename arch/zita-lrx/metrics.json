@@ -1,0 +1,12 @@
+{
+  "name": "zita-lrx",
+  "version": "0.1.2-2",
+  "depends": [
+    "clthreads",
+    "jack"
+  ],
+  "makedepends": [],
+  "receive": 199708766,
+  "transmit": 448940,
+  "disk": 207325
+}
