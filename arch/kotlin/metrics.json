@@ -1,0 +1,13 @@
+{
+  "name": "kotlin",
+  "version": "1.9.22-2",
+  "depends": [
+    "java-runtime-headless>=8"
+  ],
+  "makedepends": [
+    "setconf"
+  ],
+  "receive": 199625811,
+  "transmit": 303903,
+  "disk": 191161896
+}
