@@ -1,0 +1,15 @@
+{
+  "name": "zaz",
+  "version": "1.0.1-1",
+  "depends": [
+    "ftgl",
+    "sdl",
+    "sdl_image",
+    "libvorbis",
+    "libtheora"
+  ],
+  "makedepends": [],
+  "receive": 214217825,
+  "transmit": 592023,
+  "disk": 53855556
+}
