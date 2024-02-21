@@ -1,0 +1,18 @@
+{
+  "name": "python-tiny-proxy",
+  "version": "0.2.1-1",
+  "depends": [
+    "python",
+    "python-anyio"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199703253,
+  "transmit": 425561,
+  "disk": 387628
+}
