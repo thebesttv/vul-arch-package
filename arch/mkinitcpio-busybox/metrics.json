@@ -1,0 +1,12 @@
+{
+  "name": "mkinitcpio-busybox",
+  "version": "1.36.1-1",
+  "depends": [
+    "glibc",
+    "libxcrypt"
+  ],
+  "makedepends": [],
+  "receive": 199866288,
+  "transmit": 468246,
+  "disk": 13673055
+}
