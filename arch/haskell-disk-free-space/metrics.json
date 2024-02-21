@@ -1,0 +1,13 @@
+{
+  "name": "haskell-disk-free-space",
+  "version": "0.1.0.1-24",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199618349,
+  "transmit": 336495,
+  "disk": 117817
+}
