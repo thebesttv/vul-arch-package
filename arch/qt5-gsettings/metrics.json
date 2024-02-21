@@ -1,0 +1,15 @@
+{
+  "name": "qt5-gsettings",
+  "version": "1.4.0-1",
+  "depends": [
+    "qt5-declarative",
+    "glib2"
+  ],
+  "makedepends": [
+    "liri-cmake-shared",
+    "python"
+  ],
+  "receive": 199608387,
+  "transmit": 355074,
+  "disk": 214893
+}
