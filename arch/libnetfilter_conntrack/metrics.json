@@ -1,0 +1,12 @@
+{
+  "name": "libnetfilter_conntrack",
+  "version": "1.0.9-1",
+  "depends": [
+    "libnfnetlink",
+    "libmnl"
+  ],
+  "makedepends": [],
+  "receive": 199900759,
+  "transmit": 651842,
+  "disk": 2582688
+}
