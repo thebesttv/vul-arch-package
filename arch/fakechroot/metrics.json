@@ -1,0 +1,12 @@
+{
+  "name": "fakechroot",
+  "version": "2.20.1-3",
+  "depends": [
+    "sh",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200199442,
+  "transmit": 385070,
+  "disk": 2951615
+}
