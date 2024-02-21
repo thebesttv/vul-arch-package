@@ -1,0 +1,14 @@
+{
+  "name": "bandwhich",
+  "version": "0.22.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199705872,
+  "transmit": 446443,
+  "disk": 7916303
+}
