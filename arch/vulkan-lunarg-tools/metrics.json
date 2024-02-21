@@ -1,0 +1,18 @@
+{
+  "name": "vulkan-lunarg-tools",
+  "version": "1.3.250.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake",
+    "python",
+    "libx11",
+    "libxrandr",
+    "wayland",
+    "qt5-svg",
+    "qt5-webengine"
+  ],
+  "receive": 319540039,
+  "transmit": 570611,
+  "disk": 134821025
+}
