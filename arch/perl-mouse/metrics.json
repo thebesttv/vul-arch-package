@@ -1,0 +1,21 @@
+{
+  "name": "perl-mouse",
+  "version": "2.5.10-5",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-test-exception",
+    "perl-test-fatal",
+    "perl-module-build",
+    "perl-module-build-xsutil",
+    "perl-test-requires",
+    "perl-test-leaktrace",
+    "perl-test-output",
+    "perl-test-deep",
+    "perl-io-string"
+  ],
+  "receive": 199702768,
+  "transmit": 434778,
+  "disk": 1452940
+}
