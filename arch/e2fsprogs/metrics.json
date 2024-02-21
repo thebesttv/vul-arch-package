@@ -1,0 +1,13 @@
+{
+  "name": "e2fsprogs",
+  "version": "1.47.0-1",
+  "depends": [],
+  "makedepends": [
+    "systemd",
+    "util-linux",
+    "fuse"
+  ],
+  "receive": 199576984,
+  "transmit": 314838,
+  "disk": 42890921
+}
