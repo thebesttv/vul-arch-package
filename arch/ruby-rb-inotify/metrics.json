@@ -1,0 +1,14 @@
+{
+  "name": "ruby-rb-inotify",
+  "version": "0.10.1-2",
+  "depends": [
+    "ruby",
+    "ruby-ffi"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199700243,
+  "transmit": 423133,
+  "disk": 157122
+}
