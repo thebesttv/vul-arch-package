@@ -1,0 +1,49 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.49 s (888.0 files/s 389805.8 lines/s)"
+431,C++,30408,22081,136746
+89,PO File,52072,55055,119692
+35,Qt Linguist,0,0,93112
+506,C/C++ Header,19987,36794,84003
+167,C,12496,12501,72305
+113,SVG,85,85,48782
+116,Markdown,5546,3,20622
+78,Objective-C++,4181,906,19426
+58,XML,9,3,18696
+63,JSON,0,0,17529
+25,Qt,5,0,8525
+105,CMake,1548,1178,8280
+64,Python,2094,4210,6319
+34,JavaScript,884,351,6066
+13,Glade,1,42,5608
+71,LESS,1178,1533,5538
+9,reStructuredText,1781,334,5128
+27,Text,1149,0,4947
+25,YAML,223,174,2974
+48,Bourne Shell,524,430,2721
+9,m4,244,40,2192
+3,SCSS,308,38,1541
+22,HTML,119,1,1421
+2,Go,141,179,1052
+25,make,261,227,963
+4,MSBuild script,0,0,868
+5,Starlark,87,116,741
+10,PowerShell,138,20,647
+6,Java,81,56,405
+5,WiX source,52,1,331
+7,Meson,40,10,295
+9,CSS,48,4,264
+5,Visual Studio Solution,5,5,130
+5,DOS Batch,25,2,109
+1,Gradle,11,28,93
+2,Bourne Again Shell,12,7,54
+2,Windows Module Definition,2,7,47
+1,XSLT,5,0,39
+1,IDL,3,0,30
+1,sed,3,5,19
+1,diff,6,14,17
+1,Bazel,3,0,14
+1,CUDA,6,9,13
+1,Lisp,1,2,6
+3,Windows Resource File,2,0,6
+1,Properties,3,4,5
+1,Dockerfile,1,0,4
+2211,SUM,135778,136455,698325

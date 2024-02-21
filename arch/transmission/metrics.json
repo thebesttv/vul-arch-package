@@ -1,0 +1,28 @@
+{
+  "name": "transmission",
+  "version": "4.0.5-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "curl",
+    "dht",
+    "glibmm-2.68",
+    "gtk4",
+    "gtkmm-4.0",
+    "intltool",
+    "libb64",
+    "libdeflate",
+    "libevent",
+    "libnatpmp",
+    "miniupnpc",
+    "ninja",
+    "npm",
+    "qt6-base",
+    "qt6-svg",
+    "qt6-tools",
+    "systemd"
+  ],
+  "receive": 209442223,
+  "transmit": 315915,
+  "disk": 93393651
+}
