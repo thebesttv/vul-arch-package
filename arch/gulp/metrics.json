@@ -1,0 +1,14 @@
+{
+  "name": "gulp",
+  "version": "4.0.2-3",
+  "depends": [
+    "nodejs",
+    "semver"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199644107,
+  "transmit": 399822,
+  "disk": 97720
+}
