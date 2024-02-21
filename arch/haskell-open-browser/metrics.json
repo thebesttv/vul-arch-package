@@ -1,0 +1,13 @@
+{
+  "name": "haskell-open-browser",
+  "version": "0.2.1.0-28",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199531903,
+  "transmit": 290548,
+  "disk": 132560
+}
