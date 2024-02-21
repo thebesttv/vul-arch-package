@@ -1,0 +1,19 @@
+{
+  "name": "python-osmium",
+  "version": "3.7.0-2",
+  "depends": [
+    "python",
+    "libosmium",
+    "pybind11",
+    "python-requests",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cmake",
+    "protozero"
+  ],
+  "receive": 199590365,
+  "transmit": 347224,
+  "disk": 3823068
+}
