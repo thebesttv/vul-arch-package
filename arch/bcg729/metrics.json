@@ -1,0 +1,13 @@
+{
+  "name": "bcg729",
+  "version": "1.1.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199551633,
+  "transmit": 283189,
+  "disk": 921858
+}
