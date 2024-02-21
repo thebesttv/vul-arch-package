@@ -1,0 +1,14 @@
+{
+  "name": "libopensmtpd",
+  "version": "0.7-2",
+  "depends": [
+    "libevent"
+  ],
+  "makedepends": [
+    "gzip",
+    "mandoc"
+  ],
+  "receive": 200077632,
+  "transmit": 778134,
+  "disk": 315620
+}
