@@ -1,0 +1,14 @@
+{
+  "name": "aws-c-cal",
+  "version": "0.6.1-1",
+  "depends": [
+    "aws-c-common",
+    "openssl"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199552872,
+  "transmit": 280856,
+  "disk": 5298303
+}
