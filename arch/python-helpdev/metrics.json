@@ -1,0 +1,14 @@
+{
+  "name": "python-helpdev",
+  "version": "0.7.1-6",
+  "depends": [
+    "python-importlib-metadata",
+    "python-psutil"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199493710,
+  "transmit": 238554,
+  "disk": 940934
+}
