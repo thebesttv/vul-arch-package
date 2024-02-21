@@ -1,0 +1,20 @@
+{
+  "name": "python-agate-excel",
+  "version": "0.4.1-1",
+  "depends": [
+    "python",
+    "python-agate",
+    "python-olefile",
+    "python-openpyxl",
+    "python-six",
+    "python-sphinx-furo",
+    "python-xlrd"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 199631616,
+  "transmit": 394650,
+  "disk": 1027292
+}
