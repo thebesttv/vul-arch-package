@@ -1,0 +1,16 @@
+{
+  "name": "attica5",
+  "version": "5.115.0-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 200718578,
+  "transmit": 966786,
+  "disk": 698564
+}
