@@ -1,0 +1,38 @@
+{
+  "name": "ihaskell",
+  "version": "0.10.4.0-62",
+  "depends": [
+    "ghc-libs",
+    "ipython",
+    "python-jupyter_client",
+    "haskell-aeson",
+    "haskell-base64-bytestring",
+    "haskell-cmdargs",
+    "haskell-ghc",
+    "haskell-ghc-parser",
+    "haskell-ghc-paths",
+    "hlint",
+    "haskell-http-client",
+    "haskell-http-client-tls",
+    "haskell-ipython-kernel",
+    "haskell-random",
+    "haskell-shelly",
+    "haskell-split",
+    "haskell-strict",
+    "haskell-unordered-containers",
+    "haskell-utf8-string",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-here",
+    "haskell-hspec",
+    "haskell-hspec-contrib",
+    "haskell-raw-strings-qq",
+    "haskell-setenv"
+  ],
+  "receive": 199556987,
+  "transmit": 263947,
+  "disk": 712814
+}
