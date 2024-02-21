@@ -1,0 +1,22 @@
+{
+  "name": "haskell-aeson-yaml",
+  "version": "1.1.0.1-177",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-string-qq",
+    "haskell-tasty",
+    "haskell-tasty-discover",
+    "haskell-tasty-hunit",
+    "haskell-yaml"
+  ],
+  "receive": 199526810,
+  "transmit": 289172,
+  "disk": 496819
+}
