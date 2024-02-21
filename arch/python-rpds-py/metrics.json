@@ -1,0 +1,18 @@
+{
+  "name": "python-rpds-py",
+  "version": "0.17.1-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-maturin",
+    "python-installer"
+  ],
+  "receive": 199559361,
+  "transmit": 263415,
+  "disk": 612327
+}
