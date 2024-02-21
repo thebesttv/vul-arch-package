@@ -1,0 +1,12 @@
+{
+  "name": "perl-gtk3-imageview",
+  "version": "10-3",
+  "depends": [
+    "perl-gtk3",
+    "imagemagick"
+  ],
+  "makedepends": [],
+  "receive": 199518162,
+  "transmit": 274278,
+  "disk": 248984
+}
