@@ -1,0 +1,24 @@
+{
+  "name": "loupe",
+  "version": "45.3-1",
+  "depends": [
+    "cairo",
+    "glib2",
+    "glycin",
+    "graphene",
+    "gtk4",
+    "hicolor-icon-theme",
+    "lcms2",
+    "libadwaita",
+    "libgweather-4"
+  ],
+  "makedepends": [
+    "git",
+    "itstool",
+    "meson",
+    "rust"
+  ],
+  "receive": 199558830,
+  "transmit": 248580,
+  "disk": 4075226
+}
