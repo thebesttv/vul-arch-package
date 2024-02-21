@@ -1,0 +1,18 @@
+{
+  "name": "efitools",
+  "version": "1.9.2-5",
+  "depends": [
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [
+    "git",
+    "gnu-efi-libs",
+    "help2man",
+    "perl-file-slurp",
+    "sbsigntools"
+  ],
+  "receive": 199566693,
+  "transmit": 291693,
+  "disk": 1163399
+}
