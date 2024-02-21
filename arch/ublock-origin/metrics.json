@@ -1,0 +1,14 @@
+{
+  "name": "ublock-origin",
+  "version": "1.56.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "python",
+    "strip-nondeterminism",
+    "zip"
+  ],
+  "receive": 419370340,
+  "transmit": 508883,
+  "disk": 230801344
+}
