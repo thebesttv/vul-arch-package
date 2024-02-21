@@ -1,0 +1,11 @@
+{
+  "name": "zsh-lovers",
+  "version": "0.10.1-1",
+  "depends": [],
+  "makedepends": [
+    "asciidoc"
+  ],
+  "receive": 199733585,
+  "transmit": 435698,
+  "disk": 212617
+}
