@@ -1,0 +1,14 @@
+{
+  "name": "dsq",
+  "version": "0.23.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199646308,
+  "transmit": 390727,
+  "disk": 59997881
+}
