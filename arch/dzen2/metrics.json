@@ -1,0 +1,16 @@
+{
+  "name": "dzen2",
+  "version": "0.9.5.14.488ab66-2",
+  "depends": [
+    "libx11",
+    "libxpm",
+    "libxinerama",
+    "libxft"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199727626,
+  "transmit": 428163,
+  "disk": 570283
+}
