@@ -1,0 +1,13 @@
+{
+  "name": "python-py-cpuinfo",
+  "version": "9.0.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199679113,
+  "transmit": 451070,
+  "disk": 811955
+}
