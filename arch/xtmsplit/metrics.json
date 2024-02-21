@@ -1,0 +1,11 @@
+{
+  "name": "xtmsplit",
+  "version": "0.2-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199726223,
+  "transmit": 442632,
+  "disk": 445074
+}
