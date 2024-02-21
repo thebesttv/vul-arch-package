@@ -1,0 +1,21 @@
+{
+  "name": "libalkimia",
+  "version": "8.1.2-2",
+  "depends": [
+    "qt5-webengine",
+    "knewstuff5",
+    "hicolor-icon-theme",
+    "perl"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "extra-cmake-modules",
+    "plasma-framework",
+    "kpackage5",
+    "kdoctools5"
+  ],
+  "receive": 199646402,
+  "transmit": 403848,
+  "disk": 2310774
+}
