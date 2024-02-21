@@ -1,0 +1,19 @@
+{
+  "name": "pygobject",
+  "version": "3.46.0-1",
+  "depends": [
+    "gobject-introspection-runtime",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson",
+    "python-cairo",
+    "python-sphinx",
+    "python-sphinx_rtd_theme"
+  ],
+  "receive": 200232347,
+  "transmit": 614426,
+  "disk": 10908922
+}
