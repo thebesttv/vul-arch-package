@@ -1,0 +1,11 @@
+{
+  "name": "virt-what",
+  "version": "1.25-1",
+  "depends": [
+    "dmidecode"
+  ],
+  "makedepends": [],
+  "receive": 199607849,
+  "transmit": 370952,
+  "disk": 3321600
+}
