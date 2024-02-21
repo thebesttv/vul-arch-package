@@ -1,0 +1,13 @@
+{
+  "name": "texmaker",
+  "version": "5.1.4-2",
+  "depends": [
+    "qt6-declarative",
+    "qt6-5compat",
+    "texlive-basic"
+  ],
+  "makedepends": [],
+  "receive": 215079517,
+  "transmit": 387857,
+  "disk": 87782320
+}
