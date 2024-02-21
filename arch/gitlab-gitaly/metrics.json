@@ -1,0 +1,18 @@
+{
+  "name": "gitlab-gitaly",
+  "version": "16.9.0-1",
+  "depends": [
+    "glibc",
+    "libxml2",
+    "libxslt",
+    "libssh2"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "go"
+  ],
+  "receive": 202906679,
+  "transmit": 307500,
+  "disk": 19271898
+}
