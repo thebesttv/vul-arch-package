@@ -1,0 +1,22 @@
+{
+  "name": "xfce4-notifyd",
+  "version": "0.9.4-1",
+  "depends": [
+    "libxfce4ui",
+    "libxfce4util",
+    "libnotify",
+    "xfconf",
+    "sqlite",
+    "libcanberra",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "intltool",
+    "python",
+    "xfce4-panel",
+    "xfce4-dev-tools"
+  ],
+  "receive": 199623454,
+  "transmit": 294022,
+  "disk": 5880709
+}
