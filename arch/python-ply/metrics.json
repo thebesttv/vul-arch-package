@@ -1,0 +1,13 @@
+{
+  "name": "python-ply",
+  "version": "3.11-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199676006,
+  "transmit": 422923,
+  "disk": 1183287
+}
