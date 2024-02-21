@@ -1,0 +1,16 @@
+{
+  "name": "ruby-minitest-hooks",
+  "version": "1.5.1-1",
+  "depends": [
+    "ruby-minitest"
+  ],
+  "makedepends": [
+    "ruby-sequel",
+    "ruby-sqlite3",
+    "ruby-rake",
+    "ruby-minitest-global_expectations"
+  ],
+  "receive": 199644867,
+  "transmit": 380570,
+  "disk": 157791
+}
