@@ -1,0 +1,15 @@
+{
+  "name": "liblangtag",
+  "version": "0.6.7-1",
+  "depends": [
+    "libxml2",
+    "glib2",
+    "glibc"
+  ],
+  "makedepends": [
+    "gobject-introspection"
+  ],
+  "receive": 199769320,
+  "transmit": 491853,
+  "disk": 7015176
+}
