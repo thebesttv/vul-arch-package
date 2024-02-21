@@ -1,0 +1,14 @@
+{
+  "name": "soapyairspy",
+  "version": "0.2.0-1",
+  "depends": [
+    "soapysdr",
+    "airspy"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199539422,
+  "transmit": 289760,
+  "disk": 152768
+}
