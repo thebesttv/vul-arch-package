@@ -1,0 +1,19 @@
+{
+  "name": "python-pytest-pacman",
+  "version": "0.1.1-1",
+  "depends": [
+    "python",
+    "python-pytest",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-flit-core",
+    "git"
+  ],
+  "receive": 199552721,
+  "transmit": 316851,
+  "disk": 352104
+}
