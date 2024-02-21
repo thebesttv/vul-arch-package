@@ -1,0 +1,13 @@
+{
+  "name": "ctop",
+  "version": "0.7.7-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199498362,
+  "transmit": 273238,
+  "disk": 3174810
+}
