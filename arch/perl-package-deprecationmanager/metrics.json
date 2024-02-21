@@ -1,0 +1,15 @@
+{
+  "name": "perl-package-deprecationmanager",
+  "version": "0.18-2",
+  "depends": [
+    "perl-params-util",
+    "perl-sub-install",
+    "perl-package-stash",
+    "perl-module-implementation",
+    "perl-namespace-autoclean"
+  ],
+  "makedepends": [],
+  "receive": 199595477,
+  "transmit": 370556,
+  "disk": 299846
+}
