@@ -1,0 +1,21 @@
+{
+  "name": "python-osc-lib",
+  "version": "3.0.0-1",
+  "depends": [
+    "python-pbr",
+    "python-cliff",
+    "python-keystoneauth1",
+    "python-openstacksdk",
+    "python-oslo-i18n",
+    "python-oslo-utils",
+    "python-simplejson",
+    "python-stevedore"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199684666,
+  "transmit": 462746,
+  "disk": 2189889
+}
