@@ -1,0 +1,12 @@
+{
+  "name": "alpine-chroot-install",
+  "version": "0.14.0-3",
+  "depends": [
+    "coreutils",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199529139,
+  "transmit": 253544,
+  "disk": 139241
+}
