@@ -1,0 +1,17 @@
+{
+  "name": "pdftk",
+  "version": "3.3.3-3",
+  "depends": [
+    "bcprov",
+    "java-commons-lang",
+    "java-runtime-headless>=8",
+    "sh"
+  ],
+  "makedepends": [
+    "jdk17-openjdk",
+    "gradle"
+  ],
+  "receive": 199539038,
+  "transmit": 268349,
+  "disk": 8672630
+}
