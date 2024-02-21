@@ -1,0 +1,19 @@
+{
+  "name": "haskell-hosc",
+  "version": "0.20-31",
+  "depends": [
+    "bash",
+    "ghc-libs",
+    "glibc",
+    "gmp",
+    "haskell-blaze-builder",
+    "haskell-data-binary-ieee754",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199584881,
+  "transmit": 340898,
+  "disk": 452188
+}
