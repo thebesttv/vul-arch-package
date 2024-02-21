@@ -1,0 +1,16 @@
+{
+  "name": "xorg-fonts-100dpi",
+  "version": "1.0.4-2",
+  "depends": [
+    "xorg-fonts-alias-100dpi"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorg-mkfontscale",
+    "xorg-bdftopcf",
+    "xorg-font-util"
+  ],
+  "receive": 199661290,
+  "transmit": 395398,
+  "disk": 28588296
+}
