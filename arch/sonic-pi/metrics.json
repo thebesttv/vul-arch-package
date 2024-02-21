@@ -1,0 +1,43 @@
+{
+  "name": "sonic-pi",
+  "version": "3.3.1-5",
+  "depends": [
+    "aubio",
+    "gcc-libs",
+    "glibc",
+    "jack-example-tools",
+    "osmid",
+    "qt5-base",
+    "qscintilla-qt5",
+    "ruby",
+    "ruby-activesupport",
+    "ruby-ffi",
+    "ruby-gettext",
+    "ruby-i18n",
+    "ruby-kramdown",
+    "ruby-locale",
+    "ruby-minitest",
+    "ruby-mocha",
+    "ruby-multi_json",
+    "ruby-polyglot",
+    "ruby-rouge",
+    "ruby-rugged",
+    "ruby-sys-proctable",
+    "ruby-text",
+    "ruby-treetop",
+    "sc3-plugins",
+    "supercollider"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "erlang-nox",
+    "gendesk",
+    "lua",
+    "qt5-tools",
+    "ruby-bundler"
+  ],
+  "receive": 329556336,
+  "transmit": 1940072,
+  "disk": 446586276
+}
