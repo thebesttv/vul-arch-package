@@ -1,0 +1,13 @@
+{
+  "name": "xorg-xmessage",
+  "version": "1.0.6-1",
+  "depends": [
+    "libxaw"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199585361,
+  "transmit": 352192,
+  "disk": 997009
+}
