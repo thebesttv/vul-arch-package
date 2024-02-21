@@ -1,0 +1,12 @@
+{
+  "name": "php-apcu",
+  "version": "5.1.23-2",
+  "depends": [],
+  "makedepends": [
+    "php",
+    "php-legacy"
+  ],
+  "receive": 199487007,
+  "transmit": 231734,
+  "disk": 641724
+}
