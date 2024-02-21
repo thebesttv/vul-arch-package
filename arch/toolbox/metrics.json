@@ -1,0 +1,22 @@
+{
+  "name": "toolbox",
+  "version": "0.0.99.5-1",
+  "depends": [
+    "podman",
+    "bash",
+    "flatpak"
+  ],
+  "makedepends": [
+    "go",
+    "shellcheck",
+    "go-md2man",
+    "bash-completion",
+    "ninja",
+    "git",
+    "meson",
+    "podman"
+  ],
+  "receive": 199853750,
+  "transmit": 488318,
+  "disk": 27216278
+}
