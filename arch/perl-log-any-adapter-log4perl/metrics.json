@@ -1,0 +1,13 @@
+{
+  "name": "perl-log-any-adapter-log4perl",
+  "version": "0.09-6",
+  "depends": [
+    "perl>=5.6",
+    "perl-log-any",
+    "perl-log-log4perl>=1.32"
+  ],
+  "makedepends": [],
+  "receive": 199538456,
+  "transmit": 288290,
+  "disk": 196663
+}
