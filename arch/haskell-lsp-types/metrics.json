@@ -1,0 +1,31 @@
+{
+  "name": "haskell-lsp-types",
+  "version": "1.6.0.0-64",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-data-default",
+    "haskell-diff",
+    "haskell-dlist",
+    "haskell-hashable",
+    "haskell-lens",
+    "haskell-mod",
+    "haskell-network-uri",
+    "haskell-safe",
+    "haskell-scientific",
+    "haskell-some",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-quickcheck-instances",
+    "haskell-tuple"
+  ],
+  "receive": 199603055,
+  "transmit": 319440,
+  "disk": 875264
+}
