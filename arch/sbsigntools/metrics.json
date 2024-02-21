@@ -1,0 +1,17 @@
+{
+  "name": "sbsigntools",
+  "version": "0.9.5-1",
+  "depends": [
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [
+    "git",
+    "gnu-efi",
+    "help2man",
+    "util-linux"
+  ],
+  "receive": 199970021,
+  "transmit": 292284,
+  "disk": 30776205
+}
