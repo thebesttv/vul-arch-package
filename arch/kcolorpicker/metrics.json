@@ -1,0 +1,16 @@
+{
+  "name": "kcolorpicker",
+  "version": "0.3.0-3",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-base",
+    "qt6-base"
+  ],
+  "receive": 199552851,
+  "transmit": 302495,
+  "disk": 209893
+}
