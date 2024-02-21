@@ -1,0 +1,11 @@
+{
+  "name": "pony-stable",
+  "version": "0.2.2-2",
+  "depends": [
+    "ponyc"
+  ],
+  "makedepends": [],
+  "receive": 199535368,
+  "transmit": 262523,
+  "disk": 317078
+}
