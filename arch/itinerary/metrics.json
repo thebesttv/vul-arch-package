@@ -1,0 +1,25 @@
+{
+  "name": "itinerary",
+  "version": "23.08.5-1",
+  "depends": [
+    "kitinerary",
+    "kio5",
+    "networkmanager-qt5",
+    "kosmindoormap",
+    "khealthcertificate",
+    "qt5-location",
+    "qqc2-desktop-style5",
+    "prison5",
+    "kitemmodels5",
+    "kunitconversion5",
+    "kfilemetadata5",
+    "kirigami-addons5",
+    "libquotient"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199645715,
+  "transmit": 325287,
+  "disk": 6311046
+}
