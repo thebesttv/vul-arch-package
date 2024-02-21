@@ -1,0 +1,42 @@
+{
+  "name": "haskell-hls-refactor-plugin",
+  "version": "1.1.0.0-146",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-data-default",
+    "haskell-dlist",
+    "haskell-extra",
+    "haskell-ghc",
+    "haskell-ghc-exactprint",
+    "haskell-ghcide",
+    "haskell-hls-graph",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-regex-tdfa",
+    "haskell-retrie",
+    "haskell-syb",
+    "haskell-text-rope",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-async",
+    "haskell-ghcide-test-utils",
+    "haskell-hls-test-utils",
+    "haskell-lsp-test",
+    "haskell-lsp-types",
+    "haskell-network-uri",
+    "haskell-parser-combinators",
+    "haskell-shake",
+    "haskell-tasty",
+    "haskell-tasty-expected-failure",
+    "haskell-tasty-hunit",
+    "haskell-tasty-rerun"
+  ],
+  "receive": 199569986,
+  "transmit": 322485,
+  "disk": 940986
+}
