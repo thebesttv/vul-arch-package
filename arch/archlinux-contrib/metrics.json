@@ -1,0 +1,11 @@
+{
+  "name": "archlinux-contrib",
+  "version": "20221211-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199735495,
+  "transmit": 355986,
+  "disk": 266096
+}
