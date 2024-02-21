@@ -1,0 +1,17 @@
+{
+  "name": "ziproxy",
+  "version": "3.3.2-5",
+  "depends": [
+    "giflib",
+    "glibc",
+    "libpng",
+    "libjpeg",
+    "zlib",
+    "jasper",
+    "libsasl"
+  ],
+  "makedepends": [],
+  "receive": 199909003,
+  "transmit": 520398,
+  "disk": 2015563
+}
