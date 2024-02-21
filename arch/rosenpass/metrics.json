@@ -1,0 +1,20 @@
+{
+  "name": "rosenpass",
+  "version": "0.2.0-2",
+  "depends": [
+    "libsodium",
+    "gawk",
+    "wireguard-tools",
+    "findutils"
+  ],
+  "makedepends": [
+    "cargo",
+    "git",
+    "cmake",
+    "pkg-config",
+    "rust-bindgen"
+  ],
+  "receive": 199583198,
+  "transmit": 363114,
+  "disk": 11039805
+}
