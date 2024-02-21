@@ -1,0 +1,12 @@
+{
+  "name": "wireless-regdb",
+  "version": "2024.01.23-1",
+  "depends": [
+    "bash",
+    "iw"
+  ],
+  "makedepends": [],
+  "receive": 199848332,
+  "transmit": 498739,
+  "disk": 336453
+}
