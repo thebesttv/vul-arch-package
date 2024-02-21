@@ -1,0 +1,11 @@
+{
+  "name": "iucode-tool",
+  "version": "2.3.1-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199541912,
+  "transmit": 312133,
+  "disk": 971051
+}
