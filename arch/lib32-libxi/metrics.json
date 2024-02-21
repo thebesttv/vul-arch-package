@@ -1,0 +1,19 @@
+{
+  "name": "lib32-libxi",
+  "version": "1.8.1-1",
+  "depends": [
+    "lib32-libxext",
+    "lib32-libxfixes",
+    "libxi"
+  ],
+  "makedepends": [
+    "pkgconfig",
+    "xorgproto",
+    "xorg-util-macros",
+    "gcc-multilib",
+    "automake"
+  ],
+  "receive": 199662526,
+  "transmit": 358773,
+  "disk": 3643250
+}
