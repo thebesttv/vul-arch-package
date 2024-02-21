@@ -1,0 +1,16 @@
+{
+  "name": "openimagedenoise",
+  "version": "2.2.0-1",
+  "depends": [
+    "intel-tbb"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "ispc",
+    "python"
+  ],
+  "receive": 248768553,
+  "transmit": 333651,
+  "disk": 225596079
+}
