@@ -1,0 +1,27 @@
+{
+  "name": "rust",
+  "version": "1:1.76.0-1",
+  "depends": [
+    "curl",
+    "gcc",
+    "gcc-libs",
+    "libssh2",
+    "llvm-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "lib32-gcc-libs",
+    "libffi",
+    "lld",
+    "llvm",
+    "musl",
+    "ninja",
+    "perl",
+    "python",
+    "rust",
+    "wasi-libc"
+  ],
+  "receive": 502931506,
+  "transmit": 653316,
+  "disk": 2574508361
+}
