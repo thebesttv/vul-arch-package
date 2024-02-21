@@ -1,0 +1,13 @@
+{
+  "name": "jxrlib",
+  "version": "0.2.4-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199557615,
+  "transmit": 293476,
+  "disk": 17537802
+}
