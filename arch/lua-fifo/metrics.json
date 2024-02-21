@@ -1,0 +1,9 @@
+{
+  "name": "lua-fifo",
+  "version": "0.2-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 199725874,
+  "transmit": 395686,
+  "disk": 119257
+}
