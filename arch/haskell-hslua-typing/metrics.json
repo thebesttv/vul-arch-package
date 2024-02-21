@@ -1,0 +1,22 @@
+{
+  "name": "haskell-hslua-typing",
+  "version": "0.1.0-36",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslua-core",
+    "haskell-hslua-marshalling"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-lua-arbitrary",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199663756,
+  "transmit": 365437,
+  "disk": 200251
+}
