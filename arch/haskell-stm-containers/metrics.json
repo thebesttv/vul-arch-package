@@ -1,0 +1,26 @@
+{
+  "name": "haskell-stm-containers",
+  "version": "1.2.0.3-17",
+  "depends": [
+    "ghc-libs",
+    "haskell-deferred-folds",
+    "haskell-focus",
+    "haskell-hashable",
+    "haskell-list-t",
+    "haskell-stm-hamt"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-foldl",
+    "haskell-free",
+    "haskell-quickcheck-instances",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199666618,
+  "transmit": 259545,
+  "disk": 296881
+}
