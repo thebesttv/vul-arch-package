@@ -1,0 +1,20 @@
+{
+  "name": "lib32-zeromq",
+  "version": "4.3.5-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "lib32-libpgm",
+    "lib32-libsodium",
+    "zeromq"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja",
+    "xmlto"
+  ],
+  "receive": 199840298,
+  "transmit": 498428,
+  "disk": 35881115
+}
