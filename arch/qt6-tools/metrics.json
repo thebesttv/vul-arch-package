@@ -1,0 +1,20 @@
+{
+  "name": "qt6-tools",
+  "version": "6.6.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "zstd"
+  ],
+  "makedepends": [
+    "clang",
+    "cmake",
+    "llvm",
+    "ninja",
+    "qt6-declarative"
+  ],
+  "receive": 201986178,
+  "transmit": 425314,
+  "disk": 8750774
+}
