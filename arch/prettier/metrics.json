@@ -1,0 +1,14 @@
+{
+  "name": "prettier",
+  "version": "3.2.5-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "yarn"
+  ],
+  "receive": 439424475,
+  "transmit": 717762,
+  "disk": 275887870
+}
