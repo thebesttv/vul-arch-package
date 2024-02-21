@@ -1,0 +1,12 @@
+{
+  "name": "rfdump",
+  "version": "1.6-5",
+  "depends": [
+    "gtk3",
+    "expat"
+  ],
+  "makedepends": [],
+  "receive": 199773260,
+  "transmit": 446609,
+  "disk": 890237
+}
