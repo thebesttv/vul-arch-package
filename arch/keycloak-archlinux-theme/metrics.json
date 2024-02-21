@@ -1,0 +1,15 @@
+{
+  "name": "keycloak-archlinux-theme",
+  "version": "1.4.0-1",
+  "depends": [
+    "keycloak>=23"
+  ],
+  "makedepends": [
+    "gradle",
+    "git",
+    "java-environment=17"
+  ],
+  "receive": 199530991,
+  "transmit": 307640,
+  "disk": 2447782
+}
