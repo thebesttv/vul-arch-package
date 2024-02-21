@@ -1,0 +1,16 @@
+{
+  "name": "python-hsluv",
+  "version": "5.0.4-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199526610,
+  "transmit": 274172,
+  "disk": 2330014
+}
