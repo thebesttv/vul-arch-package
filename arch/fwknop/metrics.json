@@ -1,0 +1,14 @@
+{
+  "name": "fwknop",
+  "version": "2.6.10-2",
+  "depends": [
+    "gpgme",
+    "iptables",
+    "libpcap",
+    "wget"
+  ],
+  "makedepends": [],
+  "receive": 199908557,
+  "transmit": 661614,
+  "disk": 9269623
+}
