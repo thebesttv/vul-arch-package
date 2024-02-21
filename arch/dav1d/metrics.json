@@ -1,0 +1,16 @@
+{
+  "name": "dav1d",
+  "version": "1.4.0-1",
+  "depends": [],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "nasm",
+    "doxygen",
+    "graphviz",
+    "xxhash"
+  ],
+  "receive": 200513982,
+  "transmit": 294412,
+  "disk": 122410545
+}
