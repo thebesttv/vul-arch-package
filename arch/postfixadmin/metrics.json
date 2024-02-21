@@ -1,0 +1,11 @@
+{
+  "name": "postfixadmin",
+  "version": "3.3.13-1",
+  "depends": [
+    "php"
+  ],
+  "makedepends": [],
+  "receive": 199638419,
+  "transmit": 354800,
+  "disk": 8547192
+}
