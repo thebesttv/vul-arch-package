@@ -1,0 +1,14 @@
+{
+  "name": "haskell-dlist-instances",
+  "version": "0.1.1.1-209",
+  "depends": [
+    "ghc-libs",
+    "haskell-dlist"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199496767,
+  "transmit": 281547,
+  "disk": 268960
+}
