@@ -1,0 +1,13 @@
+{
+  "name": "python-pycryptodomex",
+  "version": "3.12.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199627868,
+  "transmit": 323703,
+  "disk": 12789030
+}
