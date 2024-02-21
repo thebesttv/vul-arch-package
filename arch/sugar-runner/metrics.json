@@ -1,0 +1,16 @@
+{
+  "name": "sugar-runner",
+  "version": "0.110.0-6",
+  "depends": [
+    "sugar",
+    "xorg-xinit",
+    "xorg-server-xephyr",
+    "xorg-xrandr"
+  ],
+  "makedepends": [
+    "gobject-introspection"
+  ],
+  "receive": 199515474,
+  "transmit": 266659,
+  "disk": 1676592
+}
