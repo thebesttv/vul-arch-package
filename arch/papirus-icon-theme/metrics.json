@@ -1,0 +1,11 @@
+{
+  "name": "papirus-icon-theme",
+  "version": "20240201-1",
+  "depends": [
+    "gtk-update-icon-cache"
+  ],
+  "makedepends": [],
+  "receive": 234298488,
+  "transmit": 714950,
+  "disk": 160384691
+}
