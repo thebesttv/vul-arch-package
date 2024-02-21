@@ -1,0 +1,14 @@
+{
+  "name": "python-pyte",
+  "version": "0.8.2-1",
+  "depends": [
+    "python-wcwidth"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-pytest-runner"
+  ],
+  "receive": 199639257,
+  "transmit": 415733,
+  "disk": 618955
+}
