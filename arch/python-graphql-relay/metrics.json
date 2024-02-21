@@ -1,0 +1,21 @@
+{
+  "name": "python-graphql-relay",
+  "version": "3.2.0-3",
+  "depends": [
+    "python-graphql-core",
+    "python-promise",
+    "python-six",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199624294,
+  "transmit": 387023,
+  "disk": 968377
+}
