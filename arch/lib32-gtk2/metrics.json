@@ -1,0 +1,24 @@
+{
+  "name": "lib32-gtk2",
+  "version": "2.24.33-2",
+  "depends": [
+    "lib32-atk",
+    "lib32-pango",
+    "lib32-cairo",
+    "lib32-gdk-pixbuf2",
+    "lib32-libcups",
+    "lib32-libxcursor",
+    "lib32-libxrandr",
+    "lib32-libxi",
+    "lib32-libxinerama",
+    "lib32-libxcomposite",
+    "lib32-libxdamage",
+    "gtk2"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 212376535,
+  "transmit": 349201,
+  "disk": 129615650
+}
