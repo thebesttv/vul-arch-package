@@ -1,0 +1,12 @@
+{
+  "name": "perl-date-calc",
+  "version": "6.4-11",
+  "depends": [
+    "perl-bit-vector",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199516493,
+  "transmit": 264460,
+  "disk": 1175507
+}
