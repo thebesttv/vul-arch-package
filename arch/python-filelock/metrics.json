@@ -1,0 +1,17 @@
+{
+  "name": "python-filelock",
+  "version": "3.13.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs"
+  ],
+  "receive": 199658620,
+  "transmit": 401076,
+  "disk": 2095554
+}
