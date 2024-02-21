@@ -1,0 +1,25 @@
+{
+  "name": "ipython",
+  "version": "8.21.0-1",
+  "depends": [
+    "python-decorator",
+    "python-jedi",
+    "python-matplotlib-inline",
+    "python-pexpect",
+    "python-prompt_toolkit",
+    "python-pygments",
+    "python-stack-data",
+    "python-traitlets",
+    "sqlite"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 299557858,
+  "transmit": 598682,
+  "disk": 115801527
+}
