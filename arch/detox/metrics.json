@@ -1,0 +1,11 @@
+{
+  "name": "detox",
+  "version": "1.4.5-1",
+  "depends": [],
+  "makedepends": [
+    "flex"
+  ],
+  "receive": 199531673,
+  "transmit": 275944,
+  "disk": 773919
+}
