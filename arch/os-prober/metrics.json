@@ -1,0 +1,11 @@
+{
+  "name": "os-prober",
+  "version": "1.81-1",
+  "depends": [
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199540075,
+  "transmit": 257173,
+  "disk": 331685
+}
