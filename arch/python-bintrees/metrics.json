@@ -1,0 +1,17 @@
+{
+  "name": "python-bintrees",
+  "version": "2.2.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 199614320,
+  "transmit": 385344,
+  "disk": 439111
+}
