@@ -1,0 +1,21 @@
+{
+  "name": "libcdr",
+  "version": "0.1.7-7",
+  "depends": [
+    "lcms2",
+    "icu",
+    "librevenge",
+    "zlib",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "libwpg",
+    "boost",
+    "doxygen",
+    "cppunit"
+  ],
+  "receive": 199561902,
+  "transmit": 284989,
+  "disk": 5156508
+}
