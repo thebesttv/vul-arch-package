@@ -1,0 +1,18 @@
+{
+  "name": "cuyo",
+  "version": "1:2.1.0-5",
+  "depends": [
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "sdl",
+    "sdl_mixer",
+    "sdl_image",
+    "xdg-utils"
+  ],
+  "makedepends": [
+    "patch"
+  ],
+  "receive": 199570943,
+  "transmit": 330096,
+  "disk": 12268771
+}

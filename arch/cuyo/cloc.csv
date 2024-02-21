@@ -1,0 +1,16 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.20 s (1180.6 files/s 356340.7 lines/s)"
+82,Linker Script,1715,0,16426
+40,C++,4917,4364,13923
+42,OCaml,1390,1082,6340
+9,Bourne Shell,832,1235,6099
+40,C/C++ Header,1716,2229,2558
+2,PO File,791,1777,1388
+5,m4,176,159,1301
+8,PHP,195,578,581
+2,Perl,69,49,206
+1,LLVM IR,48,0,196
+8,make,135,304,178
+1,Fortran 77,16,1,42
+1,sed,0,15,5
+1,diff,0,2,4
+242,SUM,12000,11795,49247
