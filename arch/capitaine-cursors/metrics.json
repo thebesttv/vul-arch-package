@@ -1,0 +1,14 @@
+{
+  "name": "capitaine-cursors",
+  "version": "4-2",
+  "depends": [],
+  "makedepends": [
+    "inkscape",
+    "xorg-xcursorgen",
+    "bc",
+    "xorg-server-xvfb"
+  ],
+  "receive": 199694543,
+  "transmit": 445791,
+  "disk": 1997431
+}
