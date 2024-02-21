@@ -1,0 +1,16 @@
+{
+  "name": "akonadi",
+  "version": "23.08.5-1",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules",
+    "postgresql",
+    "qt5-tools",
+    "kitemmodels5",
+    "kaccounts-integration",
+    "doxygen"
+  ],
+  "receive": 199785333,
+  "transmit": 346091,
+  "disk": 13495022
+}
