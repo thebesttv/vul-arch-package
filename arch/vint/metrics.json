@@ -1,0 +1,18 @@
+{
+  "name": "vint",
+  "version": "0.3.21-2",
+  "depends": [
+    "python-ansicolor",
+    "python-chardet",
+    "python-setuptools",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199665516,
+  "transmit": 370494,
+  "disk": 1023974
+}
