@@ -1,0 +1,16 @@
+{
+  "name": "kdsoap",
+  "version": "2.2.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-base",
+    "qt6-base"
+  ],
+  "receive": 200703233,
+  "transmit": 1297480,
+  "disk": 42115993
+}
