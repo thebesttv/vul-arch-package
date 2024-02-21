@@ -1,0 +1,14 @@
+{
+  "name": "vim-airline",
+  "version": "0.11-2",
+  "depends": [
+    "vim-plugin-runtime",
+    "vim-airline-themes"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199547606,
+  "transmit": 271377,
+  "disk": 614956
+}
