@@ -1,0 +1,16 @@
+{
+  "name": "kactivities-stats5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kactivities5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199788592,
+  "transmit": 475334,
+  "disk": 681756
+}
