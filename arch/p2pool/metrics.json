@@ -1,0 +1,16 @@
+{
+  "name": "p2pool",
+  "version": "3.10-1",
+  "depends": [
+    "libcurl.so",
+    "libuv",
+    "libzmq.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "git"
+  ],
+  "receive": 375711807,
+  "transmit": 544900,
+  "disk": 314819691
+}
