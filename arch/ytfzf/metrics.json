@@ -1,0 +1,14 @@
+{
+  "name": "ytfzf",
+  "version": "2.6.2-1",
+  "depends": [
+    "jq",
+    "curl"
+  ],
+  "makedepends": [
+    "gzip"
+  ],
+  "receive": 200496195,
+  "transmit": 1128213,
+  "disk": 6958767
+}
