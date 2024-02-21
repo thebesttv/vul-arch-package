@@ -1,0 +1,16 @@
+{
+  "name": "perl-inline-c",
+  "version": "0.82-3",
+  "depends": [
+    "perl-inline",
+    "perl-parse-recdescent",
+    "perl-pegex"
+  ],
+  "makedepends": [
+    "perl-file-copy-recursive",
+    "perl-test-warn"
+  ],
+  "receive": 199964235,
+  "transmit": 649573,
+  "disk": 496738
+}
