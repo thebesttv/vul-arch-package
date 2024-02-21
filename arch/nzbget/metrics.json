@@ -1,0 +1,11 @@
+{
+  "name": "nzbget",
+  "version": "21.1-2",
+  "depends": [
+    "libxml2"
+  ],
+  "makedepends": [],
+  "receive": 199536848,
+  "transmit": 288720,
+  "disk": 8989810
+}
