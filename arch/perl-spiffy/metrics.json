@@ -1,0 +1,11 @@
+{
+  "name": "perl-spiffy",
+  "version": "0.46-4",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199547948,
+  "transmit": 293035,
+  "disk": 236197
+}
