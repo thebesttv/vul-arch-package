@@ -1,0 +1,14 @@
+{
+  "name": "perl-datetime-format-builder",
+  "version": "1:0.83-4",
+  "depends": [
+    "perl",
+    "perl-datetime>=0.12",
+    "perl-datetime-format-strptime>=1.04",
+    "perl-params-validate>=0.72"
+  ],
+  "makedepends": [],
+  "receive": 199767898,
+  "transmit": 447144,
+  "disk": 461209
+}
