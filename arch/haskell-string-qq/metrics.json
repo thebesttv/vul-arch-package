@@ -1,0 +1,14 @@
+{
+  "name": "haskell-string-qq",
+  "version": "0.0.5-17",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit"
+  ],
+  "receive": 199534284,
+  "transmit": 266452,
+  "disk": 275762
+}
