@@ -1,0 +1,24 @@
+{
+  "name": "libopenmpt",
+  "version": "0.7.3-1",
+  "depends": [
+    "flac",
+    "gcc-libs",
+    "glibc",
+    "libogg",
+    "libpulse",
+    "libsndfile",
+    "libvorbis",
+    "mpg123",
+    "portaudio",
+    "zlib"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "doxygen",
+    "help2man"
+  ],
+  "receive": 199621253,
+  "transmit": 356110,
+  "disk": 9954631
+}
