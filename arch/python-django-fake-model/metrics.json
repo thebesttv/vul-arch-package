@@ -1,0 +1,13 @@
+{
+  "name": "python-django-fake-model",
+  "version": "0.1.4-6",
+  "depends": [
+    "python-django"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199581158,
+  "transmit": 365452,
+  "disk": 143344
+}
