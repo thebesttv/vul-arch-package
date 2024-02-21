@@ -1,0 +1,12 @@
+{
+  "name": "sunpinyin-data",
+  "version": "1:2.0.3.20140820-3",
+  "depends": [],
+  "makedepends": [
+    "sunpinyin",
+    "git"
+  ],
+  "receive": 237099996,
+  "transmit": 428889,
+  "disk": 220418842
+}
