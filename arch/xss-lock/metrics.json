@@ -1,0 +1,16 @@
+{
+  "name": "xss-lock",
+  "version": "0.3.0.g1e158fb20108-4",
+  "depends": [
+    "glib2",
+    "xcb-util"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "python-docutils"
+  ],
+  "receive": 199506266,
+  "transmit": 280613,
+  "disk": 160517
+}
