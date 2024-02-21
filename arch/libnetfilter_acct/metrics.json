@@ -1,0 +1,14 @@
+{
+  "name": "libnetfilter_acct",
+  "version": "1.0.3-3",
+  "depends": [
+    "libnfnetlink",
+    "libmnl"
+  ],
+  "makedepends": [
+    "pkgconfig"
+  ],
+  "receive": 199631741,
+  "transmit": 357562,
+  "disk": 1943729
+}
