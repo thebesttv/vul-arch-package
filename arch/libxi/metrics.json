@@ -1,0 +1,15 @@
+{
+  "name": "libxi",
+  "version": "1.8.1-1",
+  "depends": [
+    "libxext",
+    "libxfixes"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199621329,
+  "transmit": 381180,
+  "disk": 3610043
+}
