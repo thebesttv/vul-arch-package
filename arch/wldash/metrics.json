@@ -1,0 +1,18 @@
+{
+  "name": "wldash",
+  "version": "0.3.0-2",
+  "depends": [
+    "alsa-lib",
+    "dbus",
+    "fontconfig",
+    "gcc-libs",
+    "glibc",
+    "libpulse"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199876165,
+  "transmit": 567845,
+  "disk": 695020
+}
