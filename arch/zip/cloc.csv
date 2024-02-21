@@ -1,0 +1,16 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.24 s (926.7 files/s 363977.3 lines/s)"
+74,C,8435,11677,44654
+78,C/C++ Header,1553,1998,5795
+19,Text,1061,0,3826
+19,Assembly,616,1336,3654
+9,make,248,191,840
+7,Visual Basic,211,527,808
+2,WebAssembly,97,0,356
+3,Gencat NLS,29,0,166
+2,Windows Resource File,5,9,96
+5,Windows Module Definition,15,7,29
+4,diff,5,35,25
+1,Bourne Shell,0,7,22
+1,Rexx,17,2,8
+1,DOS Batch,3,0,6
+225,SUM,12295,15789,60285

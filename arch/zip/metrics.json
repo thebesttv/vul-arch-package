@@ -1,0 +1,11 @@
+{
+  "name": "zip",
+  "version": "3.0-11",
+  "depends": [
+    "bzip2"
+  ],
+  "makedepends": [],
+  "receive": 199637257,
+  "transmit": 404863,
+  "disk": 5294233
+}
