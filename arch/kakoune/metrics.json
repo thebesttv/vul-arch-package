@@ -1,0 +1,11 @@
+{
+  "name": "kakoune",
+  "version": "2023.07.29-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199614397,
+  "transmit": 383210,
+  "disk": 5908244
+}
