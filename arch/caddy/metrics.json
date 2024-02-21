@@ -1,0 +1,14 @@
+{
+  "name": "caddy",
+  "version": "2.7.6-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199592045,
+  "transmit": 306852,
+  "disk": 31562905
+}
