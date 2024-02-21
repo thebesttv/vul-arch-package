@@ -1,0 +1,15 @@
+{
+  "name": "d-stdx-allocator",
+  "version": "3.0.2-21",
+  "depends": [
+    "liblphobos",
+    "d-mir-core"
+  ],
+  "makedepends": [
+    "meson",
+    "ldc"
+  ],
+  "receive": 199738666,
+  "transmit": 441949,
+  "disk": 652489
+}
