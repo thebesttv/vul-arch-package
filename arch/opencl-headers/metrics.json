@@ -1,0 +1,12 @@
+{
+  "name": "opencl-headers",
+  "version": "2:2023.04.17-2",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "python"
+  ],
+  "receive": 199764726,
+  "transmit": 433998,
+  "disk": 719218
+}
