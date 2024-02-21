@@ -1,0 +1,16 @@
+{
+  "name": "ruby-fast_gettext",
+  "version": "2.3.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-rspec",
+    "ruby-bundler"
+  ],
+  "receive": 199619661,
+  "transmit": 325662,
+  "disk": 618877
+}
