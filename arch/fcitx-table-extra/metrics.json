@@ -1,0 +1,14 @@
+{
+  "name": "fcitx-table-extra",
+  "version": "0.3.8-2",
+  "depends": [
+    "fcitx"
+  ],
+  "makedepends": [
+    "cmake",
+    "intltool"
+  ],
+  "receive": 199571440,
+  "transmit": 323265,
+  "disk": 16606150
+}
