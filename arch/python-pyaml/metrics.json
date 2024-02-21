@@ -1,0 +1,13 @@
+{
+  "name": "python-pyaml",
+  "version": "23.9.0-1",
+  "depends": [
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199488829,
+  "transmit": 249079,
+  "disk": 207246
+}
