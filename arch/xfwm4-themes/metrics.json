@@ -1,0 +1,11 @@
+{
+  "name": "xfwm4-themes",
+  "version": "4.10.0-5",
+  "depends": [
+    "xfwm4"
+  ],
+  "makedepends": [],
+  "receive": 199570258,
+  "transmit": 285135,
+  "disk": 7218808
+}
