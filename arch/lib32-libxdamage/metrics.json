@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libxdamage",
+  "version": "1.1.6-1",
+  "depends": [
+    "lib32-libxfixes>=4.0.4",
+    "libxdamage"
+  ],
+  "makedepends": [
+    "xorgproto"
+  ],
+  "receive": 199926443,
+  "transmit": 367305,
+  "disk": 2046057
+}
