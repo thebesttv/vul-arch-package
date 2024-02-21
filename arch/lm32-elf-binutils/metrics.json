@@ -1,0 +1,11 @@
+{
+  "name": "lm32-elf-binutils",
+  "version": "2.39-1",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 238402067,
+  "transmit": 1493613,
+  "disk": 312999895
+}
