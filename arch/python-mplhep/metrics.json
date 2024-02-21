@@ -1,0 +1,21 @@
+{
+  "name": "python-mplhep",
+  "version": "0.3.26-2",
+  "depends": [
+    "python-numpy",
+    "python-matplotlib",
+    "python-mplhep_data",
+    "python-uhi",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199498672,
+  "transmit": 268087,
+  "disk": 15029560
+}
