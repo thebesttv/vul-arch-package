@@ -1,0 +1,11 @@
+{
+  "name": "perl-archive-extract",
+  "version": "0.88-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199511598,
+  "transmit": 282788,
+  "disk": 266390
+}
