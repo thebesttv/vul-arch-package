@@ -1,0 +1,13 @@
+{
+  "name": "lib32-libjpeg6-turbo",
+  "version": "1.5.3-2",
+  "depends": [
+    "lib32-glibc"
+  ],
+  "makedepends": [
+    "nasm"
+  ],
+  "receive": 201250350,
+  "transmit": 310612,
+  "disk": 9583836
+}
