@@ -1,0 +1,19 @@
+{
+  "name": "botan",
+  "version": "3.3.0-1",
+  "depends": [
+    "bzip2",
+    "gcc-libs",
+    "glibc",
+    "sqlite",
+    "xz",
+    "zlib"
+  ],
+  "makedepends": [
+    "boost",
+    "python"
+  ],
+  "receive": 199660746,
+  "transmit": 414522,
+  "disk": 46499289
+}
