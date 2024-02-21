@@ -1,0 +1,17 @@
+{
+  "name": "lxqt-notificationd",
+  "version": "1.4.0-1",
+  "depends": [
+    "qt5-base",
+    "liblxqt",
+    "kwindowsystem5",
+    "libQt5Xdg.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "lxqt-build-tools"
+  ],
+  "receive": 199636622,
+  "transmit": 400504,
+  "disk": 758212
+}
