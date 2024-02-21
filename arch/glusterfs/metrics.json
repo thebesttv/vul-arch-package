@@ -1,0 +1,21 @@
+{
+  "name": "glusterfs",
+  "version": "1:11.1-1",
+  "depends": [
+    "fuse",
+    "python",
+    "libxml2",
+    "libaio",
+    "liburcu",
+    "attr",
+    "rpcbind",
+    "liburing",
+    "gperftools"
+  ],
+  "makedepends": [
+    "rpcsvc-proto"
+  ],
+  "receive": 199736828,
+  "transmit": 354135,
+  "disk": 48380254
+}
