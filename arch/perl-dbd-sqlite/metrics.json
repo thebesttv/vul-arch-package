@@ -1,0 +1,12 @@
+{
+  "name": "perl-dbd-sqlite",
+  "version": "1.74-1",
+  "depends": [
+    "perl-dbi",
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 199662911,
+  "transmit": 355641,
+  "disk": 13228859
+}
