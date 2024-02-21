@@ -1,0 +1,17 @@
+{
+  "name": "python-mediafile",
+  "version": "0.12.0-1",
+  "depends": [
+    "python-mutagen",
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199908316,
+  "transmit": 463987,
+  "disk": 2987276
+}
