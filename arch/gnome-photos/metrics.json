@@ -1,0 +1,29 @@
+{
+  "name": "gnome-photos",
+  "version": "1:44.0-4",
+  "depends": [
+    "babl",
+    "dleyna",
+    "gegl",
+    "geocode-glib-2",
+    "gnome-online-accounts",
+    "gsettings-desktop-schemas",
+    "gtk3",
+    "libdazzle",
+    "libgexiv2",
+    "libhandy",
+    "libportal-gtk3",
+    "librsvg",
+    "tracker3-miners"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "meson",
+    "python",
+    "yelp-tools"
+  ],
+  "receive": 214456926,
+  "transmit": 928430,
+  "disk": 23223430
+}
