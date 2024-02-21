@@ -1,0 +1,15 @@
+{
+  "name": "rootlesskit",
+  "version": "1.1.1-1",
+  "depends": [
+    "glibc",
+    "shadow"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199650242,
+  "transmit": 386512,
+  "disk": 5079199
+}
