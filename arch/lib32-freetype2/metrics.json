@@ -1,0 +1,18 @@
+{
+  "name": "lib32-freetype2",
+  "version": "2.13.2-1",
+  "depends": [
+    "freetype2",
+    "lib32-brotli",
+    "lib32-bzip2",
+    "lib32-libpng",
+    "lib32-zlib",
+    "lib32-harfbuzz"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 202355564,
+  "transmit": 591000,
+  "disk": 21540756
+}
