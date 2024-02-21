@@ -1,0 +1,11 @@
+{
+  "name": "gtk-chtheme",
+  "version": "0.3.1-11",
+  "depends": [
+    "gtk2"
+  ],
+  "makedepends": [],
+  "receive": 199734390,
+  "transmit": 392641,
+  "disk": 178779
+}
