@@ -1,0 +1,11 @@
+{
+  "name": "spawn-fcgi",
+  "version": "1.6.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199556706,
+  "transmit": 308100,
+  "disk": 594007
+}
