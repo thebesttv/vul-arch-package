@@ -1,0 +1,11 @@
+{
+  "name": "arj",
+  "version": "3.10.22-13",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199683794,
+  "transmit": 418753,
+  "disk": 2230525
+}
