@@ -1,0 +1,14 @@
+{
+  "name": "btop",
+  "version": "1.3.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "rocm-smi-lib"
+  ],
+  "receive": 199667236,
+  "transmit": 380007,
+  "disk": 3535795
+}
