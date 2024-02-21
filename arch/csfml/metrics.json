@@ -1,0 +1,15 @@
+{
+  "name": "csfml",
+  "version": "2.6.0-1",
+  "depends": [
+    "sfml"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "ninja"
+  ],
+  "receive": 199693632,
+  "transmit": 461318,
+  "disk": 1879084
+}
