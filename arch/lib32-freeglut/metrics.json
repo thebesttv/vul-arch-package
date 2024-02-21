@@ -1,0 +1,21 @@
+{
+  "name": "lib32-freeglut",
+  "version": "3.4.0-1",
+  "depends": [
+    "lib32-libxi",
+    "lib32-libxrandr",
+    "lib32-libgl",
+    "freeglut"
+  ],
+  "makedepends": [
+    "lib32-mesa",
+    "lib32-glu",
+    "lib32-libxxf86vm",
+    "cmake",
+    "ninja",
+    "git"
+  ],
+  "receive": 200300446,
+  "transmit": 810861,
+  "disk": 11603784
+}
