@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libnghttp3",
+  "version": "1.2.0-1",
+  "depends": [
+    "lib32-glibc",
+    "libnghttp3"
+  ],
+  "makedepends": [],
+  "receive": 199612741,
+  "transmit": 371125,
+  "disk": 3554106
+}
