@@ -1,0 +1,13 @@
+{
+  "name": "perl-anyevent-i3",
+  "version": "0.17-9",
+  "depends": [
+    "perl",
+    "perl-anyevent",
+    "perl-json-xs"
+  ],
+  "makedepends": [],
+  "receive": 200122999,
+  "transmit": 853716,
+  "disk": 223615
+}
