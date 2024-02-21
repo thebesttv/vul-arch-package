@@ -1,0 +1,13 @@
+{
+  "name": "prometheus-json-exporter",
+  "version": "0.6.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199535015,
+  "transmit": 280849,
+  "disk": 257850
+}
