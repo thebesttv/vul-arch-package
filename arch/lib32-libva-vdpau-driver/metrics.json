@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libva-vdpau-driver",
+  "version": "0.7.4-7",
+  "depends": [
+    "lib32-libva",
+    "lib32-libvdpau",
+    "lib32-libgl"
+  ],
+  "makedepends": [
+    "lib32-mesa"
+  ],
+  "receive": 199563278,
+  "transmit": 314445,
+  "disk": 2163575
+}
