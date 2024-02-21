@@ -1,0 +1,11 @@
+{
+  "name": "pari-galpol",
+  "version": "20180625-2",
+  "depends": [
+    "pari"
+  ],
+  "makedepends": [],
+  "receive": 199588406,
+  "transmit": 287031,
+  "disk": 54282265
+}
