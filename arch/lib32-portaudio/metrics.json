@@ -1,0 +1,16 @@
+{
+  "name": "lib32-portaudio",
+  "version": "1:19.7.0-2",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "portaudio=1:19.7.0"
+  ],
+  "makedepends": [
+    "lib32-alsa-lib",
+    "lib32-jack"
+  ],
+  "receive": 200182454,
+  "transmit": 424500,
+  "disk": 8740380
+}
