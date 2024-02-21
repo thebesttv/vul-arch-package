@@ -1,0 +1,17 @@
+{
+  "name": "kldap",
+  "version": "23.08.5-1",
+  "depends": [
+    "kio5",
+    "qtkeychain-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "doxygen",
+    "qt5-tools"
+  ],
+  "receive": 199619824,
+  "transmit": 414481,
+  "disk": 2200382
+}
