@@ -1,0 +1,12 @@
+{
+  "name": "perl-class-accessor-chained",
+  "version": "0.01-10",
+  "depends": [
+    "perl>=5.10.0",
+    "perl-class-accessor"
+  ],
+  "makedepends": [],
+  "receive": 199512879,
+  "transmit": 254560,
+  "disk": 124727
+}
