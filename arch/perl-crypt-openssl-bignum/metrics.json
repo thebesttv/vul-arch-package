@@ -1,0 +1,12 @@
+{
+  "name": "perl-crypt-openssl-bignum",
+  "version": "0.09-9",
+  "depends": [
+    "perl",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199592175,
+  "transmit": 349284,
+  "disk": 179697
+}
