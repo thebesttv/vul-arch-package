@@ -1,0 +1,19 @@
+{
+  "name": "ccache",
+  "version": "4.9.1-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "hiredis",
+    "zstd",
+    "libzstd.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "asciidoctor",
+    "perl"
+  ],
+  "receive": 199668526,
+  "transmit": 390932,
+  "disk": 5256016
+}
