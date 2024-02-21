@@ -1,0 +1,20 @@
+{
+  "name": "telepathy-mission-control",
+  "version": "5.16.6-3",
+  "depends": [
+    "dconf",
+    "dbus",
+    "dbus-glib",
+    "glib2",
+    "glibc",
+    "libnm",
+    "telepathy-glib"
+  ],
+  "makedepends": [
+    "libxslt",
+    "python"
+  ],
+  "receive": 199570553,
+  "transmit": 283159,
+  "disk": 6686251
+}
