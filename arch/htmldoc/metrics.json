@@ -1,0 +1,17 @@
+{
+  "name": "htmldoc",
+  "version": "1.9.18-1",
+  "depends": [
+    "fltk",
+    "libcups",
+    "libjpeg-turbo",
+    "libpng",
+    "libxpm",
+    "zlib",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [],
+  "receive": 199659809,
+  "transmit": 400538,
+  "disk": 10781419
+}
