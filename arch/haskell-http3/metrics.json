@@ -1,0 +1,32 @@
+{
+  "name": "haskell-http3",
+  "version": "0.0.2-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-http-types",
+    "haskell-http2",
+    "haskell-network",
+    "haskell-network-byte-order",
+    "haskell-quic",
+    "haskell-sockaddr",
+    "haskell-time-manager",
+    "haskell-unliftio"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-attoparsec",
+    "haskell-base16-bytestring",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-cryptonite",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-iproute",
+    "haskell-tls"
+  ],
+  "receive": 199605839,
+  "transmit": 355547,
+  "disk": 72503322
+}
