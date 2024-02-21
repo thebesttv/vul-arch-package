@@ -1,0 +1,19 @@
+{
+  "name": "python-cinderclient",
+  "version": "9.4.0-1",
+  "depends": [
+    "python-pbr",
+    "python-prettytable",
+    "python-keystoneauth1",
+    "python-oslo-i18n",
+    "python-oslo-utils",
+    "python-requests",
+    "python-stevedore"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199691014,
+  "transmit": 417315,
+  "disk": 6156742
+}
