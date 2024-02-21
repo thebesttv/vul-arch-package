@@ -1,0 +1,15 @@
+{
+  "name": "libxpresent",
+  "version": "1.0.1-1",
+  "depends": [
+    "libxfixes",
+    "libxrandr"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199968519,
+  "transmit": 474074,
+  "disk": 2089358
+}
