@@ -1,0 +1,11 @@
+{
+  "name": "perl-netaddr-ip",
+  "version": "4.079-14",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199700171,
+  "transmit": 439545,
+  "disk": 1265035
+}
