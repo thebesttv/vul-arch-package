@@ -1,0 +1,14 @@
+{
+  "name": "haskell-doctest-driver-gen",
+  "version": "0.3.0.8-6",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest"
+  ],
+  "receive": 199528135,
+  "transmit": 265888,
+  "disk": 231410
+}
