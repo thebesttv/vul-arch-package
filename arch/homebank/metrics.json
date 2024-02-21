@@ -1,0 +1,20 @@
+{
+  "name": "homebank",
+  "version": "5.7.4-1",
+  "depends": [
+    "desktop-file-utils",
+    "gtk3",
+    "hicolor-icon-theme",
+    "libofx",
+    "librsvg",
+    "perl-xml-parser",
+    "shared-mime-info",
+    "libsoup"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 203313578,
+  "transmit": 334809,
+  "disk": 15119437
+}
