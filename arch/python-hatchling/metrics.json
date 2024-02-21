@@ -1,0 +1,21 @@
+{
+  "name": "python-hatchling",
+  "version": "1.21.1-1",
+  "depends": [
+    "python",
+    "python-packaging",
+    "python-pathspec",
+    "python-pluggy",
+    "python-editables",
+    "python-trove-classifiers"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 200510234,
+  "transmit": 435328,
+  "disk": 4263352
+}
