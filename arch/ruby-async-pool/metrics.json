@@ -1,0 +1,11 @@
+{
+  "name": "ruby-async-pool",
+  "version": "0.4.0-1",
+  "depends": [
+    "ruby-async"
+  ],
+  "makedepends": [],
+  "receive": 199510115,
+  "transmit": 273058,
+  "disk": 192226
+}
