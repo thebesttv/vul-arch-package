@@ -1,0 +1,13 @@
+{
+  "name": "bettercap-caplets",
+  "version": "v20210412.r372.2d58298-3",
+  "depends": [
+    "bettercap"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199554306,
+  "transmit": 282752,
+  "disk": 1205249
+}
