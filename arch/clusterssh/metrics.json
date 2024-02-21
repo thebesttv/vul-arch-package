@@ -1,0 +1,17 @@
+{
+  "name": "clusterssh",
+  "version": "4.16-1",
+  "depends": [
+    "xterm",
+    "perl-exception-class",
+    "perl-try-tiny",
+    "perl-tk",
+    "perl-x11-protocol-other"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199756177,
+  "transmit": 413152,
+  "disk": 577392
+}
