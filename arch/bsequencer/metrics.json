@@ -1,0 +1,17 @@
+{
+  "name": "bsequencer",
+  "version": "1.8.10-2",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "lv2"
+  ],
+  "receive": 199529970,
+  "transmit": 262378,
+  "disk": 4803679
+}
