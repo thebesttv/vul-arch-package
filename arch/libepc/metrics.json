@@ -1,0 +1,16 @@
+{
+  "name": "libepc",
+  "version": "0.4.6-2",
+  "depends": [
+    "gtk3",
+    "avahi",
+    "libsoup"
+  ],
+  "makedepends": [
+    "intltool",
+    "python"
+  ],
+  "receive": 199732998,
+  "transmit": 425104,
+  "disk": 3548526
+}
