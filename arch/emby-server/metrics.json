@@ -1,0 +1,17 @@
+{
+  "name": "emby-server",
+  "version": "4.8.1.0-3",
+  "depends": [
+    "aspnet-runtime-6.0",
+    "dotnet-runtime-6.0",
+    "emby-ffmpeg",
+    "ffmpeg",
+    "libvips",
+    "skia-sharp",
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 248366843,
+  "transmit": 336530,
+  "disk": 164668552
+}
