@@ -1,0 +1,13 @@
+{
+  "name": "airspy",
+  "version": "1.0.10-1",
+  "depends": [
+    "libusb>=1.0"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199578153,
+  "transmit": 352581,
+  "disk": 1197184
+}
