@@ -1,0 +1,11 @@
+{
+  "name": "lxsplit",
+  "version": "0.2.4-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199521149,
+  "transmit": 255950,
+  "disk": 154223
+}
