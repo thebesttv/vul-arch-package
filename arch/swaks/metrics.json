@@ -1,0 +1,12 @@
+{
+  "name": "swaks",
+  "version": "20201014.0-1",
+  "depends": [
+    "perl-net-dns",
+    "perl-net-ssleay"
+  ],
+  "makedepends": [],
+  "receive": 200053286,
+  "transmit": 320006,
+  "disk": 3749597
+}
