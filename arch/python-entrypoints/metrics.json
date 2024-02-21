@@ -1,0 +1,15 @@
+{
+  "name": "python-entrypoints",
+  "version": "0.4-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199664476,
+  "transmit": 380360,
+  "disk": 225390
+}
