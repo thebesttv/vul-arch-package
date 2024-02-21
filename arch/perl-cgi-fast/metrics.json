@@ -1,0 +1,13 @@
+{
+  "name": "perl-cgi-fast",
+  "version": "2.16-3",
+  "depends": [
+    "perl>=5.8.1",
+    "perl-cgi>=4",
+    "perl-fcgi>=0.67"
+  ],
+  "makedepends": [],
+  "receive": 199683570,
+  "transmit": 411605,
+  "disk": 159899
+}
