@@ -1,0 +1,14 @@
+{
+  "name": "grunt-cli",
+  "version": "1.4.3-2",
+  "depends": [
+    "nodejs",
+    "nodejs-nopt"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 200572754,
+  "transmit": 956930,
+  "disk": 98994
+}
