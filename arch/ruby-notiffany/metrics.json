@@ -1,0 +1,14 @@
+{
+  "name": "ruby-notiffany",
+  "version": "0.1.3-2",
+  "depends": [
+    "ruby-nenv",
+    "ruby-shellany"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199503245,
+  "transmit": 262674,
+  "disk": 1068590
+}
