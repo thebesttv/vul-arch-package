@@ -1,0 +1,27 @@
+{
+  "name": "python-whey",
+  "version": "0.0.24-1",
+  "depends": [
+    "python",
+    "python-click",
+    "python-consolekit",
+    "python-dist-meta",
+    "python-dom-toml",
+    "python-domdf-python-tools",
+    "python-handy-archives",
+    "python-natsort",
+    "python-packaging",
+    "python-pyproject-parser",
+    "python-shippinglabel"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199654231,
+  "transmit": 396230,
+  "disk": 5287362
+}
