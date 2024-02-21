@@ -1,0 +1,13 @@
+{
+  "name": "perl-string-util",
+  "version": "1.34-2",
+  "depends": [
+    "perl-number-misc"
+  ],
+  "makedepends": [
+    "perl-module-build-tiny"
+  ],
+  "receive": 199616512,
+  "transmit": 371488,
+  "disk": 206667
+}
