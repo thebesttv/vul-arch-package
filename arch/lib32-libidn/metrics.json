@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libidn",
+  "version": "1.42-1",
+  "depends": [
+    "lib32-glibc",
+    "libidn>=1.42"
+  ],
+  "makedepends": [],
+  "receive": 199750585,
+  "transmit": 460733,
+  "disk": 15990156
+}
