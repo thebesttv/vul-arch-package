@@ -1,0 +1,13 @@
+{
+  "name": "smplayer-themes",
+  "version": "1:20.11.0-1",
+  "depends": [
+    "smplayer"
+  ],
+  "makedepends": [
+    "optipng"
+  ],
+  "receive": 199701431,
+  "transmit": 416861,
+  "disk": 9664814
+}
