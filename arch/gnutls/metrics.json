@@ -1,0 +1,26 @@
+{
+  "name": "gnutls",
+  "version": "3.8.3-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "gmp",
+    "libtasn1",
+    "readline",
+    "zlib",
+    "nettle",
+    "libp11-kit",
+    "libidn2",
+    "zstd",
+    "libidn2.so",
+    "libunistring",
+    "brotli"
+  ],
+  "makedepends": [
+    "tpm2-tss",
+    "gtk-doc"
+  ],
+  "receive": 206499830,
+  "transmit": 543860,
+  "disk": 65505029
+}
