@@ -1,0 +1,13 @@
+{
+  "name": "python-mako",
+  "version": "1.3.2-1",
+  "depends": [
+    "python-markupsafe"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199804241,
+  "transmit": 499497,
+  "disk": 2578262
+}
