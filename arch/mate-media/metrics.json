@@ -1,0 +1,15 @@
+{
+  "name": "mate-media",
+  "version": "1.26.2-1",
+  "depends": [
+    "libcanberra",
+    "libmatemixer",
+    "mate-desktop",
+    "mate-panel",
+    "gettext"
+  ],
+  "makedepends": [],
+  "receive": 199601228,
+  "transmit": 364950,
+  "disk": 6310049
+}
