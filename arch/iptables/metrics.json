@@ -1,0 +1,17 @@
+{
+  "name": "iptables",
+  "version": "1:1.8.10-1",
+  "depends": [
+    "libnftnl",
+    "libpcap",
+    "libnfnetlink",
+    "libnetfilter_conntrack",
+    "bash"
+  ],
+  "makedepends": [
+    "linux-api-headers"
+  ],
+  "receive": 199569331,
+  "transmit": 269961,
+  "disk": 5057269
+}
