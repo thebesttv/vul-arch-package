@@ -1,0 +1,16 @@
+{
+  "name": "kiwix-desktop",
+  "version": "2.3.1-5",
+  "depends": [
+    "libkiwix>=12.1.1",
+    "qt5-base",
+    "qt5-webengine",
+    "aria2"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199593941,
+  "transmit": 339193,
+  "disk": 2051152
+}
