@@ -1,0 +1,15 @@
+{
+  "name": "xorg-xdriinfo",
+  "version": "1.0.7-1",
+  "depends": [
+    "libx11",
+    "libgl"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199650765,
+  "transmit": 398271,
+  "disk": 950743
+}
