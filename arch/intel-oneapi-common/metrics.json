@@ -1,0 +1,11 @@
+{
+  "name": "intel-oneapi-common",
+  "version": "2023.2.0-1",
+  "depends": [
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199541007,
+  "transmit": 281330,
+  "disk": 131775
+}
