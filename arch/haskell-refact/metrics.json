@@ -1,0 +1,13 @@
+{
+  "name": "haskell-refact",
+  "version": "0.3.0.2-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199604052,
+  "transmit": 308913,
+  "disk": 121286
+}
