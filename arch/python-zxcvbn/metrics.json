@@ -1,0 +1,13 @@
+{
+  "name": "python-zxcvbn",
+  "version": "4.4.28-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 209335084,
+  "transmit": 503311,
+  "disk": 66531087
+}
