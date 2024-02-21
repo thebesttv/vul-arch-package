@@ -1,0 +1,16 @@
+{
+  "name": "ruby-rr",
+  "version": "3.1.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-bundler",
+    "ruby-rspec"
+  ],
+  "receive": 199617412,
+  "transmit": 337914,
+  "disk": 1038702
+}
