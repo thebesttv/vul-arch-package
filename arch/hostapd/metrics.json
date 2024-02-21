@@ -1,0 +1,14 @@
+{
+  "name": "hostapd",
+  "version": "2.10-4",
+  "depends": [
+    "glibc",
+    "libnl",
+    "openssl",
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 199612903,
+  "transmit": 251194,
+  "disk": 14027018
+}
