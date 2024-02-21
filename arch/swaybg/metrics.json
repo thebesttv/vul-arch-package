@@ -1,0 +1,18 @@
+{
+  "name": "swaybg",
+  "version": "1.2.0-1",
+  "depends": [
+    "wayland",
+    "cairo",
+    "gdk-pixbuf2"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "scdoc",
+    "wayland-protocols"
+  ],
+  "receive": 199657211,
+  "transmit": 433634,
+  "disk": 191445
+}
