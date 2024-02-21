@@ -1,0 +1,13 @@
+{
+  "name": "perl-test-mock-guard",
+  "version": "0.10-6",
+  "depends": [
+    "perl-class-load"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199492465,
+  "transmit": 245379,
+  "disk": 172730
+}
