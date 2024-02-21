@@ -1,0 +1,13 @@
+{
+  "name": "qml-box2d",
+  "version": "20220602-1",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199577080,
+  "transmit": 302591,
+  "disk": 20625615
+}
