@@ -1,0 +1,19 @@
+{
+  "name": "sequoia-wot",
+  "version": "0.9.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "nettle",
+    "openssl",
+    "sqlite"
+  ],
+  "makedepends": [
+    "cargo",
+    "clang"
+  ],
+  "receive": 199642383,
+  "transmit": 375218,
+  "disk": 4291567
+}
