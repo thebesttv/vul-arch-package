@@ -1,0 +1,19 @@
+{
+  "name": "xfce4-screensaver",
+  "version": "4.18.2-1",
+  "depends": [
+    "libxss",
+    "libxklavier",
+    "libwnck3",
+    "garcon",
+    "dbus-glib",
+    "python",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199657269,
+  "transmit": 411108,
+  "disk": 5241229
+}
