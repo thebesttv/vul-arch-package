@@ -1,0 +1,14 @@
+{
+  "name": "ruby-io-console",
+  "version": "0.5.11-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rake-compiler"
+  ],
+  "receive": 199620558,
+  "transmit": 399314,
+  "disk": 361271
+}
