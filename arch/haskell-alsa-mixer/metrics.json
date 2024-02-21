@@ -1,0 +1,21 @@
+{
+  "name": "haskell-alsa-mixer",
+  "version": "0.3.0-73",
+  "depends": [
+    "ghc-libs",
+    "glibc",
+    "gmp",
+    "alsa-lib",
+    "haskell-base",
+    "haskell-unix",
+    "haskell-alsa-core",
+    "haskell-extensible-exceptions"
+  ],
+  "makedepends": [
+    "ghc",
+    "c2hs"
+  ],
+  "receive": 199538023,
+  "transmit": 251329,
+  "disk": 190738
+}
