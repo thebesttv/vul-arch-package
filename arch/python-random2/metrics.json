@@ -1,0 +1,16 @@
+{
+  "name": "python-random2",
+  "version": "1.0.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199488975,
+  "transmit": 253345,
+  "disk": 185193
+}
