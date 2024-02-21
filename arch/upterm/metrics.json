@@ -1,0 +1,13 @@
+{
+  "name": "upterm",
+  "version": "0.13.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199497368,
+  "transmit": 228359,
+  "disk": 667427
+}
