@@ -1,0 +1,20 @@
+{
+  "name": "marco",
+  "version": "1.26.2-2",
+  "depends": [
+    "libcanberra",
+    "libgtop",
+    "mate-desktop",
+    "zenity",
+    "libxpresent",
+    "gettext",
+    "libxres",
+    "libsm"
+  ],
+  "makedepends": [
+    "itstool"
+  ],
+  "receive": 199550495,
+  "transmit": 257319,
+  "disk": 23414813
+}
