@@ -1,0 +1,11 @@
+{
+  "name": "lzlib",
+  "version": "1.14-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199652058,
+  "transmit": 398194,
+  "disk": 731529
+}
