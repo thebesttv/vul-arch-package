@@ -1,0 +1,14 @@
+{
+  "name": "socat",
+  "version": "1.7.4.4-1",
+  "depends": [
+    "glibc",
+    "readline",
+    "libreadline.so",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199676921,
+  "transmit": 400251,
+  "disk": 4205193
+}
