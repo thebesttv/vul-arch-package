@@ -1,0 +1,11 @@
+{
+  "name": "perl-devel-leak",
+  "version": "0.03-13",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199801150,
+  "transmit": 490162,
+  "disk": 114100
+}
