@@ -1,0 +1,28 @@
+{
+  "name": "puppet",
+  "version": "7.27.0-3",
+  "depends": [
+    "ruby",
+    "facter",
+    "ruby-semantic_puppet",
+    "ruby-augeas",
+    "ruby-shadow",
+    "ruby-concurrent",
+    "ruby-multi_json",
+    "ruby-puppet-resource_api",
+    "ruby-deep_merge",
+    "ruby-fast_gettext",
+    "hiera",
+    "ruby-locale",
+    "ruby-scanf",
+    "ruby-msgpack"
+  ],
+  "makedepends": [
+    "git",
+    "rake",
+    "ruby-rdoc"
+  ],
+  "receive": 208119021,
+  "transmit": 428364,
+  "disk": 31163075
+}
