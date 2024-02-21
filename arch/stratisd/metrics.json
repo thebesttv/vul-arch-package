@@ -1,0 +1,21 @@
+{
+  "name": "stratisd",
+  "version": "3.6.3-1",
+  "depends": [
+    "dbus",
+    "cryptsetup",
+    "util-linux-libs",
+    "clevis",
+    "systemd"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "cargo",
+    "rust",
+    "clang",
+    "dracut"
+  ],
+  "receive": 199641371,
+  "transmit": 411828,
+  "disk": 2637429
+}
