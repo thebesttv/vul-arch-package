@@ -1,0 +1,15 @@
+{
+  "name": "plasma-browser-integration",
+  "version": "5.27.10-1",
+  "depends": [
+    "purpose5",
+    "kfilemetadata5",
+    "plasma-workspace"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199732408,
+  "transmit": 403206,
+  "disk": 1863330
+}
