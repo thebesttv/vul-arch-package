@@ -1,0 +1,22 @@
+{
+  "name": "haskell-microaeson",
+  "version": "0.1.0.1-41",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-aeson",
+    "alex",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "receive": 199670784,
+  "transmit": 399394,
+  "disk": 275066
+}
