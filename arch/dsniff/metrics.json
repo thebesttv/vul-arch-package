@@ -1,0 +1,20 @@
+{
+  "name": "dsniff",
+  "version": "2.4b1-33",
+  "depends": [
+    "glibc",
+    "libpcap",
+    "openssl",
+    "libxmu",
+    "glib2",
+    "libnet",
+    "libnids",
+    "libtirpc"
+  ],
+  "makedepends": [
+    "rpcsvc-proto"
+  ],
+  "receive": 199741695,
+  "transmit": 466072,
+  "disk": 959060
+}
