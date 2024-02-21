@@ -1,0 +1,23 @@
+{
+  "name": "hoel",
+  "version": "1.4.29-1",
+  "depends": [
+    "glibc",
+    "jansson",
+    "liborcania.so",
+    "libyder.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "git",
+    "graphviz",
+    "mariadb-libs",
+    "ninja",
+    "postgresql-libs",
+    "sqlite"
+  ],
+  "receive": 199602961,
+  "transmit": 368334,
+  "disk": 1601689
+}
