@@ -1,0 +1,14 @@
+{
+  "name": "epic4",
+  "version": "2.10.10-6",
+  "depends": [
+    "openssl",
+    "ncurses",
+    "tcl",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199642500,
+  "transmit": 404923,
+  "disk": 3538295
+}
