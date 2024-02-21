@@ -1,0 +1,19 @@
+{
+  "name": "tinyprog",
+  "version": "1.0.23-4",
+  "depends": [
+    "python-pyserial",
+    "python-jsonmerge",
+    "python-intelhex",
+    "python-tqdm",
+    "python-six",
+    "python-packaging",
+    "python-pyusb"
+  ],
+  "makedepends": [
+    "python-setuptools-scm"
+  ],
+  "receive": 199523459,
+  "transmit": 280264,
+  "disk": 29923025
+}
