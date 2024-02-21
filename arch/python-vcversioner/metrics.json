@@ -1,0 +1,13 @@
+{
+  "name": "python-vcversioner",
+  "version": "2.16.0.0-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199684363,
+  "transmit": 440701,
+  "disk": 168160
+}
