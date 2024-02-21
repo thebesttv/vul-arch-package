@@ -1,0 +1,15 @@
+{
+  "name": "accounts-qml-module",
+  "version": "0.7-4",
+  "depends": [
+    "signond",
+    "libaccounts-qt",
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199566203,
+  "transmit": 285928,
+  "disk": 502951
+}
