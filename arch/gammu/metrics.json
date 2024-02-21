@@ -1,0 +1,23 @@
+{
+  "name": "gammu",
+  "version": "1.42.0-1",
+  "depends": [
+    "glib2",
+    "bluez-libs",
+    "curl",
+    "libdbi",
+    "mariadb-libs",
+    "postgresql-libs",
+    "libusb",
+    "libgudev"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "python",
+    "systemd"
+  ],
+  "receive": 201345777,
+  "transmit": 320591,
+  "disk": 15835337
+}
