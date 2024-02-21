@@ -1,0 +1,14 @@
+{
+  "name": "blobwars",
+  "version": "2.00-4",
+  "depends": [],
+  "makedepends": [
+    "sdl2_image",
+    "sdl2_mixer",
+    "sdl2_ttf",
+    "sdl2_net"
+  ],
+  "receive": 258785480,
+  "transmit": 1060786,
+  "disk": 67087033
+}
