@@ -1,0 +1,17 @@
+{
+  "name": "python-django-crispy-forms",
+  "version": "2.1-1",
+  "depends": [
+    "python",
+    "python-django"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199663338,
+  "transmit": 395527,
+  "disk": 1033702
+}
