@@ -1,0 +1,14 @@
+{
+  "name": "ripgrep",
+  "version": "14.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "pcre2"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199651835,
+  "transmit": 390028,
+  "disk": 3972781
+}
