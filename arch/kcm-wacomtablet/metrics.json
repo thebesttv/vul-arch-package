@@ -1,0 +1,33 @@
+{
+  "name": "kcm-wacomtablet",
+  "version": "1:3.2.0-7",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kdbusaddons5",
+    "kglobalaccel5",
+    "ki18n5",
+    "knotifications5",
+    "kwidgetsaddons5",
+    "kwindowsystem5",
+    "kxmlgui5",
+    "libwacom",
+    "libxcb",
+    "libxi",
+    "plasma-framework5",
+    "plasma-workspace",
+    "qt5-base",
+    "qt5-x11extras",
+    "xf86-input-wacom"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199519179,
+  "transmit": 273016,
+  "disk": 5519676
+}
