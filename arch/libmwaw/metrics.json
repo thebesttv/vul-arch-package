@@ -1,0 +1,12 @@
+{
+  "name": "libmwaw",
+  "version": "0.3.22-1",
+  "depends": [],
+  "makedepends": [
+    "librevenge",
+    "doxygen"
+  ],
+  "receive": 199558453,
+  "transmit": 296182,
+  "disk": 14167036
+}
