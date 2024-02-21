@@ -1,0 +1,15 @@
+{
+  "name": "libebml",
+  "version": "1.4.5-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199532660,
+  "transmit": 275683,
+  "disk": 2337379
+}
