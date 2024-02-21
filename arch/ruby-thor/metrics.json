@@ -1,0 +1,13 @@
+{
+  "name": "ruby-thor",
+  "version": "1.3.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199963800,
+  "transmit": 561469,
+  "disk": 751638
+}
