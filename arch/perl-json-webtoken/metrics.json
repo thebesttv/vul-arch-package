@@ -1,0 +1,14 @@
+{
+  "name": "perl-json-webtoken",
+  "version": "0.10-8",
+  "depends": [
+    "perl-json"
+  ],
+  "makedepends": [
+    "perl-module-build",
+    "perl-module-runtime"
+  ],
+  "receive": 199550905,
+  "transmit": 296683,
+  "disk": 225685
+}
