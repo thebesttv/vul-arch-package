@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-mmagic",
+  "version": "1.30-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199703312,
+  "transmit": 388274,
+  "disk": 206724
+}
