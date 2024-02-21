@@ -1,0 +1,12 @@
+{
+  "name": "lib32-procps-ng",
+  "version": "4.0.4-1",
+  "depends": [
+    "procps-ng",
+    "lib32-glibc"
+  ],
+  "makedepends": [],
+  "receive": 199631498,
+  "transmit": 408466,
+  "disk": 14289540
+}
