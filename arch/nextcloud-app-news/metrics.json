@@ -1,0 +1,12 @@
+{
+  "name": "nextcloud-app-news",
+  "version": "25.0.0.alpha4-1",
+  "depends": [],
+  "makedepends": [
+    "nextcloud",
+    "yq"
+  ],
+  "receive": 207707093,
+  "transmit": 427082,
+  "disk": 44318641
+}
