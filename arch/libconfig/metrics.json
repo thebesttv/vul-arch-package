@@ -1,0 +1,14 @@
+{
+  "name": "libconfig",
+  "version": "1.7.3-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "texinfo"
+  ],
+  "receive": 199546918,
+  "transmit": 281566,
+  "disk": 8220753
+}
