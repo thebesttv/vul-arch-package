@@ -1,0 +1,16 @@
+{
+  "name": "bower",
+  "version": "1.8.14-1",
+  "depends": [
+    "nodejs",
+    "semver",
+    "uglify-js"
+  ],
+  "makedepends": [
+    "npm",
+    "git"
+  ],
+  "receive": 199614136,
+  "transmit": 343463,
+  "disk": 4572525
+}
