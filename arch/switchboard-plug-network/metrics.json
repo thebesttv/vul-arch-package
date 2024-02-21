@@ -1,0 +1,23 @@
+{
+  "name": "switchboard-plug-network",
+  "version": "2.5.0-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libnm",
+    "libnma",
+    "libswitchboard-2.0.so",
+    "networkmanager",
+    "polkit"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199665746,
+  "transmit": 362546,
+  "disk": 12542182
+}
