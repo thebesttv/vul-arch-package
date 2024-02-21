@@ -1,0 +1,11 @@
+{
+  "name": "sfsexp",
+  "version": "1.4.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 201337636,
+  "transmit": 1344618,
+  "disk": 2506962
+}
