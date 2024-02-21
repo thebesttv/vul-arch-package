@@ -1,0 +1,24 @@
+{
+  "name": "wayvnc",
+  "version": "0.7.2-1",
+  "depends": [
+    "glibc",
+    "jansson",
+    "libaml.so",
+    "libdrm",
+    "libneatvnc.so",
+    "libpixman-1.so",
+    "libxkbcommon.so",
+    "wayland"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "ninja",
+    "pam",
+    "scdoc"
+  ],
+  "receive": 199531247,
+  "transmit": 323264,
+  "disk": 1606181
+}
