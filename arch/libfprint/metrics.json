@@ -1,0 +1,22 @@
+{
+  "name": "libfprint",
+  "version": "1.94.7-1",
+  "depends": [
+    "libgudev",
+    "libgusb",
+    "nss",
+    "pixman",
+    "systemd"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "python-cairo",
+    "python-gobject"
+  ],
+  "receive": 199519595,
+  "transmit": 285924,
+  "disk": 45268121
+}
