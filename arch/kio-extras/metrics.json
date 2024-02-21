@@ -1,0 +1,28 @@
+{
+  "name": "kio-extras",
+  "version": "23.08.5-1",
+  "depends": [
+    "kio5",
+    "kdnssd5",
+    "libssh",
+    "smbclient",
+    "libmtp",
+    "libkexiv2",
+    "phonon-qt5",
+    "syntax-highlighting5",
+    "libxcursor",
+    "kdsoap-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "gperf",
+    "taglib",
+    "libappimage",
+    "openexr",
+    "kactivities-stats5"
+  ],
+  "receive": 199809981,
+  "transmit": 392023,
+  "disk": 10323519
+}
