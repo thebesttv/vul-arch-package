@@ -1,0 +1,13 @@
+{
+  "name": "gperftools",
+  "version": "2.15-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libunwind"
+  ],
+  "makedepends": [],
+  "receive": 199537303,
+  "transmit": 295150,
+  "disk": 8121835
+}
