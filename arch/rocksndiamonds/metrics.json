@@ -1,0 +1,14 @@
+{
+  "name": "rocksndiamonds",
+  "version": "4.3.7.1-1",
+  "depends": [
+    "sdl2",
+    "sdl2_image",
+    "sdl2_mixer",
+    "sdl2_net"
+  ],
+  "makedepends": [],
+  "receive": 199660796,
+  "transmit": 369161,
+  "disk": 18291804
+}
