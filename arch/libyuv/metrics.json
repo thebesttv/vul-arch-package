@@ -1,0 +1,15 @@
+{
+  "name": "libyuv",
+  "version": "r2426+464c51a0-1",
+  "depends": [
+    "gcc-libs",
+    "libjpeg"
+  ],
+  "makedepends": [
+    "cmake",
+    "git"
+  ],
+  "receive": 213718208,
+  "transmit": 432022,
+  "disk": 57881002
+}
