@@ -1,0 +1,12 @@
+{
+  "name": "perl-template-toolkit",
+  "version": "3.101-2",
+  "depends": [
+    "perl-appconfig",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199534922,
+  "transmit": 308967,
+  "disk": 2719841
+}
