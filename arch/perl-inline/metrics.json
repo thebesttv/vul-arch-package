@@ -1,0 +1,12 @@
+{
+  "name": "perl-inline",
+  "version": "0.86-1",
+  "depends": [
+    "perl>=5.10.0",
+    "perl-parse-recdescent>=1.8"
+  ],
+  "makedepends": [],
+  "receive": 199552814,
+  "transmit": 318002,
+  "disk": 541507
+}
