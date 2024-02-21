@@ -1,0 +1,29 @@
+{
+  "name": "plank",
+  "version": "0.11.89-4",
+  "depends": [
+    "atk",
+    "bamf",
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gnome-menus",
+    "gtk3",
+    "libgee",
+    "libwnck3",
+    "libx11",
+    "libxfixes",
+    "libxi",
+    "pango"
+  ],
+  "makedepends": [
+    "git",
+    "gnome-common",
+    "intltool",
+    "vala"
+  ],
+  "receive": 199588499,
+  "transmit": 352372,
+  "disk": 13861210
+}
