@@ -1,0 +1,19 @@
+{
+  "name": "pyqt6-webengine",
+  "version": "6.6.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-pyqt6",
+    "qt6-base",
+    "qt6-webengine"
+  ],
+  "makedepends": [
+    "pyqt-builder",
+    "sip"
+  ],
+  "receive": 199532658,
+  "transmit": 294948,
+  "disk": 289527
+}
