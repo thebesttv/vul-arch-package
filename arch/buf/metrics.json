@@ -1,0 +1,14 @@
+{
+  "name": "buf",
+  "version": "1.28.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 304046852,
+  "transmit": 385430,
+  "disk": 119535741
+}
