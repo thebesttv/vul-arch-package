@@ -1,0 +1,23 @@
+{
+  "name": "opentimelineio",
+  "version": "0.15-4",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-aaf2"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "imath",
+    "pybind11",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 470211086,
+  "transmit": 496306,
+  "disk": 296801334
+}
