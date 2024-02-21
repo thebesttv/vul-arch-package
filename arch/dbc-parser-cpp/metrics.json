@@ -1,0 +1,12 @@
+{
+  "name": "dbc-parser-cpp",
+  "version": "0.2.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "fast_float"
+  ],
+  "receive": 199494813,
+  "transmit": 245279,
+  "disk": 255083
+}
