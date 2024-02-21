@@ -1,0 +1,14 @@
+{
+  "name": "timezonemap",
+  "version": "0.4.5.2-1",
+  "depends": [
+    "gtk3",
+    "libsoup"
+  ],
+  "makedepends": [
+    "gobject-introspection"
+  ],
+  "receive": 199696273,
+  "transmit": 419301,
+  "disk": 8888976
+}
