@@ -1,0 +1,16 @@
+{
+  "name": "python-vobject",
+  "version": "0.9.6.1-11",
+  "depends": [
+    "python-dateutil"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199612538,
+  "transmit": 314506,
+  "disk": 405295
+}
