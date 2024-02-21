@@ -1,0 +1,27 @@
+{
+  "name": "intel-gpu-tools",
+  "version": "1.27-2",
+  "depends": [
+    "libdrm",
+    "libpciaccess",
+    "cairo",
+    "python",
+    "xorg-xrandr",
+    "libprocps",
+    "kmod",
+    "libxv",
+    "libunwind",
+    "peg",
+    "systemd"
+  ],
+  "makedepends": [
+    "swig",
+    "gtk-doc",
+    "xorg-util-macros",
+    "xorgproto",
+    "meson"
+  ],
+  "receive": 202048917,
+  "transmit": 444054,
+  "disk": 54522990
+}
