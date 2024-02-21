@@ -1,0 +1,22 @@
+{
+  "name": "python-domdf-python-tools",
+  "version": "3.8.0-1",
+  "depends": [
+    "python",
+    "python-natsort",
+    "python-typing_extensions",
+    "python-pandas",
+    "python-importlib-metadata",
+    "python-importlib_resources"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199816717,
+  "transmit": 489321,
+  "disk": 9684361
+}
