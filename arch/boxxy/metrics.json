@@ -1,0 +1,13 @@
+{
+  "name": "boxxy",
+  "version": "0.8.4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199700941,
+  "transmit": 408627,
+  "disk": 701455
+}
