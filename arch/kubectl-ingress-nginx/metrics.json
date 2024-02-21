@@ -1,0 +1,14 @@
+{
+  "name": "kubectl-ingress-nginx",
+  "version": "1.0.4-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 207191874,
+  "transmit": 552757,
+  "disk": 53938319
+}
