@@ -1,0 +1,16 @@
+{
+  "name": "ruby-molinillo",
+  "version": "0.8.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-bundler",
+    "ruby-rdoc",
+    "git"
+  ],
+  "receive": 199658454,
+  "transmit": 419363,
+  "disk": 6185045
+}
