@@ -1,0 +1,13 @@
+{
+  "name": "python-notify2",
+  "version": "0.3.1-8",
+  "depends": [
+    "python-dbus"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199655565,
+  "transmit": 399960,
+  "disk": 170104
+}
