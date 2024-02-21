@@ -1,0 +1,14 @@
+{
+  "name": "libcutl",
+  "version": "1.11.0-3",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "build2"
+  ],
+  "receive": 199690534,
+  "transmit": 422366,
+  "disk": 385418
+}
