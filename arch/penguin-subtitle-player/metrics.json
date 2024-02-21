@@ -1,0 +1,14 @@
+{
+  "name": "penguin-subtitle-player",
+  "version": "1.5.0-3",
+  "depends": [
+    "hicolor-icon-theme",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199534016,
+  "transmit": 295311,
+  "disk": 8656484
+}
