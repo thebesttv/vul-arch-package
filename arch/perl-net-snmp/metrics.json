@@ -1,0 +1,14 @@
+{
+  "name": "perl-net-snmp",
+  "version": "6.0.1-11",
+  "depends": [
+    "perl",
+    "perl-digest-hmac",
+    "perl-digest-sha1",
+    "perl-crypt-des"
+  ],
+  "makedepends": [],
+  "receive": 199635696,
+  "transmit": 376656,
+  "disk": 656280
+}
