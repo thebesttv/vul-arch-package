@@ -1,0 +1,11 @@
+{
+  "name": "glm",
+  "version": "1.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199645485,
+  "transmit": 363673,
+  "disk": 26014794
+}
