@@ -1,0 +1,11 @@
+{
+  "name": "perl-font-afm",
+  "version": "1.20-12",
+  "depends": [
+    "perl>=5.5.0"
+  ],
+  "makedepends": [],
+  "receive": 199717176,
+  "transmit": 407775,
+  "disk": 170601
+}
