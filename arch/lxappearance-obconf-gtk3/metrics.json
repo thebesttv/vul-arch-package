@@ -1,0 +1,15 @@
+{
+  "name": "lxappearance-obconf-gtk3",
+  "version": "0.2.3-3",
+  "depends": [
+    "lxappearance-gtk3",
+    "openbox",
+    "libobrender.so"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199817471,
+  "transmit": 637198,
+  "disk": 2264411
+}
