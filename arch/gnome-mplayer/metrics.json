@@ -1,0 +1,20 @@
+{
+  "name": "gnome-mplayer",
+  "version": "1.0.9-8",
+  "depends": [
+    "dbus-glib",
+    "libgda",
+    "libgpod",
+    "libnotify",
+    "gmtk"
+  ],
+  "makedepends": [
+    "caja",
+    "nautilus",
+    "nemo",
+    "python"
+  ],
+  "receive": 199667339,
+  "transmit": 424070,
+  "disk": 4620117
+}
