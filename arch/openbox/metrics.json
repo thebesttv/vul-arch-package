@@ -1,0 +1,21 @@
+{
+  "name": "openbox",
+  "version": "3.6.1-10",
+  "depends": [
+    "startup-notification",
+    "libxml2",
+    "libxinerama",
+    "libxrandr",
+    "libxcursor",
+    "pango",
+    "imlib2",
+    "librsvg",
+    "libsm"
+  ],
+  "makedepends": [
+    "python-xdg"
+  ],
+  "receive": 199605333,
+  "transmit": 336063,
+  "disk": 6173219
+}
