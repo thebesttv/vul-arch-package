@@ -1,0 +1,12 @@
+{
+  "name": "libotf",
+  "version": "0.9.16-4",
+  "depends": [
+    "libxaw",
+    "freetype2"
+  ],
+  "makedepends": [],
+  "receive": 199972709,
+  "transmit": 581345,
+  "disk": 2298943
+}
