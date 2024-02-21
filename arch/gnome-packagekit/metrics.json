@@ -1,0 +1,20 @@
+{
+  "name": "gnome-packagekit",
+  "version": "43.0-1",
+  "depends": [
+    "desktop-file-utils",
+    "gtk3",
+    "libnotify",
+    "packagekit"
+  ],
+  "makedepends": [
+    "meson",
+    "intltool",
+    "itstool",
+    "docbook-xsl",
+    "libcanberra"
+  ],
+  "receive": 199643540,
+  "transmit": 418055,
+  "disk": 14798437
+}
