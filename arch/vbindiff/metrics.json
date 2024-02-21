@@ -1,0 +1,12 @@
+{
+  "name": "vbindiff",
+  "version": "3.0_beta5-2",
+  "depends": [
+    "gcc-libs",
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199609685,
+  "transmit": 382380,
+  "disk": 729099
+}
