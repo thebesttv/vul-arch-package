@@ -1,0 +1,13 @@
+{
+  "name": "orbiton",
+  "version": "2.65.8-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "go",
+    "vte3"
+  ],
+  "receive": 199687809,
+  "transmit": 367295,
+  "disk": 37437218
+}
