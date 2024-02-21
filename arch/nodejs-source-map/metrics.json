@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-source-map",
+  "version": "0.7.4-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199669274,
+  "transmit": 416422,
+  "disk": 150089
+}
