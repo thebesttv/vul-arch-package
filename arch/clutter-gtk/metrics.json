@@ -1,0 +1,16 @@
+{
+  "name": "clutter-gtk",
+  "version": "1.8.4-3",
+  "depends": [
+    "clutter"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "gtk-doc",
+    "git",
+    "meson"
+  ],
+  "receive": 199679306,
+  "transmit": 384065,
+  "disk": 1207398
+}
