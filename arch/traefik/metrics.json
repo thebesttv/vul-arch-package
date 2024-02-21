@@ -1,0 +1,15 @@
+{
+  "name": "traefik",
+  "version": "2.10.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "go-bindata-hashicorp",
+    "patch"
+  ],
+  "receive": 199539877,
+  "transmit": 277721,
+  "disk": 11926129
+}
