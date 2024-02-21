@@ -1,0 +1,13 @@
+{
+  "name": "perl-unicode-stringprep",
+  "version": "1.105-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build>=0.42"
+  ],
+  "receive": 199609782,
+  "transmit": 395938,
+  "disk": 324753
+}
