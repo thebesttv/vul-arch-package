@@ -1,0 +1,16 @@
+{
+  "name": "coin-or-mp",
+  "version": "1.8.4-6",
+  "depends": [
+    "coin-or-cbc",
+    "coin-or-cgl",
+    "coin-or-clp",
+    "coin-or-coinutils",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 210701913,
+  "transmit": 533281,
+  "disk": 52477000
+}
