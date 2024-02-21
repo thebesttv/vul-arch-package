@@ -1,0 +1,17 @@
+{
+  "name": "python-y-py",
+  "version": "0.6.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-maturin"
+  ],
+  "receive": 199527497,
+  "transmit": 276205,
+  "disk": 396887
+}
