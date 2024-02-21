@@ -1,0 +1,13 @@
+{
+  "name": "lib32-sdl_net",
+  "version": "1.2.8-3",
+  "depends": [
+    "lib32-sdl"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 199558386,
+  "transmit": 354872,
+  "disk": 2002666
+}
