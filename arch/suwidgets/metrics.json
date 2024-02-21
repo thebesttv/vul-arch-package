@@ -1,0 +1,14 @@
+{
+  "name": "suwidgets",
+  "version": "0.3.0-1",
+  "depends": [
+    "qt5-base",
+    "sigutils"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199650829,
+  "transmit": 341530,
+  "disk": 865083
+}
