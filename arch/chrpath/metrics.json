@@ -1,0 +1,13 @@
+{
+  "name": "chrpath",
+  "version": "0.17-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199503655,
+  "transmit": 310423,
+  "disk": 619565
+}
