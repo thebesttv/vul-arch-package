@@ -1,0 +1,14 @@
+{
+  "name": "catimg",
+  "version": "2.7.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199606193,
+  "transmit": 383641,
+  "disk": 561141
+}
