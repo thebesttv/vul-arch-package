@@ -1,0 +1,17 @@
+{
+  "name": "worker-build",
+  "version": "0.0.10-1",
+  "depends": [
+    "esbuild",
+    "gcc-libs",
+    "glibc",
+    "wasm-bindgen",
+    "wasm-pack"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199512296,
+  "transmit": 244017,
+  "disk": 161152
+}
