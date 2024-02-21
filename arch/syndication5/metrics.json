@@ -1,0 +1,16 @@
+{
+  "name": "syndication5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kcodecs5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199512486,
+  "transmit": 251605,
+  "disk": 5805288
+}
