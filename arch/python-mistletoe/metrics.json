@@ -1,0 +1,17 @@
+{
+  "name": "python-mistletoe",
+  "version": "1.3.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199545822,
+  "transmit": 301970,
+  "disk": 2167516
+}
