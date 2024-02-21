@@ -1,0 +1,21 @@
+{
+  "name": "kalarm",
+  "version": "23.08.5-1",
+  "depends": [
+    "phonon-qt5",
+    "kmime",
+    "kidletime5",
+    "knotifyconfig5",
+    "pimcommon",
+    "kmailtransport",
+    "kholidays5",
+    "kcalutils"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199629362,
+  "transmit": 256199,
+  "disk": 30107483
+}
