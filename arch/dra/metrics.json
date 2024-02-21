@@ -1,0 +1,15 @@
+{
+  "name": "dra",
+  "version": "0.5.2-1",
+  "depends": [
+    "xz",
+    "zlib",
+    "bzip2"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199947013,
+  "transmit": 494367,
+  "disk": 1435919
+}
