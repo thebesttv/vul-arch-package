@@ -1,0 +1,23 @@
+{
+  "name": "kproperty",
+  "version": "3.2.0-4",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig5",
+    "kcoreaddons5",
+    "kguiaddons5",
+    "kwidgetsaddons5",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "python",
+    "qt5-doc",
+    "qt5-tools"
+  ],
+  "receive": 199587823,
+  "transmit": 392174,
+  "disk": 1397958
+}
