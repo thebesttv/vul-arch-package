@@ -1,0 +1,11 @@
+{
+  "name": "ruby-mutex_m",
+  "version": "0.1.1-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 200438511,
+  "transmit": 1111715,
+  "disk": 124735
+}
