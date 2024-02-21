@@ -1,0 +1,11 @@
+{
+  "name": "unibilium",
+  "version": "2.1.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199514222,
+  "transmit": 282094,
+  "disk": 944958
+}
