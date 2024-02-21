@@ -1,0 +1,11 @@
+{
+  "name": "bwm-ng",
+  "version": "0.6.3-2",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 200089845,
+  "transmit": 654295,
+  "disk": 777773
+}
