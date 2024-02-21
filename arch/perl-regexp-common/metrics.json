@@ -1,0 +1,11 @@
+{
+  "name": "perl-regexp-common",
+  "version": "2017060201-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199602111,
+  "transmit": 361087,
+  "disk": 1378673
+}
