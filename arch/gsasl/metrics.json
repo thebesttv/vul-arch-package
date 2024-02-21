@@ -1,0 +1,14 @@
+{
+  "name": "gsasl",
+  "version": "2.2.1-1",
+  "depends": [
+    "gnutls",
+    "libidn",
+    "krb5",
+    "libgcrypt"
+  ],
+  "makedepends": [],
+  "receive": 199662904,
+  "transmit": 403620,
+  "disk": 19344860
+}
