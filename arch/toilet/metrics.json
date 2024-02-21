@@ -1,0 +1,13 @@
+{
+  "name": "toilet",
+  "version": "0.3.r155.3eb9d58-2",
+  "depends": [
+    "libcaca"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200474224,
+  "transmit": 1033126,
+  "disk": 4122142
+}
