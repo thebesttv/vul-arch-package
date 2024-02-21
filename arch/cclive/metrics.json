@@ -1,0 +1,17 @@
+{
+  "name": "cclive",
+  "version": "0.9.3-30",
+  "depends": [
+    "boost-libs",
+    "pcre",
+    "curl",
+    "libquvi",
+    "glibmm"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 199993579,
+  "transmit": 634524,
+  "disk": 2544168
+}
