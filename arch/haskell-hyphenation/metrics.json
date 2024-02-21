@@ -1,0 +1,16 @@
+{
+  "name": "haskell-hyphenation",
+  "version": "0.8.2-152",
+  "depends": [
+    "ghc-libs",
+    "haskell-file-embed",
+    "haskell-unordered-containers",
+    "haskell-zlib"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199708211,
+  "transmit": 401128,
+  "disk": 2398759
+}
