@@ -1,0 +1,14 @@
+{
+  "name": "python-rapidjson",
+  "version": "1.14-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "rapidjson"
+  ],
+  "receive": 199560826,
+  "transmit": 342380,
+  "disk": 1567412
+}
