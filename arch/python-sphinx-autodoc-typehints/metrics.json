@@ -1,0 +1,18 @@
+{
+  "name": "python-sphinx-autodoc-typehints",
+  "version": "2.0.0-2",
+  "depends": [
+    "python",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-hatch-vcs",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199517031,
+  "transmit": 264737,
+  "disk": 1478149
+}
