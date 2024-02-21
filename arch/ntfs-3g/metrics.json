@@ -1,0 +1,12 @@
+{
+  "name": "ntfs-3g",
+  "version": "2022.10.3-1",
+  "depends": [
+    "util-linux",
+    "fuse2"
+  ],
+  "makedepends": [],
+  "receive": 201006698,
+  "transmit": 332625,
+  "disk": 6983352
+}
