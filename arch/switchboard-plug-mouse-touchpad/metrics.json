@@ -1,0 +1,19 @@
+{
+  "name": "switchboard-plug-mouse-touchpad",
+  "version": "7.0.0-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libswitchboard-2.0.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199525383,
+  "transmit": 274326,
+  "disk": 12887938
+}
