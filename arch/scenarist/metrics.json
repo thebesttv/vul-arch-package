@@ -1,0 +1,16 @@
+{
+  "name": "scenarist",
+  "version": "0.7.2.rc15-1",
+  "depends": [
+    "hunspell",
+    "qt5-multimedia",
+    "qt5-svg",
+    "qt5-webengine"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 318395777,
+  "transmit": 1011442,
+  "disk": 341255219
+}
