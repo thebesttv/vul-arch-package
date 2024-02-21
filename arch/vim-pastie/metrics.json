@@ -1,0 +1,12 @@
+{
+  "name": "vim-pastie",
+  "version": "2.0-12",
+  "depends": [
+    "ruby",
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199885900,
+  "transmit": 491858,
+  "disk": 135831
+}
