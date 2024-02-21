@@ -1,0 +1,16 @@
+{
+  "name": "python-click",
+  "version": "8.1.7-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199512516,
+  "transmit": 282388,
+  "disk": 1491925
+}
