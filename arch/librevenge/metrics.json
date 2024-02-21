@@ -1,0 +1,16 @@
+{
+  "name": "librevenge",
+  "version": "0.0.5-2",
+  "depends": [
+    "zlib",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "boost",
+    "doxygen",
+    "cppunit"
+  ],
+  "receive": 199532220,
+  "transmit": 264043,
+  "disk": 3732812
+}
