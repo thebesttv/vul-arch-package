@@ -1,0 +1,14 @@
+{
+  "name": "ruby-immutable-struct",
+  "version": "2.4.1-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "rubygems",
+    "ruby-rdoc"
+  ],
+  "receive": 199670931,
+  "transmit": 384126,
+  "disk": 135480
+}
