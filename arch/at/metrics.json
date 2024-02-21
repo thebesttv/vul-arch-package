@@ -1,0 +1,16 @@
+{
+  "name": "at",
+  "version": "3.2.5-2",
+  "depends": [
+    "pam",
+    "flex"
+  ],
+  "makedepends": [
+    "smtp-forwarder",
+    "git",
+    "systemd"
+  ],
+  "receive": 199775339,
+  "transmit": 379699,
+  "disk": 747619
+}
