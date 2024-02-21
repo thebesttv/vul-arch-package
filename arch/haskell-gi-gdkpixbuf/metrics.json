@@ -1,0 +1,22 @@
+{
+  "name": "haskell-gi-gdkpixbuf",
+  "version": "2.0.31-16",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-gio",
+    "haskell-gi-glib",
+    "haskell-gi-gmodule",
+    "haskell-gi-gobject",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "gdk-pixbuf2"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199641742,
+  "transmit": 370651,
+  "disk": 298668
+}
