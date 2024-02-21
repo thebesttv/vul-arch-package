@@ -1,0 +1,56 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.17 s (1000.2 files/s 319712.3 lines/s)"
+517,C++,28518,30019,160895
+682,C/C++ Header,33357,45194,113725
+88,Standard ML,0,0,51187
+73,HTML,3233,189,35398
+32,C,9383,5243,30749
+80,JavaScript,5179,8225,28298
+9,VHDL,1221,1352,15783
+131,Bourne Again Shell,2415,2487,10875
+32,Text,563,0,7854
+47,Java,1124,1080,5900
+93,Markdown,2169,12,4507
+19,Objective-C++,895,912,4377
+76,XML,94,116,4092
+11,SVG,9,9,3523
+29,Bourne Shell,419,494,2877
+14,Python,969,1689,2846
+50,make,851,429,2622
+47,CMake,356,324,1830
+7,C#,297,256,1642
+11,TeX,295,323,1596
+4,CSON,3,0,1080
+2,Ruby,114,139,953
+12,Objective-C,308,103,943
+5,D,267,264,894
+4,Tcl/Tk,118,173,650
+10,CSS,120,48,643
+13,Julia,185,305,640
+5,Rust,196,228,604
+1,yacc,162,35,580
+7,YAML,80,28,570
+9,JSON,0,0,400
+4,reStructuredText,64,11,381
+6,DOS Batch,74,4,352
+1,LLVM IR,44,1,251
+1,Lisp,76,88,201
+1,lex,54,3,194
+1,MXML,31,36,162
+4,Gradle,14,4,130
+2,WebAssembly,24,0,114
+2,awk,22,7,110
+1,R,28,43,82
+8,OpenSCAD,16,0,64
+1,Windows Resource File,18,23,58
+2,Visual Studio Solution,2,2,47
+1,vim script,9,33,38
+4,SWIG,15,29,34
+2,ProGuard,14,24,27
+5,Properties,4,25,19
+1,MATLAB,8,0,17
+1,Dockerfile,4,0,14
+1,MSBuild script,4,0,12
+1,TOML,3,0,11
+1,INI,0,0,3
+1,Expect,0,0,2
+2172,SUM,93428,100009,500856
