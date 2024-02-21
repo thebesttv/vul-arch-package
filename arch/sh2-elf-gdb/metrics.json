@@ -1,0 +1,21 @@
+{
+  "name": "sh2-elf-gdb",
+  "version": "12.1-4",
+  "depends": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile",
+    "gdb-common",
+    "mpfr",
+    "libelf",
+    "source-highlight"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 222565833,
+  "transmit": 702813,
+  "disk": 226140394
+}
