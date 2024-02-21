@@ -1,0 +1,22 @@
+{
+  "name": "wallutils",
+  "version": "5.12.7-1",
+  "depends": [
+    "libheif",
+    "libx11",
+    "libxpm",
+    "wayland"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "libxcursor",
+    "libxmu",
+    "upx",
+    "xbitmaps",
+    "xorgproto"
+  ],
+  "receive": 199685167,
+  "transmit": 435233,
+  "disk": 20871503
+}
