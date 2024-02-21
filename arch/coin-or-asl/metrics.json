@@ -1,0 +1,11 @@
+{
+  "name": "coin-or-asl",
+  "version": "2.0.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199787042,
+  "transmit": 447637,
+  "disk": 2985744
+}
