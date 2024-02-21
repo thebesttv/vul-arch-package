@@ -1,0 +1,14 @@
+{
+  "name": "glider",
+  "version": "0.16.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199695411,
+  "transmit": 402138,
+  "disk": 1046212
+}
