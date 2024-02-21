@@ -1,0 +1,13 @@
+{
+  "name": "python-fuzzywuzzy",
+  "version": "0.18.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199590821,
+  "transmit": 351115,
+  "disk": 767359
+}
