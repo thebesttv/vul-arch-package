@@ -1,0 +1,11 @@
+{
+  "name": "libnetfilter_cthelper",
+  "version": "1.0.1-1",
+  "depends": [
+    "libmnl"
+  ],
+  "makedepends": [],
+  "receive": 200007308,
+  "transmit": 672985,
+  "disk": 1948392
+}
