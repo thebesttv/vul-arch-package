@@ -1,0 +1,13 @@
+{
+  "name": "trayer",
+  "version": "1.1.8-3",
+  "depends": [
+    "gtk2"
+  ],
+  "makedepends": [
+    "libxmu"
+  ],
+  "receive": 199596968,
+  "transmit": 366669,
+  "disk": 236529
+}
