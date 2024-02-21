@@ -1,0 +1,17 @@
+{
+  "name": "haskell-resource-pool",
+  "version": "0.2.3.2-292",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-monad-control",
+    "haskell-transformers-base",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199920105,
+  "transmit": 442023,
+  "disk": 332229
+}
