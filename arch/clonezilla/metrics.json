@@ -1,0 +1,31 @@
+{
+  "name": "clonezilla",
+  "version": "3.35.2-5",
+  "depends": [
+    "drbl",
+    "partclone",
+    "ntfs-3g",
+    "partimage",
+    "pigz",
+    "sshfs",
+    "parted",
+    "gptfdisk",
+    "dosfstools",
+    "gzip",
+    "bzip2",
+    "pbzip2",
+    "lbzip2",
+    "lrzip",
+    "xz",
+    "pixz",
+    "lzop",
+    "ecryptfs-utils",
+    "screen",
+    "perl",
+    "cifs-utils"
+  ],
+  "makedepends": [],
+  "receive": 200062744,
+  "transmit": 644658,
+  "disk": 4584561
+}
