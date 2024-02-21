@@ -1,0 +1,15 @@
+{
+  "name": "ruby-method_source",
+  "version": "1.0.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-bundler",
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 199608082,
+  "transmit": 387090,
+  "disk": 152457
+}
