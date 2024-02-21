@@ -1,0 +1,13 @@
+{
+  "name": "kio-admin",
+  "version": "23.08.5-1",
+  "depends": [
+    "kio5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199734334,
+  "transmit": 429184,
+  "disk": 506971
+}
