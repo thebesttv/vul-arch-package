@@ -1,0 +1,32 @@
+{
+  "name": "haskell-persistent-mysql",
+  "version": "2.13.1.0-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-blaze-builder",
+    "haskell-conduit",
+    "haskell-monad-logger",
+    "haskell-mysql",
+    "haskell-mysql-simple",
+    "haskell-persistent",
+    "haskell-resource-pool",
+    "haskell-resourcet",
+    "haskell-unliftio-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-fast-logger",
+    "haskell-hspec",
+    "haskell-http-api-data",
+    "haskell-path-pieces",
+    "haskell-persistent-qq",
+    "haskell-persistent-test",
+    "haskell-quickcheck-instances"
+  ],
+  "receive": 199942888,
+  "transmit": 409778,
+  "disk": 548366
+}
