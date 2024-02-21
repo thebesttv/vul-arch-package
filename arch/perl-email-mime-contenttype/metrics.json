@@ -1,0 +1,12 @@
+{
+  "name": "perl-email-mime-contenttype",
+  "version": "1.028-1",
+  "depends": [
+    "perl",
+    "perl-text-unidecode"
+  ],
+  "makedepends": [],
+  "receive": 199631972,
+  "transmit": 400437,
+  "disk": 260676
+}
