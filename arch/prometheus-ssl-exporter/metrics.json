@@ -1,0 +1,14 @@
+{
+  "name": "prometheus-ssl-exporter",
+  "version": "2.4.2-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199557405,
+  "transmit": 314010,
+  "disk": 8786127
+}
