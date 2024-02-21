@@ -1,0 +1,16 @@
+{
+  "name": "python-pydyf",
+  "version": "0.8.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199547691,
+  "transmit": 315938,
+  "disk": 516789
+}
