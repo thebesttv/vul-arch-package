@@ -1,0 +1,11 @@
+{
+  "name": "python-pysocks",
+  "version": "1.7.1-8",
+  "depends": [],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199602483,
+  "transmit": 366535,
+  "disk": 1150427
+}
