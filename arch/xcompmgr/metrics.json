@@ -1,0 +1,14 @@
+{
+  "name": "xcompmgr",
+  "version": "1.1.9-1",
+  "depends": [
+    "libxcomposite",
+    "libxdamage",
+    "libxrender",
+    "libxext"
+  ],
+  "makedepends": [],
+  "receive": 199664222,
+  "transmit": 410913,
+  "disk": 1025260
+}
