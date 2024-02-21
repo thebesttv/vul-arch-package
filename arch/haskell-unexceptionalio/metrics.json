@@ -1,0 +1,13 @@
+{
+  "name": "haskell-unexceptionalio",
+  "version": "0.5.1-8",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199639338,
+  "transmit": 401052,
+  "disk": 135477
+}
