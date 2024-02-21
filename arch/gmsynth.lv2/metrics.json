@@ -1,0 +1,14 @@
+{
+  "name": "gmsynth.lv2",
+  "version": "0.6.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "fluidsynth",
+    "lv2"
+  ],
+  "receive": 199548831,
+  "transmit": 320448,
+  "disk": 62238654
+}
