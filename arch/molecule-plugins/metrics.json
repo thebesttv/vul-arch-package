@@ -1,0 +1,24 @@
+{
+  "name": "molecule-plugins",
+  "version": "23.5.0-1",
+  "depends": [
+    "molecule",
+    "python",
+    "python-boto3",
+    "python-cryptography",
+    "python-docker",
+    "python-packaging",
+    "python-requests",
+    "python-selinux"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199597633,
+  "transmit": 365028,
+  "disk": 922178
+}
