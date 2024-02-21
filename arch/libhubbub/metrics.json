@@ -1,0 +1,14 @@
+{
+  "name": "libhubbub",
+  "version": "0.3.8-1",
+  "depends": [
+    "libparserutils>=0.2.5"
+  ],
+  "makedepends": [
+    "gperf",
+    "netsurf-buildsystem"
+  ],
+  "receive": 199670124,
+  "transmit": 320998,
+  "disk": 10777271
+}
