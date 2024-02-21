@@ -1,0 +1,23 @@
+{
+  "name": "xandikos",
+  "version": "0.2.10-1",
+  "depends": [
+    "python-aiohttp",
+    "python-defusedxml",
+    "python-dulwich",
+    "python-icalendar",
+    "python-jinja",
+    "python-multidict",
+    "python-vobject"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199651622,
+  "transmit": 393144,
+  "disk": 4944489
+}
