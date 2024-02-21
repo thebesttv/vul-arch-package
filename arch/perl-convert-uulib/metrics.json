@@ -1,0 +1,13 @@
+{
+  "name": "perl-convert-uulib",
+  "version": "1.8-2",
+  "depends": [
+    "perl",
+    "perl-canary-stability",
+    "perl-common-sense"
+  ],
+  "makedepends": [],
+  "receive": 199533117,
+  "transmit": 246641,
+  "disk": 1213235
+}
