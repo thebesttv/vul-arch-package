@@ -1,0 +1,14 @@
+{
+  "name": "flatpak-kcm",
+  "version": "5.27.10-1",
+  "depends": [
+    "systemsettings",
+    "flatpak"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199534378,
+  "transmit": 298741,
+  "disk": 1300222
+}
