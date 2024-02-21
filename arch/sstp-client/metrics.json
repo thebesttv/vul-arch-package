@@ -1,0 +1,14 @@
+{
+  "name": "sstp-client",
+  "version": "1:1.0.19-1",
+  "depends": [
+    "libevent",
+    "openssl"
+  ],
+  "makedepends": [
+    "ppp"
+  ],
+  "receive": 199600172,
+  "transmit": 317710,
+  "disk": 2651018
+}
