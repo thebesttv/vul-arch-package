@@ -1,0 +1,14 @@
+{
+  "name": "onednn",
+  "version": "3.3.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 211557763,
+  "transmit": 485282,
+  "disk": 83434651
+}
