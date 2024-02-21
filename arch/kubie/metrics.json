@@ -1,0 +1,13 @@
+{
+  "name": "kubie",
+  "version": "0.23.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 200221389,
+  "transmit": 617742,
+  "disk": 320225
+}
