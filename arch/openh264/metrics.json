@@ -1,0 +1,13 @@
+{
+  "name": "openh264",
+  "version": "2.4.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "nasm"
+  ],
+  "receive": 238698971,
+  "transmit": 815312,
+  "disk": 139994794
+}
