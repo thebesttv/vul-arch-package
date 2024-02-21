@@ -1,0 +1,11 @@
+{
+  "name": "perl-carp-clan",
+  "version": "6.08-7",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199478524,
+  "transmit": 234061,
+  "disk": 135256
+}
