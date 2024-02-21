@@ -1,0 +1,16 @@
+{
+  "name": "ruby-locale",
+  "version": "2.1.3-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-bundler",
+    "ruby-yard"
+  ],
+  "receive": 199631727,
+  "transmit": 404833,
+  "disk": 494053
+}
