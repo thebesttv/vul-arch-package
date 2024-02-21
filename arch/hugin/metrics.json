@@ -1,0 +1,36 @@
+{
+  "name": "hugin",
+  "version": "2023.0.0-1",
+  "depends": [
+    "boost-libs",
+    "enblend-enfuse",
+    "exiv2",
+    "fftw",
+    "glew",
+    "glu",
+    "lapack",
+    "lcms2",
+    "lensfun",
+    "libjpeg",
+    "libpano13",
+    "libpng",
+    "libtiff",
+    "libxi",
+    "libxmu",
+    "openexr",
+    "python",
+    "sqlite",
+    "vigra",
+    "wxwidgets-gtk3"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "mesa",
+    "swig",
+    "tclap"
+  ],
+  "receive": 199585824,
+  "transmit": 280234,
+  "disk": 10593257
+}
