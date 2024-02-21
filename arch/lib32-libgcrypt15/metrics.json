@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libgcrypt15",
+  "version": "1.5.6-7",
+  "depends": [
+    "lib32-glibc",
+    "lib32-libgpg-error"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199692055,
+  "transmit": 369720,
+  "disk": 23129533
+}
