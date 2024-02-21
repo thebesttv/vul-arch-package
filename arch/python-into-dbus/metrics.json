@@ -1,0 +1,16 @@
+{
+  "name": "python-into-dbus",
+  "version": "0.8.2-1",
+  "depends": [
+    "dbus-python",
+    "python-dbus-signature-pyparsing"
+  ],
+  "makedepends": [
+    "git",
+    "python-pylint",
+    "python-setuptools"
+  ],
+  "receive": 199540815,
+  "transmit": 269824,
+  "disk": 197962
+}
