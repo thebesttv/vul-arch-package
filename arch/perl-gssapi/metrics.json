@@ -1,0 +1,11 @@
+{
+  "name": "perl-gssapi",
+  "version": "0.28-20",
+  "depends": [
+    "krb5"
+  ],
+  "makedepends": [],
+  "receive": 199566323,
+  "transmit": 313006,
+  "disk": 453904
+}
