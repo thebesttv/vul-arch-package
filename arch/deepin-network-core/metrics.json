@@ -1,0 +1,24 @@
+{
+  "name": "deepin-network-core",
+  "version": "2.0.15-3",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "deepin-control-center",
+    "glibc",
+    "gcc-libs",
+    "gsettings-qt",
+    "networkmanager-qt5",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199912512,
+  "transmit": 608836,
+  "disk": 5863128
+}
