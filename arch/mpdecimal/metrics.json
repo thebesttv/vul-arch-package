@@ -1,0 +1,11 @@
+{
+  "name": "mpdecimal",
+  "version": "2.5.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199608380,
+  "transmit": 361281,
+  "disk": 12718670
+}
