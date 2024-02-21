@@ -1,0 +1,15 @@
+{
+  "name": "qt5-virtualkeyboard",
+  "version": "5.15.12-1",
+  "depends": [
+    "qt5-declarative",
+    "qt5-svg",
+    "hunspell"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199578585,
+  "transmit": 309750,
+  "disk": 52028638
+}
