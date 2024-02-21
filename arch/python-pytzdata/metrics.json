@@ -1,0 +1,17 @@
+{
+  "name": "python-pytzdata",
+  "version": "2020.1-8",
+  "depends": [
+    "python",
+    "python-cleo"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 199553165,
+  "transmit": 258627,
+  "disk": 1337461
+}
