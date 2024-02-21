@@ -1,0 +1,27 @@
+{
+  "name": "dhall-yaml",
+  "version": "1.2.11-155",
+  "depends": [
+    "ghc-libs",
+    "haskell-hsyaml",
+    "haskell-hsyaml-aeson",
+    "haskell-aeson",
+    "haskell-ansi-terminal",
+    "dhall",
+    "dhall-json",
+    "haskell-optparse-applicative",
+    "haskell-prettyprinter",
+    "haskell-prettyprinter-ansi-terminal",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-expected-failure",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199749542,
+  "transmit": 452848,
+  "disk": 670278
+}
