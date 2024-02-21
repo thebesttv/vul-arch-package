@@ -1,0 +1,14 @@
+{
+  "name": "stylus",
+  "version": "0.60.0-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm",
+    "git"
+  ],
+  "receive": 199640092,
+  "transmit": 410884,
+  "disk": 186231
+}
