@@ -1,0 +1,13 @@
+{
+  "name": "mpop",
+  "version": "1.4.18-1",
+  "depends": [
+    "gnutls",
+    "libidn",
+    "libsecret"
+  ],
+  "makedepends": [],
+  "receive": 199670754,
+  "transmit": 368377,
+  "disk": 3186604
+}
