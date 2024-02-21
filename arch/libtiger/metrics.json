@@ -1,0 +1,14 @@
+{
+  "name": "libtiger",
+  "version": "0.3.4-7",
+  "depends": [
+    "pango",
+    "libkate"
+  ],
+  "makedepends": [
+    "pkg-config"
+  ],
+  "receive": 199513886,
+  "transmit": 254364,
+  "disk": 2139215
+}
