@@ -1,0 +1,11 @@
+{
+  "name": "linux-api-headers",
+  "version": "6.7-1",
+  "depends": [],
+  "makedepends": [
+    "rsync"
+  ],
+  "receive": 341691973,
+  "transmit": 691471,
+  "disk": 1551574806
+}
