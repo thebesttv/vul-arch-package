@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-mocktime",
+  "version": "0.17-7",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200042823,
+  "transmit": 757612,
+  "disk": 131971
+}
