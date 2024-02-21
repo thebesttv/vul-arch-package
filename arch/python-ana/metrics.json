@@ -1,0 +1,17 @@
+{
+  "name": "python-ana",
+  "version": "0.06-2",
+  "depends": [
+    "python",
+    "python-future"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199514832,
+  "transmit": 268542,
+  "disk": 114577
+}
