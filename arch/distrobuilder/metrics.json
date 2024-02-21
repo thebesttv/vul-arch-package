@@ -1,0 +1,22 @@
+{
+  "name": "distrobuilder",
+  "version": "3.0-1",
+  "depends": [
+    "rsync",
+    "squashfs-tools",
+    "gnupg",
+    "debootstrap",
+    "dosfstools",
+    "gptfdisk",
+    "qemu-img",
+    "e2fsprogs",
+    "btrfs-progs"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 205724267,
+  "transmit": 323671,
+  "disk": 37352548
+}
