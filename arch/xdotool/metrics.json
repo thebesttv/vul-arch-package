@@ -1,0 +1,13 @@
+{
+  "name": "xdotool",
+  "version": "3.20211022.1-1",
+  "depends": [
+    "libxtst",
+    "libxinerama",
+    "libxkbcommon"
+  ],
+  "makedepends": [],
+  "receive": 199545913,
+  "transmit": 273562,
+  "disk": 673454
+}
