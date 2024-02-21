@@ -1,0 +1,15 @@
+{
+  "name": "laborejo",
+  "version": "2.2.2-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "libcalfbox-lss",
+    "python",
+    "python-pyqt5",
+    "ttf-dejavu"
+  ],
+  "makedepends": [],
+  "receive": 199548778,
+  "transmit": 306940,
+  "disk": 5449878
+}
