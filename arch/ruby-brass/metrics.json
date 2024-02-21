@@ -1,0 +1,11 @@
+{
+  "name": "ruby-brass",
+  "version": "1.2.1-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199738503,
+  "transmit": 474493,
+  "disk": 150697
+}
