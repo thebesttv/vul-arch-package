@@ -1,0 +1,19 @@
+{
+  "name": "checksec",
+  "version": "2.6.0-1",
+  "depends": [
+    "bash",
+    "binutils",
+    "coreutils",
+    "findutils",
+    "procps-ng",
+    "awk",
+    "openssl",
+    "file",
+    "grep"
+  ],
+  "makedepends": [],
+  "receive": 199510794,
+  "transmit": 234954,
+  "disk": 13630643
+}
