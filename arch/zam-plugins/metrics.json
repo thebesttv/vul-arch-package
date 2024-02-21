@@ -1,0 +1,21 @@
+{
+  "name": "zam-plugins",
+  "version": "4.2-1",
+  "depends": [],
+  "makedepends": [
+    "gcc-libs",
+    "glibc",
+    "gendesk",
+    "git",
+    "ladspa",
+    "libglvnd",
+    "libsamplerate",
+    "libx11",
+    "jack",
+    "lv2",
+    "zita-convolver"
+  ],
+  "receive": 262045780,
+  "transmit": 444965,
+  "disk": 175741692
+}
