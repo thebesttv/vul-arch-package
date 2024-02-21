@@ -1,0 +1,14 @@
+{
+  "name": "simh",
+  "version": "3.12.3-2",
+  "depends": [
+    "libpcap"
+  ],
+  "makedepends": [
+    "unzip",
+    "linux-api-headers"
+  ],
+  "receive": 199678413,
+  "transmit": 433326,
+  "disk": 15086218
+}
