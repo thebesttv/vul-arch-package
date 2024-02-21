@@ -1,0 +1,12 @@
+{
+  "name": "bash-preexec",
+  "version": "0.5.0-2",
+  "depends": [],
+  "makedepends": [
+    "bats",
+    "coreutils"
+  ],
+  "receive": 199683065,
+  "transmit": 436257,
+  "disk": 147363
+}
