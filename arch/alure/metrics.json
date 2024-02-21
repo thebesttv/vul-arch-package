@@ -1,0 +1,19 @@
+{
+  "name": "alure",
+  "version": "1.2-10",
+  "depends": [
+    "openal",
+    "libsndfile",
+    "libvorbis",
+    "flac",
+    "mpg123",
+    "dumb",
+    "fluidsynth"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200162304,
+  "transmit": 883746,
+  "disk": 747249
+}
