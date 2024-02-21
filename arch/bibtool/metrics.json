@@ -1,0 +1,15 @@
+{
+  "name": "bibtool",
+  "version": "2.68-6",
+  "depends": [
+    "glibc",
+    "texlive-bin"
+  ],
+  "makedepends": [
+    "texlive-latex",
+    "texlive-latexrecommended"
+  ],
+  "receive": 199530688,
+  "transmit": 267909,
+  "disk": 4457533
+}
