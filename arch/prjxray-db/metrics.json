@@ -1,0 +1,11 @@
+{
+  "name": "prjxray-db",
+  "version": "r225.1a4ee7c-3",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 266578916,
+  "transmit": 572530,
+  "disk": 477817457
+}
