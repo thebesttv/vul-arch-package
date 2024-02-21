@@ -1,0 +1,13 @@
+{
+  "name": "qt5-feedback",
+  "version": "0.0.0.20150918-4",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199630307,
+  "transmit": 393136,
+  "disk": 1860739
+}
