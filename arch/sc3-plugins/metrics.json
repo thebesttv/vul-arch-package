@@ -1,0 +1,17 @@
+{
+  "name": "sc3-plugins",
+  "version": "3.13.0-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "supercollider"
+  ],
+  "makedepends": [
+    "cmake",
+    "fftw",
+    "stk"
+  ],
+  "receive": 199593826,
+  "transmit": 347563,
+  "disk": 27398476
+}
