@@ -1,0 +1,30 @@
+{
+  "name": "todoman",
+  "version": "4.4.0-2",
+  "depends": [
+    "python",
+    "python-atomicwrites",
+    "python-click",
+    "python-click-log",
+    "python-dateutil",
+    "python-humanize",
+    "python-icalendar",
+    "python-parsedatetime",
+    "python-pytz",
+    "python-pyxdg",
+    "python-urwid"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-sphinx-autorun",
+    "python-sphinx-click",
+    "python-sphinx_rtd_theme",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199683173,
+  "transmit": 383080,
+  "disk": 463114
+}
