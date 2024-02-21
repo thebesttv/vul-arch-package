@@ -1,0 +1,11 @@
+{
+  "name": "acme.sh",
+  "version": "3.0.7-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199506890,
+  "transmit": 247381,
+  "disk": 1758007
+}
