@@ -1,0 +1,15 @@
+{
+  "name": "ruby-rubygems-tasks",
+  "version": "0.2.6-1",
+  "depends": [
+    "ruby-irb",
+    "ruby-rake"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-yard"
+  ],
+  "receive": 199643034,
+  "transmit": 390594,
+  "disk": 717200
+}
