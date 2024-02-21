@@ -1,0 +1,13 @@
+{
+  "name": "mkinitcpio-tinyssh",
+  "version": "0.0.4-4",
+  "depends": [
+    "mkinitcpio-busybox",
+    "psmisc",
+    "tinyssh"
+  ],
+  "makedepends": [],
+  "receive": 199589179,
+  "transmit": 359182,
+  "disk": 105582
+}
