@@ -1,0 +1,11 @@
+{
+  "name": "rlog",
+  "version": "1.4-9",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199553133,
+  "transmit": 295234,
+  "disk": 3085980
+}
