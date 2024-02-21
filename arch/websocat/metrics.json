@@ -1,0 +1,15 @@
+{
+  "name": "websocat",
+  "version": "1.12.0-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199594743,
+  "transmit": 337341,
+  "disk": 931138
+}
