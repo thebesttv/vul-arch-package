@@ -1,0 +1,17 @@
+{
+  "name": "systemd-ui",
+  "version": "3-5",
+  "depends": [
+    "gtk3",
+    "libgee",
+    "libnotify"
+  ],
+  "makedepends": [
+    "vala",
+    "docbook-xsl",
+    "libxslt"
+  ],
+  "receive": 199549460,
+  "transmit": 266328,
+  "disk": 1567604
+}
