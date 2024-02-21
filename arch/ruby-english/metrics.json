@@ -1,0 +1,11 @@
+{
+  "name": "ruby-english",
+  "version": "0.7.1-5",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199662787,
+  "transmit": 379554,
+  "disk": 117732
+}
