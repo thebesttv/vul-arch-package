@@ -1,0 +1,16 @@
+{
+  "name": "usb_modeswitch",
+  "version": "2.6.1-3",
+  "depends": [
+    "libusb",
+    "tcl"
+  ],
+  "makedepends": [
+    "gcc",
+    "make",
+    "systemd"
+  ],
+  "receive": 199563275,
+  "transmit": 286607,
+  "disk": 612466
+}
