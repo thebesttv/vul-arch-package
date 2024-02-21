@@ -1,0 +1,13 @@
+{
+  "name": "openfec",
+  "version": "1.4.2.9-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199703906,
+  "transmit": 413842,
+  "disk": 3726942
+}
