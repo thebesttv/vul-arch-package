@@ -1,0 +1,20 @@
+{
+  "name": "libcutefish",
+  "version": "0.7-3",
+  "depends": [
+    "bluez-qt5",
+    "kscreen",
+    "modemmanager-qt5",
+    "networkmanager-qt5",
+    "qt5-quickcontrols2",
+    "accountsservice"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199542753,
+  "transmit": 293501,
+  "disk": 1237237
+}
