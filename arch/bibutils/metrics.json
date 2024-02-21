@@ -1,0 +1,14 @@
+{
+  "name": "bibutils",
+  "version": "7.2-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "libxslt"
+  ],
+  "receive": 199539230,
+  "transmit": 307117,
+  "disk": 4320728
+}
