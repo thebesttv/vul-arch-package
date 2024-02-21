@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libepoxy",
+  "version": "1.5.10-1",
+  "depends": [
+    "lib32-glibc"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "lib32-libgl",
+    "lib32-systemd"
+  ],
+  "receive": 199546839,
+  "transmit": 322246,
+  "disk": 7421892
+}
