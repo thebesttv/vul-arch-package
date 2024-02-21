@@ -1,0 +1,20 @@
+{
+  "name": "network-manager-applet",
+  "version": "1.36.0-1",
+  "depends": [
+    "libappindicator-gtk3",
+    "libmm-glib",
+    "libnma",
+    "libsecret",
+    "networkmanager"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson"
+  ],
+  "receive": 225728621,
+  "transmit": 320600,
+  "disk": 54706296
+}
