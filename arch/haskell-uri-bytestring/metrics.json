@@ -1,0 +1,23 @@
+{
+  "name": "haskell-uri-bytestring",
+  "version": "0.3.3.1-168",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-blaze-builder",
+    "haskell-th-lift-instances"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-base-compat",
+    "haskell-hunit",
+    "haskell-hedgehog",
+    "haskell-tasty",
+    "haskell-tasty-hedgehog",
+    "haskell-tasty-hunit",
+    "haskell-safe"
+  ],
+  "receive": 199610472,
+  "transmit": 374168,
+  "disk": 588935
+}
