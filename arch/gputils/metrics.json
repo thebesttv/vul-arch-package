@@ -1,0 +1,11 @@
+{
+  "name": "gputils",
+  "version": "1.5.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 214606802,
+  "transmit": 555866,
+  "disk": 166296168
+}
