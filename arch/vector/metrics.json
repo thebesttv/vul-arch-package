@@ -1,0 +1,19 @@
+{
+  "name": "vector",
+  "version": "0.36.0-2",
+  "depends": [
+    "gcc-libs",
+    "zlib"
+  ],
+  "makedepends": [
+    "rustup",
+    "protobuf",
+    "python",
+    "perl",
+    "cmake",
+    "git"
+  ],
+  "receive": 463404401,
+  "transmit": 763156,
+  "disk": 320323593
+}
