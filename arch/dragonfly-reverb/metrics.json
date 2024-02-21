@@ -1,0 +1,20 @@
+{
+  "name": "dragonfly-reverb",
+  "version": "3.2.10-2",
+  "depends": [],
+  "makedepends": [
+    "freeverb3",
+    "gcc-libs",
+    "glibc",
+    "gendesk",
+    "jack",
+    "libglvnd",
+    "libsamplerate",
+    "libx11",
+    "libxext",
+    "lv2"
+  ],
+  "receive": 215750421,
+  "transmit": 381188,
+  "disk": 79329435
+}
