@@ -1,0 +1,15 @@
+{
+  "name": "sdl_sound",
+  "version": "1.0.3-11",
+  "depends": [
+    "sdl",
+    "libmikmod",
+    "libvorbis",
+    "flac",
+    "speex"
+  ],
+  "makedepends": [],
+  "receive": 199739663,
+  "transmit": 494156,
+  "disk": 4219793
+}
