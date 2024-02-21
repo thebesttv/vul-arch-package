@@ -1,0 +1,17 @@
+{
+  "name": "qtspell",
+  "version": "1.0.1-1",
+  "depends": [
+    "enchant",
+    "iso-codes",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-tools"
+  ],
+  "receive": 199792576,
+  "transmit": 462707,
+  "disk": 416178
+}
