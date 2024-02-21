@@ -1,0 +1,17 @@
+{
+  "name": "python-magic",
+  "version": "1:0.4.27-3",
+  "depends": [
+    "file",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199532647,
+  "transmit": 332922,
+  "disk": 2833689
+}
