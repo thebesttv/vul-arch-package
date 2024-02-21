@@ -1,0 +1,28 @@
+{
+  "name": "luminancehdr",
+  "version": "2.6.1-17",
+  "depends": [
+    "exiv2",
+    "fftw",
+    "gsl",
+    "lcms2",
+    "libraw",
+    "openexr",
+    "qt5-webengine",
+    "qt5-svg",
+    "ccfits",
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "boost-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "gtest",
+    "qt5-tools",
+    "eigen"
+  ],
+  "receive": 205364611,
+  "transmit": 446545,
+  "disk": 45395045
+}
