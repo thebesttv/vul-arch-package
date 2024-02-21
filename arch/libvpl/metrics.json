@@ -1,0 +1,18 @@
+{
+  "name": "libvpl",
+  "version": "2.10.2-1",
+  "depends": [
+    "libdrm",
+    "libva",
+    "libx11",
+    "wayland"
+  ],
+  "makedepends": [
+    "cmake",
+    "libpciaccess",
+    "wayland-protocols"
+  ],
+  "receive": 208985499,
+  "transmit": 438618,
+  "disk": 40064889
+}
