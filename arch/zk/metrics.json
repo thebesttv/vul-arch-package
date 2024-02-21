@@ -1,0 +1,14 @@
+{
+  "name": "zk",
+  "version": "0.14.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199620894,
+  "transmit": 352942,
+  "disk": 4889159
+}
