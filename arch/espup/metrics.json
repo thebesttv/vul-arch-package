@@ -1,0 +1,24 @@
+{
+  "name": "espup",
+  "version": "0.11.0-2",
+  "depends": [
+    "curl",
+    "gcc-libs",
+    "git",
+    "glibc",
+    "ldproxy",
+    "libbz2.so",
+    "liblzma.so",
+    "libssl.so",
+    "pkg-config",
+    "python",
+    "python-pip",
+    "udev"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199560067,
+  "transmit": 316995,
+  "disk": 366936
+}
