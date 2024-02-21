@@ -1,0 +1,21 @@
+{
+  "name": "python-minio",
+  "version": "7.2.0-1",
+  "depends": [
+    "python",
+    "python-certifi",
+    "python-urllib3",
+    "python-argon2_cffi",
+    "python-pycryptodome"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199531996,
+  "transmit": 292512,
+  "disk": 4849743
+}
