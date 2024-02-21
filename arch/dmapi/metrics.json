@@ -1,0 +1,13 @@
+{
+  "name": "dmapi",
+  "version": "2.2.12-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "xfsprogs"
+  ],
+  "receive": 199916492,
+  "transmit": 531208,
+  "disk": 1714408
+}
