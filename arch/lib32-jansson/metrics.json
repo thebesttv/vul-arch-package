@@ -1,0 +1,14 @@
+{
+  "name": "lib32-jansson",
+  "version": "2.14-1",
+  "depends": [
+    "jansson",
+    "lib32-glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199653954,
+  "transmit": 367741,
+  "disk": 4193815
+}
