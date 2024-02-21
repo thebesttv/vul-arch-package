@@ -1,0 +1,11 @@
+{
+  "name": "nextcloud-app-spreed",
+  "version": "1:18.0.3-1",
+  "depends": [],
+  "makedepends": [
+    "nextcloud"
+  ],
+  "receive": 242518887,
+  "transmit": 765616,
+  "disk": 219606811
+}
