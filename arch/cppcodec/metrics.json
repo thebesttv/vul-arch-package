@@ -1,0 +1,12 @@
+{
+  "name": "cppcodec",
+  "version": "0.2-3",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "catch2"
+  ],
+  "receive": 199530583,
+  "transmit": 312239,
+  "disk": 359235
+}
