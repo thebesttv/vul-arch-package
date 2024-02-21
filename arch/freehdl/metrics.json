@@ -1,0 +1,11 @@
+{
+  "name": "freehdl",
+  "version": "0.0.8-13",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 201583302,
+  "transmit": 1803129,
+  "disk": 9606009
+}
