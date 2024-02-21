@@ -1,0 +1,14 @@
+{
+  "name": "python-sphinx-issues",
+  "version": "3.0.1-2",
+  "depends": [
+    "python",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199545491,
+  "transmit": 286702,
+  "disk": 166438
+}
