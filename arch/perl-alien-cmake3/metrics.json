@@ -1,0 +1,17 @@
+{
+  "name": "perl-alien-cmake3",
+  "version": "0.08-4",
+  "depends": [
+    "cmake",
+    "perl-alien-build"
+  ],
+  "makedepends": [
+    "perl-html-parser",
+    "perl-sort-versions",
+    "perl-test2-suite",
+    "perl-uri"
+  ],
+  "receive": 199577298,
+  "transmit": 338926,
+  "disk": 202130
+}
