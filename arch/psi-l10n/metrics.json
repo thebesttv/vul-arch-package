@@ -1,0 +1,13 @@
+{
+  "name": "psi-l10n",
+  "version": "1.5-3",
+  "depends": [
+    "psi"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 202842537,
+  "transmit": 527135,
+  "disk": 24753097
+}
