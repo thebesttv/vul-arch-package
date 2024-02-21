@@ -1,0 +1,13 @@
+{
+  "name": "ukui-themes",
+  "version": "3.0.1-1",
+  "depends": [
+    "dconf"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 256543073,
+  "transmit": 867864,
+  "disk": 153865888
+}
