@@ -1,0 +1,26 @@
+{
+  "name": "haskell-serialise",
+  "version": "0.2.6.1-18",
+  "depends": [
+    "ghc-libs",
+    "haskell-cborg",
+    "haskell-half",
+    "haskell-hashable",
+    "haskell-primitive",
+    "haskell-strict",
+    "haskell-these",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199518272,
+  "transmit": 247981,
+  "disk": 834512
+}
