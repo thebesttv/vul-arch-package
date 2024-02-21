@@ -1,0 +1,13 @@
+{
+  "name": "perl-event-execflow",
+  "version": "0.64-9",
+  "depends": [
+    "perl-anyevent",
+    "perl-libintl-perl",
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199536035,
+  "transmit": 276905,
+  "disk": 216542
+}
