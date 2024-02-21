@@ -1,0 +1,20 @@
+{
+  "name": "hwloc",
+  "version": "2.10.0-1",
+  "depends": [
+    "glibc",
+    "libtool",
+    "systemd-libs",
+    "libpciaccess"
+  ],
+  "makedepends": [
+    "cairo",
+    "libxml2",
+    "pciutils",
+    "systemd",
+    "libx11"
+  ],
+  "receive": 199576779,
+  "transmit": 288345,
+  "disk": 24740000
+}
