@@ -1,0 +1,12 @@
+{
+  "name": "plotutils",
+  "version": "2.6-11",
+  "depends": [
+    "libpng",
+    "libxaw>=1.0.5"
+  ],
+  "makedepends": [],
+  "receive": 199600845,
+  "transmit": 331851,
+  "disk": 15225598
+}
