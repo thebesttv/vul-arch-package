@@ -1,0 +1,20 @@
+{
+  "name": "xorg-xlogo",
+  "version": "1.0.6-1",
+  "depends": [
+    "libsm",
+    "libxaw",
+    "libxmu",
+    "libxt",
+    "libxext",
+    "libx11",
+    "libxrender",
+    "libxft"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 200643269,
+  "transmit": 1123172,
+  "disk": 1021288
+}
