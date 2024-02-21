@@ -1,0 +1,13 @@
+{
+  "name": "haskell-file-embed",
+  "version": "0.0.15.0-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199622095,
+  "transmit": 390417,
+  "disk": 156956
+}
