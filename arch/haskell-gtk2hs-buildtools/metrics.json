@@ -1,0 +1,17 @@
+{
+  "name": "haskell-gtk2hs-buildtools",
+  "version": "0.13.10.0-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-random",
+    "haskell-hashtables"
+  ],
+  "makedepends": [
+    "alex",
+    "happy",
+    "ghc"
+  ],
+  "receive": 199655685,
+  "transmit": 392450,
+  "disk": 1277479
+}
