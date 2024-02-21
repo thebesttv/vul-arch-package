@@ -1,0 +1,16 @@
+{
+  "name": "python-littleutils",
+  "version": "0.2.2-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199620804,
+  "transmit": 377712,
+  "disk": 128225
+}
