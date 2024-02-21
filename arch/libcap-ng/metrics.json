@@ -1,0 +1,14 @@
+{
+  "name": "libcap-ng",
+  "version": "0.8.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "python",
+    "swig"
+  ],
+  "receive": 199504522,
+  "transmit": 257426,
+  "disk": 437925
+}
