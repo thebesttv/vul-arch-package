@@ -1,0 +1,15 @@
+{
+  "name": "python-litedram",
+  "version": "2021.08-2",
+  "depends": [
+    "python-migen",
+    "python-litex",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199560144,
+  "transmit": 364053,
+  "disk": 1817615
+}
