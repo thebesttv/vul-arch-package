@@ -1,0 +1,20 @@
+{
+  "name": "python-python-pkcs11",
+  "version": "0.7.0-6",
+  "depends": [
+    "python",
+    "python-asn1crypto",
+    "python-cached-property"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199551730,
+  "transmit": 281221,
+  "disk": 726199
+}
