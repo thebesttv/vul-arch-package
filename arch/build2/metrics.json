@@ -1,0 +1,15 @@
+{
+  "name": "build2",
+  "version": "0.16.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "sqlite3"
+  ],
+  "makedepends": [
+    "chrpath"
+  ],
+  "receive": 200150681,
+  "transmit": 466742,
+  "disk": 48402867
+}
