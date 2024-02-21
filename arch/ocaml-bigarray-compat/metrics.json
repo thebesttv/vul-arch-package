@@ -1,0 +1,14 @@
+{
+  "name": "ocaml-bigarray-compat",
+  "version": "1.1.0-2",
+  "depends": [
+    "ocaml"
+  ],
+  "makedepends": [
+    "ocaml-compiler-libs",
+    "dune"
+  ],
+  "receive": 199712805,
+  "transmit": 355720,
+  "disk": 102163
+}
