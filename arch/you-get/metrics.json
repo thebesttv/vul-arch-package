@@ -1,0 +1,13 @@
+{
+  "name": "you-get",
+  "version": "0.4.1650-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199658714,
+  "transmit": 384600,
+  "disk": 980281
+}
