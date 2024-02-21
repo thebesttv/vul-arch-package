@@ -1,0 +1,17 @@
+{
+  "name": "python-ldap",
+  "version": "3.4.4-1",
+  "depends": [
+    "python-pyasn1",
+    "python-pyasn1-modules",
+    "libldap"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-coverage",
+    "python-pytest"
+  ],
+  "receive": 199509503,
+  "transmit": 274909,
+  "disk": 2393029
+}
