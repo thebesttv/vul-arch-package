@@ -1,0 +1,13 @@
+{
+  "name": "unace",
+  "version": "2.5-11",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [
+    "patch"
+  ],
+  "receive": 199504650,
+  "transmit": 261199,
+  "disk": 1269027
+}
