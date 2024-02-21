@@ -1,0 +1,15 @@
+{
+  "name": "profile-sync-daemon",
+  "version": "1:6.50-1",
+  "depends": [
+    "bash",
+    "findutils",
+    "procps-ng",
+    "rsync",
+    "systemd"
+  ],
+  "makedepends": [],
+  "receive": 199675951,
+  "transmit": 431416,
+  "disk": 224190
+}
