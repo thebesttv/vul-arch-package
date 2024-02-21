@@ -1,0 +1,17 @@
+{
+  "name": "lire",
+  "version": "2.1.1-6",
+  "depends": [
+    "perl-dbd-sqlite",
+    "perl-libintl-perl",
+    "perl-curses-ui",
+    "perl-curses",
+    "perl-xml-parser"
+  ],
+  "makedepends": [
+    "postfix"
+  ],
+  "receive": 199745110,
+  "transmit": 377775,
+  "disk": 14323496
+}
