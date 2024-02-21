@@ -1,0 +1,11 @@
+{
+  "name": "tcc",
+  "version": "0.9.27-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199911196,
+  "transmit": 522242,
+  "disk": 4062022
+}
