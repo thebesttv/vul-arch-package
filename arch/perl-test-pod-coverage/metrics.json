@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-pod-coverage",
+  "version": "1.10-4",
+  "depends": [
+    "perl-pod-coverage"
+  ],
+  "makedepends": [],
+  "receive": 199606684,
+  "transmit": 362193,
+  "disk": 140279
+}
