@@ -1,0 +1,22 @@
+{
+  "name": "python-build",
+  "version": "1.0.3-1",
+  "depends": [
+    "python-packaging",
+    "python-pyproject-hooks"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer",
+    "python-sphinx",
+    "python-sphinx-argparse-cli",
+    "python-sphinx-autodoc-typehints",
+    "python-sphinx-furo",
+    "python-sphinx-issues"
+  ],
+  "receive": 199586455,
+  "transmit": 359917,
+  "disk": 2328790
+}
