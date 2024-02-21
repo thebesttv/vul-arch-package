@@ -1,0 +1,21 @@
+{
+  "name": "linssid",
+  "version": "3.6-10",
+  "depends": [
+    "qt5-base",
+    "qt5-svg",
+    "qwt",
+    "libxkbcommon-x11",
+    "iw",
+    "wireless_tools",
+    "xdg-utils",
+    "desktop-file-utils",
+    "gtk-update-icon-cache"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 199681456,
+  "transmit": 372540,
+  "disk": 1711214
+}
