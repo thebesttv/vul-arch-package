@@ -1,0 +1,13 @@
+{
+  "name": "ruby-eventmachine",
+  "version": "1.2.7-6",
+  "depends": [
+    "ruby",
+    "ruby-rdoc",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199630919,
+  "transmit": 391004,
+  "disk": 1334028
+}
