@@ -1,0 +1,11 @@
+{
+  "name": "menumaker",
+  "version": "0.99.14-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199513050,
+  "transmit": 280004,
+  "disk": 1239600
+}
