@@ -1,0 +1,21 @@
+{
+  "name": "pqiv",
+  "version": "2.12-6",
+  "depends": [
+    "gtk3",
+    "gdk-pixbuf2",
+    "glib2",
+    "cairo"
+  ],
+  "makedepends": [
+    "ffmpeg",
+    "libarchive",
+    "libspectre",
+    "libwebp",
+    "imagemagick",
+    "poppler-glib"
+  ],
+  "receive": 199588552,
+  "transmit": 313948,
+  "disk": 817297
+}
