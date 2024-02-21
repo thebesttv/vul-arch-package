@@ -1,0 +1,22 @@
+{
+  "name": "retro-gtk",
+  "version": "1.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gtk3",
+    "libepoxy",
+    "libpulse",
+    "libsamplerate"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199836633,
+  "transmit": 558432,
+  "disk": 1086952
+}
