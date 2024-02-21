@@ -1,0 +1,17 @@
+{
+  "name": "perl-file-sharedir-projectdistdir",
+  "version": "1.000009-6",
+  "depends": [
+    "perl-file-sharedir",
+    "perl-path-finddev",
+    "perl-path-isdev",
+    "perl-path-tiny",
+    "perl-sub-exporter"
+  ],
+  "makedepends": [
+    "perl-class-tiny"
+  ],
+  "receive": 199551255,
+  "transmit": 259810,
+  "disk": 434179
+}
