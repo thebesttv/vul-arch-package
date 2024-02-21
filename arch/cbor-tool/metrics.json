@@ -1,0 +1,21 @@
+{
+  "name": "cbor-tool",
+  "version": "0.2.2.0-73",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-cborg",
+    "haskell-cborg-json",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199731916,
+  "transmit": 395638,
+  "disk": 200804
+}
