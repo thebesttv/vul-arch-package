@@ -1,0 +1,16 @@
+{
+  "name": "newsflash",
+  "version": "2.3.1-2",
+  "depends": [
+    "libadwaita",
+    "webkitgtk-6.0"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "meson",
+    "rust"
+  ],
+  "receive": 199639717,
+  "transmit": 373218,
+  "disk": 9204725
+}
