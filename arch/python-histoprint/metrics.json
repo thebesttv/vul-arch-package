@@ -1,0 +1,20 @@
+{
+  "name": "python-histoprint",
+  "version": "2.4.0-2",
+  "depends": [
+    "python-numpy",
+    "python-click",
+    "python-uhi"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm",
+    "python-toml"
+  ],
+  "receive": 199651558,
+  "transmit": 410966,
+  "disk": 1339366
+}
