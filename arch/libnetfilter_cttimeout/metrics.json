@@ -1,0 +1,11 @@
+{
+  "name": "libnetfilter_cttimeout",
+  "version": "1.0.1-1",
+  "depends": [
+    "libmnl"
+  ],
+  "makedepends": [],
+  "receive": 199655003,
+  "transmit": 440326,
+  "disk": 1946349
+}
