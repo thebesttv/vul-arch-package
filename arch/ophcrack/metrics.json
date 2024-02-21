@@ -1,0 +1,11 @@
+{
+  "name": "ophcrack",
+  "version": "3.8.0-4",
+  "depends": [
+    "qt5-charts"
+  ],
+  "makedepends": [],
+  "receive": 199587187,
+  "transmit": 330575,
+  "disk": 1717393
+}
