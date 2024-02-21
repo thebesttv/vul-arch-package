@@ -1,0 +1,19 @@
+{
+  "name": "networkmanager-vpnc",
+  "version": "1.2.8-3",
+  "depends": [
+    "libnm",
+    "libsecret",
+    "vpnc"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "libnma",
+    "libnma-gtk4",
+    "python"
+  ],
+  "receive": 199650147,
+  "transmit": 373015,
+  "disk": 3373696
+}
