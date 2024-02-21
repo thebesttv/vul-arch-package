@@ -1,0 +1,17 @@
+{
+  "name": "gxplugins.lv2",
+  "version": "1.0-1",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "lv2"
+  ],
+  "receive": 199519903,
+  "transmit": 278609,
+  "disk": 144994616
+}
