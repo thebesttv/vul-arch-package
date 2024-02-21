@@ -1,0 +1,13 @@
+{
+  "name": "libmtp",
+  "version": "1.1.21-1",
+  "depends": [
+    "libusb"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 200614807,
+  "transmit": 378569,
+  "disk": 4726934
+}
