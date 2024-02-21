@@ -1,0 +1,20 @@
+{
+  "name": "libgpod",
+  "version": "0.8.3-15",
+  "depends": [
+    "gdk-pixbuf2",
+    "libimobiledevice",
+    "libplist",
+    "sg3_utils",
+    "sqlite",
+    "usbmuxd"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "gtk-doc",
+    "intltool"
+  ],
+  "receive": 200391665,
+  "transmit": 283626,
+  "disk": 5775339
+}
