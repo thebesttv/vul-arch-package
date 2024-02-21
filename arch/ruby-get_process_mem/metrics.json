@@ -1,0 +1,16 @@
+{
+  "name": "ruby-get_process_mem",
+  "version": "0.2.7-2",
+  "depends": [
+    "ruby-ffi"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-sys-proctable",
+    "ruby-rake",
+    "ruby-test-unit"
+  ],
+  "receive": 199659203,
+  "transmit": 384015,
+  "disk": 404444
+}
