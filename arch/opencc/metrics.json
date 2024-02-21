@@ -1,0 +1,21 @@
+{
+  "name": "opencc",
+  "version": "1.1.7-1",
+  "depends": [],
+  "makedepends": [
+    "chrpath",
+    "cmake",
+    "darts",
+    "doxygen",
+    "marisa",
+    "pybind11",
+    "python-setuptools",
+    "python-wheel",
+    "rapidjson",
+    "tclap",
+    "gtest"
+  ],
+  "receive": 199532942,
+  "transmit": 274665,
+  "disk": 15619264
+}
