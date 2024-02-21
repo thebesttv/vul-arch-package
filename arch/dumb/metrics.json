@@ -1,0 +1,13 @@
+{
+  "name": "dumb",
+  "version": "2.0.3-3",
+  "depends": [],
+  "makedepends": [
+    "allegro",
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199517543,
+  "transmit": 289294,
+  "disk": 1452554
+}
