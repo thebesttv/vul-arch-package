@@ -1,0 +1,11 @@
+{
+  "name": "lrs",
+  "version": "072-1",
+  "depends": [
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 199761863,
+  "transmit": 465195,
+  "disk": 602078
+}
