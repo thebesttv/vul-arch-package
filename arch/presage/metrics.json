@@ -1,0 +1,11 @@
+{
+  "name": "presage",
+  "version": "0.9.1-2",
+  "depends": [
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 199904598,
+  "transmit": 342383,
+  "disk": 13270398
+}
