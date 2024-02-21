@@ -1,0 +1,16 @@
+{
+  "name": "python-pyphen",
+  "version": "0.14.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199675163,
+  "transmit": 420242,
+  "disk": 8140170
+}
