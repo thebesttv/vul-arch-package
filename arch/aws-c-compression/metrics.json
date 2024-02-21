@@ -1,0 +1,13 @@
+{
+  "name": "aws-c-compression",
+  "version": "0.2.17-1",
+  "depends": [
+    "aws-c-common"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199586357,
+  "transmit": 345421,
+  "disk": 353667
+}
