@@ -1,0 +1,13 @@
+{
+  "name": "eva",
+  "version": "0.3.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199700388,
+  "transmit": 406144,
+  "disk": 187571
+}
