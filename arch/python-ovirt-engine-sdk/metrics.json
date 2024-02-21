@@ -1,0 +1,15 @@
+{
+  "name": "python-ovirt-engine-sdk",
+  "version": "4.5.1-2",
+  "depends": [
+    "python-pycurl",
+    "python-six",
+    "libxml2"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199621794,
+  "transmit": 353957,
+  "disk": 4231744
+}
