@@ -1,0 +1,14 @@
+{
+  "name": "zint",
+  "version": "2.12.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-tools",
+    "qt6-svg"
+  ],
+  "receive": 205595549,
+  "transmit": 316509,
+  "disk": 27027574
+}
