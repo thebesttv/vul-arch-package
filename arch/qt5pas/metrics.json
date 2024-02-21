@@ -1,0 +1,12 @@
+{
+  "name": "qt5pas",
+  "version": "1:1.2.15-1",
+  "depends": [
+    "qt5-base",
+    "qt5-x11extras"
+  ],
+  "makedepends": [],
+  "receive": 245259587,
+  "transmit": 412136,
+  "disk": 263235557
+}
