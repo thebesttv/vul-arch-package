@@ -1,0 +1,13 @@
+{
+  "name": "perl-net-ldap-server",
+  "version": "0.43-11",
+  "depends": [
+    "perl",
+    "perl-ldap",
+    "perl-convert-asn1"
+  ],
+  "makedepends": [],
+  "receive": 199877123,
+  "transmit": 519878,
+  "disk": 138169
+}
