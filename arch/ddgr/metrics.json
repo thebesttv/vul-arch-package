@@ -1,0 +1,11 @@
+{
+  "name": "ddgr",
+  "version": "2.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199514296,
+  "transmit": 244057,
+  "disk": 311357
+}
