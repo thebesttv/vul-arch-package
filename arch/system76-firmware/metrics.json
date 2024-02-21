@@ -1,0 +1,21 @@
+{
+  "name": "system76-firmware",
+  "version": "1.0.58-1",
+  "depends": [
+    "ca-certificates",
+    "dbus",
+    "dfu-programmer",
+    "gcc-libs",
+    "glibc",
+    "efibootmgr",
+    "openssl",
+    "xz"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199538897,
+  "transmit": 266861,
+  "disk": 973664
+}
