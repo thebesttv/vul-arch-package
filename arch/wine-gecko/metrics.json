@@ -1,0 +1,11 @@
+{
+  "name": "wine-gecko",
+  "version": "2.47.4-1",
+  "depends": [
+    "wine"
+  ],
+  "makedepends": [],
+  "receive": 284810322,
+  "transmit": 361116,
+  "disk": 302359663
+}
