@@ -1,0 +1,15 @@
+{
+  "name": "opus-tools",
+  "version": "0.2-5",
+  "depends": [
+    "flac",
+    "libogg",
+    "opus",
+    "opusfile>=0.12",
+    "libopusenc"
+  ],
+  "makedepends": [],
+  "receive": 199675142,
+  "transmit": 416294,
+  "disk": 2510375
+}
