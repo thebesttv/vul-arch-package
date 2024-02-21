@@ -1,0 +1,15 @@
+{
+  "name": "haskell-unicode-data",
+  "version": "0.4.0.1-29",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec"
+  ],
+  "receive": 199733694,
+  "transmit": 458732,
+  "disk": 5379397
+}
