@@ -1,0 +1,16 @@
+{
+  "name": "arch-wiki-docs",
+  "version": "20240103-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "python",
+    "python-simplemediawiki",
+    "python-lxml",
+    "python-cssselect",
+    "python-requests"
+  ],
+  "receive": 200248715,
+  "transmit": 682852,
+  "disk": 456628
+}
