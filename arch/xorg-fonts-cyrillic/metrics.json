@@ -1,0 +1,15 @@
+{
+  "name": "xorg-fonts-cyrillic",
+  "version": "1.0.4-1",
+  "depends": [
+    "xorg-fonts-alias-cyrillic"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorg-mkfontscale",
+    "xorg-bdftopcf"
+  ],
+  "receive": 199978972,
+  "transmit": 738787,
+  "disk": 4386457
+}
