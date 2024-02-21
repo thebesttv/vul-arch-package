@@ -1,0 +1,14 @@
+{
+  "name": "libao",
+  "version": "1.2.2-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "libpulse"
+  ],
+  "receive": 199639667,
+  "transmit": 394845,
+  "disk": 658981
+}
