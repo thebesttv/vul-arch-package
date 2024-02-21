@@ -1,0 +1,23 @@
+{
+  "name": "deepin-printer",
+  "version": "0.9.20-1",
+  "depends": [
+    "cups",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "glibc",
+    "gcc-libs",
+    "libusb",
+    "qt5-base",
+    "hicolor-icon-theme",
+    "xdg-utils",
+    "smbclient"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199659963,
+  "transmit": 431522,
+  "disk": 17376488
+}
