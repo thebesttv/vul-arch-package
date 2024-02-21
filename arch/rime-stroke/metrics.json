@@ -1,0 +1,16 @@
+{
+  "name": "rime-stroke",
+  "version": "0.0.0.20231207-1",
+  "depends": [
+    "rime-luna-pinyin"
+  ],
+  "makedepends": [
+    "git",
+    "librime",
+    "rime-prelude",
+    "rime-essay"
+  ],
+  "receive": 199617554,
+  "transmit": 383791,
+  "disk": 5384259
+}
