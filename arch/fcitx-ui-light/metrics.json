@@ -1,0 +1,15 @@
+{
+  "name": "fcitx-ui-light",
+  "version": "0.1.3-5",
+  "depends": [
+    "fcitx",
+    "libxpm"
+  ],
+  "makedepends": [
+    "cmake",
+    "intltool"
+  ],
+  "receive": 199606331,
+  "transmit": 367812,
+  "disk": 321181
+}
