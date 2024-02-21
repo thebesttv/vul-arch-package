@@ -1,0 +1,15 @@
+{
+  "name": "pyqt5-purchasing",
+  "version": "5.15.5-4",
+  "depends": [
+    "qt5-purchasing",
+    "python-pyqt5"
+  ],
+  "makedepends": [
+    "sip",
+    "pyqt-builder"
+  ],
+  "receive": 199645388,
+  "transmit": 390675,
+  "disk": 277308
+}
