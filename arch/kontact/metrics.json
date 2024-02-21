@@ -1,0 +1,15 @@
+{
+  "name": "kontact",
+  "version": "23.08.5-1",
+  "depends": [
+    "kontactinterface",
+    "kmail-account-wizard"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199604113,
+  "transmit": 323702,
+  "disk": 6221489
+}
