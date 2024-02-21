@@ -1,0 +1,11 @@
+{
+  "name": "e3",
+  "version": "2.82-6",
+  "depends": [],
+  "makedepends": [
+    "yasm"
+  ],
+  "receive": 199509474,
+  "transmit": 259135,
+  "disk": 578909
+}
