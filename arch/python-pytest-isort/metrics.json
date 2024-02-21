@@ -1,0 +1,16 @@
+{
+  "name": "python-pytest-isort",
+  "version": "3.1.0-2",
+  "depends": [
+    "python-pytest",
+    "python-isort"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199678639,
+  "transmit": 397208,
+  "disk": 185791
+}
