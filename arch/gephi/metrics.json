@@ -1,0 +1,17 @@
+{
+  "name": "gephi",
+  "version": "0.10.1-2",
+  "depends": [
+    "java-runtime=11",
+    "java-environment=11",
+    "libxxf86vm",
+    "libnet",
+    "freetype2"
+  ],
+  "makedepends": [
+    "gendesk"
+  ],
+  "receive": 199563147,
+  "transmit": 272366,
+  "disk": 417873828
+}
