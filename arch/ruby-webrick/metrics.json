@@ -1,0 +1,11 @@
+{
+  "name": "ruby-webrick",
+  "version": "1.8.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199546230,
+  "transmit": 302156,
+  "disk": 143387
+}
