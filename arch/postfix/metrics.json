@@ -1,0 +1,24 @@
+{
+  "name": "postfix",
+  "version": "3.8.5-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "db",
+    "icu",
+    "libldap",
+    "libnsl",
+    "libsasl",
+    "lmdb",
+    "mariadb-libs",
+    "openssl",
+    "pcre2",
+    "postgresql-libs",
+    "sqlite",
+    "tinycdb"
+  ],
+  "receive": 204689921,
+  "transmit": 321032,
+  "disk": 25545391
+}
