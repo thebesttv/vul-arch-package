@@ -1,0 +1,13 @@
+{
+  "name": "cmatrix",
+  "version": "2.0-2",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199650066,
+  "transmit": 400771,
+  "disk": 615336
+}
