@@ -1,0 +1,15 @@
+{
+  "name": "ruby-hoe",
+  "version": "4.0.2-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rdoc",
+    "ruby-rake"
+  ],
+  "receive": 199603343,
+  "transmit": 378273,
+  "disk": 1920414
+}
