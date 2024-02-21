@@ -1,0 +1,26 @@
+{
+  "name": "odin2-synthesizer",
+  "version": "2.3.4-2",
+  "depends": [],
+  "makedepends": [
+    "glibc",
+    "gcc-libs",
+    "alsa-lib",
+    "libglvnd",
+    "freetype2",
+    "git",
+    "cmake",
+    "curl",
+    "lv2",
+    "mesa",
+    "ttf-font",
+    "jack",
+    "webkit2gtk",
+    "libx11",
+    "gendesk",
+    "hicolor-icon-theme"
+  ],
+  "receive": 1639266368,
+  "transmit": 1032574,
+  "disk": 1668670975
+}
