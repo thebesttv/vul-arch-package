@@ -1,0 +1,15 @@
+{
+  "name": "ruby-ruby2_keywords",
+  "version": "0.0.5-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-bundler"
+  ],
+  "receive": 199585141,
+  "transmit": 366360,
+  "disk": 126330
+}
