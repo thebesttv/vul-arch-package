@@ -1,0 +1,11 @@
+{
+  "name": "perl-list-utilsby",
+  "version": "0.12-2",
+  "depends": [
+    "perl>=5.5.0"
+  ],
+  "makedepends": [],
+  "receive": 199542836,
+  "transmit": 251520,
+  "disk": 199329
+}
