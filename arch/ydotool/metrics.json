@@ -1,0 +1,16 @@
+{
+  "name": "ydotool",
+  "version": "1.0.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "scdoc",
+    "systemd"
+  ],
+  "receive": 199631213,
+  "transmit": 393352,
+  "disk": 237909
+}
