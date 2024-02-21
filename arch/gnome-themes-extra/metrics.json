@@ -1,0 +1,16 @@
+{
+  "name": "gnome-themes-extra",
+  "version": "3.28+r6+g45b1d457-1",
+  "depends": [
+    "cantarell-fonts"
+  ],
+  "makedepends": [
+    "intltool",
+    "gtk2",
+    "gtk3",
+    "git"
+  ],
+  "receive": 199668978,
+  "transmit": 397939,
+  "disk": 36314254
+}
