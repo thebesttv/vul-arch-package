@@ -1,0 +1,13 @@
+{
+  "name": "libesmtp",
+  "version": "1.1.0-2",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199694346,
+  "transmit": 419119,
+  "disk": 863412
+}
