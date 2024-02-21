@@ -1,0 +1,17 @@
+{
+  "name": "cerbere",
+  "version": "2.5.1-2",
+  "depends": [
+    "dconf",
+    "glib2",
+    "libgee"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199612212,
+  "transmit": 386071,
+  "disk": 606122
+}
