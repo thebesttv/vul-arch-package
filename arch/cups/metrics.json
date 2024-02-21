@@ -1,0 +1,19 @@
+{
+  "name": "cups",
+  "version": "1:2.4.7-2",
+  "depends": [],
+  "makedepends": [
+    "acl",
+    "pam",
+    "gnutls",
+    "cups-filters",
+    "colord",
+    "libusb",
+    "avahi",
+    "systemd",
+    "libpaper"
+  ],
+  "receive": 199938740,
+  "transmit": 471326,
+  "disk": 35401016
+}
