@@ -1,0 +1,26 @@
+{
+  "name": "gnuradio-osmosdr",
+  "version": "0.2.5-2",
+  "depends": [
+    "airspy",
+    "bladerf",
+    "gcc-libs",
+    "glibc",
+    "hackrf",
+    "libuhd",
+    "libvolk",
+    "soapysdr",
+    "rtl-sdr"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "git",
+    "gnuradio",
+    "gnuradio-iqbal",
+    "pybind11"
+  ],
+  "receive": 199742488,
+  "transmit": 409834,
+  "disk": 3547618
+}
