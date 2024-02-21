@@ -1,0 +1,12 @@
+{
+  "name": "ca-certificates",
+  "version": "20220905-1",
+  "depends": [],
+  "makedepends": [
+    "asciidoc",
+    "p11-kit"
+  ],
+  "receive": 199502268,
+  "transmit": 250853,
+  "disk": 176822
+}
