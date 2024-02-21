@@ -1,0 +1,13 @@
+{
+  "name": "haskell-show-combinators",
+  "version": "0.2.0.0-9",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199658090,
+  "transmit": 421792,
+  "disk": 129577
+}
