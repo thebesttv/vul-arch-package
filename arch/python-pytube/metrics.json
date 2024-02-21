@@ -1,0 +1,13 @@
+{
+  "name": "python-pytube",
+  "version": "15.0.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199856122,
+  "transmit": 615300,
+  "disk": 11385415
+}
