@@ -1,0 +1,11 @@
+{
+  "name": "beep",
+  "version": "1.4.12-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199850521,
+  "transmit": 436014,
+  "disk": 525688
+}
