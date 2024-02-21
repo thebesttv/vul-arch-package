@@ -1,0 +1,17 @@
+{
+  "name": "qmidiroute",
+  "version": "0.4.0-9",
+  "depends": [
+    "alsa-lib",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199668041,
+  "transmit": 435582,
+  "disk": 903245
+}
