@@ -1,0 +1,31 @@
+{
+  "name": "kup",
+  "version": "0.9.1-9",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcompletion5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kdbusaddons5",
+    "ki18n5",
+    "kidletime5",
+    "kinit",
+    "kio5",
+    "kjobwidgets5",
+    "knotifications5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "libgit2",
+    "qt5-base",
+    "solid5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "plasma-framework"
+  ],
+  "receive": 199864861,
+  "transmit": 546525,
+  "disk": 2244154
+}
