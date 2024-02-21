@@ -1,0 +1,18 @@
+{
+  "name": "lximage-qt",
+  "version": "1.4.0-1",
+  "depends": [
+    "lxqt-themes",
+    "libfm-qt",
+    "qt5-svg",
+    "libexif",
+    "libxfixes",
+    "libfm-qt.so"
+  ],
+  "makedepends": [
+    "lxqt-build-tools"
+  ],
+  "receive": 200383373,
+  "transmit": 826100,
+  "disk": 3863742
+}
