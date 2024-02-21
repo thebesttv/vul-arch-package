@@ -1,0 +1,12 @@
+{
+  "name": "deepin-desktop-theme",
+  "version": "1.0.9-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 465464531,
+  "transmit": 3328662,
+  "disk": 537848113
+}
