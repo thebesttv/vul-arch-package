@@ -1,0 +1,16 @@
+{
+  "name": "xorg-xmag",
+  "version": "1.0.7-1",
+  "depends": [
+    "libxaw",
+    "libxmu",
+    "libxt",
+    "libx11"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199582441,
+  "transmit": 266211,
+  "disk": 1073716
+}
