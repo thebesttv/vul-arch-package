@@ -1,0 +1,14 @@
+{
+  "name": "libxres",
+  "version": "1.2.2-1",
+  "depends": [
+    "libxext"
+  ],
+  "makedepends": [
+    "xorgproto",
+    "xorg-util-macros"
+  ],
+  "receive": 199583531,
+  "transmit": 301004,
+  "disk": 2129702
+}
