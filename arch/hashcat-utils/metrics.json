@@ -1,0 +1,11 @@
+{
+  "name": "hashcat-utils",
+  "version": "1.9-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199666703,
+  "transmit": 444245,
+  "disk": 349996
+}
