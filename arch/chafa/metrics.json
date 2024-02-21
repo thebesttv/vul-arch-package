@@ -1,0 +1,16 @@
+{
+  "name": "chafa",
+  "version": "1.14.0-3",
+  "depends": [
+    "libavif",
+    "librsvg",
+    "libwebp",
+    "libxslt"
+  ],
+  "makedepends": [
+    "gtk-doc"
+  ],
+  "receive": 199647471,
+  "transmit": 392193,
+  "disk": 6986337
+}
