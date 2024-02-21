@@ -1,0 +1,15 @@
+{
+  "name": "motion",
+  "version": "4.5.1-2",
+  "depends": [
+    "sqlite",
+    "ffmpeg",
+    "libmicrohttpd",
+    "libwebp",
+    "mariadb-libs"
+  ],
+  "makedepends": [],
+  "receive": 199601073,
+  "transmit": 323729,
+  "disk": 4766402
+}
