@@ -1,0 +1,19 @@
+{
+  "name": "libjcat",
+  "version": "0.2.1-1",
+  "depends": [
+    "json-glib",
+    "gnutls",
+    "gpgme"
+  ],
+  "makedepends": [
+    "meson",
+    "gobject-introspection",
+    "gtk-doc",
+    "vala",
+    "help2man"
+  ],
+  "receive": 199499579,
+  "transmit": 252450,
+  "disk": 559077
+}
