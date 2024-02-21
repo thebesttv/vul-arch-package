@@ -1,0 +1,11 @@
+{
+  "name": "perl-mp3-info",
+  "version": "1.26-8",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199856805,
+  "transmit": 560112,
+  "disk": 755445
+}
