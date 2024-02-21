@@ -1,0 +1,13 @@
+{
+  "name": "haskell-monad-gen",
+  "version": "0.3.0.1-6",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199591590,
+  "transmit": 350348,
+  "disk": 118339
+}
