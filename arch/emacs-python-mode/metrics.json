@@ -1,0 +1,11 @@
+{
+  "name": "emacs-python-mode",
+  "version": "6.3.0-1",
+  "depends": [
+    "emacs"
+  ],
+  "makedepends": [],
+  "receive": 199549928,
+  "transmit": 270286,
+  "disk": 2234801
+}
