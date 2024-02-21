@@ -1,0 +1,17 @@
+{
+  "name": "mosh",
+  "version": "1.4.0-6",
+  "depends": [
+    "libutempter",
+    "openssh",
+    "openssl",
+    "perl-io-tty",
+    "protobuf"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199691961,
+  "transmit": 420201,
+  "disk": 5928108
+}
