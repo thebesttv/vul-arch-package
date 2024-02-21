@@ -1,0 +1,16 @@
+{
+  "name": "zita-dpl1",
+  "version": "0.3.3-3",
+  "depends": [
+    "cairo",
+    "clthreads",
+    "clxclient",
+    "jack"
+  ],
+  "makedepends": [
+    "gendesk"
+  ],
+  "receive": 199529030,
+  "transmit": 277054,
+  "disk": 262837
+}
