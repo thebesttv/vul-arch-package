@@ -1,0 +1,19 @@
+{
+  "name": "kdoctools5",
+  "version": "5.115.0-1",
+  "depends": [
+    "karchive5",
+    "docbook-xsl"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "perl-uri",
+    "ki18n5",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199614266,
+  "transmit": 380958,
+  "disk": 4867386
+}
