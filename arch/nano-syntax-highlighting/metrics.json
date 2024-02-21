@@ -1,0 +1,11 @@
+{
+  "name": "nano-syntax-highlighting",
+  "version": "2020.10.10-1",
+  "depends": [
+    "nano"
+  ],
+  "makedepends": [],
+  "receive": 199662106,
+  "transmit": 386996,
+  "disk": 394301
+}
