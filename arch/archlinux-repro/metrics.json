@@ -1,0 +1,19 @@
+{
+  "name": "archlinux-repro",
+  "version": "20240216-1",
+  "depends": [
+    "diffoscope",
+    "curl",
+    "gnupg",
+    "git",
+    "diffutils",
+    "zstd"
+  ],
+  "makedepends": [
+    "git",
+    "asciidoc"
+  ],
+  "receive": 199686716,
+  "transmit": 402941,
+  "disk": 223130
+}
