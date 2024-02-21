@@ -1,0 +1,11 @@
+{
+  "name": "perl-class-accessor",
+  "version": "0.51-3",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199590780,
+  "transmit": 358712,
+  "disk": 109003
+}
