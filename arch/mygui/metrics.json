@@ -1,0 +1,19 @@
+{
+  "name": "mygui",
+  "version": "3.4.2-1",
+  "depends": [
+    "sdl2",
+    "sdl2_image",
+    "glu"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "graphviz",
+    "ttf-dejavu",
+    "ninja"
+  ],
+  "receive": 199563000,
+  "transmit": 301997,
+  "disk": 70000756
+}
