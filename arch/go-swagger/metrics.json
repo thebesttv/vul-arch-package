@@ -1,0 +1,14 @@
+{
+  "name": "go-swagger",
+  "version": "0.30.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 284010939,
+  "transmit": 901649,
+  "disk": 103997291
+}
