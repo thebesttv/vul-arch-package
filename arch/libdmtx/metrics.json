@@ -1,0 +1,11 @@
+{
+  "name": "libdmtx",
+  "version": "0.7.7-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 200836531,
+  "transmit": 1232072,
+  "disk": 2142406
+}
