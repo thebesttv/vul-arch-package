@@ -1,0 +1,12 @@
+{
+  "name": "perl-template-gd",
+  "version": "2.66-7",
+  "depends": [
+    "perl-template-toolkit>=2.14",
+    "perl-gd>=1.14"
+  ],
+  "makedepends": [],
+  "receive": 199633007,
+  "transmit": 379672,
+  "disk": 218691
+}
