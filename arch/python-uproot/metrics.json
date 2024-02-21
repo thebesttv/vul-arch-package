@@ -1,0 +1,22 @@
+{
+  "name": "python-uproot",
+  "version": "4.3.5-4",
+  "depends": [
+    "python-awkward>=1.7.0",
+    "python-cachetools",
+    "python-lz4",
+    "python-numpy",
+    "python-zstandard"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-sphinx",
+    "python-sphinx_rtd_theme"
+  ],
+  "receive": 199544389,
+  "transmit": 285397,
+  "disk": 4019782
+}
