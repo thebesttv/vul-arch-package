@@ -1,0 +1,14 @@
+{
+  "name": "haskell-hspec-expectations-lifted",
+  "version": "0.10.0-164",
+  "depends": [
+    "ghc-libs",
+    "haskell-hspec-expectations"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199595145,
+  "transmit": 357780,
+  "disk": 241442
+}
