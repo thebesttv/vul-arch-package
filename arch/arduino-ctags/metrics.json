@@ -1,0 +1,11 @@
+{
+  "name": "arduino-ctags",
+  "version": "5.8_arduino11-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199544810,
+  "transmit": 293678,
+  "disk": 2629079
+}
