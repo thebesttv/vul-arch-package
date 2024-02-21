@@ -1,0 +1,19 @@
+{
+  "name": "autopep8",
+  "version": "1:2.0.4-1",
+  "depends": [
+    "python",
+    "python-pycodestyle",
+    "python-tomli"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199609936,
+  "transmit": 275589,
+  "disk": 5740308
+}
