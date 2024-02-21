@@ -1,0 +1,11 @@
+{
+  "name": "perl-tree-dag-node",
+  "version": "1.32-1",
+  "depends": [
+    "perl-file-slurp-tiny"
+  ],
+  "makedepends": [],
+  "receive": 199683107,
+  "transmit": 410454,
+  "disk": 372579
+}
