@@ -1,0 +1,19 @@
+{
+  "name": "phosh-mobile-settings",
+  "version": "0.36.0-1",
+  "depends": [
+    "feedbackd",
+    "libadwaita",
+    "lm_sensors",
+    "phoc",
+    "phosh"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "wayland-protocols"
+  ],
+  "receive": 199608185,
+  "transmit": 356029,
+  "disk": 1220320
+}
