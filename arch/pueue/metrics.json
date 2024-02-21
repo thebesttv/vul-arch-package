@@ -1,0 +1,13 @@
+{
+  "name": "pueue",
+  "version": "3.3.3-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199520906,
+  "transmit": 274367,
+  "disk": 1167037
+}
