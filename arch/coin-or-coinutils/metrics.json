@@ -1,0 +1,18 @@
+{
+  "name": "coin-or-coinutils",
+  "version": "2.11.10-1",
+  "depends": [
+    "bzip2",
+    "coin-or-data-sample",
+    "glpk",
+    "lapack",
+    "zlib"
+  ],
+  "makedepends": [
+    "doxygen",
+    "gcc-fortran"
+  ],
+  "receive": 199489883,
+  "transmit": 258962,
+  "disk": 7897585
+}
