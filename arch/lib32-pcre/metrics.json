@@ -1,0 +1,12 @@
+{
+  "name": "lib32-pcre",
+  "version": "8.45-3",
+  "depends": [
+    "lib32-gcc-libs",
+    "pcre"
+  ],
+  "makedepends": [],
+  "receive": 199738287,
+  "transmit": 407331,
+  "disk": 11421845
+}
