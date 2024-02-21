@@ -1,0 +1,19 @@
+{
+  "name": "network-manager-sstp",
+  "version": "1.3.2-1",
+  "depends": [
+    "libsecret",
+    "ppp",
+    "sstp-client"
+  ],
+  "makedepends": [
+    "gtk3",
+    "gtk4",
+    "libnma",
+    "libnma-gtk4",
+    "python"
+  ],
+  "receive": 199514136,
+  "transmit": 255210,
+  "disk": 4954387
+}
