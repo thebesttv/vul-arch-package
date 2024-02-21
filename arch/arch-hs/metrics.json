@@ -1,0 +1,35 @@
+{
+  "name": "arch-hs",
+  "version": "0.11.1.0-112",
+  "depends": [
+    "ghc-libs",
+    "pacman",
+    "haskell-diff",
+    "haskell-aeson",
+    "haskell-algebraic-graphs",
+    "haskell-arch-web",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-hackage-db",
+    "haskell-http-client",
+    "haskell-http-client-tls",
+    "haskell-megaparsec",
+    "haskell-microlens",
+    "haskell-microlens-th",
+    "haskell-neat-interpolation",
+    "haskell-optparse-simple",
+    "haskell-polysemy",
+    "haskell-prettyprinter",
+    "haskell-prettyprinter-ansi-terminal",
+    "haskell-servant-client",
+    "haskell-split",
+    "haskell-tar-conduit"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199634849,
+  "transmit": 385170,
+  "disk": 990410
+}
