@@ -1,0 +1,16 @@
+{
+  "name": "python-itsdangerous",
+  "version": "2.1.2-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199662093,
+  "transmit": 399792,
+  "disk": 327863
+}
