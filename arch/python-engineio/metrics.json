@@ -1,0 +1,27 @@
+{
+  "name": "python-engineio",
+  "version": "4.8.2-1",
+  "depends": [
+    "python",
+    "python-websocket-client",
+    "python-websockets",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx",
+    "python-six",
+    "python-eventlet",
+    "python-aiohttp",
+    "python-tornado",
+    "python-urllib3",
+    "python-gevent",
+    "python-gevent-websocket",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199528746,
+  "transmit": 282810,
+  "disk": 2104344
+}
