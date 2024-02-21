@@ -1,0 +1,19 @@
+{
+  "name": "haskell-git-lfs",
+  "version": "1.2.2-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-case-insensitive",
+    "haskell-http-client",
+    "haskell-http-types",
+    "haskell-network-uri"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199768216,
+  "transmit": 414000,
+  "disk": 473060
+}
