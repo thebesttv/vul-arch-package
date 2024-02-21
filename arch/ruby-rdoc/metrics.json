@@ -1,0 +1,15 @@
+{
+  "name": "ruby-rdoc",
+  "version": "6.4.0-4",
+  "depends": [
+    "ruby",
+    "ruby-psych"
+  ],
+  "makedepends": [
+    "ruby-kpeg",
+    "ruby-racc"
+  ],
+  "receive": 200324674,
+  "transmit": 293709,
+  "disk": 3434977
+}
