@@ -1,0 +1,22 @@
+{
+  "name": "calf",
+  "version": "0.90.3-6",
+  "depends": [
+    "cairo",
+    "expat",
+    "fluidsynth",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gtk2",
+    "hicolor-icon-theme",
+    "jack"
+  ],
+  "makedepends": [
+    "lv2"
+  ],
+  "receive": 199616424,
+  "transmit": 390931,
+  "disk": 37479462
+}
