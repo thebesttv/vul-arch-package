@@ -1,0 +1,13 @@
+{
+  "name": "python-marshmallow",
+  "version": "3.20.0-1",
+  "depends": [
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199699217,
+  "transmit": 430270,
+  "disk": 1169571
+}
