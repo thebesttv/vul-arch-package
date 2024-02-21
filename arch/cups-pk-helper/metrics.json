@@ -1,0 +1,14 @@
+{
+  "name": "cups-pk-helper",
+  "version": "0.2.7-1",
+  "depends": [
+    "polkit",
+    "libcups"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199647961,
+  "transmit": 391196,
+  "disk": 617975
+}
