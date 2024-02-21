@@ -1,0 +1,13 @@
+{
+  "name": "retroarch-assets",
+  "version": "1:495-1",
+  "depends": [
+    "retroarch"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 1379960659,
+  "transmit": 1405673,
+  "disk": 1777672907
+}
