@@ -1,0 +1,11 @@
+{
+  "name": "or1k-elf-newlib",
+  "version": "4.1.0-1",
+  "depends": [],
+  "makedepends": [
+    "or1k-elf-gcc"
+  ],
+  "receive": 212893716,
+  "transmit": 1168307,
+  "disk": 105575320
+}
