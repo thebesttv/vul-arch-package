@@ -1,0 +1,11 @@
+{
+  "name": "glpk",
+  "version": "5.0-2",
+  "depends": [
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 200047451,
+  "transmit": 821002,
+  "disk": 14797075
+}
