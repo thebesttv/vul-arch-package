@@ -1,0 +1,19 @@
+{
+  "name": "haskell-base64-bytestring",
+  "version": "1.2.1.0-100",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-split",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199633039,
+  "transmit": 400585,
+  "disk": 379508
+}
