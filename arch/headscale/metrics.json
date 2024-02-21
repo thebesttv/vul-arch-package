@@ -1,0 +1,13 @@
+{
+  "name": "headscale",
+  "version": "0.22.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 200377338,
+  "transmit": 988565,
+  "disk": 2664933
+}
