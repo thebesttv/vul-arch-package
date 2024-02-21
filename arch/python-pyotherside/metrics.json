@@ -1,0 +1,14 @@
+{
+  "name": "python-pyotherside",
+  "version": "1.6.0-2",
+  "depends": [
+    "python",
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-svg"
+  ],
+  "makedepends": [],
+  "receive": 199727402,
+  "transmit": 440215,
+  "disk": 789598
+}
