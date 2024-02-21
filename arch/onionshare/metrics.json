@@ -1,0 +1,29 @@
+{
+  "name": "onionshare",
+  "version": "2.6-2",
+  "depends": [
+    "python",
+    "hicolor-icon-theme",
+    "tor",
+    "stem",
+    "python-requests",
+    "python-pysocks",
+    "python-flask",
+    "python-flask-httpauth",
+    "python-flask-socketio",
+    "python-gevent-websocket",
+    "python-psutil",
+    "python-pycryptodome",
+    "python-pyqt5",
+    "python-qrcode",
+    "python-unidecode",
+    "python-colorama",
+    "pyside2"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 207823131,
+  "transmit": 410186,
+  "disk": 24311411
+}
