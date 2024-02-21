@@ -1,0 +1,16 @@
+{
+  "name": "haskell-email-validate",
+  "version": "2.3.2.19-17",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-quickcheck"
+  ],
+  "receive": 199850926,
+  "transmit": 413842,
+  "disk": 407765
+}
