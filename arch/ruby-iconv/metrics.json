@@ -1,0 +1,11 @@
+{
+  "name": "ruby-iconv",
+  "version": "1.0.8-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199598501,
+  "transmit": 386956,
+  "disk": 118813
+}
