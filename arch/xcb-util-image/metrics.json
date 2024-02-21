@@ -1,0 +1,15 @@
+{
+  "name": "xcb-util-image",
+  "version": "0.4.1-2",
+  "depends": [
+    "libxcb",
+    "xcb-util"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199503226,
+  "transmit": 297383,
+  "disk": 2307106
+}
