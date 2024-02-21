@@ -1,0 +1,11 @@
+{
+  "name": "perl-package-constants",
+  "version": "0.06-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199506577,
+  "transmit": 274802,
+  "disk": 118730
+}
