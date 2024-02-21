@@ -1,0 +1,23 @@
+{
+  "name": "switchboard-plug-about",
+  "version": "6.2.0-2",
+  "depends": [
+    "appstream",
+    "fwupd",
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libgtop",
+    "libswitchboard-2.0.so",
+    "udisks2"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199648990,
+  "transmit": 405010,
+  "disk": 10248631
+}
