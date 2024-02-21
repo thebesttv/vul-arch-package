@@ -1,0 +1,12 @@
+{
+  "name": "smbnetfs",
+  "version": "0.6.3-5",
+  "depends": [
+    "fuse2",
+    "smbclient"
+  ],
+  "makedepends": [],
+  "receive": 199809209,
+  "transmit": 475277,
+  "disk": 1423074
+}
