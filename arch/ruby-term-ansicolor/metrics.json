@@ -1,0 +1,11 @@
+{
+  "name": "ruby-term-ansicolor",
+  "version": "1.7.1-2",
+  "depends": [
+    "ruby-tins"
+  ],
+  "makedepends": [],
+  "receive": 199525948,
+  "transmit": 272318,
+  "disk": 139022
+}
