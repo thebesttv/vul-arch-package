@@ -1,0 +1,11 @@
+{
+  "name": "perl-crypt-random-tesha2",
+  "version": "0.01-9",
+  "depends": [
+    "perl>=5.6.2"
+  ],
+  "makedepends": [],
+  "receive": 199563803,
+  "transmit": 300155,
+  "disk": 199457
+}
