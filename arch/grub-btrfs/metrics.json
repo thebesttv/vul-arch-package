@@ -1,0 +1,12 @@
+{
+  "name": "grub-btrfs",
+  "version": "4.13-1",
+  "depends": [
+    "btrfs-progs",
+    "grub"
+  ],
+  "makedepends": [],
+  "receive": 199543970,
+  "transmit": 283765,
+  "disk": 304829
+}
