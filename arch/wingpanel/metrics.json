@@ -1,0 +1,23 @@
+{
+  "name": "wingpanel",
+  "version": "3.0.5-2",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgala.so",
+    "libgee",
+    "libgranite.so",
+    "mutter",
+    "pantheon-notifications"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "gala",
+    "meson",
+    "vala"
+  ],
+  "receive": 199593324,
+  "transmit": 351390,
+  "disk": 3806611
+}
