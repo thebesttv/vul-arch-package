@@ -1,0 +1,19 @@
+{
+  "name": "haskell-validation-selective",
+  "version": "0.2.0.0-11",
+  "depends": [
+    "ghc-libs",
+    "haskell-selective"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-doctest",
+    "haskell-hedgehog",
+    "haskell-hspec",
+    "haskell-hspec-hedgehog"
+  ],
+  "receive": 199631353,
+  "transmit": 292580,
+  "disk": 417666
+}
