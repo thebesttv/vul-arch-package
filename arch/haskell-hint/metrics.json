@@ -1,0 +1,19 @@
+{
+  "name": "haskell-hint",
+  "version": "0.9.0.6-39",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc",
+    "haskell-ghc-paths",
+    "haskell-random",
+    "haskell-temporary"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-typed-process"
+  ],
+  "receive": 199793916,
+  "transmit": 427958,
+  "disk": 457782
+}
