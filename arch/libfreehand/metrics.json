@@ -1,0 +1,17 @@
+{
+  "name": "libfreehand",
+  "version": "0.1.2-4",
+  "depends": [
+    "librevenge",
+    "lcms2"
+  ],
+  "makedepends": [
+    "boost",
+    "cppunit",
+    "gperf",
+    "doxygen"
+  ],
+  "receive": 199551779,
+  "transmit": 274423,
+  "disk": 4161042
+}
