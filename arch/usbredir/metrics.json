@@ -1,0 +1,14 @@
+{
+  "name": "usbredir",
+  "version": "0.13.0-1",
+  "depends": [
+    "libusb",
+    "glib2"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199601498,
+  "transmit": 376392,
+  "disk": 607164
+}
