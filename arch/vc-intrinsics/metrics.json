@@ -1,0 +1,14 @@
+{
+  "name": "vc-intrinsics",
+  "version": "0.13.0.r2+g910db48-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "python",
+    "llvm",
+    "git"
+  ],
+  "receive": 199545269,
+  "transmit": 291140,
+  "disk": 1891454
+}
