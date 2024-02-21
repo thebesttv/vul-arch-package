@@ -1,0 +1,11 @@
+{
+  "name": "perl-data-hexdump",
+  "version": "0.04-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199550921,
+  "transmit": 265186,
+  "disk": 159927
+}
