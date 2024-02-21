@@ -1,0 +1,19 @@
+{
+  "name": "haskell-bytestring-handle",
+  "version": "0.1.0.6-161",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199582874,
+  "transmit": 335181,
+  "disk": 273515
+}
