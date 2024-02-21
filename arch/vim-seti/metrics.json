@@ -1,0 +1,11 @@
+{
+  "name": "vim-seti",
+  "version": "1.0-5",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199633030,
+  "transmit": 381887,
+  "disk": 101600
+}
