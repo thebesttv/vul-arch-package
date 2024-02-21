@@ -1,0 +1,19 @@
+{
+  "name": "libmediainfo",
+  "version": "24.01-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "curl",
+    "glib2",
+    "libmms",
+    "libzen",
+    "tinyxml2",
+    "graphviz",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 201723768,
+  "transmit": 369840,
+  "disk": 19095489
+}
