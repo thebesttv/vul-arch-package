@@ -1,0 +1,13 @@
+{
+  "name": "python-sh",
+  "version": "1.14.3-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199492422,
+  "transmit": 237169,
+  "disk": 435821
+}
