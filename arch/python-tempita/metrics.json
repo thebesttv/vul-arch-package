@@ -1,0 +1,13 @@
+{
+  "name": "python-tempita",
+  "version": "1:0.5.2-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199662304,
+  "transmit": 389987,
+  "disk": 168059
+}
