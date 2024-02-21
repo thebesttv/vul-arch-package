@@ -1,0 +1,13 @@
+{
+  "name": "haskell-setlocale",
+  "version": "1.0.0.10-4",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199636164,
+  "transmit": 397434,
+  "disk": 124641
+}
