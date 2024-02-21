@@ -1,0 +1,14 @@
+{
+  "name": "prometheus-blackbox-exporter",
+  "version": "0.24.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199505767,
+  "transmit": 258351,
+  "disk": 502980
+}
