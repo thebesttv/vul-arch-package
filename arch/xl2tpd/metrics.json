@@ -1,0 +1,11 @@
+{
+  "name": "xl2tpd",
+  "version": "1.3.18-1",
+  "depends": [
+    "ppp"
+  ],
+  "makedepends": [],
+  "receive": 199579802,
+  "transmit": 309360,
+  "disk": 2011153
+}
