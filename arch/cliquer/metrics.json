@@ -1,0 +1,11 @@
+{
+  "name": "cliquer",
+  "version": "1.22-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199632003,
+  "transmit": 391775,
+  "disk": 2154369
+}
