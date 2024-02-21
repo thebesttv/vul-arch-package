@@ -1,0 +1,13 @@
+{
+  "name": "knative-client",
+  "version": "1.10.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 210450901,
+  "transmit": 490929,
+  "disk": 77858060
+}
