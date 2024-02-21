@@ -1,0 +1,36 @@
+{
+  "name": "rhythmbox",
+  "version": "3.4.7-1",
+  "depends": [
+    "dconf",
+    "grilo",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "json-glib",
+    "libgudev",
+    "libnotify",
+    "libpeas",
+    "libsoup3",
+    "media-player-info",
+    "python-gobject",
+    "tdb",
+    "totem-plparser"
+  ],
+  "makedepends": [
+    "brasero",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "libdmapsharing",
+    "libgpod",
+    "libmtp",
+    "lirc",
+    "meson",
+    "vala",
+    "yelp-tools",
+    "zeitgeist"
+  ],
+  "receive": 247170612,
+  "transmit": 733270,
+  "disk": 75653773
+}
