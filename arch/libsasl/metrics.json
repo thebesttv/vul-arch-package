@@ -1,0 +1,20 @@
+{
+  "name": "libsasl",
+  "version": "2.1.28-4",
+  "depends": [
+    "gdbm",
+    "libgdbm.so",
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [
+    "krb5",
+    "libldap",
+    "mariadb-libs",
+    "postgresql-libs",
+    "sqlite"
+  ],
+  "receive": 199571887,
+  "transmit": 333010,
+  "disk": 20523340
+}
