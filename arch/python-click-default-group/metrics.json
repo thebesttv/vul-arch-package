@@ -1,0 +1,15 @@
+{
+  "name": "python-click-default-group",
+  "version": "1.2.4-1",
+  "depends": [
+    "python-click"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199607038,
+  "transmit": 367568,
+  "disk": 119349
+}
