@@ -1,0 +1,13 @@
+{
+  "name": "python-intervaltree",
+  "version": "3.1.0-6",
+  "depends": [
+    "python-sortedcontainers"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199507996,
+  "transmit": 248287,
+  "disk": 7596999
+}
