@@ -1,0 +1,16 @@
+{
+  "name": "perl-djabberd",
+  "version": "0.85-10",
+  "depends": [
+    "perl-danga-socket",
+    "perl-log-log4perl",
+    "perl-unicode-stringprep",
+    "perl-net-dns",
+    "perl-xml-libxml",
+    "perl-net-ssleay"
+  ],
+  "makedepends": [],
+  "receive": 199514701,
+  "transmit": 254958,
+  "disk": 1852466
+}
