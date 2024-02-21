@@ -1,0 +1,13 @@
+{
+  "name": "sugar-datastore",
+  "version": "0.120-1",
+  "depends": [
+    "dbus-python",
+    "python-gobject",
+    "python-xapian"
+  ],
+  "makedepends": [],
+  "receive": 199538625,
+  "transmit": 314980,
+  "disk": 1838082
+}
