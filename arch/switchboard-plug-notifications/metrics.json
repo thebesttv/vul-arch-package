@@ -1,0 +1,19 @@
+{
+  "name": "switchboard-plug-notifications",
+  "version": "2.2.0-2",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libswitchboard-2.0.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 200074861,
+  "transmit": 672335,
+  "disk": 3743331
+}
