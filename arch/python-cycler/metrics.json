@@ -1,0 +1,16 @@
+{
+  "name": "python-cycler",
+  "version": "0.12.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199539071,
+  "transmit": 273304,
+  "disk": 235279
+}
