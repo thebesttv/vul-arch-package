@@ -1,0 +1,14 @@
+{
+  "name": "softhsm",
+  "version": "2.6.1-4",
+  "depends": [
+    "botan",
+    "sqlite3",
+    "openssl",
+    "p11-kit"
+  ],
+  "makedepends": [],
+  "receive": 199522972,
+  "transmit": 289125,
+  "disk": 7092682
+}
