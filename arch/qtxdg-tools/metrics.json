@@ -1,0 +1,16 @@
+{
+  "name": "qtxdg-tools",
+  "version": "3.12.0-1",
+  "depends": [
+    "qt5-base",
+    "libqtxdg"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools",
+    "lxqt-build-tools"
+  ],
+  "receive": 199606047,
+  "transmit": 341572,
+  "disk": 230189
+}
