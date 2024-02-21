@@ -1,0 +1,16 @@
+{
+  "name": "haskell-type-errors-pretty",
+  "version": "0.0.1.2-99",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-doctest",
+    "haskell-glob"
+  ],
+  "receive": 199836973,
+  "transmit": 410173,
+  "disk": 279006
+}
