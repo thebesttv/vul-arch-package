@@ -1,0 +1,14 @@
+{
+  "name": "python-boolean.py",
+  "version": "4.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199564139,
+  "transmit": 301545,
+  "disk": 928443
+}
