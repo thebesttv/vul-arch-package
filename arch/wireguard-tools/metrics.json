@@ -1,0 +1,11 @@
+{
+  "name": "wireguard-tools",
+  "version": "1.0.20210914-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199574130,
+  "transmit": 370226,
+  "disk": 903152
+}
