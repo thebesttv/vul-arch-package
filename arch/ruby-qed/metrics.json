@@ -1,0 +1,13 @@
+{
+  "name": "ruby-qed",
+  "version": "2.9.1-1",
+  "depends": [
+    "ruby-ansi",
+    "ruby-brass",
+    "ruby-facets"
+  ],
+  "makedepends": [],
+  "receive": 201076078,
+  "transmit": 1475764,
+  "disk": 576693
+}
