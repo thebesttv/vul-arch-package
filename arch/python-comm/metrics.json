@@ -1,0 +1,16 @@
+{
+  "name": "python-comm",
+  "version": "0.2.1-1",
+  "depends": [
+    "python",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199658002,
+  "transmit": 425972,
+  "disk": 154740
+}
