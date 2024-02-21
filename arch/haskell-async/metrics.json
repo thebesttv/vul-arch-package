@@ -1,0 +1,14 @@
+{
+  "name": "haskell-async",
+  "version": "2.2.5-15",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199617752,
+  "transmit": 356936,
+  "disk": 532330
+}
