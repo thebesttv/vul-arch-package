@@ -1,0 +1,14 @@
+{
+  "name": "wl-clipboard",
+  "version": "1:2.2.1-1",
+  "depends": [
+    "wayland"
+  ],
+  "makedepends": [
+    "meson",
+    "wayland-protocols"
+  ],
+  "receive": 199941077,
+  "transmit": 522252,
+  "disk": 394488
+}
