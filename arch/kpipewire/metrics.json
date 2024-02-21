@@ -1,0 +1,19 @@
+{
+  "name": "kpipewire",
+  "version": "5.27.10-1",
+  "depends": [
+    "ki18n5",
+    "kcoreaddons5",
+    "pipewire",
+    "libepoxy",
+    "ffmpeg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "plasma-wayland-protocols",
+    "kwayland5"
+  ],
+  "receive": 199649474,
+  "transmit": 351745,
+  "disk": 684043
+}
