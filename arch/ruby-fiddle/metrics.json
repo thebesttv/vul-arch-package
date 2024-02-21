@@ -1,0 +1,14 @@
+{
+  "name": "ruby-fiddle",
+  "version": "1.1.0-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rake-compiler"
+  ],
+  "receive": 200374077,
+  "transmit": 774179,
+  "disk": 497957
+}
