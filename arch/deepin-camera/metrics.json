@@ -1,0 +1,32 @@
+{
+  "name": "deepin-camera",
+  "version": "1.4.16.20230919-2",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "qt5-svg",
+    "glib2",
+    "glibc",
+    "gcc-libs",
+    "deepin-image-editor",
+    "ffmpeg",
+    "ffmpegthumbnailer",
+    "libpciaccess",
+    "portaudio",
+    "pulse-native-provider",
+    "qt5-multimedia",
+    "dwayland",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake",
+    "deepin-gettext-tools",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199551195,
+  "transmit": 292114,
+  "disk": 34948138
+}
