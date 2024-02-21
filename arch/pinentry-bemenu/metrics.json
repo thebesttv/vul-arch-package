@@ -1,0 +1,20 @@
+{
+  "name": "pinentry-bemenu",
+  "version": "0.13.0-1",
+  "depends": [
+    "bemenu",
+    "libassuan",
+    "libgpg-error",
+    "popt"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "cmake",
+    "pkgconf",
+    "popt"
+  ],
+  "receive": 199712197,
+  "transmit": 426888,
+  "disk": 206515
+}
