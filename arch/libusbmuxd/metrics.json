@@ -1,0 +1,13 @@
+{
+  "name": "libusbmuxd",
+  "version": "2.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libplist"
+  ],
+  "makedepends": [],
+  "receive": 199534799,
+  "transmit": 322776,
+  "disk": 2289911
+}
