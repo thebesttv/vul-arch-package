@@ -1,0 +1,15 @@
+{
+  "name": "python-pycountry",
+  "version": "22.3.5-2",
+  "depends": [
+    "python",
+    "python-lxml"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 199499920,
+  "transmit": 255241,
+  "disk": 39245674
+}
