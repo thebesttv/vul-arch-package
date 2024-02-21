@@ -1,0 +1,19 @@
+{
+  "name": "haskell-enummapset",
+  "version": "0.7.2.0-15",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199544597,
+  "transmit": 271881,
+  "disk": 302968
+}
