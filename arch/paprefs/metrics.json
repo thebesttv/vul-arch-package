@@ -1,0 +1,18 @@
+{
+  "name": "paprefs",
+  "version": "1.2-1",
+  "depends": [
+    "gtkmm3",
+    "libsigc++",
+    "pulseaudio"
+  ],
+  "makedepends": [
+    "meson",
+    "lynx",
+    "tidy",
+    "git"
+  ],
+  "receive": 199527526,
+  "transmit": 280120,
+  "disk": 1125572
+}
