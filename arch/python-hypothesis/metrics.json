@@ -1,0 +1,18 @@
+{
+  "name": "python-hypothesis",
+  "version": "6.98.9-1",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-sortedcontainers"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199627798,
+  "transmit": 305184,
+  "disk": 23061687
+}
