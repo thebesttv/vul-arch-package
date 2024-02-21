@@ -1,0 +1,13 @@
+{
+  "name": "jack_capture",
+  "version": "0.9.73-8",
+  "depends": [
+    "jack",
+    "lame",
+    "liblo"
+  ],
+  "makedepends": [],
+  "receive": 199612330,
+  "transmit": 365524,
+  "disk": 392722
+}
