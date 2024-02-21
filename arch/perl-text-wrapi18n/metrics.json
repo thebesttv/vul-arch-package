@@ -1,0 +1,11 @@
+{
+  "name": "perl-text-wrapi18n",
+  "version": "0.06-9",
+  "depends": [
+    "perl-text-charwidth"
+  ],
+  "makedepends": [],
+  "receive": 199535099,
+  "transmit": 288349,
+  "disk": 110839
+}
