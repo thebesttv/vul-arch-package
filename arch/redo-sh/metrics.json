@@ -1,0 +1,13 @@
+{
+  "name": "redo-sh",
+  "version": "4.0.4-2",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 205499509,
+  "transmit": 1350946,
+  "disk": 6536458
+}
