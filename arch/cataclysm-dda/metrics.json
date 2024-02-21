@@ -1,0 +1,19 @@
+{
+  "name": "cataclysm-dda",
+  "version": "0.G-2",
+  "depends": [
+    "ncurses",
+    "hicolor-icon-theme",
+    "gettext"
+  ],
+  "makedepends": [
+    "sdl2_image",
+    "sdl2_ttf",
+    "sdl2_mixer",
+    "freetype2",
+    "astyle"
+  ],
+  "receive": 361736225,
+  "transmit": 1710340,
+  "disk": 750280150
+}
