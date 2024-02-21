@@ -1,0 +1,14 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.13 s (579.1 files/s 465560.2 lines/s)"
+29,Bourne Shell,4182,4808,25734
+7,m4,1055,160,9841
+8,C,908,579,4716
+7,PO File,686,1973,4174
+6,C/C++ Header,94,71,871
+11,make,46,25,139
+1,Text,25,0,120
+2,Perl,20,16,27
+1,YAML,1,2,8
+1,Verilog-SystemVerilog,0,0,4
+1,Forth,0,0,3
+1,XML,0,0,3
+75,SUM,7017,7634,45640
