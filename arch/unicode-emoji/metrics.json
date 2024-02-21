@@ -1,0 +1,11 @@
+{
+  "name": "unicode-emoji",
+  "version": "15.1-1",
+  "depends": [
+    "unicode-character-database"
+  ],
+  "makedepends": [],
+  "receive": 200552323,
+  "transmit": 363254,
+  "disk": 1184490
+}
