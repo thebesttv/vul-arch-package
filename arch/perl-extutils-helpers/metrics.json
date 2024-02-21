@@ -1,0 +1,11 @@
+{
+  "name": "perl-extutils-helpers",
+  "version": "0.026-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199586252,
+  "transmit": 330274,
+  "disk": 180059
+}
