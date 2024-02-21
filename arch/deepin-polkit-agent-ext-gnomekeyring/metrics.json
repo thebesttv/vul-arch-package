@@ -1,0 +1,15 @@
+{
+  "name": "deepin-polkit-agent-ext-gnomekeyring",
+  "version": "5.0.1-1",
+  "depends": [
+    "deepin-polkit-agent",
+    "deepin-qt5integration",
+    "libgnome-keyring"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 200211535,
+  "transmit": 649235,
+  "disk": 118825
+}
