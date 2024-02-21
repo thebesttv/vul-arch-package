@@ -1,0 +1,22 @@
+{
+  "name": "cryfs",
+  "version": "0.11.4-5",
+  "depends": [
+    "boost-libs",
+    "curl",
+    "fmt",
+    "fuse2",
+    "gcc-libs",
+    "glibc",
+    "spdlog"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "python",
+    "range-v3"
+  ],
+  "receive": 199882228,
+  "transmit": 482027,
+  "disk": 37884047
+}
