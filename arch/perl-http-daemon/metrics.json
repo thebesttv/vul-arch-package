@@ -1,0 +1,16 @@
+{
+  "name": "perl-http-daemon",
+  "version": "6.16-2",
+  "depends": [
+    "perl",
+    "perl-http-date",
+    "perl-http-message",
+    "perl-lwp-mediatypes"
+  ],
+  "makedepends": [
+    "perl-module-build-tiny"
+  ],
+  "receive": 199655763,
+  "transmit": 406134,
+  "disk": 371429
+}
