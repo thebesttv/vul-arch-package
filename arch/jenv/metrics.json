@@ -1,0 +1,13 @@
+{
+  "name": "jenv",
+  "version": "0.5.6-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199608695,
+  "transmit": 342192,
+  "disk": 1293418
+}
