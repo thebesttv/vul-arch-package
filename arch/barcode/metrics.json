@@ -1,0 +1,11 @@
+{
+  "name": "barcode",
+  "version": "0.99-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199638461,
+  "transmit": 388894,
+  "disk": 4671434
+}
