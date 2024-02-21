@@ -1,0 +1,13 @@
+{
+  "name": "libvoikko",
+  "version": "4.3.2-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199643006,
+  "transmit": 387183,
+  "disk": 4134311
+}
