@@ -1,0 +1,14 @@
+{
+  "name": "xorg-sessreg",
+  "version": "1.1.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199546369,
+  "transmit": 282135,
+  "disk": 1058104
+}
