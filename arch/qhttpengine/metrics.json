@@ -1,0 +1,14 @@
+{
+  "name": "qhttpengine",
+  "version": "1.0.1-4",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199582121,
+  "transmit": 357891,
+  "disk": 699048
+}
