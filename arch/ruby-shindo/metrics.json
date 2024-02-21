@@ -1,0 +1,13 @@
+{
+  "name": "ruby-shindo",
+  "version": "0.3.10-1",
+  "depends": [
+    "ruby-formatador"
+  ],
+  "makedepends": [
+    "ruby-rake"
+  ],
+  "receive": 199571101,
+  "transmit": 328530,
+  "disk": 159979
+}
