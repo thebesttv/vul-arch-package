@@ -1,0 +1,15 @@
+{
+  "name": "lib32-rest",
+  "version": "0.8.1-4",
+  "depends": [
+    "lib32-libsoup",
+    "rest"
+  ],
+  "makedepends": [
+    "git",
+    "gtk-doc"
+  ],
+  "receive": 199561758,
+  "transmit": 303297,
+  "disk": 1589521
+}
