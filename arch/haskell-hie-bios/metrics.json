@@ -1,0 +1,34 @@
+{
+  "name": "haskell-hie-bios",
+  "version": "0.11.0-74",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-base16-bytestring",
+    "haskell-co-log-core",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-cryptohash-sha1",
+    "haskell-exceptions",
+    "haskell-extra",
+    "haskell-file-embed",
+    "haskell-optparse-applicative",
+    "haskell-prettyprinter",
+    "haskell-temporary",
+    "haskell-unix-compat",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-yaml"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tagged",
+    "haskell-tasty",
+    "haskell-tasty-expected-failure",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199763559,
+  "transmit": 548388,
+  "disk": 905245
+}
