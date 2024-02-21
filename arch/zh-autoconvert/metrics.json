@@ -1,0 +1,11 @@
+{
+  "name": "zh-autoconvert",
+  "version": "0.3.16-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 201200615,
+  "transmit": 1134858,
+  "disk": 2522915
+}
