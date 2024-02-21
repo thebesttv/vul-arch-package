@@ -1,0 +1,11 @@
+{
+  "name": "pigeonhole",
+  "version": "0.5.20-1",
+  "depends": [
+    "dovecot=2.3.20"
+  ],
+  "makedepends": [],
+  "receive": 199717132,
+  "transmit": 406375,
+  "disk": 11549715
+}
