@@ -1,0 +1,11 @@
+{
+  "name": "mkinitcpio-utils",
+  "version": "0.0.4-1",
+  "depends": [
+    "cryptsetup"
+  ],
+  "makedepends": [],
+  "receive": 200052838,
+  "transmit": 777559,
+  "disk": 124910
+}
