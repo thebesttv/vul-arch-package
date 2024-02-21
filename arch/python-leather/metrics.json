@@ -1,0 +1,17 @@
+{
+  "name": "python-leather",
+  "version": "0.4.0-1",
+  "depends": [
+    "python",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199554752,
+  "transmit": 306737,
+  "disk": 410252
+}
