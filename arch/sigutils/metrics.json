@@ -1,0 +1,15 @@
+{
+  "name": "sigutils",
+  "version": "0.3.0-3",
+  "depends": [
+    "libsndfile",
+    "fftw",
+    "libvolk"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199613418,
+  "transmit": 367002,
+  "disk": 773495
+}
