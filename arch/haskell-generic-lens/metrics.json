@@ -1,0 +1,19 @@
+{
+  "name": "haskell-generic-lens",
+  "version": "2.2.2.0-36",
+  "depends": [
+    "ghc-libs",
+    "haskell-generic-lens-core",
+    "haskell-profunctors"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest",
+    "haskell-hunit",
+    "haskell-inspection-testing",
+    "haskell-lens"
+  ],
+  "receive": 199585552,
+  "transmit": 352966,
+  "disk": 526666
+}
