@@ -1,0 +1,17 @@
+{
+  "name": "python-jupyter-ydoc",
+  "version": "2.0.1-1",
+  "depends": [
+    "python",
+    "python-pycrdt"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-nodejs-version",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199567119,
+  "transmit": 324148,
+  "disk": 3593460
+}
