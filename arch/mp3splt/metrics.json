@@ -1,0 +1,11 @@
+{
+  "name": "mp3splt",
+  "version": "2.6.2-3",
+  "depends": [
+    "libmp3splt"
+  ],
+  "makedepends": [],
+  "receive": 199557297,
+  "transmit": 300854,
+  "disk": 1414748
+}
