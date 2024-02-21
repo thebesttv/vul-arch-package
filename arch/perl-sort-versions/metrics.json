@@ -1,0 +1,11 @@
+{
+  "name": "perl-sort-versions",
+  "version": "1.62-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199793834,
+  "transmit": 413544,
+  "disk": 150863
+}
