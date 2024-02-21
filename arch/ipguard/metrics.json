@@ -1,0 +1,12 @@
+{
+  "name": "ipguard",
+  "version": "1.04-8",
+  "depends": [
+    "libpcap",
+    "libnet"
+  ],
+  "makedepends": [],
+  "receive": 199491463,
+  "transmit": 246047,
+  "disk": 222581
+}
