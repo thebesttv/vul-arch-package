@@ -1,0 +1,17 @@
+{
+  "name": "python-evdev",
+  "version": "1.6.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "git"
+  ],
+  "receive": 199626742,
+  "transmit": 359766,
+  "disk": 1179482
+}
