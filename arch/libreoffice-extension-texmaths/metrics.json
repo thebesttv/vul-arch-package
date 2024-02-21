@@ -1,0 +1,12 @@
+{
+  "name": "libreoffice-extension-texmaths",
+  "version": "0.52-1",
+  "depends": [
+    "libreoffice",
+    "texlive-basic"
+  ],
+  "makedepends": [],
+  "receive": 199512763,
+  "transmit": 260762,
+  "disk": 7251243
+}
