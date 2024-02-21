@@ -1,0 +1,14 @@
+{
+  "name": "ruby-cucumber-ci-environment",
+  "version": "9.2.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 199599014,
+  "transmit": 360813,
+  "disk": 689004
+}
