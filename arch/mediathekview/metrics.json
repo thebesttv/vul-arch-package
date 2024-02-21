@@ -1,0 +1,17 @@
+{
+  "name": "mediathekview",
+  "version": "14.0.0-1",
+  "depends": [
+    "bash",
+    "hicolor-icon-theme",
+    "java-runtime=21",
+    "xdg-user-dirs"
+  ],
+  "makedepends": [
+    "maven",
+    "strip-nondeterminism"
+  ],
+  "receive": 199697289,
+  "transmit": 396569,
+  "disk": 5407137
+}
