@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libidn2",
+  "version": "2.3.7-1",
+  "depends": [
+    "libidn2",
+    "lib32-glibc",
+    "lib32-libunistring"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "ruby-ronn-ng"
+  ],
+  "receive": 201847924,
+  "transmit": 435337,
+  "disk": 13945286
+}
