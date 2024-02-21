@@ -1,0 +1,18 @@
+{
+  "name": "kpublictransport",
+  "version": "23.08.5-1",
+  "depends": [
+    "qt5-declarative",
+    "networkmanager-qt5",
+    "ki18n5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "protobuf",
+    "qt5-tools",
+    "doxygen"
+  ],
+  "receive": 199975753,
+  "transmit": 734638,
+  "disk": 6108519
+}
