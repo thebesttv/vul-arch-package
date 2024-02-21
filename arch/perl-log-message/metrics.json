@@ -1,0 +1,11 @@
+{
+  "name": "perl-log-message",
+  "version": "0.08-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199722369,
+  "transmit": 450081,
+  "disk": 169607
+}
