@@ -1,0 +1,21 @@
+{
+  "name": "haskell-text-builder",
+  "version": "0.6.7-108",
+  "depends": [
+    "ghc-libs",
+    "haskell-text-builder-dev"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199950724,
+  "transmit": 299829,
+  "disk": 547541
+}
