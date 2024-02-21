@@ -1,0 +1,11 @@
+{
+  "name": "permlib",
+  "version": "0.2.9-1",
+  "depends": [
+    "boost"
+  ],
+  "makedepends": [],
+  "receive": 199662796,
+  "transmit": 387760,
+  "disk": 1056369
+}
