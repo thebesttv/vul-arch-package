@@ -1,0 +1,25 @@
+{
+  "name": "haskell-ptr",
+  "version": "0.16.8.6-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-contravariant",
+    "haskell-profunctors",
+    "haskell-strict-list",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-cereal",
+    "haskell-quickcheck-instances",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199680706,
+  "transmit": 420746,
+  "disk": 399159
+}
