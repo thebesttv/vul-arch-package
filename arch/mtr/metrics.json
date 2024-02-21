@@ -1,0 +1,16 @@
+{
+  "name": "mtr",
+  "version": "0.95-4",
+  "depends": [],
+  "makedepends": [
+    "gdk-pixbuf2",
+    "glibc",
+    "gtk3",
+    "jansson",
+    "libcap",
+    "ncurses"
+  ],
+  "receive": 199633765,
+  "transmit": 376632,
+  "disk": 881655
+}
