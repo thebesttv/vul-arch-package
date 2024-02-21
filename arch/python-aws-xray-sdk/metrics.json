@@ -1,0 +1,34 @@
+{
+  "name": "python-aws-xray-sdk",
+  "version": "2.12.1-1",
+  "depends": [
+    "python",
+    "python-botocore",
+    "python-wrapt"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-aiobotocore",
+    "python-aiohttp",
+    "python-bottle",
+    "python-django",
+    "python-flask",
+    "python-flask-sqlalchemy",
+    "python-httpx",
+    "python-mysql-connector",
+    "python-pg8000",
+    "python-psycopg2",
+    "python-pymongo",
+    "python-pymysql",
+    "python-pynamodb",
+    "python-requests",
+    "python-sqlalchemy"
+  ],
+  "receive": 199737143,
+  "transmit": 422641,
+  "disk": 2717894
+}
