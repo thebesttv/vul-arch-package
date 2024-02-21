@@ -1,0 +1,16 @@
+{
+  "name": "kcalc",
+  "version": "23.08.5-1",
+  "depends": [
+    "mpfr",
+    "kxmlgui5",
+    "knotifications5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199805178,
+  "transmit": 419480,
+  "disk": 6741230
+}
