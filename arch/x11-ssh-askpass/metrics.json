@@ -1,0 +1,13 @@
+{
+  "name": "x11-ssh-askpass",
+  "version": "1.2.4.1-7",
+  "depends": [
+    "libxt"
+  ],
+  "makedepends": [
+    "imake"
+  ],
+  "receive": 199649044,
+  "transmit": 406587,
+  "disk": 252602
+}
