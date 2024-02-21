@@ -1,0 +1,22 @@
+{
+  "name": "ocaml-bos",
+  "version": "0.2.1-2",
+  "depends": [
+    "ocaml",
+    "ocaml-fpath",
+    "ocaml-astring",
+    "ocaml-rresult",
+    "ocaml-fmt",
+    "ocaml-logs",
+    "ocaml-re"
+  ],
+  "makedepends": [
+    "ocaml-findlib",
+    "ocamlbuild",
+    "ocaml-topkg",
+    "opam"
+  ],
+  "receive": 199702844,
+  "transmit": 420592,
+  "disk": 353155
+}
