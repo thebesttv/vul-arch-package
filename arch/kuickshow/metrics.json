@@ -1,0 +1,24 @@
+{
+  "name": "kuickshow",
+  "version": "0.10.2-2",
+  "depends": [
+    "hicolor-icon-theme",
+    "imlib",
+    "qt5-base",
+    "qt5-x11extras",
+    "ki18n5",
+    "kiconthemes5",
+    "kio5",
+    "kxmlgui5",
+    "kinit"
+  ],
+  "makedepends": [
+    "cmake",
+    "docbook-xsl",
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199739270,
+  "transmit": 450692,
+  "disk": 1010147
+}
