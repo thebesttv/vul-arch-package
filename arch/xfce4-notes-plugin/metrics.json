@@ -1,0 +1,14 @@
+{
+  "name": "xfce4-notes-plugin",
+  "version": "1.11.0-1",
+  "depends": [
+    "xfce4-panel",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199639146,
+  "transmit": 357440,
+  "disk": 3905471
+}
