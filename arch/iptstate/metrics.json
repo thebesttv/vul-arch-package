@@ -1,0 +1,14 @@
+{
+  "name": "iptstate",
+  "version": "2.2.7-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "ncurses",
+    "libnetfilter_conntrack"
+  ],
+  "makedepends": [],
+  "receive": 199623843,
+  "transmit": 317023,
+  "disk": 243338
+}
