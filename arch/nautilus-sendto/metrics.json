@@ -1,0 +1,16 @@
+{
+  "name": "nautilus-sendto",
+  "version": "3.8.6+28+gc87aac4-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "git",
+    "meson",
+    "appstream-glib"
+  ],
+  "receive": 199561000,
+  "transmit": 251689,
+  "disk": 2540883
+}
