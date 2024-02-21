@@ -1,0 +1,11 @@
+{
+  "name": "lib32-libva-intel-driver",
+  "version": "2.4.1-1",
+  "depends": [
+    "lib32-libva"
+  ],
+  "makedepends": [],
+  "receive": 202595794,
+  "transmit": 412759,
+  "disk": 39737701
+}
