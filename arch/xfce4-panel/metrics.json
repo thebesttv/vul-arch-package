@@ -1,0 +1,22 @@
+{
+  "name": "xfce4-panel",
+  "version": "4.18.5-1",
+  "depends": [
+    "exo",
+    "garcon",
+    "libxfce4ui",
+    "xfconf",
+    "libwnck3",
+    "libdbusmenu-gtk3",
+    "hicolor-icon-theme",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection",
+    "vala"
+  ],
+  "receive": 201348276,
+  "transmit": 390879,
+  "disk": 13661527
+}
