@@ -1,0 +1,15 @@
+{
+  "name": "d-spy",
+  "version": "1.8.0-1",
+  "depends": [
+    "gtk4",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199520549,
+  "transmit": 257547,
+  "disk": 2092476
+}
