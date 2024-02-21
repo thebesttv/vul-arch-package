@@ -1,0 +1,15 @@
+{
+  "name": "bearssl",
+  "version": "0.6-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "doxygen",
+    "graphviz"
+  ],
+  "receive": 200995002,
+  "transmit": 1012722,
+  "disk": 5243935
+}
