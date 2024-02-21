@@ -1,0 +1,14 @@
+{
+  "name": "x264",
+  "version": "3:0.164.r3108.31e19f9-1",
+  "depends": [
+    "liblsmash.so"
+  ],
+  "makedepends": [
+    "git",
+    "nasm"
+  ],
+  "receive": 199584352,
+  "transmit": 274364,
+  "disk": 13562934
+}
