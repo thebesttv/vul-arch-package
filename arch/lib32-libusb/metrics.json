@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libusb",
+  "version": "1.0.27-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-systemd",
+    "libusb=1.0.27"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 199552636,
+  "transmit": 274031,
+  "disk": 4202003
+}
