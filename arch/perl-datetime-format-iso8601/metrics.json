@@ -1,0 +1,12 @@
+{
+  "name": "perl-datetime-format-iso8601",
+  "version": "0.16-2",
+  "depends": [
+    "perl-datetime-format-builder",
+    "perl-datetime"
+  ],
+  "makedepends": [],
+  "receive": 199536657,
+  "transmit": 286926,
+  "disk": 398202
+}
