@@ -1,0 +1,21 @@
+{
+  "name": "yelp",
+  "version": "42.2-2",
+  "depends": [
+    "bzip2",
+    "libhandy",
+    "libxslt",
+    "webkit2gtk-4.1",
+    "xz",
+    "yelp-xsl"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "autoconf-archive",
+    "git",
+    "itstool"
+  ],
+  "receive": 209726930,
+  "transmit": 288518,
+  "disk": 18121835
+}
