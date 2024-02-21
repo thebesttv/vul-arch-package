@@ -1,0 +1,15 @@
+{
+  "name": "python-click-didyoumean",
+  "version": "0.3.0-2",
+  "depends": [
+    "python-click"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199654397,
+  "transmit": 365944,
+  "disk": 763037
+}
