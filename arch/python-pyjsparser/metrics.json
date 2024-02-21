@@ -1,0 +1,13 @@
+{
+  "name": "python-pyjsparser",
+  "version": "2.7.1-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199750351,
+  "transmit": 461045,
+  "disk": 1182351
+}
