@@ -1,0 +1,12 @@
+{
+  "name": "nextcloud-app-bookmarks",
+  "version": "1:13.1.3-1",
+  "depends": [],
+  "makedepends": [
+    "nextcloud",
+    "yq"
+  ],
+  "receive": 199799473,
+  "transmit": 496938,
+  "disk": 28422168
+}
