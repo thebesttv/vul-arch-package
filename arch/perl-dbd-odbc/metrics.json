@@ -1,0 +1,13 @@
+{
+  "name": "perl-dbd-odbc",
+  "version": "1.61-3",
+  "depends": [
+    "perl-dbi",
+    "perl",
+    "unixodbc"
+  ],
+  "makedepends": [],
+  "receive": 199759392,
+  "transmit": 451561,
+  "disk": 1426580
+}
