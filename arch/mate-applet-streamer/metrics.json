@@ -1,0 +1,13 @@
+{
+  "name": "mate-applet-streamer",
+  "version": "0.4.1-1",
+  "depends": [
+    "gst-plugins-base",
+    "libnotify",
+    "mate-panel"
+  ],
+  "makedepends": [],
+  "receive": 199507356,
+  "transmit": 238323,
+  "disk": 421485
+}
