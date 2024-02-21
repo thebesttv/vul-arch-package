@@ -1,0 +1,13 @@
+{
+  "name": "coxeter",
+  "version": "git.20180226-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200209510,
+  "transmit": 600033,
+  "disk": 2233714
+}
