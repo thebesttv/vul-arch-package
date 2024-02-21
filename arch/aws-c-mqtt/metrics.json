@@ -1,0 +1,14 @@
+{
+  "name": "aws-c-mqtt",
+  "version": "0.8.14-1",
+  "depends": [
+    "aws-c-common",
+    "aws-c-http"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199688156,
+  "transmit": 412626,
+  "disk": 2889274
+}
