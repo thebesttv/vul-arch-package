@@ -1,0 +1,14 @@
+{
+  "name": "haskell-gi-base",
+  "version": "0.26.4-1",
+  "depends": [
+    "ghc-libs",
+    "glib2"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199486737,
+  "transmit": 242056,
+  "disk": 478537
+}
