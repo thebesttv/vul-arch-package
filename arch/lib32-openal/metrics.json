@@ -1,0 +1,22 @@
+{
+  "name": "lib32-openal",
+  "version": "1.23.1-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "openal"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "lib32-alsa-lib",
+    "lib32-fluidsynth",
+    "lib32-jack",
+    "lib32-libpulse",
+    "lib32-pipewire",
+    "lib32-portaudio",
+    "ninja"
+  ],
+  "receive": 199712121,
+  "transmit": 411472,
+  "disk": 31154625
+}
