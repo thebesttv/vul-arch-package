@@ -1,0 +1,14 @@
+{
+  "name": "libxpm",
+  "version": "3.5.17-1",
+  "depends": [
+    "libxt",
+    "libxext"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199648073,
+  "transmit": 396272,
+  "disk": 3487708
+}
