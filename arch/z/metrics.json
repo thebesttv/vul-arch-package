@@ -1,0 +1,11 @@
+{
+  "name": "z",
+  "version": "1.12-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199708683,
+  "transmit": 429218,
+  "disk": 118909
+}
