@@ -1,0 +1,11 @@
+{
+  "name": "dotconf",
+  "version": "1.3-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199525371,
+  "transmit": 238647,
+  "disk": 345106
+}
