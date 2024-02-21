@@ -1,0 +1,15 @@
+{
+  "name": "budgie-desktop-view",
+  "version": "1.3-2",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199498586,
+  "transmit": 280189,
+  "disk": 814607
+}
