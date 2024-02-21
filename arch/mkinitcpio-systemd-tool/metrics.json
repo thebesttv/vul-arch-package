@@ -1,0 +1,13 @@
+{
+  "name": "mkinitcpio-systemd-tool",
+  "version": "38-2",
+  "depends": [
+    "bash",
+    "mkinitcpio",
+    "systemd"
+  ],
+  "makedepends": [],
+  "receive": 199644206,
+  "transmit": 392602,
+  "disk": 728858
+}
