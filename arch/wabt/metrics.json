@@ -1,0 +1,19 @@
+{
+  "name": "wabt",
+  "version": "1.0.34-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "gcc",
+    "clang",
+    "python-ply",
+    "gtest"
+  ],
+  "receive": 230055010,
+  "transmit": 396359,
+  "disk": 95789056
+}
