@@ -1,0 +1,23 @@
+{
+  "name": "haskell-isomorphism-class",
+  "version": "0.1.0.9-50",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-primitive",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-rebase",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199703108,
+  "transmit": 297117,
+  "disk": 265230
+}
