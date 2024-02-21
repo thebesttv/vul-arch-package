@@ -1,0 +1,15 @@
+{
+  "name": "xaos",
+  "version": "4.3.1-1",
+  "depends": [
+    "qt6-base"
+  ],
+  "makedepends": [
+    "gendesk",
+    "git",
+    "qt6-tools"
+  ],
+  "receive": 199644613,
+  "transmit": 365271,
+  "disk": 31602576
+}
