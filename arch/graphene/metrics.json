@@ -1,0 +1,15 @@
+{
+  "name": "graphene",
+  "version": "1.10.8-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "gtk-doc",
+    "gobject-introspection",
+    "meson",
+    "glib2"
+  ],
+  "receive": 199519502,
+  "transmit": 230687,
+  "disk": 6395510
+}
