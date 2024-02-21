@@ -1,0 +1,14 @@
+{
+  "name": "terminus-font",
+  "version": "4.49.1-6",
+  "depends": [],
+  "makedepends": [
+    "xorg-bdftopcf",
+    "python",
+    "grub",
+    "freetype2"
+  ],
+  "receive": 199557247,
+  "transmit": 284796,
+  "disk": 6971889
+}
