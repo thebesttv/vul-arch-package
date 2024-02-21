@@ -1,0 +1,14 @@
+{
+  "name": "python-sortedcollections",
+  "version": "2.1.0-2",
+  "depends": [
+    "python",
+    "python-sortedcontainers"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199579509,
+  "transmit": 359242,
+  "disk": 261742
+}
