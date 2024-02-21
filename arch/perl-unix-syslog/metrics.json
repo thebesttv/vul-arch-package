@@ -1,0 +1,11 @@
+{
+  "name": "perl-unix-syslog",
+  "version": "1.1-17",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199614052,
+  "transmit": 357959,
+  "disk": 152654
+}
