@@ -1,0 +1,11 @@
+{
+  "name": "awstats",
+  "version": "7.9-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199655125,
+  "transmit": 386580,
+  "disk": 10292799
+}
