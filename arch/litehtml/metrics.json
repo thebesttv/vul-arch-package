@@ -1,0 +1,15 @@
+{
+  "name": "litehtml",
+  "version": "0.9-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gumbo-parser"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200940356,
+  "transmit": 1482639,
+  "disk": 5317282
+}
