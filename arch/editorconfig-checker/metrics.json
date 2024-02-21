@@ -1,0 +1,13 @@
+{
+  "name": "editorconfig-checker",
+  "version": "2.8.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199652849,
+  "transmit": 368076,
+  "disk": 2581822
+}
