@@ -1,0 +1,14 @@
+{
+  "name": "znc-clientbuffer",
+  "version": "1.0.48-2",
+  "depends": [
+    "znc"
+  ],
+  "makedepends": [
+    "cmake",
+    "python"
+  ],
+  "receive": 199597225,
+  "transmit": 372596,
+  "disk": 117322
+}
