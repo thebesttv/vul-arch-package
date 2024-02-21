@@ -1,0 +1,13 @@
+{
+  "name": "lib32-cdparanoia",
+  "version": "10.2-4",
+  "depends": [
+    "cdparanoia",
+    "lib32-gcc-libs",
+    "lib32-glibc"
+  ],
+  "makedepends": [],
+  "receive": 199575825,
+  "transmit": 308285,
+  "disk": 1010219
+}
