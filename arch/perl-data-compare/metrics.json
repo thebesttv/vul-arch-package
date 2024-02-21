@@ -1,0 +1,12 @@
+{
+  "name": "perl-data-compare",
+  "version": "1.29-2",
+  "depends": [
+    "perl-file-find-rule>=0.1",
+    "perl-clone"
+  ],
+  "makedepends": [],
+  "receive": 199620058,
+  "transmit": 333274,
+  "disk": 260611
+}
