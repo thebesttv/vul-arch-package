@@ -1,0 +1,14 @@
+{
+  "name": "python-whatever",
+  "version": "0.7-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199515557,
+  "transmit": 258971,
+  "disk": 358745
+}
