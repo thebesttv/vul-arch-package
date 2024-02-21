@@ -1,0 +1,18 @@
+{
+  "name": "lib32-libsamplerate",
+  "version": "0.2.2-2",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "libsamplerate=0.2.2"
+  ],
+  "makedepends": [
+    "cmake",
+    "lib32-alsa-lib",
+    "lib32-libsndfile",
+    "lib32-opus"
+  ],
+  "receive": 199625526,
+  "transmit": 364629,
+  "disk": 15332148
+}
