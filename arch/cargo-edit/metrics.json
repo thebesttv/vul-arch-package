@@ -1,0 +1,14 @@
+{
+  "name": "cargo-edit",
+  "version": "0.12.2-1",
+  "depends": [
+    "cargo",
+    "libgit2.so",
+    "libssh2",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199645156,
+  "transmit": 390200,
+  "disk": 2226649
+}
