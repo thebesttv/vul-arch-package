@@ -1,0 +1,12 @@
+{
+  "name": "perl-djabberd-rosterstorage-sqlite",
+  "version": "1.00-12",
+  "depends": [
+    "perl-djabberd",
+    "perl-dbd-sqlite"
+  ],
+  "makedepends": [],
+  "receive": 199513482,
+  "transmit": 275547,
+  "disk": 133068
+}
