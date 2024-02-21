@@ -1,0 +1,17 @@
+{
+  "name": "perl-color-calc",
+  "version": "1.074-9",
+  "depends": [
+    "perl-params-validate",
+    "perl-graphics-colornames-www",
+    "perl-graphics-colornames"
+  ],
+  "makedepends": [
+    "perl-params-validate",
+    "perl-graphics-colornames-www",
+    "perl-graphics-colornames"
+  ],
+  "receive": 199708358,
+  "transmit": 434364,
+  "disk": 226390
+}
