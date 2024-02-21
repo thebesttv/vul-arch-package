@@ -1,0 +1,13 @@
+{
+  "name": "ruby-rubocop-performance",
+  "version": "1.15.1-1",
+  "depends": [
+    "ruby",
+    "rubocop",
+    "ruby-rubocop-ast"
+  ],
+  "makedepends": [],
+  "receive": 199659429,
+  "transmit": 418495,
+  "disk": 836846
+}
