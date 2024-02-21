@@ -1,0 +1,12 @@
+{
+  "name": "perl-http-server-simple",
+  "version": "0.52-5",
+  "depends": [
+    "perl-uri",
+    "perl-cgi"
+  ],
+  "makedepends": [],
+  "receive": 200547464,
+  "transmit": 1160923,
+  "disk": 282467
+}
