@@ -1,0 +1,24 @@
+{
+  "name": "python-fastapi",
+  "version": "0.109.2-1",
+  "depends": [
+    "python",
+    "python-anyio",
+    "python-dirty-equals",
+    "python-pydantic",
+    "python-pydantic-core",
+    "python-pydantic-extra-types",
+    "python-pydantic-settings",
+    "python-starlette",
+    "python-typing-extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-wheel"
+  ],
+  "receive": 201510694,
+  "transmit": 528251,
+  "disk": 34806307
+}
