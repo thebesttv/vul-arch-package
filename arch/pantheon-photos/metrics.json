@@ -1,0 +1,37 @@
+{
+  "name": "pantheon-photos",
+  "version": "2.8.0-2",
+  "depends": [
+    "cairo",
+    "gdk-pixbuf2",
+    "geocode-glib",
+    "glib2",
+    "gst-plugins-base-libs",
+    "gstreamer",
+    "gtk3",
+    "json-glib",
+    "libexif",
+    "libgee",
+    "libgexiv2",
+    "libgphoto2",
+    "libgranite.so",
+    "libgudev-1.0.so",
+    "libhandy-1.so",
+    "libraw",
+    "libsoup",
+    "libxml2",
+    "pango",
+    "rest",
+    "sqlite"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "meson",
+    "vala",
+    "webkit2gtk"
+  ],
+  "receive": 391261961,
+  "transmit": 1640499,
+  "disk": 216476486
+}
