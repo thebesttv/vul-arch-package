@@ -1,0 +1,14 @@
+{
+  "name": "python-pychm",
+  "version": "0.8.6-7",
+  "depends": [
+    "chmlib",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199636708,
+  "transmit": 390868,
+  "disk": 215979
+}
