@@ -1,0 +1,14 @@
+{
+  "name": "dsdcc",
+  "version": "1.9.4-1",
+  "depends": [
+    "mbelib",
+    "serialdv"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199647229,
+  "transmit": 413662,
+  "disk": 26415735
+}
