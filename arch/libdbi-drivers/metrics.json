@@ -1,0 +1,15 @@
+{
+  "name": "libdbi-drivers",
+  "version": "0.9.0-10",
+  "depends": [
+    "libdbi"
+  ],
+  "makedepends": [
+    "mariadb-libs",
+    "postgresql-libs",
+    "sqlite"
+  ],
+  "receive": 199560876,
+  "transmit": 311133,
+  "disk": 6916406
+}
