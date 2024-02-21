@@ -1,0 +1,13 @@
+{
+  "name": "jake",
+  "version": "10.8.7-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199506099,
+  "transmit": 226031,
+  "disk": 148929
+}
