@@ -1,0 +1,14 @@
+{
+  "name": "lua-filesystem",
+  "version": "1.8.0-4",
+  "depends": [],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53"
+  ],
+  "receive": 199642570,
+  "transmit": 370221,
+  "disk": 233380
+}
