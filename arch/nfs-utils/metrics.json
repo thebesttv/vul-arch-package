@@ -1,0 +1,14 @@
+{
+  "name": "nfs-utils",
+  "version": "2.6.4-1",
+  "depends": [],
+  "makedepends": [
+    "libevent",
+    "sqlite",
+    "rpcsvc-proto",
+    "device-mapper"
+  ],
+  "receive": 199871942,
+  "transmit": 467218,
+  "disk": 6793281
+}
