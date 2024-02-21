@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-nopt",
+  "version": "7.2.0-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199525725,
+  "transmit": 262175,
+  "disk": 97678
+}
