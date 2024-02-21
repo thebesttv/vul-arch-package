@@ -1,0 +1,16 @@
+{
+  "name": "authoscope",
+  "version": "0.8.1-2",
+  "depends": [
+    "openssl",
+    "lua52",
+    "libcap",
+    "zlib"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199518630,
+  "transmit": 247591,
+  "disk": 513880
+}
