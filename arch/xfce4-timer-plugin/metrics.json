@@ -1,0 +1,13 @@
+{
+  "name": "xfce4-timer-plugin",
+  "version": "1.7.2-1",
+  "depends": [
+    "xfce4-panel"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199593194,
+  "transmit": 317324,
+  "disk": 2806890
+}
