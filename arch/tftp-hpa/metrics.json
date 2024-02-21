@@ -1,0 +1,11 @@
+{
+  "name": "tftp-hpa",
+  "version": "5.2-10",
+  "depends": [
+    "readline>=6.0.00"
+  ],
+  "makedepends": [],
+  "receive": 200115496,
+  "transmit": 826150,
+  "disk": 734300
+}
