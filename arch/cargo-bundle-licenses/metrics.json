@@ -1,0 +1,12 @@
+{
+  "name": "cargo-bundle-licenses",
+  "version": "1.3.0-2",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199614543,
+  "transmit": 371536,
+  "disk": 1309761
+}
