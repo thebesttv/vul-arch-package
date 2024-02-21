@@ -1,0 +1,15 @@
+{
+  "name": "stalonetray",
+  "version": "0.8.5-1",
+  "depends": [
+    "libx11",
+    "libxpm"
+  ],
+  "makedepends": [
+    "libxslt",
+    "docbook-xsl"
+  ],
+  "receive": 199623294,
+  "transmit": 388028,
+  "disk": 636074
+}
