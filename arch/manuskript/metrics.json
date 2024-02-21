@@ -1,0 +1,16 @@
+{
+  "name": "manuskript",
+  "version": "0.16.1-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "python-lxml",
+    "python-markdown",
+    "python-pyenchant",
+    "python-pyqt5",
+    "qt5-svg"
+  ],
+  "makedepends": [],
+  "receive": 199664186,
+  "transmit": 414983,
+  "disk": 26838493
+}
