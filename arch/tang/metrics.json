@@ -1,0 +1,16 @@
+{
+  "name": "tang",
+  "version": "14-1",
+  "depends": [
+    "http-parser",
+    "jose"
+  ],
+  "makedepends": [
+    "git",
+    "asciidoc",
+    "meson"
+  ],
+  "receive": 199701995,
+  "transmit": 367732,
+  "disk": 1082914
+}
