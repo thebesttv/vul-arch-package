@@ -1,0 +1,14 @@
+{
+  "name": "cloudflared",
+  "version": "2024.1.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 242739453,
+  "transmit": 647615,
+  "disk": 77962911
+}
