@@ -1,0 +1,18 @@
+{
+  "name": "sccache",
+  "version": "0.7.7-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "openssl",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199577974,
+  "transmit": 287417,
+  "disk": 18408139
+}
