@@ -1,0 +1,19 @@
+{
+  "name": "caja",
+  "version": "1.26.3-1",
+  "depends": [
+    "exempi",
+    "gvfs",
+    "libexif",
+    "libsm",
+    "mate-desktop",
+    "libnotify"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "intltool"
+  ],
+  "receive": 204931378,
+  "transmit": 350378,
+  "disk": 58731876
+}
