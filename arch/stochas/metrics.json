@@ -1,0 +1,31 @@
+{
+  "name": "stochas",
+  "version": "1.3.10-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "ttf-liberation"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "flac",
+    "freetype2",
+    "gendesk",
+    "git",
+    "jack",
+    "juce",
+    "libjpeg-turbo",
+    "libogg",
+    "libpng",
+    "libvorbis",
+    "libx11",
+    "libxcursor",
+    "libxinerama",
+    "libxrandr",
+    "zlib"
+  ],
+  "receive": 199628987,
+  "transmit": 380527,
+  "disk": 14074590
+}
