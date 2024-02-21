@@ -1,0 +1,14 @@
+{
+  "name": "phpldapadmin",
+  "version": "1.2.6.7-1",
+  "depends": [
+    "libldap",
+    "php"
+  ],
+  "makedepends": [
+    "optipng"
+  ],
+  "receive": 199662784,
+  "transmit": 385862,
+  "disk": 4483535
+}
