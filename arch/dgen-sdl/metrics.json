@@ -1,0 +1,13 @@
+{
+  "name": "dgen-sdl",
+  "version": "1.33-4",
+  "depends": [
+    "sdl",
+    "libgl",
+    "libarchive"
+  ],
+  "makedepends": [],
+  "receive": 199552873,
+  "transmit": 273407,
+  "disk": 6010732
+}
