@@ -1,0 +1,14 @@
+{
+  "name": "perl-html-form",
+  "version": "6.11-2",
+  "depends": [
+    "perl>=5.8.8",
+    "perl-html-parser",
+    "perl-http-message",
+    "perl-uri>=1.10"
+  ],
+  "makedepends": [],
+  "receive": 199592982,
+  "transmit": 343036,
+  "disk": 358304
+}
