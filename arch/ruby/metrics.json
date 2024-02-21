@@ -1,0 +1,18 @@
+{
+  "name": "ruby",
+  "version": "3.0.6-1",
+  "depends": [],
+  "makedepends": [
+    "doxygen",
+    "gdbm",
+    "graphviz",
+    "libffi",
+    "libyaml",
+    "openssl",
+    "ttf-dejavu",
+    "tk"
+  ],
+  "receive": 215938361,
+  "transmit": 417805,
+  "disk": 124954823
+}
