@@ -1,0 +1,13 @@
+{
+  "name": "python-zabbix-api",
+  "version": "0.5.6-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199720053,
+  "transmit": 432042,
+  "disk": 120379
+}
