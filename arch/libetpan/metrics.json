@@ -1,0 +1,16 @@
+{
+  "name": "libetpan",
+  "version": "1.9.4-3",
+  "depends": [
+    "libgcrypt",
+    "gnutls",
+    "libsasl",
+    "zlib"
+  ],
+  "makedepends": [
+    "expat"
+  ],
+  "receive": 199629820,
+  "transmit": 396060,
+  "disk": 15166911
+}
