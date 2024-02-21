@@ -1,0 +1,22 @@
+{
+  "name": "haskell-list-t",
+  "version": "1.0.5.4-61",
+  "depends": [
+    "ghc-libs",
+    "haskell-foldl",
+    "haskell-logict",
+    "haskell-mmorph",
+    "haskell-monad-control",
+    "haskell-transformers-base"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-htf",
+    "haskell-base-prelude",
+    "haskell-mtl-prelude"
+  ],
+  "receive": 199715683,
+  "transmit": 281615,
+  "disk": 289855
+}
