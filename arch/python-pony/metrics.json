@@ -1,0 +1,17 @@
+{
+  "name": "python-pony",
+  "version": "0.7.17-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199487120,
+  "transmit": 225889,
+  "disk": 1853076
+}
