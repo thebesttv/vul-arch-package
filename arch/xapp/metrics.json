@@ -1,0 +1,18 @@
+{
+  "name": "xapp",
+  "version": "2.8.2-1",
+  "depends": [
+    "libdbusmenu-gtk3",
+    "libgnomekbd"
+  ],
+  "makedepends": [
+    "meson",
+    "samurai",
+    "gobject-introspection",
+    "python-gobject",
+    "vala"
+  ],
+  "receive": 199570241,
+  "transmit": 277437,
+  "disk": 2409609
+}
