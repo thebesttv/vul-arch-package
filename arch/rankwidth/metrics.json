@@ -1,0 +1,11 @@
+{
+  "name": "rankwidth",
+  "version": "0.9-2",
+  "depends": [
+    "igraph"
+  ],
+  "makedepends": [],
+  "receive": 199798784,
+  "transmit": 614078,
+  "disk": 1817952
+}
