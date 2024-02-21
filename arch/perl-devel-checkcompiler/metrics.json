@@ -1,0 +1,13 @@
+{
+  "name": "perl-devel-checkcompiler",
+  "version": "0.07-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199726382,
+  "transmit": 452530,
+  "disk": 158028
+}
