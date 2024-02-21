@@ -1,0 +1,22 @@
+{
+  "name": "vagrant",
+  "version": "2.4.1-1",
+  "depends": [
+    "curl",
+    "libarchive",
+    "libssh2",
+    "libxml2",
+    "libxslt",
+    "rsync",
+    "ruby",
+    "xz",
+    "perl"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 391197142,
+  "transmit": 1701996,
+  "disk": 205298836
+}
