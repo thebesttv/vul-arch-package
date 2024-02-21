@@ -1,0 +1,22 @@
+{
+  "name": "gedit-plugins",
+  "version": "46.0-1",
+  "depends": [
+    "gedit",
+    "python-cairo",
+    "python-dbus"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "gobject-introspection",
+    "gucharmap",
+    "libgit2-glib",
+    "meson",
+    "vte3",
+    "yelp-tools"
+  ],
+  "receive": 207544045,
+  "transmit": 422574,
+  "disk": 17536607
+}
