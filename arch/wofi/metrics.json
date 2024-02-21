@@ -1,0 +1,19 @@
+{
+  "name": "wofi",
+  "version": "1.4.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "meson",
+    "pango",
+    "wayland"
+  ],
+  "receive": 199520007,
+  "transmit": 261466,
+  "disk": 518021
+}
