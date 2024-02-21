@@ -1,0 +1,17 @@
+{
+  "name": "varnish",
+  "version": "7.4.2-1",
+  "depends": [
+    "gcc",
+    "libnsl",
+    "pcre2"
+  ],
+  "makedepends": [
+    "python-docutils",
+    "python-sphinx",
+    "git"
+  ],
+  "receive": 199631696,
+  "transmit": 383402,
+  "disk": 21774583
+}
