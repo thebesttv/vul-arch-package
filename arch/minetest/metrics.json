@@ -1,0 +1,27 @@
+{
+  "name": "minetest",
+  "version": "5.8.0-2",
+  "depends": [],
+  "makedepends": [
+    "sqlite",
+    "freetype2",
+    "leveldb",
+    "postgresql",
+    "spatialindex",
+    "openal",
+    "libvorbis",
+    "curl",
+    "hicolor-icon-theme",
+    "cmake",
+    "ninja",
+    "hiredis",
+    "luajit",
+    "libjpeg",
+    "libgl",
+    "libxi",
+    "git"
+  ],
+  "receive": 199725838,
+  "transmit": 481173,
+  "disk": 52547416
+}
