@@ -1,0 +1,13 @@
+{
+  "name": "pastebinit",
+  "version": "1.5.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "asciidoc"
+  ],
+  "receive": 199528938,
+  "transmit": 299139,
+  "disk": 437989
+}
