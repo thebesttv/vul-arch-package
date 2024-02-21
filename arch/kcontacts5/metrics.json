@@ -1,0 +1,19 @@
+{
+  "name": "kcontacts5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kcoreaddons5",
+    "kconfig5",
+    "ki18n5",
+    "kcodecs5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199804532,
+  "transmit": 366739,
+  "disk": 2409873
+}
