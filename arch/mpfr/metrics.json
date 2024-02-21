@@ -1,0 +1,12 @@
+{
+  "name": "mpfr",
+  "version": "4.2.1-2",
+  "depends": [
+    "glibc",
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 201384149,
+  "transmit": 460107,
+  "disk": 11401962
+}
