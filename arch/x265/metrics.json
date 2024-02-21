@@ -1,0 +1,16 @@
+{
+  "name": "x265",
+  "version": "3.5-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "nasm",
+    "ninja"
+  ],
+  "receive": 448236817,
+  "transmit": 820302,
+  "disk": 276944313
+}
