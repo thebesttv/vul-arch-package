@@ -1,0 +1,12 @@
+{
+  "name": "perl-module-implementation",
+  "version": "0.09-9",
+  "depends": [
+    "perl-module-runtime>=0.012",
+    "perl-try-tiny"
+  ],
+  "makedepends": [],
+  "receive": 199636223,
+  "transmit": 355742,
+  "disk": 217486
+}
