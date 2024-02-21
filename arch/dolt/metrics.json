@@ -1,0 +1,13 @@
+{
+  "name": "dolt",
+  "version": "1.34.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 207532762,
+  "transmit": 412630,
+  "disk": 44764116
+}
