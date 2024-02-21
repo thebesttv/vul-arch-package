@@ -1,0 +1,20 @@
+{
+  "name": "python-scikit-hep-testdata",
+  "version": "0.4.25-2",
+  "depends": [
+    "python-pyaml",
+    "python-requests",
+    "python-importlib_resources"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm",
+    "python-toml"
+  ],
+  "receive": 444033714,
+  "transmit": 331430,
+  "disk": 732160679
+}
