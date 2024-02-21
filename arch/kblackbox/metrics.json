@@ -1,0 +1,15 @@
+{
+  "name": "kblackbox",
+  "version": "23.08.5-1",
+  "depends": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199800968,
+  "transmit": 432637,
+  "disk": 3842522
+}
