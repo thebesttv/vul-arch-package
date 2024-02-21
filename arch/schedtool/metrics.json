@@ -1,0 +1,11 @@
+{
+  "name": "schedtool",
+  "version": "1.3.0-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199652690,
+  "transmit": 388037,
+  "disk": 196712
+}
