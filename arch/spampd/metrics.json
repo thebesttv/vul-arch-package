@@ -1,0 +1,13 @@
+{
+  "name": "spampd",
+  "version": "2.61-1",
+  "depends": [
+    "perl",
+    "perl-net-server",
+    "spamassassin"
+  ],
+  "makedepends": [],
+  "receive": 200237304,
+  "transmit": 766635,
+  "disk": 1132407
+}
