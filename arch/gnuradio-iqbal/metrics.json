@@ -1,0 +1,22 @@
+{
+  "name": "gnuradio-iqbal",
+  "version": "0.38.2.r9.gfbee239-6",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "fftw",
+    "gnuradio",
+    "git",
+    "gmp",
+    "libvolk",
+    "pybind11"
+  ],
+  "receive": 199581243,
+  "transmit": 280527,
+  "disk": 1602780
+}
