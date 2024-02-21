@@ -1,0 +1,14 @@
+{
+  "name": "ruby-digest",
+  "version": "3.1.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rake-compiler"
+  ],
+  "receive": 199812941,
+  "transmit": 489100,
+  "disk": 497720
+}
