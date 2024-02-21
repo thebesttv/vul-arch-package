@@ -1,0 +1,45 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=4.74 s (1369.2 files/s 219389.0 lines/s)"
+3009,Coq,48993,27977,242039
+1133,OCaml,42023,42118,226618
+653,Java,11154,20657,57180
+152,Python,6377,9611,24441
+97,reStructuredText,14351,17457,24439
+3,JSON,0,0,21712
+189,C#,2488,10647,18229
+166,Swift,3458,9377,12854
+151,C++,2863,1397,11564
+93,Markdown,3440,62,11148
+60,Dart,2104,6095,10037
+40,ANTLR Grammar,1300,1585,9838
+52,Go,2350,3096,9240
+53,JavaScript,1039,3827,7560
+260,Bourne Shell,1737,912,6557
+27,XML,39,68,6452
+17,TeX,1116,352,5736
+165,C/C++ Header,2326,7192,5247
+7,C,220,190,2877
+1,Assembly,4,1043,2692
+21,Text,650,0,1961
+13,CSS,238,156,1385
+16,YAML,177,96,1165
+12,Maven,44,77,1034
+9,make,177,156,924
+7,CMake,141,68,731
+1,CSV,0,0,501
+3,Objective-C++,89,119,409
+30,Nix,71,42,383
+8,HTML,79,0,334
+1,Lisp,34,33,172
+4,Visual Studio Solution,4,4,170
+4,MSBuild script,15,6,134
+4,Velocity Template Language,24,0,122
+1,C# Generated,19,13,116
+7,DOS Batch,41,26,109
+1,Smalltalk,13,0,71
+2,Dockerfile,27,23,68
+15,Verilog-SystemVerilog,11,0,47
+1,Bourne Again Shell,9,2,45
+1,INI,2,0,8
+1,diff,2,3,8
+1,Windows Resource File,0,0,1
+6491,SUM,149249,164487,726358
