@@ -1,0 +1,11 @@
+{
+  "name": "libxcrypt",
+  "version": "4.4.36-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199587585,
+  "transmit": 333532,
+  "disk": 4472307
+}
