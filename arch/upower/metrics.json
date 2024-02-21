@@ -1,0 +1,21 @@
+{
+  "name": "upower",
+  "version": "1.90.2-1",
+  "depends": [
+    "libgudev",
+    "libimobiledevice",
+    "systemd",
+    "usbmuxd"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "python"
+  ],
+  "receive": 199695805,
+  "transmit": 380200,
+  "disk": 3536110
+}
