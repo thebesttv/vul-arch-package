@@ -1,0 +1,15 @@
+{
+  "name": "dma",
+  "version": "0.13-2",
+  "depends": [
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [
+    "ed",
+    "systemd"
+  ],
+  "receive": 199474893,
+  "transmit": 229612,
+  "disk": 274402
+}
