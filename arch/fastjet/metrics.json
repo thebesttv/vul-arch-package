@@ -1,0 +1,14 @@
+{
+  "name": "fastjet",
+  "version": "3.4.2-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "gcc-fortran",
+    "python"
+  ],
+  "receive": 199573955,
+  "transmit": 234013,
+  "disk": 16624938
+}
