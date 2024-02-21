@@ -1,0 +1,16 @@
+{
+  "name": "e-antic",
+  "version": "2.0.2-1",
+  "depends": [
+    "flint",
+    "gcc-libs",
+    "glibc",
+    "gmp"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 199508614,
+  "transmit": 279079,
+  "disk": 8783743
+}
