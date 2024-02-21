@@ -1,0 +1,11 @@
+{
+  "name": "perl-class-methodmaker",
+  "version": "2.24-12",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199526523,
+  "transmit": 260407,
+  "disk": 590546
+}
