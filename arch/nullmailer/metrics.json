@@ -1,0 +1,11 @@
+{
+  "name": "nullmailer",
+  "version": "2.2-3",
+  "depends": [
+    "gnutls"
+  ],
+  "makedepends": [],
+  "receive": 200113514,
+  "transmit": 803160,
+  "disk": 1407638
+}
