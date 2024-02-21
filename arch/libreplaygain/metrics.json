@@ -1,0 +1,13 @@
+{
+  "name": "libreplaygain",
+  "version": "475-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199772277,
+  "transmit": 503772,
+  "disk": 141286
+}
