@@ -1,0 +1,11 @@
+{
+  "name": "perl-linux-pid",
+  "version": "0.04-16",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199818630,
+  "transmit": 481654,
+  "disk": 112377
+}
