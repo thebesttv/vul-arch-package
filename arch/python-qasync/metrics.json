@@ -1,0 +1,13 @@
+{
+  "name": "python-qasync",
+  "version": "0.24.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199588069,
+  "transmit": 332974,
+  "disk": 223512
+}
