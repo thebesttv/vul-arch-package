@@ -1,0 +1,14 @@
+{
+  "name": "indicator-china-weather",
+  "version": "3.0.4-1",
+  "depends": [
+    "geoip",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199528200,
+  "transmit": 265776,
+  "disk": 4404917
+}
