@@ -1,0 +1,17 @@
+{
+  "name": "haskell-svg-builder",
+  "version": "0.1.1-171",
+  "depends": [
+    "ghc-libs",
+    "haskell-blaze-builder",
+    "haskell-hashable",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199528479,
+  "transmit": 289342,
+  "disk": 310198
+}
