@@ -1,0 +1,13 @@
+{
+  "name": "libmicrodns",
+  "version": "0.2.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199654481,
+  "transmit": 350206,
+  "disk": 412500
+}
