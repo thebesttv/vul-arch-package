@@ -1,0 +1,20 @@
+{
+  "name": "haskell-streaming-commons",
+  "version": "0.2.2.6-22",
+  "depends": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-network",
+    "haskell-random",
+    "haskell-zlib"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199669394,
+  "transmit": 388880,
+  "disk": 592462
+}
