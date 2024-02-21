@@ -1,0 +1,11 @@
+{
+  "name": "libmad",
+  "version": "0.15.1b-10",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199575135,
+  "transmit": 326593,
+  "disk": 2938015
+}
