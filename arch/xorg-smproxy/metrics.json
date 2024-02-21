@@ -1,0 +1,15 @@
+{
+  "name": "xorg-smproxy",
+  "version": "1.0.7-1",
+  "depends": [
+    "libsm",
+    "libxt",
+    "libxmu"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199559946,
+  "transmit": 327629,
+  "disk": 1009658
+}
