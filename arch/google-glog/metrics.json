@@ -1,0 +1,13 @@
+{
+  "name": "google-glog",
+  "version": "0.7.0-1",
+  "depends": [
+    "gflags"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199625206,
+  "transmit": 368889,
+  "disk": 1094719
+}
