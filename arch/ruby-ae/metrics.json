@@ -1,0 +1,11 @@
+{
+  "name": "ruby-ae",
+  "version": "1.8.2-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199733041,
+  "transmit": 440980,
+  "disk": 331380
+}
