@@ -1,0 +1,13 @@
+{
+  "name": "python-pytoml",
+  "version": "0.1.21-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199648713,
+  "transmit": 396579,
+  "disk": 253362
+}
