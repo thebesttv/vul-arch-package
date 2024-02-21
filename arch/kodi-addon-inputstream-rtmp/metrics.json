@@ -1,0 +1,14 @@
+{
+  "name": "kodi-addon-inputstream-rtmp",
+  "version": "20.3.0-9",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "rtmpdump",
+    "p8-platform",
+    "kodi-dev"
+  ],
+  "receive": 199488891,
+  "transmit": 248690,
+  "disk": 814634
+}
