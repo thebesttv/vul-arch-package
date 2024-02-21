@@ -1,0 +1,14 @@
+{
+  "name": "tilda",
+  "version": "2.0.0-1",
+  "depends": [
+    "vte3",
+    "confuse"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199510252,
+  "transmit": 268450,
+  "disk": 2330553
+}
