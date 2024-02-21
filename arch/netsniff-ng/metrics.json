@@ -1,0 +1,28 @@
+{
+  "name": "netsniff-ng",
+  "version": "0.6.8-6",
+  "depends": [
+    "glibc",
+    "ncurses",
+    "libncursesw.so",
+    "geoip",
+    "zlib",
+    "libnetfilter_conntrack",
+    "libpcap",
+    "libpcap.so",
+    "liburcu",
+    "libnl",
+    "libcli",
+    "libcli.so",
+    "libnet",
+    "libsodium"
+  ],
+  "makedepends": [
+    "cmake",
+    "flex",
+    "bison"
+  ],
+  "receive": 199833352,
+  "transmit": 445539,
+  "disk": 3900023
+}
