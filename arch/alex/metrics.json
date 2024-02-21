@@ -1,0 +1,14 @@
+{
+  "name": "alex",
+  "version": "3.2.7.4-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "happy"
+  ],
+  "receive": 199635207,
+  "transmit": 372562,
+  "disk": 742984
+}
