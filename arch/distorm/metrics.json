@@ -1,0 +1,13 @@
+{
+  "name": "distorm",
+  "version": "3.5.2.b-2",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "python-setuptools",
+    "glibc"
+  ],
+  "receive": 199507263,
+  "transmit": 255613,
+  "disk": 2329707
+}
