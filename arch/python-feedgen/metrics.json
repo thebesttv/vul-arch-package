@@ -1,0 +1,16 @@
+{
+  "name": "python-feedgen",
+  "version": "0.9.0-4",
+  "depends": [
+    "python",
+    "python-dateutil",
+    "python-lxml"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 199545352,
+  "transmit": 332941,
+  "disk": 422072
+}
