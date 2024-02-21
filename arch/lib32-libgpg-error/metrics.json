@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libgpg-error",
+  "version": "1.47-1",
+  "depends": [
+    "lib32-glibc",
+    "libgpg-error"
+  ],
+  "makedepends": [],
+  "receive": 199564424,
+  "transmit": 291947,
+  "disk": 6788388
+}
