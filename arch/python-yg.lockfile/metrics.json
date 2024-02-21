@@ -1,0 +1,16 @@
+{
+  "name": "python-yg.lockfile",
+  "version": "2.3-6",
+  "depends": [
+    "python-zc.lockfile",
+    "python-tempora",
+    "python-jaraco.functools"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm"
+  ],
+  "receive": 199558220,
+  "transmit": 301892,
+  "disk": 391157
+}
