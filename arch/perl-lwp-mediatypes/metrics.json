@@ -1,0 +1,11 @@
+{
+  "name": "perl-lwp-mediatypes",
+  "version": "6.04-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200572522,
+  "transmit": 822050,
+  "disk": 308500
+}
