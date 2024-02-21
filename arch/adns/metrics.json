@@ -1,0 +1,11 @@
+{
+  "name": "adns",
+  "version": "1.6.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199710324,
+  "transmit": 358289,
+  "disk": 2201606
+}
