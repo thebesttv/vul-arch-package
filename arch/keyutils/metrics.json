@@ -1,0 +1,14 @@
+{
+  "name": "keyutils",
+  "version": "1.6.3-2",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199602338,
+  "transmit": 375690,
+  "disk": 2062897
+}
