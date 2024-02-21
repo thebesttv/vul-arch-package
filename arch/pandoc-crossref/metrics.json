@@ -1,0 +1,27 @@
+{
+  "name": "pandoc-crossref",
+  "version": "0.3.16.0-108",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default",
+    "haskell-gitrev",
+    "haskell-microlens",
+    "haskell-microlens-ghc",
+    "haskell-microlens-mtl",
+    "haskell-microlens-th",
+    "haskell-open-browser",
+    "haskell-optparse-applicative",
+    "haskell-pandoc",
+    "haskell-pandoc-types",
+    "haskell-syb",
+    "haskell-utility-ht"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "pandoc-cli"
+  ],
+  "receive": 200962132,
+  "transmit": 590575,
+  "disk": 2113040
+}
