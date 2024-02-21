@@ -1,0 +1,14 @@
+{
+  "name": "python-pytest-vcr",
+  "version": "1.0.2-7",
+  "depends": [
+    "python-pytest",
+    "python-vcrpy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199600480,
+  "transmit": 375166,
+  "disk": 140884
+}
