@@ -1,0 +1,16 @@
+{
+  "name": "protozero",
+  "version": "1.7.1-5",
+  "depends": [],
+  "makedepends": [
+    "clang",
+    "cmake",
+    "cppcheck",
+    "protobuf",
+    "doxygen",
+    "graphviz"
+  ],
+  "receive": 199748596,
+  "transmit": 503615,
+  "disk": 3729306
+}
