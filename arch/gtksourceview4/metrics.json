@@ -1,0 +1,20 @@
+{
+  "name": "gtksourceview4",
+  "version": "4.8.4-1",
+  "depends": [
+    "gtk3",
+    "libxml2"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "vala",
+    "gtk-doc",
+    "glade",
+    "yelp-tools",
+    "git",
+    "meson"
+  ],
+  "receive": 219488119,
+  "transmit": 434885,
+  "disk": 32784275
+}
