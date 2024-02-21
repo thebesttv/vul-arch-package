@@ -1,0 +1,11 @@
+{
+  "name": "emacs-muse",
+  "version": "3.20.2-1",
+  "depends": [
+    "emacs"
+  ],
+  "makedepends": [],
+  "receive": 199719856,
+  "transmit": 381752,
+  "disk": 1882336
+}
