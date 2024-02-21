@@ -1,0 +1,13 @@
+{
+  "name": "libupnp",
+  "version": "1.14.18-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199627247,
+  "transmit": 369740,
+  "disk": 3765260
+}
