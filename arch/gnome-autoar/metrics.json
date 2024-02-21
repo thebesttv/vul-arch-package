@@ -1,0 +1,19 @@
+{
+  "name": "gnome-autoar",
+  "version": "0.4.4-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libarchive"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "vala"
+  ],
+  "receive": 199560412,
+  "transmit": 340666,
+  "disk": 1492638
+}
