@@ -1,0 +1,17 @@
+{
+  "name": "lastpass-cli",
+  "version": "1.3.5-1",
+  "depends": [
+    "openssl",
+    "curl",
+    "libxml2"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "cmake",
+    "bash-completion"
+  ],
+  "receive": 199684960,
+  "transmit": 459758,
+  "disk": 743598
+}
