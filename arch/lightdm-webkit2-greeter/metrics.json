@@ -1,0 +1,19 @@
+{
+  "name": "lightdm-webkit2-greeter",
+  "version": "2.2.5-7",
+  "depends": [
+    "lightdm",
+    "webkit2gtk",
+    "accountsservice",
+    "gnome-backgrounds"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "gettext",
+    "dbus-glib"
+  ],
+  "receive": 199621769,
+  "transmit": 357095,
+  "disk": 3491261
+}
