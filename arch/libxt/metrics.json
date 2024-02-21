@@ -1,0 +1,14 @@
+{
+  "name": "libxt",
+  "version": "1.3.0-1",
+  "depends": [
+    "libsm",
+    "libx11"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199619644,
+  "transmit": 376182,
+  "disk": 6162561
+}
