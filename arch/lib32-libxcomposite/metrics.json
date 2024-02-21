@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libxcomposite",
+  "version": "0.4.6-1",
+  "depends": [
+    "lib32-libxfixes",
+    "libxcomposite"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "gcc-multilib"
+  ],
+  "receive": 199628038,
+  "transmit": 376834,
+  "disk": 2126876
+}
