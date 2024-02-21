@@ -1,0 +1,27 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.66 s (562.1 files/s 456745.0 lines/s)"
+5,SVG,1,1,132543
+52,PO File,23711,31092,60608
+160,Vala,6517,3665,25339
+27,Qt,9,46,3716
+11,Vala Header,172,633,2600
+11,Glade,1,11,1603
+6,C,381,126,1475
+27,Ruby,208,69,1445
+16,Meson,120,14,847
+13,Bourne Shell,85,249,360
+9,Bourne Again Shell,94,20,323
+3,Python,120,17,262
+1,JSON,0,0,222
+5,CSS,53,3,216
+6,C/C++ Header,59,108,161
+7,XML,13,4,132
+1,Perl,31,42,101
+1,WiX source,10,5,76
+2,Markdown,16,0,40
+1,INI,8,0,31
+1,WiX include,0,0,14
+1,YAML,3,0,13
+1,DOS Batch,1,0,8
+1,Text,0,0,5
+1,Windows Resource File,0,0,1
+369,SUM,31613,36105,232141

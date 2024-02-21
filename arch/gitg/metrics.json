@@ -1,0 +1,39 @@
+{
+  "name": "gitg",
+  "version": "2:44-1",
+  "depends": [
+    "cairo",
+    "dconf",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glibc",
+    "glib2",
+    "gobject-introspection-runtime",
+    "gpgme",
+    "gsettings-desktop-schemas",
+    "gspell",
+    "gtk3",
+    "gtksourceview4",
+    "hicolor-icon-theme",
+    "json-glib",
+    "libdazzle",
+    "libgee",
+    "libgirepository",
+    "libgit2-glib",
+    "libhandy",
+    "libpeas",
+    "libsecret",
+    "libxml2",
+    "pango",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199554864,
+  "transmit": 267895,
+  "disk": 38432517
+}
