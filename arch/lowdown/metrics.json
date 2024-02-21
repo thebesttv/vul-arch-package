@@ -1,0 +1,14 @@
+{
+  "name": "lowdown",
+  "version": "1.0.2-2",
+  "depends": [
+    "glibc",
+    "libmd"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199540316,
+  "transmit": 300694,
+  "disk": 5094667
+}
