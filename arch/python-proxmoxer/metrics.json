@@ -1,0 +1,13 @@
+{
+  "name": "python-proxmoxer",
+  "version": "2.0.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199690887,
+  "transmit": 412039,
+  "disk": 189341
+}
