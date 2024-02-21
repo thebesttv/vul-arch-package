@@ -1,0 +1,12 @@
+{
+  "name": "perl-convert-tnef",
+  "version": "0.18-11",
+  "depends": [
+    "perl-io-stringy",
+    "perl-mime-tools"
+  ],
+  "makedepends": [],
+  "receive": 199609840,
+  "transmit": 359427,
+  "disk": 107135
+}
