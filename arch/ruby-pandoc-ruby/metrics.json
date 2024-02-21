@@ -1,0 +1,12 @@
+{
+  "name": "ruby-pandoc-ruby",
+  "version": "2.1.7-1",
+  "depends": [
+    "pandoc",
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199703102,
+  "transmit": 421887,
+  "disk": 203759
+}
