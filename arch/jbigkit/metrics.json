@@ -1,0 +1,11 @@
+{
+  "name": "jbigkit",
+  "version": "2.1-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199677675,
+  "transmit": 410368,
+  "disk": 1339673
+}
