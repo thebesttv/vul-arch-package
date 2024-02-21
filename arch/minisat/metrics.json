@@ -1,0 +1,12 @@
+{
+  "name": "minisat",
+  "version": "2.2.1.20201216-1",
+  "depends": [
+    "gcc-libs",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199504056,
+  "transmit": 241486,
+  "disk": 393373
+}
