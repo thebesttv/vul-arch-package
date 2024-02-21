@@ -1,0 +1,11 @@
+{
+  "name": "perl-proc-simple",
+  "version": "1.32-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199597980,
+  "transmit": 341543,
+  "disk": 176226
+}
