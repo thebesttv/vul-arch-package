@@ -1,0 +1,27 @@
+{
+  "name": "lxqt-panel",
+  "version": "1.4.0-1",
+  "depends": [
+    "libdbusmenu-qt5",
+    "libxcomposite",
+    "lxqt-menu-data",
+    "libxtst",
+    "lxqt-globalkeys",
+    "solid5",
+    "libxcb",
+    "libQt5Xdg.so"
+  ],
+  "makedepends": [
+    "lxqt-build-tools",
+    "liblxqt",
+    "libpulse",
+    "libstatgrab",
+    "libsysstat",
+    "lm_sensors",
+    "libxdamage",
+    "alsa-lib"
+  ],
+  "receive": 200906364,
+  "transmit": 1094118,
+  "disk": 8085832
+}
