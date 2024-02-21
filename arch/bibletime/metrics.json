@@ -1,0 +1,23 @@
+{
+  "name": "bibletime",
+  "version": "3.0.3-2",
+  "depends": [
+    "sword",
+    "clucene",
+    "qt5-webengine",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "docbook-xsl",
+    "expac",
+    "fop",
+    "git",
+    "ninja",
+    "po4a",
+    "qt5-tools"
+  ],
+  "receive": 250134528,
+  "transmit": 498848,
+  "disk": 85302158
+}
