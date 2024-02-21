@@ -1,0 +1,12 @@
+{
+  "name": "zug",
+  "version": "0.1.1-1",
+  "depends": [],
+  "makedepends": [
+    "catch2",
+    "cmake"
+  ],
+  "receive": 199747816,
+  "transmit": 453085,
+  "disk": 801165
+}
