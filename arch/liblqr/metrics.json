@@ -1,0 +1,11 @@
+{
+  "name": "liblqr",
+  "version": "0.4.2-3",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [],
+  "receive": 199566421,
+  "transmit": 295621,
+  "disk": 2607955
+}
