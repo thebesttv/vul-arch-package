@@ -1,0 +1,12 @@
+{
+  "name": "dcraw",
+  "version": "9.28.0-4",
+  "depends": [
+    "lcms2",
+    "jasper"
+  ],
+  "makedepends": [],
+  "receive": 199573006,
+  "transmit": 343108,
+  "disk": 992433
+}
