@@ -1,0 +1,22 @@
+{
+  "name": "llvm-julia",
+  "version": "15.0.7.10-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "cmake",
+    "libedit",
+    "libffi",
+    "libxml2",
+    "ncurses",
+    "ninja",
+    "python"
+  ],
+  "receive": 370540579,
+  "transmit": 1762646,
+  "disk": 1380117301
+}
