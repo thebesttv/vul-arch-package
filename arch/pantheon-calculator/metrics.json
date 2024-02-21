@@ -1,0 +1,17 @@
+{
+  "name": "pantheon-calculator",
+  "version": "2.0.3-1",
+  "depends": [
+    "glib2",
+    "libgranite-7.so"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199551082,
+  "transmit": 290493,
+  "disk": 6221163
+}
