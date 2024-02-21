@@ -1,0 +1,26 @@
+{
+  "name": "supertuxkart",
+  "version": "1.4-5",
+  "depends": [
+    "openal",
+    "libvorbis",
+    "freetype2",
+    "harfbuzz",
+    "curl",
+    "bluez-libs",
+    "sqlite",
+    "libjpeg-turbo",
+    "libpng",
+    "hicolor-icon-theme",
+    "sdl2",
+    "shaderc"
+  ],
+  "makedepends": [
+    "cmake",
+    "setconf",
+    "ninja"
+  ],
+  "receive": 852363666,
+  "transmit": 943188,
+  "disk": 1445671072
+}
