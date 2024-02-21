@@ -1,0 +1,14 @@
+{
+  "name": "osc2midi",
+  "version": "0.2.5-2",
+  "depends": [
+    "jack",
+    "liblo"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199684029,
+  "transmit": 406509,
+  "disk": 545644
+}
