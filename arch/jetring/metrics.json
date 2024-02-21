@@ -1,0 +1,12 @@
+{
+  "name": "jetring",
+  "version": "0.30-1",
+  "depends": [
+    "gnupg",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199558073,
+  "transmit": 289288,
+  "disk": 718895
+}
