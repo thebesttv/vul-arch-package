@@ -1,0 +1,15 @@
+{
+  "name": "python-fuse",
+  "version": "1.0.5-2",
+  "depends": [
+    "fuse2",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "fuse2"
+  ],
+  "receive": 199581044,
+  "transmit": 341145,
+  "disk": 309956
+}
