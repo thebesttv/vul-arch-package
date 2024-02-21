@@ -1,0 +1,12 @@
+{
+  "name": "ruby-mime-types",
+  "version": "3.4.1-1",
+  "depends": [
+    "ruby",
+    "ruby-mime-types-data"
+  ],
+  "makedepends": [],
+  "receive": 199486438,
+  "transmit": 244564,
+  "disk": 137360
+}
