@@ -1,0 +1,14 @@
+{
+  "name": "python-tenacity",
+  "version": "8.2.3-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm"
+  ],
+  "receive": 199639320,
+  "transmit": 338054,
+  "disk": 1516127
+}
