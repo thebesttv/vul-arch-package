@@ -1,0 +1,23 @@
+{
+  "name": "gnome-usage",
+  "version": "45.0-1",
+  "depends": [
+    "glib2",
+    "gtk4",
+    "libadwaita",
+    "libgee",
+    "libgtop",
+    "tracker3",
+    "xdg-user-dirs"
+  ],
+  "makedepends": [
+    "accountsservice",
+    "gamemode",
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 208423052,
+  "transmit": 495911,
+  "disk": 17877287
+}
