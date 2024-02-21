@@ -1,0 +1,14 @@
+{
+  "name": "haskell-ansi-terminal",
+  "version": "0.11.4-58",
+  "depends": [
+    "ghc-libs",
+    "haskell-colour"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199661651,
+  "transmit": 427522,
+  "disk": 671825
+}
