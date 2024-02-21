@@ -1,0 +1,12 @@
+{
+  "name": "evcxr_repl",
+  "version": "0.17.0-1",
+  "depends": [
+    "gcc-libs",
+    "rust-src"
+  ],
+  "makedepends": [],
+  "receive": 199546277,
+  "transmit": 310597,
+  "disk": 1061860
+}
