@@ -1,0 +1,42 @@
+{
+  "name": "baresip",
+  "version": "3.9.0-1",
+  "depends": [
+    "libre.so",
+    "openssl"
+  ],
+  "makedepends": [
+    "libfdk-aac",
+    "alsa-lib",
+    "opencore-amr",
+    "aom",
+    "codec2",
+    "ffmpeg",
+    "gsm",
+    "gst-plugins-bad",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gst-plugins-ugly",
+    "gtk3",
+    "jack2",
+    "lame",
+    "libvpx",
+    "libsndfile",
+    "libpng",
+    "libpulse",
+    "libx11",
+    "mpg123",
+    "opus",
+    "portaudio",
+    "sdl2",
+    "spandsp",
+    "speexdsp",
+    "sndio",
+    "v4l-utils",
+    "python",
+    "cmake"
+  ],
+  "receive": 199894742,
+  "transmit": 576500,
+  "disk": 4824572
+}
