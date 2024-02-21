@@ -1,0 +1,12 @@
+{
+  "name": "svgcleaner",
+  "version": "0.9.5-3",
+  "depends": [],
+  "makedepends": [
+    "gcc-libs",
+    "cargo"
+  ],
+  "receive": 199594153,
+  "transmit": 320003,
+  "disk": 983664
+}
