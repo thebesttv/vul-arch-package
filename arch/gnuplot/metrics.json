@@ -1,0 +1,32 @@
+{
+  "name": "gnuplot",
+  "version": "6.0.0-1",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "gd",
+    "glib2",
+    "glibc",
+    "gtk3",
+    "libcaca",
+    "libcerf",
+    "libwebp",
+    "libx11",
+    "lua",
+    "pango",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-svg",
+    "readline",
+    "wxwidgets-common",
+    "wxwidgets-gtk3"
+  ],
+  "makedepends": [
+    "emacs",
+    "qt6-tools",
+    "texlive-latexextra"
+  ],
+  "receive": 199778770,
+  "transmit": 445619,
+  "disk": 24827508
+}
