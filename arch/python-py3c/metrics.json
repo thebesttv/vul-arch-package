@@ -1,0 +1,13 @@
+{
+  "name": "python-py3c",
+  "version": "1.4-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199652540,
+  "transmit": 364076,
+  "disk": 343518
+}
