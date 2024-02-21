@@ -1,0 +1,13 @@
+{
+  "name": "booth",
+  "version": "1.1.2-1",
+  "depends": [
+    "mauikit"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199651773,
+  "transmit": 369220,
+  "disk": 1059481
+}
