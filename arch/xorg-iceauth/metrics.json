@@ -1,0 +1,14 @@
+{
+  "name": "xorg-iceauth",
+  "version": "1.0.9-1",
+  "depends": [
+    "libice"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 200909178,
+  "transmit": 917364,
+  "disk": 1008156
+}
