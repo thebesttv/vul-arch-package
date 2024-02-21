@@ -1,0 +1,22 @@
+{
+  "name": "lsp-plugins",
+  "version": "1.2.14-1",
+  "depends": [],
+  "makedepends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "libx11",
+    "libxrandr",
+    "jack",
+    "ladspa",
+    "libsndfile",
+    "lv2",
+    "php"
+  ],
+  "receive": 246454836,
+  "transmit": 473991,
+  "disk": 145760744
+}
