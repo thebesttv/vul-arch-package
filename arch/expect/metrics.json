@@ -1,0 +1,11 @@
+{
+  "name": "expect",
+  "version": "5.45.4-4",
+  "depends": [
+    "tcl"
+  ],
+  "makedepends": [],
+  "receive": 199572616,
+  "transmit": 318605,
+  "disk": 2888221
+}
