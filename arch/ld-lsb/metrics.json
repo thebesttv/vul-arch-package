@@ -1,0 +1,11 @@
+{
+  "name": "ld-lsb",
+  "version": "3-8",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199520217,
+  "transmit": 277724,
+  "disk": 83959
+}
