@@ -1,0 +1,14 @@
+{
+  "name": "pint",
+  "version": "0.45.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199960131,
+  "transmit": 536769,
+  "disk": 6508279
+}
