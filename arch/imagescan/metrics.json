@@ -1,0 +1,17 @@
+{
+  "name": "imagescan",
+  "version": "3.65.0-10",
+  "depends": [
+    "sane",
+    "gtkmm",
+    "graphicsmagick",
+    "boost-libs"
+  ],
+  "makedepends": [
+    "boost",
+    "systemd"
+  ],
+  "receive": 199960626,
+  "transmit": 441350,
+  "disk": 75431427
+}
