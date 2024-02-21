@@ -1,0 +1,16 @@
+{
+  "name": "cl-flexi-streams",
+  "version": "1.0.19.r4.g74a1027-1",
+  "depends": [
+    "common-lisp",
+    "cl-asdf",
+    "cl-trivial-gray-streams"
+  ],
+  "makedepends": [
+    "git",
+    "sbcl"
+  ],
+  "receive": 199612194,
+  "transmit": 350331,
+  "disk": 2563757
+}
