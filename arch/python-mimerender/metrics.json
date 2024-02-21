@@ -1,0 +1,13 @@
+{
+  "name": "python-mimerender",
+  "version": "0.6.0-8",
+  "depends": [
+    "python-mimeparse"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199603456,
+  "transmit": 383591,
+  "disk": 191460
+}
