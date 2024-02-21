@@ -1,0 +1,12 @@
+{
+  "name": "gv",
+  "version": "3.7.4-5",
+  "depends": [
+    "xaw3d",
+    "ghostscript"
+  ],
+  "makedepends": [],
+  "receive": 199542570,
+  "transmit": 277275,
+  "disk": 4065845
+}
