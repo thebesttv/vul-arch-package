@@ -1,0 +1,14 @@
+{
+  "name": "yubikey-touch-detector",
+  "version": "1.10.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 203391736,
+  "transmit": 364325,
+  "disk": 16039323
+}
