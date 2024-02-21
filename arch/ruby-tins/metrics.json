@@ -1,0 +1,15 @@
+{
+  "name": "ruby-tins",
+  "version": "1.32.1-1",
+  "depends": [
+    "ruby",
+    "ruby-sync"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rake"
+  ],
+  "receive": 199815298,
+  "transmit": 495120,
+  "disk": 1435615
+}
