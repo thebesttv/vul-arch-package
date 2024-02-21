@@ -1,0 +1,16 @@
+{
+  "name": "cl-alexandria",
+  "version": "1.4.r17.g2f39fbf-2",
+  "depends": [
+    "cl-asdf",
+    "common-lisp"
+  ],
+  "makedepends": [
+    "git",
+    "sbcl",
+    "texlive-bin"
+  ],
+  "receive": 199548940,
+  "transmit": 277702,
+  "disk": 817182
+}
