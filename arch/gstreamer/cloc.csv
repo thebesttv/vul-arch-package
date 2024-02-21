@@ -1,0 +1,63 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=35.81 s (349.2 files/s 222480.7 lines/s)"
+2853,HTML,1435600,32,2195035
+3239,C,356365,306768,1715080
+20,JSON,0,0,513668
+155,XML,3389,689,328124
+2867,C/C++ Header,64004,124994,216533
+311,C++,33393,22603,145457
+973,C#,21872,3865,106357
+216,PO File,40279,21948,84652
+342,Markdown,14922,26,47432
+219,Python,8536,6492,31388
+605,Meson,2817,1088,24762
+252,JavaScript,3553,2870,16081
+42,Objective-C,2540,1166,11729
+80,Text,2259,0,8391
+11,CSS,58,27,8005
+19,SVG,23,81,3758
+8,Assembly,420,688,3037
+11,Glade,0,15,2726
+51,Bourne Shell,553,700,2501
+32,Java,453,401,2236
+7,Rust,409,253,2122
+1,yacc,154,74,1210
+9,QML,129,24,987
+3,Qt,121,5,745
+4,YAML,68,112,692
+3,PHP,166,145,584
+15,Gradle,124,20,545
+7,diff,103,369,398
+4,Scheme,91,119,394
+12,Fortran 77,44,0,372
+24,make,58,30,339
+8,Bourne Again Shell,61,31,315
+17,GLSL,82,290,311
+3,lex,62,19,258
+2,Objective-C++,53,48,239
+3,Visual Studio Solution,2,2,228
+3,INI,45,0,194
+2,Pascal,69,276,181
+4,ProGuard,37,28,174
+8,DOS Batch,52,4,158
+7,Qt Project,36,7,152
+5,PowerShell,22,15,106
+2,Perl,31,42,102
+6,Dockerfile,36,18,97
+3,TOML,5,0,65
+1,Windows Module Definition,13,0,63
+1,MSBuild script,0,0,48
+2,m4,2,10,22
+1,CMake,5,0,18
+7,Properties,20,68,12
+8,MATLAB,0,0,8
+5,Visualforce Component,0,0,5
+3,Specman e,0,0,3
+2,ANTLR Grammar,0,0,2
+2,Ada,0,0,2
+2,TNSDL,0,0,2
+1,Elixir,0,0,1
+1,SWIG,0,0,1
+1,SparForte,0,0,1
+1,TypeScript,0,0,1
+1,Verilog-SystemVerilog,0,0,1
+12507,SUM,1993136,496462,5478110
