@@ -1,0 +1,13 @@
+{
+  "name": "sharutils",
+  "version": "4.15.2-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "gettext"
+  ],
+  "receive": 199561364,
+  "transmit": 339834,
+  "disk": 10660717
+}
