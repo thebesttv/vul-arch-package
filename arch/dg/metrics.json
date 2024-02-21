@@ -1,0 +1,13 @@
+{
+  "name": "dg",
+  "version": "1.1.0.20160916-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199505087,
+  "transmit": 252159,
+  "disk": 6787090
+}
