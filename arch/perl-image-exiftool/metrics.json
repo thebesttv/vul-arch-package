@@ -1,0 +1,11 @@
+{
+  "name": "perl-image-exiftool",
+  "version": "12.76-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199636935,
+  "transmit": 396686,
+  "disk": 31747114
+}
