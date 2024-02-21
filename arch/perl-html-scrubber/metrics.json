@@ -1,0 +1,14 @@
+{
+  "name": "perl-html-scrubber",
+  "version": "0.19-4",
+  "depends": [
+    "perl>=5.10.0",
+    "perl-html-parser>=3"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199609918,
+  "transmit": 389643,
+  "disk": 301904
+}
