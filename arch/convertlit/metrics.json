@@ -1,0 +1,11 @@
+{
+  "name": "convertlit",
+  "version": "1.8-11",
+  "depends": [
+    "libtommath"
+  ],
+  "makedepends": [],
+  "receive": 199531263,
+  "transmit": 263532,
+  "disk": 691934
+}
