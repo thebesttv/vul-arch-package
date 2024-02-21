@@ -1,0 +1,12 @@
+{
+  "name": "jack_utils",
+  "version": "0.0.1-2",
+  "depends": [
+    "glibc",
+    "jack"
+  ],
+  "makedepends": [],
+  "receive": 199752305,
+  "transmit": 437296,
+  "disk": 131944
+}
