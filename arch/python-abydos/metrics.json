@@ -1,0 +1,13 @@
+{
+  "name": "python-abydos",
+  "version": "0.5.0-5",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 218432328,
+  "transmit": 533699,
+  "disk": 112392857
+}
