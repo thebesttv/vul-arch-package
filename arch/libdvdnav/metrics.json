@@ -1,0 +1,12 @@
+{
+  "name": "libdvdnav",
+  "version": "6.1.1-2",
+  "depends": [
+    "glibc",
+    "libdvdread"
+  ],
+  "makedepends": [],
+  "receive": 199616842,
+  "transmit": 379244,
+  "disk": 2372643
+}
