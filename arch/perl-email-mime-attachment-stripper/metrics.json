@@ -1,0 +1,13 @@
+{
+  "name": "perl-email-mime-attachment-stripper",
+  "version": "1.317-4",
+  "depends": [
+    "perl-email-mime-modifier>=1.442",
+    "perl-email-mime-contenttype>=1.0",
+    "perl-email-mime>=1.861"
+  ],
+  "makedepends": [],
+  "receive": 200116309,
+  "transmit": 690994,
+  "disk": 234621
+}
