@@ -1,0 +1,11 @@
+{
+  "name": "perl-algorithm-diff",
+  "version": "1:1.201-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199543197,
+  "transmit": 318786,
+  "disk": 263458
+}
