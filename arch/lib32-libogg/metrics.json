@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libogg",
+  "version": "1.3.5-1",
+  "depends": [
+    "lib32-glibc",
+    "libogg"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199737919,
+  "transmit": 390816,
+  "disk": 3288043
+}
