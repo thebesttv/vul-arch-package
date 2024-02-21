@@ -1,0 +1,15 @@
+{
+  "name": "beatslash-lv2",
+  "version": "1.0.6-3",
+  "depends": [
+    "gtkmm"
+  ],
+  "makedepends": [
+    "lv2",
+    "lvtk",
+    "waf"
+  ],
+  "receive": 199596482,
+  "transmit": 359358,
+  "disk": 1833987
+}
