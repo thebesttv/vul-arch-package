@@ -1,0 +1,17 @@
+{
+  "name": "konsole",
+  "version": "23.08.5-1",
+  "depends": [
+    "knotifyconfig5",
+    "kpty5",
+    "kparts5",
+    "knewstuff5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 200003240,
+  "transmit": 541602,
+  "disk": 23440785
+}
