@@ -1,0 +1,31 @@
+{
+  "name": "haskell-lsp-test0.14.0",
+  "version": "0.14.0.2-85",
+  "depends": [
+    "ghc-libs",
+    "haskell-diff",
+    "haskell-glob",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-ansi-terminal",
+    "haskell-async",
+    "haskell-conduit",
+    "haskell-conduit-parse",
+    "haskell-data-default",
+    "haskell-lens",
+    "haskell-lsp1.4",
+    "haskell-lsp-types1.4",
+    "haskell-parser-combinators",
+    "haskell-some",
+    "haskell-unliftio",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec"
+  ],
+  "receive": 199668209,
+  "transmit": 414688,
+  "disk": 455027
+}
