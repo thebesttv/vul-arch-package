@@ -1,0 +1,16 @@
+{
+  "name": "haskell-basic-prelude",
+  "version": "0.7.0-261",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199714696,
+  "transmit": 304755,
+  "disk": 327082
+}
