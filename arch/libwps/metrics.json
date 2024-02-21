@@ -1,0 +1,14 @@
+{
+  "name": "libwps",
+  "version": "0.4.14-1",
+  "depends": [
+    "libwpd",
+    "librevenge"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199693762,
+  "transmit": 457206,
+  "disk": 6104657
+}
