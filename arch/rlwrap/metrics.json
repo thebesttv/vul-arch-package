@@ -1,0 +1,16 @@
+{
+  "name": "rlwrap",
+  "version": "0.46.1-1",
+  "depends": [
+    "glibc",
+    "readline",
+    "ncurses",
+    "perl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199536562,
+  "transmit": 327560,
+  "disk": 2086135
+}
