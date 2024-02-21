@@ -1,0 +1,14 @@
+{
+  "name": "libcbor",
+  "version": "0.11.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "cmocka"
+  ],
+  "receive": 199592710,
+  "transmit": 348132,
+  "disk": 1355622
+}
