@@ -1,0 +1,18 @@
+{
+  "name": "python-apeye-core",
+  "version": "1.1.4-1",
+  "depends": [
+    "python",
+    "python-domdf-python-tools",
+    "python-idna"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatch-requirements-txt"
+  ],
+  "receive": 199579816,
+  "transmit": 311920,
+  "disk": 944460
+}
