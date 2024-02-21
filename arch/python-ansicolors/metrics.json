@@ -1,0 +1,13 @@
+{
+  "name": "python-ansicolors",
+  "version": "1.1.8-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199878072,
+  "transmit": 557109,
+  "disk": 144415
+}
