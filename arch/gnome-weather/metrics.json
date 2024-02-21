@@ -1,0 +1,20 @@
+{
+  "name": "gnome-weather",
+  "version": "45.0-1",
+  "depends": [
+    "geoclue",
+    "gjs",
+    "gtk4",
+    "libadwaita",
+    "libgweather-4"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "gobject-introspection",
+    "meson"
+  ],
+  "receive": 199561683,
+  "transmit": 267491,
+  "disk": 27772270
+}
