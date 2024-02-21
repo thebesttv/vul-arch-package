@@ -1,0 +1,12 @@
+{
+  "name": "dvd+rw-tools",
+  "version": "7.1-9",
+  "depends": [
+    "cdrkit",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199560282,
+  "transmit": 292327,
+  "disk": 726047
+}
