@@ -1,0 +1,11 @@
+{
+  "name": "perl-error",
+  "version": "0.17029-5",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199555325,
+  "transmit": 326263,
+  "disk": 316552
+}
