@@ -1,0 +1,17 @@
+{
+  "name": "binutils",
+  "version": "2.42-2",
+  "depends": [
+    "glibc",
+    "jansson",
+    "libelf",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 682137973,
+  "transmit": 712581,
+  "disk": 908353039
+}
