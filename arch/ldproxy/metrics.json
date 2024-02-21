@@ -1,0 +1,13 @@
+{
+  "name": "ldproxy",
+  "version": "0.3.3-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199545022,
+  "transmit": 270772,
+  "disk": 2014439
+}
