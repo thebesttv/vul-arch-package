@@ -1,0 +1,25 @@
+{
+  "name": "rmlint",
+  "version": "2.10.2-1",
+  "depends": [],
+  "makedepends": [
+    "scons",
+    "python-sphinx",
+    "gettext",
+    "sqlite",
+    "util-linux-libs",
+    "binutils",
+    "json-glib",
+    "libelf",
+    "python-gobject",
+    "python-cairo",
+    "dconf",
+    "gtksourceview3",
+    "librsvg",
+    "desktop-file-utils",
+    "python-requests"
+  ],
+  "receive": 199844346,
+  "transmit": 636073,
+  "disk": 6746441
+}
