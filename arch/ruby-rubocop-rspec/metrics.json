@@ -1,0 +1,12 @@
+{
+  "name": "ruby-rubocop-rspec",
+  "version": "2.15.0-1",
+  "depends": [
+    "ruby",
+    "rubocop"
+  ],
+  "makedepends": [],
+  "receive": 199531345,
+  "transmit": 267403,
+  "disk": 1467300
+}
