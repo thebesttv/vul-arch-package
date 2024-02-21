@@ -1,0 +1,14 @@
+{
+  "name": "pd-lua",
+  "version": "0.11.6-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "lua",
+    "pd"
+  ],
+  "makedepends": [],
+  "receive": 199588793,
+  "transmit": 338510,
+  "disk": 4540510
+}
