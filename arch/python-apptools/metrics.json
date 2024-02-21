@@ -1,0 +1,13 @@
+{
+  "name": "python-apptools",
+  "version": "5.2.0-2",
+  "depends": [
+    "python-traits"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199660064,
+  "transmit": 402296,
+  "disk": 1329365
+}
