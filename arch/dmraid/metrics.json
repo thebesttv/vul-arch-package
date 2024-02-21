@@ -1,0 +1,11 @@
+{
+  "name": "dmraid",
+  "version": "1.0.0.rc16.3-14",
+  "depends": [
+    "device-mapper>=2.0.54"
+  ],
+  "makedepends": [],
+  "receive": 199560584,
+  "transmit": 325380,
+  "disk": 1666245
+}
