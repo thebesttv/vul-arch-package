@@ -1,0 +1,21 @@
+{
+  "name": "astromenace",
+  "version": "1.4.2-1",
+  "depends": [
+    "sdl2",
+    "freealut",
+    "libjpeg",
+    "libvorbis",
+    "glu",
+    "freetype2",
+    "libxinerama"
+  ],
+  "makedepends": [
+    "cmake",
+    "mesa",
+    "ninja"
+  ],
+  "receive": 214354595,
+  "transmit": 488653,
+  "disk": 192961695
+}
