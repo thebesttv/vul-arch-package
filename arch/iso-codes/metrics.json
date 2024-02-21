@@ -1,0 +1,11 @@
+{
+  "name": "iso-codes",
+  "version": "4.16.0-1",
+  "depends": [],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 215035298,
+  "transmit": 509336,
+  "disk": 93151166
+}
