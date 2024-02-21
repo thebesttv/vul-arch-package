@@ -1,0 +1,25 @@
+{
+  "name": "terminator",
+  "version": "2.1.3-3",
+  "depends": [
+    "gsettings-desktop-schemas",
+    "libkeybinder3",
+    "libnotify",
+    "python-cairo",
+    "python-configobj",
+    "python-dbus",
+    "python-psutil",
+    "python-gobject",
+    "vte3",
+    "xdg-utils"
+  ],
+  "makedepends": [
+    "intltool",
+    "python-pytest-runner",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199630180,
+  "transmit": 294780,
+  "disk": 6609323
+}
