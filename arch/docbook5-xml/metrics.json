@@ -1,0 +1,13 @@
+{
+  "name": "docbook5-xml",
+  "version": "5.1-3",
+  "depends": [
+    "libxml2"
+  ],
+  "makedepends": [
+    "unzip"
+  ],
+  "receive": 200369947,
+  "transmit": 1107515,
+  "disk": 10003326
+}
