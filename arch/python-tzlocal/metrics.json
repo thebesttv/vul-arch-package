@@ -1,0 +1,17 @@
+{
+  "name": "python-tzlocal",
+  "version": "1:5.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199568037,
+  "transmit": 275684,
+  "disk": 980218
+}
