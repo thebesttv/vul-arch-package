@@ -1,0 +1,30 @@
+{
+  "name": "skrooge",
+  "version": "2.31.0-2",
+  "depends": [
+    "qt5-base",
+    "qca-qt5",
+    "qt5-script",
+    "qt5-webengine",
+    "qt5-xmlpatterns",
+    "libofx",
+    "grantlee",
+    "knewstuff5",
+    "krunner5",
+    "knotifyconfig5",
+    "kparts5",
+    "sqlcipher",
+    "python",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake",
+    "kdoctools5",
+    "extra-cmake-modules",
+    "qt5-tools",
+    "kdesignerplugin"
+  ],
+  "receive": 222464098,
+  "transmit": 541433,
+  "disk": 132978300
+}
