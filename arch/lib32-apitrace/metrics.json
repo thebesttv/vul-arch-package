@@ -1,0 +1,18 @@
+{
+  "name": "lib32-apitrace",
+  "version": "11.1-1",
+  "depends": [
+    "python",
+    "lib32-libgl",
+    "lib32-procps-ng",
+    "apitrace"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "gcc-multilib"
+  ],
+  "receive": 222671932,
+  "transmit": 331127,
+  "disk": 39607627
+}
