@@ -1,0 +1,15 @@
+{
+  "name": "gxmessage",
+  "version": "3.4.3-4",
+  "depends": [
+    "gtk3",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "pkgconfig",
+    "intltool"
+  ],
+  "receive": 199683609,
+  "transmit": 431689,
+  "disk": 1403548
+}
