@@ -1,0 +1,14 @@
+{
+  "name": "python-shutilwhich",
+  "version": "1.1.0-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 199588122,
+  "transmit": 369696,
+  "disk": 106242
+}
