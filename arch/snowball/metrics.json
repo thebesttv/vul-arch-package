@@ -1,0 +1,11 @@
+{
+  "name": "snowball",
+  "version": "2.2.0-2",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200681948,
+  "transmit": 1089355,
+  "disk": 4153490
+}
