@@ -1,0 +1,18 @@
+{
+  "name": "libgedit-amtk",
+  "version": "5.8.0-2",
+  "depends": [
+    "glib2",
+    "glibc",
+    "gtk3"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson"
+  ],
+  "receive": 200485886,
+  "transmit": 754481,
+  "disk": 1008563
+}
