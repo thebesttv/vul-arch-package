@@ -1,0 +1,25 @@
+{
+  "name": "switchboard-plug-desktop",
+  "version": "6.5.0-1",
+  "depends": [
+    "gdk-pixbuf2",
+    "glib2",
+    "gnome-desktop",
+    "gtk3",
+    "libgee",
+    "libgexiv2",
+    "libgranite.so",
+    "libhandy",
+    "libswitchboard-2.0.so",
+    "plank",
+    "tumbler"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199591073,
+  "transmit": 390121,
+  "disk": 27900767
+}
