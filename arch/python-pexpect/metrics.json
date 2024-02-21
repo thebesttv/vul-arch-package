@@ -1,0 +1,14 @@
+{
+  "name": "python-pexpect",
+  "version": "4.9.0-1",
+  "depends": [
+    "python-ptyprocess"
+  ],
+  "makedepends": [
+    "git",
+    "python"
+  ],
+  "receive": 199722005,
+  "transmit": 440046,
+  "disk": 10874436
+}
