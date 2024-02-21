@@ -1,0 +1,16 @@
+{
+  "name": "tupitube",
+  "version": "0.2.18-5",
+  "depends": [
+    "ffmpeg",
+    "qt5-multimedia",
+    "qt5-svg",
+    "quazip"
+  ],
+  "makedepends": [
+    "ruby-rexml"
+  ],
+  "receive": 203612929,
+  "transmit": 331980,
+  "disk": 25957591
+}
