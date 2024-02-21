@@ -1,0 +1,16 @@
+{
+  "name": "soqt",
+  "version": "1.6.1-1",
+  "depends": [
+    "coin",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "mesa",
+    "doxygen"
+  ],
+  "receive": 199931520,
+  "transmit": 653197,
+  "disk": 10961634
+}
