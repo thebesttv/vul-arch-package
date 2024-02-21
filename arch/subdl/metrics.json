@@ -1,0 +1,13 @@
+{
+  "name": "subdl",
+  "version": "1.1.2-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199596833,
+  "transmit": 348044,
+  "disk": 407975
+}
