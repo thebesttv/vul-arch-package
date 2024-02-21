@@ -1,0 +1,12 @@
+{
+  "name": "ruby-sus-fixtures-async",
+  "version": "0.1.3-1",
+  "depends": [
+    "ruby-async",
+    "ruby-sus"
+  ],
+  "makedepends": [],
+  "receive": 199511614,
+  "transmit": 254350,
+  "disk": 154151
+}
