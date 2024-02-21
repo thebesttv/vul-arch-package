@@ -1,0 +1,13 @@
+{
+  "name": "cargo-supply-chain",
+  "version": "0.3.2-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199636630,
+  "transmit": 384048,
+  "disk": 237181
+}
