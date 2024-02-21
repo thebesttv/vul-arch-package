@@ -1,0 +1,20 @@
+{
+  "name": "wpebackend-fdo",
+  "version": "1.14.2-1",
+  "depends": [
+    "glib2",
+    "libegl",
+    "libepoxy",
+    "libwpe",
+    "wayland"
+  ],
+  "makedepends": [
+    "git",
+    "mesa",
+    "meson",
+    "wayland-protocols"
+  ],
+  "receive": 199669587,
+  "transmit": 393785,
+  "disk": 1408075
+}
