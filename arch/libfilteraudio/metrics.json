@@ -1,0 +1,11 @@
+{
+  "name": "libfilteraudio",
+  "version": "0.0.1-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199530522,
+  "transmit": 290009,
+  "disk": 1323572
+}
