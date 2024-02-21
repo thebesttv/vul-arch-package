@@ -1,0 +1,21 @@
+{
+  "name": "testssl.sh",
+  "version": "3.0.8-2",
+  "depends": [
+    "bash",
+    "coreutils",
+    "util-linux",
+    "openssl",
+    "bind-tools",
+    "procps-ng"
+  ],
+  "makedepends": [
+    "perl",
+    "perl-data-dump",
+    "perl-json",
+    "perl-test-base"
+  ],
+  "receive": 199674296,
+  "transmit": 392618,
+  "disk": 30893529
+}
