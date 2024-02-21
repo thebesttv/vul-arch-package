@@ -1,0 +1,57 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=12.46 s (541.8 files/s 333570.9 lines/s)"
+2181,C++,82687,48514,2893773
+1927,C/C++ Header,47388,35999,356567
+785,Python,30149,21586,154564
+103,JSON,9,0,55028
+241,CUDA,6166,3667,36749
+102,C#,6219,5533,33869
+116,Assembly,7318,10073,31508
+61,Java,3602,17319,30293
+206,TypeScript,4704,7859,27558
+2,C# Designer,8091,7993,25362
+167,YAML,1809,453,15345
+3,C# Generated,1140,1862,14713
+109,Markdown,3389,11,11264
+74,Text,1553,0,10963
+67,CMake,1687,1185,10928
+58,JavaScript,1286,4470,9392
+21,PHP,556,35,4044
+17,C,509,1200,3861
+26,Rust,652,1102,3767
+29,Objective-C++,849,355,3453
+95,Bourne Shell,739,717,3317
+88,XML,144,123,2690
+2,CSS,82,38,2425
+39,Dockerfile,605,354,2175
+11,Jupyter Notebook,0,5709,2022
+31,Protocol Buffers,1195,5784,2015
+22,MSBuild script,172,144,1817
+16,XAML,90,1,982
+5,IDL,130,0,941
+10,Visual Studio Solution,8,10,854
+11,PowerShell,168,212,801
+11,Gradle,124,165,790
+6,HLSL,104,64,603
+18,DOS Batch,140,64,530
+4,SVG,0,1,407
+11,reStructuredText,281,382,313
+14,diff,44,325,297
+2,Flatbuffers,69,30,275
+6,TOML,29,47,258
+4,Puppet,4,0,213
+8,Objective-C,64,41,186
+2,HTML,11,30,181
+8,liquid,0,0,122
+2,Kotlin,12,2,109
+1,Perl,31,42,101
+3,Swift,15,61,99
+2,Windows Resource File,13,10,68
+6,Properties,5,44,33
+1,Ruby,10,2,31
+8,Windows Module Definition,3,0,25
+2,CSV,0,0,22
+1,Jinja Template,2,0,18
+1,INI,1,0,8
+1,Bourne Again Shell,2,0,7
+2,ProGuard,4,27,0
+6749,SUM,214064,183645,3757736
