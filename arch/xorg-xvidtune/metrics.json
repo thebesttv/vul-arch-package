@@ -1,0 +1,17 @@
+{
+  "name": "xorg-xvidtune",
+  "version": "1.0.4-1",
+  "depends": [
+    "libxxf86vm",
+    "libxt",
+    "libxaw",
+    "libxmu",
+    "libx11"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 200484609,
+  "transmit": 970234,
+  "disk": 1024311
+}
