@@ -1,0 +1,16 @@
+{
+  "name": "espeakup",
+  "version": "0.90-2",
+  "depends": [
+    "glibc",
+    "espeak-ng"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "meson",
+    "ruby-ronn-ng"
+  ],
+  "receive": 199543900,
+  "transmit": 329652,
+  "disk": 231127
+}
