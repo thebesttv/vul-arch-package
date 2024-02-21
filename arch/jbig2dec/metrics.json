@@ -1,0 +1,14 @@
+{
+  "name": "jbig2dec",
+  "version": "0.20-1",
+  "depends": [
+    "libpng",
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199634524,
+  "transmit": 345956,
+  "disk": 2213352
+}
