@@ -1,0 +1,30 @@
+{
+  "name": "libcamera",
+  "version": "0.2.0-1",
+  "depends": [],
+  "makedepends": [
+    "doxygen",
+    "git",
+    "glib2",
+    "graphviz",
+    "gst-plugins-base",
+    "gtest",
+    "libdrm",
+    "libjpeg-turbo",
+    "libtiff",
+    "libyaml",
+    "meson",
+    "python-jinja",
+    "python-ply",
+    "python-sphinx",
+    "python-pyyaml",
+    "qt5-base",
+    "qt5-tools",
+    "sdl2",
+    "systemd",
+    "texlive-core"
+  ],
+  "receive": 204274950,
+  "transmit": 422954,
+  "disk": 16169788
+}
