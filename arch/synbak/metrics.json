@@ -1,0 +1,12 @@
+{
+  "name": "synbak",
+  "version": "3.8.2-1",
+  "depends": [
+    "bc",
+    "netcat"
+  ],
+  "makedepends": [],
+  "receive": 200610657,
+  "transmit": 881263,
+  "disk": 1046840
+}
