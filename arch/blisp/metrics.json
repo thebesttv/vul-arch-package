@@ -1,0 +1,15 @@
+{
+  "name": "blisp",
+  "version": "0.0.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199619037,
+  "transmit": 379701,
+  "disk": 5219187
+}
