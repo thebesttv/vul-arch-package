@@ -1,0 +1,15 @@
+{
+  "name": "geoip",
+  "version": "1.6.12-2",
+  "depends": [
+    "zlib",
+    "geoip-database"
+  ],
+  "makedepends": [
+    "autoconf",
+    "libtool"
+  ],
+  "receive": 199729047,
+  "transmit": 495444,
+  "disk": 1009445
+}
