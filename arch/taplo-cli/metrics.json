@@ -1,0 +1,14 @@
+{
+  "name": "taplo-cli",
+  "version": "0.9.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 199895506,
+  "transmit": 605883,
+  "disk": 33540327
+}
