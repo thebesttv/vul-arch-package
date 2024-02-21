@@ -1,0 +1,19 @@
+{
+  "name": "haskell-commonmark-extensions",
+  "version": "0.2.3.5-22",
+  "depends": [
+    "ghc-libs",
+    "haskell-commonmark",
+    "haskell-emojis",
+    "haskell-network-uri"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199692694,
+  "transmit": 402336,
+  "disk": 480372
+}
