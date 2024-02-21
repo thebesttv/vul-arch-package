@@ -1,0 +1,16 @@
+{
+  "name": "python-reportlab",
+  "version": "3.6.12-3",
+  "depends": [
+    "python",
+    "python-pillow"
+  ],
+  "makedepends": [
+    "freetype2",
+    "python-pillow",
+    "mercurial"
+  ],
+  "receive": 199547662,
+  "transmit": 304081,
+  "disk": 15042596
+}
