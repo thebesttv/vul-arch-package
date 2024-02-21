@@ -1,0 +1,13 @@
+{
+  "name": "snappy-player",
+  "version": "1.0-9",
+  "depends": [
+    "gst-plugins-base",
+    "clutter-gst",
+    "clutter-gtk"
+  ],
+  "makedepends": [],
+  "receive": 199546304,
+  "transmit": 254692,
+  "disk": 2035280
+}
