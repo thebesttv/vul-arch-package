@@ -1,0 +1,13 @@
+{
+  "name": "s3fs-fuse",
+  "version": "1.93-1",
+  "depends": [
+    "fuse2",
+    "curl",
+    "libxml2"
+  ],
+  "makedepends": [],
+  "receive": 199850574,
+  "transmit": 322668,
+  "disk": 1792651
+}
