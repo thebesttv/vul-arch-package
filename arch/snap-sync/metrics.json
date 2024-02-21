@@ -1,0 +1,13 @@
+{
+  "name": "snap-sync",
+  "version": "0.7-2",
+  "depends": [
+    "snapper",
+    "btrfs-progs",
+    "which"
+  ],
+  "makedepends": [],
+  "receive": 199522034,
+  "transmit": 244331,
+  "disk": 183239
+}
