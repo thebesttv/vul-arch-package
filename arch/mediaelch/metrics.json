@@ -1,0 +1,21 @@
+{
+  "name": "mediaelch",
+  "version": "2.10.6-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "libmediainfo",
+    "qt5-declarative",
+    "qt5-multimedia",
+    "qt5-svg",
+    "quazip-qt5"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199552928,
+  "transmit": 305503,
+  "disk": 22866510
+}
