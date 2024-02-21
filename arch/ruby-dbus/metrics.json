@@ -1,0 +1,13 @@
+{
+  "name": "ruby-dbus",
+  "version": "0.22.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199619525,
+  "transmit": 373843,
+  "disk": 2293442
+}
