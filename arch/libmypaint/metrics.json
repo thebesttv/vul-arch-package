@@ -1,0 +1,23 @@
+{
+  "name": "libmypaint",
+  "version": "1.6.1-1",
+  "depends": [
+    "glibc",
+    "json-c",
+    "gegl",
+    "glib2",
+    "json-glib",
+    "babl"
+  ],
+  "makedepends": [
+    "intltool",
+    "python",
+    "python-sphinx",
+    "python-breathe",
+    "gobject-introspection",
+    "doxygen"
+  ],
+  "receive": 199897449,
+  "transmit": 556162,
+  "disk": 5855910
+}
