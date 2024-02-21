@@ -1,0 +1,17 @@
+{
+  "name": "ftgl",
+  "version": "2.4.0-2",
+  "depends": [
+    "freetype2",
+    "glu"
+  ],
+  "makedepends": [
+    "doxygen",
+    "mesa",
+    "graphviz",
+    "git"
+  ],
+  "receive": 199755564,
+  "transmit": 476644,
+  "disk": 9315815
+}
