@@ -1,0 +1,19 @@
+{
+  "name": "i3status",
+  "version": "2.14-1",
+  "depends": [
+    "alsa-lib",
+    "confuse",
+    "libnl",
+    "libpulse",
+    "yajl"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "xmlto",
+    "meson"
+  ],
+  "receive": 199738541,
+  "transmit": 454747,
+  "disk": 728738
+}
