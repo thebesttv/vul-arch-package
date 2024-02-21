@@ -1,0 +1,14 @@
+{
+  "name": "mtpaint",
+  "version": "3.50.09-3",
+  "depends": [
+    "gtk3",
+    "openjpeg2"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199667014,
+  "transmit": 410647,
+  "disk": 17422206
+}
