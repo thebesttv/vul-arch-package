@@ -1,0 +1,13 @@
+{
+  "name": "ccid",
+  "version": "1.5.5-1",
+  "depends": [
+    "pcsclite",
+    "libusb",
+    "flex"
+  ],
+  "makedepends": [],
+  "receive": 199680115,
+  "transmit": 330941,
+  "disk": 4754909
+}
