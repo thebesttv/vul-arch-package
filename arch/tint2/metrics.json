@@ -1,0 +1,18 @@
+{
+  "name": "tint2",
+  "version": "17.0.2-3",
+  "depends": [
+    "gtk3",
+    "imlib2",
+    "startup-notification"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja",
+    "setconf"
+  ],
+  "receive": 199702088,
+  "transmit": 374451,
+  "disk": 10566229
+}
