@@ -1,0 +1,16 @@
+{
+  "name": "gnome-video-effects",
+  "version": "1:0.6.0-1",
+  "depends": [
+    "frei0r-plugins",
+    "gst-plugins-bad",
+    "gst-plugins-good"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199712727,
+  "transmit": 443130,
+  "disk": 1909797
+}
