@@ -1,0 +1,14 @@
+{
+  "name": "python-prctl",
+  "version": "1.8.1-5",
+  "depends": [
+    "python",
+    "libcap"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199833001,
+  "transmit": 510609,
+  "disk": 250256
+}
