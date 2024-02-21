@@ -1,0 +1,14 @@
+{
+  "name": "sbxkb",
+  "version": "0.7.6-6",
+  "depends": [
+    "gtk2",
+    "gdk-pixbuf-xlib"
+  ],
+  "makedepends": [
+    "pkgconfig"
+  ],
+  "receive": 199708557,
+  "transmit": 410742,
+  "disk": 692836
+}
