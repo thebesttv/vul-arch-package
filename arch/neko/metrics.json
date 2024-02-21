@@ -1,0 +1,21 @@
+{
+  "name": "neko",
+  "version": "2.3.0-8",
+  "depends": [
+    "gc",
+    "gtk3",
+    "mariadb-libs",
+    "mbedtls2",
+    "sqlite"
+  ],
+  "makedepends": [
+    "apache",
+    "apr",
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199547679,
+  "transmit": 312844,
+  "disk": 26903263
+}
