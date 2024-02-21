@@ -1,0 +1,12 @@
+{
+  "name": "colordiff",
+  "version": "1.0.21-1",
+  "depends": [
+    "perl",
+    "diffutils"
+  ],
+  "makedepends": [],
+  "receive": 199604711,
+  "transmit": 351663,
+  "disk": 236082
+}
