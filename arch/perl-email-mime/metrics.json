@@ -1,0 +1,17 @@
+{
+  "name": "perl-email-mime",
+  "version": "1.953-2",
+  "depends": [
+    "perl-email-mime-encodings>=1.3",
+    "perl-mime-types>=1.13",
+    "perl-email-simple>=2.003",
+    "perl-email-mime-contenttype>=1.011",
+    "perl-email-messageid",
+    "perl-email-address-xs",
+    "perl-module-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199662988,
+  "transmit": 413130,
+  "disk": 577541
+}
