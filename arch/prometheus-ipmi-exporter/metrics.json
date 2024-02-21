@@ -1,0 +1,15 @@
+{
+  "name": "prometheus-ipmi-exporter",
+  "version": "1.6.1-2",
+  "depends": [
+    "glibc",
+    "freeipmi"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199580615,
+  "transmit": 348053,
+  "disk": 4892025
+}
