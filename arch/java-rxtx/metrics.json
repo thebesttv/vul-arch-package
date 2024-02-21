@@ -1,0 +1,15 @@
+{
+  "name": "java-rxtx",
+  "version": "2.2pre2-9",
+  "depends": [
+    "glibc",
+    "java-runtime",
+    "systemd"
+  ],
+  "makedepends": [
+    "java-environment"
+  ],
+  "receive": 199551902,
+  "transmit": 304581,
+  "disk": 6776735
+}
