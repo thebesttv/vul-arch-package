@@ -1,0 +1,15 @@
+{
+  "name": "libogg",
+  "version": "1.3.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199807722,
+  "transmit": 518920,
+  "disk": 3289097
+}
