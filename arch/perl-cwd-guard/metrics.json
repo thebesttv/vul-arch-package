@@ -1,0 +1,13 @@
+{
+  "name": "perl-cwd-guard",
+  "version": "0.05-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199722602,
+  "transmit": 462366,
+  "disk": 146069
+}
