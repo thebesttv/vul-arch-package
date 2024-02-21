@@ -1,0 +1,13 @@
+{
+  "name": "testdisk",
+  "version": "7.1-5",
+  "depends": [
+    "libjpeg",
+    "openssl",
+    "ntfsprogs"
+  ],
+  "makedepends": [],
+  "receive": 199567036,
+  "transmit": 303664,
+  "disk": 5449380
+}
