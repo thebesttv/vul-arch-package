@@ -1,0 +1,11 @@
+{
+  "name": "lxmenu-data",
+  "version": "0.1.5-3",
+  "depends": [],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199662828,
+  "transmit": 377355,
+  "disk": 1686632
+}
