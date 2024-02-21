@@ -1,0 +1,20 @@
+{
+  "name": "python-cmarkgfm",
+  "version": "2024.1.14-1",
+  "depends": [
+    "cmark-gfm",
+    "python-cffi"
+  ],
+  "makedepends": [
+    "cmark-gfm",
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-cffi",
+    "python-wheel"
+  ],
+  "receive": 199651999,
+  "transmit": 395026,
+  "disk": 1267507
+}
