@@ -1,0 +1,11 @@
+{
+  "name": "riscv64-elf-binutils",
+  "version": "2.39-1",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 238566347,
+  "transmit": 1916377,
+  "disk": 312999214
+}
