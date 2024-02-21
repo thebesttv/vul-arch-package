@@ -1,0 +1,11 @@
+{
+  "name": "jlatexmath",
+  "version": "1.0.7-2",
+  "depends": [
+    "java-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199574007,
+  "transmit": 302268,
+  "disk": 761961
+}
