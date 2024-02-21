@@ -1,0 +1,15 @@
+{
+  "name": "python-pytest-forked",
+  "version": "1.6.0-2",
+  "depends": [
+    "python-py",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm"
+  ],
+  "receive": 199683038,
+  "transmit": 421476,
+  "disk": 456609
+}
