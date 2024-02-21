@@ -1,0 +1,27 @@
+{
+  "name": "trace-cmd",
+  "version": "3.2-1",
+  "depends": [
+    "audit",
+    "glibc",
+    "libtraceevent",
+    "libtracefs",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "audit",
+    "bash-completion",
+    "cunit",
+    "libtraceevent",
+    "libtracefs",
+    "python",
+    "swig",
+    "xmlto",
+    "zstd"
+  ],
+  "receive": 199512867,
+  "transmit": 284042,
+  "disk": 1956824
+}
