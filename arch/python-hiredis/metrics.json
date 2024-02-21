@@ -1,0 +1,13 @@
+{
+  "name": "python-hiredis",
+  "version": "2.0.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199536142,
+  "transmit": 281756,
+  "disk": 535650
+}
