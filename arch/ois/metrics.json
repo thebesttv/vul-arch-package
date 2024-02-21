@@ -1,0 +1,13 @@
+{
+  "name": "ois",
+  "version": "1.5.1-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "gcc",
+    "libxaw"
+  ],
+  "receive": 199729155,
+  "transmit": 449207,
+  "disk": 4368002
+}
