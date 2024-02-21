@@ -1,0 +1,13 @@
+{
+  "name": "readline",
+  "version": "8.2.010-1",
+  "depends": [
+    "glibc",
+    "ncurses",
+    "libncursesw.so"
+  ],
+  "makedepends": [],
+  "receive": 202883739,
+  "transmit": 479323,
+  "disk": 10682837
+}
