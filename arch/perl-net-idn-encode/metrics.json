@@ -1,0 +1,11 @@
+{
+  "name": "perl-net-idn-encode",
+  "version": "2.500-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199527196,
+  "transmit": 292123,
+  "disk": 5544195
+}
