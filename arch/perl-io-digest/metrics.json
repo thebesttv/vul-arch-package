@@ -1,0 +1,12 @@
+{
+  "name": "perl-io-digest",
+  "version": "0.11-9",
+  "depends": [
+    "perl",
+    "perlio-via-dynamic"
+  ],
+  "makedepends": [],
+  "receive": 199642141,
+  "transmit": 370722,
+  "disk": 211352
+}
