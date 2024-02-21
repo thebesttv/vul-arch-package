@@ -1,0 +1,14 @@
+{
+  "name": "haskell-panic",
+  "version": "0.4.0.1-24",
+  "depends": [
+    "ghc-libs",
+    "haskell-gitrev"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199522467,
+  "transmit": 246858,
+  "disk": 114068
+}
