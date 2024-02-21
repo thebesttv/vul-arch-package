@@ -1,0 +1,13 @@
+{
+  "name": "breeze-icons",
+  "version": "5.115.0-1",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-base",
+    "python-lxml"
+  ],
+  "receive": 200001574,
+  "transmit": 563763,
+  "disk": 23076082
+}
