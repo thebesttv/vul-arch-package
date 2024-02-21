@@ -1,0 +1,16 @@
+{
+  "name": "kondo",
+  "version": "0.8-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "pango",
+    "gdk-pixbuf2",
+    "gtk3"
+  ],
+  "receive": 199750774,
+  "transmit": 419557,
+  "disk": 295764
+}
