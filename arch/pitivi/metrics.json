@@ -1,0 +1,28 @@
+{
+  "name": "pitivi",
+  "version": "2023.03-2",
+  "depends": [
+    "gsound",
+    "gst-editing-services",
+    "gst-plugin-gtk",
+    "gst-plugins-bad",
+    "gst-plugins-good",
+    "gst-python",
+    "gtk3",
+    "libnotify",
+    "libpeas",
+    "python-cairo",
+    "python-gobject",
+    "python-matplotlib",
+    "python-scipy"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "intltool",
+    "itstool",
+    "meson"
+  ],
+  "receive": 211130852,
+  "transmit": 433235,
+  "disk": 32756929
+}
