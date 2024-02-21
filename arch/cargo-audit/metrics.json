@@ -1,0 +1,13 @@
+{
+  "name": "cargo-audit",
+  "version": "0.20.0-1",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199668188,
+  "transmit": 435620,
+  "disk": 3998100
+}
