@@ -1,0 +1,15 @@
+{
+  "name": "perl-poe-component-client-dns",
+  "version": "1.054-9",
+  "depends": [
+    "perl-net-dns",
+    "perl-poe"
+  ],
+  "makedepends": [
+    "perl-net-dns",
+    "perl-poe"
+  ],
+  "receive": 199693926,
+  "transmit": 393564,
+  "disk": 242072
+}
