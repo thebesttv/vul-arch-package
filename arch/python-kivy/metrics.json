@@ -1,0 +1,19 @@
+{
+  "name": "python-kivy",
+  "version": "2.2.1-1",
+  "depends": [
+    "python-docutils",
+    "gstreamer",
+    "sdl2_ttf",
+    "sdl2_mixer",
+    "sdl2_image",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython0"
+  ],
+  "receive": 199542087,
+  "transmit": 278528,
+  "disk": 57572798
+}
