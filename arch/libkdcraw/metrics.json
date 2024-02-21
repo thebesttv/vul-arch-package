@@ -1,0 +1,14 @@
+{
+  "name": "libkdcraw",
+  "version": "23.08.5-1",
+  "depends": [
+    "qt5-base",
+    "libraw"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199707764,
+  "transmit": 351639,
+  "disk": 497062
+}
