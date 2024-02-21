@@ -1,0 +1,15 @@
+{
+  "name": "haskell-network-run",
+  "version": "0.2.6-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-network",
+    "haskell-time-manager"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199610343,
+  "transmit": 380736,
+  "disk": 239410
+}
