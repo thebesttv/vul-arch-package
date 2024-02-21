@@ -1,0 +1,28 @@
+{
+  "name": "mariadb-lts",
+  "version": "11.2.3-1",
+  "depends": [],
+  "makedepends": [
+    "boost",
+    "bzip2",
+    "cmake",
+    "cracklib",
+    "curl",
+    "jemalloc",
+    "judy",
+    "krb5",
+    "liburing",
+    "libxcrypt",
+    "libxml2",
+    "lz4",
+    "openssl",
+    "pcre2",
+    "systemd",
+    "zlib",
+    "zstd",
+    "xz"
+  ],
+  "receive": 312767110,
+  "transmit": 617553,
+  "disk": 759694272
+}
