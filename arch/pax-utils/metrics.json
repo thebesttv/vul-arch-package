@@ -1,0 +1,23 @@
+{
+  "name": "pax-utils",
+  "version": "1.3.7-1",
+  "depends": [
+    "bash",
+    "libcap",
+    "libcap.so",
+    "libseccomp",
+    "python",
+    "python-pyelftools"
+  ],
+  "makedepends": [
+    "docbook-xml",
+    "docbook-xsl",
+    "git",
+    "linux-headers",
+    "meson",
+    "xmlto"
+  ],
+  "receive": 200022892,
+  "transmit": 672041,
+  "disk": 1912677
+}
