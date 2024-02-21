@@ -1,0 +1,22 @@
+{
+  "name": "timeshift",
+  "version": "24.01.1-1",
+  "depends": [
+    "libgee",
+    "json-glib",
+    "gtk3",
+    "vte3",
+    "rsync",
+    "xapp",
+    "cronie",
+    "which"
+  ],
+  "makedepends": [
+    "help2man",
+    "meson",
+    "vala"
+  ],
+  "receive": 199640710,
+  "transmit": 408104,
+  "disk": 7615831
+}
