@@ -1,0 +1,13 @@
+{
+  "name": "python-poyo",
+  "version": "0.5.0-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199568613,
+  "transmit": 360651,
+  "disk": 184120
+}
