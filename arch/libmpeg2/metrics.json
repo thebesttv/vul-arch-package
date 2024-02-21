@@ -1,0 +1,14 @@
+{
+  "name": "libmpeg2",
+  "version": "0.5.1-8",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "libxv",
+    "sdl"
+  ],
+  "receive": 200710146,
+  "transmit": 822173,
+  "disk": 3101168
+}
