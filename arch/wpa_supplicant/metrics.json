@@ -1,0 +1,15 @@
+{
+  "name": "wpa_supplicant",
+  "version": "2:2.10-8",
+  "depends": [
+    "openssl",
+    "libdbus",
+    "readline",
+    "libnl",
+    "pcsclite"
+  ],
+  "makedepends": [],
+  "receive": 199671685,
+  "transmit": 294147,
+  "disk": 19703073
+}
