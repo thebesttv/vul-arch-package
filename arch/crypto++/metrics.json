@@ -1,0 +1,14 @@
+{
+  "name": "crypto++",
+  "version": "8.9.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "unzip"
+  ],
+  "receive": 213730794,
+  "transmit": 396791,
+  "disk": 56193036
+}
