@@ -1,0 +1,11 @@
+{
+  "name": "libudev0-shim",
+  "version": "1-4",
+  "depends": [
+    "systemd-libs"
+  ],
+  "makedepends": [],
+  "receive": 199504549,
+  "transmit": 238179,
+  "disk": 92122
+}
