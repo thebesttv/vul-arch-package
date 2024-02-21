@@ -1,0 +1,20 @@
+{
+  "name": "python-pywayland",
+  "version": "0.4.17-1",
+  "depends": [
+    "glibc",
+    "python",
+    "python-cffi",
+    "wayland"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "wayland-protocols"
+  ],
+  "receive": 199649241,
+  "transmit": 391981,
+  "disk": 514070
+}
