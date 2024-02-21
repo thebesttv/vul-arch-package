@@ -1,0 +1,29 @@
+{
+  "name": "xdg-desktop-portal",
+  "version": "1.18.2-1",
+  "depends": [
+    "fuse3",
+    "gdk-pixbuf2",
+    "geoclue",
+    "glib2",
+    "pipewire",
+    "rtkit",
+    "systemd"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "flatpak",
+    "git",
+    "libportal",
+    "meson",
+    "python-dbus",
+    "python-dbusmock",
+    "python-docutils",
+    "python-gobject",
+    "python-pytest",
+    "xmlto"
+  ],
+  "receive": 199619392,
+  "transmit": 365827,
+  "disk": 9188424
+}
