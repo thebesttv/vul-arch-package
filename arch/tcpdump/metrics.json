@@ -1,0 +1,16 @@
+{
+  "name": "tcpdump",
+  "version": "4.99.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "libpcap",
+    "libcap-ng",
+    "openssl"
+  ],
+  "receive": 201748829,
+  "transmit": 400141,
+  "disk": 16006698
+}
