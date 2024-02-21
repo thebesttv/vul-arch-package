@@ -1,0 +1,13 @@
+{
+  "name": "thin-provisioning-tools",
+  "version": "1.0.11-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199575777,
+  "transmit": 344293,
+  "disk": 2125624
+}
