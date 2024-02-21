@@ -1,0 +1,13 @@
+{
+  "name": "python-dill",
+  "version": "0.3.8-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199503367,
+  "transmit": 234234,
+  "disk": 791944
+}
