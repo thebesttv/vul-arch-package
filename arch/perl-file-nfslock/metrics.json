@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-nfslock",
+  "version": "1.29-3",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199589231,
+  "transmit": 323572,
+  "disk": 223557
+}
