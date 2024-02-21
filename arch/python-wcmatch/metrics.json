@@ -1,0 +1,16 @@
+{
+  "name": "python-wcmatch",
+  "version": "8.5.1-1",
+  "depends": [
+    "python-bracex"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199550674,
+  "transmit": 311499,
+  "disk": 790755
+}
