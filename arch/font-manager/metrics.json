@@ -1,0 +1,24 @@
+{
+  "name": "font-manager",
+  "version": "0.8.8-1",
+  "depends": [
+    "gtk3",
+    "json-glib",
+    "libsoup",
+    "libxml2",
+    "sqlite",
+    "webkit2gtk"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "intltool",
+    "meson",
+    "nautilus",
+    "ninja",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199497891,
+  "transmit": 259156,
+  "disk": 15533935
+}
