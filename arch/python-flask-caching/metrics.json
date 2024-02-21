@@ -1,0 +1,14 @@
+{
+  "name": "python-flask-caching",
+  "version": "2.1.0-1",
+  "depends": [
+    "python-flask",
+    "python-cachelib"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199563325,
+  "transmit": 354902,
+  "disk": 497208
+}
