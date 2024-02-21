@@ -1,0 +1,11 @@
+{
+  "name": "acpilight",
+  "version": "1.2-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199594725,
+  "transmit": 338599,
+  "disk": 158042
+}
