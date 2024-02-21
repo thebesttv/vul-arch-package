@@ -1,0 +1,11 @@
+{
+  "name": "go-licenses",
+  "version": "1.6.0-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199505783,
+  "transmit": 264114,
+  "disk": 1460230
+}
