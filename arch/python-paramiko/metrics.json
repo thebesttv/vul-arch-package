@@ -1,0 +1,18 @@
+{
+  "name": "python-paramiko",
+  "version": "2.11.1-4",
+  "depends": [
+    "python-bcrypt",
+    "python-cryptography",
+    "python-pynacl"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-bcrypt",
+    "python-cryptography",
+    "python-pynacl"
+  ],
+  "receive": 199919134,
+  "transmit": 295223,
+  "disk": 1883953
+}
