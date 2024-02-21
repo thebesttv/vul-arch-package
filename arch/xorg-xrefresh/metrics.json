@@ -1,0 +1,13 @@
+{
+  "name": "xorg-xrefresh",
+  "version": "1.0.7-1",
+  "depends": [
+    "libx11"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199585409,
+  "transmit": 310011,
+  "disk": 967105
+}
