@@ -1,0 +1,13 @@
+{
+  "name": "bc",
+  "version": "1.07.1-4",
+  "depends": [
+    "readline"
+  ],
+  "makedepends": [
+    "ed"
+  ],
+  "receive": 199547964,
+  "transmit": 294198,
+  "disk": 2057683
+}
