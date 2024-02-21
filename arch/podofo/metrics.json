@@ -1,0 +1,22 @@
+{
+  "name": "podofo",
+  "version": "0.10.3-1",
+  "depends": [
+    "fontconfig",
+    "freetype2",
+    "libidn",
+    "libjpeg-turbo",
+    "libpng",
+    "libtiff",
+    "libxml2",
+    "lua",
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199669755,
+  "transmit": 381648,
+  "disk": 9323623
+}
