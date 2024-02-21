@@ -1,0 +1,18 @@
+{
+  "name": "gimp-nufraw",
+  "version": "0.43.3-9",
+  "depends": [
+    "cfitsio",
+    "exiv2",
+    "gtkimageview",
+    "lcms2",
+    "lensfun",
+    "libjpeg-turbo"
+  ],
+  "makedepends": [
+    "gimp"
+  ],
+  "receive": 199549495,
+  "transmit": 290409,
+  "disk": 5051810
+}
