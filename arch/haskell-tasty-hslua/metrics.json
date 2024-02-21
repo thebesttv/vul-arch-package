@@ -1,0 +1,17 @@
+{
+  "name": "haskell-tasty-hslua",
+  "version": "1.1.0-36",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslua-core",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199631572,
+  "transmit": 406200,
+  "disk": 260780
+}
