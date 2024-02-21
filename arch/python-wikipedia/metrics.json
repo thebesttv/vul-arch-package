@@ -1,0 +1,14 @@
+{
+  "name": "python-wikipedia",
+  "version": "1.4.0-10",
+  "depends": [
+    "python-beautifulsoup4",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199596150,
+  "transmit": 378047,
+  "disk": 252350
+}
