@@ -1,0 +1,16 @@
+{
+  "name": "gupnp-tools",
+  "version": "0.12.1-1",
+  "depends": [
+    "gtksourceview4",
+    "gupnp",
+    "gupnp-av"
+  ],
+  "makedepends": [
+    "meson",
+    "git"
+  ],
+  "receive": 199632002,
+  "transmit": 370694,
+  "disk": 3136907
+}
