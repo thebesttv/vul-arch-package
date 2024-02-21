@@ -1,0 +1,16 @@
+{
+  "name": "unpaper",
+  "version": "7.0.0-2",
+  "depends": [
+    "ffmpeg"
+  ],
+  "makedepends": [
+    "libxslt",
+    "docbook-xsl",
+    "meson",
+    "python-sphinx"
+  ],
+  "receive": 199509705,
+  "transmit": 244583,
+  "disk": 71986089
+}
