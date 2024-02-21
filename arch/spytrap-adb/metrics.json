@@ -1,0 +1,13 @@
+{
+  "name": "spytrap-adb",
+  "version": "0.3.0-1",
+  "depends": [
+    "android-tools"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199563946,
+  "transmit": 287649,
+  "disk": 767509
+}
