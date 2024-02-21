@@ -1,0 +1,23 @@
+{
+  "name": "pantheon-geoclue2-agent",
+  "version": "1.0.6-1",
+  "depends": [
+    "geoclue2",
+    "glibc",
+    "libgdk-3.so",
+    "libgio-2.0.so",
+    "libglib-2.0.so",
+    "libgobject-2.0.so",
+    "libgranite.so",
+    "libgtk-3.so"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199661674,
+  "transmit": 442458,
+  "disk": 1772762
+}
