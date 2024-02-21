@@ -1,0 +1,30 @@
+{
+  "name": "breezy",
+  "version": "3.3.5-1",
+  "depends": [
+    "python-configobj",
+    "python-dulwich",
+    "python-fastbencode",
+    "python-merge3",
+    "python-patiencediff",
+    "python-six",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "cython",
+    "git",
+    "python-build",
+    "python-fastimport",
+    "python-gpgme",
+    "python-installer",
+    "python-packaging",
+    "python-paramiko",
+    "python-setuptools",
+    "python-setuptools-gettext",
+    "python-setuptools-rust",
+    "python-wheel"
+  ],
+  "receive": 379589571,
+  "transmit": 470154,
+  "disk": 225004326
+}
