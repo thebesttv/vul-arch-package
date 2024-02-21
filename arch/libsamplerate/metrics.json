@@ -1,0 +1,16 @@
+{
+  "name": "libsamplerate",
+  "version": "0.2.2-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "libsndfile",
+    "opus"
+  ],
+  "receive": 199578315,
+  "transmit": 316611,
+  "disk": 15334197
+}
