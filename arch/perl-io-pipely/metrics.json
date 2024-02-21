@@ -1,0 +1,11 @@
+{
+  "name": "perl-io-pipely",
+  "version": "0.006-1",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199526759,
+  "transmit": 282282,
+  "disk": 210420
+}
