@@ -1,0 +1,12 @@
+{
+  "name": "m4",
+  "version": "1.4.19-3",
+  "depends": [
+    "glibc",
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199596792,
+  "transmit": 280885,
+  "disk": 15433904
+}
