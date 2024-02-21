@@ -1,0 +1,11 @@
+{
+  "name": "libspiro",
+  "version": "1:20221101-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199684796,
+  "transmit": 417717,
+  "disk": 2275702
+}
