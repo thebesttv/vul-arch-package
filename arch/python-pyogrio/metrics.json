@@ -1,0 +1,17 @@
+{
+  "name": "python-pyogrio",
+  "version": "0.6.0-3",
+  "depends": [
+    "gdal",
+    "python-certifi",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools",
+    "python-versioneer"
+  ],
+  "receive": 199563421,
+  "transmit": 306566,
+  "disk": 1221395
+}
