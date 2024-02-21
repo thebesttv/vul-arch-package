@@ -1,0 +1,11 @@
+{
+  "name": "libtecla",
+  "version": "1.6.3-2",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199624137,
+  "transmit": 369018,
+  "disk": 2773090
+}
