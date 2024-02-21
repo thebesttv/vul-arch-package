@@ -1,0 +1,14 @@
+{
+  "name": "libxmlrpc",
+  "version": "1:1.59.02-1",
+  "depends": [
+    "curl"
+  ],
+  "makedepends": [
+    "libtool",
+    "setconf"
+  ],
+  "receive": 199597283,
+  "transmit": 342060,
+  "disk": 1031304
+}
