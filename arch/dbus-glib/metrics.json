@@ -1,0 +1,16 @@
+{
+  "name": "dbus-glib",
+  "version": "0.112-3",
+  "depends": [
+    "dbus",
+    "expat",
+    "glib2",
+    "glibc"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199564659,
+  "transmit": 259342,
+  "disk": 4287645
+}
