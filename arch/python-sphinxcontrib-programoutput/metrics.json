@@ -1,0 +1,16 @@
+{
+  "name": "python-sphinxcontrib-programoutput",
+  "version": "0.17-4",
+  "depends": [
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199672866,
+  "transmit": 384450,
+  "disk": 235238
+}
