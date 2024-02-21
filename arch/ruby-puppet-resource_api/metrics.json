@@ -1,0 +1,14 @@
+{
+  "name": "ruby-puppet-resource_api",
+  "version": "1.9.0-1",
+  "depends": [
+    "ruby",
+    "ruby-hocon"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199665301,
+  "transmit": 430030,
+  "disk": 1222558
+}
