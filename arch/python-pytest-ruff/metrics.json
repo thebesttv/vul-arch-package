@@ -1,0 +1,19 @@
+{
+  "name": "python-pytest-ruff",
+  "version": "0.2.1-1",
+  "depends": [
+    "python",
+    "python-pytest",
+    "python-ruff"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-poetry-dynamic-versioning"
+  ],
+  "receive": 199608478,
+  "transmit": 362470,
+  "disk": 317480
+}
