@@ -1,0 +1,11 @@
+{
+  "name": "physlock",
+  "version": "13-4",
+  "depends": [
+    "pam"
+  ],
+  "makedepends": [],
+  "receive": 199570753,
+  "transmit": 336838,
+  "disk": 149073
+}
