@@ -1,0 +1,22 @@
+{
+  "name": "libgusb",
+  "version": "0.4.8-1",
+  "depends": [
+    "glib2",
+    "libjson-glib-1.0.so",
+    "libusb-1.0.so"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "python-setuptools",
+    "umockdev",
+    "vala"
+  ],
+  "receive": 199509568,
+  "transmit": 276163,
+  "disk": 1351281
+}
