@@ -1,0 +1,16 @@
+{
+  "name": "eid-mw",
+  "version": "5.1.16-1",
+  "depends": [
+    "gtk3",
+    "libproxy",
+    "curl",
+    "libbsd"
+  ],
+  "makedepends": [
+    "pcsclite"
+  ],
+  "receive": 214543458,
+  "transmit": 618365,
+  "disk": 37546569
+}
