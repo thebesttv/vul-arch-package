@@ -1,0 +1,14 @@
+{
+  "name": "python-rx",
+  "version": "3.2.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199857635,
+  "transmit": 410920,
+  "disk": 107219889
+}
