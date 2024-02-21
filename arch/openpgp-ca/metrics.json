@@ -1,0 +1,22 @@
+{
+  "name": "openpgp-ca",
+  "version": "0.13.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gmp"
+  ],
+  "makedepends": [
+    "bzip2",
+    "clang",
+    "nettle",
+    "openssl",
+    "pcsclite",
+    "rust",
+    "sqlite",
+    "systemd"
+  ],
+  "receive": 200054797,
+  "transmit": 539613,
+  "disk": 1162587
+}
