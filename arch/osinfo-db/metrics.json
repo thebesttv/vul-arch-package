@@ -1,0 +1,11 @@
+{
+  "name": "osinfo-db",
+  "version": "20231215-1",
+  "depends": [],
+  "makedepends": [
+    "osinfo-db-tools"
+  ],
+  "receive": 199540095,
+  "transmit": 297744,
+  "disk": 308060
+}
