@@ -1,0 +1,11 @@
+{
+  "name": "sugar-activity-imageviewer",
+  "version": "1:65-3",
+  "depends": [
+    "sugar-toolkit-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199706482,
+  "transmit": 418752,
+  "disk": 936521
+}
