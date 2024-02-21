@@ -1,0 +1,14 @@
+{
+  "name": "cargo-make",
+  "version": "0.37.9-1",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "openssl",
+    "bzip2"
+  ],
+  "makedepends": [],
+  "receive": 201688320,
+  "transmit": 381380,
+  "disk": 9757243
+}
