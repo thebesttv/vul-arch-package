@@ -1,0 +1,13 @@
+{
+  "name": "libptytty",
+  "version": "2.0-4",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199624681,
+  "transmit": 376002,
+  "disk": 309341
+}
