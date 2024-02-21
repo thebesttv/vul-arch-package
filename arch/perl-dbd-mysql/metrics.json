@@ -1,0 +1,14 @@
+{
+  "name": "perl-dbd-mysql",
+  "version": "4.051-1",
+  "depends": [
+    "mariadb-libs",
+    "perl-dbi"
+  ],
+  "makedepends": [
+    "perl-devel-checklib"
+  ],
+  "receive": 199541607,
+  "transmit": 296446,
+  "disk": 940141
+}
