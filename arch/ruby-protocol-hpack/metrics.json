@@ -1,0 +1,16 @@
+{
+  "name": "ruby-protocol-hpack",
+  "version": "1.4.2-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-covered",
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 199543238,
+  "transmit": 312237,
+  "disk": 534150
+}
