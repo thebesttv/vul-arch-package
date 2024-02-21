@@ -1,0 +1,11 @@
+{
+  "name": "fzy",
+  "version": "1.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199996030,
+  "transmit": 741019,
+  "disk": 354783
+}
