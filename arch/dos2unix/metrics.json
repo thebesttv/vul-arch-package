@@ -1,0 +1,13 @@
+{
+  "name": "dos2unix",
+  "version": "7.5.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "perl"
+  ],
+  "receive": 199659898,
+  "transmit": 408163,
+  "disk": 5670251
+}
