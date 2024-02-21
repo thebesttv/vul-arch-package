@@ -1,0 +1,32 @@
+{
+  "name": "meshroom",
+  "version": "2023.3.0-1",
+  "depends": [
+    "alice-vision",
+    "alembic",
+    "openimageio",
+    "python-psutil",
+    "popsift",
+    "pyside2",
+    "qt5-quickcontrols",
+    "qt5-quickcontrols2",
+    "qt5-3d",
+    "qt5-graphicaleffects",
+    "qt5-imageformats",
+    "qt5-location",
+    "qt5-svg",
+    "qt5-charts"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "python-idna",
+    "python-setuptools",
+    "ninja",
+    "boost",
+    "coin-or-lemon"
+  ],
+  "receive": 437850781,
+  "transmit": 631904,
+  "disk": 507542799
+}
