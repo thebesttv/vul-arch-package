@@ -1,0 +1,11 @@
+{
+  "name": "perl-convert-binhex",
+  "version": "1.125-12",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199624745,
+  "transmit": 373830,
+  "disk": 415009
+}
