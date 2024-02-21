@@ -1,0 +1,15 @@
+{
+  "name": "libigl",
+  "version": "2.5.0-1",
+  "depends": [
+    "eigen"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 601115502,
+  "transmit": 469594,
+  "disk": 399975901
+}
