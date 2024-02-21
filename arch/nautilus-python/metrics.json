@@ -1,0 +1,15 @@
+{
+  "name": "nautilus-python",
+  "version": "4.0-2",
+  "depends": [
+    "nautilus",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "meson"
+  ],
+  "receive": 199805967,
+  "transmit": 511460,
+  "disk": 336106
+}
