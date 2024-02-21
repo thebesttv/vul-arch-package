@@ -1,0 +1,16 @@
+{
+  "name": "ruby-rails-html-sanitizer",
+  "version": "1.4.3-1",
+  "depends": [
+    "ruby",
+    "ruby-loofah"
+  ],
+  "makedepends": [
+    "ruby-bundler",
+    "ruby-minitest",
+    "ruby-rake"
+  ],
+  "receive": 199762271,
+  "transmit": 431233,
+  "disk": 193613
+}
