@@ -1,0 +1,11 @@
+{
+  "name": "libytnef",
+  "version": "1:2.1.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199526088,
+  "transmit": 286676,
+  "disk": 1539231
+}
