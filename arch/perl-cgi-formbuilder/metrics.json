@@ -1,0 +1,16 @@
+{
+  "name": "perl-cgi-formbuilder",
+  "version": "3.10-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-html-template",
+    "perl-text-template",
+    "perl-template-toolkit",
+    "perl-cgi-session"
+  ],
+  "receive": 199663556,
+  "transmit": 384289,
+  "disk": 1012054
+}
