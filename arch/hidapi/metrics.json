@@ -1,0 +1,14 @@
+{
+  "name": "hidapi",
+  "version": "0.14.0-2",
+  "depends": [
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "libusb"
+  ],
+  "receive": 199618203,
+  "transmit": 373112,
+  "disk": 2441542
+}
