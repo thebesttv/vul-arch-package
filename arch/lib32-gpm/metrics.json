@@ -1,0 +1,14 @@
+{
+  "name": "lib32-gpm",
+  "version": "1.20.7.r38.ge82d1a6-1",
+  "depends": [
+    "lib32-ncurses",
+    "gpm"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199633479,
+  "transmit": 393396,
+  "disk": 5519089
+}
