@@ -1,0 +1,18 @@
+{
+  "name": "python-semver",
+  "version": "3.0.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199561281,
+  "transmit": 308460,
+  "disk": 1947694
+}
