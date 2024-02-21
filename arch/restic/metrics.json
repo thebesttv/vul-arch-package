@@ -1,0 +1,14 @@
+{
+  "name": "restic",
+  "version": "0.16.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199570649,
+  "transmit": 295000,
+  "disk": 51154256
+}
