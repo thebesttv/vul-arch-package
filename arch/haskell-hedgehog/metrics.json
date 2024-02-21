@@ -1,0 +1,28 @@
+{
+  "name": "haskell-hedgehog",
+  "version": "1.2-9",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-async",
+    "haskell-barbies",
+    "haskell-concurrent-output",
+    "haskell-erf",
+    "haskell-lifted-async",
+    "haskell-mmorph",
+    "haskell-monad-control",
+    "haskell-pretty-show",
+    "haskell-primitive",
+    "haskell-random",
+    "haskell-resourcet",
+    "haskell-transformers-base",
+    "haskell-wl-pprint-annotated"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199566218,
+  "transmit": 303508,
+  "disk": 903121
+}
