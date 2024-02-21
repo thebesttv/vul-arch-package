@@ -1,0 +1,12 @@
+{
+  "name": "arp-scan",
+  "version": "1.10.0-4",
+  "depends": [
+    "libpcap",
+    "perl-libwww"
+  ],
+  "makedepends": [],
+  "receive": 199547002,
+  "transmit": 272144,
+  "disk": 2641309
+}
