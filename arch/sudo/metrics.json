@@ -1,0 +1,15 @@
+{
+  "name": "sudo",
+  "version": "1.9.15.p5-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "pam",
+    "libldap",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199836255,
+  "transmit": 426553,
+  "disk": 28282392
+}
