@@ -1,0 +1,22 @@
+{
+  "name": "radare2",
+  "version": "5.8.8-2",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "capstone",
+    "file",
+    "libuv",
+    "libzip",
+    "lz4",
+    "sh",
+    "xxhash",
+    "zlib"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 211196301,
+  "transmit": 470379,
+  "disk": 68152378
+}
