@@ -1,0 +1,29 @@
+{
+  "name": "gimagereader",
+  "version": "3.4.2-1",
+  "depends": [
+    "djvulibre",
+    "gtksourceviewmm",
+    "gtkspellmm",
+    "libtesseract.so",
+    "libxml++",
+    "libzip",
+    "podofo",
+    "poppler-glib",
+    "poppler-qt6",
+    "qt6-imageformats",
+    "qtspell",
+    "quazip-qt6",
+    "sane",
+    "tesseract"
+  ],
+  "makedepends": [
+    "cmake",
+    "intltool",
+    "ninja",
+    "python-gobject"
+  ],
+  "receive": 199580787,
+  "transmit": 276267,
+  "disk": 7511432
+}
