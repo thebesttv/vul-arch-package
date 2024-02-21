@@ -1,0 +1,12 @@
+{
+  "name": "libkate",
+  "version": "0.4.1-9",
+  "depends": [],
+  "makedepends": [
+    "libpng",
+    "libogg"
+  ],
+  "receive": 199610360,
+  "transmit": 363167,
+  "disk": 5777433
+}
