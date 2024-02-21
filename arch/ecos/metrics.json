@@ -1,0 +1,13 @@
+{
+  "name": "ecos",
+  "version": "2.0.10-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199601541,
+  "transmit": 382354,
+  "disk": 10883849
+}
