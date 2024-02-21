@@ -1,0 +1,17 @@
+{
+  "name": "cdrdao",
+  "version": "1.2.5-2",
+  "depends": [
+    "gcc-libs",
+    "lame",
+    "libmad",
+    "libvorbis",
+    "libao"
+  ],
+  "makedepends": [
+    "gtkmm3"
+  ],
+  "receive": 199806386,
+  "transmit": 308474,
+  "disk": 5528555
+}
