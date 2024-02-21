@@ -1,0 +1,15 @@
+{
+  "name": "python-aioitertools",
+  "version": "0.11.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-flit-core",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 199843032,
+  "transmit": 447314,
+  "disk": 277686
+}
