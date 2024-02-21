@@ -1,0 +1,14 @@
+{
+  "name": "libthai",
+  "version": "0.1.29-3",
+  "depends": [
+    "glibc",
+    "libdatrie"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199559220,
+  "transmit": 292874,
+  "disk": 3323568
+}
