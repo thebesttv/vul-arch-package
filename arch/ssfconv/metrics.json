@@ -1,0 +1,13 @@
+{
+  "name": "ssfconv",
+  "version": "1.1.1-1",
+  "depends": [
+    "python-numpy",
+    "python-pillow",
+    "python-pycryptodome"
+  ],
+  "makedepends": [],
+  "receive": 199560677,
+  "transmit": 342398,
+  "disk": 191088
+}
