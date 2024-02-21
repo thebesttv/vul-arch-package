@@ -1,0 +1,13 @@
+{
+  "name": "ruby-nenv",
+  "version": "0.3.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199761575,
+  "transmit": 442340,
+  "disk": 378184
+}
