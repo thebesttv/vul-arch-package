@@ -1,0 +1,16 @@
+{
+  "name": "goocanvas",
+  "version": "3.0.0-4",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "python-gobject"
+  ],
+  "receive": 199596985,
+  "transmit": 331884,
+  "disk": 3346235
+}
