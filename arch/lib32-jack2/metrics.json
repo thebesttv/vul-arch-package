@@ -1,0 +1,21 @@
+{
+  "name": "lib32-jack2",
+  "version": "1.9.22-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "lib32-opus",
+    "jack2=1.9.22"
+  ],
+  "makedepends": [
+    "git",
+    "lib32-alsa-lib",
+    "lib32-dbus",
+    "lib32-expat",
+    "lib32-libsamplerate",
+    "waf"
+  ],
+  "receive": 200458799,
+  "transmit": 985321,
+  "disk": 34147604
+}
