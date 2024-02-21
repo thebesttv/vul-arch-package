@@ -1,0 +1,13 @@
+{
+  "name": "libndp",
+  "version": "1.8-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199560869,
+  "transmit": 297872,
+  "disk": 3685469
+}
