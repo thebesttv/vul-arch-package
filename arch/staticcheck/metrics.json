@@ -1,0 +1,14 @@
+{
+  "name": "staticcheck",
+  "version": "2023.1.6-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199551324,
+  "transmit": 335214,
+  "disk": 4854651
+}
