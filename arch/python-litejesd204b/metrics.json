@@ -1,0 +1,14 @@
+{
+  "name": "python-litejesd204b",
+  "version": "2021.08-2",
+  "depends": [
+    "python-migen",
+    "python-litex"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199629242,
+  "transmit": 407959,
+  "disk": 620947
+}
