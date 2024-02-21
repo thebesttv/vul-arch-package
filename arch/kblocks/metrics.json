@@ -1,0 +1,15 @@
+{
+  "name": "kblocks",
+  "version": "23.08.5-1",
+  "depends": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 201336146,
+  "transmit": 1187627,
+  "disk": 7567199
+}
