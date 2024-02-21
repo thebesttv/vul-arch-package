@@ -1,0 +1,15 @@
+{
+  "name": "srsgui",
+  "version": "2.0-3",
+  "depends": [
+    "qt5-base",
+    "qwt"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost"
+  ],
+  "receive": 200298904,
+  "transmit": 818374,
+  "disk": 431459
+}
