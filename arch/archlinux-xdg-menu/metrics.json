@@ -1,0 +1,12 @@
+{
+  "name": "archlinux-xdg-menu",
+  "version": "0.7.6.6-1",
+  "depends": [
+    "perl",
+    "perl-xml-parser"
+  ],
+  "makedepends": [],
+  "receive": 199548743,
+  "transmit": 303264,
+  "disk": 284763
+}
