@@ -1,0 +1,13 @@
+{
+  "name": "python-jinja",
+  "version": "1:3.1.3-1",
+  "depends": [
+    "python-markupsafe"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199552810,
+  "transmit": 248895,
+  "disk": 1460684
+}
