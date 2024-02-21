@@ -1,0 +1,20 @@
+{
+  "name": "haskell-hasql-implicits",
+  "version": "0.1.0.5-122",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-hasql",
+    "haskell-network-ip",
+    "haskell-scientific",
+    "haskell-uuid",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199622930,
+  "transmit": 368960,
+  "disk": 367901
+}
