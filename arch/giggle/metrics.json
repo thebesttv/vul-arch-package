@@ -1,0 +1,18 @@
+{
+  "name": "giggle",
+  "version": "0.7-11",
+  "depends": [
+    "git",
+    "gtksourceview3",
+    "vte3"
+  ],
+  "makedepends": [
+    "intltool",
+    "itstool",
+    "gnome-common",
+    "yelp-tools"
+  ],
+  "receive": 199612908,
+  "transmit": 372757,
+  "disk": 7450945
+}
