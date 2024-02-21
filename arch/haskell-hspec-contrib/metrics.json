@@ -1,0 +1,18 @@
+{
+  "name": "haskell-hspec-contrib",
+  "version": "0.5.2-22",
+  "depends": [
+    "ghc-libs",
+    "haskell-hspec-core",
+    "haskell-hunit"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-quickcheck"
+  ],
+  "receive": 199543108,
+  "transmit": 312066,
+  "disk": 342943
+}
