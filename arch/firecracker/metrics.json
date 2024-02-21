@@ -1,0 +1,14 @@
+{
+  "name": "firecracker",
+  "version": "1.5.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "rust",
+    "clang",
+    "cmake"
+  ],
+  "receive": 525273373,
+  "transmit": 2917446,
+  "disk": 362210044
+}
