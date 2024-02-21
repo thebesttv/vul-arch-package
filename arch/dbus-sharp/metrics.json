@@ -1,0 +1,11 @@
+{
+  "name": "dbus-sharp",
+  "version": "0.8.1-3",
+  "depends": [
+    "mono"
+  ],
+  "makedepends": [],
+  "receive": 199627684,
+  "transmit": 378276,
+  "disk": 29118101
+}
