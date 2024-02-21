@@ -1,0 +1,12 @@
+{
+  "name": "laz-perf",
+  "version": "2:3.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199805541,
+  "transmit": 471347,
+  "disk": 16675656
+}
