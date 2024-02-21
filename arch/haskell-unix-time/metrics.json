@@ -1,0 +1,19 @@
+{
+  "name": "haskell-unix-time",
+  "version": "0.4.12-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-old-time"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-cabal-doctest",
+    "haskell-doctest",
+    "haskell-hspec",
+    "haskell-old-locale",
+    "haskell-quickcheck"
+  ],
+  "receive": 199669424,
+  "transmit": 384616,
+  "disk": 556398
+}
