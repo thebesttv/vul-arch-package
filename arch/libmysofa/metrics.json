@@ -1,0 +1,14 @@
+{
+  "name": "libmysofa",
+  "version": "1.3.2-1",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "cunit"
+  ],
+  "receive": 355092637,
+  "transmit": 1878922,
+  "disk": 470774369
+}
