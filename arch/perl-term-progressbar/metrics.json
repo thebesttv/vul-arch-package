@@ -1,0 +1,12 @@
+{
+  "name": "perl-term-progressbar",
+  "version": "2.23-2",
+  "depends": [
+    "perl-class-methodmaker",
+    "perl-term-readkey"
+  ],
+  "makedepends": [],
+  "receive": 199618243,
+  "transmit": 355968,
+  "disk": 212273
+}
