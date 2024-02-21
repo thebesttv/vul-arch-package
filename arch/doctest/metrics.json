@@ -1,0 +1,11 @@
+{
+  "name": "doctest",
+  "version": "2.4.9-2",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200134916,
+  "transmit": 425386,
+  "disk": 6644530
+}
