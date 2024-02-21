@@ -1,0 +1,14 @@
+{
+  "name": "ruby-warning",
+  "version": "1.3.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 199908887,
+  "transmit": 619844,
+  "disk": 162291
+}
