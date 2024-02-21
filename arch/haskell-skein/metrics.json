@@ -1,0 +1,16 @@
+{
+  "name": "haskell-skein",
+  "version": "1.0.9.4-51",
+  "depends": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-crypto-api",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199675982,
+  "transmit": 439955,
+  "disk": 946697
+}
