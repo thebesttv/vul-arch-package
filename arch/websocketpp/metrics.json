@@ -1,0 +1,16 @@
+{
+  "name": "websocketpp",
+  "version": "0.8.2-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "boost-libs",
+    "boost",
+    "zlib",
+    "openssl"
+  ],
+  "receive": 199671674,
+  "transmit": 412008,
+  "disk": 4567238
+}
