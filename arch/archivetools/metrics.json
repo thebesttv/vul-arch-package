@@ -1,0 +1,18 @@
+{
+  "name": "archivetools",
+  "version": "3-3",
+  "depends": [
+    "rsync",
+    "hardlink",
+    "xz",
+    "util-linux",
+    "systemd",
+    "bash"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199624982,
+  "transmit": 380731,
+  "disk": 342281
+}
