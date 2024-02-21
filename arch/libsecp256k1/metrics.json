@@ -1,0 +1,13 @@
+{
+  "name": "libsecp256k1",
+  "version": "1:0.3.2-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199628595,
+  "transmit": 369910,
+  "disk": 26184972
+}
