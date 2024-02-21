@@ -1,0 +1,23 @@
+{
+  "name": "enblend-enfuse",
+  "version": "4.2.r1526+hc6b17c386f40-1",
+  "depends": [
+    "lcms2",
+    "vigra",
+    "gsl",
+    "exiv2"
+  ],
+  "makedepends": [
+    "mercurial",
+    "libjpeg",
+    "libpng",
+    "libtiff",
+    "openexr",
+    "zlib",
+    "help2man",
+    "boost"
+  ],
+  "receive": 201565005,
+  "transmit": 309384,
+  "disk": 11034746
+}
