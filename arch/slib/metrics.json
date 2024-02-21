@@ -1,0 +1,11 @@
+{
+  "name": "slib",
+  "version": "3b7-1",
+  "depends": [
+    "guile"
+  ],
+  "makedepends": [],
+  "receive": 199695613,
+  "transmit": 449511,
+  "disk": 4984640
+}
