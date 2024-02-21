@@ -1,0 +1,14 @@
+{
+  "name": "fcitx-chewing",
+  "version": "0.2.3-5",
+  "depends": [
+    "libchewing",
+    "fcitx"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199534504,
+  "transmit": 309564,
+  "disk": 238263
+}
