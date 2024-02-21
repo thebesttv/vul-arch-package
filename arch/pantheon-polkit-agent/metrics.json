@@ -1,0 +1,19 @@
+{
+  "name": "pantheon-polkit-agent",
+  "version": "1.0.5-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgranite.so",
+    "polkit"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "intltool",
+    "vala"
+  ],
+  "receive": 199759536,
+  "transmit": 472857,
+  "disk": 1854667
+}
