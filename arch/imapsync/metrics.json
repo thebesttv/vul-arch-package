@@ -1,0 +1,38 @@
+{
+  "name": "imapsync",
+  "version": "2.264-1",
+  "depends": [
+    "perl-cgi",
+    "perl-crypt-openssl-rsa",
+    "perl-data-uniqid",
+    "perl-date-manip",
+    "perl-digest-sha1",
+    "perl-encode-imaputf7",
+    "perl-file-copy-recursive",
+    "perl-file-tail",
+    "perl-html-parser",
+    "perl-io-socket-inet6",
+    "perl-io-socket-ssl",
+    "perl-io-tee",
+    "perl-json-webtoken",
+    "perl-libwww",
+    "perl-mail-imapclient",
+    "perl-module-runtime",
+    "perl-module-scandeps",
+    "perl-ntlm",
+    "perl-package-stash",
+    "perl-proc-processtable",
+    "perl-readonly",
+    "perl-regexp-common",
+    "perl-sys-meminfo",
+    "perl-term-readkey",
+    "perl-unicode-string"
+  ],
+  "makedepends": [
+    "cpanminus",
+    "perl-par-packer"
+  ],
+  "receive": 199862084,
+  "transmit": 534337,
+  "disk": 49120234
+}
