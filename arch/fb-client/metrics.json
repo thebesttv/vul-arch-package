@@ -1,0 +1,13 @@
+{
+  "name": "fb-client",
+  "version": "2.3.0-1",
+  "depends": [
+    "python",
+    "python-pycurl",
+    "python-xdg"
+  ],
+  "makedepends": [],
+  "receive": 199714206,
+  "transmit": 420363,
+  "disk": 260787
+}
