@@ -1,0 +1,21 @@
+{
+  "name": "mate-settings-daemon",
+  "version": "1.26.1-1",
+  "depends": [
+    "dbus-glib",
+    "libcanberra",
+    "libmatekbd",
+    "libmatemixer",
+    "libnotify",
+    "mate-desktop",
+    "nss",
+    "polkit",
+    "gettext"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199605234,
+  "transmit": 383850,
+  "disk": 14734035
+}
