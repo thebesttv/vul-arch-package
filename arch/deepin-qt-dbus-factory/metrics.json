@@ -1,0 +1,14 @@
+{
+  "name": "deepin-qt-dbus-factory",
+  "version": "6.0.0-7",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "dtkcore",
+    "python"
+  ],
+  "receive": 199729968,
+  "transmit": 412029,
+  "disk": 877830
+}
