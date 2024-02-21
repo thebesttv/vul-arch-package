@@ -1,0 +1,13 @@
+{
+  "name": "ruby-lemon",
+  "version": "0.9.1-1",
+  "depends": [
+    "ruby-rubytest-cli",
+    "ruby-ae",
+    "ruby-ansi"
+  ],
+  "makedepends": [],
+  "receive": 199676580,
+  "transmit": 404473,
+  "disk": 399335
+}
