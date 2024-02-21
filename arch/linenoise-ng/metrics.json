@@ -1,0 +1,11 @@
+{
+  "name": "linenoise-ng",
+  "version": "1.0.1-2",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199591026,
+  "transmit": 363262,
+  "disk": 322837
+}
