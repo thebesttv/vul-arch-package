@@ -1,0 +1,14 @@
+{
+  "name": "texinfo",
+  "version": "7.1-2",
+  "depends": [
+    "ncurses",
+    "gzip",
+    "perl",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 205306740,
+  "transmit": 405129,
+  "disk": 99897720
+}
