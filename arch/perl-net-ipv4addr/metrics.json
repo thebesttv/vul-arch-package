@@ -1,0 +1,11 @@
+{
+  "name": "perl-net-ipv4addr",
+  "version": "0.10-15",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199524186,
+  "transmit": 236799,
+  "disk": 134873
+}
