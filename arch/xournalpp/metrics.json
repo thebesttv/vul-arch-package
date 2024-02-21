@@ -1,0 +1,22 @@
+{
+  "name": "xournalpp",
+  "version": "1.2.2-1",
+  "depends": [
+    "gtk3",
+    "poppler-glib",
+    "libxml2",
+    "portaudio",
+    "libsndfile",
+    "lua",
+    "libzip"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "doxygen",
+    "graphviz"
+  ],
+  "receive": 291821589,
+  "transmit": 877207,
+  "disk": 123024403
+}
