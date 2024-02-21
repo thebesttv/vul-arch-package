@@ -1,0 +1,24 @@
+{
+  "name": "viking",
+  "version": "1.10-2",
+  "depends": [
+    "curl",
+    "file",
+    "gpsd",
+    "gtk3",
+    "libgexiv2",
+    "mapnik",
+    "geoclue",
+    "liboauth",
+    "libzip"
+  ],
+  "makedepends": [
+    "boost",
+    "docbook-xsl",
+    "intltool",
+    "itstool"
+  ],
+  "receive": 199668439,
+  "transmit": 410662,
+  "disk": 20132838
+}
