@@ -1,0 +1,14 @@
+{
+  "name": "shfs-utils",
+  "version": "0.35-7",
+  "depends": [
+    "glibc",
+    "openssh"
+  ],
+  "makedepends": [
+    "patch"
+  ],
+  "receive": 199520920,
+  "transmit": 261727,
+  "disk": 222868
+}
