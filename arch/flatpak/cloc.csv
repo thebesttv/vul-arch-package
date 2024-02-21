@@ -1,0 +1,27 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.73 s (747.4 files/s 463723.8 lines/s)"
+156,C,19565,12195,93543
+25,PO File,31661,42481,79379
+94,C/C++ Header,1734,2967,12315
+61,XML,2599,1061,11892
+68,Bourne Shell,1817,1424,6338
+39,Meson,280,111,2418
+15,m4,245,66,1933
+10,Python,433,1281,1612
+9,Text,193,0,1264
+1,yacc,176,192,1236
+14,Fortran 77,173,18,1030
+13,make,173,197,1021
+9,YAML,31,37,845
+1,JSON,0,0,809
+15,Markdown,201,5,680
+1,Perl,31,42,101
+1,CSS,3,0,75
+2,Fish Shell,6,2,58
+2,Bourne Again Shell,5,7,52
+1,diff,10,41,26
+3,Apex Trigger,3,0,20
+1,C Shell,0,0,20
+2,INI,4,0,18
+1,XSLT,0,0,9
+1,Lisp,0,0,1
+545,SUM,59343,62127,216695

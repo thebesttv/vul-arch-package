@@ -1,0 +1,37 @@
+{
+  "name": "flatpak",
+  "version": "1:1.15.6-2",
+  "depends": [
+    "appstream",
+    "bubblewrap",
+    "curl",
+    "dbus",
+    "fuse3",
+    "glib2",
+    "json-glib",
+    "libarchive",
+    "libmalcontent",
+    "libseccomp",
+    "libxau",
+    "ostree",
+    "polkit",
+    "python",
+    "systemd",
+    "wayland",
+    "xdg-dbus-proxy",
+    "xdg-utils"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "python-pyparsing",
+    "wayland-protocols",
+    "xmlto"
+  ],
+  "receive": 251718836,
+  "transmit": 594621,
+  "disk": 65937959
+}
