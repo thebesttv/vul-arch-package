@@ -1,0 +1,21 @@
+{
+  "name": "synapse",
+  "version": "0.2.99.4-2",
+  "depends": [
+    "libkeybinder3",
+    "hicolor-icon-theme",
+    "json-glib",
+    "libgee",
+    "libnotify",
+    "zeitgeist",
+    "rest",
+    "xdg-utils"
+  ],
+  "makedepends": [
+    "intltool",
+    "vala"
+  ],
+  "receive": 199549436,
+  "transmit": 289311,
+  "disk": 5336649
+}
