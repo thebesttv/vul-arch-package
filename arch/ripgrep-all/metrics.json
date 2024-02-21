@@ -1,0 +1,14 @@
+{
+  "name": "ripgrep-all",
+  "version": "0.10.6-3",
+  "depends": [
+    "ripgrep",
+    "xz"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 209377286,
+  "transmit": 386793,
+  "disk": 19971879
+}
