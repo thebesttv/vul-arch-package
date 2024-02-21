@@ -1,0 +1,17 @@
+{
+  "name": "lv2lint",
+  "version": "0.16.2-2",
+  "depends": [
+    "glibc",
+    "libelf"
+  ],
+  "makedepends": [
+    "curl",
+    "lilv",
+    "lv2",
+    "meson"
+  ],
+  "receive": 199616675,
+  "transmit": 369109,
+  "disk": 533499
+}
