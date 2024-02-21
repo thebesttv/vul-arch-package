@@ -1,0 +1,12 @@
+{
+  "name": "syft",
+  "version": "0.99.0-1",
+  "depends": [],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199507453,
+  "transmit": 281170,
+  "disk": 31264808
+}
