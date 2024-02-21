@@ -1,0 +1,15 @@
+{
+  "name": "spandsp",
+  "version": "0.0.6-5",
+  "depends": [
+    "glibc",
+    "libtiff"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "doxygen"
+  ],
+  "receive": 199572573,
+  "transmit": 308731,
+  "disk": 18931291
+}
