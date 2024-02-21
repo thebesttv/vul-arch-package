@@ -1,0 +1,11 @@
+{
+  "name": "perl-capture-tiny",
+  "version": "0.48-7",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199642439,
+  "transmit": 370069,
+  "disk": 312417
+}
