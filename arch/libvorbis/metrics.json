@@ -1,0 +1,13 @@
+{
+  "name": "libvorbis",
+  "version": "1.3.7-3",
+  "depends": [
+    "libogg.so"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199542804,
+  "transmit": 288749,
+  "disk": 24200280
+}
