@@ -1,0 +1,12 @@
+{
+  "name": "neovim-lspconfig",
+  "version": "0.1.7-1",
+  "depends": [
+    "luajit",
+    "neovim"
+  ],
+  "makedepends": [],
+  "receive": 199655077,
+  "transmit": 424388,
+  "disk": 1217966
+}
