@@ -1,0 +1,28 @@
+{
+  "name": "mesa-amber",
+  "version": "21.3.9-6",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "elfutils",
+    "libdrm",
+    "libglvnd",
+    "libunwind",
+    "libx11",
+    "libxdamage",
+    "libxml2",
+    "libxrandr",
+    "libxshmfence",
+    "libxxf86vm",
+    "meson",
+    "python-mako",
+    "valgrind",
+    "wayland",
+    "wayland-protocols",
+    "xorgproto",
+    "zstd"
+  ],
+  "receive": 216599550,
+  "transmit": 602531,
+  "disk": 177093180
+}
