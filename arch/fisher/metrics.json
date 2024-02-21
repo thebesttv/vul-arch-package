@@ -1,0 +1,14 @@
+{
+  "name": "fisher",
+  "version": "4.4.4-1",
+  "depends": [
+    "fish",
+    "curl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199541168,
+  "transmit": 264786,
+  "disk": 2800371
+}
