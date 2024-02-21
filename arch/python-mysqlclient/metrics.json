@@ -1,0 +1,15 @@
+{
+  "name": "python-mysqlclient",
+  "version": "2.1.1-2",
+  "depends": [
+    "python",
+    "mariadb-libs"
+  ],
+  "makedepends": [
+    "mariadb",
+    "python-setuptools"
+  ],
+  "receive": 199536216,
+  "transmit": 302976,
+  "disk": 530824
+}
