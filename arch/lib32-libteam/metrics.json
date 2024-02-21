@@ -1,0 +1,19 @@
+{
+  "name": "lib32-libteam",
+  "version": "1.32-1",
+  "depends": [
+    "lib32-dbus",
+    "lib32-libnl",
+    "lib32-zeromq",
+    "libteam"
+  ],
+  "makedepends": [
+    "git",
+    "lib32-jansson",
+    "lib32-libdaemon",
+    "swig"
+  ],
+  "receive": 199755203,
+  "transmit": 385222,
+  "disk": 21062770
+}
