@@ -1,0 +1,16 @@
+{
+  "name": "gnome-menus",
+  "version": "3.36.0-2",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection",
+    "git",
+    "gnome-common"
+  ],
+  "receive": 199755240,
+  "transmit": 418906,
+  "disk": 3768427
+}
