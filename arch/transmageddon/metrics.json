@@ -1,0 +1,17 @@
+{
+  "name": "transmageddon",
+  "version": "1.5-10",
+  "depends": [
+    "gst-plugins-base",
+    "gst-python",
+    "gtk3",
+    "libnotify",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199601740,
+  "transmit": 374011,
+  "disk": 3767862
+}
