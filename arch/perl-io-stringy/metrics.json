@@ -1,0 +1,11 @@
+{
+  "name": "perl-io-stringy",
+  "version": "2.113-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199569971,
+  "transmit": 301224,
+  "disk": 345395
+}
