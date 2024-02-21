@@ -1,0 +1,13 @@
+{
+  "name": "perl-pegex",
+  "version": "0.75-4",
+  "depends": [
+    "perl-yaml-libyaml",
+    "perl-file-sharedir-install",
+    "perl-yaml-pp"
+  ],
+  "makedepends": [],
+  "receive": 199624604,
+  "transmit": 460160,
+  "disk": 889587
+}
