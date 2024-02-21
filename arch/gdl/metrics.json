@@ -1,0 +1,16 @@
+{
+  "name": "gdl",
+  "version": "3.40.0-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "intltool",
+    "gobject-introspection",
+    "git"
+  ],
+  "receive": 199688442,
+  "transmit": 414079,
+  "disk": 4552629
+}
