@@ -1,0 +1,11 @@
+{
+  "name": "autotiling-rs",
+  "version": "0.1.3-1",
+  "depends": [],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199593247,
+  "transmit": 327743,
+  "disk": 107032
+}
