@@ -1,0 +1,11 @@
+{
+  "name": "cargo-feature",
+  "version": "0.7.0-1",
+  "depends": [
+    "cargo"
+  ],
+  "makedepends": [],
+  "receive": 199691644,
+  "transmit": 368795,
+  "disk": 342742
+}
