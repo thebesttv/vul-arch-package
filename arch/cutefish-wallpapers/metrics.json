@@ -1,0 +1,12 @@
+{
+  "name": "cutefish-wallpapers",
+  "version": "1.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199717648,
+  "transmit": 409744,
+  "disk": 23386246
+}
