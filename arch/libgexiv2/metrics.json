@@ -1,0 +1,17 @@
+{
+  "name": "libgexiv2",
+  "version": "0.14.2-1",
+  "depends": [
+    "exiv2",
+    "glib2"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "python-gobject",
+    "vala"
+  ],
+  "receive": 199592613,
+  "transmit": 351317,
+  "disk": 1357622
+}
