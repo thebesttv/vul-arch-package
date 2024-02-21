@@ -1,0 +1,13 @@
+{
+  "name": "xorg-appres",
+  "version": "1.0.6-1",
+  "depends": [
+    "libxt"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199587314,
+  "transmit": 362014,
+  "disk": 935763
+}
