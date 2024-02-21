@@ -1,0 +1,13 @@
+{
+  "name": "perl-shell-config-generate",
+  "version": "0.34-5",
+  "depends": [
+    "perl-shell-guess"
+  ],
+  "makedepends": [
+    "perl-test2-suite"
+  ],
+  "receive": 199572962,
+  "transmit": 334331,
+  "disk": 261428
+}
