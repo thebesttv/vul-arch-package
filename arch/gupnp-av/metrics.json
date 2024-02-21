@@ -1,0 +1,18 @@
+{
+  "name": "gupnp-av",
+  "version": "0.14.1-2",
+  "depends": [
+    "glib2",
+    "libxml2"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "gtk-doc",
+    "vala",
+    "meson",
+    "git"
+  ],
+  "receive": 199502603,
+  "transmit": 267501,
+  "disk": 2009771
+}
