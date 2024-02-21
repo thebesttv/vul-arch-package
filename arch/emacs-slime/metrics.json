@@ -1,0 +1,13 @@
+{
+  "name": "emacs-slime",
+  "version": "2.28-2",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "emacs",
+    "texlive-bin"
+  ],
+  "receive": 216654662,
+  "transmit": 307477,
+  "disk": 21004353
+}
