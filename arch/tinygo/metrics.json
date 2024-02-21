@@ -1,0 +1,15 @@
+{
+  "name": "tinygo",
+  "version": "0.30.0-1",
+  "depends": [],
+  "makedepends": [
+    "go",
+    "git",
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 2729751423,
+  "transmit": 2034981,
+  "disk": 6265786674
+}
