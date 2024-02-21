@@ -1,0 +1,23 @@
+{
+  "name": "libxklavier",
+  "version": "5.4-5",
+  "depends": [
+    "glib2",
+    "glibc",
+    "iso-codes",
+    "libx11",
+    "libxi",
+    "libxkbfile",
+    "libxml2",
+    "xkeyboard-config",
+    "xorg-xkbcomp"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection",
+    "gtk-doc"
+  ],
+  "receive": 199539121,
+  "transmit": 320932,
+  "disk": 593723
+}
