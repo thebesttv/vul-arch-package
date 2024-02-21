@@ -1,0 +1,11 @@
+{
+  "name": "uudeview",
+  "version": "20230502-3",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199509265,
+  "transmit": 244444,
+  "disk": 1589290
+}
