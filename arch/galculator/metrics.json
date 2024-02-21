@@ -1,0 +1,13 @@
+{
+  "name": "galculator",
+  "version": "2.1.4-8",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 200070313,
+  "transmit": 649647,
+  "disk": 4273939
+}
