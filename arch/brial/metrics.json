@@ -1,0 +1,13 @@
+{
+  "name": "brial",
+  "version": "1.2.12-2",
+  "depends": [
+    "m4ri"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 199644244,
+  "transmit": 354484,
+  "disk": 12240508
+}
