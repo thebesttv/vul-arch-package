@@ -1,0 +1,14 @@
+{
+  "name": "xorg-xrandr",
+  "version": "1.5.2-1",
+  "depends": [
+    "libxrandr",
+    "libx11"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 200023790,
+  "transmit": 600523,
+  "disk": 1284277
+}
