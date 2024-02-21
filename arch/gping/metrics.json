@@ -1,0 +1,14 @@
+{
+  "name": "gping",
+  "version": "1.16.1-1",
+  "depends": [
+    "iputils"
+  ],
+  "makedepends": [
+    "cargo",
+    "libgit2"
+  ],
+  "receive": 199695810,
+  "transmit": 415414,
+  "disk": 2372254
+}
