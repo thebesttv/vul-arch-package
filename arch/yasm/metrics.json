@@ -1,0 +1,11 @@
+{
+  "name": "yasm",
+  "version": "1.3.0-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199628298,
+  "transmit": 330905,
+  "disk": 11029336
+}
