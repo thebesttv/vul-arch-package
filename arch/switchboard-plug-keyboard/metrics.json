@@ -1,0 +1,23 @@
+{
+  "name": "switchboard-plug-keyboard",
+  "version": "3.2.1-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "ibus",
+    "libgee",
+    "libgnomekbd",
+    "libgranite.so",
+    "libhandy-1.so",
+    "libxml2",
+    "libswitchboard-2.0.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199674317,
+  "transmit": 328420,
+  "disk": 21848267
+}
