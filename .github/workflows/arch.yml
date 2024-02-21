@@ -117,6 +117,11 @@ jobs:
 
           ls arch/$TBT_PACKAGE_NAME/metrics.json
 
+      - name: Remove tmp work dir
+        if: success() || failure()
+        run: |
+          rm -rf tmp_work_dir
+
       - name: Set commit message
         id: commit_message_step
         if: success() || failure()

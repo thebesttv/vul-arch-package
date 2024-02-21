@@ -65,6 +65,3 @@ if [ $? -ne 0 ]; then
 
     exit 1
 fi
-
-# remove tmp dir regardless of what happens
-cd /github/workspace && rm -rf $TMP_DIR
