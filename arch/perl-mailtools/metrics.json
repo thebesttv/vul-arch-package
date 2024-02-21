@@ -1,0 +1,11 @@
+{
+  "name": "perl-mailtools",
+  "version": "2.21-7",
+  "depends": [
+    "perl-timedate"
+  ],
+  "makedepends": [],
+  "receive": 199842406,
+  "transmit": 443079,
+  "disk": 384905
+}
