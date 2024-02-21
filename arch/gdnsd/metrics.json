@@ -1,0 +1,17 @@
+{
+  "name": "gdnsd",
+  "version": "3.8.1-2",
+  "depends": [
+    "libev",
+    "libmaxminddb",
+    "libsodium",
+    "libunwind",
+    "liburcu"
+  ],
+  "makedepends": [
+    "ragel"
+  ],
+  "receive": 199554499,
+  "transmit": 315626,
+  "disk": 4035086
+}
