@@ -1,0 +1,13 @@
+{
+  "name": "python-dotenv",
+  "version": "1.0.1-1",
+  "depends": [
+    "python-click"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199530610,
+  "transmit": 292940,
+  "disk": 247249
+}
