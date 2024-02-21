@@ -1,0 +1,21 @@
+{
+  "name": "lm32-elf-gdb",
+  "version": "12.1-4",
+  "depends": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile",
+    "gdb-common",
+    "mpfr",
+    "libelf",
+    "source-highlight"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 222489553,
+  "transmit": 569313,
+  "disk": 226140447
+}
