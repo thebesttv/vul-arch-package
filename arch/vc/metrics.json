@@ -1,0 +1,11 @@
+{
+  "name": "vc",
+  "version": "1.4.4-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199582842,
+  "transmit": 322113,
+  "disk": 4756590
+}
