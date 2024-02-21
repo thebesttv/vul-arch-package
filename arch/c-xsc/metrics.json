@@ -1,0 +1,11 @@
+{
+  "name": "c-xsc",
+  "version": "2.5.4-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199546449,
+  "transmit": 282154,
+  "disk": 16478084
+}
