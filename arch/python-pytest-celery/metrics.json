@@ -1,0 +1,15 @@
+{
+  "name": "python-pytest-celery",
+  "version": "0.0.0-5",
+  "depends": [
+    "python-celery"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199634288,
+  "transmit": 392911,
+  "disk": 105381
+}
