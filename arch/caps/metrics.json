@@ -1,0 +1,14 @@
+{
+  "name": "caps",
+  "version": "0.9.26-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "ladspa",
+    "python"
+  ],
+  "receive": 199665527,
+  "transmit": 410269,
+  "disk": 1006192
+}
