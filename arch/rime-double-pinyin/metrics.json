@@ -1,0 +1,16 @@
+{
+  "name": "rime-double-pinyin",
+  "version": "0.0.0.20190120-1",
+  "depends": [
+    "rime-luna-pinyin",
+    "rime-stroke"
+  ],
+  "makedepends": [
+    "librime",
+    "rime-prelude",
+    "rime-essay"
+  ],
+  "receive": 199540292,
+  "transmit": 258790,
+  "disk": 159587
+}
