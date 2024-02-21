@@ -1,0 +1,23 @@
+{
+  "name": "elephantdsp-roomreverb",
+  "version": "1.1.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake",
+    "juce",
+    "libx11",
+    "libxcursor",
+    "libxinerama",
+    "libxrandr",
+    "lv2",
+    "flac",
+    "alsa-lib",
+    "libvorbis",
+    "webkit2gtk",
+    "zlib"
+  ],
+  "receive": 199704177,
+  "transmit": 411516,
+  "disk": 13195015
+}
