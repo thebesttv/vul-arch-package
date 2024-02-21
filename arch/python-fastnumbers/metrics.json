@@ -1,0 +1,18 @@
+{
+  "name": "python-fastnumbers",
+  "version": "5.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199521241,
+  "transmit": 255019,
+  "disk": 1189425
+}
