@@ -1,0 +1,23 @@
+{
+  "name": "switchboard-plug-locale",
+  "version": "2.5.9-1",
+  "depends": [
+    "accountsservice",
+    "glib2",
+    "gnome-desktop",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libibus",
+    "libswitchboard-2.0.so",
+    "polkit"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199887499,
+  "transmit": 570014,
+  "disk": 5870621
+}
