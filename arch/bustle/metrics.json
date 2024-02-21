@@ -1,0 +1,24 @@
+{
+  "name": "bustle",
+  "version": "0.8.0-46",
+  "depends": [
+    "ghc-libs",
+    "glib2",
+    "libpcap",
+    "haskell-cairo",
+    "haskell-gio",
+    "haskell-glib",
+    "haskell-gtk3",
+    "haskell-pango"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199699653,
+  "transmit": 422208,
+  "disk": 771100
+}
