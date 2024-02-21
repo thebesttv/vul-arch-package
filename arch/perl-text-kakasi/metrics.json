@@ -1,0 +1,12 @@
+{
+  "name": "perl-text-kakasi",
+  "version": "2.04-23",
+  "depends": [
+    "perl",
+    "kakasi"
+  ],
+  "makedepends": [],
+  "receive": 199630789,
+  "transmit": 370153,
+  "disk": 215929
+}
