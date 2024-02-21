@@ -1,0 +1,22 @@
+{
+  "name": "haskell-crypton-connection",
+  "version": "0.3.2-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-basement",
+    "haskell-crypton-x509",
+    "haskell-crypton-x509-store",
+    "haskell-crypton-x509-system",
+    "haskell-crypton-x509-validation",
+    "haskell-data-default-class",
+    "haskell-network",
+    "haskell-socks",
+    "haskell-tls"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199502047,
+  "transmit": 266593,
+  "disk": 199754
+}
