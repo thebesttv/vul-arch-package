@@ -1,0 +1,11 @@
+{
+  "name": "m4rie",
+  "version": "20200125-2",
+  "depends": [
+    "m4ri"
+  ],
+  "makedepends": [],
+  "receive": 199593057,
+  "transmit": 295357,
+  "disk": 3049864
+}
