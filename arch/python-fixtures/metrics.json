@@ -1,0 +1,16 @@
+{
+  "name": "python-fixtures",
+  "version": "4.1.0-2",
+  "depends": [
+    "python-pbr"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199542408,
+  "transmit": 292143,
+  "disk": 453713
+}
