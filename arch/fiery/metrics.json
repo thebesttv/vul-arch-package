@@ -1,0 +1,14 @@
+{
+  "name": "fiery",
+  "version": "1.1.2-1",
+  "depends": [
+    "mauikit-filebrowsing",
+    "qt5-webengine"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199544397,
+  "transmit": 269365,
+  "disk": 1045719
+}
