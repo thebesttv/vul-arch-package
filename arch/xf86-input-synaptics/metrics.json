@@ -1,0 +1,18 @@
+{
+  "name": "xf86-input-synaptics",
+  "version": "1.9.2-1",
+  "depends": [
+    "libxtst",
+    "libevdev"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-XINPUT_VERSION=24.4",
+    "libxi",
+    "libx11",
+    "xorgproto"
+  ],
+  "receive": 200297026,
+  "transmit": 503531,
+  "disk": 3204686
+}
