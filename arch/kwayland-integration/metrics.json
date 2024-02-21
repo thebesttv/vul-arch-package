@@ -1,0 +1,16 @@
+{
+  "name": "kwayland-integration",
+  "version": "5.27.10-1",
+  "depends": [
+    "kwindowsystem5",
+    "kwayland5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "wayland-protocols",
+    "kidletime5"
+  ],
+  "receive": 199682924,
+  "transmit": 442954,
+  "disk": 438942
+}
