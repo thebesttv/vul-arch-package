@@ -1,0 +1,11 @@
+{
+  "name": "paperkey",
+  "version": "1.6-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199668190,
+  "transmit": 424258,
+  "disk": 1412898
+}
