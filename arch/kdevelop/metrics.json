@@ -1,0 +1,32 @@
+{
+  "name": "kdevelop",
+  "version": "23.08.5-1",
+  "depends": [
+    "clang=16.0.6",
+    "libksysguard",
+    "kitemmodels5",
+    "knotifyconfig5",
+    "ktexteditor5",
+    "grantlee",
+    "libkomparediff2",
+    "kcmutils5",
+    "threadweaver5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "kdevelop-pg-qt",
+    "llvm",
+    "qt5-tools",
+    "plasma-framework5",
+    "krunner5",
+    "okteta",
+    "boost",
+    "purpose5",
+    "subversion",
+    "astyle"
+  ],
+  "receive": 208602646,
+  "transmit": 466788,
+  "disk": 66778277
+}
