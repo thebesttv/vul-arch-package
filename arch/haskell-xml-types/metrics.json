@@ -1,0 +1,13 @@
+{
+  "name": "haskell-xml-types",
+  "version": "0.3.8-8",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199543095,
+  "transmit": 275234,
+  "disk": 138863
+}
