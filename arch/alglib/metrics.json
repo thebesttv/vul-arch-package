@@ -1,0 +1,11 @@
+{
+  "name": "alglib",
+  "version": "4.01.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 203289378,
+  "transmit": 363645,
+  "disk": 31486597
+}
