@@ -1,0 +1,12 @@
+{
+  "name": "cycfx2prog",
+  "version": "0.47-4",
+  "depends": [
+    "glibc",
+    "libusb-compat"
+  ],
+  "makedepends": [],
+  "receive": 199585804,
+  "transmit": 300943,
+  "disk": 100801
+}
