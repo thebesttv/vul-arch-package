@@ -1,0 +1,17 @@
+{
+  "name": "libwpe",
+  "version": "1.14.2-1",
+  "depends": [
+    "gcc-libs",
+    "libegl",
+    "libxkbcommon"
+  ],
+  "makedepends": [
+    "git",
+    "mesa",
+    "meson"
+  ],
+  "receive": 199539318,
+  "transmit": 299772,
+  "disk": 2042263
+}
