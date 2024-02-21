@@ -1,0 +1,20 @@
+{
+  "name": "gnome-sound-recorder",
+  "version": "42.0-2",
+  "depends": [
+    "gjs",
+    "gst-plugins-bad-libs",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gtk4",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson"
+  ],
+  "receive": 199614420,
+  "transmit": 356743,
+  "disk": 6514001
+}
