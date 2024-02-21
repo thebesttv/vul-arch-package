@@ -1,0 +1,14 @@
+{
+  "name": "qwt",
+  "version": "6.2.0-1",
+  "depends": [
+    "qt5-base",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 204780234,
+  "transmit": 603065,
+  "disk": 41141975
+}
