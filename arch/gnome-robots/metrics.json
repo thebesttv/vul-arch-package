@@ -1,0 +1,22 @@
+{
+  "name": "gnome-robots",
+  "version": "40.0-1",
+  "depends": [
+    "gtk3",
+    "gsound",
+    "librsvg",
+    "libgnome-games-support",
+    "libgee"
+  ],
+  "makedepends": [
+    "meson",
+    "gobject-introspection",
+    "yelp-tools",
+    "appstream-glib",
+    "git",
+    "vala"
+  ],
+  "receive": 199567206,
+  "transmit": 285266,
+  "disk": 11011228
+}
