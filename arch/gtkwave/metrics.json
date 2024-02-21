@@ -1,0 +1,16 @@
+{
+  "name": "gtkwave",
+  "version": "3.3.118-1",
+  "depends": [
+    "bzip2",
+    "xz",
+    "gtk3",
+    "dconf"
+  ],
+  "makedepends": [
+    "gperf"
+  ],
+  "receive": 199674974,
+  "transmit": 383052,
+  "disk": 12060534
+}
