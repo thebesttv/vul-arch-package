@@ -1,0 +1,11 @@
+{
+  "name": "perl-b-debug-cpan",
+  "version": "1.26-3",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199514963,
+  "transmit": 291298,
+  "disk": 163825
+}
