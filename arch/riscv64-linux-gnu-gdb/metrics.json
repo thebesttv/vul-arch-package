@@ -1,0 +1,21 @@
+{
+  "name": "riscv64-linux-gnu-gdb",
+  "version": "13.2-1",
+  "depends": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile",
+    "gdb-common",
+    "mpfr",
+    "libelf",
+    "source-highlight"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 223725948,
+  "transmit": 639515,
+  "disk": 231467931
+}
