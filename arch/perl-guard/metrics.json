@@ -1,0 +1,11 @@
+{
+  "name": "perl-guard",
+  "version": "1.023-15",
+  "depends": [],
+  "makedepends": [
+    "perl"
+  ],
+  "receive": 200557866,
+  "transmit": 1172631,
+  "disk": 135912
+}
