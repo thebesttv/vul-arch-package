@@ -1,0 +1,12 @@
+{
+  "name": "gphoto2",
+  "version": "2.5.28-1",
+  "depends": [
+    "libgphoto2",
+    "popt"
+  ],
+  "makedepends": [],
+  "receive": 200567125,
+  "transmit": 466766,
+  "disk": 5439169
+}
