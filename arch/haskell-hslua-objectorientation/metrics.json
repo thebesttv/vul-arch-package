@@ -1,0 +1,24 @@
+{
+  "name": "haskell-hslua-objectorientation",
+  "version": "2.3.0-36",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslua-core",
+    "haskell-hslua-marshalling",
+    "haskell-hslua-typing"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-lua-arbitrary",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-hslua",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199588960,
+  "transmit": 313914,
+  "disk": 343185
+}
