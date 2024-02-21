@@ -1,0 +1,15 @@
+{
+  "name": "haskell-rvar",
+  "version": "0.3.0.2-19",
+  "depends": [
+    "ghc-libs",
+    "haskell-monadprompt",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199534792,
+  "transmit": 282319,
+  "disk": 258880
+}
