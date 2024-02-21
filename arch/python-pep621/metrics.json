@@ -1,0 +1,20 @@
+{
+  "name": "python-pep621",
+  "version": "0.6.1-1",
+  "depends": [
+    "python-packaging"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-sphinx",
+    "python-sphinx-autodoc-typehints",
+    "python-sphinx-furo"
+  ],
+  "receive": 199586490,
+  "transmit": 359190,
+  "disk": 636634
+}
