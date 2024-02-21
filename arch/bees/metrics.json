@@ -1,0 +1,15 @@
+{
+  "name": "bees",
+  "version": "0.10-1",
+  "depends": [
+    "util-linux-libs",
+    "bash"
+  ],
+  "makedepends": [
+    "btrfs-progs",
+    "systemd"
+  ],
+  "receive": 199689869,
+  "transmit": 440907,
+  "disk": 954938
+}
