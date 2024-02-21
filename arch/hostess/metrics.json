@@ -1,0 +1,13 @@
+{
+  "name": "hostess",
+  "version": "0.5.2-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199584586,
+  "transmit": 349795,
+  "disk": 187667
+}
