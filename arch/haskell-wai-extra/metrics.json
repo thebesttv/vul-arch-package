@@ -1,0 +1,36 @@
+{
+  "name": "haskell-wai-extra",
+  "version": "3.1.14-10",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-ansi-terminal",
+    "haskell-base64-bytestring",
+    "haskell-case-insensitive",
+    "haskell-cookie",
+    "haskell-data-default-class",
+    "haskell-fast-logger",
+    "haskell-http-types",
+    "haskell-iproute",
+    "haskell-network",
+    "haskell-resourcet",
+    "haskell-streaming-commons",
+    "haskell-vault",
+    "haskell-wai",
+    "haskell-wai-logger",
+    "haskell-warp",
+    "haskell-word8",
+    "haskell-hunit",
+    "haskell-call-stack"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-temporary",
+    "haskell-zlib"
+  ],
+  "receive": 199830275,
+  "transmit": 419312,
+  "disk": 1563965
+}
