@@ -1,0 +1,23 @@
+{
+  "name": "gnome-online-accounts",
+  "version": "3.48.0-2",
+  "depends": [
+    "gcr",
+    "json-glib",
+    "krb5",
+    "libnotify",
+    "librest",
+    "libsecret",
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "vala"
+  ],
+  "receive": 199654403,
+  "transmit": 304421,
+  "disk": 12154325
+}
