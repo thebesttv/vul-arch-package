@@ -1,0 +1,13 @@
+{
+  "name": "sugar-activity-read",
+  "version": "123-3",
+  "depends": [
+    "evince",
+    "sugar-toolkit-gtk3",
+    "webkit2gtk"
+  ],
+  "makedepends": [],
+  "receive": 200105741,
+  "transmit": 757751,
+  "disk": 913902
+}
