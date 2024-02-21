@@ -1,0 +1,20 @@
+{
+  "name": "lua-sdl2",
+  "version": "2.0.5.6.0-5",
+  "depends": [
+    "lua53",
+    "sdl2_gfx",
+    "sdl2_image",
+    "sdl2_mixer",
+    "sdl2_net",
+    "sdl2_ttf"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 200094083,
+  "transmit": 617994,
+  "disk": 31875789
+}
