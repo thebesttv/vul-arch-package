@@ -1,0 +1,19 @@
+{
+  "name": "libretro-mame2016",
+  "version": "44430-1",
+  "depends": [
+    "alsa-lib",
+    "glibc",
+    "libretro-core-info",
+    "libgl",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "libglvnd",
+    "python"
+  ],
+  "receive": 555623684,
+  "transmit": 563247,
+  "disk": 911914315
+}
