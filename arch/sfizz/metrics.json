@@ -1,0 +1,19 @@
+{
+  "name": "sfizz",
+  "version": "1.2.3-1",
+  "depends": [],
+  "makedepends": [
+    "abseil-cpp",
+    "cmake",
+    "cxxopts",
+    "gcc-libs",
+    "ghc-filesystem",
+    "glibc",
+    "jack",
+    "pugixml",
+    "simde"
+  ],
+  "receive": 199555781,
+  "transmit": 305941,
+  "disk": 65607920
+}
