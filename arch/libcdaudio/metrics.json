@@ -1,0 +1,11 @@
+{
+  "name": "libcdaudio",
+  "version": "0.99.12.p2-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199527512,
+  "transmit": 285981,
+  "disk": 2073816
+}
