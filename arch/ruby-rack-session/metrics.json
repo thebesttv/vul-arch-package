@@ -1,0 +1,14 @@
+{
+  "name": "ruby-rack-session",
+  "version": "2.0.0-1",
+  "depends": [
+    "ruby",
+    "ruby-rack"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199713304,
+  "transmit": 447342,
+  "disk": 252530
+}
