@@ -1,0 +1,11 @@
+{
+  "name": "ruby-formatador",
+  "version": "1.1.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199694782,
+  "transmit": 419153,
+  "disk": 149454
+}
