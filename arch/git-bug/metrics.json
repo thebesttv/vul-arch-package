@@ -1,0 +1,14 @@
+{
+  "name": "git-bug",
+  "version": "0.8.0-1",
+  "depends": [
+    "gcc-libs",
+    "git"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199554101,
+  "transmit": 280168,
+  "disk": 39325844
+}
