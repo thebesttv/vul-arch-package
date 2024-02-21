@@ -1,0 +1,12 @@
+{
+  "name": "gmrun",
+  "version": "1.4w-1",
+  "depends": [
+    "gtk3",
+    "popt"
+  ],
+  "makedepends": [],
+  "receive": 199573584,
+  "transmit": 352044,
+  "disk": 354324
+}
