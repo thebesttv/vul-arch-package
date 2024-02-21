@@ -1,0 +1,14 @@
+{
+  "name": "kcptun",
+  "version": "20240107-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 209833411,
+  "transmit": 539978,
+  "disk": 26185457
+}
