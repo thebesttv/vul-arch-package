@@ -1,0 +1,13 @@
+{
+  "name": "echoping",
+  "version": "6.0.2-12",
+  "depends": [
+    "libidn",
+    "popt",
+    "libldap"
+  ],
+  "makedepends": [],
+  "receive": 199657398,
+  "transmit": 406424,
+  "disk": 9218502
+}
