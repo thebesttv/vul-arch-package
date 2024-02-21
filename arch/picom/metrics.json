@@ -1,0 +1,28 @@
+{
+  "name": "picom",
+  "version": "11.2-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "libconfig",
+    "libdbus",
+    "libev",
+    "libgl",
+    "pcre2",
+    "pixman",
+    "xcb-util-image",
+    "xcb-util-renderutil",
+    "libepoxy"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "git",
+    "mesa",
+    "meson",
+    "ninja",
+    "setconf",
+    "uthash"
+  ],
+  "receive": 199631628,
+  "transmit": 405368,
+  "disk": 29203490
+}
