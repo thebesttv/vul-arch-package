@@ -1,0 +1,20 @@
+{
+  "name": "haskell-ipython-kernel",
+  "version": "0.11.0.0-21",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-cryptonite",
+    "haskell-memory",
+    "haskell-temporary",
+    "haskell-unordered-containers",
+    "haskell-uuid",
+    "haskell-zeromq4-haskell"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199650061,
+  "transmit": 294476,
+  "disk": 546765
+}
