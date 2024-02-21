@@ -1,0 +1,14 @@
+{
+  "name": "pcmanfm-gtk3",
+  "version": "1.3.2-1",
+  "depends": [
+    "libfm-gtk3",
+    "lxmenu-data"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199558423,
+  "transmit": 280155,
+  "disk": 4085640
+}
