@@ -1,0 +1,19 @@
+{
+  "name": "xdg-desktop-portal-wlr",
+  "version": "0.7.0-2",
+  "depends": [
+    "xdg-desktop-portal",
+    "pipewire",
+    "pipewire-session-manager",
+    "libinih"
+  ],
+  "makedepends": [
+    "meson",
+    "wayland-protocols",
+    "wayland",
+    "scdoc"
+  ],
+  "receive": 199544178,
+  "transmit": 310720,
+  "disk": 321930
+}
