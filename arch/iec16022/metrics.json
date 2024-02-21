@@ -1,0 +1,12 @@
+{
+  "name": "iec16022",
+  "version": "0.3.1-1",
+  "depends": [
+    "popt",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199689290,
+  "transmit": 443072,
+  "disk": 1866451
+}
