@@ -1,0 +1,14 @@
+{
+  "name": "desktop-file-utils",
+  "version": "0.27-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199628869,
+  "transmit": 407281,
+  "disk": 1224549
+}
