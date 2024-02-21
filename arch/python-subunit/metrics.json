@@ -1,0 +1,17 @@
+{
+  "name": "python-subunit",
+  "version": "1.4.4-1",
+  "depends": [
+    "python-iso8601",
+    "python-testtools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199630712,
+  "transmit": 378672,
+  "disk": 780765
+}
