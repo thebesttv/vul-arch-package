@@ -1,0 +1,14 @@
+{
+  "name": "lolcat",
+  "version": "100.0.1-1",
+  "depends": [
+    "ruby",
+    "ruby-paint",
+    "ruby-optimist",
+    "ruby-manpages"
+  ],
+  "makedepends": [],
+  "receive": 199695723,
+  "transmit": 420882,
+  "disk": 368709
+}
