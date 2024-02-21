@@ -1,0 +1,14 @@
+{
+  "name": "lesspipe",
+  "version": "2.07-1",
+  "depends": [
+    "less",
+    "perl"
+  ],
+  "makedepends": [
+    "zsh"
+  ],
+  "receive": 199564690,
+  "transmit": 278754,
+  "disk": 638288
+}
