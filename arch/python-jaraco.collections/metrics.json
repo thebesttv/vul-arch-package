@@ -1,0 +1,17 @@
+{
+  "name": "python-jaraco.collections",
+  "version": "3.5.2-3",
+  "depends": [
+    "python-jaraco.text",
+    "python-jaraco.classes"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199617405,
+  "transmit": 374907,
+  "disk": 178843
+}
