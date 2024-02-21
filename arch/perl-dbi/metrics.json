@@ -1,0 +1,11 @@
+{
+  "name": "perl-dbi",
+  "version": "1.643-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199541296,
+  "transmit": 299509,
+  "disk": 732392
+}
