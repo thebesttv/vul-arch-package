@@ -1,0 +1,11 @@
+{
+  "name": "pyenv",
+  "version": "1:2.3.36-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199532773,
+  "transmit": 294576,
+  "disk": 5425399
+}
