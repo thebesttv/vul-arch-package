@@ -1,0 +1,27 @@
+{
+  "name": "opensubdiv",
+  "version": "3.6.0-1",
+  "depends": [
+    "ptex",
+    "intel-tbb",
+    "libxcursor",
+    "xorg-xrandr",
+    "libxinerama",
+    "libxi"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "glfw",
+    "glew",
+    "python",
+    "python-pygments",
+    "python-docutils",
+    "opencl-headers",
+    "cuda",
+    "libglvnd"
+  ],
+  "receive": 199609238,
+  "transmit": 311951,
+  "disk": 115531411
+}
