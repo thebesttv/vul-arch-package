@@ -1,0 +1,13 @@
+{
+  "name": "cppzmq",
+  "version": "4.9.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "zeromq",
+    "cmake"
+  ],
+  "receive": 199532452,
+  "transmit": 318068,
+  "disk": 1463344
+}
