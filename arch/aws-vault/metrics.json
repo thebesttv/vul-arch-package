@@ -1,0 +1,13 @@
+{
+  "name": "aws-vault",
+  "version": "7.2.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199882969,
+  "transmit": 548961,
+  "disk": 473352
+}
