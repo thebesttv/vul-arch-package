@@ -1,0 +1,33 @@
+{
+  "name": "scummvm",
+  "version": "2.8.0-1",
+  "depends": [
+    "libpng",
+    "libtheora",
+    "sdl2",
+    "sdl2_net",
+    "fluidsynth",
+    "flac",
+    "faad2",
+    "libvorbis",
+    "libmad",
+    "freetype2",
+    "libgl",
+    "glu",
+    "libjpeg-turbo",
+    "libmpeg2",
+    "curl",
+    "a52dec",
+    "giflib",
+    "glew",
+    "libspeechd",
+    "gtk3",
+    "sndio"
+  ],
+  "makedepends": [
+    "mesa"
+  ],
+  "receive": 411989088,
+  "transmit": 3323399,
+  "disk": 656538317
+}
