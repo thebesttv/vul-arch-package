@@ -1,0 +1,13 @@
+{
+  "name": "perl-dbd-sybase",
+  "version": "1.23-2",
+  "depends": [
+    "perl-dbi>=1.52",
+    "perl",
+    "freetds"
+  ],
+  "makedepends": [],
+  "receive": 199551622,
+  "transmit": 307732,
+  "disk": 829163
+}
