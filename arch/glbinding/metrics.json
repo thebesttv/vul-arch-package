@@ -1,0 +1,16 @@
+{
+  "name": "glbinding",
+  "version": "3.3.0-1",
+  "depends": [
+    "libgl",
+    "glfw"
+  ],
+  "makedepends": [
+    "cmake",
+    "mesa",
+    "ninja"
+  ],
+  "receive": 201163010,
+  "transmit": 469097,
+  "disk": 13464875
+}
