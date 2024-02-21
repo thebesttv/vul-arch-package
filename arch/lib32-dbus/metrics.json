@@ -1,0 +1,16 @@
+{
+  "name": "lib32-dbus",
+  "version": "1.14.10-2",
+  "depends": [
+    "dbus",
+    "lib32-systemd"
+  ],
+  "makedepends": [
+    "lib32-expat",
+    "lib32-glib2",
+    "systemd"
+  ],
+  "receive": 199620878,
+  "transmit": 311451,
+  "disk": 10895062
+}
