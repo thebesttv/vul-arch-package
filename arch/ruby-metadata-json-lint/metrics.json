@@ -1,0 +1,19 @@
+{
+  "name": "ruby-metadata-json-lint",
+  "version": "4.0.0-2",
+  "depends": [
+    "ruby",
+    "ruby-json-schema",
+    "ruby-spdx-licenses",
+    "ruby-semantic_puppet"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-rspec",
+    "ruby-bundler"
+  ],
+  "receive": 199536121,
+  "transmit": 285939,
+  "disk": 359602
+}
