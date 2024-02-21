@@ -1,0 +1,16 @@
+{
+  "name": "hashcat",
+  "version": "1:6.2.6-1",
+  "depends": [
+    "ocl-icd",
+    "xxhash",
+    "zlib",
+    "minizip"
+  ],
+  "makedepends": [
+    "opencl-headers"
+  ],
+  "receive": 214083022,
+  "transmit": 500888,
+  "disk": 76206185
+}
