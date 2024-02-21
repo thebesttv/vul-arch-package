@@ -1,0 +1,17 @@
+{
+  "name": "iio-sensor-proxy",
+  "version": "3.5-2",
+  "depends": [
+    "systemd",
+    "libgudev",
+    "glib2",
+    "polkit"
+  ],
+  "makedepends": [
+    "gtk3",
+    "meson"
+  ],
+  "receive": 199491878,
+  "transmit": 252619,
+  "disk": 471075
+}
