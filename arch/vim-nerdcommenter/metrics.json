@@ -1,0 +1,11 @@
+{
+  "name": "vim-nerdcommenter",
+  "version": "2.7.0-1",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199571637,
+  "transmit": 333973,
+  "disk": 344183
+}
