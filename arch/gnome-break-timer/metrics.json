@@ -1,0 +1,17 @@
+{
+  "name": "gnome-break-timer",
+  "version": "2.1.0-1",
+  "depends": [
+    "gsound",
+    "gtk3",
+    "libnotify"
+  ],
+  "makedepends": [
+    "meson",
+    "git",
+    "vala"
+  ],
+  "receive": 199556436,
+  "transmit": 311823,
+  "disk": 4411513
+}
