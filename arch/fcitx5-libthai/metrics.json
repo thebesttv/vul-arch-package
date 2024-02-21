@@ -1,0 +1,15 @@
+{
+  "name": "fcitx5-libthai",
+  "version": "5.1.2-1",
+  "depends": [
+    "fcitx5",
+    "libthai"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja"
+  ],
+  "receive": 199732551,
+  "transmit": 505138,
+  "disk": 199939
+}
