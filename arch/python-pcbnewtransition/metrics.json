@@ -1,0 +1,17 @@
+{
+  "name": "python-pcbnewtransition",
+  "version": "0.3.4-2",
+  "depends": [
+    "python",
+    "kicad"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199566971,
+  "transmit": 339586,
+  "disk": 204545
+}
