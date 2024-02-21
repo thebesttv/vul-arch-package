@@ -1,0 +1,12 @@
+{
+  "name": "ruby-async-container",
+  "version": "0.16.12-2",
+  "depends": [
+    "ruby-async",
+    "ruby-async-io"
+  ],
+  "makedepends": [],
+  "receive": 199653179,
+  "transmit": 386298,
+  "disk": 279592
+}
