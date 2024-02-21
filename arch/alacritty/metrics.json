@@ -1,0 +1,27 @@
+{
+  "name": "alacritty",
+  "version": "0.13.1-1",
+  "depends": [
+    "freetype2",
+    "fontconfig",
+    "libxi",
+    "libxcursor",
+    "libxkbcommon",
+    "libxkbcommon-x11",
+    "libxrandr"
+  ],
+  "makedepends": [
+    "git",
+    "rust",
+    "cargo",
+    "cmake",
+    "ncurses",
+    "desktop-file-utils",
+    "gdb",
+    "libxcb",
+    "scdoc"
+  ],
+  "receive": 254320745,
+  "transmit": 370616,
+  "disk": 105258614
+}
