@@ -1,0 +1,13 @@
+{
+  "name": "python-case",
+  "version": "1.5.3-10",
+  "depends": [
+    "python-nose",
+    "python-setuptools",
+    "python-six"
+  ],
+  "makedepends": [],
+  "receive": 199535752,
+  "transmit": 291808,
+  "disk": 333430
+}
