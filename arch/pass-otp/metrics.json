@@ -1,0 +1,13 @@
+{
+  "name": "pass-otp",
+  "version": "1.2.0-2",
+  "depends": [
+    "pass",
+    "oath-toolkit",
+    "qrencode"
+  ],
+  "makedepends": [],
+  "receive": 199800559,
+  "transmit": 467916,
+  "disk": 285497
+}
