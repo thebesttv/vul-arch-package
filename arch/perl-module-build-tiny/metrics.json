@@ -1,0 +1,16 @@
+{
+  "name": "perl-module-build-tiny",
+  "version": "0.047-1",
+  "depends": [
+    "perl",
+    "perl-extutils-config",
+    "perl-extutils-helpers",
+    "perl-extutils-installpaths"
+  ],
+  "makedepends": [
+    "perl-test-harness"
+  ],
+  "receive": 199509832,
+  "transmit": 254182,
+  "disk": 228850
+}
