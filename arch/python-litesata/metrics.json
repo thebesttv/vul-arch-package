@@ -1,0 +1,14 @@
+{
+  "name": "python-litesata",
+  "version": "2021.08-2",
+  "depends": [
+    "python-migen",
+    "python-litex"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199635641,
+  "transmit": 376963,
+  "disk": 758007
+}
