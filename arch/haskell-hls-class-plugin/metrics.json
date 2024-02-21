@@ -1,0 +1,25 @@
+{
+  "name": "haskell-hls-class-plugin",
+  "version": "1.1.1.0-146",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-extra",
+    "haskell-ghc",
+    "haskell-ghc-exactprint",
+    "haskell-ghcide",
+    "haskell-hls-graph",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils",
+    "haskell-lsp-types"
+  ],
+  "receive": 199646790,
+  "transmit": 372258,
+  "disk": 528529
+}
