@@ -1,0 +1,13 @@
+{
+  "name": "perl-devel-checklib",
+  "version": "1.16-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-capture-tiny"
+  ],
+  "receive": 199691705,
+  "transmit": 437198,
+  "disk": 192994
+}
