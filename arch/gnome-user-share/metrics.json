@@ -1,0 +1,17 @@
+{
+  "name": "gnome-user-share",
+  "version": "43.0-1",
+  "depends": [
+    "glib2",
+    "dconf",
+    "mod_dnssd",
+    "systemd"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199544815,
+  "transmit": 282567,
+  "disk": 3781117
+}
