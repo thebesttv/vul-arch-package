@@ -1,0 +1,19 @@
+{
+  "name": "iputils",
+  "version": "20240117-1",
+  "depends": [
+    "libcap",
+    "libidn2"
+  ],
+  "makedepends": [
+    "perl-sgmls",
+    "git",
+    "docbook-xsl",
+    "meson",
+    "systemd",
+    "iproute"
+  ],
+  "receive": 199577625,
+  "transmit": 297986,
+  "disk": 6013742
+}
