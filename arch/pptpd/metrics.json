@@ -1,0 +1,11 @@
+{
+  "name": "pptpd",
+  "version": "1.4.0-3",
+  "depends": [
+    "ppp"
+  ],
+  "makedepends": [],
+  "receive": 199581921,
+  "transmit": 302606,
+  "disk": 1236534
+}
