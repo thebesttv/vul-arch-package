@@ -1,0 +1,14 @@
+{
+  "name": "lib32-speex",
+  "version": "1.2.1-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "speex"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199503585,
+  "transmit": 248197,
+  "disk": 9599241
+}
