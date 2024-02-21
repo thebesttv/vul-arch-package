@@ -1,0 +1,11 @@
+{
+  "name": "ruby-faraday-em_http",
+  "version": "1.0.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199879019,
+  "transmit": 491146,
+  "disk": 159631
+}
