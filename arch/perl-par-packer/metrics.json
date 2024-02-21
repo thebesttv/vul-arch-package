@@ -1,0 +1,19 @@
+{
+  "name": "perl-par-packer",
+  "version": "1.061-2",
+  "depends": [
+    "perl-archive-zip",
+    "perl-getopt-argvfile",
+    "perl-ipc-run3",
+    "perl-module-scandeps",
+    "perl-par",
+    "perl-par-dist"
+  ],
+  "makedepends": [
+    "perl",
+    "perl-extutils-makemaker"
+  ],
+  "receive": 199542906,
+  "transmit": 279499,
+  "disk": 1287931
+}
