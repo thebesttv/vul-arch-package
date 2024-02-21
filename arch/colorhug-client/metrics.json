@@ -1,0 +1,23 @@
+{
+  "name": "colorhug-client",
+  "version": "0.2.8-3",
+  "depends": [
+    "colord-gtk",
+    "libcanberra"
+  ],
+  "makedepends": [
+    "intltool",
+    "itstool",
+    "gobject-introspection",
+    "libgusb",
+    "gtk3",
+    "docbook-utils",
+    "docbook-sgml",
+    "perl-sgmls",
+    "bash-completion",
+    "appstream-glib"
+  ],
+  "receive": 199601345,
+  "transmit": 372716,
+  "disk": 5267983
+}
