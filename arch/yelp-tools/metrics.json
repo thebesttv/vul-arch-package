@@ -1,0 +1,19 @@
+{
+  "name": "yelp-tools",
+  "version": "42.1-1",
+  "depends": [
+    "yelp-xsl",
+    "python-lxml",
+    "itstool",
+    "libxml2",
+    "docbook-xsl",
+    "mallard-ducktype"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199562430,
+  "transmit": 307464,
+  "disk": 4091492
+}
