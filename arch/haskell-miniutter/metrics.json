@@ -1,0 +1,17 @@
+{
+  "name": "haskell-miniutter",
+  "version": "0.5.1.2-42",
+  "depends": [
+    "ghc-libs",
+    "haskell-minimorph"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199691359,
+  "transmit": 458786,
+  "disk": 215858
+}
