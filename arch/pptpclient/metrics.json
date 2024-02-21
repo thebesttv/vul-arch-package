@@ -1,0 +1,13 @@
+{
+  "name": "pptpclient",
+  "version": "1.10.0-3",
+  "depends": [
+    "ppp",
+    "iproute2",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199549468,
+  "transmit": 297398,
+  "disk": 463279
+}
