@@ -1,0 +1,11 @@
+{
+  "name": "buddy",
+  "version": "2.4-6",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199771370,
+  "transmit": 453498,
+  "disk": 4310562
+}
