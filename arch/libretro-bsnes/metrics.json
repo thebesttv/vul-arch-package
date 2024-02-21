@@ -1,0 +1,14 @@
+{
+  "name": "libretro-bsnes",
+  "version": "1:3125-1",
+  "depends": [
+    "gcc-libs",
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199717299,
+  "transmit": 386030,
+  "disk": 53268203
+}
