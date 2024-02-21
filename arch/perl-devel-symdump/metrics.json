@@ -1,0 +1,11 @@
+{
+  "name": "perl-devel-symdump",
+  "version": "2.18-5",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199638503,
+  "transmit": 375916,
+  "disk": 184735
+}
