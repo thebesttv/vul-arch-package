@@ -1,0 +1,11 @@
+{
+  "name": "perl-xml-writer",
+  "version": "0.900-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199725293,
+  "transmit": 431386,
+  "disk": 252570
+}
