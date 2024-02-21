@@ -1,0 +1,15 @@
+{
+  "name": "lib32-librtmp0",
+  "version": "2.4-5",
+  "depends": [
+    "lib32-glibc",
+    "lib32-gnutls",
+    "lib32-zlib"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199550392,
+  "transmit": 274986,
+  "disk": 1657071
+}
