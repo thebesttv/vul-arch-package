@@ -1,0 +1,12 @@
+{
+  "name": "privoxy",
+  "version": "3.0.34-1",
+  "depends": [
+    "pcre",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199898687,
+  "transmit": 574783,
+  "disk": 7184347
+}
