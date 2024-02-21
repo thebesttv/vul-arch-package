@@ -1,0 +1,11 @@
+{
+  "name": "diskonaut",
+  "version": "0.11.0-2",
+  "depends": [],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199635038,
+  "transmit": 322413,
+  "disk": 8398907
+}
