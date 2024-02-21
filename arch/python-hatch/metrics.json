@@ -1,0 +1,30 @@
+{
+  "name": "python-hatch",
+  "version": "1.9.3-1",
+  "depends": [
+    "python",
+    "python-click",
+    "python-hatchling",
+    "python-httpx",
+    "python-hyperlink",
+    "python-keyring",
+    "python-packaging",
+    "python-pexpect",
+    "python-platformdirs",
+    "python-rich",
+    "python-shellingham",
+    "python-tomli-w",
+    "python-tomlkit",
+    "python-userpath",
+    "python-virtualenv"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-vcs",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199598849,
+  "transmit": 320413,
+  "disk": 4217417
+}
