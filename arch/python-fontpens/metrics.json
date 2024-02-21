@@ -1,0 +1,16 @@
+{
+  "name": "python-fontpens",
+  "version": "0.2.4-7",
+  "depends": [
+    "python-fonttools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199724098,
+  "transmit": 458290,
+  "disk": 188067
+}
