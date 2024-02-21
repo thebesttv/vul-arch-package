@@ -1,0 +1,12 @@
+{
+  "name": "html-xml-utils",
+  "version": "8.6-1",
+  "depends": [
+    "curl",
+    "libidn2"
+  ],
+  "makedepends": [],
+  "receive": 199546123,
+  "transmit": 284890,
+  "disk": 2213474
+}
