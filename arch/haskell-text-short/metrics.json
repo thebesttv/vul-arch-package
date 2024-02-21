@@ -1,0 +1,18 @@
+{
+  "name": "haskell-text-short",
+  "version": "0.1.5-75",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199545252,
+  "transmit": 270283,
+  "disk": 475475
+}
