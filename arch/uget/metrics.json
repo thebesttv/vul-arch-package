@@ -1,0 +1,16 @@
+{
+  "name": "uget",
+  "version": "2.2.3-6",
+  "depends": [
+    "libnotify",
+    "gtk3",
+    "gstreamer",
+    "curl"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199766093,
+  "transmit": 460943,
+  "disk": 5862207
+}
