@@ -1,0 +1,13 @@
+{
+  "name": "rhit",
+  "version": "2.0.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 200497230,
+  "transmit": 314119,
+  "disk": 18018950
+}
