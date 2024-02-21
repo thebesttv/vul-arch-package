@@ -1,0 +1,17 @@
+{
+  "name": "qt6-charts",
+  "version": "6.6.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199746677,
+  "transmit": 410733,
+  "disk": 4792825
+}
