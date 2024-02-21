@@ -1,0 +1,15 @@
+{
+  "name": "kubectx",
+  "version": "0.9.5-1",
+  "depends": [
+    "glibc",
+    "kubectl"
+  ],
+  "makedepends": [
+    "go",
+    "grep"
+  ],
+  "receive": 199771144,
+  "transmit": 376148,
+  "disk": 1370518
+}
