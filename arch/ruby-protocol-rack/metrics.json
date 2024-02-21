@@ -1,0 +1,12 @@
+{
+  "name": "ruby-protocol-rack",
+  "version": "0.2.6-1",
+  "depends": [
+    "ruby-protocol-http",
+    "ruby-rack"
+  ],
+  "makedepends": [],
+  "receive": 199696560,
+  "transmit": 396803,
+  "disk": 242679
+}
