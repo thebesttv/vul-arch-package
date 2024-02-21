@@ -1,0 +1,16 @@
+{
+  "name": "libpano13",
+  "version": "2.9.22-1",
+  "depends": [
+    "libjpeg",
+    "libpng",
+    "libtiff",
+    "suitesparse"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200790470,
+  "transmit": 1245882,
+  "disk": 8940537
+}
