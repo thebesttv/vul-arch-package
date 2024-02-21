@@ -1,0 +1,20 @@
+{
+  "name": "xwallpaper",
+  "version": "0.7.4-1",
+  "depends": [
+    "pixman",
+    "libpng",
+    "libxpm",
+    "xcb-util",
+    "xcb-util-image",
+    "libjpeg-turbo",
+    "libseccomp",
+    "libseccomp.so",
+    "libpixman-1.so",
+    "libjpeg.so"
+  ],
+  "makedepends": [],
+  "receive": 199594798,
+  "transmit": 365857,
+  "disk": 637956
+}
