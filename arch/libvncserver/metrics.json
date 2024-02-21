@@ -1,0 +1,19 @@
+{
+  "name": "libvncserver",
+  "version": "0.9.14-2",
+  "depends": [
+    "gnutls",
+    "libgcrypt",
+    "libjpeg",
+    "libpng",
+    "lzo",
+    "openssl"
+  ],
+  "makedepends": [
+    "sdl2",
+    "cmake"
+  ],
+  "receive": 199811284,
+  "transmit": 458128,
+  "disk": 3391479
+}
