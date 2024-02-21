@@ -1,0 +1,11 @@
+{
+  "name": "vim-indent-object",
+  "version": "1.1.2-8",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199517381,
+  "transmit": 284479,
+  "disk": 119536
+}
