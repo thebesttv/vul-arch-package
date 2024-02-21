@@ -1,0 +1,13 @@
+{
+  "name": "libxdg-basedir",
+  "version": "1.2.3-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199915729,
+  "transmit": 576150,
+  "disk": 551148
+}
