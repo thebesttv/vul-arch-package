@@ -1,0 +1,11 @@
+{
+  "name": "reiserfsprogs",
+  "version": "3.6.27-4",
+  "depends": [
+    "util-linux"
+  ],
+  "makedepends": [],
+  "receive": 199667661,
+  "transmit": 417292,
+  "disk": 3298424
+}
