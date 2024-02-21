@@ -1,0 +1,12 @@
+{
+  "name": "cgasm",
+  "version": "1.0.0-4",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199766016,
+  "transmit": 493596,
+  "disk": 6867626
+}
