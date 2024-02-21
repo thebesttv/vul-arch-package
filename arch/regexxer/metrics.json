@@ -1,0 +1,13 @@
+{
+  "name": "regexxer",
+  "version": "0.10-10",
+  "depends": [
+    "gtksourceviewmm"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 200003525,
+  "transmit": 466048,
+  "disk": 2006318
+}
