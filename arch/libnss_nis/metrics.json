@@ -1,0 +1,12 @@
+{
+  "name": "libnss_nis",
+  "version": "3.2-1",
+  "depends": [
+    "libnsl",
+    "libtirpc"
+  ],
+  "makedepends": [],
+  "receive": 199616341,
+  "transmit": 352591,
+  "disk": 1249328
+}
