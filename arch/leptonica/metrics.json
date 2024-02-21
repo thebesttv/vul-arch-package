@@ -1,0 +1,27 @@
+{
+  "name": "leptonica",
+  "version": "1.84.1-2",
+  "depends": [
+    "giflib",
+    "libgif.so",
+    "libjpeg-turbo",
+    "libjpeg.so",
+    "libpng",
+    "libpng16.so",
+    "libtiff",
+    "libtiff.so",
+    "libtiff",
+    "libtiff.so",
+    "libwebp",
+    "libwebp.so",
+    "libwebpmux.so",
+    "libsharpyuv.so",
+    "openjpeg2",
+    "zlib",
+    "libz.so"
+  ],
+  "makedepends": [],
+  "receive": 210124167,
+  "transmit": 1747373,
+  "disk": 37480924
+}
