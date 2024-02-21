@@ -1,0 +1,15 @@
+{
+  "name": "python-hacking",
+  "version": "6.1.0-1",
+  "depends": [
+    "flake8"
+  ],
+  "makedepends": [
+    "git",
+    "python-pbr",
+    "python-setuptools"
+  ],
+  "receive": 200565924,
+  "transmit": 319850,
+  "disk": 1573734
+}
