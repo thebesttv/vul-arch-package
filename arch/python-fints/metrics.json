@@ -1,0 +1,17 @@
+{
+  "name": "python-fints",
+  "version": "4.0.0-1",
+  "depends": [
+    "python",
+    "python-mt-940",
+    "python-bleach",
+    "python-sepaxml",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199533407,
+  "transmit": 288858,
+  "disk": 644171
+}
