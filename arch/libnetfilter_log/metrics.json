@@ -1,0 +1,12 @@
+{
+  "name": "libnetfilter_log",
+  "version": "1.0.2-1",
+  "depends": [
+    "libnfnetlink",
+    "libmnl"
+  ],
+  "makedepends": [],
+  "receive": 199586617,
+  "transmit": 324339,
+  "disk": 1980809
+}
