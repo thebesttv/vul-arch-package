@@ -1,0 +1,41 @@
+{
+  "name": "mutter",
+  "version": "45.4-1",
+  "depends": [
+    "colord",
+    "dconf",
+    "gnome-desktop-4",
+    "gnome-settings-daemon",
+    "graphene",
+    "gsettings-desktop-schemas",
+    "iio-sensor-proxy",
+    "lcms2",
+    "libcanberra",
+    "libdisplay-info",
+    "libei",
+    "libgudev",
+    "libinput",
+    "libsm",
+    "libsysprof-capture",
+    "libxkbcommon-x11",
+    "libxkbfile",
+    "pipewire",
+    "startup-notification",
+    "xorg-xwayland"
+  ],
+  "makedepends": [
+    "egl-wayland",
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "gtk3",
+    "meson",
+    "sysprof",
+    "wayland-protocols",
+    "xorg-server",
+    "xorg-server-xvfb"
+  ],
+  "receive": 289483673,
+  "transmit": 380136,
+  "disk": 124142015
+}
