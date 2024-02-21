@@ -1,0 +1,13 @@
+{
+  "name": "gox",
+  "version": "1.0.1-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199659555,
+  "transmit": 407734,
+  "disk": 247645
+}
