@@ -1,0 +1,14 @@
+{
+  "name": "scim-chewing",
+  "version": "0.5.1-3",
+  "depends": [
+    "scim",
+    "libchewing"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199726058,
+  "transmit": 440912,
+  "disk": 431838
+}
