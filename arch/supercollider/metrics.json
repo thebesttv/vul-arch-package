@@ -1,0 +1,30 @@
+{
+  "name": "supercollider",
+  "version": "3.13.0-4",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "qt5-base",
+    "qt5-svg",
+    "qt5-webengine",
+    "qt5-websockets"
+  ],
+  "makedepends": [
+    "abletonlink",
+    "alsa-lib",
+    "avahi",
+    "boost",
+    "cmake",
+    "emacs",
+    "fftw",
+    "libsndfile",
+    "qt5-tools",
+    "readline",
+    "systemd-libs",
+    "yaml-cpp"
+  ],
+  "receive": 218700620,
+  "transmit": 548703,
+  "disk": 126933946
+}
