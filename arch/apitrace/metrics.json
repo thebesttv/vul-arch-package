@@ -1,0 +1,18 @@
+{
+  "name": "apitrace",
+  "version": "11.1-2",
+  "depends": [
+    "python",
+    "libgl",
+    "libprocps"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "mesa",
+    "qt5-base"
+  ],
+  "receive": 222680051,
+  "transmit": 411491,
+  "disk": 39611846
+}
