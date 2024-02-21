@@ -1,0 +1,22 @@
+{
+  "name": "ukwm",
+  "version": "1.2.1-4",
+  "depends": [
+    "gnome-desktop",
+    "gobject-introspection-runtime",
+    "libinput",
+    "libxkbcommon-x11",
+    "ukui-settings-daemon",
+    "upower",
+    "libcanberra"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "mate-common",
+    "intltool",
+    "wayland-protocols"
+  ],
+  "receive": 204079703,
+  "transmit": 261438,
+  "disk": 29166211
+}
