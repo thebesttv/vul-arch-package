@@ -1,0 +1,11 @@
+{
+  "name": "perl-device-serialport",
+  "version": "1.04-18",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199611272,
+  "transmit": 370428,
+  "disk": 622200
+}
