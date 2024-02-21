@@ -1,0 +1,11 @@
+{
+  "name": "smlnj",
+  "version": "110.99.4-1",
+  "depends": [],
+  "makedepends": [
+    "smlnj"
+  ],
+  "receive": 216160001,
+  "transmit": 500229,
+  "disk": 70282128
+}
