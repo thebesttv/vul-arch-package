@@ -1,0 +1,14 @@
+{
+  "name": "libgdamm",
+  "version": "4.99.11-2",
+  "depends": [],
+  "makedepends": [
+    "libgda",
+    "libsigc++",
+    "glibmm",
+    "glibmm-docs"
+  ],
+  "receive": 199589172,
+  "transmit": 327706,
+  "disk": 15231917
+}
