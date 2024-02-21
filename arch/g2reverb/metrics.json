@@ -1,0 +1,13 @@
+{
+  "name": "g2reverb",
+  "version": "0.7.1-6",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "ladspa"
+  ],
+  "receive": 199648576,
+  "transmit": 410671,
+  "disk": 182460
+}
