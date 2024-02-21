@@ -1,0 +1,11 @@
+{
+  "name": "perl-text-iconv",
+  "version": "1.7-23",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199531519,
+  "transmit": 307888,
+  "disk": 148576
+}
