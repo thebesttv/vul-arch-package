@@ -1,0 +1,11 @@
+{
+  "name": "libxml-perl",
+  "version": "0.08-8",
+  "depends": [
+    "perl-xml-parser"
+  ],
+  "makedepends": [],
+  "receive": 199531695,
+  "transmit": 274858,
+  "disk": 467417
+}
