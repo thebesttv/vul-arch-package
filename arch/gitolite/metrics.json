@@ -1,0 +1,13 @@
+{
+  "name": "gitolite",
+  "version": "3.6.13-1",
+  "depends": [
+    "git",
+    "perl",
+    "openssh"
+  ],
+  "makedepends": [],
+  "receive": 199674597,
+  "transmit": 392357,
+  "disk": 1126902
+}
