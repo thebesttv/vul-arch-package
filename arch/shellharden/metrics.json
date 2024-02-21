@@ -1,0 +1,12 @@
+{
+  "name": "shellharden",
+  "version": "4.3.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199682443,
+  "transmit": 428690,
+  "disk": 1205274
+}
