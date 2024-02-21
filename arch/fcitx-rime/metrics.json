@@ -1,0 +1,14 @@
+{
+  "name": "fcitx-rime",
+  "version": "0.3.2-3",
+  "depends": [
+    "fcitx",
+    "librime"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199536939,
+  "transmit": 263319,
+  "disk": 275292
+}
