@@ -1,0 +1,23 @@
+{
+  "name": "haskell-texmath",
+  "version": "0.12.8.4-4",
+  "depends": [
+    "ghc-libs",
+    "haskell-network-uri",
+    "haskell-pandoc-types",
+    "haskell-split",
+    "haskell-syb",
+    "haskell-typst-symbols",
+    "haskell-xml"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-pretty-show",
+    "haskell-tagged",
+    "haskell-tasty",
+    "haskell-tasty-golden"
+  ],
+  "receive": 199731343,
+  "transmit": 439374,
+  "disk": 23078808
+}
