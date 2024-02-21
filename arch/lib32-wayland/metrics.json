@@ -1,0 +1,17 @@
+{
+  "name": "lib32-wayland",
+  "version": "1.22.0-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-libffi",
+    "lib32-expat",
+    "lib32-libxml2",
+    "wayland"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199616256,
+  "transmit": 300429,
+  "disk": 1973858
+}
