@@ -1,0 +1,19 @@
+{
+  "name": "python-rstcheck-core",
+  "version": "1.1.1-1",
+  "depends": [
+    "python-docutils",
+    "python-pydantic",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199639261,
+  "transmit": 404595,
+  "disk": 1937786
+}
