@@ -1,0 +1,16 @@
+{
+  "name": "python-pyrate-limiter",
+  "version": "3.2.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 200606004,
+  "transmit": 794251,
+  "disk": 1780962
+}
