@@ -1,0 +1,13 @@
+{
+  "name": "flite",
+  "version": "2.2-1",
+  "depends": [
+    "alsa-lib"
+  ],
+  "makedepends": [
+    "chrpath"
+  ],
+  "receive": 210207841,
+  "transmit": 589745,
+  "disk": 103506707
+}
