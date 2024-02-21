@@ -1,0 +1,11 @@
+{
+  "name": "libhomfly",
+  "version": "1.02r6-2",
+  "depends": [
+    "gc"
+  ],
+  "makedepends": [],
+  "receive": 199675288,
+  "transmit": 442344,
+  "disk": 210460
+}
