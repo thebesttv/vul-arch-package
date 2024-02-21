@@ -1,0 +1,14 @@
+{
+  "name": "fcitx-skk",
+  "version": "0.1.4-2",
+  "depends": [
+    "fcitx-qt5",
+    "libskk"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200961729,
+  "transmit": 1064755,
+  "disk": 304073
+}
