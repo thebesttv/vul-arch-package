@@ -1,0 +1,22 @@
+{
+  "name": "libei",
+  "version": "1.2.1-1",
+  "depends": [
+    "libevdev",
+    "systemd"
+  ],
+  "makedepends": [
+    "git",
+    "libxkbcommon",
+    "meson",
+    "python-attrs",
+    "python-dbusmock",
+    "python-jinja",
+    "python-pytest",
+    "python-structlog",
+    "python-yaml"
+  ],
+  "receive": 199729530,
+  "transmit": 409624,
+  "disk": 4008302
+}
