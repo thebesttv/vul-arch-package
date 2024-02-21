@@ -1,0 +1,15 @@
+{
+  "name": "erdtree",
+  "version": "3.1.2-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199655717,
+  "transmit": 435686,
+  "disk": 25899593
+}
