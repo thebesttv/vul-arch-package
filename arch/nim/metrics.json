@@ -1,0 +1,14 @@
+{
+  "name": "nim",
+  "version": "2.0.2-1",
+  "depends": [
+    "bash",
+    "gcc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 225605567,
+  "transmit": 370539,
+  "disk": 1912319353
+}
