@@ -1,0 +1,12 @@
+{
+  "name": "vim-grammalecte",
+  "version": "r31.09d4b24-2",
+  "depends": [
+    "vim-plugin-runtime",
+    "grammalecte"
+  ],
+  "makedepends": [],
+  "receive": 199633345,
+  "transmit": 386272,
+  "disk": 132729
+}
