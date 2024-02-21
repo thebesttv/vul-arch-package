@@ -1,0 +1,13 @@
+{
+  "name": "cni-plugins",
+  "version": "1.4.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199650067,
+  "transmit": 361273,
+  "disk": 26120473
+}
