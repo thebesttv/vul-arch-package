@@ -1,0 +1,14 @@
+{
+  "name": "mimalloc",
+  "version": "2.1.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 199883508,
+  "transmit": 498004,
+  "disk": 11384025
+}
