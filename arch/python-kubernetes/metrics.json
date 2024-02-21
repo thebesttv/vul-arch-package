@@ -1,0 +1,23 @@
+{
+  "name": "python-kubernetes",
+  "version": "28.1.0-1",
+  "depends": [
+    "python",
+    "python-certifi",
+    "python-six",
+    "python-dateutil",
+    "python-urllib3",
+    "python-yaml",
+    "python-google-auth",
+    "python-websocket-client",
+    "python-requests",
+    "python-requests-oauthlib",
+    "python-adal"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 201011487,
+  "transmit": 307460,
+  "disk": 30853765
+}
