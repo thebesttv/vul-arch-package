@@ -1,0 +1,16 @@
+{
+  "name": "ruby-x25519",
+  "version": "1.0.10-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-bundler",
+    "ruby-rdoc",
+    "ruby-rake-compiler"
+  ],
+  "receive": 199600844,
+  "transmit": 334858,
+  "disk": 348311
+}
