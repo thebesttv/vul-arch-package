@@ -1,0 +1,26 @@
+{
+  "name": "haskell-hls-code-range-plugin",
+  "version": "1.1.0.0-146",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-extra",
+    "haskell-ghcide",
+    "haskell-hashable",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-semigroupoids",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils",
+    "haskell-lsp-test",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 200004229,
+  "transmit": 422223,
+  "disk": 502236
+}
