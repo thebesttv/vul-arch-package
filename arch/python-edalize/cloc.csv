@@ -1,0 +1,17 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.21 s (2190.3 files/s 102155.2 lines/s)"
+172,Python,3032,1905,11024
+78,Tcl/Tk,344,157,1232
+34,Jinja Template,187,0,882
+64,make,354,65,687
+15,reStructuredText,283,203,492
+73,DOS Batch,8,1,124
+3,YAML,15,11,64
+1,XML,0,6,63
+1,VHDL,3,0,20
+3,Fortran 77,0,0,17
+1,Markdown,3,0,11
+5,Bourne Shell,0,0,10
+1,INI,1,0,9
+3,Text,0,0,7
+1,Verilog-SystemVerilog,0,0,1
+455,SUM,4230,2348,14643

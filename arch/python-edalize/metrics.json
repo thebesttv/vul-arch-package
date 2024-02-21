@@ -1,0 +1,15 @@
+{
+  "name": "python-edalize",
+  "version": "0.5.4-1",
+  "depends": [
+    "python",
+    "python-jinja",
+    "python-pyparsing"
+  ],
+  "makedepends": [
+    "python-setuptools-scm"
+  ],
+  "receive": 199642520,
+  "transmit": 369989,
+  "disk": 4436812
+}
