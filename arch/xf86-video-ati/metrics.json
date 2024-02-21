@@ -1,0 +1,16 @@
+{
+  "name": "xf86-video-ati",
+  "version": "1:22.0.0-1",
+  "depends": [
+    "systemd-libs",
+    "mesa"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "systemd",
+    "X-ABI-VIDEODRV_VERSION=25.2"
+  ],
+  "receive": 199986423,
+  "transmit": 444235,
+  "disk": 6783012
+}
