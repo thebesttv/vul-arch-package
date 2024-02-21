@@ -1,0 +1,11 @@
+{
+  "name": "libb64",
+  "version": "1.2.1-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199530339,
+  "transmit": 287795,
+  "disk": 182390
+}
