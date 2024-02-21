@@ -1,0 +1,14 @@
+{
+  "name": "wvstreams",
+  "version": "4.6.1-21",
+  "depends": [
+    "zlib",
+    "pam",
+    "openssl",
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 199520462,
+  "transmit": 253519,
+  "disk": 6151471
+}
