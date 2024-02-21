@@ -1,0 +1,13 @@
+{
+  "name": "arduino-avr-core",
+  "version": "1.8.3-2",
+  "depends": [
+    "avrdude",
+    "avr-gcc",
+    "avr-libc"
+  ],
+  "makedepends": [],
+  "receive": 199546251,
+  "transmit": 308518,
+  "disk": 22452203
+}
