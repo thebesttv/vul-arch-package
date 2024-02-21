@@ -1,0 +1,13 @@
+{
+  "name": "haskell-ghc-paths",
+  "version": "0.1.0.12-12",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199712309,
+  "transmit": 427592,
+  "disk": 132738
+}
