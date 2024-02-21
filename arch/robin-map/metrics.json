@@ -1,0 +1,11 @@
+{
+  "name": "robin-map",
+  "version": "1.2.1-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199609887,
+  "transmit": 386335,
+  "disk": 519325
+}
