@@ -1,0 +1,15 @@
+{
+  "name": "perl-dbi-shell",
+  "version": "11.97-4",
+  "depends": [
+    "perl-text-reform",
+    "perl-io-tee"
+  ],
+  "makedepends": [
+    "perl-text-reform",
+    "perl-io-tee"
+  ],
+  "receive": 199651859,
+  "transmit": 403168,
+  "disk": 383997
+}
