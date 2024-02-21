@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libxinerama",
+  "version": "1.1.5-1",
+  "depends": [
+    "lib32-libxext",
+    "libxinerama"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "gcc-multilib"
+  ],
+  "receive": 199569300,
+  "transmit": 301132,
+  "disk": 2085294
+}
