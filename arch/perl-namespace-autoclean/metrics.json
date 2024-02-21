@@ -1,0 +1,13 @@
+{
+  "name": "perl-namespace-autoclean",
+  "version": "0.29-5",
+  "depends": [
+    "perl-b-hooks-endofscope",
+    "perl-sub-identify",
+    "perl-namespace-clean"
+  ],
+  "makedepends": [],
+  "receive": 199648472,
+  "transmit": 396621,
+  "disk": 133702
+}
