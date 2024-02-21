@@ -1,0 +1,13 @@
+{
+  "name": "debian-archive-keyring",
+  "version": "2023.4-1",
+  "depends": [
+    "gnupg"
+  ],
+  "makedepends": [
+    "jetring"
+  ],
+  "receive": 199597340,
+  "transmit": 308809,
+  "disk": 678098
+}
