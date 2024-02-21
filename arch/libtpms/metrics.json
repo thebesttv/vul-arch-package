@@ -1,0 +1,13 @@
+{
+  "name": "libtpms",
+  "version": "0.9.6-1",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199620390,
+  "transmit": 367818,
+  "disk": 14532029
+}
