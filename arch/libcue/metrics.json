@@ -1,0 +1,13 @@
+{
+  "name": "libcue",
+  "version": "2.3.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200071087,
+  "transmit": 687484,
+  "disk": 239015
+}
