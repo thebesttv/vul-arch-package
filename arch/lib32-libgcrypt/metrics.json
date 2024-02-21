@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libgcrypt",
+  "version": "1.10.3-1",
+  "depends": [
+    "lib32-libgpg-error",
+    "libgcrypt"
+  ],
+  "makedepends": [
+    "gcc-multilib",
+    "libtool-multilib"
+  ],
+  "receive": 203493808,
+  "transmit": 389322,
+  "disk": 19273984
+}
