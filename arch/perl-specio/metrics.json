@@ -1,0 +1,14 @@
+{
+  "name": "perl-specio",
+  "version": "0.48-1",
+  "depends": [
+    "perl-role-tiny",
+    "perl-test-fatal",
+    "perl-mro-compat",
+    "perl-devel-stacktrace"
+  ],
+  "makedepends": [],
+  "receive": 199526990,
+  "transmit": 257125,
+  "disk": 830673
+}
