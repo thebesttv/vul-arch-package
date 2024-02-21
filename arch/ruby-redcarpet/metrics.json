@@ -1,0 +1,16 @@
+{
+  "name": "ruby-redcarpet",
+  "version": "3.6.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rake",
+    "ruby-rake-compiler",
+    "ruby-test-unit"
+  ],
+  "receive": 199591822,
+  "transmit": 346502,
+  "disk": 2425076
+}
