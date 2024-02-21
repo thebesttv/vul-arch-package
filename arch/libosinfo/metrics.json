@@ -1,0 +1,22 @@
+{
+  "name": "libosinfo",
+  "version": "1.11.0-1",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "hwdata",
+    "libsoup3",
+    "libxml2",
+    "libxslt",
+    "osinfo-db"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199803168,
+  "transmit": 527303,
+  "disk": 2844565
+}
