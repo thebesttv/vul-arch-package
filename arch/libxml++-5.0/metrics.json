@@ -1,0 +1,16 @@
+{
+  "name": "libxml++-5.0",
+  "version": "5.2.0-1",
+  "depends": [
+    "gcc-libs",
+    "libxml2"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "mm-common"
+  ],
+  "receive": 199706223,
+  "transmit": 446228,
+  "disk": 2678071
+}
