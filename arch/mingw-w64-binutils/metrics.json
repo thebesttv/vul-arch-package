@@ -1,0 +1,11 @@
+{
+  "name": "mingw-w64-binutils",
+  "version": "2.39-1",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 249345406,
+  "transmit": 930297,
+  "disk": 325109704
+}
