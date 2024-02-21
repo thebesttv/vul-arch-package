@@ -1,0 +1,17 @@
+{
+  "name": "xfce4-pulseaudio-plugin",
+  "version": "0.4.8-1",
+  "depends": [
+    "xfce4-panel",
+    "libpulse",
+    "libkeybinder3",
+    "libnotify",
+    "libcanberra"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199661368,
+  "transmit": 425966,
+  "disk": 3162725
+}
