@@ -1,0 +1,11 @@
+{
+  "name": "licenses",
+  "version": "20240206-1",
+  "depends": [],
+  "makedepends": [
+    "jq"
+  ],
+  "receive": 241808174,
+  "transmit": 732050,
+  "disk": 342162996
+}
