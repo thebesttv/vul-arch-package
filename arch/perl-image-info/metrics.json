@@ -1,0 +1,11 @@
+{
+  "name": "perl-image-info",
+  "version": "1.44-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199548699,
+  "transmit": 281153,
+  "disk": 994144
+}
