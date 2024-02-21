@@ -1,0 +1,17 @@
+{
+  "name": "haskell-gtk-strut",
+  "version": "0.1.3.2-129",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default",
+    "haskell-gi-gdk3",
+    "haskell-gi-gtk3",
+    "haskell-hslogger"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199725605,
+  "transmit": 306588,
+  "disk": 284977
+}
