@@ -1,0 +1,16 @@
+{
+  "name": "python-flask-restful",
+  "version": "0.3.9-5",
+  "depends": [
+    "python-six",
+    "python-flask",
+    "python-aniso8601",
+    "python-pytz"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199561451,
+  "transmit": 317243,
+  "disk": 655853
+}
