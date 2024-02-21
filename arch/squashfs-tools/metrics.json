@@ -1,0 +1,19 @@
+{
+  "name": "squashfs-tools",
+  "version": "4.6.1-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "lz4",
+    "lzo",
+    "xz",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "help2man"
+  ],
+  "receive": 199545421,
+  "transmit": 286900,
+  "disk": 1741301
+}
