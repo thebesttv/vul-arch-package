@@ -1,0 +1,17 @@
+{
+  "name": "bshapr",
+  "version": "0.13-2",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "lv2"
+  ],
+  "receive": 199576304,
+  "transmit": 321920,
+  "disk": 2394848
+}
