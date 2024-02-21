@@ -1,0 +1,16 @@
+{
+  "name": "fcitx-sunpinyin",
+  "version": "0.4.2-2",
+  "depends": [
+    "fcitx",
+    "sunpinyin",
+    "sunpinyin-data",
+    "gtk-update-icon-cache"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199694223,
+  "transmit": 427192,
+  "disk": 292910
+}
