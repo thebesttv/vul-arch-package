@@ -1,0 +1,11 @@
+{
+  "name": "tinycdb",
+  "version": "0.81-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199653676,
+  "transmit": 383434,
+  "disk": 253864
+}
