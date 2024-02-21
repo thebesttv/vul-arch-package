@@ -1,0 +1,17 @@
+{
+  "name": "python-certifi",
+  "version": "2024.02.02-1",
+  "depends": [
+    "ca-certificates",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199656750,
+  "transmit": 327268,
+  "disk": 619715
+}
