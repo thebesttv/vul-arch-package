@@ -1,0 +1,22 @@
+{
+  "name": "avldrums.lv2",
+  "version": "0.7.2-1",
+  "depends": [
+    "cairo",
+    "glibc",
+    "libx11",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "fluidsynth",
+    "git",
+    "glib2",
+    "glu",
+    "libglvnd",
+    "lv2",
+    "pango"
+  ],
+  "receive": 351822571,
+  "transmit": 510132,
+  "disk": 339520474
+}
