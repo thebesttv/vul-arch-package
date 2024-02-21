@@ -1,0 +1,16 @@
+{
+  "name": "farstream",
+  "version": "0.2.9-3",
+  "depends": [
+    "gst-plugins-base-libs",
+    "libnice"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "python",
+    "gtk-doc"
+  ],
+  "receive": 199644723,
+  "transmit": 259130,
+  "disk": 7852069
+}
