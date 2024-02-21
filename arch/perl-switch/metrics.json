@@ -1,0 +1,11 @@
+{
+  "name": "perl-switch",
+  "version": "2.17-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199722635,
+  "transmit": 439526,
+  "disk": 168736
+}
