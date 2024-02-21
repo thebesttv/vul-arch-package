@@ -1,0 +1,11 @@
+{
+  "name": "perl-email-messageid",
+  "version": "1.408-3",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199515680,
+  "transmit": 281583,
+  "disk": 210915
+}
