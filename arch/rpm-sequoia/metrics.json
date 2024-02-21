@@ -1,0 +1,16 @@
+{
+  "name": "rpm-sequoia",
+  "version": "1.6.0-1",
+  "depends": [
+    "nettle"
+  ],
+  "makedepends": [
+    "cargo",
+    "rust",
+    "clang",
+    "pkg-config"
+  ],
+  "receive": 199520336,
+  "transmit": 242323,
+  "disk": 464759
+}
