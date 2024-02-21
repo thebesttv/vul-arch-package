@@ -1,3 +1,5 @@
+#!/bin/bash
+
 query_prometheus() {
     local METRIC="$1"
 
@@ -8,10 +10,18 @@ query_prometheus() {
         jq 'if (.data.result | length) != 1 then error("Length is not 1!") else (.data.result[0].value[1] | tonumber) end'
 }
 
+receive=$(query_prometheus 'container_network_receive_bytes_total')
+transmit=$(query_prometheus 'container_network_transmit_bytes_total')
+disk=$(query_prometheus 'container_fs_usage_bytes')
+
+echo Receive: $receive
+echo Transmit: $transmit
+echo Disk: $disk
+
 jq -n \
    --arg name         "$TBT_PACKAGE_NAME" \
    --arg version      "$TBT_PACKAGE_VERSION" \
-   --argjson receive  $(query_prometheus 'container_network_receive_bytes_total') \
-   --argjson transmit $(query_prometheus 'container_network_transmit_bytes_total') \
-   --argjson disk $(query_prometheus 'container_fs_usage_bytes') \
+   --argjson receive  $receive \
+   --argjson transmit $transmit \
+   --argjson disk     $disk \
    '{name: $name, version: $version, receive: $receive, transmit: $transmit, disk: $disk}'
