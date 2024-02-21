@@ -1,0 +1,15 @@
+{
+  "name": "kmbox",
+  "version": "23.08.5-1",
+  "depends": [
+    "kmime"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools"
+  ],
+  "receive": 199642652,
+  "transmit": 303881,
+  "disk": 402388
+}
