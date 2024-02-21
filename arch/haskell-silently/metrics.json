@@ -1,0 +1,13 @@
+{
+  "name": "haskell-silently",
+  "version": "1.2.5.3-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199676341,
+  "transmit": 408160,
+  "disk": 140008
+}
