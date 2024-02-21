@@ -1,0 +1,44 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=7.06 s (998.1 files/s 352726.5 lines/s)"
+3134,C,188518,199607,1066362
+2540,C/C++ Header,54104,102597,314893
+130,SVG,1945,127,165643
+88,XML,69,21,112548
+16,Qt Linguist,122,0,62736
+177,C++,7507,8783,46663
+82,Text,549,0,29048
+147,Assembly,4742,10195,26125
+258,TeX,2549,1303,20175
+53,Perl,2277,1762,11236
+101,Lua,1839,2711,10488
+54,Bourne Shell,924,1439,7103
+27,Qt,0,5,5341
+98,make,870,486,2586
+17,Java,238,491,1477
+14,Python,347,473,1466
+20,CMake,153,229,1269
+1,INI,93,43,864
+6,PHP,128,124,642
+40,R,282,54,546
+3,xBase Header,252,825,544
+2,MSBuild script,0,0,494
+2,HTML,76,2,447
+3,Markdown,144,0,403
+1,Visual Basic Script,30,50,322
+1,vim script,109,48,296
+1,Ruby,29,34,227
+2,TNSDL,70,0,211
+4,Fortran 77,8,0,169
+2,Dockerfile,16,6,93
+1,CSS,18,0,89
+4,diff,12,59,55
+3,DOS Batch,11,0,43
+6,Windows Resource File,4,1,39
+1,ProGuard,8,2,34
+1,DTD,0,2,26
+1,Lisp,5,18,26
+1,Qt Project,0,3,23
+1,Ant,18,56,11
+1,JavaScript,0,0,11
+1,awk,2,0,9
+2,Properties,5,15,3
+7047,SUM,268073,331571,1890786

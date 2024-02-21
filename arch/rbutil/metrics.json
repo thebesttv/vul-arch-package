@@ -1,0 +1,24 @@
+{
+  "name": "rbutil",
+  "version": "1.5.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libbz2.so",
+    "libusb-1.0.so",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-multimedia",
+    "qt6-svg",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja",
+    "qt6-tools"
+  ],
+  "receive": 554096372,
+  "transmit": 1316910,
+  "disk": 610911510
+}
