@@ -1,0 +1,16 @@
+{
+  "name": "libqaccessibilityclient",
+  "version": "0.6.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-base",
+    "qt6-base"
+  ],
+  "receive": 199677734,
+  "transmit": 387219,
+  "disk": 662738
+}
