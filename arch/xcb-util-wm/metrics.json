@@ -1,0 +1,14 @@
+{
+  "name": "xcb-util-wm",
+  "version": "0.4.2-1",
+  "depends": [
+    "libxcb"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199744607,
+  "transmit": 475553,
+  "disk": 2371287
+}
