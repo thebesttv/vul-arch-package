@@ -1,0 +1,15 @@
+{
+  "name": "cargo-flamegraph",
+  "version": "0.6.5-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "perf"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199618222,
+  "transmit": 386866,
+  "disk": 3861494
+}
