@@ -1,0 +1,26 @@
+{
+  "name": "haskell-snap-server",
+  "version": "1.1.2.1-95",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-blaze-builder",
+    "haskell-case-insensitive",
+    "haskell-clock",
+    "haskell-io-streams",
+    "haskell-io-streams-haproxy",
+    "haskell-lifted-base",
+    "haskell-network",
+    "haskell-old-locale",
+    "haskell-snap-core",
+    "haskell-unix-compat",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199608051,
+  "transmit": 360004,
+  "disk": 1337406
+}
