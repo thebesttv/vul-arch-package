@@ -1,0 +1,13 @@
+{
+  "name": "xcursor-themes",
+  "version": "1.0.7-1",
+  "depends": [],
+  "makedepends": [
+    "pkgconfig",
+    "xorg-xcursorgen",
+    "xorg-util-macros"
+  ],
+  "receive": 199715192,
+  "transmit": 464968,
+  "disk": 7029865
+}
