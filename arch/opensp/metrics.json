@@ -1,0 +1,15 @@
+{
+  "name": "opensp",
+  "version": "1.5.2-10",
+  "depends": [
+    "sgml-common",
+    "perl"
+  ],
+  "makedepends": [
+    "xmlto",
+    "docbook-xsl"
+  ],
+  "receive": 199657084,
+  "transmit": 413962,
+  "disk": 8874260
+}
