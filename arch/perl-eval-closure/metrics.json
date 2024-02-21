@@ -1,0 +1,12 @@
+{
+  "name": "perl-eval-closure",
+  "version": "0.14-9",
+  "depends": [
+    "perl-try-tiny",
+    "perl-sub-exporter"
+  ],
+  "makedepends": [],
+  "receive": 199684031,
+  "transmit": 428850,
+  "disk": 217702
+}
