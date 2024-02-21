@@ -1,0 +1,19 @@
+{
+  "name": "cysignals",
+  "version": "1.11.4-1",
+  "depends": [
+    "glibc",
+    "pari",
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199578056,
+  "transmit": 339114,
+  "disk": 661544
+}
