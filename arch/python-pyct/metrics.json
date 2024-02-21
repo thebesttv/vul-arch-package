@@ -1,0 +1,13 @@
+{
+  "name": "python-pyct",
+  "version": "0.5.0-2",
+  "depends": [
+    "python-param"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199681891,
+  "transmit": 380426,
+  "disk": 182059
+}
