@@ -1,0 +1,15 @@
+{
+  "name": "python-flask-login",
+  "version": "0.6.3-1",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-werkzeug"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199641260,
+  "transmit": 411109,
+  "disk": 405021
+}
