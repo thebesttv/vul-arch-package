@@ -1,0 +1,11 @@
+{
+  "name": "vim-bufexplorer",
+  "version": "7.4.19-3",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199711990,
+  "transmit": 413558,
+  "disk": 226031
+}
