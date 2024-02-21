@@ -1,0 +1,13 @@
+{
+  "name": "ruby-bacon-colored_output",
+  "version": "1.1.1-2",
+  "depends": [
+    "ruby-bacon"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199710667,
+  "transmit": 463512,
+  "disk": 275127
+}
