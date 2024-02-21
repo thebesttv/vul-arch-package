@@ -1,0 +1,17 @@
+{
+  "name": "plan9port",
+  "version": "20230913-1",
+  "depends": [
+    "fontconfig",
+    "fuse2",
+    "libxt",
+    "xorg-server"
+  ],
+  "makedepends": [
+    "gendesk",
+    "git"
+  ],
+  "receive": 231649185,
+  "transmit": 462648,
+  "disk": 83136031
+}
