@@ -1,0 +1,14 @@
+{
+  "name": "zlib-ng",
+  "version": "2.1.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199670339,
+  "transmit": 404550,
+  "disk": 9838040
+}
