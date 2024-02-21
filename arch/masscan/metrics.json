@@ -1,0 +1,12 @@
+{
+  "name": "masscan",
+  "version": "1.3.2-1",
+  "depends": [
+    "glibc",
+    "libpcap"
+  ],
+  "makedepends": [],
+  "receive": 199680742,
+  "transmit": 430224,
+  "disk": 2642112
+}
