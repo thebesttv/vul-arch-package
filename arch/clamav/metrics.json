@@ -1,0 +1,31 @@
+{
+  "name": "clamav",
+  "version": "1.2.1-1",
+  "depends": [
+    "bzip2",
+    "libltdl",
+    "libxml2",
+    "curl",
+    "systemd-libs",
+    "pcre2",
+    "json-c",
+    "libmspack",
+    "ncurses",
+    "libsystemd.so",
+    "libncursesw.so",
+    "libcurl.so",
+    "libjson-c.so",
+    "libbz2.so"
+  ],
+  "makedepends": [
+    "libmilter",
+    "systemd",
+    "cmake",
+    "ninja",
+    "python",
+    "cargo"
+  ],
+  "receive": 242035394,
+  "transmit": 441962,
+  "disk": 323859700
+}
