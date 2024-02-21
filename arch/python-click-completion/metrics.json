@@ -1,0 +1,16 @@
+{
+  "name": "python-click-completion",
+  "version": "0.5.2-7",
+  "depends": [
+    "python-click",
+    "python-jinja",
+    "python-six",
+    "python-shellingham"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199580332,
+  "transmit": 317855,
+  "disk": 141393
+}
