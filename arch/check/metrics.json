@@ -1,0 +1,16 @@
+{
+  "name": "check",
+  "version": "0.15.2-2",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "texlive-bin",
+    "texi2html",
+    "doxygen",
+    "awk",
+    "cmake"
+  ],
+  "receive": 199657816,
+  "transmit": 396699,
+  "disk": 4831111
+}
