@@ -1,0 +1,19 @@
+{
+  "name": "mesa-demos",
+  "version": "9.0.0-3",
+  "depends": [],
+  "makedepends": [
+    "meson",
+    "mesa",
+    "libxkbcommon-x11",
+    "libdecor",
+    "glu",
+    "freeglut",
+    "glslang",
+    "vulkan-headers",
+    "wayland-protocols"
+  ],
+  "receive": 214637688,
+  "transmit": 408564,
+  "disk": 67882729
+}
