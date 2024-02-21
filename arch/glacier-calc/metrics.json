@@ -1,0 +1,14 @@
+{
+  "name": "glacier-calc",
+  "version": "0.3.3-1",
+  "depends": [
+    "qt5-quickcontrols-nemo"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools"
+  ],
+  "receive": 199797757,
+  "transmit": 477298,
+  "disk": 244399
+}
