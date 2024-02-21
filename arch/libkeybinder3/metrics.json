@@ -1,0 +1,14 @@
+{
+  "name": "libkeybinder3",
+  "version": "0.3.2-4",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "gobject-introspection"
+  ],
+  "receive": 199750999,
+  "transmit": 466046,
+  "disk": 2034440
+}
