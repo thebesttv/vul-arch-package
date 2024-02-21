@@ -1,0 +1,16 @@
+{
+  "name": "python-itemloaders",
+  "version": "1.1.0-1",
+  "depends": [
+    "python-w3lib",
+    "python-parsel",
+    "python-jmespath",
+    "python-itemadapter"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199630006,
+  "transmit": 392192,
+  "disk": 266404
+}
