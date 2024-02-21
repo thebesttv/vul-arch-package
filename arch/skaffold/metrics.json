@@ -1,0 +1,16 @@
+{
+  "name": "skaffold",
+  "version": "2.10.0-1",
+  "depends": [
+    "docker",
+    "kompose"
+  ],
+  "makedepends": [
+    "go",
+    "go-licenses",
+    "python"
+  ],
+  "receive": 262039060,
+  "transmit": 868206,
+  "disk": 257332307
+}
