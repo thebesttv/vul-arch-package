@@ -1,0 +1,16 @@
+{
+  "name": "phonegap",
+  "version": "9.0.0-2",
+  "depends": [
+    "cordova",
+    "nodejs-nopt",
+    "semver"
+  ],
+  "makedepends": [
+    "npm",
+    "python"
+  ],
+  "receive": 199564156,
+  "transmit": 294233,
+  "disk": 184951
+}
