@@ -1,0 +1,11 @@
+{
+  "name": "gc",
+  "version": "8.2.6-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199551368,
+  "transmit": 277074,
+  "disk": 6074972
+}
