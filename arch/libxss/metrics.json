@@ -1,0 +1,16 @@
+{
+  "name": "libxss",
+  "version": "1.2.4-1",
+  "depends": [
+    "libxext",
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199576269,
+  "transmit": 349703,
+  "disk": 2121125
+}
