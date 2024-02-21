@@ -1,0 +1,17 @@
+{
+  "name": "perl-glib-object-introspection",
+  "version": "0.051-1",
+  "depends": [
+    "glib-perl",
+    "gobject-introspection-runtime"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "perl-extutils-depends",
+    "perl-extutils-pkgconfig",
+    "perl-cairo-gobject"
+  ],
+  "receive": 199576123,
+  "transmit": 336732,
+  "disk": 572283
+}
