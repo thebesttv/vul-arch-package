@@ -1,0 +1,17 @@
+{
+  "name": "plasma-systemmonitor",
+  "version": "5.27.10-1",
+  "depends": [
+    "ksystemstats",
+    "kitemmodels5",
+    "qqc2-desktop-style5",
+    "kquickcharts5",
+    "kdeclarative5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199778853,
+  "transmit": 456263,
+  "disk": 2223654
+}
