@@ -1,0 +1,11 @@
+{
+  "name": "tlp",
+  "version": "1.6.1-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199692215,
+  "transmit": 397097,
+  "disk": 5175211
+}
