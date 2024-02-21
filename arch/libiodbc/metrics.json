@@ -1,0 +1,13 @@
+{
+  "name": "libiodbc",
+  "version": "3.52.16-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "chrpath"
+  ],
+  "receive": 199509928,
+  "transmit": 260784,
+  "disk": 5291767
+}
