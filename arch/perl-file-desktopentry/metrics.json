@@ -1,0 +1,12 @@
+{
+  "name": "perl-file-desktopentry",
+  "version": "0.22-11",
+  "depends": [
+    "perl-file-basedir",
+    "perl-uri"
+  ],
+  "makedepends": [],
+  "receive": 199483570,
+  "transmit": 258492,
+  "disk": 189156
+}
