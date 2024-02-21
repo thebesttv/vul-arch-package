@@ -1,0 +1,12 @@
+{
+  "name": "arpwatch",
+  "version": "3.6-1",
+  "depends": [
+    "libpcap",
+    "smtp-forwarder"
+  ],
+  "makedepends": [],
+  "receive": 199600863,
+  "transmit": 328002,
+  "disk": 2492836
+}
