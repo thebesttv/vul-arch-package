@@ -1,0 +1,12 @@
+{
+  "name": "ruby-rspec-expectations",
+  "version": "3.12.3-1",
+  "depends": [
+    "ruby-rspec-support",
+    "ruby-diff-lcs"
+  ],
+  "makedepends": [],
+  "receive": 199530243,
+  "transmit": 296539,
+  "disk": 185389
+}
