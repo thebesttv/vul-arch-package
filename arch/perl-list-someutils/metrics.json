@@ -1,0 +1,12 @@
+{
+  "name": "perl-list-someutils",
+  "version": "0.59-2",
+  "depends": [
+    "perl",
+    "perl-module-implementation"
+  ],
+  "makedepends": [],
+  "receive": 199480717,
+  "transmit": 245460,
+  "disk": 496286
+}
