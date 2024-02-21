@@ -1,0 +1,14 @@
+{
+  "name": "duf",
+  "version": "0.8.1-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199574755,
+  "transmit": 290493,
+  "disk": 456123
+}
