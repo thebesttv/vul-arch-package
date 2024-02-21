@@ -1,0 +1,11 @@
+{
+  "name": "sc",
+  "version": "7.16-8",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199660662,
+  "transmit": 413200,
+  "disk": 1075335
+}
