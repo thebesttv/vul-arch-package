@@ -1,0 +1,18 @@
+{
+  "name": "cutefish-qt-plugins",
+  "version": "0.5-3",
+  "depends": [
+    "kwindowsystem5",
+    "libdbusmenu-qt5",
+    "libqtxdg",
+    "qt5-quickcontrols2"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199734161,
+  "transmit": 417620,
+  "disk": 646937
+}
