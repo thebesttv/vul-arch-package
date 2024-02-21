@@ -1,0 +1,18 @@
+{
+  "name": "perl-pod-spell",
+  "version": "1.26-2",
+  "depends": [
+    "perl-class-tiny",
+    "perl-file-sharedir",
+    "perl-lingua-en-inflect",
+    "perl-path-tiny",
+    "perl-pod-parser"
+  ],
+  "makedepends": [
+    "perl-file-sharedir-install",
+    "perl-test-deep"
+  ],
+  "receive": 199664454,
+  "transmit": 396869,
+  "disk": 259949
+}
