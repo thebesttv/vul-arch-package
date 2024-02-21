@@ -1,0 +1,15 @@
+{
+  "name": "libvpx",
+  "version": "1.14.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "nasm"
+  ],
+  "receive": 651947463,
+  "transmit": 6425318,
+  "disk": 490915138
+}
