@@ -1,0 +1,13 @@
+{
+  "name": "firetools",
+  "version": "0.9.72-1",
+  "depends": [
+    "firejail",
+    "qt5-base",
+    "qt5-svg"
+  ],
+  "makedepends": [],
+  "receive": 199634095,
+  "transmit": 382654,
+  "disk": 3213918
+}
