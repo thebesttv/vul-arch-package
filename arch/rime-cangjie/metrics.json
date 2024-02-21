@@ -1,0 +1,15 @@
+{
+  "name": "rime-cangjie",
+  "version": "0.0.0.20231211-1",
+  "depends": [
+    "rime-luna-pinyin"
+  ],
+  "makedepends": [
+    "librime",
+    "rime-prelude",
+    "rime-essay"
+  ],
+  "receive": 199587095,
+  "transmit": 341620,
+  "disk": 1289191
+}
