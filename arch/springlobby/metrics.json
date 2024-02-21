@@ -1,0 +1,21 @@
+{
+  "name": "springlobby",
+  "version": "0.274-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "wxwidgets-gtk3",
+    "curl",
+    "jsoncpp",
+    "alure",
+    "minizip",
+    "libsm"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199715323,
+  "transmit": 414089,
+  "disk": 13651067
+}
