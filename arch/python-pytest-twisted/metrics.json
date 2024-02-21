@@ -1,0 +1,16 @@
+{
+  "name": "python-pytest-twisted",
+  "version": "1.14.0-2",
+  "depends": [
+    "python-pytest",
+    "python-greenlet",
+    "python-decorator",
+    "python-twisted"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199612472,
+  "transmit": 357284,
+  "disk": 202780
+}
