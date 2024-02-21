@@ -1,0 +1,22 @@
+{
+  "name": "icewm",
+  "version": "3.4.5-1",
+  "depends": [
+    "alsa-lib",
+    "imlib2",
+    "librsvg",
+    "libsndfile",
+    "libxcomposite",
+    "libxdamage",
+    "libxinerama",
+    "libxpm",
+    "libxrandr"
+  ],
+  "makedepends": [
+    "asciidoctor",
+    "xorg-mkfontdir"
+  ],
+  "receive": 199623027,
+  "transmit": 376282,
+  "disk": 14833624
+}
