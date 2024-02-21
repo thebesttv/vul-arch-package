@@ -1,0 +1,27 @@
+{
+  "name": "barrier",
+  "version": "2.4.0-2",
+  "depends": [
+    "curl",
+    "avahi",
+    "libx11",
+    "libxrandr",
+    "libxext",
+    "libxinerama",
+    "xorgproto",
+    "libxtst",
+    "libxi",
+    "libsm",
+    "libice",
+    "openssl"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "qt5-base",
+    "hicolor-icon-theme"
+  ],
+  "receive": 214435608,
+  "transmit": 334687,
+  "disk": 110617055
+}
