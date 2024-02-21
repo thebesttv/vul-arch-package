@@ -1,0 +1,16 @@
+{
+  "name": "mousetweaks",
+  "version": "3.32.0-2",
+  "depends": [
+    "libxtst",
+    "gtk3",
+    "gsettings-desktop-schemas"
+  ],
+  "makedepends": [
+    "python",
+    "git"
+  ],
+  "receive": 199576117,
+  "transmit": 355644,
+  "disk": 5589515
+}
