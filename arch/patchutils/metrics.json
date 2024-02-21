@@ -1,0 +1,14 @@
+{
+  "name": "patchutils",
+  "version": "0.4.2-2",
+  "depends": [
+    "python3",
+    "pcre2"
+  ],
+  "makedepends": [
+    "xmlto"
+  ],
+  "receive": 199550391,
+  "transmit": 290551,
+  "disk": 1820489
+}
