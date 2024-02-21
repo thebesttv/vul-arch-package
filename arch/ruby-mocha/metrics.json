@@ -1,0 +1,13 @@
+{
+  "name": "ruby-mocha",
+  "version": "2.1.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-minitest"
+  ],
+  "receive": 199640759,
+  "transmit": 408201,
+  "disk": 2041474
+}
