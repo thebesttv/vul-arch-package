@@ -1,0 +1,26 @@
+{
+  "name": "openal",
+  "version": "1.23.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "ffmpeg",
+    "fluidsynth",
+    "git",
+    "jack",
+    "libmysofa",
+    "libpulse",
+    "libsndfile",
+    "ninja",
+    "pipewire",
+    "portaudio",
+    "qt5-base",
+    "sdl2"
+  ],
+  "receive": 199783135,
+  "transmit": 459278,
+  "disk": 31149498
+}
