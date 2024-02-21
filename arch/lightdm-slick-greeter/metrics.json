@@ -1,0 +1,24 @@
+{
+  "name": "lightdm-slick-greeter",
+  "version": "2.0.3-1",
+  "depends": [
+    "cairo",
+    "freetype2",
+    "gtk3",
+    "libcanberra",
+    "libxext",
+    "lightdm",
+    "pixman",
+    "python",
+    "xorg-server",
+    "xapp"
+  ],
+  "makedepends": [
+    "intltool",
+    "vala",
+    "gnome-common"
+  ],
+  "receive": 199555807,
+  "transmit": 297565,
+  "disk": 2079756
+}
