@@ -1,0 +1,20 @@
+{
+  "name": "openssh",
+  "version": "9.6p1-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "krb5",
+    "libedit",
+    "libfido2",
+    "libxcrypt",
+    "linux-headers",
+    "openssl",
+    "pam",
+    "zlib"
+  ],
+  "receive": 199759584,
+  "transmit": 312014,
+  "disk": 10539030
+}
