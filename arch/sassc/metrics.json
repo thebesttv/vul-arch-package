@@ -1,0 +1,11 @@
+{
+  "name": "sassc",
+  "version": "3.6.2-4",
+  "depends": [
+    "libsass"
+  ],
+  "makedepends": [],
+  "receive": 199718069,
+  "transmit": 395737,
+  "disk": 256349
+}
