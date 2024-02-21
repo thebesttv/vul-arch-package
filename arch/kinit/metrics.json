@@ -1,0 +1,14 @@
+{
+  "name": "kinit",
+  "version": "5.115.0-1",
+  "depends": [
+    "kio5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199499030,
+  "transmit": 271517,
+  "disk": 26244953
+}
