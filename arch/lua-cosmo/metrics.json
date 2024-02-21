@@ -1,0 +1,15 @@
+{
+  "name": "lua-cosmo",
+  "version": "16.06.04-6",
+  "depends": [],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 199531494,
+  "transmit": 288371,
+  "disk": 243360
+}
