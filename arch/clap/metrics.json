@@ -1,0 +1,11 @@
+{
+  "name": "clap",
+  "version": "1.2.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199496955,
+  "transmit": 257335,
+  "disk": 6338268
+}
