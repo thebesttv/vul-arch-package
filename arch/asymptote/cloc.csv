@@ -1,0 +1,46 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.51 s (693.1 files/s 220040.4 lines/s)"
+423,C/C++ Header,32408,31122,140744
+322,C++,20875,18447,106293
+18,C,7070,969,50137
+459,Asymptote,7724,4349,47886
+75,Markdown,6193,3,17324
+68,Python,2592,2858,9605
+107,JSON,7,0,9504
+16,Bourne Shell,319,773,4395
+8,Qt,0,0,3717
+7,JavaScript,569,321,3094
+29,CMake,401,544,1733
+14,Text,224,0,1731
+11,Perl,311,176,1571
+8,Lisp,164,108,1496
+6,CSV,9,0,1486
+12,TeX,193,402,1481
+15,GLSL,180,30,945
+1,Objective-C++,207,115,847
+2,m4,108,0,753
+3,Starlark,87,115,713
+45,SVG,2,42,705
+19,YAML,49,37,618
+1,yacc,68,30,554
+6,CUDA,117,41,509
+6,HTML,41,8,509
+1,lex,59,15,372
+7,diff,53,544,350
+3,XML,9,10,332
+26,make,108,31,264
+1,CSS,39,2,233
+2,vim script,22,29,212
+3,Lua,31,8,193
+1,Objective-C,52,16,167
+1,SCSS,36,3,161
+2,CSON,27,17,54
+1,reStructuredText,23,13,46
+1,Windows Resource File,2,0,24
+1,Visual Studio Solution,1,1,23
+1,PO File,3,5,16
+1,Bazel,3,0,14
+3,DOS Batch,2,7,10
+2,Dockerfile,4,2,7
+1,INI,1,0,7
+1,Fortran 77,0,0,1
+1740,SUM,80393,61193,410836

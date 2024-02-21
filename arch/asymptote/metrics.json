@@ -1,0 +1,31 @@
+{
+  "name": "asymptote",
+  "version": "2.86-4",
+  "depends": [
+    "boost-libs",
+    "fftw",
+    "freeglut",
+    "gc",
+    "gsl",
+    "libsigsegv",
+    "texlive-basic"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "doxygen",
+    "ghostscript",
+    "glm",
+    "glu",
+    "imagemagick",
+    "python-pyqt5",
+    "texlive-binextra",
+    "texlive-meta",
+    "texlive-fontutils",
+    "texlive-latexextra",
+    "texlive-plaingeneric"
+  ],
+  "receive": 212793657,
+  "transmit": 635248,
+  "disk": 45016525
+}
