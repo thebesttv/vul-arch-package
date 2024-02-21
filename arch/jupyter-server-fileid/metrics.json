@@ -1,0 +1,21 @@
+{
+  "name": "jupyter-server-fileid",
+  "version": "0.9.1-1",
+  "depends": [
+    "jupyter-server",
+    "python",
+    "python-click",
+    "python-jupyter-core",
+    "python-jupyter-events",
+    "python-tornado",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199521054,
+  "transmit": 264414,
+  "disk": 328381
+}
