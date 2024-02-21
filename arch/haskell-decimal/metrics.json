@@ -1,0 +1,18 @@
+{
+  "name": "haskell-decimal",
+  "version": "0.5.2-122",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199731552,
+  "transmit": 334729,
+  "disk": 318687
+}
