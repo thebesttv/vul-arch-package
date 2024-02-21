@@ -1,0 +1,14 @@
+{
+  "name": "deepin-turbo",
+  "version": "0.0.6-1",
+  "depends": [
+    "dtkwidget"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 200151459,
+  "transmit": 657908,
+  "disk": 741755
+}
