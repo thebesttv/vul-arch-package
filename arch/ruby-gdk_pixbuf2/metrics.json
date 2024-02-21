@@ -1,0 +1,16 @@
+{
+  "name": "ruby-gdk_pixbuf2",
+  "version": "4.1.2-1",
+  "depends": [
+    "ruby",
+    "ruby-gio2=4.1.2",
+    "gdk-pixbuf2"
+  ],
+  "makedepends": [
+    "ruby-native-package-installer",
+    "ruby-rake"
+  ],
+  "receive": 199664370,
+  "transmit": 424626,
+  "disk": 148100
+}
