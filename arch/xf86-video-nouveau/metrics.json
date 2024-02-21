@@ -1,0 +1,16 @@
+{
+  "name": "xf86-video-nouveau",
+  "version": "1.0.17-2",
+  "depends": [
+    "systemd-libs",
+    "mesa"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-VIDEODRV_VERSION=25.2",
+    "systemd"
+  ],
+  "receive": 199768585,
+  "transmit": 433542,
+  "disk": 4226695
+}
