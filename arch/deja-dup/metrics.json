@@ -1,0 +1,22 @@
+{
+  "name": "deja-dup",
+  "version": "45.2-1",
+  "depends": [
+    "duplicity",
+    "gvfs",
+    "libsecret",
+    "org.freedesktop.secrets",
+    "python-gobject",
+    "python-pydrive2",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "itstool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199562370,
+  "transmit": 271908,
+  "disk": 9917283
+}
