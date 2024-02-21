@@ -1,0 +1,23 @@
+{
+  "name": "lib32-librsvg",
+  "version": "2:2.57.1-1",
+  "depends": [
+    "lib32-cairo",
+    "lib32-freetype2",
+    "lib32-gdk-pixbuf2",
+    "lib32-glib2",
+    "lib32-harfbuzz",
+    "lib32-libxml2",
+    "lib32-pango",
+    "librsvg"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "lib32-rust-libs",
+    "rust"
+  ],
+  "receive": 234662461,
+  "transmit": 301594,
+  "disk": 57156275
+}
