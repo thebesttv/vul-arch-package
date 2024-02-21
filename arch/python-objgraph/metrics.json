@@ -1,0 +1,13 @@
+{
+  "name": "python-objgraph",
+  "version": "3.6.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199585361,
+  "transmit": 347460,
+  "disk": 1812955
+}
