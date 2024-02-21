@@ -1,0 +1,14 @@
+{
+  "name": "python-liteiclink",
+  "version": "2021.08-2",
+  "depends": [
+    "python-migen",
+    "python-litex"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199696868,
+  "transmit": 434959,
+  "disk": 669276
+}
