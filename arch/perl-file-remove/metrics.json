@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-remove",
+  "version": "1.61-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199611911,
+  "transmit": 384601,
+  "disk": 255463
+}
