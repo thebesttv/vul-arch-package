@@ -1,0 +1,22 @@
+{
+  "name": "reuse",
+  "version": "3.0.1-1",
+  "depends": [
+    "python",
+    "python-debian",
+    "python-license-expression",
+    "python-boolean.py",
+    "python-jinja",
+    "python-binaryornot"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 199540340,
+  "transmit": 302382,
+  "disk": 6696556
+}
