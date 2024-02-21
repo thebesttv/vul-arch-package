@@ -1,0 +1,11 @@
+{
+  "name": "catdoc",
+  "version": "0.95-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199564569,
+  "transmit": 303900,
+  "disk": 1286294
+}
