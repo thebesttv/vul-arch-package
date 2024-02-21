@@ -1,0 +1,25 @@
+{
+  "name": "cutefish-core",
+  "version": "0.8-2",
+  "depends": [
+    "fishui",
+    "kidletime5",
+    "libcutefish",
+    "libpulse",
+    "libxcb",
+    "libxcursor",
+    "libxtst",
+    "polkit-qt5",
+    "xf86-input-libinput",
+    "xf86-input-synaptics"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "qt5-tools",
+    "xorg-server-devel"
+  ],
+  "receive": 199630638,
+  "transmit": 337281,
+  "disk": 1374911
+}
