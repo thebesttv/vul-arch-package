@@ -1,0 +1,12 @@
+{
+  "name": "intel-metee",
+  "version": "3.2.4-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "doxygen"
+  ],
+  "receive": 199555857,
+  "transmit": 285831,
+  "disk": 513103
+}
