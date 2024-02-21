@@ -1,0 +1,14 @@
+{
+  "name": "goaurrpc",
+  "version": "1.2.3-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199600670,
+  "transmit": 366232,
+  "disk": 24078075
+}
