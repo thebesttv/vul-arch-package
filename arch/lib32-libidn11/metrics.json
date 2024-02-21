@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libidn11",
+  "version": "1.33-2",
+  "depends": [
+    "lib32-glibc"
+  ],
+  "makedepends": [
+    "git",
+    "gperf",
+    "gtk-doc"
+  ],
+  "receive": 199551795,
+  "transmit": 247636,
+  "disk": 25449262
+}
