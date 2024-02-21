@@ -1,0 +1,18 @@
+{
+  "name": "zita-at1",
+  "version": "0.6.2-3",
+  "depends": [
+    "cairo",
+    "clxclient",
+    "clthreads",
+    "fftw",
+    "jack",
+    "zita-resampler"
+  ],
+  "makedepends": [
+    "gendesk"
+  ],
+  "receive": 199764059,
+  "transmit": 479222,
+  "disk": 280668
+}
