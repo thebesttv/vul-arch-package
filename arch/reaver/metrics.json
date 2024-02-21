@@ -1,0 +1,12 @@
+{
+  "name": "reaver",
+  "version": "1.6.6-1",
+  "depends": [
+    "glibc",
+    "libpcap"
+  ],
+  "makedepends": [],
+  "receive": 200081586,
+  "transmit": 650609,
+  "disk": 2790207
+}
