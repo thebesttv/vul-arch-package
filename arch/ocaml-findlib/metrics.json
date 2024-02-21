@@ -1,0 +1,12 @@
+{
+  "name": "ocaml-findlib",
+  "version": "1.9.6-3",
+  "depends": [
+    "ocaml-compiler-libs",
+    "ocaml"
+  ],
+  "makedepends": [],
+  "receive": 199715538,
+  "transmit": 438539,
+  "disk": 1716548
+}
