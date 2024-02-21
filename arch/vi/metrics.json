@@ -1,0 +1,11 @@
+{
+  "name": "vi",
+  "version": "1:070224-6",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199757432,
+  "transmit": 238350,
+  "disk": 1354856
+}
