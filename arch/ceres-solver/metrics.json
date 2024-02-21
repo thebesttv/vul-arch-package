@@ -1,0 +1,16 @@
+{
+  "name": "ceres-solver",
+  "version": "2.2.0-4",
+  "depends": [
+    "google-glog",
+    "suitesparse"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "eigen"
+  ],
+  "receive": 199632928,
+  "transmit": 384299,
+  "disk": 27790792
+}
