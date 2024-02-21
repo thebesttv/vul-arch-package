@@ -1,0 +1,11 @@
+{
+  "name": "perl-crypt-passwdmd5",
+  "version": "1.42-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199629716,
+  "transmit": 393924,
+  "disk": 171871
+}
