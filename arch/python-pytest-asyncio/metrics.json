@@ -1,0 +1,17 @@
+{
+  "name": "python-pytest-asyncio",
+  "version": "0.23.4-1",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199581010,
+  "transmit": 299175,
+  "disk": 2011272
+}
