@@ -1,0 +1,14 @@
+{
+  "name": "ruby-minitest-parallel_fork",
+  "version": "2.0.0-1",
+  "depends": [
+    "ruby-minitest"
+  ],
+  "makedepends": [
+    "ruby-minitest-hooks",
+    "ruby-minitest-global_expectations"
+  ],
+  "receive": 199661420,
+  "transmit": 432136,
+  "disk": 150089
+}
