@@ -1,0 +1,14 @@
+{
+  "name": "python-configobj",
+  "version": "5.0.8-4",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199546862,
+  "transmit": 285511,
+  "disk": 3130691
+}
