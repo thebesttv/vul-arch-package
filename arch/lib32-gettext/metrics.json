@@ -1,0 +1,15 @@
+{
+  "name": "lib32-gettext",
+  "version": "0.22.4-1",
+  "depends": [
+    "lib32-acl",
+    "lib32-gcc-libs",
+    "gettext"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 226818013,
+  "transmit": 634281,
+  "disk": 166474683
+}
