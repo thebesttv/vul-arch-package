@@ -1,0 +1,14 @@
+{
+  "name": "polkit-gnome",
+  "version": "0.105-10",
+  "depends": [
+    "gtk3",
+    "polkit"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199635876,
+  "transmit": 391725,
+  "disk": 2550338
+}
