@@ -1,0 +1,14 @@
+{
+  "name": "soapyremote",
+  "version": "0.5.2-1",
+  "depends": [
+    "soapysdr",
+    "avahi"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199800393,
+  "transmit": 547674,
+  "disk": 559037
+}
