@@ -1,0 +1,17 @@
+{
+  "name": "python-traitlets",
+  "version": "5.14.1-1",
+  "depends": [
+    "python",
+    "python-argcomplete",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199645696,
+  "transmit": 340014,
+  "disk": 1059892
+}
