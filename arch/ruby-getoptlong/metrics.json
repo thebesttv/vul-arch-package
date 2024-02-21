@@ -1,0 +1,11 @@
+{
+  "name": "ruby-getoptlong",
+  "version": "0.1.1-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199574853,
+  "transmit": 305723,
+  "disk": 134856
+}
