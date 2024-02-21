@@ -1,0 +1,11 @@
+{
+  "name": "perl-universal-can",
+  "version": "1.20140328-4",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199615358,
+  "transmit": 357098,
+  "disk": 169313
+}
