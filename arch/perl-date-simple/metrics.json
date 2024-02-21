@@ -1,0 +1,11 @@
+{
+  "name": "perl-date-simple",
+  "version": "3.03-12",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199539547,
+  "transmit": 274910,
+  "disk": 214083
+}
