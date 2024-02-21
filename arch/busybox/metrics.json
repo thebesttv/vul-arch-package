@@ -1,0 +1,13 @@
+{
+  "name": "busybox",
+  "version": "1.36.1-1",
+  "depends": [],
+  "makedepends": [
+    "ncurses",
+    "musl",
+    "kernel-headers-musl"
+  ],
+  "receive": 202208927,
+  "transmit": 313611,
+  "disk": 13680552
+}
