@@ -1,0 +1,15 @@
+{
+  "name": "gkrellm",
+  "version": "2.3.11-3",
+  "depends": [
+    "gtk2",
+    "libsm",
+    "lm_sensors"
+  ],
+  "makedepends": [
+    "gettext"
+  ],
+  "receive": 199674732,
+  "transmit": 444330,
+  "disk": 5201258
+}
