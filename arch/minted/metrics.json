@@ -1,0 +1,14 @@
+{
+  "name": "minted",
+  "version": "2.6-3",
+  "depends": [
+    "fvextra",
+    "python-pygments",
+    "texlive-latexextra",
+    "which"
+  ],
+  "makedepends": [],
+  "receive": 199945173,
+  "transmit": 598020,
+  "disk": 2119210
+}
