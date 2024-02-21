@@ -1,0 +1,16 @@
+{
+  "name": "sbctl",
+  "version": "0.13-2",
+  "depends": [
+    "binutils",
+    "util-linux"
+  ],
+  "makedepends": [
+    "go",
+    "git",
+    "asciidoc"
+  ],
+  "receive": 199574894,
+  "transmit": 261285,
+  "disk": 3938104
+}
