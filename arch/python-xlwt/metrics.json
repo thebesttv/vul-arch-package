@@ -1,0 +1,13 @@
+{
+  "name": "python-xlwt",
+  "version": "1.3.0-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199781671,
+  "transmit": 346038,
+  "disk": 947750
+}
