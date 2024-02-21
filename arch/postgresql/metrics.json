@@ -1,0 +1,25 @@
+{
+  "name": "postgresql",
+  "version": "16.1-5",
+  "depends": [],
+  "makedepends": [
+    "krb5",
+    "libxml2",
+    "python",
+    "perl",
+    "tcl",
+    "openssl",
+    "pam",
+    "zlib",
+    "icu",
+    "systemd",
+    "libldap",
+    "llvm",
+    "clang",
+    "libxslt",
+    "util-linux"
+  ],
+  "receive": 224629310,
+  "transmit": 486930,
+  "disk": 185954269
+}
