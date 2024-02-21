@@ -1,0 +1,22 @@
+{
+  "name": "shairport-sync",
+  "version": "4.3.2-1",
+  "depends": [
+    "openssl",
+    "avahi",
+    "libsoxr",
+    "popt",
+    "alsa-lib",
+    "libconfig",
+    "libpulse",
+    "jack",
+    "mosquitto"
+  ],
+  "makedepends": [
+    "xmltoman",
+    "vim"
+  ],
+  "receive": 199516548,
+  "transmit": 293934,
+  "disk": 3227712
+}
