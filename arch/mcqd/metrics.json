@@ -1,0 +1,11 @@
+{
+  "name": "mcqd",
+  "version": "1.0.0-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 200098245,
+  "transmit": 586518,
+  "disk": 2606621
+}
