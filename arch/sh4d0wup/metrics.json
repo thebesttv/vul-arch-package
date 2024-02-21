@@ -1,0 +1,20 @@
+{
+  "name": "sh4d0wup",
+  "version": "0.9.1-1",
+  "depends": [
+    "gcc",
+    "pcsclite",
+    "podman",
+    "openssl",
+    "shared-mime-info",
+    "xz",
+    "libzstd.so"
+  ],
+  "makedepends": [
+    "cargo",
+    "clang"
+  ],
+  "receive": 199511894,
+  "transmit": 277310,
+  "disk": 1020765
+}
