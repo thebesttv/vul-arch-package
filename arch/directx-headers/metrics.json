@@ -1,0 +1,11 @@
+{
+  "name": "directx-headers",
+  "version": "1.611.0-1",
+  "depends": [],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199500748,
+  "transmit": 255984,
+  "disk": 4041221
+}
