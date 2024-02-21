@@ -1,0 +1,37 @@
+{
+  "name": "paperwork",
+  "version": "2.2.2-1",
+  "depends": [
+    "gtk3",
+    "libhandy",
+    "libinsane",
+    "libnotify",
+    "poppler-glib",
+    "python-cairo",
+    "python-dateutil",
+    "python-distro",
+    "python-fabulous",
+    "python-getkey",
+    "python-gobject",
+    "python-levenshtein",
+    "python-pillowfight",
+    "python-pycountry",
+    "python-pydbus",
+    "python-pyocr",
+    "python-setuptools",
+    "python-whoosh",
+    "python-pyxdg",
+    "python-psutil",
+    "python-scikit-learn"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199672752,
+  "transmit": 394360,
+  "disk": 34532508
+}
