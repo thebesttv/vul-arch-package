@@ -1,0 +1,28 @@
+{
+  "name": "osdlyrics",
+  "version": "0.5.15-1",
+  "depends": [
+    "gtk2",
+    "dbus-glib",
+    "curl",
+    "libnotify",
+    "libmpd",
+    "xmms2",
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "sqlite",
+    "python",
+    "python-future",
+    "python-pycurl",
+    "python-dbus",
+    "python-chardet",
+    "python-gobject",
+    "libappindicator-gtk2"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199545137,
+  "transmit": 278473,
+  "disk": 2790821
+}
