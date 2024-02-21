@@ -1,0 +1,17 @@
+{
+  "name": "kmailtransport",
+  "version": "23.08.5-1",
+  "depends": [
+    "ksmtp",
+    "libkgapi",
+    "qtkeychain-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "doxygen"
+  ],
+  "receive": 199740507,
+  "transmit": 403501,
+  "disk": 2445654
+}
