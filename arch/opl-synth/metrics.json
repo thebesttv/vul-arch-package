@@ -1,0 +1,31 @@
+{
+  "name": "opl-synth",
+  "version": "2.2-1",
+  "depends": [
+    "alsa-lib",
+    "hicolor-icon-theme",
+    "libjpeg-turbo",
+    "libvorbis",
+    "flac",
+    "freetype2",
+    "libglvnd",
+    "curl"
+  ],
+  "makedepends": [
+    "git",
+    "juce",
+    "zlib",
+    "libpng",
+    "libogg",
+    "jack",
+    "libx11",
+    "libxext",
+    "libxrandr",
+    "libxinerama",
+    "libxcursor",
+    "gendesk"
+  ],
+  "receive": 199608664,
+  "transmit": 389529,
+  "disk": 3612378
+}
