@@ -1,0 +1,17 @@
+{
+  "name": "baka-mplayer",
+  "version": "2.0.4-5",
+  "depends": [
+    "mpv",
+    "qt5-declarative",
+    "qt5-svg",
+    "qt5-x11extras"
+  ],
+  "makedepends": [
+    "git",
+    "qt5-tools"
+  ],
+  "receive": 199647752,
+  "transmit": 396018,
+  "disk": 4039893
+}
