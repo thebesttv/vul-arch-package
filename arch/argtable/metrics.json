@@ -1,0 +1,11 @@
+{
+  "name": "argtable",
+  "version": "2.13-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199500223,
+  "transmit": 282017,
+  "disk": 9503556
+}
