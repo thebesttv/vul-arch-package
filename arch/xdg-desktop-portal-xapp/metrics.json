@@ -1,0 +1,14 @@
+{
+  "name": "xdg-desktop-portal-xapp",
+  "version": "1.0.4-1",
+  "depends": [
+    "xdg-desktop-portal",
+    "xapp"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199618541,
+  "transmit": 390471,
+  "disk": 706809
+}
