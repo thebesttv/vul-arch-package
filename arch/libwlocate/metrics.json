@@ -1,0 +1,12 @@
+{
+  "name": "libwlocate",
+  "version": "1:0.1-3",
+  "depends": [
+    "wireless_tools",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199602009,
+  "transmit": 362586,
+  "disk": 3344928
+}
