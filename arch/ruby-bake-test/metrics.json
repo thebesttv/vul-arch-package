@@ -1,0 +1,11 @@
+{
+  "name": "ruby-bake-test",
+  "version": "0.2.0-2",
+  "depends": [
+    "ruby-bake"
+  ],
+  "makedepends": [],
+  "receive": 199794746,
+  "transmit": 461850,
+  "disk": 167185
+}
