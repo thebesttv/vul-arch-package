@@ -1,0 +1,13 @@
+{
+  "name": "mate-netbook",
+  "version": "1.26.0-1",
+  "depends": [
+    "libfakekey",
+    "mate-panel",
+    "gettext"
+  ],
+  "makedepends": [],
+  "receive": 199740266,
+  "transmit": 467976,
+  "disk": 3392777
+}
