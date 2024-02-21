@@ -1,0 +1,35 @@
+{
+  "name": "deepin-session-ui",
+  "version": "6.0.14-1",
+  "depends": [
+    "gsettings-qt",
+    "deepin-daemon",
+    "deepin-wallpapers",
+    "deepin-pw-check",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "glib2",
+    "libxext",
+    "qt5-base",
+    "qt5-x11extras",
+    "systemd-libs",
+    "xcb-util-wm",
+    "libxcrypt",
+    "glibc",
+    "gcc-libs",
+    "hicolor-icon-theme",
+    "startdde"
+  ],
+  "makedepends": [
+    "cmake",
+    "deepin-dock",
+    "deepin-gettext-tools",
+    "qt5-tools",
+    "gtest",
+    "ninja"
+  ],
+  "receive": 199688396,
+  "transmit": 309359,
+  "disk": 5587364
+}
