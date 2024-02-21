@@ -1,0 +1,36 @@
+{
+  "name": "snd",
+  "version": "24.1-1",
+  "depends": [
+    "glibc",
+    "glu",
+    "gmp",
+    "gsl",
+    "libglvnd",
+    "libmpc",
+    "libx11",
+    "libxext",
+    "libxpm",
+    "libxt",
+    "mpfr",
+    "openmotif"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "fftw",
+    "flac",
+    "gendesk",
+    "jack",
+    "ladspa",
+    "libsamplerate",
+    "mpg123",
+    "ruby",
+    "speex",
+    "timidity++",
+    "vorbis-tools",
+    "wavpack"
+  ],
+  "receive": 213941718,
+  "transmit": 528299,
+  "disk": 57055701
+}
