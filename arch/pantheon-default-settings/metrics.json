@@ -1,0 +1,17 @@
+{
+  "name": "pantheon-default-settings",
+  "version": "7.1.0-1",
+  "depends": [
+    "accountsservice",
+    "dbus",
+    "dconf",
+    "polkit"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199663564,
+  "transmit": 422885,
+  "disk": 1445356
+}
