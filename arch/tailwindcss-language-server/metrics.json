@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss-language-server",
+  "version": "0.0.16-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "npm"
+  ],
+  "receive": 199569259,
+  "transmit": 344242,
+  "disk": 23890757
+}
