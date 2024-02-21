@@ -1,0 +1,19 @@
+{
+  "name": "python-svglib",
+  "version": "1.5.1-2",
+  "depends": [
+    "python-lxml",
+    "python-reportlab",
+    "python-tinycss2",
+    "python-cssselect2"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199534763,
+  "transmit": 285315,
+  "disk": 4478850
+}
