@@ -1,0 +1,14 @@
+{
+  "name": "xorg-xkill",
+  "version": "1.0.6-1",
+  "depends": [
+    "libx11",
+    "libxmu"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199527205,
+  "transmit": 274938,
+  "disk": 964242
+}
