@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-pod",
+  "version": "1.52-8",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199520695,
+  "transmit": 253485,
+  "disk": 115627
+}
