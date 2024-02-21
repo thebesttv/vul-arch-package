@@ -1,0 +1,15 @@
+{
+  "name": "qjournalctl",
+  "version": "0.6.4-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "libssh",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "imagemagick"
+  ],
+  "receive": 199616203,
+  "transmit": 376628,
+  "disk": 391314
+}
