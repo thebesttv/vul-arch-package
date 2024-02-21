@@ -1,0 +1,17 @@
+{
+  "name": "gtest",
+  "version": "1.14.0-1",
+  "depends": [
+    "gcc-libs",
+    "sh"
+  ],
+  "makedepends": [
+    "python",
+    "cmake",
+    "gcc-libs",
+    "sh"
+  ],
+  "receive": 200179686,
+  "transmit": 656752,
+  "disk": 5108520
+}
