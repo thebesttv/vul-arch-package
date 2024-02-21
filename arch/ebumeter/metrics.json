@@ -1,0 +1,16 @@
+{
+  "name": "ebumeter",
+  "version": "0.5.1-1",
+  "depends": [],
+  "makedepends": [
+    "clxclient",
+    "clthreads",
+    "gendesk",
+    "jack",
+    "libsndfile",
+    "zita-resampler"
+  ],
+  "receive": 199897965,
+  "transmit": 508791,
+  "disk": 1359931
+}
