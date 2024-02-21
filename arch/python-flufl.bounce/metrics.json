@@ -1,0 +1,14 @@
+{
+  "name": "python-flufl.bounce",
+  "version": "4.0-4",
+  "depends": [
+    "python-atpublic",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199528545,
+  "transmit": 300346,
+  "disk": 610868
+}
