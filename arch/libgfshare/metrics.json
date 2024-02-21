@@ -1,0 +1,11 @@
+{
+  "name": "libgfshare",
+  "version": "2.0.0-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199711744,
+  "transmit": 357995,
+  "disk": 1846310
+}
