@@ -1,0 +1,13 @@
+{
+  "name": "libretro-snes9x",
+  "version": "1:2533-1",
+  "depends": [
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199569286,
+  "transmit": 274776,
+  "disk": 45724907
+}
