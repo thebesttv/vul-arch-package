@@ -1,0 +1,11 @@
+{
+  "name": "usleep",
+  "version": "1.0-6",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199607843,
+  "transmit": 374565,
+  "disk": 262299
+}
