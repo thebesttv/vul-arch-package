@@ -1,0 +1,13 @@
+{
+  "name": "gavl",
+  "version": "1.4.0-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199771979,
+  "transmit": 466915,
+  "disk": 19249324
+}
