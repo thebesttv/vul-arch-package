@@ -1,0 +1,29 @@
+{
+  "name": "vinagre",
+  "version": "1:3.22.0+r160+gc86e114-1",
+  "depends": [
+    "libsecret",
+    "gtk-vnc",
+    "vte3",
+    "telepathy-glib",
+    "avahi",
+    "spice-gtk3",
+    "gnutls",
+    "freerdp"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "intltool",
+    "openssh",
+    "itstool",
+    "spice-protocol",
+    "vala",
+    "gnome-common",
+    "appstream-glib",
+    "git",
+    "gobject-introspection"
+  ],
+  "receive": 199724262,
+  "transmit": 438282,
+  "disk": 21200130
+}
