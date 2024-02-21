@@ -1,0 +1,11 @@
+{
+  "name": "perl-crypt-cbc",
+  "version": "3.04-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200027487,
+  "transmit": 741978,
+  "disk": 315072
+}
