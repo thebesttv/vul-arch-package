@@ -1,0 +1,14 @@
+{
+  "name": "fuse2",
+  "version": "2.9.9-4",
+  "depends": [
+    "glibc",
+    "fuse-common"
+  ],
+  "makedepends": [
+    "pkg-config"
+  ],
+  "receive": 200018725,
+  "transmit": 603905,
+  "disk": 10484006
+}
