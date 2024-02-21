@@ -1,0 +1,13 @@
+{
+  "name": "libots",
+  "version": "0.5.0-6",
+  "depends": [
+    "libxml2",
+    "glib2",
+    "popt"
+  ],
+  "makedepends": [],
+  "receive": 199552335,
+  "transmit": 289477,
+  "disk": 2088755
+}
