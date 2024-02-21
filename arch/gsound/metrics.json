@@ -1,0 +1,17 @@
+{
+  "name": "gsound",
+  "version": "1.0.3-3",
+  "depends": [
+    "glib2",
+    "glibc",
+    "libcanberra"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199501628,
+  "transmit": 247180,
+  "disk": 222323
+}
