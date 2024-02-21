@@ -1,0 +1,13 @@
+{
+  "name": "perl-xml-libxml",
+  "version": "2.0209-1",
+  "depends": [
+    "perl-alien-libxml2",
+    "perl-xml-sax",
+    "perl-xml-namespacesupport"
+  ],
+  "makedepends": [],
+  "receive": 199570598,
+  "transmit": 332534,
+  "disk": 2717617
+}
