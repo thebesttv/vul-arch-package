@@ -1,0 +1,11 @@
+{
+  "name": "cpio",
+  "version": "2.15-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199559158,
+  "transmit": 301438,
+  "disk": 12913032
+}
