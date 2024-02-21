@@ -1,0 +1,22 @@
+{
+  "name": "haskell-hls-explicit-imports-plugin",
+  "version": "1.2.0.0-146",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-ghc",
+    "haskell-ghcide",
+    "haskell-hls-graph",
+    "haskell-hls-plugin-api",
+    "haskell-lsp",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 199589029,
+  "transmit": 367002,
+  "disk": 724070
+}
