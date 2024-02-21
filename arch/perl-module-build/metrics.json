@@ -1,0 +1,12 @@
+{
+  "name": "perl-module-build",
+  "version": "0.4234-2",
+  "depends": [
+    "perl",
+    "perl-inc-latest"
+  ],
+  "makedepends": [],
+  "receive": 199567791,
+  "transmit": 298812,
+  "disk": 1368877
+}
