@@ -1,0 +1,15 @@
+{
+  "name": "python-llfuse",
+  "version": "1.5.0-1",
+  "depends": [
+    "python",
+    "fuse2"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 199600722,
+  "transmit": 348045,
+  "disk": 7917292
+}
