@@ -1,0 +1,18 @@
+{
+  "name": "python-sphinx-argparse-cli",
+  "version": "1.11.0-2",
+  "depends": [
+    "python",
+    "python-sphinx",
+    "python-docutils-stubs"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs"
+  ],
+  "receive": 199709080,
+  "transmit": 460343,
+  "disk": 308343
+}
