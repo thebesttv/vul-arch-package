@@ -1,0 +1,20 @@
+{
+  "name": "switchboard-plug-datetime",
+  "version": "2.2.0-2",
+  "depends": [
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libswitchboard-2.0.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199582156,
+  "transmit": 304796,
+  "disk": 34154676
+}
