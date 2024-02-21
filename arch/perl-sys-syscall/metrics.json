@@ -1,0 +1,11 @@
+{
+  "name": "perl-sys-syscall",
+  "version": "0.25-10",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199669508,
+  "transmit": 414583,
+  "disk": 135659
+}
