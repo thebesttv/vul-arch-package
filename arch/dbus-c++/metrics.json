@@ -1,0 +1,16 @@
+{
+  "name": "dbus-c++",
+  "version": "0.9.0-11",
+  "depends": [
+    "dbus",
+    "gcc-libs",
+    "glib2",
+    "glibc"
+  ],
+  "makedepends": [
+    "expat"
+  ],
+  "receive": 200300694,
+  "transmit": 468631,
+  "disk": 2789899
+}
