@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-sharedir",
+  "version": "1.118-3",
+  "depends": [
+    "perl-class-inspector"
+  ],
+  "makedepends": [],
+  "receive": 199665159,
+  "transmit": 413646,
+  "disk": 275151
+}
