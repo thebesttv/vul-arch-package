@@ -1,0 +1,11 @@
+{
+  "name": "ocrad",
+  "version": "0.29-1",
+  "depends": [
+    "libpng"
+  ],
+  "makedepends": [],
+  "receive": 199711158,
+  "transmit": 451581,
+  "disk": 786929
+}
