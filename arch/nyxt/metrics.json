@@ -1,0 +1,23 @@
+{
+  "name": "nyxt",
+  "version": "3.11.1-1",
+  "depends": [
+    "glibc",
+    "hicolor-icon-theme",
+    "enchant",
+    "glib-networking",
+    "gobject-introspection-runtime",
+    "gsettings-desktop-schemas",
+    "libfixposix",
+    "webkit2gtk-4.1",
+    "zstd"
+  ],
+  "makedepends": [
+    "git",
+    "sbcl",
+    "cl-asdf"
+  ],
+  "receive": 218064959,
+  "transmit": 569737,
+  "disk": 94621346
+}
