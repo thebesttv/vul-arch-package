@@ -1,0 +1,16 @@
+{
+  "name": "sonic",
+  "version": "1.4.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust",
+    "clang",
+    "llvm"
+  ],
+  "receive": 199692890,
+  "transmit": 415107,
+  "disk": 4018464
+}
