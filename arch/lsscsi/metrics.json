@@ -1,0 +1,11 @@
+{
+  "name": "lsscsi",
+  "version": "0.32-1",
+  "depends": [
+    "sysfsutils"
+  ],
+  "makedepends": [],
+  "receive": 199743954,
+  "transmit": 466570,
+  "disk": 1051112
+}
