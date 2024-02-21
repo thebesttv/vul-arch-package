@@ -1,0 +1,13 @@
+{
+  "name": "iodine",
+  "version": "0.8.0-1",
+  "depends": [
+    "zlib",
+    "net-tools",
+    "systemd-libs"
+  ],
+  "makedepends": [],
+  "receive": 199693274,
+  "transmit": 388865,
+  "disk": 599892
+}
