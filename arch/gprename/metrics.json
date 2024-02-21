@@ -1,0 +1,14 @@
+{
+  "name": "gprename",
+  "version": "20230429-1",
+  "depends": [
+    "perl-gtk3",
+    "perl-libintl-perl",
+    "perl-locale-gettext",
+    "pango-perl"
+  ],
+  "makedepends": [],
+  "receive": 199989719,
+  "transmit": 616458,
+  "disk": 411222
+}
