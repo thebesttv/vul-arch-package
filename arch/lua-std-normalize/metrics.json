@@ -1,0 +1,15 @@
+{
+  "name": "lua-std-normalize",
+  "version": "2.0.3-6",
+  "depends": [],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 199564577,
+  "transmit": 300799,
+  "disk": 363329
+}
