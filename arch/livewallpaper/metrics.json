@@ -1,0 +1,25 @@
+{
+  "name": "livewallpaper",
+  "version": "0.5.0.333-4",
+  "depends": [
+    "glew",
+    "libpeas",
+    "python-cairo",
+    "python-gobject",
+    "python-opengl",
+    "python-pillow",
+    "upower"
+  ],
+  "makedepends": [
+    "breezy",
+    "cmake",
+    "gobject-introspection",
+    "intltool",
+    "ninja",
+    "vala",
+    "xcftools"
+  ],
+  "receive": 206717237,
+  "transmit": 359900,
+  "disk": 19497212
+}
