@@ -1,0 +1,29 @@
+{
+  "name": "pantheon-camera",
+  "version": "6.2.2-1",
+  "depends": [
+    "clutter-gst",
+    "clutter-gtk",
+    "glibc",
+    "gstreamer",
+    "gst-plugins-good",
+    "libcanberra.so",
+    "libgdk-3.so",
+    "libgio-2.0.so",
+    "libglib-2.0.so",
+    "libgobject-2.0.so",
+    "libgranite.so",
+    "libgtk-3.so",
+    "libhandy-1.so"
+  ],
+  "makedepends": [
+    "appstream",
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199532159,
+  "transmit": 286098,
+  "disk": 13696861
+}
