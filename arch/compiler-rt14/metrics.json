@@ -1,0 +1,16 @@
+{
+  "name": "compiler-rt14",
+  "version": "14.0.6-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "llvm14",
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 202004351,
+  "transmit": 396733,
+  "disk": 41571279
+}
