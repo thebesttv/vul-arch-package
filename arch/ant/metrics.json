@@ -1,0 +1,16 @@
+{
+  "name": "ant",
+  "version": "1.10.14-1",
+  "depends": [],
+  "makedepends": [
+    "bash",
+    "coreutils",
+    "which",
+    "java-environment",
+    "junit",
+    "java-hamcrest"
+  ],
+  "receive": 203781151,
+  "transmit": 436025,
+  "disk": 22891468
+}
