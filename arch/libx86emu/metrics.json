@@ -1,0 +1,12 @@
+{
+  "name": "libx86emu",
+  "version": "3.5-3",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "setconf"
+  ],
+  "receive": 199903799,
+  "transmit": 568737,
+  "disk": 1756591
+}
