@@ -1,0 +1,21 @@
+{
+  "name": "restinio",
+  "version": "0.6.17-1",
+  "depends": [
+    "asio",
+    "http-parser",
+    "fmt"
+  ],
+  "makedepends": [
+    "cmake",
+    "gcc",
+    "openssl",
+    "zlib",
+    "pcre",
+    "pcre2",
+    "boost"
+  ],
+  "receive": 199734372,
+  "transmit": 442362,
+  "disk": 4947680
+}
