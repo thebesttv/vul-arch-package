@@ -1,0 +1,11 @@
+{
+  "name": "keychain",
+  "version": "2.8.5-2",
+  "depends": [
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199604632,
+  "transmit": 334813,
+  "disk": 363215
+}
