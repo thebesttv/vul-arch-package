@@ -1,0 +1,19 @@
+{
+  "name": "ruby-sequel",
+  "version": "5.76.0-1",
+  "depends": [
+    "ruby",
+    "ruby-bigdecimal"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-minitest",
+    "ruby-minitest-hooks",
+    "ruby-minitest-global_expectations",
+    "ruby-tzinfo",
+    "ruby-nokogiri"
+  ],
+  "receive": 199717335,
+  "transmit": 402898,
+  "disk": 72901300
+}
