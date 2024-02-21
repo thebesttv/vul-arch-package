@@ -1,0 +1,28 @@
+{
+  "name": "budgie-control-center",
+  "version": "1.4.0-1",
+  "depends": [
+    "accountsservice",
+    "gcr",
+    "gnome-bluetooth",
+    "gnome-settings-daemon",
+    "ibus",
+    "libgtop",
+    "libpwquality",
+    "smbclient",
+    "libcheese",
+    "libnma",
+    "udisks2",
+    "libhandy",
+    "gsound",
+    "colord-gtk"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "modemmanager",
+    "meson"
+  ],
+  "receive": 199535274,
+  "transmit": 316444,
+  "disk": 41371568
+}
