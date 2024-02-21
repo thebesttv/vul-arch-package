@@ -1,0 +1,21 @@
+{
+  "name": "srs",
+  "version": "5.0_r1-1",
+  "depends": [
+    "gcc-libs",
+    "openssl",
+    "srs-state-threads",
+    "tcl"
+  ],
+  "makedepends": [
+    "zlib",
+    "unzip",
+    "net-tools",
+    "python",
+    "git",
+    "cmake"
+  ],
+  "receive": 562146568,
+  "transmit": 569035,
+  "disk": 442594828
+}
