@@ -1,0 +1,18 @@
+{
+  "name": "camlp5",
+  "version": "8.02.01-2",
+  "depends": [
+    "ocaml",
+    "camlp-streams",
+    "ocaml-rresult",
+    "ocaml-bos",
+    "ocaml-re"
+  ],
+  "makedepends": [
+    "ocaml-compiler-libs",
+    "ocaml-findlib"
+  ],
+  "receive": 199554034,
+  "transmit": 344873,
+  "disk": 9729406
+}
