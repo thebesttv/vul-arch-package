@@ -1,0 +1,26 @@
+{
+  "name": "openshot",
+  "version": "3.1.1-1",
+  "depends": [
+    "ffmpeg",
+    "hicolor-icon-theme",
+    "libopenshot",
+    "libopenshot-audio",
+    "python",
+    "python-pyqt5",
+    "python-pyqt5-webengine",
+    "python-pyzmq",
+    "python-requests",
+    "qt5-base",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 298663194,
+  "transmit": 1402963,
+  "disk": 251149469
+}
