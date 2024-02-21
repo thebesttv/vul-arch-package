@@ -1,0 +1,18 @@
+{
+  "name": "sorcer",
+  "version": "1.1.3-4",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "lv2",
+    "ntk"
+  ],
+  "receive": 199792683,
+  "transmit": 376683,
+  "disk": 940919
+}
