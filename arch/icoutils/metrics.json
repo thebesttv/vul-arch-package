@@ -1,0 +1,12 @@
+{
+  "name": "icoutils",
+  "version": "0.32.3-3",
+  "depends": [
+    "libpng>=1.0.0",
+    "perl-libwww>=5.64"
+  ],
+  "makedepends": [],
+  "receive": 200341292,
+  "transmit": 1010443,
+  "disk": 4418142
+}
