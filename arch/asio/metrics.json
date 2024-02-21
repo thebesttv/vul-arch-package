@@ -1,0 +1,11 @@
+{
+  "name": "asio",
+  "version": "1.28.0-1",
+  "depends": [],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 203651761,
+  "transmit": 883431,
+  "disk": 52034373
+}
