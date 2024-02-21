@@ -1,0 +1,14 @@
+{
+  "name": "ruby-test-unit-ruby-core",
+  "version": "1.0.5-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 199840803,
+  "transmit": 355958,
+  "disk": 150985
+}
