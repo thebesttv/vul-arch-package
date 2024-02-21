@@ -1,0 +1,11 @@
+{
+  "name": "perl-pod-parser",
+  "version": "1.66-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200291459,
+  "transmit": 778147,
+  "disk": 492617
+}
