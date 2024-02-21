@@ -1,0 +1,11 @@
+{
+  "name": "cadaver",
+  "version": "0.24-1",
+  "depends": [
+    "neon"
+  ],
+  "makedepends": [],
+  "receive": 199621869,
+  "transmit": 378201,
+  "disk": 2756863
+}
