@@ -1,0 +1,14 @@
+{
+  "name": "clipmenu",
+  "version": "6.2.0-2",
+  "depends": [
+    "dmenu",
+    "xsel",
+    "clipnotify",
+    "xdotool"
+  ],
+  "makedepends": [],
+  "receive": 199628117,
+  "transmit": 370368,
+  "disk": 135351
+}
