@@ -1,0 +1,15 @@
+{
+  "name": "yaz",
+  "version": "5.34.0-3",
+  "depends": [
+    "gnutls",
+    "libxslt",
+    "icu"
+  ],
+  "makedepends": [
+    "zsh"
+  ],
+  "receive": 199867927,
+  "transmit": 411495,
+  "disk": 17057481
+}
