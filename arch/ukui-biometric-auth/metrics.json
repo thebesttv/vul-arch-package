@@ -1,0 +1,16 @@
+{
+  "name": "ukui-biometric-auth",
+  "version": "1.2.2-7",
+  "depends": [
+    "opencv",
+    "polkit-qt5"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199617530,
+  "transmit": 372226,
+  "disk": 1498607
+}
