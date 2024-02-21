@@ -1,0 +1,12 @@
+{
+  "name": "libatasmart",
+  "version": "0.19-6",
+  "depends": [
+    "glibc",
+    "systemd-libs"
+  ],
+  "makedepends": [],
+  "receive": 199546762,
+  "transmit": 315034,
+  "disk": 2012820
+}
