@@ -1,0 +1,13 @@
+{
+  "name": "nebula",
+  "version": "1.7.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199634571,
+  "transmit": 391515,
+  "disk": 3880320
+}
