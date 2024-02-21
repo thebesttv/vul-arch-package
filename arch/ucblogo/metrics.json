@@ -1,0 +1,20 @@
+{
+  "name": "ucblogo",
+  "version": "6.2.4-2",
+  "depends": [
+    "libice",
+    "libsm",
+    "libx11",
+    "ncurses",
+    "wxwidgets-gtk3"
+  ],
+  "makedepends": [
+    "git",
+    "texinfo",
+    "texlive-bin",
+    "texlive-basic"
+  ],
+  "receive": 199579983,
+  "transmit": 312305,
+  "disk": 14623700
+}
