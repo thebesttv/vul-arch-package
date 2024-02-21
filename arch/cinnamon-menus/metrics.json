@@ -1,0 +1,15 @@
+{
+  "name": "cinnamon-menus",
+  "version": "6.0.0-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "samurai"
+  ],
+  "receive": 199509624,
+  "transmit": 246908,
+  "disk": 702310
+}
