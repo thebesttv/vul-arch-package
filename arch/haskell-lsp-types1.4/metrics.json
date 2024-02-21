@@ -1,0 +1,28 @@
+{
+  "name": "haskell-lsp-types1.4",
+  "version": "1.4.0.1-66",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-data-default",
+    "haskell-diff",
+    "haskell-dlist",
+    "haskell-hashable",
+    "haskell-hslogger",
+    "haskell-lens",
+    "haskell-mod",
+    "haskell-network-uri",
+    "haskell-rope-utf16-splay",
+    "haskell-scientific",
+    "haskell-some",
+    "haskell-temporary",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199639106,
+  "transmit": 338857,
+  "disk": 634269
+}
