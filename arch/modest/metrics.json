@@ -1,0 +1,11 @@
+{
+  "name": "modest",
+  "version": "0.0.6.d021b90-3",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199552241,
+  "transmit": 274002,
+  "disk": 16657770
+}
