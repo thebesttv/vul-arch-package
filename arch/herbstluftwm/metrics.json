@@ -1,0 +1,20 @@
+{
+  "name": "herbstluftwm",
+  "version": "0.9.5-1",
+  "depends": [
+    "libxinerama",
+    "libxrandr",
+    "libxft",
+    "libxext",
+    "libxfixes",
+    "libxrender",
+    "freetype2"
+  ],
+  "makedepends": [
+    "cmake",
+    "asciidoc"
+  ],
+  "receive": 199537015,
+  "transmit": 285463,
+  "disk": 3065332
+}
