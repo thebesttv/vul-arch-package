@@ -1,0 +1,16 @@
+{
+  "name": "rime-terra-pinyin",
+  "version": "0.0.0.20230207-1",
+  "depends": [
+    "rime-stroke"
+  ],
+  "makedepends": [
+    "git",
+    "librime",
+    "rime-prelude",
+    "rime-essay"
+  ],
+  "receive": 199595416,
+  "transmit": 369780,
+  "disk": 6980150
+}
