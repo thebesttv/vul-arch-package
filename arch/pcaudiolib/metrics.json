@@ -1,0 +1,12 @@
+{
+  "name": "pcaudiolib",
+  "version": "1.2-2",
+  "depends": [
+    "alsa-lib",
+    "libpulse"
+  ],
+  "makedepends": [],
+  "receive": 199606336,
+  "transmit": 352233,
+  "disk": 286446
+}
