@@ -1,0 +1,15 @@
+{
+  "name": "web-ext",
+  "version": "7.11.0-1",
+  "depends": [
+    "nodejs>=16.0.0",
+    "nodejs<20"
+  ],
+  "makedepends": [
+    "npm",
+    "node-gyp"
+  ],
+  "receive": 200176866,
+  "transmit": 619749,
+  "disk": 2262613
+}
