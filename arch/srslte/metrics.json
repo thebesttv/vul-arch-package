@@ -1,0 +1,24 @@
+{
+  "name": "srslte",
+  "version": "23.11-1",
+  "depends": [
+    "fftw",
+    "mbedtls",
+    "boost-libs",
+    "lksctp-tools",
+    "libconfig",
+    "libuhd",
+    "soapysdr",
+    "bladerf",
+    "zeromq",
+    "pcsclite",
+    "srsgui"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost"
+  ],
+  "receive": 210129597,
+  "transmit": 395659,
+  "disk": 76933576
+}
