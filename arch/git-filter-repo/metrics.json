@@ -1,0 +1,17 @@
+{
+  "name": "git-filter-repo",
+  "version": "2.38.0-1",
+  "depends": [
+    "git",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199543221,
+  "transmit": 277887,
+  "disk": 1043530
+}
