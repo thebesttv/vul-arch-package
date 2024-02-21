@@ -1,0 +1,16 @@
+{
+  "name": "glyr",
+  "version": "1.0.10-5",
+  "depends": [
+    "curl",
+    "glib2",
+    "sqlite"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199622589,
+  "transmit": 369564,
+  "disk": 1815474
+}
