@@ -1,0 +1,16 @@
+{
+  "name": "harvid",
+  "version": "0.9.1-2",
+  "depends": [
+    "glibc",
+    "libpng"
+  ],
+  "makedepends": [
+    "ffmpeg",
+    "libjpeg-turbo",
+    "xxd"
+  ],
+  "receive": 199493780,
+  "transmit": 248159,
+  "disk": 632822
+}
