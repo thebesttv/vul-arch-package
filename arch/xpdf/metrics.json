@@ -1,0 +1,27 @@
+{
+  "name": "xpdf",
+  "version": "4.05-1",
+  "depends": [
+    "gsfonts",
+    "xdg-utils",
+    "qt6-base",
+    "libxt",
+    "libpaper",
+    "freetype2",
+    "libcups",
+    "libjpeg-turbo",
+    "libtiff",
+    "libpng",
+    "zlib",
+    "qt6-svg",
+    "libfreetype.so",
+    "libfontconfig.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt6-tools"
+  ],
+  "receive": 199506947,
+  "transmit": 251018,
+  "disk": 5890993
+}
