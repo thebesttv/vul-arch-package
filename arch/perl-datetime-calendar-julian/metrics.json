@@ -1,0 +1,11 @@
+{
+  "name": "perl-datetime-calendar-julian",
+  "version": "0.107-2",
+  "depends": [
+    "perl-datetime"
+  ],
+  "makedepends": [],
+  "receive": 199516601,
+  "transmit": 283135,
+  "disk": 197808
+}
