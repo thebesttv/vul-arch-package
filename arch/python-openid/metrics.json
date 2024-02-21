@@ -1,0 +1,13 @@
+{
+  "name": "python-openid",
+  "version": "3.2.0-6",
+  "depends": [
+    "python-defusedxml"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199587889,
+  "transmit": 317651,
+  "disk": 1652422
+}
