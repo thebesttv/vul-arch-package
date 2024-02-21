@@ -1,0 +1,14 @@
+{
+  "name": "wasmtime",
+  "version": "18.0.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 328795525,
+  "transmit": 565356,
+  "disk": 188910005
+}
