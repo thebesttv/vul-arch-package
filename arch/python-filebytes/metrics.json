@@ -1,0 +1,13 @@
+{
+  "name": "python-filebytes",
+  "version": "0.10.2-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199507479,
+  "transmit": 250738,
+  "disk": 6697357
+}
