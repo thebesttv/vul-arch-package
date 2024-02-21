@@ -1,0 +1,13 @@
+{
+  "name": "gitleaks",
+  "version": "8.18.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199622977,
+  "transmit": 393568,
+  "disk": 1401939
+}
