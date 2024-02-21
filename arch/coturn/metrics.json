@@ -1,0 +1,15 @@
+{
+  "name": "coturn",
+  "version": "4.6.2-1",
+  "depends": [
+    "libevent",
+    "postgresql-libs",
+    "libmariadbclient",
+    "hiredis",
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 199641186,
+  "transmit": 419928,
+  "disk": 3273347
+}
