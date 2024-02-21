@@ -1,0 +1,14 @@
+{
+  "name": "disomaster",
+  "version": "5.0.8-1",
+  "depends": [
+    "libisoburn",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 201213219,
+  "transmit": 1072197,
+  "disk": 361463
+}
