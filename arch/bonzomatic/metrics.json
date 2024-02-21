@@ -1,0 +1,25 @@
+{
+  "name": "bonzomatic",
+  "version": "1.0.20230615-1",
+  "depends": [
+    "alsa-lib",
+    "fontconfig",
+    "hicolor-icon-theme",
+    "libglvnd"
+  ],
+  "makedepends": [
+    "chrpath",
+    "cmake",
+    "git",
+    "glu",
+    "imagemagick",
+    "libxcursor",
+    "libxi",
+    "libxinerama",
+    "libxrandr",
+    "ninja"
+  ],
+  "receive": 218533819,
+  "transmit": 409582,
+  "disk": 67231580
+}
