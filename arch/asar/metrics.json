@@ -1,0 +1,13 @@
+{
+  "name": "asar",
+  "version": "3.2.8-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199717989,
+  "transmit": 417219,
+  "disk": 679968
+}
