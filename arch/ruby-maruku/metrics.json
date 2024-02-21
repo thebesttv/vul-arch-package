@@ -1,0 +1,13 @@
+{
+  "name": "ruby-maruku",
+  "version": "0.7.3-6",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199667334,
+  "transmit": 431483,
+  "disk": 1282426
+}
