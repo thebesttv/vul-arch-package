@@ -1,0 +1,13 @@
+{
+  "name": "perl-crypt-openssl-guess",
+  "version": "0.15-3",
+  "depends": [
+    "perl>=5.8.1"
+  ],
+  "makedepends": [
+    "perl-extutils-makemaker>=6.64"
+  ],
+  "receive": 199612364,
+  "transmit": 356370,
+  "disk": 161212
+}
