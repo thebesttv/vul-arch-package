@@ -1,0 +1,22 @@
+{
+  "name": "lilv",
+  "version": "0.24.24-1",
+  "depends": [],
+  "makedepends": [
+    "doxygen",
+    "libsndfile",
+    "lv2",
+    "meson",
+    "python",
+    "python-sphinx",
+    "python-sphinx-lv2-theme",
+    "python-sphinxygen",
+    "serd",
+    "sord",
+    "sratom",
+    "swig"
+  ],
+  "receive": 199601990,
+  "transmit": 362954,
+  "disk": 1006946
+}
