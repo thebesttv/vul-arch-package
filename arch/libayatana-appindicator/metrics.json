@@ -1,0 +1,21 @@
+{
+  "name": "libayatana-appindicator",
+  "version": "0.5.93-1",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "gtk3",
+    "libayatana-indicator",
+    "libdbusmenu-glib",
+    "libdbusmenu-gtk3"
+  ],
+  "makedepends": [
+    "cmake",
+    "gobject-introspection",
+    "vala"
+  ],
+  "receive": 199758994,
+  "transmit": 444857,
+  "disk": 955619
+}
