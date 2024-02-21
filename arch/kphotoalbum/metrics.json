@@ -1,0 +1,18 @@
+{
+  "name": "kphotoalbum",
+  "version": "5.12.0-1",
+  "depends": [
+    "libkdcraw5",
+    "marble-common",
+    "exiv2",
+    "purpose5",
+    "perl"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199630771,
+  "transmit": 334971,
+  "disk": 41230207
+}
