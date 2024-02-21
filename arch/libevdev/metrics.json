@@ -1,0 +1,17 @@
+{
+  "name": "libevdev",
+  "version": "1.13.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "python",
+    "check",
+    "valgrind",
+    "doxygen",
+    "meson"
+  ],
+  "receive": 199648633,
+  "transmit": 388734,
+  "disk": 4089918
+}
