@@ -1,0 +1,21 @@
+{
+  "name": "kimtoy",
+  "version": "1.92-5",
+  "depends": [
+    "kwindowsystem5",
+    "kwidgetsaddons5",
+    "plasma-framework5",
+    "knewstuff5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ibus",
+    "dbus-c++",
+    "scim",
+    "kfilemetadata5",
+    "git"
+  ],
+  "receive": 199533129,
+  "transmit": 279860,
+  "disk": 3289507
+}
