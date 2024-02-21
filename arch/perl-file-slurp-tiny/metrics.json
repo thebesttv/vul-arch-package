@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-slurp-tiny",
+  "version": "0.004-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199612686,
+  "transmit": 379196,
+  "disk": 177835
+}
