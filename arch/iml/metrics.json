@@ -1,0 +1,12 @@
+{
+  "name": "iml",
+  "version": "1.0.5-3",
+  "depends": [
+    "gmp",
+    "cblas"
+  ],
+  "makedepends": [],
+  "receive": 199537286,
+  "transmit": 290348,
+  "disk": 2650220
+}
