@@ -1,0 +1,12 @@
+{
+  "name": "txt2man",
+  "version": "1.7.1-3",
+  "depends": [
+    "bash",
+    "gawk"
+  ],
+  "makedepends": [],
+  "receive": 199659904,
+  "transmit": 380726,
+  "disk": 156622
+}
