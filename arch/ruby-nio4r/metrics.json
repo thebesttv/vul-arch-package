@@ -1,0 +1,14 @@
+{
+  "name": "ruby-nio4r",
+  "version": "2.5.8-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "git"
+  ],
+  "receive": 199652703,
+  "transmit": 412732,
+  "disk": 748345
+}
