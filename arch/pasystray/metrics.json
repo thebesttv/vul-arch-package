@@ -1,0 +1,15 @@
+{
+  "name": "pasystray",
+  "version": "0.8.2-1",
+  "depends": [
+    "libpulse",
+    "libnotify",
+    "avahi",
+    "libx11",
+    "gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199638081,
+  "transmit": 420381,
+  "disk": 405421
+}
