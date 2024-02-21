@@ -1,0 +1,15 @@
+{
+  "name": "perl-alien-build-plugin-download-gitlab",
+  "version": "0.01-2",
+  "depends": [
+    "perl-alien-build",
+    "perl-path-tiny",
+    "perl-uri"
+  ],
+  "makedepends": [
+    "perl-test2-suite"
+  ],
+  "receive": 199679884,
+  "transmit": 433198,
+  "disk": 195220
+}
