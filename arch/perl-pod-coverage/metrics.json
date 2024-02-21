@@ -1,0 +1,12 @@
+{
+  "name": "perl-pod-coverage",
+  "version": "0.23-5",
+  "depends": [
+    "perl-devel-symdump",
+    "perl-pod-parser"
+  ],
+  "makedepends": [],
+  "receive": 199781374,
+  "transmit": 499144,
+  "disk": 177866
+}
