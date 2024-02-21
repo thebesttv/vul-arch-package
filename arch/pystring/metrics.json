@@ -1,0 +1,11 @@
+{
+  "name": "pystring",
+  "version": "1.1.4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199524009,
+  "transmit": 271265,
+  "disk": 238696
+}
