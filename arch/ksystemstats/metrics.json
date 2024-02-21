@@ -1,0 +1,14 @@
+{
+  "name": "ksystemstats",
+  "version": "5.27.10-1",
+  "depends": [
+    "libksysguard"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "networkmanager-qt5"
+  ],
+  "receive": 199569171,
+  "transmit": 250951,
+  "disk": 1695383
+}
