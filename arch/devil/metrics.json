@@ -1,0 +1,16 @@
+{
+  "name": "devil",
+  "version": "1.8.0-8",
+  "depends": [
+    "libpng",
+    "jasper",
+    "lcms2",
+    "libjpeg-turbo"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199643748,
+  "transmit": 388649,
+  "disk": 9969267
+}
