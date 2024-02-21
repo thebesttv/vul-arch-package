@@ -1,0 +1,13 @@
+{
+  "name": "xorg-xkbprint",
+  "version": "1.0.6-1",
+  "depends": [
+    "libxkbfile"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199624816,
+  "transmit": 378613,
+  "disk": 1153877
+}
