@@ -1,0 +1,15 @@
+{
+  "name": "stylelint",
+  "version": "16.2.0-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "rsync"
+  ],
+  "receive": 247057607,
+  "transmit": 1267644,
+  "disk": 55002013
+}
