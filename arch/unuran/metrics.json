@@ -1,0 +1,11 @@
+{
+  "name": "unuran",
+  "version": "1.11.0-1",
+  "depends": [
+    "gsl"
+  ],
+  "makedepends": [],
+  "receive": 199603472,
+  "transmit": 362639,
+  "disk": 24271902
+}
