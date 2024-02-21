@@ -1,0 +1,16 @@
+{
+  "name": "haskell-network-udp",
+  "version": "0.0.0-27",
+  "depends": [
+    "ghc-libs",
+    "haskell-iproute",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199586815,
+  "transmit": 323030,
+  "disk": 160955
+}
