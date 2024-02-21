@@ -1,0 +1,11 @@
+{
+  "name": "perl-ipc-system-simple",
+  "version": "1.30-5",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199557502,
+  "transmit": 315740,
+  "disk": 252503
+}
