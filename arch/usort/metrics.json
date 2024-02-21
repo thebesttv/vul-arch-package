@@ -1,0 +1,22 @@
+{
+  "name": "usort",
+  "version": "1.0.4-3",
+  "depends": [
+    "python-attrs",
+    "python-click",
+    "python-libcst",
+    "python-moreorless",
+    "python-stdlibs",
+    "python-toml",
+    "python-trailrunner"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199788070,
+  "transmit": 472562,
+  "disk": 405430
+}
