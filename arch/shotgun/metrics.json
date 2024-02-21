@@ -1,0 +1,14 @@
+{
+  "name": "shotgun",
+  "version": "2.5.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199679051,
+  "transmit": 426512,
+  "disk": 181325
+}
