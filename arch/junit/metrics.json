@@ -1,0 +1,12 @@
+{
+  "name": "junit",
+  "version": "4.13.2-1",
+  "depends": [
+    "java-environment",
+    "java-hamcrest"
+  ],
+  "makedepends": [],
+  "receive": 199657535,
+  "transmit": 391308,
+  "disk": 1360729
+}
