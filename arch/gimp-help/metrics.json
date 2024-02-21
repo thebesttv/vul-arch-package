@@ -1,0 +1,12 @@
+{
+  "name": "gimp-help",
+  "version": "2.10.34-1",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "docbook-xsl"
+  ],
+  "receive": 365735236,
+  "transmit": 462419,
+  "disk": 462134631
+}
