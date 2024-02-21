@@ -1,0 +1,16 @@
+{
+  "name": "python-flask-mail",
+  "version": "0.9.1-10",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-blinker"
+  ],
+  "makedepends": [
+    "python-sphinx",
+    "python-setuptools"
+  ],
+  "receive": 199504785,
+  "transmit": 255412,
+  "disk": 256520
+}
