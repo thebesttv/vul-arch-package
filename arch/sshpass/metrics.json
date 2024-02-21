@@ -1,0 +1,11 @@
+{
+  "name": "sshpass",
+  "version": "1.10-1",
+  "depends": [
+    "openssh"
+  ],
+  "makedepends": [],
+  "receive": 199618633,
+  "transmit": 365247,
+  "disk": 743609
+}
