@@ -1,0 +1,11 @@
+{
+  "name": "perl-device-modem",
+  "version": "1.59-2",
+  "depends": [
+    "perl-device-serialport"
+  ],
+  "makedepends": [],
+  "receive": 199647502,
+  "transmit": 393188,
+  "disk": 320700
+}
