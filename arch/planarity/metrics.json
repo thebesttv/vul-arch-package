@@ -1,0 +1,11 @@
+{
+  "name": "planarity",
+  "version": "3.0.2.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199854712,
+  "transmit": 440658,
+  "disk": 1091317
+}
