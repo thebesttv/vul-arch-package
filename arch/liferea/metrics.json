@@ -1,0 +1,16 @@
+{
+  "name": "liferea",
+  "version": "1.14.6-1",
+  "depends": [
+    "webkit2gtk",
+    "libpeas",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection"
+  ],
+  "receive": 200900819,
+  "transmit": 1283995,
+  "disk": 10795811
+}
