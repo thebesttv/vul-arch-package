@@ -1,0 +1,14 @@
+{
+  "name": "dtools",
+  "version": "2.107.0-1",
+  "depends": [
+    "curl"
+  ],
+  "makedepends": [
+    "dmd",
+    "libphobos"
+  ],
+  "receive": 199881961,
+  "transmit": 527308,
+  "disk": 808649
+}
