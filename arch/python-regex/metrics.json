@@ -1,0 +1,16 @@
+{
+  "name": "python-regex",
+  "version": "2023.12.25-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199679619,
+  "transmit": 389269,
+  "disk": 4047999
+}
