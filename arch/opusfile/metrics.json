@@ -1,0 +1,13 @@
+{
+  "name": "opusfile",
+  "version": "0.12-3",
+  "depends": [
+    "libogg",
+    "openssl",
+    "opus"
+  ],
+  "makedepends": [],
+  "receive": 199690732,
+  "transmit": 422956,
+  "disk": 2540520
+}
