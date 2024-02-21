@@ -1,0 +1,17 @@
+{
+  "name": "fcitx-kkc",
+  "version": "0.1.4-2",
+  "depends": [
+    "fcitx",
+    "libkkc",
+    "libkkc-data",
+    "skk-jisyo",
+    "fcitx-qt5"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199663323,
+  "transmit": 410476,
+  "disk": 339316
+}
