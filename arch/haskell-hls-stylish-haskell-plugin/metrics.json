@@ -1,0 +1,20 @@
+{
+  "name": "haskell-hls-stylish-haskell-plugin",
+  "version": "1.0.1.2-147",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-lsp-types",
+    "stylish-haskell"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 199586370,
+  "transmit": 292394,
+  "disk": 680533
+}
