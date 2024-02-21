@@ -1,0 +1,12 @@
+{
+  "name": "cargo-depgraph",
+  "version": "1.6.0-2",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199466336,
+  "transmit": 250851,
+  "disk": 934561
+}
