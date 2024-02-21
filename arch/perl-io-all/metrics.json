@@ -1,0 +1,12 @@
+{
+  "name": "perl-io-all",
+  "version": "0.87-6",
+  "depends": [
+    "perl>=5.6.1",
+    "perl-io-string>=1.08"
+  ],
+  "makedepends": [],
+  "receive": 199603055,
+  "transmit": 283714,
+  "disk": 472507
+}
