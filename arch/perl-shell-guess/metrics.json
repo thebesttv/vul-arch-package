@@ -1,0 +1,11 @@
+{
+  "name": "perl-shell-guess",
+  "version": "0.09-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199590181,
+  "transmit": 344704,
+  "disk": 227102
+}
