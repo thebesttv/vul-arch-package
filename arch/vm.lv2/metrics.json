@@ -1,0 +1,19 @@
+{
+  "name": "vm.lv2",
+  "version": "0.14.0-3",
+  "depends": [
+    "glibc",
+    "libglvnd",
+    "libx11",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "glew",
+    "glu",
+    "lv2",
+    "meson"
+  ],
+  "receive": 199512891,
+  "transmit": 301196,
+  "disk": 7451252
+}
