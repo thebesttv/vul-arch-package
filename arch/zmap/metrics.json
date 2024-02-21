@@ -1,0 +1,20 @@
+{
+  "name": "zmap",
+  "version": "3.0.0-1",
+  "depends": [
+    "gmp",
+    "hiredis",
+    "json-c",
+    "libpcap",
+    "libmongoc"
+  ],
+  "makedepends": [
+    "byacc",
+    "cmake",
+    "gengetopt",
+    "pkg-config"
+  ],
+  "receive": 200555009,
+  "transmit": 1098169,
+  "disk": 933931
+}
