@@ -1,0 +1,13 @@
+{
+  "name": "ruby-vte3",
+  "version": "4.1.2-1",
+  "depends": [
+    "vte3",
+    "ruby",
+    "ruby-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199599962,
+  "transmit": 347227,
+  "disk": 104710
+}
