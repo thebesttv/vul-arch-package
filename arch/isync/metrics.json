@@ -1,0 +1,13 @@
+{
+  "name": "isync",
+  "version": "1.4.4-4",
+  "depends": [
+    "libsasl",
+    "zlib",
+    "db"
+  ],
+  "makedepends": [],
+  "receive": 199701961,
+  "transmit": 391522,
+  "disk": 1681827
+}
