@@ -1,0 +1,17 @@
+{
+  "name": "ristretto",
+  "version": "0.13.2-1",
+  "depends": [
+    "libxfce4ui",
+    "xfconf",
+    "tumbler",
+    "libexif",
+    "file"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199699801,
+  "transmit": 458889,
+  "disk": 6221336
+}
