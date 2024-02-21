@@ -1,0 +1,12 @@
+{
+  "name": "aarch64-linux-gnu-binutils",
+  "version": "2.41-2",
+  "depends": [
+    "zlib",
+    "libelf"
+  ],
+  "makedepends": [],
+  "receive": 237367908,
+  "transmit": 737854,
+  "disk": 326711710
+}
