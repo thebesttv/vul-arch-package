@@ -1,0 +1,19 @@
+{
+  "name": "haskell-doclayout",
+  "version": "0.4.0.1-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-emojis",
+    "haskell-safe"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199733605,
+  "transmit": 474186,
+  "disk": 470401
+}
