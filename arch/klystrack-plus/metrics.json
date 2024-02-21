@@ -1,0 +1,17 @@
+{
+  "name": "klystrack-plus",
+  "version": "0.10.0.alpha2-1",
+  "depends": [
+    "glibc",
+    "alsa-lib",
+    "sdl2",
+    "sdl2_image",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199961950,
+  "transmit": 586657,
+  "disk": 11962836
+}
