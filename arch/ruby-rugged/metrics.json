@@ -1,0 +1,15 @@
+{
+  "name": "ruby-rugged",
+  "version": "1.7.2-1",
+  "depends": [
+    "glibc",
+    "ruby"
+  ],
+  "makedepends": [
+    "libgit2",
+    "ruby-rdoc"
+  ],
+  "receive": 199528496,
+  "transmit": 263306,
+  "disk": 42789820
+}
