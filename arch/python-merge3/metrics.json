@@ -1,0 +1,17 @@
+{
+  "name": "python-merge3",
+  "version": "0.0.14-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199663714,
+  "transmit": 418924,
+  "disk": 1116935
+}
