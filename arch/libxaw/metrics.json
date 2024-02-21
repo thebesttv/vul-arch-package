@@ -1,0 +1,14 @@
+{
+  "name": "libxaw",
+  "version": "1.0.15-1",
+  "depends": [
+    "libxmu",
+    "libxpm"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199617512,
+  "transmit": 370224,
+  "disk": 5013387
+}
