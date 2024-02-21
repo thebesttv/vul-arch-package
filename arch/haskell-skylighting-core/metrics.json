@@ -1,0 +1,28 @@
+{
+  "name": "haskell-skylighting-core",
+  "version": "0.14-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-base64-bytestring",
+    "haskell-case-insensitive",
+    "haskell-colour",
+    "haskell-safe",
+    "haskell-utf8-string",
+    "haskell-xml-conduit"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-diff",
+    "haskell-pretty-show",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 200128447,
+  "transmit": 384267,
+  "disk": 7301076
+}
