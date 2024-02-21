@@ -1,0 +1,14 @@
+{
+  "name": "draco",
+  "version": "1.5.6-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 251071098,
+  "transmit": 1200744,
+  "disk": 145503134
+}
