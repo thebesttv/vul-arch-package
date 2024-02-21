@@ -1,0 +1,30 @@
+{
+  "name": "lxqt-config",
+  "version": "1.4.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "qt5-base",
+    "qt5-svg",
+    "qt5-x11extras",
+    "libkscreen",
+    "libQt5Xdg.so",
+    "liblxqt",
+    "lxqt-themes",
+    "lxqt-menu-data",
+    "libx11",
+    "libxcb",
+    "libxcursor",
+    "libxfixes",
+    "libxi",
+    "xf86-input-libinput",
+    "libudev.so",
+    "zlib"
+  ],
+  "makedepends": [
+    "lxqt-build-tools"
+  ],
+  "receive": 199625456,
+  "transmit": 346576,
+  "disk": 4283313
+}
