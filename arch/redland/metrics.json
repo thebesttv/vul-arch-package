@@ -1,0 +1,16 @@
+{
+  "name": "redland",
+  "version": "1:1.0.17-8",
+  "depends": [],
+  "makedepends": [
+    "rasqal",
+    "raptor",
+    "postgresql-libs",
+    "mariadb-libs",
+    "unixodbc",
+    "sqlite"
+  ],
+  "receive": 199584665,
+  "transmit": 316105,
+  "disk": 9891617
+}
