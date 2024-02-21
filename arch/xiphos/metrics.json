@@ -1,0 +1,30 @@
+{
+  "name": "xiphos",
+  "version": "4.2.1-12",
+  "depends": [
+    "biblesync",
+    "dbus-glib",
+    "icu",
+    "libbiblesync.so",
+    "libicui18n.so",
+    "minizip",
+    "sword>=1.9.0",
+    "webkit2gtk"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "cmake",
+    "docbook-utils",
+    "gnome-common",
+    "gtkmm",
+    "intltool",
+    "libffi",
+    "libxml2",
+    "python",
+    "zlib",
+    "zip"
+  ],
+  "receive": 221500436,
+  "transmit": 434536,
+  "disk": 94819913
+}
