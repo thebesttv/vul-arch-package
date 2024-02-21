@@ -1,0 +1,14 @@
+{
+  "name": "deepin-screensaver-pp",
+  "version": "0.0.4-2",
+  "depends": [
+    "deepin-screensaver"
+  ],
+  "makedepends": [
+    "qt5-tools",
+    "python"
+  ],
+  "receive": 201000245,
+  "transmit": 1222039,
+  "disk": 672014
+}
