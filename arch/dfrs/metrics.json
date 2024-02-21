@@ -1,0 +1,15 @@
+{
+  "name": "dfrs",
+  "version": "0.0.7-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "scdoc"
+  ],
+  "receive": 199590966,
+  "transmit": 341994,
+  "disk": 217010
+}
