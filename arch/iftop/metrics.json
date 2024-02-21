@@ -1,0 +1,12 @@
+{
+  "name": "iftop",
+  "version": "1.0pre4-5",
+  "depends": [
+    "libpcap",
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199760485,
+  "transmit": 397824,
+  "disk": 1043114
+}
