@@ -1,0 +1,11 @@
+{
+  "name": "libwslay",
+  "version": "1.1.1-5",
+  "depends": [],
+  "makedepends": [
+    "python-sphinx"
+  ],
+  "receive": 199510476,
+  "transmit": 274498,
+  "disk": 2458512
+}
