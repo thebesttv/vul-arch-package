@@ -1,0 +1,11 @@
+{
+  "name": "libspnav",
+  "version": "1.1-1",
+  "depends": [
+    "libx11"
+  ],
+  "makedepends": [],
+  "receive": 199545629,
+  "transmit": 286773,
+  "disk": 267946
+}
