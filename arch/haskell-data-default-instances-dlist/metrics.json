@@ -1,0 +1,15 @@
+{
+  "name": "haskell-data-default-instances-dlist",
+  "version": "0.0.1-313",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default-class",
+    "haskell-dlist"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199579079,
+  "transmit": 373837,
+  "disk": 345660
+}
