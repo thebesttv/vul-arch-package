@@ -1,0 +1,13 @@
+{
+  "name": "libltc",
+  "version": "1.3.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199662260,
+  "transmit": 438392,
+  "disk": 2294971
+}
