@@ -1,0 +1,14 @@
+{
+  "name": "perl-statistics-descriptive",
+  "version": "3.0801-1",
+  "depends": [
+    "perl>=5.6",
+    "perl-list-moreutils"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199575950,
+  "transmit": 342066,
+  "disk": 434915
+}
