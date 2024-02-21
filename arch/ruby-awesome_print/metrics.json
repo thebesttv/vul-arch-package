@@ -1,0 +1,16 @@
+{
+  "name": "ruby-awesome_print",
+  "version": "1.9.2-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rspec",
+    "ruby-fakefs",
+    "ruby-sqlite3",
+    "ruby-nokogiri"
+  ],
+  "receive": 199532841,
+  "transmit": 289294,
+  "disk": 495094
+}
