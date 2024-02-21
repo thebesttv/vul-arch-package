@@ -1,0 +1,24 @@
+{
+  "name": "workrave",
+  "version": "1.10.52-3",
+  "depends": [
+    "gstreamer",
+    "gtkmm3",
+    "libsm",
+    "libxss"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "boost",
+    "intltool",
+    "gobject-introspection",
+    "libpulse",
+    "python-jinja",
+    "gnome-panel",
+    "mate-panel",
+    "xfce4-panel"
+  ],
+  "receive": 199478368,
+  "transmit": 221154,
+  "disk": 33445506
+}
