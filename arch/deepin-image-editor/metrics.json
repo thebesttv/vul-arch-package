@@ -1,0 +1,25 @@
+{
+  "name": "deepin-image-editor",
+  "version": "1.0.41-1",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "qt5-svg",
+    "libtiff",
+    "ffmpegthumbnailer",
+    "freeimage",
+    "libmediainfo",
+    "gcc-libs",
+    "deepin-util-dfm"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199524200,
+  "transmit": 276212,
+  "disk": 30382552
+}
