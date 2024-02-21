@@ -1,0 +1,19 @@
+{
+  "name": "dmenu",
+  "version": "5.2-1",
+  "depends": [
+    "sh",
+    "glibc",
+    "coreutils",
+    "libx11",
+    "libxinerama",
+    "libxft",
+    "freetype2",
+    "fontconfig",
+    "libfontconfig.so"
+  ],
+  "makedepends": [],
+  "receive": 199662144,
+  "transmit": 435181,
+  "disk": 169144
+}
