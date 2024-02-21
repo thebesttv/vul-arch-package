@@ -1,0 +1,15 @@
+{
+  "name": "pam_mount",
+  "version": "2.20-1",
+  "depends": [
+    "pcre2",
+    "util-linux",
+    "libhx",
+    "libxml2",
+    "cryptsetup"
+  ],
+  "makedepends": [],
+  "receive": 199702691,
+  "transmit": 377146,
+  "disk": 2344490
+}
