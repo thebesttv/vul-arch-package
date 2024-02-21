@@ -1,0 +1,21 @@
+{
+  "name": "cockatrice",
+  "version": "2.9.0-2",
+  "depends": [
+    "qt5-base",
+    "protobuf",
+    "qt5-tools",
+    "qt5-svg",
+    "qt5-multimedia",
+    "qt5-websockets"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "zlib",
+    "mariadb-libs"
+  ],
+  "receive": 199851171,
+  "transmit": 452180,
+  "disk": 95393351
+}
