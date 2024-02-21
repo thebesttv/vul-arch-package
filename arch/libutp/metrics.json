@@ -1,0 +1,12 @@
+{
+  "name": "libutp",
+  "version": "r99.fda9f4b-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 199555392,
+  "transmit": 308246,
+  "disk": 1002079
+}
