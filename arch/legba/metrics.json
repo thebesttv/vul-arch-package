@@ -1,0 +1,17 @@
+{
+  "name": "legba",
+  "version": "0.8.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libssl.so",
+    "smbclient"
+  ],
+  "makedepends": [
+    "cargo",
+    "cmake"
+  ],
+  "receive": 199486402,
+  "transmit": 266056,
+  "disk": 4420323
+}
