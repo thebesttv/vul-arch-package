@@ -1,0 +1,21 @@
+{
+  "name": "pdfpc",
+  "version": "4.6.0-2",
+  "depends": [
+    "gtk3",
+    "poppler-glib",
+    "libgee",
+    "gstreamer",
+    "gst-plugins-base",
+    "webkit2gtk",
+    "libsoup",
+    "qrencode"
+  ],
+  "makedepends": [
+    "cmake",
+    "vala"
+  ],
+  "receive": 199600546,
+  "transmit": 340233,
+  "disk": 16887151
+}
