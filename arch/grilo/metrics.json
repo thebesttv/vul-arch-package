@@ -1,0 +1,21 @@
+{
+  "name": "grilo",
+  "version": "0.3.16-1",
+  "depends": [
+    "liboauth",
+    "libsoup3",
+    "libxml2",
+    "totem-pl-parser"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "gtk3",
+    "meson",
+    "vala"
+  ],
+  "receive": 199800590,
+  "transmit": 495773,
+  "disk": 4940743
+}
