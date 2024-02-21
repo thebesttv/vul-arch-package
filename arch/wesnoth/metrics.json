@@ -1,0 +1,20 @@
+{
+  "name": "wesnoth",
+  "version": "1:1.16.11-1",
+  "depends": [
+    "sdl2_mixer",
+    "sdl2_image",
+    "boost-libs",
+    "pango",
+    "dbus"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 4862540622,
+  "transmit": 2254986,
+  "disk": 5452977412
+}
