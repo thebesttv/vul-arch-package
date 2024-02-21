@@ -1,0 +1,12 @@
+{
+  "name": "tar",
+  "version": "1.35-2",
+  "depends": [
+    "glibc",
+    "acl"
+  ],
+  "makedepends": [],
+  "receive": 202155174,
+  "transmit": 469993,
+  "disk": 22464776
+}
