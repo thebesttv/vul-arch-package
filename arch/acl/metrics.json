@@ -1,0 +1,13 @@
+{
+  "name": "acl",
+  "version": "2.3.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "attr"
+  ],
+  "receive": 200270247,
+  "transmit": 421436,
+  "disk": 3261173
+}
