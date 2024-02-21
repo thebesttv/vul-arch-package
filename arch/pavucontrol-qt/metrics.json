@@ -1,0 +1,14 @@
+{
+  "name": "pavucontrol-qt",
+  "version": "1.4.0-2",
+  "depends": [
+    "pulse-native-provider",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "lxqt-build-tools"
+  ],
+  "receive": 199621812,
+  "transmit": 389197,
+  "disk": 2090630
+}
