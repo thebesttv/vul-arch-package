@@ -1,0 +1,11 @@
+{
+  "name": "perl-io-bufferedselect",
+  "version": "1.0-12",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199530991,
+  "transmit": 271894,
+  "disk": 121286
+}
