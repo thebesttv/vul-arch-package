@@ -1,0 +1,28 @@
+{
+  "name": "cinnamon-settings-daemon",
+  "version": "6.0.0-2",
+  "depends": [
+    "cinnamon-desktop",
+    "colord",
+    "dbus-glib",
+    "libcanberra-pulse",
+    "libcups",
+    "libgnomekbd",
+    "libgudev",
+    "libnotify",
+    "librsvg",
+    "libwacom",
+    "nss",
+    "polkit",
+    "pulse-native-provider",
+    "upower"
+  ],
+  "makedepends": [
+    "meson",
+    "samurai",
+    "xf86-input-wacom"
+  ],
+  "receive": 199655149,
+  "transmit": 397766,
+  "disk": 3735597
+}
