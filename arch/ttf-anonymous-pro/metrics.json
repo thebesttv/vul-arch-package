@@ -1,0 +1,11 @@
+{
+  "name": "ttf-anonymous-pro",
+  "version": "1.003-7",
+  "depends": [
+    "xorg-fonts-encodings"
+  ],
+  "makedepends": [],
+  "receive": 199599736,
+  "transmit": 371674,
+  "disk": 1749379
+}
