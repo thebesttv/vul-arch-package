@@ -1,0 +1,18 @@
+{
+  "name": "amule",
+  "version": "1:2.3.3-7",
+  "depends": [
+    "wxwidgets-gtk3",
+    "geoip",
+    "libupnp",
+    "crypto++"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "gd"
+  ],
+  "receive": 205852038,
+  "transmit": 388808,
+  "disk": 29433897
+}
