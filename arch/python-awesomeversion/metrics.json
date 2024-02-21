@@ -1,0 +1,15 @@
+{
+  "name": "python-awesomeversion",
+  "version": "24.2.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199554491,
+  "transmit": 267312,
+  "disk": 408552
+}
