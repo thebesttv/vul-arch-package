@@ -1,0 +1,27 @@
+{
+  "name": "rizin",
+  "version": "0.6.3-3",
+  "depends": [
+    "glibc",
+    "sh",
+    "openssl",
+    "zlib",
+    "lz4",
+    "xz"
+  ],
+  "makedepends": [
+    "capstone",
+    "file",
+    "libmspack",
+    "libzip",
+    "meson",
+    "ninja",
+    "python",
+    "python-yaml",
+    "tree-sitter",
+    "xxhash"
+  ],
+  "receive": 215105634,
+  "transmit": 345785,
+  "disk": 155471706
+}
