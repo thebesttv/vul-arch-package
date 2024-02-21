@@ -1,0 +1,11 @@
+{
+  "name": "toolame",
+  "version": "02l-14",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199711365,
+  "transmit": 387804,
+  "disk": 727579
+}
