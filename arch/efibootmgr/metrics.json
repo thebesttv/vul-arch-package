@@ -1,0 +1,15 @@
+{
+  "name": "efibootmgr",
+  "version": "18-2",
+  "depends": [
+    "glibc",
+    "popt"
+  ],
+  "makedepends": [
+    "efivar",
+    "git"
+  ],
+  "receive": 199505458,
+  "transmit": 263584,
+  "disk": 1298021
+}
