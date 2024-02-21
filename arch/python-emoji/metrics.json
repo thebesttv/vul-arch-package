@@ -1,0 +1,13 @@
+{
+  "name": "python-emoji",
+  "version": "2.10.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199692353,
+  "transmit": 405579,
+  "disk": 3777526
+}
