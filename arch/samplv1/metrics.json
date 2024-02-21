@@ -1,0 +1,20 @@
+{
+  "name": "samplv1",
+  "version": "0.9.34-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "hicolor-icon-theme",
+    "jack",
+    "liblo",
+    "libsndfile",
+    "lv2",
+    "qt6-base",
+    "qt6-svg",
+    "qt6-tools"
+  ],
+  "receive": 199571551,
+  "transmit": 285785,
+  "disk": 1632176
+}
