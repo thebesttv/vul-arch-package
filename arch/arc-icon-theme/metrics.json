@@ -1,0 +1,12 @@
+{
+  "name": "arc-icon-theme",
+  "version": "20161122-3",
+  "depends": [
+    "gtk-update-icon-cache",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [],
+  "receive": 204772767,
+  "transmit": 357116,
+  "disk": 22292117
+}
