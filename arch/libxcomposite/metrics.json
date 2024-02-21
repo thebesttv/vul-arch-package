@@ -1,0 +1,14 @@
+{
+  "name": "libxcomposite",
+  "version": "0.4.6-1",
+  "depends": [
+    "libxfixes"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199601865,
+  "transmit": 333781,
+  "disk": 2143907
+}
