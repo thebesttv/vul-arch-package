@@ -1,0 +1,14 @@
+{
+  "name": "libquvi-scripts",
+  "version": "0.9.20131130-5",
+  "depends": [
+    "lua52-socket",
+    "lua52-bitop",
+    "lua52-expat",
+    "lua52-luajson"
+  ],
+  "makedepends": [],
+  "receive": 200015962,
+  "transmit": 414633,
+  "disk": 2736683
+}
