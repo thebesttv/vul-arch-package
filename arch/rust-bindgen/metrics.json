@@ -1,0 +1,14 @@
+{
+  "name": "rust-bindgen",
+  "version": "0.69.4-1",
+  "depends": [
+    "gcc-libs",
+    "clang"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199941233,
+  "transmit": 490305,
+  "disk": 11809942
+}
