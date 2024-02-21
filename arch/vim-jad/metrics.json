@@ -1,0 +1,12 @@
+{
+  "name": "vim-jad",
+  "version": "1.3_1329-5",
+  "depends": [
+    "vim-plugin-runtime",
+    "jad"
+  ],
+  "makedepends": [],
+  "receive": 199608608,
+  "transmit": 369066,
+  "disk": 94404
+}
