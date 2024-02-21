@@ -1,0 +1,19 @@
+{
+  "name": "libhandy",
+  "version": "1.8.3-1",
+  "depends": [
+    "glib2",
+    "gtk3"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "glade",
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199771948,
+  "transmit": 389346,
+  "disk": 8322535
+}
