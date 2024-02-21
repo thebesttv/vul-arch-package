@@ -1,0 +1,12 @@
+{
+  "name": "lib32-sdl2_ttf",
+  "version": "2.22.0-1",
+  "depends": [
+    "lib32-sdl2",
+    "lib32-freetype2"
+  ],
+  "makedepends": [],
+  "receive": 214236328,
+  "transmit": 561468,
+  "disk": 58829090
+}
