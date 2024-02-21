@@ -1,0 +1,14 @@
+{
+  "name": "lib32-lz4",
+  "version": "1.9.4-1",
+  "depends": [
+    "lz4",
+    "lib32-glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199715605,
+  "transmit": 462709,
+  "disk": 10426124
+}
