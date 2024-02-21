@@ -1,0 +1,12 @@
+{
+  "name": "perl-extutils-installpaths",
+  "version": "0.012-7",
+  "depends": [
+    "perl",
+    "perl-extutils-config"
+  ],
+  "makedepends": [],
+  "receive": 199529243,
+  "transmit": 251044,
+  "disk": 191927
+}
