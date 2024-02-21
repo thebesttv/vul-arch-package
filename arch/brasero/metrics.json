@@ -1,0 +1,34 @@
+{
+  "name": "brasero",
+  "version": "3.12.3+r24+gd01ba738-1",
+  "depends": [
+    "gtk3",
+    "gst-plugins-good",
+    "totem-plparser",
+    "cdrtools",
+    "cdrdao",
+    "shared-mime-info",
+    "libcanberra",
+    "dvd+rw-tools",
+    "dconf",
+    "libsm",
+    "libnotify",
+    "gvfs",
+    "tracker3"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "yelp-tools",
+    "gnome-common",
+    "intltool",
+    "libburn",
+    "libisofs",
+    "gobject-introspection",
+    "itstool",
+    "docbook-xsl",
+    "git"
+  ],
+  "receive": 226741689,
+  "transmit": 296309,
+  "disk": 55965500
+}
