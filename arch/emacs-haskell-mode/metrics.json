@@ -1,0 +1,11 @@
+{
+  "name": "emacs-haskell-mode",
+  "version": "17.4-1",
+  "depends": [],
+  "makedepends": [
+    "emacs"
+  ],
+  "receive": 199525832,
+  "transmit": 278802,
+  "disk": 3507409
+}
