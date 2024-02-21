@@ -1,0 +1,13 @@
+{
+  "name": "jack_delay",
+  "version": "0.4.2-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "jack"
+  ],
+  "makedepends": [],
+  "receive": 199614578,
+  "transmit": 364603,
+  "disk": 136552
+}
