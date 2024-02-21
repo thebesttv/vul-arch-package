@@ -1,0 +1,14 @@
+{
+  "name": "tolua++",
+  "version": "1.0.93-4",
+  "depends": [
+    "lua51"
+  ],
+  "makedepends": [
+    "cmake",
+    "git"
+  ],
+  "receive": 199541610,
+  "transmit": 270498,
+  "disk": 2187418
+}
