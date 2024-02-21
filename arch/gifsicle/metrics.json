@@ -1,0 +1,11 @@
+{
+  "name": "gifsicle",
+  "version": "1.94-1",
+  "depends": [
+    "libx11"
+  ],
+  "makedepends": [],
+  "receive": 199616900,
+  "transmit": 390696,
+  "disk": 2222790
+}
