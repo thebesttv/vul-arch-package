@@ -1,0 +1,14 @@
+{
+  "name": "haskell-ghc-parser",
+  "version": "0.2.5.0-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199667702,
+  "transmit": 427122,
+  "disk": 254592
+}
