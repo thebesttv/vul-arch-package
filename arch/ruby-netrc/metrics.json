@@ -1,0 +1,13 @@
+{
+  "name": "ruby-netrc",
+  "version": "0.11.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-minitest"
+  ],
+  "receive": 199593031,
+  "transmit": 369046,
+  "disk": 134715
+}
