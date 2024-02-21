@@ -1,0 +1,14 @@
+{
+  "name": "python-webob",
+  "version": "1.8.7-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 199921522,
+  "transmit": 355772,
+  "disk": 1820544
+}
