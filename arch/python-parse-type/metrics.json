@@ -1,0 +1,17 @@
+{
+  "name": "python-parse-type",
+  "version": "0.6.2-1",
+  "depends": [
+    "python-parse",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199518755,
+  "transmit": 284465,
+  "disk": 504055
+}
