@@ -1,0 +1,16 @@
+{
+  "name": "irker",
+  "version": "2.24-1",
+  "depends": [
+    "python",
+    "python-pysocks"
+  ],
+  "makedepends": [
+    "docbook-xml",
+    "docbook-xsl",
+    "xmlto"
+  ],
+  "receive": 199487836,
+  "transmit": 263235,
+  "disk": 310012
+}
