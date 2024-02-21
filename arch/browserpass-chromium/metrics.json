@@ -1,0 +1,11 @@
+{
+  "name": "browserpass-chromium",
+  "version": "3.8.0-1",
+  "depends": [
+    "browserpass"
+  ],
+  "makedepends": [],
+  "receive": 199674354,
+  "transmit": 373641,
+  "disk": 1339877
+}
