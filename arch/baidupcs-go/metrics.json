@@ -1,0 +1,14 @@
+{
+  "name": "baidupcs-go",
+  "version": "3.9.3-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199487790,
+  "transmit": 237486,
+  "disk": 1724597
+}
