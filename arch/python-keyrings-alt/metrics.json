@@ -1,0 +1,18 @@
+{
+  "name": "python-keyrings-alt",
+  "version": "1:5.0.0-1",
+  "depends": [
+    "python-keyring",
+    "python-pycryptodomex"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199642379,
+  "transmit": 382573,
+  "disk": 965450
+}
