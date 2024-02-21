@@ -1,0 +1,19 @@
+{
+  "name": "intel-media-sdk",
+  "version": "23.2.2-2",
+  "depends": [],
+  "makedepends": [
+    "libdrm",
+    "libva",
+    "wayland",
+    "intel-media-driver",
+    "cmake",
+    "libpciaccess",
+    "libx11",
+    "libxcb",
+    "python"
+  ],
+  "receive": 222947672,
+  "transmit": 626826,
+  "disk": 120019010
+}
