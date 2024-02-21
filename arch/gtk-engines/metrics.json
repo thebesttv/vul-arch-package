@@ -1,0 +1,16 @@
+{
+  "name": "gtk-engines",
+  "version": "2.21.0-5",
+  "depends": [
+    "gtk2>=2.24.0"
+  ],
+  "makedepends": [
+    "pkg-config",
+    "intltool",
+    "gnome-common",
+    "git"
+  ],
+  "receive": 199536449,
+  "transmit": 304220,
+  "disk": 6001817
+}
