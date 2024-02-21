@@ -1,0 +1,16 @@
+{
+  "name": "python-rsa",
+  "version": "4.9-3",
+  "depends": [
+    "python-pyasn1"
+  ],
+  "makedepends": [
+    "python-poetry",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199617212,
+  "transmit": 361368,
+  "disk": 254483
+}
