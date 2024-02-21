@@ -1,0 +1,15 @@
+{
+  "name": "sysbench",
+  "version": "1.0.20-1",
+  "depends": [
+    "luajit",
+    "mariadb-libs",
+    "postgresql-libs"
+  ],
+  "makedepends": [
+    "libxslt"
+  ],
+  "receive": 199510142,
+  "transmit": 280024,
+  "disk": 9179409
+}
