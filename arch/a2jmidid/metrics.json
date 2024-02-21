@@ -1,0 +1,16 @@
+{
+  "name": "a2jmidid",
+  "version": "9-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "dbus",
+    "jack",
+    "meson"
+  ],
+  "receive": 199602805,
+  "transmit": 370014,
+  "disk": 367001
+}
