@@ -1,0 +1,12 @@
+{
+  "name": "cargo-run-bin",
+  "version": "1.7.2-2",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199647806,
+  "transmit": 416544,
+  "disk": 368884
+}
