@@ -1,0 +1,15 @@
+{
+  "name": "json-c",
+  "version": "0.17-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199528474,
+  "transmit": 251395,
+  "disk": 7095813
+}
