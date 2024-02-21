@@ -1,0 +1,13 @@
+{
+  "name": "check-sieve",
+  "version": "0.9-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199609158,
+  "transmit": 362908,
+  "disk": 1546973
+}
