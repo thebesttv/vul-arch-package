@@ -1,0 +1,13 @@
+{
+  "name": "nanomsg",
+  "version": "1.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199749488,
+  "transmit": 421209,
+  "disk": 2357729
+}
