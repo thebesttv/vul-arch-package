@@ -1,0 +1,15 @@
+{
+  "name": "talloc",
+  "version": "2.4.1-1",
+  "depends": [
+    "glibc",
+    "libxcrypt"
+  ],
+  "makedepends": [
+    "python",
+    "docbook-xsl"
+  ],
+  "receive": 199696938,
+  "transmit": 412487,
+  "disk": 3429251
+}
