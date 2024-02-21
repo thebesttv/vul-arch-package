@@ -1,0 +1,15 @@
+{
+  "name": "inxi",
+  "version": "3.3.33.1-1",
+  "depends": [
+    "coreutils",
+    "pciutils",
+    "perl",
+    "procps-ng",
+    "util-linux"
+  ],
+  "makedepends": [],
+  "receive": 199487524,
+  "transmit": 262784,
+  "disk": 3225673
+}
