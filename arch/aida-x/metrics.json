@@ -1,0 +1,17 @@
+{
+  "name": "aida-x",
+  "version": "1.1.0-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "dbus",
+    "libglvnd",
+    "libx11",
+    "libxext",
+    "python"
+  ],
+  "receive": 199560261,
+  "transmit": 340085,
+  "disk": 72217139
+}
