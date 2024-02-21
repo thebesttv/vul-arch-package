@@ -1,0 +1,19 @@
+{
+  "name": "python-zope-security",
+  "version": "6.2-1",
+  "depends": [
+    "python-setuptools",
+    "python-zope-component",
+    "python-zope-i18nmessageid",
+    "python-zope-interface",
+    "python-zope-location",
+    "python-zope-proxy",
+    "python-zope-schema"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199539194,
+  "transmit": 274353,
+  "disk": 2108795
+}
