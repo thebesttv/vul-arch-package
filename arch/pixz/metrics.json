@@ -1,0 +1,13 @@
+{
+  "name": "pixz",
+  "version": "1.0.7-4",
+  "depends": [
+    "libarchive"
+  ],
+  "makedepends": [
+    "asciidoc"
+  ],
+  "receive": 199699446,
+  "transmit": 434875,
+  "disk": 875342
+}
