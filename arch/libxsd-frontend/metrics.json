@@ -1,0 +1,16 @@
+{
+  "name": "libxsd-frontend",
+  "version": "2.1.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libcutl",
+    "xerces-c"
+  ],
+  "makedepends": [
+    "build2"
+  ],
+  "receive": 199763236,
+  "transmit": 419464,
+  "disk": 676860
+}
