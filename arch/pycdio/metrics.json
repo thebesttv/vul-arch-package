@@ -1,0 +1,15 @@
+{
+  "name": "pycdio",
+  "version": "2.1.1-4",
+  "depends": [
+    "python",
+    "libcdio"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "swig"
+  ],
+  "receive": 199549930,
+  "transmit": 312441,
+  "disk": 3134974
+}
