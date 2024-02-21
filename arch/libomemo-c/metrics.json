@@ -1,0 +1,13 @@
+{
+  "name": "libomemo-c",
+  "version": "0.5.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199578471,
+  "transmit": 310440,
+  "disk": 1984096
+}
