@@ -1,0 +1,13 @@
+{
+  "name": "ruby-faraday-em_synchrony",
+  "version": "1.0.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rspec"
+  ],
+  "receive": 200018792,
+  "transmit": 732158,
+  "disk": 163171
+}
