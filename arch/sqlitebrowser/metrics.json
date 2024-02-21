@@ -1,0 +1,23 @@
+{
+  "name": "sqlitebrowser",
+  "version": "3.12.2-3",
+  "depends": [
+    "qt5-base",
+    "hicolor-icon-theme",
+    "sqlcipher",
+    "qcustomplot",
+    "qhexedit2",
+    "qscintilla-qt5",
+    "libqcustomplot.so",
+    "libqhexedit.so"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 234269705,
+  "transmit": 702921,
+  "disk": 52160706
+}
