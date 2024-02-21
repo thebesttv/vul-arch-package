@@ -1,0 +1,17 @@
+{
+  "name": "python-anytree",
+  "version": "2.12.1-1",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel",
+    "git"
+  ],
+  "receive": 199579174,
+  "transmit": 295434,
+  "disk": 1681772
+}
