@@ -1,0 +1,14 @@
+{
+  "name": "cl-lift",
+  "version": "1.7.1.r47.ge08e84e-3",
+  "depends": [
+    "common-lisp",
+    "cl-asdf"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199549692,
+  "transmit": 299920,
+  "disk": 4810984
+}
