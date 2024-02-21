@@ -1,0 +1,15 @@
+{
+  "name": "perl-data-section",
+  "version": "0.200008-2",
+  "depends": [
+    "perl>=5.12",
+    "perl-mro-compat>=0.09",
+    "perl-sub-exporter>=0.979"
+  ],
+  "makedepends": [
+    "perl-extutils-makemaker>=6.78"
+  ],
+  "receive": 199663507,
+  "transmit": 417994,
+  "disk": 239470
+}
