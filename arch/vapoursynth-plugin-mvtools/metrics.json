@@ -1,0 +1,16 @@
+{
+  "name": "vapoursynth-plugin-mvtools",
+  "version": "23-2",
+  "depends": [
+    "fftw",
+    "vapoursynth"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "nasm"
+  ],
+  "receive": 199711158,
+  "transmit": 417024,
+  "disk": 3082643
+}
