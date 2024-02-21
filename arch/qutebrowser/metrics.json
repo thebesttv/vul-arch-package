@@ -1,0 +1,18 @@
+{
+  "name": "qutebrowser",
+  "version": "3.1.0-1",
+  "depends": [
+    "python-jinja",
+    "python-pyqt6",
+    "python-yaml",
+    "qt6-base",
+    "python-pyqt6-webengine"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "python-setuptools"
+  ],
+  "receive": 199523429,
+  "transmit": 303698,
+  "disk": 24214636
+}
