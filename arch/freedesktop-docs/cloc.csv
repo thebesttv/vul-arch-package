@@ -1,0 +1,72 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=1.05 s (760.1 files/s 490888.8 lines/s)"
+78,PO File,60918,65732,122845
+222,C,25641,26493,109863
+63,XML,1977,135,39028
+12,m4,1444,223,10862
+126,C/C++ Header,1748,4379,7454
+6,JavaScript,1275,867,4813
+20,Meson,409,494,2722
+32,CMake,537,675,2611
+46,Bourne Shell,566,764,2414
+12,HTML,109,29,2251
+25,make,394,90,1960
+21,Text,579,0,1738
+22,Python,545,329,1724
+7,XSLT,180,125,1408
+5,CSS,211,57,1027
+6,SVG,1,4,942
+13,Markdown,198,0,469
+5,YAML,56,71,441
+1,Qt,0,0,266
+4,C++,71,25,224
+2,Bourne Again Shell,27,8,204
+3,DTD,34,9,148
+4,Perl,37,43,122
+5,JSON,5,0,92
+2,INI,22,0,91
+1,D,13,17,65
+1,PowerShell,6,9,45
+1,Dockerfile,9,18,38
+2,MATLAB,2,1,36
+1,reStructuredText,28,5,35
+1,COBOL,5,0,20
+1,Godot Scene,6,0,18
+1,TOML,6,1,16
+3,Verilog-SystemVerilog,10,2,16
+1,DOS Batch,3,0,15
+1,C#,3,0,13
+1,CoffeeScript,7,8,13
+1,Cython,4,0,13
+1,OpenCL,4,7,13
+1,Vala,3,0,13
+3,Objective-C++,2,0,12
+1,Sass,4,0,12
+1,XHTML,2,0,12
+1,SCSS,1,0,11
+1,TypeScript,0,0,11
+1,Gradle,3,0,10
+1,Godot Resource,2,0,9
+1,PHP,0,0,8
+1,RAML,0,1,8
+1,Scheme,4,3,8
+1,Java,0,0,7
+1,Twig,0,0,7
+1,Godot Shaders,1,1,6
+2,Objective-C,2,6,6
+1,Groovy,0,0,5
+2,QML,0,0,5
+1,Scala,0,0,5
+1,Cucumber,0,0,4
+1,Glade,2,0,4
+1,Go,1,0,4
+2,TeX,3,2,4
+1,Dart,0,0,3
+1,GDScript,6,7,3
+1,Kotlin,0,0,3
+1,Rust,0,0,3
+1,Crystal,0,0,1
+1,Julia,0,0,1
+1,Visual Basic Script,0,0,1
+1,Windows Resource File,0,0,1
+2,Jupyter Notebook,0,68,0
+796,SUM,97126,100708,316262
