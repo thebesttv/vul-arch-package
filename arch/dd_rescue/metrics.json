@@ -1,0 +1,11 @@
+{
+  "name": "dd_rescue",
+  "version": "1.99.13-2",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 201075665,
+  "transmit": 1472120,
+  "disk": 1200672
+}
