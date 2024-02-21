@@ -1,0 +1,19 @@
+{
+  "name": "ibus-typing-booster",
+  "version": "2.25.1-1",
+  "depends": [
+    "ibus",
+    "m17n-lib",
+    "python-dbus",
+    "python-gobject",
+    "python-pyenchant",
+    "sqlite"
+  ],
+  "makedepends": [
+    "git",
+    "python-pygame"
+  ],
+  "receive": 360105252,
+  "transmit": 751008,
+  "disk": 284913216
+}
