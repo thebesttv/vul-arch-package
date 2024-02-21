@@ -1,0 +1,17 @@
+{
+  "name": "libxrandr",
+  "version": "1.5.4-1",
+  "depends": [
+    "libxext",
+    "libxrender",
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199762658,
+  "transmit": 275072,
+  "disk": 2293426
+}
