@@ -1,0 +1,20 @@
+{
+  "name": "python-pem",
+  "version": "23.1.0-2",
+  "depends": [
+    "python",
+    "python-pyopenssl",
+    "python-twisted"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-hatch-fancy-pypi-readme",
+    "python-hatch-vcs",
+    "python-hatchling"
+  ],
+  "receive": 199594914,
+  "transmit": 350488,
+  "disk": 294569
+}
