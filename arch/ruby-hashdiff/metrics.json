@@ -1,0 +1,14 @@
+{
+  "name": "ruby-hashdiff",
+  "version": "1.1.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199547461,
+  "transmit": 316523,
+  "disk": 199128
+}
