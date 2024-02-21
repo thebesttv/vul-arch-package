@@ -1,0 +1,15 @@
+{
+  "name": "python-sphinxext-opengraph",
+  "version": "0.9.1-1",
+  "depends": [
+    "python-sphinx",
+    "python-matplotlib"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-setuptools-scm"
+  ],
+  "receive": 199511945,
+  "transmit": 262612,
+  "disk": 3194332
+}
