@@ -1,0 +1,13 @@
+{
+  "name": "xmlto",
+  "version": "0.0.28-4",
+  "depends": [
+    "libxslt"
+  ],
+  "makedepends": [
+    "docbook-xsl"
+  ],
+  "receive": 199479132,
+  "transmit": 252784,
+  "disk": 847459
+}
