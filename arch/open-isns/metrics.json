@@ -1,0 +1,13 @@
+{
+  "name": "open-isns",
+  "version": "0.102-3",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199568282,
+  "transmit": 344956,
+  "disk": 1964423
+}
