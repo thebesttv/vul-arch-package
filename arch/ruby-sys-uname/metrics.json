@@ -1,0 +1,14 @@
+{
+  "name": "ruby-sys-uname",
+  "version": "1.2.3-1",
+  "depends": [
+    "ruby-ffi"
+  ],
+  "makedepends": [
+    "ruby-rspec",
+    "ruby-rake"
+  ],
+  "receive": 199676408,
+  "transmit": 458659,
+  "disk": 229642
+}
