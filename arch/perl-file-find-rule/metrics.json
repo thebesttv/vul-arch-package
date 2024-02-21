@@ -1,0 +1,12 @@
+{
+  "name": "perl-file-find-rule",
+  "version": "0.34-10",
+  "depends": [
+    "perl-number-compare",
+    "perl-text-glob>=0.07"
+  ],
+  "makedepends": [],
+  "receive": 199624563,
+  "transmit": 377565,
+  "disk": 213725
+}
