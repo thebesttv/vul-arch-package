@@ -1,0 +1,13 @@
+{
+  "name": "ruby-multi_json",
+  "version": "1.15.0-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199514056,
+  "transmit": 272232,
+  "disk": 113631
+}
