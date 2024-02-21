@@ -1,0 +1,12 @@
+{
+  "name": "logwatch",
+  "version": "7.10-1",
+  "depends": [
+    "perl",
+    "perl-html-parser"
+  ],
+  "makedepends": [],
+  "receive": 199549683,
+  "transmit": 294946,
+  "disk": 3026317
+}
