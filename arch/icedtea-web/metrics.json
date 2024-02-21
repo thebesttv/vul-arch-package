@@ -1,0 +1,20 @@
+{
+  "name": "icedtea-web",
+  "version": "1.8.8-1",
+  "depends": [],
+  "makedepends": [
+    "java-environment=8",
+    "zip",
+    "libxtst",
+    "npapi-sdk",
+    "rhino",
+    "junit",
+    "firefox",
+    "epiphany",
+    "rust",
+    "bc"
+  ],
+  "receive": 202037454,
+  "transmit": 314492,
+  "disk": 17626374
+}
