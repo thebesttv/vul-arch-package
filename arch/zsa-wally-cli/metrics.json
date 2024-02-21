@@ -1,0 +1,15 @@
+{
+  "name": "zsa-wally-cli",
+  "version": "2.0.1-5",
+  "depends": [
+    "glibc",
+    "zsa-udev"
+  ],
+  "makedepends": [
+    "go",
+    "libusb"
+  ],
+  "receive": 199500603,
+  "transmit": 272092,
+  "disk": 113705
+}
