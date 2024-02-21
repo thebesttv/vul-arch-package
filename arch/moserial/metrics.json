@@ -1,0 +1,15 @@
+{
+  "name": "moserial",
+  "version": "3.0.21-1",
+  "depends": [
+    "gsettings-desktop-schemas",
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool",
+    "itstool"
+  ],
+  "receive": 199520904,
+  "transmit": 262027,
+  "disk": 6694194
+}
