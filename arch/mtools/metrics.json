@@ -1,0 +1,15 @@
+{
+  "name": "mtools",
+  "version": "1:4.0.43-1",
+  "depends": [
+    "bash",
+    "glibc"
+  ],
+  "makedepends": [
+    "libx11",
+    "texinfo"
+  ],
+  "receive": 199600011,
+  "transmit": 311931,
+  "disk": 2523932
+}
