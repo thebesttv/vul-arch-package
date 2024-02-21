@@ -1,0 +1,22 @@
+{
+  "name": "gpsd",
+  "version": "3.25-2",
+  "depends": [
+    "python",
+    "libusb",
+    "bluez-libs",
+    "pps-tools"
+  ],
+  "makedepends": [
+    "scons",
+    "docbook-xsl",
+    "qt5-base",
+    "python-gobject",
+    "python-cairo",
+    "python-pyserial",
+    "gtk3"
+  ],
+  "receive": 205182497,
+  "transmit": 669490,
+  "disk": 38849300
+}
