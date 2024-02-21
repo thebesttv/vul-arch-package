@@ -1,0 +1,18 @@
+{
+  "name": "tomcat8",
+  "version": "8.5.98-1",
+  "depends": [
+    "java-runtime>=7",
+    "java-jsvc",
+    "java-commons-daemon",
+    "eclipse-ecj"
+  ],
+  "makedepends": [
+    "ant",
+    "git",
+    "java-environment=11"
+  ],
+  "receive": 359799624,
+  "transmit": 1960426,
+  "disk": 205872912
+}
