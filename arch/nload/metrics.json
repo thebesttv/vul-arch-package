@@ -1,0 +1,12 @@
+{
+  "name": "nload",
+  "version": "0.7.4-7",
+  "depends": [
+    "gcc-libs",
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199528766,
+  "transmit": 269418,
+  "disk": 868114
+}
