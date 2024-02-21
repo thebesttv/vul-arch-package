@@ -1,0 +1,16 @@
+{
+  "name": "kernel-hardening-checker",
+  "version": "0.6.6-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199718490,
+  "transmit": 434838,
+  "disk": 17542684
+}
