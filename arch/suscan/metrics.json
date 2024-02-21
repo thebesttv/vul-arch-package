@@ -1,0 +1,18 @@
+{
+  "name": "suscan",
+  "version": "0.3.0-1",
+  "depends": [
+    "sigutils",
+    "libsndfile",
+    "fftw",
+    "soapysdr",
+    "libxml2",
+    "libvolk"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199538148,
+  "transmit": 259645,
+  "disk": 19595398
+}
