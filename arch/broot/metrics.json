@@ -1,0 +1,16 @@
+{
+  "name": "broot",
+  "version": "1.33.1-1",
+  "depends": [
+    "gcc-libs",
+    "zlib",
+    "libgit2",
+    "libxcb"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199748295,
+  "transmit": 395280,
+  "disk": 27980244
+}
