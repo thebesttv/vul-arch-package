@@ -1,0 +1,11 @@
+{
+  "name": "siege",
+  "version": "4.1.6-1",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 200275443,
+  "transmit": 1013650,
+  "disk": 2851609
+}
