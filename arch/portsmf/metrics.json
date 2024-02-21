@@ -1,0 +1,14 @@
+{
+  "name": "portsmf",
+  "version": "234-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "subversion"
+  ],
+  "receive": 199685852,
+  "transmit": 457019,
+  "disk": 3985263
+}
