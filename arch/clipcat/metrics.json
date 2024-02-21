@@ -1,0 +1,15 @@
+{
+  "name": "clipcat",
+  "version": "0.16.4-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "libgit2",
+    "protobuf"
+  ],
+  "receive": 199608731,
+  "transmit": 382174,
+  "disk": 1576968
+}
