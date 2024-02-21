@@ -1,0 +1,12 @@
+{
+  "name": "lib32-flex",
+  "version": "2.6.4-4",
+  "depends": [
+    "flex",
+    "lib32-glibc"
+  ],
+  "makedepends": [],
+  "receive": 199557760,
+  "transmit": 258460,
+  "disk": 7741045
+}
