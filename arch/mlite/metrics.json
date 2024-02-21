@@ -1,0 +1,14 @@
+{
+  "name": "mlite",
+  "version": "0.4.1-1",
+  "depends": [
+    "qt5-base",
+    "dconf"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199703458,
+  "transmit": 404028,
+  "disk": 490980
+}
