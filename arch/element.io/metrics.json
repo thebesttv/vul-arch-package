@@ -1,0 +1,19 @@
+{
+  "name": "element.io",
+  "version": "1.11.58-1",
+  "depends": [],
+  "makedepends": [
+    "npm",
+    "git",
+    "yarn",
+    "python",
+    "rust",
+    "tcl",
+    "electron28",
+    "nodejs",
+    "libxcrypt-compat"
+  ],
+  "receive": 199658944,
+  "transmit": 297361,
+  "disk": 16573157
+}
