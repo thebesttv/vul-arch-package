@@ -1,0 +1,20 @@
+{
+  "name": "tilix",
+  "version": "1.9.6-2",
+  "depends": [
+    "libx11",
+    "gtkd",
+    "vte3",
+    "dconf",
+    "gsettings-desktop-schemas"
+  ],
+  "makedepends": [
+    "ldc",
+    "po4a",
+    "meson",
+    "appstream"
+  ],
+  "receive": 199563653,
+  "transmit": 260218,
+  "disk": 6721719
+}
