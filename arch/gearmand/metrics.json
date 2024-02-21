@@ -1,0 +1,20 @@
+{
+  "name": "gearmand",
+  "version": "1.1.21-1",
+  "depends": [
+    "libevent",
+    "boost-libs",
+    "mariadb-libs",
+    "postgresql-libs",
+    "sqlite",
+    "hiredis"
+  ],
+  "makedepends": [
+    "boost",
+    "gperf",
+    "python-sphinx"
+  ],
+  "receive": 199541109,
+  "transmit": 280404,
+  "disk": 8649539
+}
