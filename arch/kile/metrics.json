@@ -1,0 +1,42 @@
+{
+  "name": "kile",
+  "version": "2.9.93-5",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcodecs5",
+    "kcompletion5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kcrash5",
+    "kdbusaddons5",
+    "kguiaddons5",
+    "khtml",
+    "ki18n5",
+    "kiconthemes5",
+    "kinit",
+    "kio5",
+    "kjobwidgets5",
+    "kparts5",
+    "kservice5",
+    "ktexteditor5",
+    "ktextwidgets5",
+    "kwidgetsaddons5",
+    "kwindowsystem5",
+    "kxmlgui5",
+    "okular",
+    "perl",
+    "poppler-qt5",
+    "qt5-base",
+    "qt5-script",
+    "texlive-basic"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 208409973,
+  "transmit": 449202,
+  "disk": 39241956
+}
