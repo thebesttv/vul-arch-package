@@ -1,0 +1,16 @@
+{
+  "name": "moosefs",
+  "version": "3.0.117-1",
+  "depends": [
+    "fuse3",
+    "libpcap",
+    "python",
+    "xfsprogs"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199539869,
+  "transmit": 290730,
+  "disk": 13434835
+}
