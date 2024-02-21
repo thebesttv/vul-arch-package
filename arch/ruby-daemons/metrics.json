@@ -1,0 +1,13 @@
+{
+  "name": "ruby-daemons",
+  "version": "1.4.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199511999,
+  "transmit": 278120,
+  "disk": 271758
+}
