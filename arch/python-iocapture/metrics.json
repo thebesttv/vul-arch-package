@@ -1,0 +1,13 @@
+{
+  "name": "python-iocapture",
+  "version": "0.1.2-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199495951,
+  "transmit": 256006,
+  "disk": 151275
+}
