@@ -1,0 +1,11 @@
+{
+  "name": "perl-term-readline-gnu",
+  "version": "1.46-2",
+  "depends": [
+    "perl>=5.7"
+  ],
+  "makedepends": [],
+  "receive": 199591014,
+  "transmit": 353172,
+  "disk": 1226518
+}
