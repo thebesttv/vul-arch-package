@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-finder",
+  "version": "0.53-8",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199587850,
+  "transmit": 305422,
+  "disk": 170184
+}
