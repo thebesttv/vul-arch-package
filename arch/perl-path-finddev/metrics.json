@@ -1,0 +1,14 @@
+{
+  "name": "perl-path-finddev",
+  "version": "0.5.3-6",
+  "depends": [
+    "perl-class-tiny",
+    "perl-path-isdev",
+    "perl-path-tiny",
+    "perl-sub-exporter"
+  ],
+  "makedepends": [],
+  "receive": 199665459,
+  "transmit": 423847,
+  "disk": 319057
+}
