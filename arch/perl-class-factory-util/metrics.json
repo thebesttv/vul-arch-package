@@ -1,0 +1,13 @@
+{
+  "name": "perl-class-factory-util",
+  "version": "1.7-11",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199558628,
+  "transmit": 305331,
+  "disk": 172527
+}
