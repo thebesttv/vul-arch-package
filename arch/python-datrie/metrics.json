@@ -1,0 +1,14 @@
+{
+  "name": "python-datrie",
+  "version": "0.8.2-3",
+  "depends": [
+    "libdatrie"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 199668979,
+  "transmit": 408904,
+  "disk": 1133591
+}
