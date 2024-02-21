@@ -1,0 +1,14 @@
+{
+  "name": "aurpublish",
+  "version": "r43.g3b978be-1",
+  "depends": [
+    "git",
+    "openssh"
+  ],
+  "makedepends": [
+    "asciidoc"
+  ],
+  "receive": 199492776,
+  "transmit": 237204,
+  "disk": 443597
+}
