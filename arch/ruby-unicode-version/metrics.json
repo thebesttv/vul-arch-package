@@ -1,0 +1,13 @@
+{
+  "name": "ruby-unicode-version",
+  "version": "1.3.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199670233,
+  "transmit": 434574,
+  "disk": 311348
+}
