@@ -1,0 +1,29 @@
+{
+  "name": "ogre",
+  "version": "14.1.2-1",
+  "depends": [
+    "freeimage",
+    "freetype2",
+    "libxaw",
+    "libxrandr",
+    "sdl2",
+    "glu",
+    "pugixml",
+    "zlib",
+    "bullet"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "graphviz",
+    "ttf-dejavu",
+    "mesa",
+    "python",
+    "ninja",
+    "cppunit",
+    "swig"
+  ],
+  "receive": 286824732,
+  "transmit": 1265777,
+  "disk": 234320893
+}
