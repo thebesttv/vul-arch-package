@@ -1,0 +1,13 @@
+{
+  "name": "ruby-highline",
+  "version": "2.1.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199582217,
+  "transmit": 332315,
+  "disk": 3407569
+}
