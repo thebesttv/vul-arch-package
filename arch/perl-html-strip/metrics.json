@@ -1,0 +1,11 @@
+{
+  "name": "perl-html-strip",
+  "version": "2.12-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199737631,
+  "transmit": 432532,
+  "disk": 172925
+}
