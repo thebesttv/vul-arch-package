@@ -1,0 +1,14 @@
+{
+  "name": "xplanet",
+  "version": "1.3.1-5",
+  "depends": [
+    "pango",
+    "giflib",
+    "libtiff",
+    "libxss"
+  ],
+  "makedepends": [],
+  "receive": 199603198,
+  "transmit": 404090,
+  "disk": 4742137
+}
