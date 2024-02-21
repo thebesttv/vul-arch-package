@@ -1,0 +1,17 @@
+{
+  "name": "perl-moox-handlesvia",
+  "version": "0.001009-4",
+  "depends": [
+    "perl-class-method-modifiers",
+    "perl-data-perl",
+    "perl-module-runtime",
+    "perl-moo",
+    "perl-role-tiny"
+  ],
+  "makedepends": [
+    "perl-moox-types-mooselike"
+  ],
+  "receive": 200252187,
+  "transmit": 712374,
+  "disk": 277017
+}
