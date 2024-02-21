@@ -1,0 +1,15 @@
+{
+  "name": "libinsane",
+  "version": "1.0.10-1",
+  "depends": [
+    "sane"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199657085,
+  "transmit": 410404,
+  "disk": 3162502
+}
