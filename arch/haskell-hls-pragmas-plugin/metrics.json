@@ -1,0 +1,24 @@
+{
+  "name": "haskell-hls-pragmas-plugin",
+  "version": "1.0.4.0-146",
+  "depends": [
+    "ghc-libs",
+    "haskell-extra",
+    "haskell-fuzzy",
+    "haskell-ghc",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils",
+    "haskell-lsp-types"
+  ],
+  "receive": 199679937,
+  "transmit": 427318,
+  "disk": 725509
+}
