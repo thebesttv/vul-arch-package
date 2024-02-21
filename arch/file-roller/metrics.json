@@ -1,0 +1,24 @@
+{
+  "name": "file-roller",
+  "version": "43.1-1",
+  "depends": [
+    "dconf",
+    "file",
+    "json-glib",
+    "libarchive",
+    "libhandy",
+    "libportal-gtk3",
+    "unzip",
+    "zip"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "libnautilus-extension",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 201371968,
+  "transmit": 404588,
+  "disk": 27451476
+}
