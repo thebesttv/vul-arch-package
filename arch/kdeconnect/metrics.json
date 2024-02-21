@@ -1,0 +1,22 @@
+{
+  "name": "kdeconnect",
+  "version": "23.08.5-1",
+  "depends": [
+    "kcmutils5",
+    "libfakekey",
+    "qca-qt5",
+    "kpeoplevcard",
+    "pulseaudio-qt",
+    "qqc2-desktop-style5",
+    "kirigami-addons5",
+    "modemmanager-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "wayland-protocols"
+  ],
+  "receive": 199519141,
+  "transmit": 266140,
+  "disk": 6416057
+}
