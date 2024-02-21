@@ -1,0 +1,13 @@
+{
+  "name": "python-pasta",
+  "version": "0.2.0-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199579219,
+  "transmit": 344122,
+  "disk": 1159191
+}
