@@ -1,0 +1,18 @@
+{
+  "name": "valabind",
+  "version": "1.8.0-3",
+  "depends": [
+    "sh",
+    "glibc",
+    "glib2",
+    "vala",
+    "swig",
+    "libvala-0.56.so"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199549950,
+  "transmit": 304860,
+  "disk": 456953
+}
