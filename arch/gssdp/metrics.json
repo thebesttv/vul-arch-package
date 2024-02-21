@@ -1,0 +1,20 @@
+{
+  "name": "gssdp",
+  "version": "1.6.3-1",
+  "depends": [
+    "glib2",
+    "libsoup3"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "gtk4",
+    "meson",
+    "pandoc",
+    "vala"
+  ],
+  "receive": 199747466,
+  "transmit": 477564,
+  "disk": 1782282
+}
