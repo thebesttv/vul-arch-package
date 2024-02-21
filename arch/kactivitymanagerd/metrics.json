@@ -1,0 +1,14 @@
+{
+  "name": "kactivitymanagerd",
+  "version": "5.27.10-1",
+  "depends": [
+    "kio5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "boost"
+  ],
+  "receive": 199678735,
+  "transmit": 436448,
+  "disk": 1447722
+}
