@@ -1,0 +1,36 @@
+{
+  "name": "sonic-visualiser",
+  "version": "4.5.2-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libmad",
+    "opusfile",
+    "qt5-base",
+    "qt5-svg",
+    "vamp-plugin-sdk"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "bzip2",
+    "capnproto",
+    "fftw",
+    "libfishsound",
+    "libid3tag",
+    "liblo",
+    "liblrdf",
+    "liboggz",
+    "libpulse",
+    "libsamplerate",
+    "libsndfile",
+    "meson",
+    "portaudio",
+    "rubberband",
+    "serd",
+    "sord"
+  ],
+  "receive": 199501526,
+  "transmit": 275230,
+  "disk": 28720541
+}
