@@ -1,0 +1,19 @@
+{
+  "name": "rasqal",
+  "version": "1:0.9.33-6",
+  "depends": [
+    "glibc",
+    "libgcrypt",
+    "mpfr",
+    "pcre",
+    "sh"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "raptor",
+    "util-linux"
+  ],
+  "receive": 199938591,
+  "transmit": 560752,
+  "disk": 10233707
+}
