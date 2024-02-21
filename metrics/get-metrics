@@ -16,12 +16,10 @@ disk=$(query_prometheus 'container_fs_usage_bytes')
 
 echo Receive: $receive
 echo Transmit: $transmit
-echo Disk: $disk
 
 jq -n \
    --arg name         "$TBT_PACKAGE_NAME" \
    --arg version      "$TBT_PACKAGE_VERSION" \
    --argjson receive  $receive \
    --argjson transmit $transmit \
-   --argjson disk     $disk \
-   '{name: $name, version: $version, receive: $receive, transmit: $transmit, disk: $disk}'
+   '{name: $name, version: $version, receive: $receive, transmit: $transmit}'
