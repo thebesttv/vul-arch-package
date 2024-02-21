@@ -1,0 +1,11 @@
+{
+  "name": "ruby-facets",
+  "version": "3.1.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199739413,
+  "transmit": 451010,
+  "disk": 3148900
+}
