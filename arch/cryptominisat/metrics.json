@@ -1,0 +1,22 @@
+{
+  "name": "cryptominisat",
+  "version": "5.11.21-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "help2man",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-toml",
+    "python-wheel",
+    "vim"
+  ],
+  "receive": 199552509,
+  "transmit": 272900,
+  "disk": 5591877
+}
