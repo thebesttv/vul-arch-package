@@ -1,0 +1,14 @@
+{
+  "name": "haskell-hs-bibutils",
+  "version": "6.10.0.0-146",
+  "depends": [
+    "ghc-libs",
+    "haskell-syb"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199547679,
+  "transmit": 323357,
+  "disk": 4164271
+}
