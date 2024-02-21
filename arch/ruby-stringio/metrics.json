@@ -1,0 +1,15 @@
+{
+  "name": "ruby-stringio",
+  "version": "3.0.2-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-bundler",
+    "ruby-rake",
+    "ruby-rake-compiler"
+  ],
+  "receive": 199523760,
+  "transmit": 271427,
+  "disk": 375116
+}
