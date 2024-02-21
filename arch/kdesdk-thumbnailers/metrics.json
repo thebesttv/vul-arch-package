@@ -1,0 +1,14 @@
+{
+  "name": "kdesdk-thumbnailers",
+  "version": "23.08.5-1",
+  "depends": [
+    "kio5",
+    "gettext"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199581380,
+  "transmit": 342180,
+  "disk": 607226
+}
