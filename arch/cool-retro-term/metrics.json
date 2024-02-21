@@ -1,0 +1,15 @@
+{
+  "name": "cool-retro-term",
+  "version": "1.2.0-3",
+  "depends": [
+    "qmltermwidget",
+    "qt5-quickcontrols",
+    "qt5-quickcontrols2",
+    "qt5-graphicaleffects",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [],
+  "receive": 199561205,
+  "transmit": 299895,
+  "disk": 6603313
+}
