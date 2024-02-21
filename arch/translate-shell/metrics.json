@@ -1,0 +1,14 @@
+{
+  "name": "translate-shell",
+  "version": "0.9.7.1-1",
+  "depends": [
+    "bash",
+    "gawk"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199566642,
+  "transmit": 357270,
+  "disk": 3841597
+}
