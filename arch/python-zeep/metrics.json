@@ -1,0 +1,20 @@
+{
+  "name": "python-zeep",
+  "version": "4.2.1-2",
+  "depends": [
+    "python-attrs",
+    "python-isodate",
+    "python-lxml",
+    "python-platformdirs",
+    "python-requests",
+    "python-requests-toolbelt",
+    "python-requests-file",
+    "python-pytz"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199667548,
+  "transmit": 354260,
+  "disk": 1538317
+}
