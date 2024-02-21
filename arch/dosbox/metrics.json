@@ -1,0 +1,22 @@
+{
+  "name": "dosbox",
+  "version": "0.74.3-2",
+  "depends": [
+    "sdl_net",
+    "zlib",
+    "sdl_sound",
+    "libgl",
+    "libpng",
+    "alsa-lib",
+    "gcc-libs",
+    "glu"
+  ],
+  "makedepends": [
+    "mesa-libgl",
+    "gendesk",
+    "patch"
+  ],
+  "receive": 199658418,
+  "transmit": 375903,
+  "disk": 7381123
+}
