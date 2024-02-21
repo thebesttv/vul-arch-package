@@ -1,0 +1,24 @@
+{
+  "name": "pantheon-music",
+  "version": "7.1.0-1",
+  "depends": [
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "gst-plugins-base-libs",
+    "gstreamer",
+    "libgee",
+    "libgranite-7.so",
+    "pango"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 221056001,
+  "transmit": 377125,
+  "disk": 114314096
+}
