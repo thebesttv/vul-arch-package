@@ -1,0 +1,13 @@
+{
+  "name": "genact",
+  "version": "1.4.2-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199647130,
+  "transmit": 374705,
+  "disk": 3912679
+}
