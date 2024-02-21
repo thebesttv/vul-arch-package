@@ -1,0 +1,19 @@
+{
+  "name": "arch-signoff",
+  "version": "0.5.2-3",
+  "depends": [
+    "python",
+    "pyalpm",
+    "python-click",
+    "python-dateutil",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools-scm",
+    "asciidoc",
+    "git"
+  ],
+  "receive": 199516463,
+  "transmit": 296406,
+  "disk": 383787
+}
