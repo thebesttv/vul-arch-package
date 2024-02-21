@@ -1,0 +1,11 @@
+{
+  "name": "givaro",
+  "version": "4.2.0-1",
+  "depends": [
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 199683637,
+  "transmit": 304870,
+  "disk": 5971488
+}
