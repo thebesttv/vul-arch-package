@@ -1,0 +1,17 @@
+{
+  "name": "lazarus",
+  "version": "3.0-2",
+  "depends": [],
+  "makedepends": [
+    "fpc",
+    "fpc-src",
+    "gtk2",
+    "gtk3",
+    "qt5pas",
+    "qt6pas",
+    "rsync"
+  ],
+  "receive": 245288457,
+  "transmit": 347861,
+  "disk": 263291647
+}
