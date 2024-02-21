@@ -1,0 +1,16 @@
+{
+  "name": "typescript-svelte-plugin",
+  "version": "0.3.37-1",
+  "depends": [
+    "nodejs",
+    "typescript"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "pnpm"
+  ],
+  "receive": 209625308,
+  "transmit": 352285,
+  "disk": 17538582
+}
