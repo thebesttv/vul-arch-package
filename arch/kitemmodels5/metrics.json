@@ -1,0 +1,17 @@
+{
+  "name": "kitemmodels5",
+  "version": "5.115.0-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc",
+    "qt5-declarative"
+  ],
+  "receive": 199516380,
+  "transmit": 277491,
+  "disk": 1850088
+}
