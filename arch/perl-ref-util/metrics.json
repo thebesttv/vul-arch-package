@@ -1,0 +1,11 @@
+{
+  "name": "perl-ref-util",
+  "version": "0.204-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199505616,
+  "transmit": 257461,
+  "disk": 284866
+}
