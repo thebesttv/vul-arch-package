@@ -1,0 +1,13 @@
+{
+  "name": "spike",
+  "version": "1.1.0-4",
+  "depends": [
+    "dtc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199808148,
+  "transmit": 486804,
+  "disk": 14478737
+}
