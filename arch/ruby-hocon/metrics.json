@@ -1,0 +1,13 @@
+{
+  "name": "ruby-hocon",
+  "version": "1.4.0-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199694610,
+  "transmit": 397762,
+  "disk": 1038395
+}
