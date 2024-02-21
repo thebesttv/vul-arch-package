@@ -1,0 +1,13 @@
+{
+  "name": "python-requests-futures",
+  "version": "1.0.1-1",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199720133,
+  "transmit": 429589,
+  "disk": 172967
+}
