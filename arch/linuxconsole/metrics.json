@@ -1,0 +1,11 @@
+{
+  "name": "linuxconsole",
+  "version": "1.8.1-1",
+  "depends": [],
+  "makedepends": [
+    "sdl2"
+  ],
+  "receive": 199773956,
+  "transmit": 434754,
+  "disk": 400034
+}
