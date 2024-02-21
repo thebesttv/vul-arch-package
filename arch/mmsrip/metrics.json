@@ -1,0 +1,11 @@
+{
+  "name": "mmsrip",
+  "version": "0.7.0-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199865623,
+  "transmit": 616993,
+  "disk": 635691
+}
