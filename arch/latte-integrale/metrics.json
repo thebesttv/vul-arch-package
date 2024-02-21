@@ -1,0 +1,14 @@
+{
+  "name": "latte-integrale",
+  "version": "1.7.6-2",
+  "depends": [
+    "4ti2",
+    "ntl",
+    "cddlib",
+    "lidia"
+  ],
+  "makedepends": [],
+  "receive": 199565744,
+  "transmit": 317189,
+  "disk": 47924438
+}
