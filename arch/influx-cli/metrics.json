@@ -1,0 +1,13 @@
+{
+  "name": "influx-cli",
+  "version": "2.7.3-1",
+  "depends": [],
+  "makedepends": [
+    "go",
+    "go-tools",
+    "git"
+  ],
+  "receive": 199674972,
+  "transmit": 430909,
+  "disk": 6874248
+}
