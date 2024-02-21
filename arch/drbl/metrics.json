@@ -1,0 +1,14 @@
+{
+  "name": "drbl",
+  "version": "2.30.5-3",
+  "depends": [
+    "perl",
+    "bc"
+  ],
+  "makedepends": [
+    "vim"
+  ],
+  "receive": 199572835,
+  "transmit": 336786,
+  "disk": 7861918
+}
