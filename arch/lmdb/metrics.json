@@ -1,0 +1,13 @@
+{
+  "name": "lmdb",
+  "version": "0.9.32-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 250386561,
+  "transmit": 1092297,
+  "disk": 58665744
+}
