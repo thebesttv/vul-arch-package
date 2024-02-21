@@ -1,0 +1,15 @@
+{
+  "name": "mpg123",
+  "version": "1.32.5-1",
+  "depends": [
+    "alsa-lib"
+  ],
+  "makedepends": [
+    "sdl2",
+    "jack",
+    "libpulse"
+  ],
+  "receive": 200107858,
+  "transmit": 340898,
+  "disk": 6817166
+}
