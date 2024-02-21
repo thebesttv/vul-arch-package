@@ -1,0 +1,15 @@
+{
+  "name": "bash-language-server",
+  "version": "5.1.2-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "pnpm"
+  ],
+  "receive": 199713679,
+  "transmit": 448132,
+  "disk": 5972158
+}
