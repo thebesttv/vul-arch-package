@@ -1,0 +1,15 @@
+{
+  "name": "oha",
+  "version": "1.3.0-1",
+  "depends": [
+    "openssl",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199742191,
+  "transmit": 459524,
+  "disk": 1921348
+}
