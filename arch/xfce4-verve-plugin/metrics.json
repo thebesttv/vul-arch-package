@@ -1,0 +1,13 @@
+{
+  "name": "xfce4-verve-plugin",
+  "version": "2.0.3-1",
+  "depends": [
+    "xfce4-panel"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199559796,
+  "transmit": 289833,
+  "disk": 2580991
+}
