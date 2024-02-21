@@ -1,0 +1,13 @@
+{
+  "name": "perl-net-jabber",
+  "version": "2.0-14",
+  "depends": [
+    "perl-net-xmpp"
+  ],
+  "makedepends": [
+    "perl-net-xmpp"
+  ],
+  "receive": 199600258,
+  "transmit": 389074,
+  "disk": 928024
+}
