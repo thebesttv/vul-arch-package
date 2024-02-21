@@ -1,0 +1,16 @@
+{
+  "name": "python-astral",
+  "version": "3.2-2",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199657730,
+  "transmit": 387791,
+  "disk": 7003536
+}
