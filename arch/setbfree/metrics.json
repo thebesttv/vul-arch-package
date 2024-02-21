@@ -1,0 +1,21 @@
+{
+  "name": "setbfree",
+  "version": "0.8.12-1",
+  "depends": [],
+  "makedepends": [
+    "cairo",
+    "ftgl",
+    "gendesk",
+    "glib2",
+    "jack",
+    "libglvnd",
+    "liblo",
+    "libx11",
+    "lv2",
+    "pango",
+    "ttf-dejavu"
+  ],
+  "receive": 204560711,
+  "transmit": 454178,
+  "disk": 24894825
+}
