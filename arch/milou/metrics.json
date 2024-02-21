@@ -1,0 +1,15 @@
+{
+  "name": "milou",
+  "version": "5.27.10-1",
+  "depends": [
+    "krunner5",
+    "kitemmodels5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199642056,
+  "transmit": 279612,
+  "disk": 916737
+}
