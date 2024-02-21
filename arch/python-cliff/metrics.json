@@ -1,0 +1,17 @@
+{
+  "name": "python-cliff",
+  "version": "4.5.0-1",
+  "depends": [
+    "python-autopage",
+    "python-cmd2",
+    "python-prettytable",
+    "python-stevedore",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199771025,
+  "transmit": 445458,
+  "disk": 1737414
+}
