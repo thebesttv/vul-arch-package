@@ -1,0 +1,18 @@
+{
+  "name": "ruby-gettext",
+  "version": "3.4.9-1",
+  "depends": [
+    "ruby",
+    "ruby-locale",
+    "ruby-text",
+    "ruby-erubi"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-yard",
+    "ruby-bundler"
+  ],
+  "receive": 199580739,
+  "transmit": 377511,
+  "disk": 1688284
+}
