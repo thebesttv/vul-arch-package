@@ -1,0 +1,17 @@
+{
+  "name": "python-terminado",
+  "version": "0.18.0-1",
+  "depends": [
+    "python",
+    "python-ptyprocess",
+    "python-tornado"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199465632,
+  "transmit": 234464,
+  "disk": 297414
+}
