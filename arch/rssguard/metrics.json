@@ -1,0 +1,25 @@
+{
+  "name": "rssguard",
+  "version": "4.6.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "mpv",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-multimedia",
+    "sqlite"
+  ],
+  "makedepends": [
+    "cmake",
+    "mpv",
+    "qt6-5compat",
+    "qt6-multimedia",
+    "qt6-tools",
+    "qt6-webengine"
+  ],
+  "receive": 223728657,
+  "transmit": 565841,
+  "disk": 114954286
+}
