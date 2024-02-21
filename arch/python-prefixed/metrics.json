@@ -1,0 +1,17 @@
+{
+  "name": "python-prefixed",
+  "version": "0.7.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199652205,
+  "transmit": 430875,
+  "disk": 480076
+}
