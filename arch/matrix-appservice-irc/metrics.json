@@ -1,0 +1,17 @@
+{
+  "name": "matrix-appservice-irc",
+  "version": "1.0.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "yarn"
+  ],
+  "receive": 199658927,
+  "transmit": 381202,
+  "disk": 6557497
+}
