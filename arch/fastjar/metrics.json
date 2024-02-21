@@ -1,0 +1,12 @@
+{
+  "name": "fastjar",
+  "version": "0.98-6",
+  "depends": [
+    "zlib",
+    "texinfo"
+  ],
+  "makedepends": [],
+  "receive": 199645990,
+  "transmit": 394679,
+  "disk": 3932876
+}
