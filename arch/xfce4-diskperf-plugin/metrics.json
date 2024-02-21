@@ -1,0 +1,13 @@
+{
+  "name": "xfce4-diskperf-plugin",
+  "version": "2.7.0-1",
+  "depends": [
+    "xfce4-panel"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199762016,
+  "transmit": 433942,
+  "disk": 2421806
+}
