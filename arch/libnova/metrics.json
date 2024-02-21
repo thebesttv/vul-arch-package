@@ -1,0 +1,11 @@
+{
+  "name": "libnova",
+  "version": "0.15.0-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199525319,
+  "transmit": 247471,
+  "disk": 8595105
+}
