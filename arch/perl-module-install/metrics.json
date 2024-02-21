@@ -1,0 +1,16 @@
+{
+  "name": "perl-module-install",
+  "version": "1.21-2",
+  "depends": [
+    "perl-file-remove",
+    "perl-json",
+    "perl-module-build",
+    "perl-module-scandeps",
+    "perl-par-dist",
+    "perl-yaml-tiny"
+  ],
+  "makedepends": [],
+  "receive": 199623854,
+  "transmit": 373002,
+  "disk": 208166
+}
