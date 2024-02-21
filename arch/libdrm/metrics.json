@@ -1,0 +1,15 @@
+{
+  "name": "libdrm",
+  "version": "2.4.120-1",
+  "depends": [
+    "libpciaccess",
+    "glibc"
+  ],
+  "makedepends": [
+    "python-docutils",
+    "meson"
+  ],
+  "receive": 200283120,
+  "transmit": 718502,
+  "disk": 4591437
+}
