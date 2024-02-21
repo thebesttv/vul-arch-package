@@ -1,0 +1,21 @@
+{
+  "name": "python-primecountpy",
+  "version": "0.1.0-4",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "primecount",
+    "python",
+    "python-cysignals"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199533273,
+  "transmit": 273742,
+  "disk": 205353
+}
