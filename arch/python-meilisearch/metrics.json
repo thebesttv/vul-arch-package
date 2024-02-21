@@ -1,0 +1,19 @@
+{
+  "name": "python-meilisearch",
+  "version": "0.28.1-1",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-camel-converter",
+    "python-pydantic"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199619728,
+  "transmit": 389259,
+  "disk": 13269873
+}
