@@ -1,0 +1,13 @@
+{
+  "name": "python-json-logger",
+  "version": "2.0.7-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199494806,
+  "transmit": 257742,
+  "disk": 176319
+}
