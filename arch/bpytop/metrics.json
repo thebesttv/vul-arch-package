@@ -1,0 +1,12 @@
+{
+  "name": "bpytop",
+  "version": "1.0.68-1",
+  "depends": [
+    "python",
+    "python-psutil"
+  ],
+  "makedepends": [],
+  "receive": 202113303,
+  "transmit": 1862688,
+  "disk": 1675242
+}
