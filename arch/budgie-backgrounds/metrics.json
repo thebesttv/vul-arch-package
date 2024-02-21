@@ -1,0 +1,13 @@
+{
+  "name": "budgie-backgrounds",
+  "version": "3.0-1",
+  "depends": [],
+  "makedepends": [
+    "meson",
+    "imagemagick",
+    "jhead"
+  ],
+  "receive": 199701248,
+  "transmit": 435046,
+  "disk": 35495579
+}
