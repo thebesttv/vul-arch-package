@@ -1,0 +1,15 @@
+{
+  "name": "python-gdstk",
+  "version": "0.9.42-1",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "cmake"
+  ],
+  "receive": 199797157,
+  "transmit": 546356,
+  "disk": 10294909
+}
