@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-copy-recursive",
+  "version": "0.45-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199515117,
+  "transmit": 270196,
+  "disk": 201897
+}
