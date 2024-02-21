@@ -1,0 +1,13 @@
+{
+  "name": "libofx",
+  "version": "0.10.9-1",
+  "depends": [
+    "opensp",
+    "curl",
+    "libxml++2.6"
+  ],
+  "makedepends": [],
+  "receive": 199840849,
+  "transmit": 577125,
+  "disk": 10127965
+}
