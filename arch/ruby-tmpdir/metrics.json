@@ -1,0 +1,11 @@
+{
+  "name": "ruby-tmpdir",
+  "version": "0.1.2-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199532873,
+  "transmit": 300600,
+  "disk": 174356
+}
