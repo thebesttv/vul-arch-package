@@ -1,0 +1,11 @@
+{
+  "name": "rubygems",
+  "version": "3.3.25-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199761677,
+  "transmit": 460104,
+  "disk": 46855495
+}
