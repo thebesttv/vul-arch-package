@@ -1,0 +1,14 @@
+{
+  "name": "perl-test-spec",
+  "version": "0.54-7",
+  "depends": [
+    "perl-package-stash>=0.23",
+    "perl-test-deep>=0.103",
+    "perl-test-trap",
+    "perl-tie-ixhash"
+  ],
+  "makedepends": [],
+  "receive": 199537084,
+  "transmit": 263522,
+  "disk": 289191
+}
