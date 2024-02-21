@@ -1,0 +1,17 @@
+{
+  "name": "maliit-framework",
+  "version": "2.3.0-1",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-wayland",
+    "wayland-protocols",
+    "gtk3",
+    "python"
+  ],
+  "receive": 199673218,
+  "transmit": 414248,
+  "disk": 2357542
+}
