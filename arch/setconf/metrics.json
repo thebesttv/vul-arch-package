@@ -1,0 +1,11 @@
+{
+  "name": "setconf",
+  "version": "0.7.7-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199684777,
+  "transmit": 398341,
+  "disk": 130041
+}
