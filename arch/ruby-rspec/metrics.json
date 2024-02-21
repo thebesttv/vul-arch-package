@@ -1,0 +1,13 @@
+{
+  "name": "ruby-rspec",
+  "version": "3.12.0-1",
+  "depends": [
+    "ruby-rspec-core",
+    "ruby-rspec-expectations",
+    "ruby-rspec-mocks"
+  ],
+  "makedepends": [],
+  "receive": 199754910,
+  "transmit": 508489,
+  "disk": 104882
+}
