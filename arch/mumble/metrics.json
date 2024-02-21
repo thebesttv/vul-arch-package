@@ -1,0 +1,42 @@
+{
+  "name": "mumble",
+  "version": "1.5.517-6",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "avahi",
+    "boost",
+    "cmake",
+    "openssl",
+    "protobuf",
+    "python",
+    "qt5-tools",
+    "alsa-lib",
+    "hicolor-icon-theme",
+    "jack",
+    "lib32-gcc-libs",
+    "libpulse",
+    "libsndfile",
+    "libspeechd",
+    "libx11",
+    "libxi",
+    "mesa",
+    "nlohmann-json",
+    "opus",
+    "poco",
+    "qt5-svg",
+    "rnnoise",
+    "speech-dispatcher",
+    "speexdsp",
+    "xdg-utils",
+    "libcap",
+    "systemd",
+    "zeroc-ice"
+  ],
+  "receive": 211857293,
+  "transmit": 337949,
+  "disk": 67907350
+}

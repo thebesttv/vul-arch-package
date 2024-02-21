@@ -1,0 +1,43 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=3.29 s (556.0 files/s 341953.8 lines/s)"
+49,Qt Linguist,625,0,429534
+391,C++,29485,17640,318033
+521,C/C++ Header,24766,43308,121661
+82,C,6495,6449,55099
+37,Qt,3,0,14705
+342,SVG,36,81,8403
+34,XML,7,22,5977
+14,MSBuild script,0,0,5675
+48,Text,1208,0,5413
+116,CMake,1016,865,4238
+3,TeX,1205,4,3128
+51,Markdown,1082,0,2585
+25,Python,822,972,2286
+7,Objective-C++,427,142,1946
+7,SCSS,214,87,1289
+16,Visual Studio Solution,14,15,1150
+4,m4,133,73,716
+31,make,147,77,394
+4,HLSL,49,42,386
+3,Protocol Buffers,61,342,362
+1,Assembly,86,151,334
+3,C#,51,21,308
+1,Slice,110,588,243
+2,Objective-C,63,27,224
+6,DOS Batch,34,7,184
+7,Bourne Shell,35,28,135
+3,Windows Module Definition,12,30,119
+1,YAML,10,0,104
+1,HTML,23,0,102
+2,Perl,22,26,82
+1,PowerShell,16,6,68
+1,MATLAB,8,7,57
+2,Bourne Again Shell,17,34,42
+2,Windows Resource File,0,0,33
+3,diff,4,32,30
+2,INI,59,354,25
+1,JSON,0,0,18
+1,Ruby,3,0,16
+1,TNSDL,10,26,13
+2,Meson,4,0,8
+1,Standard ML,1,0,6
+1829,SUM,68363,71456,985131
