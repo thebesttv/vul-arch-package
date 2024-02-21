@@ -1,0 +1,11 @@
+{
+  "name": "libev",
+  "version": "4.33-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199631966,
+  "transmit": 369185,
+  "disk": 2843550
+}
