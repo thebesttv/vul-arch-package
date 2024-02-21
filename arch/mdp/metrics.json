@@ -1,0 +1,11 @@
+{
+  "name": "mdp",
+  "version": "1.0.15-2",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199662776,
+  "transmit": 400583,
+  "disk": 280406
+}
