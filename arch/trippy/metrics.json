@@ -1,0 +1,14 @@
+{
+  "name": "trippy",
+  "version": "0.9.0-1",
+  "depends": [
+    "gcc-libs",
+    "libcap"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199504921,
+  "transmit": 258892,
+  "disk": 32625525
+}
