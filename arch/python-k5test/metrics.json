@@ -1,0 +1,14 @@
+{
+  "name": "python-k5test",
+  "version": "0.10.3-2",
+  "depends": [
+    "python",
+    "krb5"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199611151,
+  "transmit": 298470,
+  "disk": 160938
+}
