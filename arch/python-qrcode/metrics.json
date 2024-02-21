@@ -1,0 +1,18 @@
+{
+  "name": "python-qrcode",
+  "version": "7.4.2-3",
+  "depends": [
+    "python",
+    "python-typing_extensions",
+    "python-pypng"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199737263,
+  "transmit": 418151,
+  "disk": 1427600
+}
