@@ -1,0 +1,15 @@
+{
+  "name": "python-threadpoolctl",
+  "version": "3.2.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199461499,
+  "transmit": 236306,
+  "disk": 280437
+}
