@@ -1,0 +1,18 @@
+{
+  "name": "libretro-flycast",
+  "version": "5957-1",
+  "depends": [
+    "libgl",
+    "libretro-core-info",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "mesa",
+    "ninja"
+  ],
+  "receive": 487313086,
+  "transmit": 665197,
+  "disk": 424673590
+}

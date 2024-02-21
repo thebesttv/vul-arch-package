@@ -1,0 +1,45 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=5.23 s (941.9 files/s 366797.8 lines/s)"
+1077,C/C++ Header,84603,73189,619220
+782,C++,56288,49720,447706
+880,HTML,7413,6768,168541
+19,JSON,0,0,105088
+302,C,15895,16719,86514
+1194,GLSL,11462,2724,48375
+47,XML,211,77,32839
+38,Text,3020,0,8757
+90,CMake,1241,1415,8124
+173,JavaScript,219,285,7365
+47,Markdown,2141,34,5995
+14,Assembly,1295,1326,5152
+36,Python,1411,2206,5034
+1,yacc,214,125,4110
+7,CSS,684,157,3564
+44,Bourne Shell,437,895,3031
+16,Java,383,140,2277
+30,YAML,224,187,2205
+28,make,339,275,1675
+9,Objective-C++,320,253,1520
+10,Swift,168,78,845
+3,MSBuild script,0,0,673
+17,DOS Batch,38,33,448
+4,Perl,135,57,424
+3,Objective-C,94,64,319
+4,Bourne Again Shell,47,84,275
+16,SVG,0,2,263
+6,Visual Studio Solution,4,6,223
+3,reStructuredText,106,61,144
+3,Gradle,10,3,97
+1,Visual Basic Script,11,11,90
+2,Windows Module Definition,1,6,68
+1,Lua,9,1,62
+2,Windows Resource File,5,9,61
+1,Ruby,9,9,56
+2,HLSL,3,3,45
+1,Dockerfile,37,56,29
+3,Brainfuck,5,0,22
+2,Properties,0,19,8
+1,diff,2,9,8
+1,AsciiDoc,2,2,6
+1,INI,1,0,5
+1,ProGuard,4,17,5
+4922,SUM,188491,157025,1571268
