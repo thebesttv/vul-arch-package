@@ -1,0 +1,11 @@
+{
+  "name": "perl-fcgi",
+  "version": "0.82-3",
+  "depends": [
+    "perl>=5.6"
+  ],
+  "makedepends": [],
+  "receive": 199533105,
+  "transmit": 288143,
+  "disk": 206007
+}
