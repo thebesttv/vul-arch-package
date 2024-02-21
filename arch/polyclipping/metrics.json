@@ -1,0 +1,13 @@
+{
+  "name": "polyclipping",
+  "version": "6.4.2-4",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199517652,
+  "transmit": 286467,
+  "disk": 8091311
+}
