@@ -1,0 +1,21 @@
+{
+  "name": "maliit-keyboard",
+  "version": "2.3.1-2",
+  "depends": [
+    "maliit-framework",
+    "hunspell",
+    "presage",
+    "qt5-multimedia",
+    "qt5-quickcontrols2",
+    "qt5-feedback"
+  ],
+  "makedepends": [
+    "cmake",
+    "libpinyin",
+    "anthy",
+    "libchewing"
+  ],
+  "receive": 201262183,
+  "transmit": 523026,
+  "disk": 53950472
+}
