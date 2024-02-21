@@ -1,0 +1,13 @@
+{
+  "name": "python-adblock",
+  "version": "0.6.0-2",
+  "depends": [],
+  "makedepends": [
+    "python-setuptools",
+    "rust",
+    "maturin"
+  ],
+  "receive": 199497664,
+  "transmit": 243857,
+  "disk": 241859
+}
