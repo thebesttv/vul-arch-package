@@ -1,0 +1,16 @@
+{
+  "name": "python-recommonmark",
+  "version": "0.7.1-6",
+  "depends": [
+    "python",
+    "python-commonmark",
+    "python-docutils",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199609638,
+  "transmit": 386602,
+  "disk": 329014
+}
