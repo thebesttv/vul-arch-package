@@ -1,0 +1,15 @@
+{
+  "name": "stk",
+  "version": "5.0.1-3",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "doxygen",
+    "gcc-libs",
+    "glibc",
+    "jack"
+  ],
+  "receive": 199534938,
+  "transmit": 276382,
+  "disk": 6073016
+}
