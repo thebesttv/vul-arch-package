@@ -1,0 +1,16 @@
+{
+  "name": "xorg-xwd",
+  "version": "1.0.9-1",
+  "depends": [
+    "libxkbfile",
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "libxt"
+  ],
+  "receive": 200930269,
+  "transmit": 1288884,
+  "disk": 1096904
+}
