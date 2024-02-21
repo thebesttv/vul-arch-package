@@ -1,0 +1,23 @@
+{
+  "name": "fmt",
+  "version": "10.2.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "git",
+    "ninja",
+    "npm",
+    "python-breathe",
+    "python-docutils",
+    "python-jinja",
+    "python-six",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 217898720,
+  "transmit": 467800,
+  "disk": 23075481
+}
