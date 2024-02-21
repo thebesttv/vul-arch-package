@@ -1,0 +1,15 @@
+{
+  "name": "bspwm",
+  "version": "0.9.10-3",
+  "depends": [
+    "xcb-util",
+    "xcb-util-wm",
+    "xcb-util-keysyms"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200568064,
+  "transmit": 1201470,
+  "disk": 5018159
+}
