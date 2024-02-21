@@ -1,0 +1,14 @@
+{
+  "name": "fcitx5-bamboo",
+  "version": "1.0.4-1",
+  "depends": [
+    "fcitx5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "go"
+  ],
+  "receive": 199633111,
+  "transmit": 374030,
+  "disk": 468768
+}
