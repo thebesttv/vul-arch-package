@@ -1,0 +1,27 @@
+{
+  "name": "kshutdown",
+  "version": "5.2-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kcrash5",
+    "kdbusaddons5",
+    "kglobalaccel5",
+    "ki18n5",
+    "kidletime5",
+    "knotifications5",
+    "knotifyconfig5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199534767,
+  "transmit": 283408,
+  "disk": 1781116
+}
