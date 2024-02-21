@@ -1,0 +1,11 @@
+{
+  "name": "ruby-sd_notify",
+  "version": "0.1.1-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199558344,
+  "transmit": 319171,
+  "disk": 110851
+}
