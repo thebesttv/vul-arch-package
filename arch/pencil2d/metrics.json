@@ -1,0 +1,15 @@
+{
+  "name": "pencil2d",
+  "version": "0.6.6-1",
+  "depends": [
+    "ffmpeg",
+    "hicolor-icon-theme",
+    "qt5-multimedia",
+    "qt5-svg",
+    "qt5-xmlpatterns"
+  ],
+  "makedepends": [],
+  "receive": 199513961,
+  "transmit": 269366,
+  "disk": 18196866
+}
