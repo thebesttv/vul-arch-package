@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-base",
+  "version": "0.89-2",
+  "depends": [
+    "perl-spiffy>=0.30"
+  ],
+  "makedepends": [],
+  "receive": 199566746,
+  "transmit": 315929,
+  "disk": 317422
+}
