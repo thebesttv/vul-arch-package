@@ -1,0 +1,17 @@
+{
+  "name": "retsnoop",
+  "version": "0.9.8-1",
+  "depends": [
+    "glibc",
+    "libelf",
+    "zlib"
+  ],
+  "makedepends": [
+    "clang",
+    "cargo",
+    "llvm"
+  ],
+  "receive": 199582124,
+  "transmit": 328548,
+  "disk": 16070252
+}
