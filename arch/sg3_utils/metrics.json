@@ -1,0 +1,11 @@
+{
+  "name": "sg3_utils",
+  "version": "1.47-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199903061,
+  "transmit": 464267,
+  "disk": 8520589
+}
