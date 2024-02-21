@@ -1,0 +1,15 @@
+{
+  "name": "xfce4-dict",
+  "version": "0.8.6-1",
+  "depends": [
+    "xfce4-panel",
+    "librsvg",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199640915,
+  "transmit": 353485,
+  "disk": 3815912
+}
