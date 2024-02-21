@@ -1,0 +1,13 @@
+{
+  "name": "lib32-duktape",
+  "version": "2.7.0-6",
+  "depends": [
+    "duktape",
+    "lib32-glibc",
+    "lib32-gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 200647004,
+  "transmit": 1205203,
+  "disk": 19597515
+}
