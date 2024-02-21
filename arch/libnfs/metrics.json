@@ -1,0 +1,11 @@
+{
+  "name": "libnfs",
+  "version": "5.0.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199527048,
+  "transmit": 274008,
+  "disk": 2453490
+}
