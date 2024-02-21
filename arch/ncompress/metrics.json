@@ -1,0 +1,11 @@
+{
+  "name": "ncompress",
+  "version": "5.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199747682,
+  "transmit": 466317,
+  "disk": 228826
+}
