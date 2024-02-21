@@ -1,0 +1,15 @@
+{
+  "name": "libmatroska",
+  "version": "1.7.1-1",
+  "depends": [
+    "libebml.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199559853,
+  "transmit": 295196,
+  "disk": 2186042
+}
