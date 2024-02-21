@@ -1,0 +1,20 @@
+{
+  "name": "helm-synth",
+  "version": "0.9.0-10",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "freetype2",
+    "hicolor-icon-theme",
+    "jack",
+    "libxcursor",
+    "libglvnd",
+    "libx11",
+    "libxext",
+    "libxinerama",
+    "lv2"
+  ],
+  "receive": 215612177,
+  "transmit": 467374,
+  "disk": 90641035
+}
