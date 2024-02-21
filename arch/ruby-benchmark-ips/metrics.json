@@ -1,0 +1,15 @@
+{
+  "name": "ruby-benchmark-ips",
+  "version": "2.12.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 199658065,
+  "transmit": 425938,
+  "disk": 751531
+}
