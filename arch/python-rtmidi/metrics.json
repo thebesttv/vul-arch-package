@@ -1,0 +1,24 @@
+{
+  "name": "python-rtmidi",
+  "version": "1.5.5-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "meson-python",
+    "ninja",
+    "cython",
+    "alsa-lib",
+    "jack",
+    "python-sphinx",
+    "python-myst-parser"
+  ],
+  "receive": 199653483,
+  "transmit": 406249,
+  "disk": 8322645
+}
