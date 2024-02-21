@@ -1,0 +1,11 @@
+{
+  "name": "netwatch",
+  "version": "1.3.1_2-4",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199529321,
+  "transmit": 259726,
+  "disk": 1017626
+}
