@@ -1,0 +1,15 @@
+{
+  "name": "python-qstylizer",
+  "version": "0.2.2-2",
+  "depends": [
+    "python-inflection",
+    "python-tinycss2"
+  ],
+  "makedepends": [
+    "python-pbr",
+    "python-setuptools"
+  ],
+  "receive": 199526059,
+  "transmit": 274378,
+  "disk": 231827
+}
