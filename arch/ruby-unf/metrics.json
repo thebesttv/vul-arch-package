@@ -1,0 +1,14 @@
+{
+  "name": "ruby-unf",
+  "version": "0.2.0.beta2-6",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199538235,
+  "transmit": 296802,
+  "disk": 808420
+}
