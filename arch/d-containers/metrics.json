@@ -1,0 +1,15 @@
+{
+  "name": "d-containers",
+  "version": "0.8.0-9",
+  "depends": [
+    "liblphobos"
+  ],
+  "makedepends": [
+    "meson",
+    "ldc",
+    "d-stdx-allocator"
+  ],
+  "receive": 199569919,
+  "transmit": 275537,
+  "disk": 395004
+}
