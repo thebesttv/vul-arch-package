@@ -1,0 +1,20 @@
+{
+  "name": "interception-tools",
+  "version": "0.6.8-7",
+  "depends": [
+    "libevdev",
+    "libevdev.so",
+    "yaml-cpp",
+    "libyaml-cpp.so",
+    "systemd-libs",
+    "libudev.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "systemd",
+    "boost"
+  ],
+  "receive": 199625586,
+  "transmit": 350613,
+  "disk": 256658
+}
