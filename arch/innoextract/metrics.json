@@ -1,0 +1,15 @@
+{
+  "name": "innoextract",
+  "version": "1.9-9",
+  "depends": [
+    "boost-libs",
+    "xz"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake"
+  ],
+  "receive": 199563954,
+  "transmit": 262701,
+  "disk": 1259566
+}
