@@ -1,0 +1,12 @@
+{
+  "name": "ruby-rspec-support",
+  "version": "3.12.1-1",
+  "depends": [
+    "ruby",
+    "ruby-rdoc"
+  ],
+  "makedepends": [],
+  "receive": 199701071,
+  "transmit": 458838,
+  "disk": 137871
+}
