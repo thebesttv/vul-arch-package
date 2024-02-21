@@ -1,0 +1,15 @@
+{
+  "name": "xf86-input-vmmouse",
+  "version": "13.2.0-1",
+  "depends": [
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-XINPUT_VERSION=24.4",
+    "xorgproto"
+  ],
+  "receive": 199643131,
+  "transmit": 396939,
+  "disk": 2349165
+}
