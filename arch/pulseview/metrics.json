@@ -1,0 +1,19 @@
+{
+  "name": "pulseview",
+  "version": "0.4.2-10",
+  "depends": [
+    "libsigrok",
+    "libsigrokdecode",
+    "qt5-base",
+    "qt5-svg",
+    "boost-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "qt5-tools"
+  ],
+  "receive": 199679219,
+  "transmit": 438832,
+  "disk": 1685326
+}
