@@ -1,0 +1,14 @@
+{
+  "name": "xfce4-systemload-plugin",
+  "version": "1.3.2-1",
+  "depends": [
+    "xfce4-panel",
+    "libgtop"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199574090,
+  "transmit": 357562,
+  "disk": 2978081
+}
