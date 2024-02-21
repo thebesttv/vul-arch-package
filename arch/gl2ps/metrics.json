@@ -1,0 +1,16 @@
+{
+  "name": "gl2ps",
+  "version": "1.4.2-3",
+  "depends": [
+    "libpng",
+    "libgl"
+  ],
+  "makedepends": [
+    "cmake",
+    "texlive-latex",
+    "texlive-latexrecommended"
+  ],
+  "receive": 202049647,
+  "transmit": 1769862,
+  "disk": 943814
+}
