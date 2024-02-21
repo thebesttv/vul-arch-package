@@ -1,0 +1,23 @@
+{
+  "name": "switchboard",
+  "version": "6.0.2-1",
+  "depends": [
+    "clutter-gtk",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libhandy-1.so",
+    "wayland"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "intltool",
+    "vala"
+  ],
+  "receive": 199868824,
+  "transmit": 376878,
+  "disk": 8281897
+}
