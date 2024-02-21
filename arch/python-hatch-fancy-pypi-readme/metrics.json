@@ -1,0 +1,16 @@
+{
+  "name": "python-hatch-fancy-pypi-readme",
+  "version": "24.1.0-1",
+  "depends": [
+    "python",
+    "python-hatchling"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 199660419,
+  "transmit": 406427,
+  "disk": 752061
+}
