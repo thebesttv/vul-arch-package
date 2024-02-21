@@ -1,0 +1,12 @@
+{
+  "name": "imwheel",
+  "version": "1.0.0pre12-6",
+  "depends": [
+    "libxtst",
+    "libxmu"
+  ],
+  "makedepends": [],
+  "receive": 199555865,
+  "transmit": 282514,
+  "disk": 984597
+}
