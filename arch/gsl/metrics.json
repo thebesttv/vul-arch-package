@@ -1,0 +1,11 @@
+{
+  "name": "gsl",
+  "version": "2.7.1-3",
+  "depends": [
+    "cblas"
+  ],
+  "makedepends": [],
+  "receive": 201744557,
+  "transmit": 1356583,
+  "disk": 33600743
+}
