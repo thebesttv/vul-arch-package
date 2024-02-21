@@ -1,0 +1,13 @@
+{
+  "name": "facile",
+  "version": "1.1.4-6",
+  "depends": [
+    "ocaml"
+  ],
+  "makedepends": [
+    "ocaml-compiler-libs"
+  ],
+  "receive": 199536127,
+  "transmit": 276362,
+  "disk": 624060
+}
