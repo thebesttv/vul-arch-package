@@ -1,0 +1,16 @@
+{
+  "name": "guichan",
+  "version": "0.8.2-7",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "sdl_image",
+    "allegro4",
+    "libgl",
+    "glut"
+  ],
+  "receive": 199509839,
+  "transmit": 285948,
+  "disk": 3660972
+}
