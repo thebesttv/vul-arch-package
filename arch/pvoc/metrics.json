@@ -1,0 +1,14 @@
+{
+  "name": "pvoc",
+  "version": "0.1.12-5",
+  "depends": [
+    "fftw",
+    "libsndfile"
+  ],
+  "makedepends": [
+    "ladspa"
+  ],
+  "receive": 199500340,
+  "transmit": 249870,
+  "disk": 274321
+}
