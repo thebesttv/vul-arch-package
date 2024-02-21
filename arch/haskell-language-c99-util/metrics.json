@@ -1,0 +1,15 @@
+{
+  "name": "haskell-language-c99-util",
+  "version": "0.2.0-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-ieee754",
+    "haskell-language-c99"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199636686,
+  "transmit": 374760,
+  "disk": 128005
+}
