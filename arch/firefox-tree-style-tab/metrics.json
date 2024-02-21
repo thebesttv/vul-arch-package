@@ -1,0 +1,15 @@
+{
+  "name": "firefox-tree-style-tab",
+  "version": "3.9.22-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "jq",
+    "npm",
+    "strip-nondeterminism",
+    "zip"
+  ],
+  "receive": 233179245,
+  "transmit": 347057,
+  "disk": 44973786
+}
