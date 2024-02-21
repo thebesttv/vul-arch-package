@@ -1,0 +1,14 @@
+{
+  "name": "haskell-dir-traverse",
+  "version": "0.2.3.0-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199501008,
+  "transmit": 245807,
+  "disk": 120246
+}
