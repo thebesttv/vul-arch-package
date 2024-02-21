@@ -1,0 +1,13 @@
+{
+  "name": "sysfsutils",
+  "version": "2.1.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199658607,
+  "transmit": 349432,
+  "disk": 1599232
+}
