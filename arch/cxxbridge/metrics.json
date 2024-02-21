@@ -1,0 +1,11 @@
+{
+  "name": "cxxbridge",
+  "version": "1.0.101-1",
+  "depends": [],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199505925,
+  "transmit": 259082,
+  "disk": 1874782
+}
