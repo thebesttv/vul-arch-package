@@ -1,0 +1,11 @@
+{
+  "name": "gnuchess",
+  "version": "6.2.9-3",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199618857,
+  "transmit": 357557,
+  "disk": 4281875
+}
