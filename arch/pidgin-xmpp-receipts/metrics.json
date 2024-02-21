@@ -1,0 +1,12 @@
+{
+  "name": "pidgin-xmpp-receipts",
+  "version": "0.8-3",
+  "depends": [
+    "pidgin",
+    "libpurple"
+  ],
+  "makedepends": [],
+  "receive": 199534386,
+  "transmit": 279671,
+  "disk": 155604
+}
