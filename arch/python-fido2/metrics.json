@@ -1,0 +1,16 @@
+{
+  "name": "python-fido2",
+  "version": "1.1.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199588022,
+  "transmit": 377671,
+  "disk": 3072683
+}
