@@ -1,0 +1,37 @@
+{
+  "name": "liquidshell",
+  "version": "1.9.0-2",
+  "depends": [
+    "bluez-qt5",
+    "gcc-libs",
+    "glibc",
+    "karchive5",
+    "kcmutils5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kcrash5",
+    "kdbusaddons5",
+    "ki18n5",
+    "kiconthemes5",
+    "kio5",
+    "kitemviews5",
+    "knewstuff5",
+    "knotifications5",
+    "kservice5",
+    "kwidgetsaddons5",
+    "kwindowsystem5",
+    "kxmlgui5",
+    "networkmanager-qt5",
+    "packagekit-qt5",
+    "qt5-base",
+    "qt5-x11extras",
+    "solid5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199525902,
+  "transmit": 295244,
+  "disk": 1676852
+}
