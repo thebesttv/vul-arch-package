@@ -1,0 +1,17 @@
+{
+  "name": "python-darkdetect",
+  "version": "0.8.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199560944,
+  "transmit": 301786,
+  "disk": 398923
+}
