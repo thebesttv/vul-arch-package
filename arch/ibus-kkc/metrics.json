@@ -1,0 +1,17 @@
+{
+  "name": "ibus-kkc",
+  "version": "1.5.22-3",
+  "depends": [
+    "ibus",
+    "libkkc",
+    "libkkc-data",
+    "skk-jisyo"
+  ],
+  "makedepends": [
+    "vala",
+    "intltool"
+  ],
+  "receive": 199657304,
+  "transmit": 370807,
+  "disk": 3026236
+}
