@@ -1,0 +1,23 @@
+{
+  "name": "dleyna",
+  "version": "0.8.2-2",
+  "depends": [
+    "dbus",
+    "gupnp",
+    "gupnp-av",
+    "gupnp-dlna",
+    "libsoup3",
+    "libxml2"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "python-docutils",
+    "python-gobject",
+    "python-sphinx",
+    "python-sphinx_rtd_theme"
+  ],
+  "receive": 199670819,
+  "transmit": 433409,
+  "disk": 2672105
+}
