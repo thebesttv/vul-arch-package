@@ -1,0 +1,17 @@
+{
+  "name": "qtermwidget",
+  "version": "1.4.0-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "lxqt-build-tools",
+    "python-pyqt5",
+    "pyqt-builder",
+    "sip",
+    "python-installer"
+  ],
+  "receive": 199509993,
+  "transmit": 258078,
+  "disk": 1526353
+}
