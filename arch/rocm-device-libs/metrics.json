@@ -1,0 +1,12 @@
+{
+  "name": "rocm-device-libs",
+  "version": "6.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "rocm-cmake",
+    "rocm-llvm"
+  ],
+  "receive": 199630954,
+  "transmit": 384926,
+  "disk": 2097256
+}
