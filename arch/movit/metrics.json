@@ -1,0 +1,16 @@
+{
+  "name": "movit",
+  "version": "1.7.1-1",
+  "depends": [
+    "fftw",
+    "libepoxy"
+  ],
+  "makedepends": [
+    "eigen",
+    "gtest",
+    "sdl2"
+  ],
+  "receive": 199713672,
+  "transmit": 364955,
+  "disk": 3360177
+}
