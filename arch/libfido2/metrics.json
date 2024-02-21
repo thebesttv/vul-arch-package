@@ -1,0 +1,21 @@
+{
+  "name": "libfido2",
+  "version": "1.14.0-2",
+  "depends": [
+    "glibc",
+    "openssl",
+    "libcbor",
+    "libcbor.so",
+    "hidapi",
+    "systemd-libs",
+    "libudev.so",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "systemd"
+  ],
+  "receive": 199572867,
+  "transmit": 239693,
+  "disk": 2774046
+}
