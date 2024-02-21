@@ -1,0 +1,19 @@
+{
+  "name": "python-scramp",
+  "version": "1.4.4-3",
+  "depends": [
+    "python",
+    "python-asn1crypto"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-versioningit",
+    "python-wheel"
+  ],
+  "receive": 199569701,
+  "transmit": 286704,
+  "disk": 473915
+}
