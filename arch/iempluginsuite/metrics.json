@@ -1,0 +1,28 @@
+{
+  "name": "iempluginsuite",
+  "version": "1.14.1-2",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "fftw",
+    "freetype2",
+    "gcc-libs",
+    "gendesk",
+    "glibc",
+    "jack",
+    "juce",
+    "libglvnd",
+    "libjpeg-turbo",
+    "libpng",
+    "libx11",
+    "libxcursor",
+    "libxext",
+    "libxinerama",
+    "libxrandr",
+    "zlib"
+  ],
+  "receive": 199702473,
+  "transmit": 409225,
+  "disk": 6391256
+}
