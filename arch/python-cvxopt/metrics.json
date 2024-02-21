@@ -1,0 +1,24 @@
+{
+  "name": "python-cvxopt",
+  "version": "1.3.2-3",
+  "depends": [
+    "blas",
+    "glibc",
+    "lapack",
+    "python",
+    "suitesparse"
+  ],
+  "makedepends": [
+    "gsl",
+    "fftw",
+    "glpk",
+    "dsdp",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199558726,
+  "transmit": 306998,
+  "disk": 12403383
+}
