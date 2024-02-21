@@ -1,0 +1,29 @@
+{
+  "name": "qtox",
+  "version": "1.17.6-4",
+  "depends": [
+    "desktop-file-utils",
+    "libxss",
+    "openal",
+    "ffmpeg",
+    "qrencode",
+    "qt5-svg",
+    "sqlcipher",
+    "libexif",
+    "toxcore",
+    "sonnet5",
+    "snorenotify",
+    "libgl"
+  ],
+  "makedepends": [
+    "qt5-tools",
+    "git",
+    "check",
+    "cmake",
+    "mesa",
+    "libglvnd"
+  ],
+  "receive": 199523416,
+  "transmit": 289488,
+  "disk": 22182344
+}
