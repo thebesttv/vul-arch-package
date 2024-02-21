@@ -1,0 +1,16 @@
+{
+  "name": "zaproxy",
+  "version": "2.14.0-1",
+  "depends": [
+    "bash",
+    "java-runtime",
+    "ttf-font"
+  ],
+  "makedepends": [
+    "gradle",
+    "java-environment=11"
+  ],
+  "receive": 205264126,
+  "transmit": 318648,
+  "disk": 37570621
+}
