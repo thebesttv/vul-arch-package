@@ -1,0 +1,15 @@
+{
+  "name": "docbook-utils",
+  "version": "0.6.14-13",
+  "depends": [
+    "openjade",
+    "docbook-dsssl",
+    "docbook-sgml31"
+  ],
+  "makedepends": [
+    "perl-sgmls"
+  ],
+  "receive": 199720476,
+  "transmit": 369533,
+  "disk": 728564
+}
