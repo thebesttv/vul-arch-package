@@ -1,0 +1,16 @@
+{
+  "name": "waifu2x-ncnn-vulkan",
+  "version": "20220728-3",
+  "depends": [
+    "libwebp",
+    "ncnn"
+  ],
+  "makedepends": [
+    "cmake",
+    "glslang",
+    "vulkan-headers"
+  ],
+  "receive": 199608372,
+  "transmit": 359256,
+  "disk": 71306213
+}
