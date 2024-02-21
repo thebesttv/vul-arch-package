@@ -1,0 +1,14 @@
+{
+  "name": "hunspell-nl",
+  "version": "2.20.19-3",
+  "depends": [
+    "hunspell"
+  ],
+  "makedepends": [
+    "unzip",
+    "qt6-webengine"
+  ],
+  "receive": 199581781,
+  "transmit": 308158,
+  "disk": 5282793
+}
