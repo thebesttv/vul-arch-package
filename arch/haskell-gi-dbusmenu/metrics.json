@@ -1,0 +1,20 @@
+{
+  "name": "haskell-gi-dbusmenu",
+  "version": "0.4.13-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-glib",
+    "haskell-gi-gobject",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "libdbusmenu-glib"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199684214,
+  "transmit": 289563,
+  "disk": 279981
+}
