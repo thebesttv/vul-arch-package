@@ -1,0 +1,15 @@
+{
+  "name": "libretro-yabause",
+  "version": "3342-1",
+  "depends": [
+    "glew",
+    "glibc",
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 264698872,
+  "transmit": 456459,
+  "disk": 179461337
+}
