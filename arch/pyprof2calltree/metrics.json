@@ -1,0 +1,13 @@
+{
+  "name": "pyprof2calltree",
+  "version": "1.4.5-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199577866,
+  "transmit": 332611,
+  "disk": 157234
+}
