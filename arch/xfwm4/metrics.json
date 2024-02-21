@@ -1,0 +1,18 @@
+{
+  "name": "xfwm4",
+  "version": "4.18.0-2",
+  "depends": [
+    "libxfce4ui",
+    "xfconf",
+    "libwnck3",
+    "libepoxy",
+    "libxpresent",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 201720322,
+  "transmit": 899072,
+  "disk": 12049419
+}
