@@ -1,0 +1,11 @@
+{
+  "name": "dvtm",
+  "version": "0.15-5",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199750941,
+  "transmit": 444225,
+  "disk": 296916
+}
