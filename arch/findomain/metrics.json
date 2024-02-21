@@ -1,0 +1,14 @@
+{
+  "name": "findomain",
+  "version": "9.0.4-1",
+  "depends": [
+    "gcc-libs",
+    "libssl.so"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 200194332,
+  "transmit": 949523,
+  "disk": 4497253
+}
