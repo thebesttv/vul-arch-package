@@ -1,0 +1,14 @@
+{
+  "name": "radamsa",
+  "version": "0.7-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "owl-lisp"
+  ],
+  "receive": 199501758,
+  "transmit": 250111,
+  "disk": 562893
+}
