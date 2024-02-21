@@ -1,0 +1,15 @@
+{
+  "name": "lib32-nettle",
+  "version": "3.9.1-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-gmp",
+    "nettle=3.9.1"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 199523243,
+  "transmit": 289154,
+  "disk": 10070800
+}
