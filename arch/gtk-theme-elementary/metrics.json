@@ -1,0 +1,13 @@
+{
+  "name": "gtk-theme-elementary",
+  "version": "7.3.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "meson",
+    "sassc"
+  ],
+  "receive": 200077567,
+  "transmit": 687658,
+  "disk": 10978492
+}
