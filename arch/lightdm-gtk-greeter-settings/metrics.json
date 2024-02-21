@@ -1,0 +1,16 @@
+{
+  "name": "lightdm-gtk-greeter-settings",
+  "version": "1.2.2-8",
+  "depends": [
+    "gtk-update-icon-cache",
+    "lightdm-gtk-greeter",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "git",
+    "python-distutils-extra"
+  ],
+  "receive": 199726550,
+  "transmit": 406577,
+  "disk": 7199622
+}
