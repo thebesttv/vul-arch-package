@@ -1,0 +1,21 @@
+{
+  "name": "lib32-amdvlk",
+  "version": "2024.Q1.1-1",
+  "depends": [
+    "lib32-zstd"
+  ],
+  "makedepends": [
+    "perl-xml-xpath",
+    "python",
+    "lib32-wayland",
+    "lib32-libxrandr",
+    "xorg-server-devel",
+    "python-jinja",
+    "cmake",
+    "ninja",
+    "git"
+  ],
+  "receive": 199600699,
+  "transmit": 284935,
+  "disk": 241525
+}
