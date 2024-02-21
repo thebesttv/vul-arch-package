@@ -1,0 +1,18 @@
+{
+  "name": "python-pytest-examples",
+  "version": "0.0.10-1",
+  "depends": [
+    "python",
+    "python-black",
+    "python-pytest",
+    "python-ruff"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199545488,
+  "transmit": 272334,
+  "disk": 230725
+}
