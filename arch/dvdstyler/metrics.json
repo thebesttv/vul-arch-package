@@ -1,0 +1,20 @@
+{
+  "name": "dvdstyler",
+  "version": "3.2.1-2",
+  "depends": [
+    "cdrtools",
+    "dvdauthor",
+    "dvd+rw-tools",
+    "ffmpeg4.4",
+    "wxsvg"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "xmlto",
+    "zip",
+    "ffmpeg"
+  ],
+  "receive": 199668055,
+  "transmit": 390564,
+  "disk": 26822984
+}
