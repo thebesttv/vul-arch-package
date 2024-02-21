@@ -1,0 +1,14 @@
+{
+  "name": "wasm-pack",
+  "version": "0.12.1-1",
+  "depends": [
+    "bzip2",
+    "curl"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199623964,
+  "transmit": 398720,
+  "disk": 1472822
+}
