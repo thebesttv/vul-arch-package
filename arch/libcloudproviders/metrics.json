@@ -1,0 +1,17 @@
+{
+  "name": "libcloudproviders",
+  "version": "0.3.5-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "vala"
+  ],
+  "receive": 199641006,
+  "transmit": 405922,
+  "disk": 775042
+}
