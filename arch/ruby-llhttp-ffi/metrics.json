@@ -1,0 +1,16 @@
+{
+  "name": "ruby-llhttp-ffi",
+  "version": "0.5.0-1",
+  "depends": [
+    "ruby-ffi-compiler",
+    "ruby-rake"
+  ],
+  "makedepends": [
+    "ruby-rake-compiler",
+    "ruby-async-io",
+    "ruby-rspec"
+  ],
+  "receive": 199576003,
+  "transmit": 338534,
+  "disk": 1630833
+}
