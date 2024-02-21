@@ -1,0 +1,14 @@
+{
+  "name": "libaxc",
+  "version": "0.3.7-1",
+  "depends": [
+    "libsignal-protocol-c",
+    "sqlite",
+    "libgcrypt",
+    "glib2"
+  ],
+  "makedepends": [],
+  "receive": 199668414,
+  "transmit": 429238,
+  "disk": 383913
+}
