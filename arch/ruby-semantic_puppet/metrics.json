@@ -1,0 +1,14 @@
+{
+  "name": "ruby-semantic_puppet",
+  "version": "1.1.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "rubygems"
+  ],
+  "receive": 199622969,
+  "transmit": 394608,
+  "disk": 122942
+}
