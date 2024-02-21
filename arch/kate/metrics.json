@@ -1,0 +1,18 @@
+{
+  "name": "kate",
+  "version": "23.08.5-1",
+  "depends": [
+    "knewstuff5",
+    "ktexteditor5",
+    "kactivities5",
+    "kuserfeedback5",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199557797,
+  "transmit": 298974,
+  "disk": 50425956
+}
