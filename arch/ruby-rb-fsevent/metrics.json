@@ -1,0 +1,16 @@
+{
+  "name": "ruby-rb-fsevent",
+  "version": "0.11.2-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-rspec",
+    "ruby-bundler"
+  ],
+  "receive": 199856667,
+  "transmit": 527000,
+  "disk": 435832
+}
