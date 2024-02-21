@@ -1,0 +1,11 @@
+{
+  "name": "hexedit",
+  "version": "1.6-1",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199535858,
+  "transmit": 307392,
+  "disk": 236323
+}
