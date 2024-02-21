@@ -1,0 +1,15 @@
+{
+  "name": "pyqt5-chart",
+  "version": "5.15.6-2",
+  "depends": [
+    "qt5-charts",
+    "python-pyqt5"
+  ],
+  "makedepends": [
+    "sip",
+    "pyqt-builder"
+  ],
+  "receive": 199613561,
+  "transmit": 335632,
+  "disk": 546308
+}
