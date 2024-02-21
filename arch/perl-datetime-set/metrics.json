@@ -1,0 +1,13 @@
+{
+  "name": "perl-datetime-set",
+  "version": "0.3900-4",
+  "depends": [
+    "perl>=5.10.0",
+    "perl-set-infinite>=0.59",
+    "perl-datetime>=0.12"
+  ],
+  "makedepends": [],
+  "receive": 199653197,
+  "transmit": 351322,
+  "disk": 371339
+}
