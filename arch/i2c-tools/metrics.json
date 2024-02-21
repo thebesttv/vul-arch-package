@@ -1,0 +1,14 @@
+{
+  "name": "i2c-tools",
+  "version": "4.3-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "python",
+    "git"
+  ],
+  "receive": 199523126,
+  "transmit": 281974,
+  "disk": 595803
+}
