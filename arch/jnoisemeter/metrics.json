@@ -1,0 +1,16 @@
+{
+  "name": "jnoisemeter",
+  "version": "0.4.1-1",
+  "depends": [
+    "clthreads",
+    "clxclient",
+    "gcc-libs",
+    "glibc",
+    "jack",
+    "libx11"
+  ],
+  "makedepends": [],
+  "receive": 199675107,
+  "transmit": 423445,
+  "disk": 409966
+}
