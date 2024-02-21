@@ -1,0 +1,13 @@
+{
+  "name": "perl-sub-quote",
+  "version": "1:2.006008-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-test-fatal>=0.010"
+  ],
+  "receive": 199930616,
+  "transmit": 557441,
+  "disk": 278728
+}
