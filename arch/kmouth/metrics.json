@@ -1,0 +1,15 @@
+{
+  "name": "kmouth",
+  "version": "23.08.5-1",
+  "depends": [
+    "kio5",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 201947924,
+  "transmit": 506250,
+  "disk": 9103328
+}
