@@ -1,0 +1,11 @@
+{
+  "name": "lzop",
+  "version": "1.04-3",
+  "depends": [
+    "lzo"
+  ],
+  "makedepends": [],
+  "receive": 199819858,
+  "transmit": 526452,
+  "disk": 2283443
+}
