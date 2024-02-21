@@ -1,0 +1,13 @@
+{
+  "name": "ruby-mime-types-data",
+  "version": "3.2023.0218.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199542073,
+  "transmit": 278261,
+  "disk": 294365
+}
