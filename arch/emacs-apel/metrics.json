@@ -1,0 +1,13 @@
+{
+  "name": "emacs-apel",
+  "version": "10.8.20201107-1",
+  "depends": [
+    "emacs"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199501834,
+  "transmit": 274866,
+  "disk": 3353920
+}
