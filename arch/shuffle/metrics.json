@@ -1,0 +1,13 @@
+{
+  "name": "shuffle",
+  "version": "1.5-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "gcc"
+  ],
+  "receive": 199524138,
+  "transmit": 298401,
+  "disk": 106713
+}
