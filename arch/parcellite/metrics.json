@@ -1,0 +1,14 @@
+{
+  "name": "parcellite",
+  "version": "1.2.2-1",
+  "depends": [
+    "gtk2"
+  ],
+  "makedepends": [
+    "intltool",
+    "psmisc"
+  ],
+  "receive": 199624719,
+  "transmit": 330660,
+  "disk": 1800685
+}
