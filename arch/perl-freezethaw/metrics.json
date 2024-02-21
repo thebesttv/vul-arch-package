@@ -1,0 +1,11 @@
+{
+  "name": "perl-freezethaw",
+  "version": "0.5001-8",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199786177,
+  "transmit": 512527,
+  "disk": 108593
+}
