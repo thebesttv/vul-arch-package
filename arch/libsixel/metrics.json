@@ -1,0 +1,17 @@
+{
+  "name": "libsixel",
+  "version": "1.10.3-5",
+  "depends": [
+    "libjpeg-turbo",
+    "libpng",
+    "python",
+    "curl",
+    "gdk-pixbuf2"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199497341,
+  "transmit": 238014,
+  "disk": 14944283
+}
