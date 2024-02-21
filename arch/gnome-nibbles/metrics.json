@@ -1,0 +1,21 @@
+{
+  "name": "gnome-nibbles",
+  "version": "4.0.2-1",
+  "depends": [
+    "gsound",
+    "libgee",
+    "libgnome-games-support-2",
+    "gtk4"
+  ],
+  "makedepends": [
+    "appstream",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 202222755,
+  "transmit": 436055,
+  "disk": 18935746
+}
