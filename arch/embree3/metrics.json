@@ -1,0 +1,17 @@
+{
+  "name": "embree3",
+  "version": "3.13.5-2",
+  "depends": [
+    "intel-tbb"
+  ],
+  "makedepends": [
+    "cmake",
+    "ispc",
+    "freeglut",
+    "libxmu",
+    "ninja"
+  ],
+  "receive": 213974043,
+  "transmit": 806183,
+  "disk": 41537589
+}
