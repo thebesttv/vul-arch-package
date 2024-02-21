@@ -1,0 +1,12 @@
+{
+  "name": "progpick",
+  "version": "0.2.0-1",
+  "depends": [],
+  "makedepends": [
+    "cargo",
+    "scdoc"
+  ],
+  "receive": 199513449,
+  "transmit": 262674,
+  "disk": 219823
+}
