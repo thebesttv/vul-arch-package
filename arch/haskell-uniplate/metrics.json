@@ -1,0 +1,16 @@
+{
+  "name": "haskell-uniplate",
+  "version": "1.6.13-213",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-syb",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199993578,
+  "transmit": 628280,
+  "disk": 499643
+}
