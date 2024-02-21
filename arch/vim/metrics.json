@@ -1,0 +1,24 @@
+{
+  "name": "vim",
+  "version": "9.1.0080-1",
+  "depends": [],
+  "makedepends": [
+    "gawk",
+    "git",
+    "glibc",
+    "gpm",
+    "gtk3",
+    "libcanberra",
+    "libgcrypt",
+    "libxt",
+    "lua",
+    "perl",
+    "python",
+    "ruby",
+    "tcl",
+    "zlib"
+  ],
+  "receive": 397775527,
+  "transmit": 1847363,
+  "disk": 267806688
+}

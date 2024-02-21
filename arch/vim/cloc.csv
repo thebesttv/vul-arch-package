@@ -1,0 +1,37 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=3.49 s (816.6 files/s 496398.0 lines/s)"
+1983,vim script,58778,58972,395256
+190,C,48716,80034,374789
+41,PO File,88534,14776,224804
+217,Text,47761,0,224184
+66,C/C++ Header,3940,5589,31605
+44,Bourne Shell,2360,1847,16170
+42,diff,111,1248,15750
+4,C++,1164,1145,5973
+148,IDL,19,0,5574
+1,m4,384,184,4140
+14,make,833,1623,3852
+26,Python,168,190,972
+11,YAML,131,96,947
+9,Perl,225,259,878
+7,Markdown,240,0,779
+3,awk,35,101,723
+3,XML,389,13,679
+1,Forth,407,1,630
+1,Prolog,386,0,609
+1,Verilog-SystemVerilog,354,0,476
+1,Smalltalk,354,0,458
+1,Objective-C,83,90,351
+1,DAL,400,263,309
+2,PHP,0,0,272
+5,Windows Module Definition,121,6,262
+15,DOS Batch,47,103,222
+3,Windows Resource File,36,51,203
+1,Fortran 77,0,0,111
+1,SVG,0,0,44
+1,INI,5,0,22
+1,TNSDL,5,0,17
+2,Lua,2,0,10
+4,sed,0,1,8
+1,C Shell,0,6,7
+1,JSON,0,0,1
+2852,SUM,255988,166598,1311087
