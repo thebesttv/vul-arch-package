@@ -1,0 +1,11 @@
+{
+  "name": "mp3unicode",
+  "version": "1.2.1-6",
+  "depends": [
+    "taglib"
+  ],
+  "makedepends": [],
+  "receive": 199512964,
+  "transmit": 244168,
+  "disk": 687569
+}
