@@ -1,0 +1,24 @@
+{
+  "name": "alot",
+  "version": "0.10-6",
+  "depends": [
+    "desktop-file-utils",
+    "notmuch",
+    "python-configobj",
+    "python-gpgme",
+    "python-magic",
+    "python-twisted",
+    "python-urwid",
+    "python-urwidtrees",
+    "python-cffi"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-sphinx"
+  ],
+  "receive": 199589625,
+  "transmit": 381582,
+  "disk": 1375423
+}
