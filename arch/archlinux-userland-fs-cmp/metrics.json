@@ -1,0 +1,15 @@
+{
+  "name": "archlinux-userland-fs-cmp",
+  "version": "0.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "liblzma.so"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199683686,
+  "transmit": 418911,
+  "disk": 319996
+}
