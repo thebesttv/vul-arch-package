@@ -1,0 +1,11 @@
+{
+  "name": "perl-digest-nilsimsa",
+  "version": "0.06-24",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199607661,
+  "transmit": 358445,
+  "disk": 366009
+}
