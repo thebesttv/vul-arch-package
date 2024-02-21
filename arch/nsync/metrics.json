@@ -1,0 +1,13 @@
+{
+  "name": "nsync",
+  "version": "1.26.0-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199544881,
+  "transmit": 297221,
+  "disk": 1843038
+}
