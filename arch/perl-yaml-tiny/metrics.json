@@ -1,0 +1,11 @@
+{
+  "name": "perl-yaml-tiny",
+  "version": "1.74-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199870676,
+  "transmit": 501259,
+  "disk": 534430
+}
