@@ -1,0 +1,21 @@
+{
+  "name": "kmail",
+  "version": "23.08.5-1",
+  "depends": [
+    "kdepim-runtime",
+    "kmail-account-wizard",
+    "akonadi-import-wizard",
+    "mbox-importer",
+    "pim-data-exporter",
+    "pim-sieve-editor",
+    "kontactinterface",
+    "ktnef"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199846172,
+  "transmit": 425069,
+  "disk": 56441665
+}
