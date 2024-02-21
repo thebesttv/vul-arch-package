@@ -1,0 +1,27 @@
+{
+  "name": "libretro-pcsx2",
+  "version": "17053-2",
+  "depends": [
+    "ffmpeg",
+    "gcc-libs",
+    "glibc",
+    "libaio",
+    "libglvnd",
+    "soundtouch",
+    "systemd-libs",
+    "xorg-xrandr",
+    "zlib"
+  ],
+  "makedepends": [
+    "clang",
+    "cmake",
+    "git",
+    "lld",
+    "ninja",
+    "png++",
+    "systemd"
+  ],
+  "receive": 782068286,
+  "transmit": 2525144,
+  "disk": 821005644
+}
