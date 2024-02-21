@@ -1,0 +1,18 @@
+{
+  "name": "kamoso",
+  "version": "23.08.5-1",
+  "depends": [
+    "purpose5",
+    "gst-plugins-good",
+    "gst-plugins-bad",
+    "kirigami2"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "python"
+  ],
+  "receive": 200037512,
+  "transmit": 452710,
+  "disk": 1896694
+}
