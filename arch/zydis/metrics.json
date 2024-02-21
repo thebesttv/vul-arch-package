@@ -1,0 +1,17 @@
+{
+  "name": "zydis",
+  "version": "4.0.0-3",
+  "depends": [
+    "gcc-libs",
+    "zycore-c"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "ruby-ronn-ng",
+    "doxygen"
+  ],
+  "receive": 217316110,
+  "transmit": 348357,
+  "disk": 32164149
+}
