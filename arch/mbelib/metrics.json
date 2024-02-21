@@ -1,0 +1,13 @@
+{
+  "name": "mbelib",
+  "version": "1.3.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199664516,
+  "transmit": 428984,
+  "disk": 2699853
+}
