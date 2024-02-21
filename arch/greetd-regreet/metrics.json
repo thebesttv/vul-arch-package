@@ -1,0 +1,16 @@
+{
+  "name": "greetd-regreet",
+  "version": "0.1.1-1",
+  "depends": [
+    "cage",
+    "gcc-libs",
+    "greetd",
+    "gtk4"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199508766,
+  "transmit": 259994,
+  "disk": 402681
+}
