@@ -1,0 +1,13 @@
+{
+  "name": "xfce4-mount-plugin",
+  "version": "1.1.6-1",
+  "depends": [
+    "xfce4-panel"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199659322,
+  "transmit": 417668,
+  "disk": 3038187
+}
