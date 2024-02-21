@@ -1,0 +1,17 @@
+{
+  "name": "merkaartor",
+  "version": "0.19.0-8",
+  "depends": [
+    "exiv2",
+    "gdal",
+    "gpsd",
+    "hicolor-icon-theme",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199537346,
+  "transmit": 289353,
+  "disk": 21205956
+}
