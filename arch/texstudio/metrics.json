@@ -1,0 +1,26 @@
+{
+  "name": "texstudio",
+  "version": "4.7.2-2",
+  "depends": [
+    "poppler-qt6",
+    "qt6-svg",
+    "libxkbcommon-x11",
+    "hicolor-icon-theme",
+    "hunspell",
+    "quazip-qt6",
+    "desktop-file-utils",
+    "qt6-declarative",
+    "qt6-5compat"
+  ],
+  "makedepends": [
+    "qt6-tools",
+    "mercurial",
+    "imagemagick",
+    "librsvg",
+    "ninja",
+    "cmake"
+  ],
+  "receive": 315046788,
+  "transmit": 1728496,
+  "disk": 539051203
+}
