@@ -1,0 +1,22 @@
+{
+  "name": "synfig",
+  "version": "1.4.4-5",
+  "depends": [
+    "fftw",
+    "imagemagick",
+    "libjpeg-turbo",
+    "libmng",
+    "libxml++2.6",
+    "mlt",
+    "openexr",
+    "pango"
+  ],
+  "makedepends": [
+    "boost",
+    "etl",
+    "intltool"
+  ],
+  "receive": 199644020,
+  "transmit": 353986,
+  "disk": 69080939
+}
