@@ -1,0 +1,17 @@
+{
+  "name": "ocl-icd",
+  "version": "2.3.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "ruby",
+    "mesa",
+    "xmlto",
+    "asciidoc",
+    "opencl-headers>=2.1"
+  ],
+  "receive": 199605406,
+  "transmit": 374460,
+  "disk": 882481
+}
