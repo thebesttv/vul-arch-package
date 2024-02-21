@@ -1,0 +1,13 @@
+{
+  "name": "libxrender",
+  "version": "0.9.11-1",
+  "depends": [
+    "libx11"
+  ],
+  "makedepends": [
+    "xorgproto"
+  ],
+  "receive": 200458142,
+  "transmit": 889980,
+  "disk": 2376038
+}
