@@ -1,0 +1,13 @@
+{
+  "name": "catch2-v2",
+  "version": "2.13.10-2",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake",
+    "python"
+  ],
+  "receive": 246636167,
+  "transmit": 392485,
+  "disk": 52756991
+}
