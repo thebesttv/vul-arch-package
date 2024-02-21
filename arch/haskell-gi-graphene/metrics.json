@@ -1,0 +1,20 @@
+{
+  "name": "haskell-gi-graphene",
+  "version": "1.0.7-40",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-glib",
+    "haskell-gi-gobject",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "graphene"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199787351,
+  "transmit": 403499,
+  "disk": 280101
+}
