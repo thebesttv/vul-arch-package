@@ -1,0 +1,17 @@
+{
+  "name": "python-humanize",
+  "version": "4.8.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-hatch-vcs",
+    "python-hatchling"
+  ],
+  "receive": 199669437,
+  "transmit": 417543,
+  "disk": 887694
+}
