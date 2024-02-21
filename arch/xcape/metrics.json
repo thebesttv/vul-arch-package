@@ -1,0 +1,11 @@
+{
+  "name": "xcape",
+  "version": "1.2-4",
+  "depends": [
+    "libxtst"
+  ],
+  "makedepends": [],
+  "receive": 199502555,
+  "transmit": 306150,
+  "disk": 166481
+}
