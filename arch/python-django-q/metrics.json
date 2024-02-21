@@ -1,0 +1,28 @@
+{
+  "name": "python-django-q",
+  "version": "1.3.9-7",
+  "depends": [
+    "python-arrow",
+    "python-asgiref",
+    "python-blessed",
+    "python-dateutil",
+    "python-django",
+    "python-django-picklefield",
+    "python-future",
+    "python-pytz",
+    "python-redis",
+    "python-setuptools",
+    "python-six",
+    "python-sqlparse",
+    "python-wcwidth"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199666701,
+  "transmit": 395183,
+  "disk": 4133393
+}
