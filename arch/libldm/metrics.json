@@ -1,0 +1,20 @@
+{
+  "name": "libldm",
+  "version": "0.2.5-2",
+  "depends": [
+    "device-mapper",
+    "glib2",
+    "json-glib",
+    "libreadline.so",
+    "libuuid.so",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "systemd",
+    "gtk-doc"
+  ],
+  "receive": 199589381,
+  "transmit": 312570,
+  "disk": 1419975
+}
