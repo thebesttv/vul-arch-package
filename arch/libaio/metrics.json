@@ -1,0 +1,11 @@
+{
+  "name": "libaio",
+  "version": "0.3.113-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199627802,
+  "transmit": 380590,
+  "disk": 744867
+}
