@@ -1,0 +1,16 @@
+{
+  "name": "ifuse",
+  "version": "1.1.4-4",
+  "depends": [
+    "fuse2",
+    "libimobiledevice",
+    "libplist",
+    "usbmuxd"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199663999,
+  "transmit": 381172,
+  "disk": 502369
+}
