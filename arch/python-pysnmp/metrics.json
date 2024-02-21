@@ -1,0 +1,17 @@
+{
+  "name": "python-pysnmp",
+  "version": "4.4.12-7",
+  "depends": [
+    "python",
+    "python-pysmi",
+    "python-pyasn1",
+    "python-pycryptodomex"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 199678729,
+  "transmit": 442355,
+  "disk": 3370643
+}
