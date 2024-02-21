@@ -1,0 +1,21 @@
+{
+  "name": "calligra-plan",
+  "version": "3.3.0-4",
+  "depends": [
+    "akonadi-contacts5",
+    "kdiagram5",
+    "kactivities5",
+    "kholidays5",
+    "kcalendarcore5",
+    "kinit",
+    "kparts5",
+    "qca-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 204127874,
+  "transmit": 314727,
+  "disk": 37812506
+}
