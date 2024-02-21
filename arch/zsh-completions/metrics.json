@@ -1,0 +1,11 @@
+{
+  "name": "zsh-completions",
+  "version": "0.35.0-1",
+  "depends": [
+    "zsh"
+  ],
+  "makedepends": [],
+  "receive": 199722563,
+  "transmit": 409371,
+  "disk": 1901476
+}
