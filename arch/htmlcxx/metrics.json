@@ -1,0 +1,11 @@
+{
+  "name": "htmlcxx",
+  "version": "0.87-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199625262,
+  "transmit": 347043,
+  "disk": 2531155
+}
