@@ -1,0 +1,13 @@
+{
+  "name": "tt-rss",
+  "version": "2:r11707.373a2fec3-1",
+  "depends": [
+    "php-interpreter"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 321248237,
+  "transmit": 583122,
+  "disk": 177944981
+}
