@@ -1,0 +1,18 @@
+{
+  "name": "proxmark3",
+  "version": "4.17511-1",
+  "depends": [
+    "qt5-base",
+    "bluez-libs",
+    "jansson"
+  ],
+  "makedepends": [
+    "arm-none-eabi-gcc",
+    "arm-none-eabi-newlib",
+    "lua52",
+    "python"
+  ],
+  "receive": 199614377,
+  "transmit": 395216,
+  "disk": 123984798
+}
