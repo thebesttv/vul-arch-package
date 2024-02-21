@@ -1,0 +1,23 @@
+{
+  "name": "pd",
+  "version": "0.54.1-1",
+  "depends": [
+    "glibc",
+    "hicolor-icon-theme",
+    "sh",
+    "tcl",
+    "tk"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "fftw",
+    "gendesk",
+    "inkscape",
+    "jack",
+    "portaudio",
+    "portmidi"
+  ],
+  "receive": 209758598,
+  "transmit": 361563,
+  "disk": 29089177
+}
