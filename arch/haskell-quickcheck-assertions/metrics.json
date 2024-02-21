@@ -1,0 +1,17 @@
+{
+  "name": "haskell-quickcheck-assertions",
+  "version": "0.3.0-278",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-ieee754",
+    "haskell-pretty-show"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199611535,
+  "transmit": 381282,
+  "disk": 321724
+}
