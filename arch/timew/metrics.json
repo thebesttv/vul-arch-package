@@ -1,0 +1,13 @@
+{
+  "name": "timew",
+  "version": "1.7.1-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "gcc-libs",
+    "asciidoctor"
+  ],
+  "receive": 199660110,
+  "transmit": 401100,
+  "disk": 17242734
+}
