@@ -1,0 +1,22 @@
+{
+  "name": "sequoia-sop",
+  "version": "0.31.0-1",
+  "depends": [
+    "glibc",
+    "nettle",
+    "libnettle.so",
+    "libhogweed.so",
+    "bzip2",
+    "libbz2.so",
+    "gcc-libs",
+    "gmp"
+  ],
+  "makedepends": [
+    "git",
+    "cargo",
+    "clang"
+  ],
+  "receive": 199793502,
+  "transmit": 487521,
+  "disk": 640491
+}
