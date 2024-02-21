@@ -1,0 +1,19 @@
+{
+  "name": "perl-config-autoconf",
+  "version": "0.320-3",
+  "depends": [
+    "perl-capture-tiny",
+    "perl-file-slurper"
+  ],
+  "makedepends": [
+    "bison",
+    "flex",
+    "gawk",
+    "grep",
+    "pkg-config",
+    "sed"
+  ],
+  "receive": 200103690,
+  "transmit": 681816,
+  "disk": 388722
+}
