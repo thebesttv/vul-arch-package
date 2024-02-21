@@ -1,0 +1,15 @@
+{
+  "name": "ocaml-cairo",
+  "version": "0.6.4-5",
+  "depends": [
+    "ocaml",
+    "cairo"
+  ],
+  "makedepends": [
+    "ocaml-findlib",
+    "dune"
+  ],
+  "receive": 199631165,
+  "transmit": 339907,
+  "disk": 678842
+}
