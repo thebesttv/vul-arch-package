@@ -1,0 +1,24 @@
+{
+  "name": "liquidctl",
+  "version": "1.13.0-1",
+  "depends": [
+    "python",
+    "python-docopt",
+    "python-pyusb",
+    "python-hidapi",
+    "python-colorlog",
+    "i2c-tools",
+    "python-pillow",
+    "python-crcmod"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199663984,
+  "transmit": 396853,
+  "disk": 9599119
+}
