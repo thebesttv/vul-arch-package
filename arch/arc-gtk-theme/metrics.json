@@ -1,0 +1,14 @@
+{
+  "name": "arc-gtk-theme",
+  "version": "20221218-1",
+  "depends": [],
+  "makedepends": [
+    "meson>=0.53.0",
+    "sassc",
+    "glib2",
+    "gdk-pixbuf2"
+  ],
+  "receive": 199557667,
+  "transmit": 276358,
+  "disk": 11526589
+}
