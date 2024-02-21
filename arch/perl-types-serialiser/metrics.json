@@ -1,0 +1,11 @@
+{
+  "name": "perl-types-serialiser",
+  "version": "1.01-2",
+  "depends": [
+    "perl-common-sense"
+  ],
+  "makedepends": [],
+  "receive": 199714045,
+  "transmit": 471024,
+  "disk": 133027
+}
