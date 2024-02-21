@@ -1,0 +1,22 @@
+{
+  "name": "exiv2",
+  "version": "0.28.2-1",
+  "depends": [
+    "gcc-libs",
+    "zlib",
+    "expat",
+    "libexpat.so",
+    "gettext",
+    "curl",
+    "libcurl.so",
+    "libinih"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest",
+    "ninja"
+  ],
+  "receive": 222910984,
+  "transmit": 530363,
+  "disk": 144766510
+}
