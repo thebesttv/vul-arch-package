@@ -1,0 +1,13 @@
+{
+  "name": "lame",
+  "version": "3.100-4",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [
+    "nasm"
+  ],
+  "receive": 199560789,
+  "transmit": 306031,
+  "disk": 7876327
+}
