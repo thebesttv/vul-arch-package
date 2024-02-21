@@ -1,0 +1,20 @@
+{
+  "name": "raylib",
+  "version": "5.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git",
+    "libx11",
+    "libxcursor",
+    "libxinerama",
+    "libxrandr",
+    "ninja",
+    "vulkan-headers",
+    "xorg-server-devel",
+    "xorg-xinput"
+  ],
+  "receive": 690709622,
+  "transmit": 2359276,
+  "disk": 544777638
+}
