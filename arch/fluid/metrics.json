@@ -1,0 +1,19 @@
+{
+  "name": "fluid",
+  "version": "1.2.0-1",
+  "depends": [
+    "qt5-graphicaleffects",
+    "qt5-quickcontrols2",
+    "qt5-svg",
+    "qt5-wayland"
+  ],
+  "makedepends": [
+    "liri-cmake-shared",
+    "nodejs-material-design-icons",
+    "qt5-tools",
+    "clang"
+  ],
+  "receive": 199511114,
+  "transmit": 278341,
+  "disk": 6822565
+}
