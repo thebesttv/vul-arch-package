@@ -1,0 +1,16 @@
+{
+  "name": "git-smash",
+  "version": "0.1.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "git"
+  ],
+  "makedepends": [
+    "cargo",
+    "scdoc"
+  ],
+  "receive": 199565122,
+  "transmit": 357846,
+  "disk": 181268
+}
