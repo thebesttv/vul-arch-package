@@ -1,0 +1,14 @@
+{
+  "name": "nextcloud-app-notify_push",
+  "version": "0.6.9-1",
+  "depends": [],
+  "makedepends": [
+    "cargo",
+    "nextcloud",
+    "rsync",
+    "yq"
+  ],
+  "receive": 199594157,
+  "transmit": 315209,
+  "disk": 815924
+}
