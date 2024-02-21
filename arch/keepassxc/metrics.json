@@ -1,0 +1,25 @@
+{
+  "name": "keepassxc",
+  "version": "2.7.6-3",
+  "depends": [
+    "argon2",
+    "botan",
+    "curl",
+    "hicolor-icon-theme",
+    "libxtst",
+    "minizip",
+    "pcsclite",
+    "qrencode",
+    "qt5-svg",
+    "qt5-x11extras",
+    "libusb"
+  ],
+  "makedepends": [
+    "asciidoctor",
+    "cmake",
+    "qt5-tools"
+  ],
+  "receive": 208217014,
+  "transmit": 389556,
+  "disk": 41692097
+}
