@@ -1,0 +1,27 @@
+{
+  "name": "openmw",
+  "version": "0.48.0-5",
+  "depends": [
+    "openal",
+    "openscenegraph",
+    "mygui",
+    "qt5-base",
+    "ffmpeg",
+    "sdl2",
+    "unshield",
+    "libxt",
+    "boost-libs",
+    "bullet-dp",
+    "yaml-cpp",
+    "luajit"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "doxygen",
+    "ninja"
+  ],
+  "receive": 205820023,
+  "transmit": 318009,
+  "disk": 28859866
+}
