@@ -1,0 +1,16 @@
+{
+  "name": "kdesignerplugin",
+  "version": "5.115.0-1",
+  "depends": [
+    "kconfig5",
+    "kcoreaddons5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "kdoctools5"
+  ],
+  "receive": 199520295,
+  "transmit": 263136,
+  "disk": 24631097
+}
