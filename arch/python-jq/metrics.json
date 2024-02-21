@@ -1,0 +1,19 @@
+{
+  "name": "python-jq",
+  "version": "1.6.0-1",
+  "depends": [
+    "jq",
+    "python"
+  ],
+  "makedepends": [
+    "cython0",
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199676603,
+  "transmit": 393741,
+  "disk": 8935769
+}
