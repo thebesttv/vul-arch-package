@@ -1,0 +1,15 @@
+{
+  "name": "qps",
+  "version": "2.8.0-3",
+  "depends": [
+    "hicolor-icon-theme",
+    "liblxqt",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "lxqt-build-tools"
+  ],
+  "receive": 199658774,
+  "transmit": 405986,
+  "disk": 3479333
+}
