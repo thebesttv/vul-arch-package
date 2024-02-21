@@ -1,0 +1,20 @@
+{
+  "name": "xfburn",
+  "version": "0.7.0-1",
+  "depends": [
+    "libburn",
+    "libisofs",
+    "gtk3",
+    "libxfce4ui",
+    "exo",
+    "gst-plugins-base-libs",
+    "libgudev",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199707739,
+  "transmit": 420956,
+  "disk": 7220824
+}
