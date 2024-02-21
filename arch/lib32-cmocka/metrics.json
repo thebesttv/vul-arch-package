@@ -1,0 +1,14 @@
+{
+  "name": "lib32-cmocka",
+  "version": "1.1.7-1",
+  "depends": [
+    "cmocka",
+    "lib32-glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199518787,
+  "transmit": 281552,
+  "disk": 779049
+}
