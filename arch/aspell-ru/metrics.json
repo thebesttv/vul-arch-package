@@ -1,0 +1,11 @@
+{
+  "name": "aspell-ru",
+  "version": "0.99f7.1-1",
+  "depends": [
+    "aspell"
+  ],
+  "makedepends": [],
+  "receive": 199508805,
+  "transmit": 287197,
+  "disk": 2389225
+}
