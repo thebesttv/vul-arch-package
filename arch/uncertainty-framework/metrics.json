@@ -1,0 +1,20 @@
+{
+  "name": "uncertainty-framework",
+  "version": "1.2.0-8",
+  "depends": [
+    "magma",
+    "ceres-solver"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "ninja",
+    "git",
+    "gflags",
+    "cuda",
+    "eigen"
+  ],
+  "receive": 199915585,
+  "transmit": 471874,
+  "disk": 108202583
+}
