@@ -1,0 +1,17 @@
+{
+  "name": "libmediaart",
+  "version": "1.9.6-2",
+  "depends": [
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199589111,
+  "transmit": 341293,
+  "disk": 11559837
+}
