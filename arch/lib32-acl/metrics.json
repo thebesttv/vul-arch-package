@@ -1,0 +1,14 @@
+{
+  "name": "lib32-acl",
+  "version": "2.3.2-1",
+  "depends": [
+    "acl"
+  ],
+  "makedepends": [
+    "gcc-multilib",
+    "lib32-attr"
+  ],
+  "receive": 199559056,
+  "transmit": 259073,
+  "disk": 3249095
+}
