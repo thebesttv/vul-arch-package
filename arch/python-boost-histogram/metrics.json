@@ -1,0 +1,17 @@
+{
+  "name": "python-boost-histogram",
+  "version": "1.3.2-2",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 239193301,
+  "transmit": 473910,
+  "disk": 57759024
+}
