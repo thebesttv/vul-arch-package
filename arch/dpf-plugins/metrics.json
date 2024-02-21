@@ -1,0 +1,17 @@
+{
+  "name": "dpf-plugins",
+  "version": "1.7-1",
+  "depends": [],
+  "makedepends": [
+    "dssi",
+    "gendesk",
+    "jack",
+    "ladspa",
+    "libglvnd",
+    "lv2",
+    "projectm"
+  ],
+  "receive": 273253671,
+  "transmit": 1654932,
+  "disk": 235646493
+}
