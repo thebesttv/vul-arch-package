@@ -1,0 +1,15 @@
+{
+  "name": "patroneo",
+  "version": "2.4.1-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "libcalfbox-lss",
+    "python",
+    "python-pyqt5",
+    "ttf-dejavu"
+  ],
+  "makedepends": [],
+  "receive": 199515159,
+  "transmit": 265216,
+  "disk": 10673396
+}
