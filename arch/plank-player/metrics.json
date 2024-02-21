@@ -1,0 +1,17 @@
+{
+  "name": "plank-player",
+  "version": "5.27.10-1",
+  "depends": [
+    "kirigami2",
+    "ki18n5",
+    "qt5-multimedia",
+    "qt5-graphicaleffects",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199571565,
+  "transmit": 237216,
+  "disk": 676537
+}
