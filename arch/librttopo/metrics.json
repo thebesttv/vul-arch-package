@@ -1,0 +1,11 @@
+{
+  "name": "librttopo",
+  "version": "1.1.0-5",
+  "depends": [
+    "geos"
+  ],
+  "makedepends": [],
+  "receive": 199713467,
+  "transmit": 445719,
+  "disk": 1913528
+}
