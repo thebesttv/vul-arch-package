@@ -1,0 +1,15 @@
+{
+  "name": "proxytunnel",
+  "version": "1.12.0-1",
+  "depends": [
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "xmlto"
+  ],
+  "receive": 199499104,
+  "transmit": 243927,
+  "disk": 373948
+}
