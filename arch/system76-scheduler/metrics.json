@@ -1,0 +1,20 @@
+{
+  "name": "system76-scheduler",
+  "version": "2.0.1-1",
+  "depends": [
+    "bcc-tools",
+    "glibc",
+    "libpipewire"
+  ],
+  "makedepends": [
+    "clang",
+    "git",
+    "lld",
+    "rust",
+    "just",
+    "linux-headers"
+  ],
+  "receive": 199651547,
+  "transmit": 358153,
+  "disk": 988699
+}
