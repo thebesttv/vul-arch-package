@@ -1,0 +1,19 @@
+{
+  "name": "python-gitpython",
+  "version": "3.1.42-1",
+  "depends": [
+    "git",
+    "python",
+    "python-gitdb",
+    "python-typing-extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199688428,
+  "transmit": 367247,
+  "disk": 14591702
+}
