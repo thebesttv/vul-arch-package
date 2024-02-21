@@ -1,0 +1,18 @@
+{
+  "name": "ruby-net-ping",
+  "version": "2.0.8-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc",
+    "ruby-rake-compiler",
+    "ruby-yard",
+    "ruby-rspec",
+    "ruby-bundler"
+  ],
+  "receive": 199611439,
+  "transmit": 365328,
+  "disk": 238640
+}
