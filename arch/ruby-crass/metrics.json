@@ -1,0 +1,14 @@
+{
+  "name": "ruby-crass",
+  "version": "1.0.6-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-bundler",
+    "ruby-rake"
+  ],
+  "receive": 199540416,
+  "transmit": 293122,
+  "disk": 834342
+}
