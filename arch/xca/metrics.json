@@ -1,0 +1,16 @@
+{
+  "name": "xca",
+  "version": "2.5.0-1",
+  "depends": [
+    "qt6-tools",
+    "libltdl",
+    "desktop-file-utils",
+    "gtk-update-icon-cache"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200852072,
+  "transmit": 959358,
+  "disk": 8864279
+}
