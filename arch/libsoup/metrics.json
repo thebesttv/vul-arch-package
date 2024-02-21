@@ -1,0 +1,25 @@
+{
+  "name": "libsoup",
+  "version": "2.74.3-1",
+  "depends": [
+    "brotli",
+    "glib-networking",
+    "glib2",
+    "krb5",
+    "libpsl",
+    "libsysprof-capture",
+    "libxml2",
+    "sqlite"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "samba",
+    "vala"
+  ],
+  "receive": 199810576,
+  "transmit": 430543,
+  "disk": 15624663
+}
