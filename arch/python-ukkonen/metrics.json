@@ -1,0 +1,13 @@
+{
+  "name": "python-ukkonen",
+  "version": "1.0.1-2",
+  "depends": [
+    "python-cffi"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199628420,
+  "transmit": 356988,
+  "disk": 115851
+}
