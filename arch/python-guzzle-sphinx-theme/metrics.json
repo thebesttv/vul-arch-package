@@ -1,0 +1,14 @@
+{
+  "name": "python-guzzle-sphinx-theme",
+  "version": "0.7.11-11",
+  "depends": [
+    "python",
+    "python-sphinx>=1.1.3"
+  ],
+  "makedepends": [
+    "python-distribute"
+  ],
+  "receive": 199502191,
+  "transmit": 299248,
+  "disk": 7344716
+}
