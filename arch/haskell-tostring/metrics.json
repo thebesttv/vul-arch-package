@@ -1,0 +1,15 @@
+{
+  "name": "haskell-tostring",
+  "version": "0.2.1.1-67",
+  "depends": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199544868,
+  "transmit": 246264,
+  "disk": 173578
+}
