@@ -1,0 +1,13 @@
+{
+  "name": "rebar",
+  "version": "1:2.6.4-3",
+  "depends": [
+    "erlang-nox"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200111364,
+  "transmit": 841273,
+  "disk": 1769389
+}
