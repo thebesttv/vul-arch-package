@@ -1,0 +1,11 @@
+{
+  "name": "perl-poe-component-resolver",
+  "version": "0.921-9",
+  "depends": [
+    "perl-poe"
+  ],
+  "makedepends": [],
+  "receive": 199673934,
+  "transmit": 366196,
+  "disk": 235575
+}
