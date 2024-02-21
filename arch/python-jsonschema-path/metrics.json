@@ -1,0 +1,18 @@
+{
+  "name": "python-jsonschema-path",
+  "version": "0.3.2-2",
+  "depends": [
+    "python-pathable",
+    "python-yaml",
+    "python-requests",
+    "python-referencing"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199637633,
+  "transmit": 311243,
+  "disk": 338508
+}
