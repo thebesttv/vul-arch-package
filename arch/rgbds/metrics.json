@@ -1,0 +1,16 @@
+{
+  "name": "rgbds",
+  "version": "0.7.0-1",
+  "depends": [
+    "glibc",
+    "libpng"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199655414,
+  "transmit": 381854,
+  "disk": 24876833
+}
