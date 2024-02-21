@@ -1,0 +1,15 @@
+{
+  "name": "python-logbook",
+  "version": "1.5.3-12",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython",
+    "python-six"
+  ],
+  "receive": 199719668,
+  "transmit": 429217,
+  "disk": 1248291
+}
