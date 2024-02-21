@@ -1,0 +1,15 @@
+{
+  "name": "ruby-globalid",
+  "version": "1.0.0-1",
+  "depends": [
+    "ruby",
+    "ruby-activesupport"
+  ],
+  "makedepends": [
+    "ruby-bundler",
+    "ruby-rake"
+  ],
+  "receive": 199645361,
+  "transmit": 416224,
+  "disk": 227442
+}
