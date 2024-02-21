@@ -1,0 +1,14 @@
+{
+  "name": "mono-tools",
+  "version": "4.2-3",
+  "depends": [
+    "gtk-sharp-2"
+  ],
+  "makedepends": [
+    "git",
+    "zip"
+  ],
+  "receive": 199595376,
+  "transmit": 351456,
+  "disk": 16574734
+}
