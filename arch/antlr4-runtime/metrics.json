@@ -1,0 +1,15 @@
+{
+  "name": "antlr4-runtime",
+  "version": "4.13.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "python"
+  ],
+  "receive": 199629660,
+  "transmit": 373716,
+  "disk": 12019273
+}
