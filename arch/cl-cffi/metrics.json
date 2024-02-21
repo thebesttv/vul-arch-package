@@ -1,0 +1,20 @@
+{
+  "name": "cl-cffi",
+  "version": "0.24.1.r23.gac07d76-1",
+  "depends": [
+    "common-lisp",
+    "cl-asdf",
+    "cl-babel",
+    "cl-alexandria",
+    "cl-trivial-features",
+    "cl-ppcre",
+    "cl-json",
+    "libffi"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199532726,
+  "transmit": 277289,
+  "disk": 5151871
+}
