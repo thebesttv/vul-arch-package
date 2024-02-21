@@ -1,0 +1,19 @@
+{
+  "name": "maxcso",
+  "version": "1.13.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libdeflate.so",
+    "libuv",
+    "libzopfli.so",
+    "lz4",
+    "zlib"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 222405736,
+  "transmit": 441535,
+  "disk": 40003440
+}
