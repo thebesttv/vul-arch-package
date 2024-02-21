@@ -1,0 +1,13 @@
+{
+  "name": "pipesocks",
+  "version": "2.3-5",
+  "depends": [
+    "qt5-declarative",
+    "qt5-quickcontrols2",
+    "libsodium"
+  ],
+  "makedepends": [],
+  "receive": 199974158,
+  "transmit": 597860,
+  "disk": 2120941
+}
