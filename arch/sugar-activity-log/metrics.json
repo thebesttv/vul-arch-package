@@ -1,0 +1,11 @@
+{
+  "name": "sugar-activity-log",
+  "version": "42-3",
+  "depends": [
+    "sugar-toolkit-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199506964,
+  "transmit": 269229,
+  "disk": 438698
+}
