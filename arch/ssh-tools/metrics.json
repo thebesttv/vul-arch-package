@@ -1,0 +1,14 @@
+{
+  "name": "ssh-tools",
+  "version": "1.7-2",
+  "depends": [
+    "openssh"
+  ],
+  "makedepends": [
+    "git",
+    "help2man"
+  ],
+  "receive": 199988110,
+  "transmit": 588720,
+  "disk": 3244926
+}
