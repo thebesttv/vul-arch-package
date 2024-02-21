@@ -1,0 +1,12 @@
+{
+  "name": "perl-moox-types-mooselike",
+  "version": "0.29-9",
+  "depends": [
+    "perl-module-runtime>=0.014",
+    "perl-moo>=1.004002"
+  ],
+  "makedepends": [],
+  "receive": 199562218,
+  "transmit": 302311,
+  "disk": 218953
+}
