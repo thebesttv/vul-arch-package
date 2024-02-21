@@ -1,0 +1,15 @@
+{
+  "name": "nccl",
+  "version": "2.19.4-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "cuda"
+  ],
+  "receive": 199525088,
+  "transmit": 280965,
+  "disk": 9544554
+}
