@@ -1,0 +1,23 @@
+{
+  "name": "haskell-yesod-persistent",
+  "version": "1.6.0.8-251",
+  "depends": [
+    "ghc-libs",
+    "haskell-blaze-builder",
+    "haskell-conduit",
+    "haskell-persistent",
+    "haskell-resource-pool",
+    "haskell-resourcet",
+    "haskell-yesod-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec",
+    "haskell-wai-extra",
+    "haskell-persistent-sqlite"
+  ],
+  "receive": 199733945,
+  "transmit": 474904,
+  "disk": 1211329
+}
