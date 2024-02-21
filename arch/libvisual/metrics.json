@@ -1,0 +1,12 @@
+{
+  "name": "libvisual",
+  "version": "0.4.2-1",
+  "depends": [
+    "glibc",
+    "sdl12-compat"
+  ],
+  "makedepends": [],
+  "receive": 199791336,
+  "transmit": 594876,
+  "disk": 4039329
+}
