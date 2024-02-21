@@ -1,0 +1,13 @@
+{
+  "name": "haskell-js-dgtable",
+  "version": "0.5.2-13",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199480776,
+  "transmit": 235684,
+  "disk": 385921
+}
