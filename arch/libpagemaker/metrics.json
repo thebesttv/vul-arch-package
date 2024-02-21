@@ -1,0 +1,14 @@
+{
+  "name": "libpagemaker",
+  "version": "0.0.4-3",
+  "depends": [
+    "librevenge"
+  ],
+  "makedepends": [
+    "boost",
+    "doxygen"
+  ],
+  "receive": 199613392,
+  "transmit": 338448,
+  "disk": 2621459
+}
