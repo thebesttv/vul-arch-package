@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-requiresinternet",
+  "version": "0.05-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199508940,
+  "transmit": 251616,
+  "disk": 147329
+}
