@@ -1,0 +1,12 @@
+{
+  "name": "procinfo-ng",
+  "version": "2.0.304-8",
+  "depends": [
+    "ncurses",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199690826,
+  "transmit": 347739,
+  "disk": 565572
+}
