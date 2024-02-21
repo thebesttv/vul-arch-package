@@ -1,0 +1,19 @@
+{
+  "name": "python-pytest-rerunfailures",
+  "version": "13.0-1",
+  "depends": [
+    "python",
+    "python-importlib-metadata",
+    "python-packaging",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199526298,
+  "transmit": 278460,
+  "disk": 217399
+}
