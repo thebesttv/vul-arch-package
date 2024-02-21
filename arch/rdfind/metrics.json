@@ -1,0 +1,13 @@
+{
+  "name": "rdfind",
+  "version": "1.6.0-2",
+  "depends": [
+    "nettle",
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199642169,
+  "transmit": 400427,
+  "disk": 712777
+}
