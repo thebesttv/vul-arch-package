@@ -1,0 +1,13 @@
+{
+  "name": "xautolock",
+  "version": "2.2-6",
+  "depends": [
+    "libxss"
+  ],
+  "makedepends": [
+    "imake"
+  ],
+  "receive": 199579973,
+  "transmit": 358156,
+  "disk": 129612
+}
