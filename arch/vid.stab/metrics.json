@@ -1,0 +1,16 @@
+{
+  "name": "vid.stab",
+  "version": "1.1.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199606920,
+  "transmit": 346009,
+  "disk": 1487785
+}
