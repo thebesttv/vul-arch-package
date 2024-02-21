@@ -1,0 +1,13 @@
+{
+  "name": "irssi-xmpp",
+  "version": "0.54-3",
+  "depends": [
+    "glib2",
+    "loudmouth",
+    "irssi"
+  ],
+  "makedepends": [],
+  "receive": 199750555,
+  "transmit": 458900,
+  "disk": 508833
+}
