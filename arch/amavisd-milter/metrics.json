@@ -1,0 +1,13 @@
+{
+  "name": "amavisd-milter",
+  "version": "1.7.2-1",
+  "depends": [
+    "amavisd-new"
+  ],
+  "makedepends": [
+    "libmilter"
+  ],
+  "receive": 199605248,
+  "transmit": 349840,
+  "disk": 1053271
+}
