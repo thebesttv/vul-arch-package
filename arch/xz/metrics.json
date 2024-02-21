@@ -1,0 +1,11 @@
+{
+  "name": "xz",
+  "version": "5.4.6-1",
+  "depends": [
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199583806,
+  "transmit": 360380,
+  "disk": 13729395
+}
