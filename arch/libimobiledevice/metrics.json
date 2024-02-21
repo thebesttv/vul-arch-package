@@ -1,0 +1,17 @@
+{
+  "name": "libimobiledevice",
+  "version": "1.3.0-10",
+  "depends": [
+    "glibc",
+    "libplist",
+    "libusbmuxd",
+    "openssl"
+  ],
+  "makedepends": [
+    "cython0",
+    "python"
+  ],
+  "receive": 199596925,
+  "transmit": 378022,
+  "disk": 5639880
+}
