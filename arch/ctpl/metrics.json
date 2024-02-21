@@ -1,0 +1,11 @@
+{
+  "name": "ctpl",
+  "version": "0.3.4-4",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [],
+  "receive": 199709190,
+  "transmit": 290449,
+  "disk": 3687913
+}
