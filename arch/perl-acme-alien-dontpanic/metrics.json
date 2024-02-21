@@ -1,0 +1,12 @@
+{
+  "name": "perl-acme-alien-dontpanic",
+  "version": "2.7200-2",
+  "depends": [
+    "dontpanic",
+    "perl-alien-build"
+  ],
+  "makedepends": [],
+  "receive": 199698571,
+  "transmit": 456786,
+  "disk": 210770
+}
