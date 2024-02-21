@@ -1,0 +1,14 @@
+{
+  "name": "kdiagram5",
+  "version": "2.8.0-1",
+  "depends": [
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools"
+  ],
+  "receive": 199729601,
+  "transmit": 440654,
+  "disk": 5618048
+}
