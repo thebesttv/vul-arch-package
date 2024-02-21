@@ -1,0 +1,31 @@
+{
+  "name": "pantheon-calendar",
+  "version": "7.0.0-1",
+  "depends": [
+    "clutter",
+    "evolution-data-server",
+    "folks",
+    "gdk-pixbuf2",
+    "geoclue",
+    "geocode-glib",
+    "glib2",
+    "gtk3",
+    "libchamplain",
+    "libfolks.so",
+    "libgee",
+    "libgranite.so",
+    "libhandy-1.so",
+    "libical",
+    "libportal-gtk3"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199690416,
+  "transmit": 403112,
+  "disk": 27919479
+}
