@@ -1,0 +1,26 @@
+{
+  "name": "wingpanel-indicator-sound",
+  "version": "7.0.0-1",
+  "depends": [
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "libcanberra",
+    "libgee",
+    "libgranite.so",
+    "libnotify",
+    "libpulse",
+    "libwingpanel.so"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199519040,
+  "transmit": 293038,
+  "disk": 4082079
+}
