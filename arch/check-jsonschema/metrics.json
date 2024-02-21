@@ -1,0 +1,22 @@
+{
+  "name": "check-jsonschema",
+  "version": "0.28.0-1",
+  "depends": [
+    "python",
+    "python-click",
+    "python-importlib-resources",
+    "python-jsonschema",
+    "python-referencing",
+    "python-requests",
+    "python-ruamel-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199623682,
+  "transmit": 386200,
+  "disk": 2562989
+}
