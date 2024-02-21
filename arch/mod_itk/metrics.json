@@ -1,0 +1,11 @@
+{
+  "name": "mod_itk",
+  "version": "2.4.7.r04-4",
+  "depends": [
+    "apache"
+  ],
+  "makedepends": [],
+  "receive": 199533905,
+  "transmit": 258166,
+  "disk": 308422
+}
