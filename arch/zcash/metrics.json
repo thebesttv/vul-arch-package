@@ -1,0 +1,25 @@
+{
+  "name": "zcash",
+  "version": "5.3.0-4",
+  "depends": [
+    "boost-libs",
+    "libevent",
+    "libsodium",
+    "zeromq"
+  ],
+  "makedepends": [
+    "boost",
+    "clang",
+    "cmake",
+    "cxxbridge",
+    "git",
+    "gmock",
+    "python",
+    "rust",
+    "utf8cpp",
+    "wget"
+  ],
+  "receive": 440136394,
+  "transmit": 514422,
+  "disk": 467703519
+}
