@@ -1,0 +1,26 @@
+{
+  "name": "patchage",
+  "version": "1.0.10-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gtkmm",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "atkmm",
+    "boost",
+    "dbus-glib",
+    "ganv",
+    "glib2",
+    "glibmm",
+    "gtk2",
+    "jack",
+    "libsigc++",
+    "meson"
+  ],
+  "receive": 199705565,
+  "transmit": 469655,
+  "disk": 1624690
+}
