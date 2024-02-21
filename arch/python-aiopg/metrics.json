@@ -1,0 +1,19 @@
+{
+  "name": "python-aiopg",
+  "version": "1.4.0-2",
+  "depends": [
+    "python",
+    "python-psycopg2",
+    "python-async-timeout"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-setuptools-scm"
+  ],
+  "receive": 199609073,
+  "transmit": 383852,
+  "disk": 819050
+}
