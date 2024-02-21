@@ -1,0 +1,12 @@
+{
+  "name": "ruby-sassc",
+  "version": "2.4.0-2",
+  "depends": [
+    "ruby",
+    "ruby-ffi"
+  ],
+  "makedepends": [],
+  "receive": 199671042,
+  "transmit": 418010,
+  "disk": 390768
+}
