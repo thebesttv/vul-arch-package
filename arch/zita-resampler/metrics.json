@@ -1,0 +1,13 @@
+{
+  "name": "zita-resampler",
+  "version": "1.11.2-1",
+  "depends": [],
+  "makedepends": [
+    "gcc-libs",
+    "glibc",
+    "libsndfile"
+  ],
+  "receive": 199634553,
+  "transmit": 374257,
+  "disk": 499820
+}
