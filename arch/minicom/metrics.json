@@ -1,0 +1,11 @@
+{
+  "name": "minicom",
+  "version": "2.9-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199642906,
+  "transmit": 393392,
+  "disk": 4927695
+}
