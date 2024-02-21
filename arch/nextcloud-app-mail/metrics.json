@@ -1,0 +1,12 @@
+{
+  "name": "nextcloud-app-mail",
+  "version": "3.5.6-1",
+  "depends": [],
+  "makedepends": [
+    "nextcloud",
+    "yq"
+  ],
+  "receive": 227988748,
+  "transmit": 348577,
+  "disk": 138719279
+}
