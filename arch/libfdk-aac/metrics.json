@@ -1,0 +1,13 @@
+{
+  "name": "libfdk-aac",
+  "version": "2.0.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199631655,
+  "transmit": 379964,
+  "disk": 21447583
+}
