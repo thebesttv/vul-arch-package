@@ -1,0 +1,20 @@
+{
+  "name": "infamousplugins",
+  "version": "0.3.2-1",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "cmake",
+    "fftw",
+    "lv2",
+    "ntk",
+    "zita-resampler"
+  ],
+  "receive": 199616412,
+  "transmit": 362634,
+  "disk": 7619264
+}
