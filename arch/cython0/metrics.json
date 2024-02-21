@@ -1,0 +1,16 @@
+{
+  "name": "cython0",
+  "version": "0.29.37.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199694944,
+  "transmit": 394959,
+  "disk": 11157961
+}
