@@ -1,0 +1,14 @@
+{
+  "name": "fcitx-cloudpinyin",
+  "version": "0.3.7-1",
+  "depends": [
+    "curl",
+    "fcitx"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199573341,
+  "transmit": 273373,
+  "disk": 240208
+}
