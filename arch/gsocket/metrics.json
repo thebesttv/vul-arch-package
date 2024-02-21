@@ -1,0 +1,19 @@
+{
+  "name": "gsocket",
+  "version": "1.4.40-1",
+  "depends": [
+    "glibc",
+    "bash",
+    "openssl",
+    "rsync",
+    "sshfs",
+    "openssh",
+    "grep",
+    "binutils",
+    "coreutils"
+  ],
+  "makedepends": [],
+  "receive": 199556506,
+  "transmit": 293868,
+  "disk": 1149906
+}
