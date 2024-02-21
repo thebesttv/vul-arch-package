@@ -1,0 +1,16 @@
+{
+  "name": "gpsim",
+  "version": "0.31.0-2",
+  "depends": [
+    "gtk2",
+    "gtk2+extra",
+    "popt"
+  ],
+  "makedepends": [
+    "gtk2+extra",
+    "gputils"
+  ],
+  "receive": 199823208,
+  "transmit": 366285,
+  "disk": 15973435
+}
