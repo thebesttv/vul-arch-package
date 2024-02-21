@@ -1,0 +1,11 @@
+{
+  "name": "utf8cpp",
+  "version": "4.0.5-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199540457,
+  "transmit": 273084,
+  "disk": 355876
+}
