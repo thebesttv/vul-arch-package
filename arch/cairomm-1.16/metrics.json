@@ -1,0 +1,16 @@
+{
+  "name": "cairomm-1.16",
+  "version": "1.18.0-1",
+  "depends": [
+    "cairo",
+    "libsigc++-3.0"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "mm-common"
+  ],
+  "receive": 200850839,
+  "transmit": 1122781,
+  "disk": 1848774
+}
