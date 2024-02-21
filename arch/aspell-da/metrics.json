@@ -1,0 +1,11 @@
+{
+  "name": "aspell-da",
+  "version": "4.2.1-1",
+  "depends": [
+    "aspell"
+  ],
+  "makedepends": [],
+  "receive": 203970123,
+  "transmit": 382404,
+  "disk": 28019710
+}
