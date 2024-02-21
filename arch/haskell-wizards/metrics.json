@@ -1,0 +1,14 @@
+{
+  "name": "haskell-wizards",
+  "version": "1.0.3-15",
+  "depends": [
+    "ghc-libs",
+    "haskell-control-monad-free"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199885970,
+  "transmit": 487272,
+  "disk": 151273
+}
