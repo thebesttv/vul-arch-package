@@ -1,0 +1,16 @@
+{
+  "name": "mailutils",
+  "version": "3.17-1",
+  "depends": [
+    "libldap",
+    "pam",
+    "gnutls",
+    "gsasl"
+  ],
+  "makedepends": [
+    "emacs"
+  ],
+  "receive": 205058121,
+  "transmit": 468508,
+  "disk": 39642483
+}
