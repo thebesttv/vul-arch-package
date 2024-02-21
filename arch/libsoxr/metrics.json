@@ -1,0 +1,14 @@
+{
+  "name": "libsoxr",
+  "version": "0.1.3-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199507130,
+  "transmit": 227417,
+  "disk": 639119
+}
