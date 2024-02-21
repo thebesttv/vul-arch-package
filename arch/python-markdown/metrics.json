@@ -1,0 +1,17 @@
+{
+  "name": "python-markdown",
+  "version": "3.5.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199534124,
+  "transmit": 254831,
+  "disk": 7749192
+}
