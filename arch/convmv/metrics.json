@@ -1,0 +1,11 @@
+{
+  "name": "convmv",
+  "version": "2.05-3",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199710765,
+  "transmit": 459796,
+  "disk": 302297
+}
