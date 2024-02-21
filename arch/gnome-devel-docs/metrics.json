@@ -1,0 +1,14 @@
+{
+  "name": "gnome-devel-docs",
+  "version": "40.3-1",
+  "depends": [
+    "yelp"
+  ],
+  "makedepends": [
+    "yelp-tools",
+    "git"
+  ],
+  "receive": 245904356,
+  "transmit": 522114,
+  "disk": 104433448
+}
