@@ -1,0 +1,14 @@
+{
+  "name": "haskell-base-prelude",
+  "version": "1.6.1.1-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199531819,
+  "transmit": 315235,
+  "disk": 137750
+}
