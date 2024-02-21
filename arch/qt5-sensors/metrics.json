@@ -1,0 +1,14 @@
+{
+  "name": "qt5-sensors",
+  "version": "5.15.12-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "git"
+  ],
+  "receive": 199746580,
+  "transmit": 466793,
+  "disk": 14741085
+}
