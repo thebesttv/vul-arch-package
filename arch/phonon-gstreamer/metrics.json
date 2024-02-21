@@ -1,0 +1,16 @@
+{
+  "name": "phonon-gstreamer",
+  "version": "4.10.0-4",
+  "depends": [
+    "gst-plugins-base",
+    "qt5-x11extras",
+    "phonon-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools"
+  ],
+  "receive": 199495934,
+  "transmit": 241244,
+  "disk": 1119682
+}
