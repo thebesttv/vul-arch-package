@@ -1,0 +1,11 @@
+{
+  "name": "dosfstools",
+  "version": "4.2-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199692495,
+  "transmit": 422559,
+  "disk": 1831774
+}
