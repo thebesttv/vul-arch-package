@@ -1,0 +1,23 @@
+{
+  "name": "quassel",
+  "version": "0.14.0-3",
+  "depends": [],
+  "makedepends": [
+    "qt5-base",
+    "qt5-tools",
+    "qt5-webengine",
+    "qca-qt5",
+    "qt5-multimedia",
+    "knotifyconfig5",
+    "sonnet5",
+    "libldap",
+    "cmake",
+    "extra-cmake-modules",
+    "python",
+    "hicolor-icon-theme",
+    "boost"
+  ],
+  "receive": 199971418,
+  "transmit": 467855,
+  "disk": 28148785
+}
