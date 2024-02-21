@@ -1,0 +1,17 @@
+{
+  "name": "grml-zsh-config",
+  "version": "0.19.7-1",
+  "depends": [
+    "zsh",
+    "coreutils",
+    "grep",
+    "sed",
+    "procps"
+  ],
+  "makedepends": [
+    "txt2tags"
+  ],
+  "receive": 199612917,
+  "transmit": 381884,
+  "disk": 970116
+}
