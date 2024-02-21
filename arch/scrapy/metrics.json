@@ -1,0 +1,32 @@
+{
+  "name": "scrapy",
+  "version": "2.9.0-1",
+  "depends": [
+    "python",
+    "python-cryptography",
+    "python-cssselect",
+    "python-itemadapter",
+    "python-itemloaders",
+    "python-lxml",
+    "python-packaging",
+    "python-parsel",
+    "python-protego",
+    "python-pydispatcher",
+    "python-pyopenssl",
+    "python-queuelib",
+    "python-service-identity",
+    "python-setuptools",
+    "python-tldextract",
+    "python-twisted",
+    "python-w3lib",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 200970972,
+  "transmit": 330194,
+  "disk": 5704385
+}
