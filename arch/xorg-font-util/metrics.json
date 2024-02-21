@@ -1,0 +1,13 @@
+{
+  "name": "xorg-font-util",
+  "version": "1.4.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199536155,
+  "transmit": 275222,
+  "disk": 1222747
+}
