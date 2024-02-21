@@ -1,0 +1,12 @@
+{
+  "name": "xchm",
+  "version": "1.36-1",
+  "depends": [
+    "chmlib",
+    "wxwidgets-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199779240,
+  "transmit": 477355,
+  "disk": 3174078
+}
