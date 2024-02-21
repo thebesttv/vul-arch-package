@@ -1,0 +1,11 @@
+{
+  "name": "ruby-fileutils",
+  "version": "1.6.0-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199581828,
+  "transmit": 340625,
+  "disk": 304878
+}
