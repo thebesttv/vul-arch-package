@@ -1,0 +1,17 @@
+{
+  "name": "python-grequests",
+  "version": "0.7.0-1",
+  "depends": [
+    "python-requests",
+    "python-gevent"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-wheel",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 199734135,
+  "transmit": 424785,
+  "disk": 126872
+}
