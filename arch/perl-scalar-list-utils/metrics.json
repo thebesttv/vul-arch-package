@@ -1,0 +1,11 @@
+{
+  "name": "perl-scalar-list-utils",
+  "version": "1.63-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199499130,
+  "transmit": 244246,
+  "disk": 1053328
+}
