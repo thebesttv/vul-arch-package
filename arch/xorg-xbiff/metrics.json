@@ -1,0 +1,19 @@
+{
+  "name": "xorg-xbiff",
+  "version": "1.0.5-1",
+  "depends": [
+    "libxaw",
+    "libxext",
+    "libxmu",
+    "libx11",
+    "libxt",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xbitmaps"
+  ],
+  "receive": 199674211,
+  "transmit": 351508,
+  "disk": 1021582
+}
