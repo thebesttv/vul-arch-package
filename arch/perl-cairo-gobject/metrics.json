@@ -1,0 +1,15 @@
+{
+  "name": "perl-cairo-gobject",
+  "version": "1.005-2",
+  "depends": [
+    "glib-perl",
+    "cairo-perl"
+  ],
+  "makedepends": [
+    "perl-extutils-depends",
+    "perl-extutils-pkgconfig"
+  ],
+  "receive": 199525701,
+  "transmit": 263651,
+  "disk": 179848
+}
