@@ -1,0 +1,25 @@
+{
+  "name": "haskell-tamarin-prover-accountability",
+  "version": "1.8.0-34",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-dlist",
+    "haskell-fclabels",
+    "haskell-parallel",
+    "haskell-safe",
+    "haskell-uniplate",
+    "haskell-raw-strings-qq",
+    "haskell-tamarin-prover-utils",
+    "haskell-tamarin-prover-term",
+    "haskell-tamarin-prover-theory"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199634180,
+  "transmit": 353498,
+  "disk": 272578637
+}
