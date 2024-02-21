@@ -1,0 +1,14 @@
+{
+  "name": "haskell-digest",
+  "version": "0.0.1.7-1",
+  "depends": [
+    "ghc-libs",
+    "zlib"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199645528,
+  "transmit": 385381,
+  "disk": 139926
+}
