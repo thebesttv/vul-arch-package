@@ -1,0 +1,15 @@
+{
+  "name": "opencollada",
+  "version": "1:1.6.68-3",
+  "depends": [
+    "libxml2",
+    "pcre"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 225225782,
+  "transmit": 332643,
+  "disk": 124785758
+}
