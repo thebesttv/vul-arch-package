@@ -1,0 +1,11 @@
+{
+  "name": "browserpass-firefox",
+  "version": "3.8.0-1",
+  "depends": [
+    "browserpass"
+  ],
+  "makedepends": [],
+  "receive": 199669108,
+  "transmit": 394347,
+  "disk": 1271026
+}
