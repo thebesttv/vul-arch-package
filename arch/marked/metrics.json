@@ -1,0 +1,13 @@
+{
+  "name": "marked",
+  "version": "5.0.0-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199660361,
+  "transmit": 408158,
+  "disk": 259892
+}
