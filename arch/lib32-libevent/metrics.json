@@ -1,0 +1,17 @@
+{
+  "name": "lib32-libevent",
+  "version": "2.1.12-3",
+  "depends": [
+    "lib32-openssl",
+    "libevent"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "python",
+    "lib32-zlib"
+  ],
+  "receive": 199633546,
+  "transmit": 420764,
+  "disk": 5886671
+}
