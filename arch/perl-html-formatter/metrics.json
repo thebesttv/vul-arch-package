@@ -1,0 +1,16 @@
+{
+  "name": "perl-html-formatter",
+  "version": "2.16-9",
+  "depends": [
+    "perl>=5.10.0",
+    "perl-file-slurp",
+    "perl-font-afm",
+    "perl-html-tree"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199597054,
+  "transmit": 340885,
+  "disk": 408894
+}
