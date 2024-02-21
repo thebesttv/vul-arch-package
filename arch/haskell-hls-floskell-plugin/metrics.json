@@ -1,0 +1,19 @@
+{
+  "name": "haskell-hls-floskell-plugin",
+  "version": "1.0.2.0-149",
+  "depends": [
+    "ghc-libs",
+    "haskell-floskell",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-lsp-types"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 199586025,
+  "transmit": 359847,
+  "disk": 676553
+}
