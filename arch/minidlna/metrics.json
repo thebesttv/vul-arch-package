@@ -1,0 +1,19 @@
+{
+  "name": "minidlna",
+  "version": "1.3.3-1",
+  "depends": [
+    "libexif",
+    "libjpeg",
+    "libid3tag",
+    "flac",
+    "libvorbis",
+    "ffmpeg",
+    "sqlite"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199610479,
+  "transmit": 284012,
+  "disk": 3113280
+}
