@@ -1,0 +1,20 @@
+{
+  "name": "msitools",
+  "version": "0.103-2",
+  "depends": [
+    "libgsf",
+    "gcab",
+    "libxml2"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "vala",
+    "meson",
+    "gobject-introspection",
+    "bats"
+  ],
+  "receive": 199608750,
+  "transmit": 369649,
+  "disk": 7366281
+}
