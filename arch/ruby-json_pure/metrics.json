@@ -1,0 +1,13 @@
+{
+  "name": "ruby-json_pure",
+  "version": "2.6.3-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake"
+  ],
+  "receive": 199533581,
+  "transmit": 290065,
+  "disk": 892715
+}
