@@ -1,0 +1,12 @@
+{
+  "name": "amfora",
+  "version": "1.9.2-4",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199593249,
+  "transmit": 386050,
+  "disk": 19026042
+}
