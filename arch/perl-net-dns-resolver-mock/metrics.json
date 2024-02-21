@@ -1,0 +1,13 @@
+{
+  "name": "perl-net-dns-resolver-mock",
+  "version": "1.20230216-2",
+  "depends": [
+    "perl-net-dns"
+  ],
+  "makedepends": [
+    "perl>=5.6"
+  ],
+  "receive": 199563710,
+  "transmit": 302449,
+  "disk": 163219
+}
