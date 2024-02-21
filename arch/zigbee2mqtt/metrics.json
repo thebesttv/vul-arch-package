@@ -1,0 +1,15 @@
+{
+  "name": "zigbee2mqtt",
+  "version": "1.35.3-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "typescript",
+    "npm"
+  ],
+  "receive": 320568646,
+  "transmit": 510408,
+  "disk": 121381224
+}
