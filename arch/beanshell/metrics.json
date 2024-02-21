@@ -1,0 +1,11 @@
+{
+  "name": "beanshell",
+  "version": "2.1.1-1",
+  "depends": [
+    "java-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199503845,
+  "transmit": 257602,
+  "disk": 1403030
+}
