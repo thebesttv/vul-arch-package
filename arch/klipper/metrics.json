@@ -1,0 +1,19 @@
+{
+  "name": "klipper",
+  "version": "0.12.0-2",
+  "depends": [
+    "python-can",
+    "python-cffi",
+    "python-greenlet",
+    "python-jinja",
+    "python-markupsafe",
+    "python-pyserial",
+    "libusb"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 417468375,
+  "transmit": 534512,
+  "disk": 430729088
+}
