@@ -1,0 +1,15 @@
+{
+  "name": "ecryptfs-utils",
+  "version": "111-8",
+  "depends": [
+    "nss",
+    "pam"
+  ],
+  "makedepends": [
+    "intltool",
+    "gettext"
+  ],
+  "receive": 199674421,
+  "transmit": 409298,
+  "disk": 3871106
+}
