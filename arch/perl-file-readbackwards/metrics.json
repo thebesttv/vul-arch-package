@@ -1,0 +1,13 @@
+{
+  "name": "perl-file-readbackwards",
+  "version": "1.06-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-extutils-makemaker"
+  ],
+  "receive": 199717951,
+  "transmit": 397403,
+  "disk": 137398
+}
