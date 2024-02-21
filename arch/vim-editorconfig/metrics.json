@@ -1,0 +1,11 @@
+{
+  "name": "vim-editorconfig",
+  "version": "1.2.0-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199627427,
+  "transmit": 400594,
+  "disk": 3552232
+}
