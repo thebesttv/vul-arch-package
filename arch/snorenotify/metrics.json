@@ -1,0 +1,16 @@
+{
+  "name": "snorenotify",
+  "version": "0.7.0-5",
+  "depends": [
+    "qt5-base",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "extra-cmake-modules"
+  ],
+  "receive": 199487297,
+  "transmit": 247344,
+  "disk": 1148944
+}
