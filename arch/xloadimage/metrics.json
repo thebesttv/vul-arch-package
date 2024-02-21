@@ -1,0 +1,17 @@
+{
+  "name": "xloadimage",
+  "version": "4.1-16",
+  "depends": [
+    "libtiff",
+    "libpng",
+    "libx11",
+    "libxext"
+  ],
+  "makedepends": [
+    "patch",
+    "imake"
+  ],
+  "receive": 199645634,
+  "transmit": 361257,
+  "disk": 2970520
+}
