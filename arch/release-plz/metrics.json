@@ -1,0 +1,14 @@
+{
+  "name": "release-plz",
+  "version": "0.3.45-1",
+  "depends": [
+    "gcc-libs",
+    "curl"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199718182,
+  "transmit": 387006,
+  "disk": 6654755
+}
