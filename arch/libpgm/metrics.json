@@ -1,0 +1,13 @@
+{
+  "name": "libpgm",
+  "version": "5.3.128-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199538305,
+  "transmit": 258372,
+  "disk": 4296476
+}
