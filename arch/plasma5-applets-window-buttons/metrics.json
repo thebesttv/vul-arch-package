@@ -1,0 +1,13 @@
+{
+  "name": "plasma5-applets-window-buttons",
+  "version": "0.11.1-2",
+  "depends": [
+    "plasma-workspace"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199637800,
+  "transmit": 382513,
+  "disk": 506083
+}
