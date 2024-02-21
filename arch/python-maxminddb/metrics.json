@@ -1,0 +1,19 @@
+{
+  "name": "python-maxminddb",
+  "version": "2.5.1-1",
+  "depends": [
+    "python",
+    "libmaxminddb"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199561442,
+  "transmit": 288041,
+  "disk": 9057730
+}
