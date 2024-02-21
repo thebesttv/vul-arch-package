@@ -1,0 +1,14 @@
+{
+  "name": "stoken",
+  "version": "0.92-4",
+  "depends": [
+    "nettle",
+    "libxml2"
+  ],
+  "makedepends": [
+    "gtk3"
+  ],
+  "receive": 200150512,
+  "transmit": 431616,
+  "disk": 2292852
+}
