@@ -1,0 +1,14 @@
+{
+  "name": "haskell-deepseq-generics",
+  "version": "0.2.0.0-23",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199739297,
+  "transmit": 454105,
+  "disk": 137455
+}
