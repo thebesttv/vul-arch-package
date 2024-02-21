@@ -1,0 +1,12 @@
+{
+  "name": "udisks2-qt5",
+  "version": "5.0.6-1",
+  "depends": [
+    "qt5-base",
+    "udisks2"
+  ],
+  "makedepends": [],
+  "receive": 199800321,
+  "transmit": 466684,
+  "disk": 407025
+}
