@@ -1,0 +1,11 @@
+{
+  "name": "libsigsegv",
+  "version": "2.14-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 200543608,
+  "transmit": 831689,
+  "disk": 2635334
+}
