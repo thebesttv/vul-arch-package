@@ -1,0 +1,28 @@
+{
+  "name": "libretro-ppsspp",
+  "version": "39481-1",
+  "depends": [
+    "gcc-libs",
+    "glew",
+    "glibc",
+    "libgl",
+    "libpng",
+    "libretro-core-info",
+    "libzip",
+    "ppsspp-assets",
+    "sdl2",
+    "snappy",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "libglvnd",
+    "ninja",
+    "python"
+  ],
+  "receive": 2308872075,
+  "transmit": 2156921,
+  "disk": 3763164098
+}

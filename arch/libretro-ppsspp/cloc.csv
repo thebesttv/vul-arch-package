@@ -1,0 +1,62 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=11.91 s (988.1 files/s 277476.2 lines/s)"
+2714,C,165419,131390,1072665
+918,C++,82047,57069,493886
+2287,C/C++ Header,72213,133114,397906
+4153,GLSL,28832,3896,218578
+95,INI,2888,0,107546
+278,Assembly,9048,10117,80895
+170,XML,43,56,45355
+230,Bourne Shell,2940,2577,17474
+103,Markdown,4721,13,14930
+103,Text,3945,0,13717
+11,Qt Linguist,0,0,11708
+131,JSON,6,0,11383
+9,HTML,3912,23,10827
+18,MSBuild script,4,8,9487
+111,make,1619,885,9140
+91,CMake,1097,1270,8009
+7,SVG,4,48,5824
+30,Python,907,872,5493
+74,YAML,614,457,4787
+2,CSV,0,0,4290
+1,yacc,214,125,4110
+10,Fortran 77,0,0,4011
+25,Java,536,369,3893
+14,Objective-C++,585,276,2651
+18,Visual Studio Solution,13,17,1978
+10,Ada,599,560,1681
+18,Windows Resource File,134,261,1272
+5,Objective-C,340,185,1213
+8,Perl,285,388,1093
+4,Pascal,219,139,1085
+2,PHP,0,26,962
+9,C#,230,506,879
+3,C Shell,75,17,573
+7,CSS,104,24,545
+7,Windows Module Definition,33,32,501
+7,Meson,97,123,497
+3,Rust,63,33,462
+24,DOS Batch,135,74,436
+5,Bourne Again Shell,66,104,396
+2,Starlark,36,2,383
+1,XSD,41,4,311
+3,Gradle,12,10,203
+4,JavaScript,13,0,144
+8,Dockerfile,36,30,127
+3,Swift,7,23,110
+1,Visual Basic Script,11,11,90
+2,Lua,14,3,69
+9,Verilog-SystemVerilog,0,0,52
+1,Ruby,7,0,47
+2,HLSL,3,3,45
+1,Forth,8,0,41
+1,SAS,14,22,32
+1,m4,5,0,27
+1,NAnt script,7,0,26
+1,Ant,18,61,19
+4,Properties,1,11,15
+1,Bazel,5,0,14
+1,TOML,1,0,7
+1,AsciiDoc,2,3,6
+1,diff,2,6,4
+11764,SUM,384230,345243,2573910
