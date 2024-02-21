@@ -1,0 +1,15 @@
+{
+  "name": "lib32-aalib",
+  "version": "1.4rc5-4",
+  "depends": [
+    "lib32-gpm",
+    "lib32-libx11",
+    "aalib"
+  ],
+  "makedepends": [
+    "lib32-libxt"
+  ],
+  "receive": 199643690,
+  "transmit": 411768,
+  "disk": 2170579
+}
