@@ -1,0 +1,24 @@
+{
+  "name": "switchboard-plug-parental-controls",
+  "version": "6.0.1-1",
+  "depends": [
+    "accountsservice",
+    "flatpak",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libmalcontent-0.so",
+    "libswitchboard-2.0.so",
+    "polkit"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199544762,
+  "transmit": 294994,
+  "disk": 7050301
+}
