@@ -1,0 +1,13 @@
+{
+  "name": "ufw-extras",
+  "version": "1.0.0-1",
+  "depends": [
+    "ufw"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199490537,
+  "transmit": 271347,
+  "disk": 311076
+}
