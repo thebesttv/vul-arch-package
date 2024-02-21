@@ -1,0 +1,11 @@
+{
+  "name": "libgcrypt",
+  "version": "1.10.3-1",
+  "depends": [
+    "libgpg-error"
+  ],
+  "makedepends": [],
+  "receive": 199613407,
+  "transmit": 297287,
+  "disk": 19294754
+}
