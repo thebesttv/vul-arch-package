@@ -1,0 +1,11 @@
+{
+  "name": "ptunnel",
+  "version": "0.72-6",
+  "depends": [
+    "libpcap"
+  ],
+  "makedepends": [],
+  "receive": 199504953,
+  "transmit": 238591,
+  "disk": 328199
+}
