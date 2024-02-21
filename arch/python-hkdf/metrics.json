@@ -1,0 +1,13 @@
+{
+  "name": "python-hkdf",
+  "version": "0.0.3-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199612482,
+  "transmit": 351167,
+  "disk": 130881
+}
