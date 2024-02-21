@@ -1,0 +1,11 @@
+{
+  "name": "libxsd",
+  "version": "4.2.0-1",
+  "depends": [],
+  "makedepends": [
+    "build2"
+  ],
+  "receive": 199595648,
+  "transmit": 316882,
+  "disk": 1822822
+}
