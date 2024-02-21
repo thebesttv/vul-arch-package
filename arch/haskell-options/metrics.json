@@ -1,0 +1,14 @@
+{
+  "name": "haskell-options",
+  "version": "1.2.1.1-19",
+  "depends": [
+    "ghc-libs",
+    "haskell-monads-tf"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199615704,
+  "transmit": 358078,
+  "disk": 254304
+}
