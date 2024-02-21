@@ -1,0 +1,11 @@
+{
+  "name": "sugar-activity-turtleart",
+  "version": "220-3",
+  "depends": [
+    "sugar-toolkit-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199619569,
+  "transmit": 382401,
+  "disk": 16602178
+}
