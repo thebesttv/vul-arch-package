@@ -1,0 +1,14 @@
+{
+  "name": "tinyemu",
+  "version": "2019_12_21-3",
+  "depends": [
+    "curl",
+    "sdl"
+  ],
+  "makedepends": [
+    "setconf"
+  ],
+  "receive": 199635395,
+  "transmit": 389242,
+  "disk": 1474574
+}
