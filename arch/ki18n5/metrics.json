@@ -1,0 +1,18 @@
+{
+  "name": "ki18n5",
+  "version": "5.115.1-1",
+  "depends": [
+    "qt5-declarative",
+    "iso-codes"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc",
+    "python"
+  ],
+  "receive": 199557208,
+  "transmit": 282289,
+  "disk": 39558044
+}
