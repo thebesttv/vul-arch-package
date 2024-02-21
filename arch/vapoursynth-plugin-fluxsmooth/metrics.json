@@ -1,0 +1,11 @@
+{
+  "name": "vapoursynth-plugin-fluxsmooth",
+  "version": "2-3",
+  "depends": [
+    "vapoursynth"
+  ],
+  "makedepends": [],
+  "receive": 199486034,
+  "transmit": 236836,
+  "disk": 135902
+}
