@@ -1,0 +1,11 @@
+{
+  "name": "fonteditfs",
+  "version": "1.2-7",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199533187,
+  "transmit": 238135,
+  "disk": 127618
+}
