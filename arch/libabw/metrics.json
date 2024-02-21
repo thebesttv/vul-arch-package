@@ -1,0 +1,16 @@
+{
+  "name": "libabw",
+  "version": "0.1.3-3",
+  "depends": [
+    "librevenge",
+    "libxml2"
+  ],
+  "makedepends": [
+    "doxygen",
+    "gperf",
+    "boost"
+  ],
+  "receive": 199708354,
+  "transmit": 455868,
+  "disk": 2723157
+}
