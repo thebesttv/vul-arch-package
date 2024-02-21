@@ -1,0 +1,22 @@
+{
+  "name": "libnma",
+  "version": "1.10.6-2",
+  "depends": [],
+  "makedepends": [
+    "dconf",
+    "gcr-4",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "gtk3",
+    "gtk4",
+    "iso-codes",
+    "libnm",
+    "meson",
+    "mobile-broadband-provider-info",
+    "vala"
+  ],
+  "receive": 199837615,
+  "transmit": 562063,
+  "disk": 30084957
+}
