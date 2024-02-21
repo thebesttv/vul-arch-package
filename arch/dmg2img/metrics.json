@@ -1,0 +1,12 @@
+{
+  "name": "dmg2img",
+  "version": "1.6.7-5",
+  "depends": [
+    "openssl",
+    "bzip2"
+  ],
+  "makedepends": [],
+  "receive": 199695609,
+  "transmit": 391583,
+  "disk": 202534
+}
