@@ -1,0 +1,14 @@
+{
+  "name": "spatialindex",
+  "version": "1.9.3-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 199536832,
+  "transmit": 264409,
+  "disk": 8824265
+}
