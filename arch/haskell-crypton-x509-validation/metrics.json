@@ -1,0 +1,24 @@
+{
+  "name": "haskell-crypton-x509-validation",
+  "version": "1.6.12-24",
+  "depends": [
+    "ghc-libs",
+    "haskell-asn1-encoding",
+    "haskell-asn1-types",
+    "haskell-crypton",
+    "haskell-crypton-x509",
+    "haskell-crypton-x509-store",
+    "haskell-data-default-class",
+    "haskell-hourglass",
+    "haskell-memory",
+    "haskell-pem"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199608979,
+  "transmit": 392826,
+  "disk": 256820
+}
