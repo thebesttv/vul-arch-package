@@ -1,0 +1,14 @@
+{
+  "name": "gtkspellmm",
+  "version": "3.0.5-4",
+  "depends": [
+    "gtkmm3",
+    "gtkspell3"
+  ],
+  "makedepends": [
+    "gtkmm3-docs"
+  ],
+  "receive": 199602948,
+  "transmit": 352525,
+  "disk": 3412893
+}
