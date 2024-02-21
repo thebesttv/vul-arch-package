@@ -1,0 +1,15 @@
+{
+  "name": "terragrunt",
+  "version": "0.54.8-1",
+  "depends": [
+    "glibc",
+    "terraform"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 203902101,
+  "transmit": 439843,
+  "disk": 14548677
+}
