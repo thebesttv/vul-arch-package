@@ -1,0 +1,17 @@
+{
+  "name": "ruby-rbnacl",
+  "version": "7.1.1-2",
+  "depends": [
+    "libsodium",
+    "ruby-ffi"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rspec",
+    "ruby-rake",
+    "ruby-rubocop"
+  ],
+  "receive": 199708406,
+  "transmit": 434127,
+  "disk": 2024491
+}
