@@ -1,0 +1,19 @@
+{
+  "name": "mate-session-manager",
+  "version": "1.26.1-1",
+  "depends": [
+    "dbus-glib",
+    "gettext",
+    "gtk3",
+    "libsm",
+    "mate-desktop"
+  ],
+  "makedepends": [
+    "xtrans",
+    "systemd",
+    "python"
+  ],
+  "receive": 199602161,
+  "transmit": 349792,
+  "disk": 8022433
+}
