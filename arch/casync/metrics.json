@@ -1,0 +1,25 @@
+{
+  "name": "casync",
+  "version": "2.r267.g0efa7ab-2",
+  "depends": [
+    "fuse",
+    "gcc-libs",
+    "glibc",
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [
+    "acl",
+    "curl",
+    "fuse2",
+    "git",
+    "meson",
+    "python-sphinx",
+    "systemd",
+    "xz",
+    "zstd"
+  ],
+  "receive": 199656136,
+  "transmit": 408118,
+  "disk": 5922261
+}
