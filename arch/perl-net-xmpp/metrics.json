@@ -1,0 +1,17 @@
+{
+  "name": "perl-net-xmpp",
+  "version": "1.05-9",
+  "depends": [
+    "perl-digest-sha1",
+    "perl-xml-stream",
+    "perl-digest-hmac"
+  ],
+  "makedepends": [
+    "perl-digest-sha1",
+    "perl-xml-stream",
+    "perl-module-build"
+  ],
+  "receive": 199569169,
+  "transmit": 333696,
+  "disk": 650005
+}
