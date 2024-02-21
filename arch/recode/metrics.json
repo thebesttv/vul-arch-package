@@ -1,0 +1,14 @@
+{
+  "name": "recode",
+  "version": "3.7.14-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "python",
+    "help2man"
+  ],
+  "receive": 199617112,
+  "transmit": 388330,
+  "disk": 13262942
+}
