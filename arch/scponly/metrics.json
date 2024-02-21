@@ -1,0 +1,13 @@
+{
+  "name": "scponly",
+  "version": "4.8-11",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "openssh"
+  ],
+  "receive": 199718013,
+  "transmit": 519211,
+  "disk": 631183
+}
