@@ -1,0 +1,11 @@
+{
+  "name": "zsh-syntax-highlighting",
+  "version": "0.8.0-1",
+  "depends": [
+    "zsh"
+  ],
+  "makedepends": [],
+  "receive": 199712130,
+  "transmit": 373253,
+  "disk": 1263961
+}
