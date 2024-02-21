@@ -1,0 +1,18 @@
+{
+  "name": "python-pytest-runner",
+  "version": "6.0.1-1",
+  "depends": [
+    "python-pytest",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199526030,
+  "transmit": 281992,
+  "disk": 731789
+}
