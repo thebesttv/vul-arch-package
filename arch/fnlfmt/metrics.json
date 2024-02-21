@@ -1,0 +1,13 @@
+{
+  "name": "fnlfmt",
+  "version": "0.3.1-1",
+  "depends": [
+    "lua"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 201227816,
+  "transmit": 1507624,
+  "disk": 1153545
+}
