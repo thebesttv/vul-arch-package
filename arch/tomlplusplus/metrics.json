@@ -1,0 +1,15 @@
+{
+  "name": "tomlplusplus",
+  "version": "3.4.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "meson"
+  ],
+  "receive": 199548106,
+  "transmit": 296113,
+  "disk": 6031242
+}
