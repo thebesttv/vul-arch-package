@@ -1,0 +1,12 @@
+{
+  "name": "perl-business-ismn",
+  "version": "1.204-1",
+  "depends": [
+    "perl",
+    "perl-tie-cycle"
+  ],
+  "makedepends": [],
+  "receive": 199611499,
+  "transmit": 393661,
+  "disk": 185512
+}
