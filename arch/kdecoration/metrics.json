@@ -1,0 +1,14 @@
+{
+  "name": "kdecoration",
+  "version": "5.27.10-1",
+  "depends": [
+    "ki18n5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kcoreaddons5"
+  ],
+  "receive": 199781969,
+  "transmit": 377025,
+  "disk": 839681
+}
