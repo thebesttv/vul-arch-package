@@ -1,0 +1,22 @@
+{
+  "name": "python-pytest-skip-markers",
+  "version": "1.5.1-1",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-distro",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-declarative-requirements",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 199540065,
+  "transmit": 273435,
+  "disk": 581177
+}
