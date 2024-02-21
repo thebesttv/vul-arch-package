@@ -1,0 +1,14 @@
+{
+  "name": "plymouth-kcm",
+  "version": "5.27.10-1",
+  "depends": [
+    "systemsettings",
+    "plymouth"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199643726,
+  "transmit": 396020,
+  "disk": 694782
+}
