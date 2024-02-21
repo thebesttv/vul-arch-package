@@ -1,0 +1,16 @@
+{
+  "name": "lib32-dconf",
+  "version": "0.40.0-3",
+  "depends": [
+    "dconf",
+    "lib32-glib2"
+  ],
+  "makedepends": [
+    "git",
+    "lib32-dbus",
+    "meson"
+  ],
+  "receive": 199571296,
+  "transmit": 282697,
+  "disk": 2862921
+}
