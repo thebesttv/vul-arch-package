@@ -1,0 +1,12 @@
+{
+  "name": "nss-mdns",
+  "version": "0.15.1-1",
+  "depends": [
+    "glibc",
+    "avahi"
+  ],
+  "makedepends": [],
+  "receive": 199686115,
+  "transmit": 388293,
+  "disk": 2078318
+}
