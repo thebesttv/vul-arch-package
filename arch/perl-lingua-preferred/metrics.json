@@ -1,0 +1,11 @@
+{
+  "name": "perl-lingua-preferred",
+  "version": "0.2.4-8",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 200338629,
+  "transmit": 995302,
+  "disk": 117526
+}
