@@ -1,0 +1,23 @@
+{
+  "name": "rpm-tools",
+  "version": "4.19.1.1-1",
+  "depends": [
+    "lua",
+    "file",
+    "nss",
+    "popt",
+    "elfutils",
+    "libarchive",
+    "libcap",
+    "rpm-sequoia"
+  ],
+  "makedepends": [
+    "python",
+    "pkg-config",
+    "cmake",
+    "podman"
+  ],
+  "receive": 205803137,
+  "transmit": 566445,
+  "disk": 26665505
+}
