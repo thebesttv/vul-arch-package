@@ -1,0 +1,20 @@
+{
+  "name": "lib32-nss",
+  "version": "3.98-1",
+  "depends": [
+    "lib32-nspr>=4.35",
+    "lib32-p11-kit>=0.23.19",
+    "lib32-sqlite",
+    "lib32-zlib",
+    "nss"
+  ],
+  "makedepends": [
+    "gyp",
+    "mercurial",
+    "perl",
+    "python"
+  ],
+  "receive": 316168483,
+  "transmit": 646979,
+  "disk": 352354664
+}
