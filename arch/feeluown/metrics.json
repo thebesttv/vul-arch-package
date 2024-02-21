@@ -1,0 +1,24 @@
+{
+  "name": "feeluown",
+  "version": "4.0.1-1",
+  "depends": [
+    "python-qasync",
+    "python-pyqt5",
+    "mpv",
+    "python-opengl",
+    "python-janus",
+    "python-requests",
+    "python-tomlkit",
+    "python-packaging",
+    "python-pydantic",
+    "python-mutagen",
+    "qt5-svg",
+    "xdg-user-dirs"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199500320,
+  "transmit": 276934,
+  "disk": 2413446
+}
