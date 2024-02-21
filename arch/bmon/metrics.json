@@ -1,0 +1,15 @@
+{
+  "name": "bmon",
+  "version": "4.0-4",
+  "depends": [
+    "ncurses",
+    "libnl",
+    "confuse"
+  ],
+  "makedepends": [
+    "autoconf"
+  ],
+  "receive": 199613804,
+  "transmit": 384618,
+  "disk": 473016
+}
