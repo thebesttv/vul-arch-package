@@ -1,0 +1,11 @@
+{
+  "name": "libotr",
+  "version": "4.1.1-4",
+  "depends": [
+    "libgcrypt"
+  ],
+  "makedepends": [],
+  "receive": 199506184,
+  "transmit": 251690,
+  "disk": 3460116
+}
