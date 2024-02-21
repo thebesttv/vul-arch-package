@@ -1,0 +1,15 @@
+{
+  "name": "python-listparser",
+  "version": "0.19-3",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199663599,
+  "transmit": 384620,
+  "disk": 297942
+}
