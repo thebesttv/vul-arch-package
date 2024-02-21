@@ -1,0 +1,13 @@
+{
+  "name": "acorn",
+  "version": "1:8.11.0-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199773511,
+  "transmit": 469293,
+  "disk": 266631
+}
