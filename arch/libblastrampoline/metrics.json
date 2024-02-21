@@ -1,0 +1,11 @@
+{
+  "name": "libblastrampoline",
+  "version": "5.8.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199575118,
+  "transmit": 306806,
+  "disk": 3315517
+}
