@@ -1,0 +1,17 @@
+{
+  "name": "python-wtforms",
+  "version": "3.1.2-1",
+  "depends": [
+    "python",
+    "python-markupsafe"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-babel",
+    "python-hatchling"
+  ],
+  "receive": 199519833,
+  "transmit": 227878,
+  "disk": 1109871
+}
