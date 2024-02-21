@@ -1,0 +1,17 @@
+{
+  "name": "ruby-vimrunner",
+  "version": "0.3.5-1",
+  "depends": [
+    "ruby",
+    "gvim"
+  ],
+  "makedepends": [
+    "ruby-bundler",
+    "ruby-rake",
+    "ruby-rdoc",
+    "ruby-rspec"
+  ],
+  "receive": 199620128,
+  "transmit": 391219,
+  "disk": 180398
+}
