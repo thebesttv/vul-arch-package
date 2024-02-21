@@ -1,0 +1,16 @@
+{
+  "name": "purpose5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kaccounts-integration",
+    "kirigami2",
+    "accounts-qml-module"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "intltool"
+  ],
+  "receive": 199573484,
+  "transmit": 297307,
+  "disk": 1963355
+}
