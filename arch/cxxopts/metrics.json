@@ -1,0 +1,11 @@
+{
+  "name": "cxxopts",
+  "version": "3.2.1-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199828415,
+  "transmit": 434426,
+  "disk": 1095407
+}
