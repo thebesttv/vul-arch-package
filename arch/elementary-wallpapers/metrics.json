@@ -1,0 +1,12 @@
+{
+  "name": "elementary-wallpapers",
+  "version": "7.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 802356331,
+  "transmit": 1074166,
+  "disk": 716370147
+}
