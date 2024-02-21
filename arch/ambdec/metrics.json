@@ -1,0 +1,15 @@
+{
+  "name": "ambdec",
+  "version": "0.7.1-2",
+  "depends": [
+    "clxclient",
+    "clthreads",
+    "jack"
+  ],
+  "makedepends": [
+    "gendesk"
+  ],
+  "receive": 199639490,
+  "transmit": 388538,
+  "disk": 540022
+}
