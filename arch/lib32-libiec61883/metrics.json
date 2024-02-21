@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libiec61883",
+  "version": "1.2.0-4",
+  "depends": [
+    "lib32-libraw1394",
+    "libiec61883"
+  ],
+  "makedepends": [],
+  "receive": 199647042,
+  "transmit": 405724,
+  "disk": 1772907
+}
