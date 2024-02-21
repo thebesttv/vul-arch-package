@@ -1,0 +1,24 @@
+{
+  "name": "ario",
+  "version": "1.6-3",
+  "depends": [
+    "avahi",
+    "curl",
+    "dbus-glib",
+    "gnutls",
+    "gtk3",
+    "libmpdclient",
+    "libnotify",
+    "libsoup",
+    "taglib",
+    "xdg-utils"
+  ],
+  "makedepends": [
+    "intltool",
+    "perl-xml-parser",
+    "patch"
+  ],
+  "receive": 199662671,
+  "transmit": 397778,
+  "disk": 6850316
+}
