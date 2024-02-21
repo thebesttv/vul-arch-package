@@ -1,0 +1,13 @@
+{
+  "name": "lprint",
+  "version": "1.3.1-1",
+  "depends": [
+    "pappl",
+    "libcups",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199533393,
+  "transmit": 274369,
+  "disk": 2062913
+}
