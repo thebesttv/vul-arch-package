@@ -1,0 +1,11 @@
+{
+  "name": "perl-importer",
+  "version": "0.026-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199582162,
+  "transmit": 360294,
+  "disk": 292978
+}
