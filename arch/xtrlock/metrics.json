@@ -1,0 +1,16 @@
+{
+  "name": "xtrlock",
+  "version": "2.15-1",
+  "depends": [
+    "glibc",
+    "libx11",
+    "libxcrypt",
+    "libcrypt.so",
+    "libxi",
+    "libxfixes"
+  ],
+  "makedepends": [],
+  "receive": 199523048,
+  "transmit": 274858,
+  "disk": 195055
+}
