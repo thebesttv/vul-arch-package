@@ -1,0 +1,15 @@
+{
+  "name": "mk-configure",
+  "version": "0.38.3-1",
+  "depends": [
+    "bash",
+    "gawk"
+  ],
+  "makedepends": [
+    "bmake",
+    "bmkdep"
+  ],
+  "receive": 199627170,
+  "transmit": 368189,
+  "disk": 2233309
+}
