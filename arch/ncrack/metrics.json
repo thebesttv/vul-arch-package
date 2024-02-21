@@ -1,0 +1,11 @@
+{
+  "name": "ncrack",
+  "version": "0.7-3",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 200217869,
+  "transmit": 436479,
+  "disk": 42891659
+}
