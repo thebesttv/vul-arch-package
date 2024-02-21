@@ -1,0 +1,22 @@
+{
+  "name": "wf-recorder",
+  "version": "0.4.1-1",
+  "depends": [
+    "libavcodec.so",
+    "libavdevice.so",
+    "libavfilter.so",
+    "libavformat.so",
+    "libavutil.so",
+    "libpulse.so",
+    "libpulse-simple.so",
+    "libswresample.so",
+    "libwayland-client.so"
+  ],
+  "makedepends": [
+    "meson",
+    "wayland-protocols"
+  ],
+  "receive": 199673678,
+  "transmit": 415154,
+  "disk": 260643
+}
