@@ -1,0 +1,14 @@
+{
+  "name": "lib32-lcms2",
+  "version": "2.16-1",
+  "depends": [
+    "lib32-libtiff",
+    "lcms2"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 199597737,
+  "transmit": 346349,
+  "disk": 21440906
+}
