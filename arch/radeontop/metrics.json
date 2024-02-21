@@ -1,0 +1,17 @@
+{
+  "name": "radeontop",
+  "version": "1.4-2",
+  "depends": [
+    "glibc",
+    "libdrm",
+    "libpciaccess",
+    "libxcb",
+    "ncurses"
+  ],
+  "makedepends": [
+    "xorgproto"
+  ],
+  "receive": 199675125,
+  "transmit": 458653,
+  "disk": 313768
+}
