@@ -1,0 +1,16 @@
+{
+  "name": "python-conway-polynomials",
+  "version": "0.9-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199545374,
+  "transmit": 306885,
+  "disk": 1454582
+}
