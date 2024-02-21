@@ -1,0 +1,31 @@
+{
+  "name": "gnome-games",
+  "version": "40.0-4",
+  "depends": [
+    "cairo",
+    "dconf",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "grilo",
+    "gtk3",
+    "hicolor-icon-theme",
+    "libarchive",
+    "libhandy",
+    "libmanette",
+    "librsvg",
+    "libsoup3",
+    "libxml2",
+    "retro-gtk",
+    "sqlite",
+    "tracker3"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "meson",
+    "vala"
+  ],
+  "receive": 199525440,
+  "transmit": 258034,
+  "disk": 13822424
+}
