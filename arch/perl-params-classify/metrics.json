@@ -1,0 +1,13 @@
+{
+  "name": "perl-params-classify",
+  "version": "0.015-7",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199578487,
+  "transmit": 335373,
+  "disk": 209360
+}
