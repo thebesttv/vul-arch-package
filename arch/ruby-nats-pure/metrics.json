@@ -1,0 +1,17 @@
+{
+  "name": "ruby-nats-pure",
+  "version": "2.4.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rspec",
+    "ruby-bundler",
+    "ruby-rdoc",
+    "ruby-test-unit"
+  ],
+  "receive": 199737363,
+  "transmit": 401354,
+  "disk": 762727
+}
