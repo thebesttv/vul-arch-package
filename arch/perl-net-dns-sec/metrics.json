@@ -1,0 +1,17 @@
+{
+  "name": "perl-net-dns-sec",
+  "version": "1.23-1",
+  "depends": [
+    "perl-crypt-openssl-bignum",
+    "perl-crypt-openssl-dsa",
+    "perl-crypt-openssl-rsa",
+    "perl-digest-bubblebabble",
+    "perl-mime-base32",
+    "perl-net-dns",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200015278,
+  "transmit": 558154,
+  "disk": 338396
+}
