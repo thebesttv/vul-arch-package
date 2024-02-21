@@ -1,0 +1,27 @@
+{
+  "name": "xf86-video-intel",
+  "version": "1:2.99.917+923+gb74b67f0-1",
+  "depends": [
+    "mesa",
+    "libxvmc",
+    "pixman",
+    "xcb-util>=0.3.9",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-VIDEODRV_VERSION=25.2",
+    "libx11",
+    "libxrender",
+    "libxv",
+    "libxrandr",
+    "libxinerama",
+    "libxcursor",
+    "libxtst",
+    "libxss",
+    "git"
+  ],
+  "receive": 211994303,
+  "transmit": 459790,
+  "disk": 23789969
+}
