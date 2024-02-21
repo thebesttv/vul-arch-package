@@ -1,0 +1,14 @@
+{
+  "name": "bzip3",
+  "version": "1.4.0-1",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "clang"
+  ],
+  "receive": 199811991,
+  "transmit": 585988,
+  "disk": 2153735
+}
