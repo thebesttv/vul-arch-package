@@ -1,0 +1,14 @@
+{
+  "name": "haskell-primitive",
+  "version": "0.7.4.0-103",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199584790,
+  "transmit": 341300,
+  "disk": 739071
+}
