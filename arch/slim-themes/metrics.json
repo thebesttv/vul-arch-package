@@ -1,0 +1,11 @@
+{
+  "name": "slim-themes",
+  "version": "1.2.3-9",
+  "depends": [
+    "slim"
+  ],
+  "makedepends": [],
+  "receive": 204788806,
+  "transmit": 429578,
+  "disk": 11059229
+}
