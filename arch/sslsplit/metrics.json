@@ -1,0 +1,16 @@
+{
+  "name": "sslsplit",
+  "version": "0.5.5-3",
+  "depends": [
+    "glibc",
+    "libevent",
+    "openssl",
+    "libpcap",
+    "libpcap.so",
+    "libnet"
+  ],
+  "makedepends": [],
+  "receive": 199756334,
+  "transmit": 408674,
+  "disk": 9112352
+}
