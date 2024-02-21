@@ -1,0 +1,11 @@
+{
+  "name": "python-pyvcd",
+  "version": "0.3.0-3",
+  "depends": [],
+  "makedepends": [
+    "python-setuptools-scm"
+  ],
+  "receive": 199504651,
+  "transmit": 247350,
+  "disk": 297168
+}
