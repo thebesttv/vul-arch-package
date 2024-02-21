@@ -115,6 +115,8 @@ jobs:
           sleep 10
           ./metrics/get-metrics | sudo tee arch/$TBT_PACKAGE_NAME/metrics.json
 
+          ls arch/$TBT_PACKAGE_NAME/metrics.json
+
       - name: Set commit message
         id: commit_message_step
         if: success() || failure()
