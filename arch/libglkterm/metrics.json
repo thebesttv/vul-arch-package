@@ -1,0 +1,11 @@
+{
+  "name": "libglkterm",
+  "version": "1.0.4-2",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199625550,
+  "transmit": 400264,
+  "disk": 951834
+}
