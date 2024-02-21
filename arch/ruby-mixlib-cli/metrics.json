@@ -1,0 +1,16 @@
+{
+  "name": "ruby-mixlib-cli",
+  "version": "2.1.10-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rake",
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199522718,
+  "transmit": 291796,
+  "disk": 718669
+}
