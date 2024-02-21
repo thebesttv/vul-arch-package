@@ -1,0 +1,13 @@
+{
+  "name": "libutf8proc",
+  "version": "2.9.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 206207383,
+  "transmit": 286383,
+  "disk": 9415024
+}
