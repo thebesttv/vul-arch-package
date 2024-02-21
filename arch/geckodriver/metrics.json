@@ -1,0 +1,13 @@
+{
+  "name": "geckodriver",
+  "version": "0.34.0-1",
+  "depends": [],
+  "makedepends": [
+    "rust",
+    "cargo",
+    "gcc-libs"
+  ],
+  "receive": 199652213,
+  "transmit": 391652,
+  "disk": 700157
+}
