@@ -1,0 +1,13 @@
+{
+  "name": "haskell-libffi",
+  "version": "0.2.1-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199541155,
+  "transmit": 306165,
+  "disk": 150366
+}
