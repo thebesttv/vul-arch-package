@@ -1,0 +1,25 @@
+{
+  "name": "seahorse",
+  "version": "1:43.0-2",
+  "depends": [
+    "gcr",
+    "gpgme",
+    "gtk3",
+    "libhandy",
+    "libpwquality",
+    "libsecret",
+    "libsoup3",
+    "org.freedesktop.secrets"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "libldap",
+    "meson",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199603076,
+  "transmit": 302198,
+  "disk": 40959415
+}
