@@ -1,0 +1,13 @@
+{
+  "name": "haskell-singletons",
+  "version": "3.0.2-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199710756,
+  "transmit": 378517,
+  "disk": 424620
+}
