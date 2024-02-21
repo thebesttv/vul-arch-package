@@ -1,0 +1,22 @@
+{
+  "name": "code",
+  "version": "1.86.2-1",
+  "depends": [
+    "electron27",
+    "libsecret",
+    "libx11",
+    "libxkbfile",
+    "ripgrep"
+  ],
+  "makedepends": [
+    "gulp",
+    "npm",
+    "python",
+    "yarn",
+    "nodejs-lts-hydrogen",
+    "desktop-file-utils"
+  ],
+  "receive": 217691634,
+  "transmit": 599807,
+  "disk": 117625046
+}

@@ -1,0 +1,57 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=15.48 s (409.1 files/s 125256.4 lines/s)"
+4595,TypeScript,189261,124244,986731
+736,JSON,47,0,485687
+253,JavaScript,3239,6538,50034
+50,Text,3833,0,21218
+239,CSS,4563,1629,20678
+71,Rust,2273,1085,13769
+37,HTML,542,42,6562
+73,YAML,751,214,5531
+61,SVG,24,9,2355
+64,Markdown,709,41,1336
+45,Bourne Shell,275,205,1291
+19,DOS Batch,155,41,402
+9,XML,0,1,333
+5,Bourne Again Shell,53,96,271
+1,SCSS,38,47,255
+8,PowerShell,42,65,241
+4,zsh,33,38,161
+1,Fish Shell,21,49,121
+1,CUDA,36,0,113
+1,Groovy,65,48,106
+3,TOML,13,0,103
+5,diff,6,53,80
+6,C++,10,6,73
+1,make,20,7,68
+2,Python,17,16,64
+2,Perl,13,9,55
+3,TeX,9,4,49
+1,reStructuredText,38,12,48
+2,Handlebars,7,1,46
+3,LESS,11,1,43
+3,PHP,10,5,43
+1,Clojure,6,8,38
+1,Objective-C++,10,9,33
+2,CoffeeScript,11,0,32
+1,Razor,8,6,32
+1,C,1,2,27
+1,C#,3,1,27
+1,Ruby,6,14,26
+2,HLSL,3,0,25
+1,JSX,6,5,24
+1,Java,8,11,23
+1,Julia,2,1,23
+2,Pug,3,5,22
+2,Go,4,1,21
+2,Dockerfile,7,1,20
+2,INI,4,2,19
+1,Raku,5,4,18
+1,Visual Basic .NET,3,6,16
+1,Dart,3,1,15
+1,Swift,0,0,13
+1,F#,4,3,11
+1,R,4,9,11
+1,Jupyter Notebook,0,43,10
+1,Lua,1,1,10
+1,SQL,0,0,6
+6334,SUM,206216,134639,1598369
