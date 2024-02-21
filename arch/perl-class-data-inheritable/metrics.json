@@ -1,0 +1,11 @@
+{
+  "name": "perl-class-data-inheritable",
+  "version": "0.09-4",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199714011,
+  "transmit": 398097,
+  "disk": 145558
+}
