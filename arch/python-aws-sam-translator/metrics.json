@@ -1,0 +1,21 @@
+{
+  "name": "python-aws-sam-translator",
+  "version": "1.84.0-1",
+  "depends": [
+    "python",
+    "python-botocore",
+    "python-boto3",
+    "python-jsonschema",
+    "python-pydantic",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 200695486,
+  "transmit": 1018661,
+  "disk": 49299066
+}
