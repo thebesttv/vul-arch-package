@@ -1,0 +1,13 @@
+{
+  "name": "perl-file-basedir",
+  "version": "0.09-3",
+  "depends": [
+    "perl-ipc-system-simple"
+  ],
+  "makedepends": [
+    "perl-module-build>0.4205"
+  ],
+  "receive": 199612632,
+  "transmit": 400681,
+  "disk": 221965
+}
