@@ -1,0 +1,17 @@
+{
+  "name": "snappy",
+  "version": "1.1.10-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "clang",
+    "gtest",
+    "benchmark"
+  ],
+  "receive": 199570496,
+  "transmit": 323099,
+  "disk": 4578067
+}
