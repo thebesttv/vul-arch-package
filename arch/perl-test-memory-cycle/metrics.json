@@ -1,0 +1,13 @@
+{
+  "name": "perl-test-memory-cycle",
+  "version": "1.06-2",
+  "depends": [
+    "perl-devel-cycle",
+    "perl-padwalker",
+    "perl-cgi"
+  ],
+  "makedepends": [],
+  "receive": 199533268,
+  "transmit": 338112,
+  "disk": 133042
+}
