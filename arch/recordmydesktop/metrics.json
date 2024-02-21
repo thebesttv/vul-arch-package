@@ -1,0 +1,21 @@
+{
+  "name": "recordmydesktop",
+  "version": "0.4.0-3",
+  "depends": [
+    "alsa-lib",
+    "zlib",
+    "libvorbis",
+    "libxdamage",
+    "libxext",
+    "libtheora",
+    "libsm",
+    "jack",
+    "popt"
+  ],
+  "makedepends": [
+    "jack"
+  ],
+  "receive": 199648684,
+  "transmit": 406306,
+  "disk": 1392719
+}
