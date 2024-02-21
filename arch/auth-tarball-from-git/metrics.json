@@ -1,0 +1,14 @@
+{
+  "name": "auth-tarball-from-git",
+  "version": "0.2.0-1",
+  "depends": [
+    "git",
+    "sequoia-sqv"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199603126,
+  "transmit": 367660,
+  "disk": 141176
+}
