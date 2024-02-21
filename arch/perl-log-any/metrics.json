@@ -1,0 +1,11 @@
+{
+  "name": "perl-log-any",
+  "version": "1.717-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199588538,
+  "transmit": 314136,
+  "disk": 422531
+}
