@@ -1,0 +1,17 @@
+{
+  "name": "greetd-gtkgreet",
+  "version": "0.8-1",
+  "depends": [
+    "json-c",
+    "gtk-layer-shell",
+    "gtk3"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "scdoc"
+  ],
+  "receive": 199665290,
+  "transmit": 434518,
+  "disk": 227307
+}
