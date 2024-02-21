@@ -1,0 +1,14 @@
+{
+  "name": "libshout",
+  "version": "1:2.4.6-2",
+  "depends": [
+    "libvorbis",
+    "libtheora",
+    "speex",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199668264,
+  "transmit": 430876,
+  "disk": 3085532
+}
