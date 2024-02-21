@@ -1,0 +1,15 @@
+{
+  "name": "badvpn",
+  "version": "1.999.130-7",
+  "depends": [
+    "nss",
+    "openssl",
+    "iproute2"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 201158994,
+  "transmit": 431827,
+  "disk": 8985795
+}
