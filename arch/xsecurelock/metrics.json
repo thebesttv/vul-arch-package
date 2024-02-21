@@ -1,0 +1,22 @@
+{
+  "name": "xsecurelock",
+  "version": "1.9.0-1",
+  "depends": [
+    "pam",
+    "libxcomposite",
+    "libxmu",
+    "libxft",
+    "libxrandr",
+    "libxss"
+  ],
+  "makedepends": [
+    "mplayer",
+    "mpv",
+    "imagemagick",
+    "xorg-xset",
+    "xscreensaver"
+  ],
+  "receive": 199500008,
+  "transmit": 249828,
+  "disk": 679639
+}
