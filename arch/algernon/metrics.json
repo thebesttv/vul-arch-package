@@ -1,0 +1,12 @@
+{
+  "name": "algernon",
+  "version": "1.15.5-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 262004586,
+  "transmit": 852825,
+  "disk": 101637153
+}
