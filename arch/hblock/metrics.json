@@ -1,0 +1,15 @@
+{
+  "name": "hblock",
+  "version": "3.4.4-1",
+  "depends": [
+    "sh",
+    "curl",
+    "systemd"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199539709,
+  "transmit": 278687,
+  "disk": 4479417
+}
