@@ -1,0 +1,11 @@
+{
+  "name": "perl-inc-latest",
+  "version": "0.500-11",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199537157,
+  "transmit": 289759,
+  "disk": 195519
+}
