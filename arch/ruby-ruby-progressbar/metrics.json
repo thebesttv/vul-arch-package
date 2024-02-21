@@ -1,0 +1,11 @@
+{
+  "name": "ruby-ruby-progressbar",
+  "version": "1.11.0-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199650082,
+  "transmit": 394056,
+  "disk": 549949
+}
