@@ -1,0 +1,11 @@
+{
+  "name": "perl-http-date",
+  "version": "6.06-1",
+  "depends": [
+    "perl-timedate"
+  ],
+  "makedepends": [],
+  "receive": 199572268,
+  "transmit": 326814,
+  "disk": 283418
+}
