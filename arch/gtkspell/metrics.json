@@ -1,0 +1,15 @@
+{
+  "name": "gtkspell",
+  "version": "2.0.16-8",
+  "depends": [
+    "gtk2",
+    "enchant"
+  ],
+  "makedepends": [
+    "intltool",
+    "gtk-doc"
+  ],
+  "receive": 200749832,
+  "transmit": 886096,
+  "disk": 1985647
+}
