@@ -1,0 +1,11 @@
+{
+  "name": "frogatto",
+  "version": "4.0.2-1",
+  "depends": [
+    "anura"
+  ],
+  "makedepends": [],
+  "receive": 819191724,
+  "transmit": 8690559,
+  "disk": 1306461990
+}
