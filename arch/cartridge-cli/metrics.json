@@ -1,0 +1,14 @@
+{
+  "name": "cartridge-cli",
+  "version": "2.12.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "mage"
+  ],
+  "receive": 199664217,
+  "transmit": 397716,
+  "disk": 4893372
+}
