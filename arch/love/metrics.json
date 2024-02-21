@@ -1,0 +1,21 @@
+{
+  "name": "love",
+  "version": "11.5-1",
+  "depends": [
+    "luajit",
+    "freetype2",
+    "mpg123",
+    "openal",
+    "libvorbis",
+    "libmodplug",
+    "sdl2",
+    "shared-mime-info",
+    "hicolor-icon-theme",
+    "desktop-file-utils",
+    "libtheora"
+  ],
+  "makedepends": [],
+  "receive": 199666730,
+  "transmit": 403235,
+  "disk": 18200137
+}
