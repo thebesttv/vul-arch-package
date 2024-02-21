@@ -1,0 +1,15 @@
+{
+  "name": "smali",
+  "version": "2.5.2-2",
+  "depends": [
+    "java-runtime=11",
+    "bash"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "gradle"
+  ],
+  "receive": 200276208,
+  "transmit": 296614,
+  "disk": 8605580
+}
