@@ -1,0 +1,19 @@
+{
+  "name": "babeltrace",
+  "version": "1.5.11-1",
+  "depends": [
+    "popt",
+    "util-linux",
+    "glib2",
+    "elfutils"
+  ],
+  "makedepends": [
+    "popt",
+    "util-linux",
+    "glib2",
+    "elfutils"
+  ],
+  "receive": 199511144,
+  "transmit": 270978,
+  "disk": 5240784
+}
