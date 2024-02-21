@@ -1,0 +1,15 @@
+{
+  "name": "bftpd",
+  "version": "6.1-3",
+  "depends": [
+    "pam",
+    "zlib",
+    "glibc",
+    "libxcrypt",
+    "libcrypt.so"
+  ],
+  "makedepends": [],
+  "receive": 199571370,
+  "transmit": 305850,
+  "disk": 929362
+}
