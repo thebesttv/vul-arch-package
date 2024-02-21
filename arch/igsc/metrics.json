@@ -1,0 +1,15 @@
+{
+  "name": "igsc",
+  "version": "0.8.13-1",
+  "depends": [
+    "intel-metee",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "systemd"
+  ],
+  "receive": 199698829,
+  "transmit": 441604,
+  "disk": 1384191
+}
