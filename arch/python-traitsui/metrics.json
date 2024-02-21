@@ -1,0 +1,16 @@
+{
+  "name": "python-traitsui",
+  "version": "7.4.3-2",
+  "depends": [
+    "python-pyface"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199664726,
+  "transmit": 370111,
+  "disk": 19818065
+}
