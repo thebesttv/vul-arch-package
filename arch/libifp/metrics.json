@@ -1,0 +1,11 @@
+{
+  "name": "libifp",
+  "version": "1.0.0.2-7",
+  "depends": [
+    "libusb-compat"
+  ],
+  "makedepends": [],
+  "receive": 200117046,
+  "transmit": 870796,
+  "disk": 2045196
+}
