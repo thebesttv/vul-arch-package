@@ -1,0 +1,17 @@
+{
+  "name": "luadbi",
+  "version": "0.7.2-2",
+  "depends": [],
+  "makedepends": [
+    "sqlite3",
+    "mariadb-libs",
+    "postgresql",
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53"
+  ],
+  "receive": 199573993,
+  "transmit": 298098,
+  "disk": 373180
+}
