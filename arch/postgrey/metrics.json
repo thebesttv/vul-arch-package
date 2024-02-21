@@ -1,0 +1,15 @@
+{
+  "name": "postgrey",
+  "version": "1.37-5",
+  "depends": [
+    "perl",
+    "perl-berkeleydb",
+    "perl-io-multiplex",
+    "perl-net-server",
+    "perl-netaddr-ip"
+  ],
+  "makedepends": [],
+  "receive": 199501507,
+  "transmit": 242160,
+  "disk": 294232
+}
