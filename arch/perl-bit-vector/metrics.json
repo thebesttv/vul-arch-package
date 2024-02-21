@@ -1,0 +1,11 @@
+{
+  "name": "perl-bit-vector",
+  "version": "7.4-15",
+  "depends": [
+    "perl-carp-clan"
+  ],
+  "makedepends": [],
+  "receive": 199864278,
+  "transmit": 538501,
+  "disk": 967686
+}
