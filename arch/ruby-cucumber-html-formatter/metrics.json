@@ -1,0 +1,16 @@
+{
+  "name": "ruby-cucumber-html-formatter",
+  "version": "21.0.0-1",
+  "depends": [
+    "ruby-cucumber-messages"
+  ],
+  "makedepends": [
+    "npm",
+    "ruby-rake",
+    "ruby-rspec",
+    "ruby-cucumber-compatibility-kit"
+  ],
+  "receive": 199494851,
+  "transmit": 274493,
+  "disk": 1062545
+}
