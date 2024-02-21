@@ -1,0 +1,13 @@
+{
+  "name": "aspell-nb",
+  "version": "0.50.1-3",
+  "depends": [
+    "aspell"
+  ],
+  "makedepends": [
+    "convmv"
+  ],
+  "receive": 199744846,
+  "transmit": 488506,
+  "disk": 511049
+}
