@@ -1,0 +1,22 @@
+{
+  "name": "libetonyek",
+  "version": "0.1.10-3",
+  "depends": [
+    "libxml2",
+    "zlib",
+    "libwpd",
+    "librevenge",
+    "liblangtag"
+  ],
+  "makedepends": [
+    "boost",
+    "cppunit",
+    "gperf",
+    "doxygen",
+    "glm",
+    "mdds"
+  ],
+  "receive": 201102499,
+  "transmit": 497707,
+  "disk": 7793507
+}
