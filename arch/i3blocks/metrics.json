@@ -1,0 +1,13 @@
+{
+  "name": "i3blocks",
+  "version": "1.5-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199522267,
+  "transmit": 273643,
+  "disk": 1499445
+}
