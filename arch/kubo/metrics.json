@@ -1,0 +1,14 @@
+{
+  "name": "kubo",
+  "version": "0.26.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 200068917,
+  "transmit": 313462,
+  "disk": 15133783
+}
