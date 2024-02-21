@@ -1,0 +1,13 @@
+{
+  "name": "libzdb",
+  "version": "3.2.3-1",
+  "depends": [
+    "postgresql-libs",
+    "sqlite",
+    "mariadb-libs"
+  ],
+  "makedepends": [],
+  "receive": 199570338,
+  "transmit": 253035,
+  "disk": 3997871
+}
