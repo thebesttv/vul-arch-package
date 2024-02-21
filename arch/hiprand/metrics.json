@@ -1,0 +1,15 @@
+{
+  "name": "hiprand",
+  "version": "6.0.0-1",
+  "depends": [
+    "hip",
+    "rocrand"
+  ],
+  "makedepends": [
+    "rocm-cmake",
+    "gcc-fortran"
+  ],
+  "receive": 199543765,
+  "transmit": 305024,
+  "disk": 992584
+}
