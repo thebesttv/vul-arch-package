@@ -1,0 +1,53 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.55 s (1517.6 files/s 131425.7 lines/s)"
+426,Python,9377,12920,32924
+54,C++,277,208,3222
+92,C,263,123,3150
+12,XML,13,22,2370
+26,reStructuredText,805,1275,584
+2,SVG,2,1,541
+23,Java,119,18,485
+11,TeX,125,15,406
+53,C/C++ Header,114,71,358
+9,C#,40,29,228
+23,Text,63,0,182
+3,Qt,0,0,170
+5,make,36,4,146
+9,Bourne Shell,38,24,122
+4,Markdown,43,0,119
+8,Fortran 90,48,12,114
+2,WiX source,27,19,91
+9,Protocol Buffers,20,0,85
+3,DOS Batch,29,18,74
+7,Vala,15,0,67
+2,HTML,13,2,53
+1,MSBuild script,0,0,50
+6,D,15,5,48
+1,CUDA,15,28,41
+6,Fortran 77,2,0,33
+1,yacc,6,2,25
+2,Assembly,10,2,22
+1,PO File,4,5,21
+1,VHDL,8,7,19
+1,Visual Studio Solution,1,1,19
+3,Erlang,6,24,17
+1,SAS,6,0,17
+2,OCaml,10,2,15
+1,Perl,16,10,15
+3,SWIG,6,0,15
+3,Cython,3,1,14
+1,R,9,1,12
+1,lex,1,0,12
+1,JSON,0,0,9
+2,Ruby,2,1,8
+2,F#,2,0,6
+2,Objective-C,3,9,6
+1,Scala,2,0,6
+3,Windows Module Definition,0,0,6
+1,CSV,0,0,5
+1,Haxe,0,0,5
+1,TypeScript,0,0,4
+1,JavaScript,0,0,1
+1,Linker Script,1,0,1
+1,Lua,0,0,1
+1,Windows Resource File,0,0,1
+836,SUM,11595,14859,45945
