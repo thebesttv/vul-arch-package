@@ -1,0 +1,17 @@
+{
+  "name": "stlink",
+  "version": "1.7.0-2",
+  "depends": [
+    "glib2",
+    "glibc",
+    "gtk3",
+    "hicolor-icon-theme",
+    "libusb"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199502645,
+  "transmit": 255373,
+  "disk": 2005972
+}
