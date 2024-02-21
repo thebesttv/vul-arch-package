@@ -1,0 +1,11 @@
+{
+  "name": "fcrackzip",
+  "version": "1.0-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199689155,
+  "transmit": 409848,
+  "disk": 633281
+}
