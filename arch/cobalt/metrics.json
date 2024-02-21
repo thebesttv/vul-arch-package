@@ -1,0 +1,17 @@
+{
+  "name": "cobalt",
+  "version": "0.19.0-1",
+  "depends": [
+    "openssl",
+    "libsass",
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust",
+    "cargo"
+  ],
+  "receive": 199479395,
+  "transmit": 228318,
+  "disk": 2446501
+}
