@@ -1,0 +1,14 @@
+{
+  "name": "iotop-c",
+  "version": "1.26-2",
+  "depends": [
+    "glibc",
+    "ncurses"
+  ],
+  "makedepends": [
+    "pkgconf"
+  ],
+  "receive": 199640036,
+  "transmit": 362262,
+  "disk": 601001
+}
