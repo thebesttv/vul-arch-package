@@ -1,0 +1,22 @@
+{
+  "name": "haskell-pointed",
+  "version": "5.0.4-118",
+  "depends": [
+    "ghc-libs",
+    "haskell-comonad",
+    "haskell-data-default-class",
+    "haskell-hashable",
+    "haskell-kan-extensions",
+    "haskell-semigroupoids",
+    "haskell-tagged",
+    "haskell-transformers-compat",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199647151,
+  "transmit": 399382,
+  "disk": 487437
+}
