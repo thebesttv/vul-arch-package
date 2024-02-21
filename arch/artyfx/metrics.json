@@ -1,0 +1,19 @@
+{
+  "name": "artyfx",
+  "version": "1.3.1-2",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "cmake",
+    "libsndfile",
+    "lv2"
+  ],
+  "receive": 199564097,
+  "transmit": 293550,
+  "disk": 3109019
+}
