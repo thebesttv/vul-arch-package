@@ -1,0 +1,13 @@
+{
+  "name": "haskell-unbounded-delays",
+  "version": "0.1.1.1-6",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200102113,
+  "transmit": 627982,
+  "disk": 132988
+}
