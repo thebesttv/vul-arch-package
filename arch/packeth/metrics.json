@@ -1,0 +1,11 @@
+{
+  "name": "packeth",
+  "version": "3.0-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199534156,
+  "transmit": 284151,
+  "disk": 3166752
+}
