@@ -1,0 +1,19 @@
+{
+  "name": "zstd",
+  "version": "1.5.5-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "zlib",
+    "xz",
+    "lz4"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest",
+    "ninja"
+  ],
+  "receive": 199516180,
+  "transmit": 268025,
+  "disk": 10334976
+}
