@@ -1,0 +1,12 @@
+{
+  "name": "mkinitcpio-netconf",
+  "version": "0.0.5-2",
+  "depends": [
+    "mkinitcpio-nfs-utils",
+    "iproute2"
+  ],
+  "makedepends": [],
+  "receive": 199984938,
+  "transmit": 748092,
+  "disk": 98586
+}
