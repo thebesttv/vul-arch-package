@@ -1,0 +1,13 @@
+{
+  "name": "ding-libs",
+  "version": "0.6.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199520709,
+  "transmit": 263050,
+  "disk": 6497609
+}
