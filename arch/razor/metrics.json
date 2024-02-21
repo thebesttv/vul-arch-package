@@ -1,0 +1,15 @@
+{
+  "name": "razor",
+  "version": "2.85-19",
+  "depends": [
+    "perl-net-dns",
+    "perl-digest-sha1",
+    "perl-uri",
+    "perl-digest-nilsimsa",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199579063,
+  "transmit": 280368,
+  "disk": 565126
+}
