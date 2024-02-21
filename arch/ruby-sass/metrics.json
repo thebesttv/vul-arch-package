@@ -1,0 +1,15 @@
+{
+  "name": "ruby-sass",
+  "version": "3.7.4-3",
+  "depends": [
+    "ruby",
+    "ruby-sass-listen",
+    "ruby-yard",
+    "ruby-maruku",
+    "ruby-rdoc"
+  ],
+  "makedepends": [],
+  "receive": 199696681,
+  "transmit": 444262,
+  "disk": 2358426
+}
