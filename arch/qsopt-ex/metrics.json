@@ -1,0 +1,13 @@
+{
+  "name": "qsopt-ex",
+  "version": "2.5.10.3-1",
+  "depends": [
+    "gmp",
+    "zlib",
+    "bzip2"
+  ],
+  "makedepends": [],
+  "receive": 199535590,
+  "transmit": 272994,
+  "disk": 3853330
+}
