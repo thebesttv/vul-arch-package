@@ -1,0 +1,12 @@
+{
+  "name": "cargo-about",
+  "version": "0.6.1-1",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199617080,
+  "transmit": 368736,
+  "disk": 4183822
+}
