@@ -1,0 +1,14 @@
+{
+  "name": "lbreakout2",
+  "version": "2.6.5-3",
+  "depends": [
+    "sdl_mixer",
+    "libpng"
+  ],
+  "makedepends": [
+    "patch"
+  ],
+  "receive": 203465357,
+  "transmit": 516690,
+  "disk": 10931407
+}
