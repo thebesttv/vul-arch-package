@@ -1,0 +1,15 @@
+{
+  "name": "senpai",
+  "version": "0.3.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "scdoc"
+  ],
+  "receive": 199557741,
+  "transmit": 306536,
+  "disk": 1689403
+}
