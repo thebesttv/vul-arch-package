@@ -1,0 +1,11 @@
+{
+  "name": "perl-yaml-libyaml",
+  "version": "0.89-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200693174,
+  "transmit": 1268107,
+  "disk": 1043301
+}
