@@ -1,0 +1,21 @@
+{
+  "name": "libspelling",
+  "version": "0.2.0-2",
+  "depends": [
+    "enchant",
+    "gtk4",
+    "gtksourceview5",
+    "icu",
+    "pango"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199616986,
+  "transmit": 348213,
+  "disk": 702219
+}
