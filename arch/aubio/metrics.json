@@ -1,0 +1,23 @@
+{
+  "name": "aubio",
+  "version": "0.4.9-16",
+  "depends": [],
+  "makedepends": [
+    "doxygen",
+    "ffmpeg",
+    "fftw",
+    "jack",
+    "libsamplerate",
+    "libsndfile",
+    "python-build",
+    "python-installer",
+    "python-numpy",
+    "python-setuptools",
+    "python-wheel",
+    "txt2man",
+    "waf"
+  ],
+  "receive": 199631071,
+  "transmit": 381352,
+  "disk": 2748653
+}
