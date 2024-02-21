@@ -1,0 +1,13 @@
+{
+  "name": "ecb",
+  "version": "2.40.1pre-12",
+  "depends": [
+    "emacs"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199825227,
+  "transmit": 466292,
+  "disk": 13972451
+}
