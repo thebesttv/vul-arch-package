@@ -1,0 +1,12 @@
+{
+  "name": "jackmeter",
+  "version": "0.4-3",
+  "depends": [
+    "glibc",
+    "jack"
+  ],
+  "makedepends": [],
+  "receive": 199604471,
+  "transmit": 346097,
+  "disk": 146120
+}
