@@ -1,0 +1,17 @@
+{
+  "name": "thc-ipv6",
+  "version": "3.8-2",
+  "depends": [
+    "glibc",
+    "libpcap",
+    "libpcap.so",
+    "openssl",
+    "libnetfilter_queue",
+    "perl",
+    "perl-socket6"
+  ],
+  "makedepends": [],
+  "receive": 199503769,
+  "transmit": 234238,
+  "disk": 3203312
+}
