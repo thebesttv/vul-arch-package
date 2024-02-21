@@ -1,0 +1,13 @@
+{
+  "name": "python-sentinels",
+  "version": "1.0.0-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199741886,
+  "transmit": 422608,
+  "disk": 112187
+}
