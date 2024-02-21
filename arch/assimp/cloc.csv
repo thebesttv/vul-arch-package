@@ -1,0 +1,49 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.79 s (760.7 files/s 323777.8 lines/s)"
+729,C++,44367,51529,211428
+731,C/C++ Header,28949,59173,114042
+69,XML,234,41,92711
+4,COBOL,0,0,63994
+5,Logos,388,0,52901
+9,m4,6,0,29362
+2,Expect,3696,0,22253
+39,C,3516,3995,18793
+47,JSON,12,0,14327
+52,Markdown,4372,3,13734
+80,CMake,1482,2280,8889
+59,Python,3024,5858,8370
+83,Text,907,0,4106
+8,Assembly,1033,1471,2755
+6,HTML,4,0,2375
+42,Java,1602,5930,2303
+10,Ada,599,560,1681
+16,Pascal,332,153,1455
+9,C#,230,506,879
+2,SVG,1,2,826
+16,D,531,3714,786
+4,Starlark,91,117,746
+2,Objective-C++,221,112,574
+3,MSBuild script,1,0,545
+5,Windows Resource File,73,55,495
+2,IDL,71,0,420
+9,Bourne Shell,61,134,378
+35,Rust,48,74,324
+9,DOS Batch,95,83,256
+2,Windows Module Definition,15,15,225
+2,SCSS,37,3,165
+6,GLSL,0,0,108
+6,YAML,0,96,106
+4,JavaScript,7,66,49
+1,Ant,8,0,46
+1,reStructuredText,34,15,44
+2,make,15,1,42
+3,HLSL,13,19,36
+2,Visual Studio Solution,2,2,36
+1,CSV,0,0,32
+3,INI,6,0,32
+1,NAnt script,7,0,26
+1,Bazel,5,0,22
+1,Dockerfile,6,1,14
+1,Unity-Prefab,2,0,10
+1,TOML,2,1,6
+1,Objective-C,2,7,5
+2126,SUM,96107,136016,672712
