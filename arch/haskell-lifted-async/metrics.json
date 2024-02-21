@@ -1,0 +1,18 @@
+{
+  "name": "haskell-lifted-async",
+  "version": "0.10.2.5-14",
+  "depends": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-constraints",
+    "haskell-lifted-base",
+    "haskell-monad-control",
+    "haskell-transformers-base"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199563591,
+  "transmit": 339862,
+  "disk": 600217
+}
