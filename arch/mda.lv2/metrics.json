@@ -1,0 +1,16 @@
+{
+  "name": "mda.lv2",
+  "version": "1.2.10-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "lv2",
+    "meson"
+  ],
+  "receive": 200118694,
+  "transmit": 596675,
+  "disk": 8622856
+}
