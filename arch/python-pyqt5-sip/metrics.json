@@ -1,0 +1,17 @@
+{
+  "name": "python-pyqt5-sip",
+  "version": "12.13.0-1",
+  "depends": [
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199607518,
+  "transmit": 366418,
+  "disk": 817875
+}
