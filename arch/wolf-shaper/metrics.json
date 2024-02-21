@@ -1,0 +1,20 @@
+{
+  "name": "wolf-shaper",
+  "version": "1.0.2-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "dssi",
+    "gcc-libs",
+    "gendesk",
+    "glibc",
+    "jack",
+    "libglvnd",
+    "libx11",
+    "libxext",
+    "lv2"
+  ],
+  "receive": 199656731,
+  "transmit": 382356,
+  "disk": 16459643
+}
