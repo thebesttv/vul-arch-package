@@ -1,0 +1,19 @@
+{
+  "name": "phonon-vlc",
+  "version": "0.12.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "vlc"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "phonon-qt5",
+    "phonon-qt6",
+    "qt5-tools",
+    "qt6-tools"
+  ],
+  "receive": 200100581,
+  "transmit": 801884,
+  "disk": 836397
+}
