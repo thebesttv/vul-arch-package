@@ -1,0 +1,12 @@
+{
+  "name": "perl-xml-xpath",
+  "version": "1.48-2",
+  "depends": [
+    "perl",
+    "perl-xml-parser"
+  ],
+  "makedepends": [],
+  "receive": 200848696,
+  "transmit": 1031766,
+  "disk": 415319
+}
