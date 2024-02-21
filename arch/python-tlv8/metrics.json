@@ -1,0 +1,16 @@
+{
+  "name": "python-tlv8",
+  "version": "0.10.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199550972,
+  "transmit": 303753,
+  "disk": 236298
+}
