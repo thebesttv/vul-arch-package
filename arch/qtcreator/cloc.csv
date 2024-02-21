@@ -1,0 +1,68 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=15.32 s (897.6 files/s 221905.2 lines/s)"
+4555,C++,213932,103360,1132161
+19,Qt Linguist,1307,0,601770
+124,C,22391,83186,347922
+4659,C/C++ Header,82370,66676,290029
+2423,QML,20912,16954,116220
+124,XML,1078,1206,81160
+208,Python,6544,6265,34667
+201,Markdown,7228,3,22772
+470,CMake,1921,1001,17303
+12,SVG,15,10,16748
+162,JSON,232,0,13155
+104,JavaScript,1647,2263,12233
+3,ANTLR Grammar,1403,261,9237
+47,YAML,285,603,8820
+85,Text,784,0,7570
+13,diff,477,4954,6069
+33,Qt,0,0,3021
+55,Bourne Shell,506,1133,2169
+4,PHP,216,29,1909
+27,Objective-C++,322,245,1860
+60,Assembly,103,661,1690
+21,GLSL,121,83,1677
+10,CSS,342,99,1650
+18,Perl,244,233,1094
+94,Qt Project,280,25,969
+3,Windows Module Definition,68,0,927
+3,Starlark,87,115,728
+32,Java,136,217,695
+9,Dockerfile,110,139,591
+9,lex,109,118,588
+1,XSD,24,307,370
+5,Linker Script,65,284,366
+13,Objective-C,98,289,362
+6,INI,12,0,295
+7,HTML,3,0,272
+4,PowerShell,43,67,269
+11,ProGuard,91,83,216
+6,Bourne Again Shell,53,65,207
+12,DOS Batch,64,87,185
+2,SCSS,37,3,165
+4,zsh,36,31,161
+2,Fortran 77,0,0,128
+9,make,35,95,123
+8,TypeScript,19,1,114
+1,Fish Shell,21,45,113
+7,Meson,21,5,96
+9,Protocol Buffers,30,28,93
+6,Windows Resource File,14,2,87
+4,yacc,20,0,79
+4,WiX source,9,0,77
+2,reStructuredText,11,0,71
+14,Nim,24,35,53
+4,C#,1,0,41
+1,Lua,11,6,35
+1,Bazel,6,2,32
+4,XQuery,0,0,24
+1,sed,2,1,22
+1,m4,0,0,8
+3,Haskell,1,0,7
+1,Visual Basic .NET,0,0,7
+2,MATLAB,0,0,5
+1,Prolog,0,0,5
+1,TOML,0,0,5
+1,F#,0,0,1
+1,IDL,0,0,1
+1,WiX string localization,0,0,1
+13747,SUM,365921,291275,2741500

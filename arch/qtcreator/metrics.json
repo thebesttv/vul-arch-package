@@ -1,0 +1,28 @@
+{
+  "name": "qtcreator",
+  "version": "12.0.2-2",
+  "depends": [
+    "clang=16.0.6",
+    "clazy",
+    "gcc-libs",
+    "glibc",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-quick3d",
+    "qt6-tools",
+    "qt6-serialport",
+    "qt6-svg",
+    "qt6-webengine",
+    "yaml-cpp",
+    "zstd"
+  ],
+  "makedepends": [
+    "cmake",
+    "llvm",
+    "python"
+  ],
+  "receive": 251161699,
+  "transmit": 455195,
+  "disk": 232859661
+}
