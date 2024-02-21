@@ -1,0 +1,11 @@
+{
+  "name": "vorbisgain",
+  "version": "0.37-6",
+  "depends": [
+    "libvorbis"
+  ],
+  "makedepends": [],
+  "receive": 199660701,
+  "transmit": 415312,
+  "disk": 1204765
+}
