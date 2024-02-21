@@ -1,0 +1,11 @@
+{
+  "name": "ruby-reline",
+  "version": "0.3.1-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 201233361,
+  "transmit": 1699452,
+  "disk": 711091
+}
