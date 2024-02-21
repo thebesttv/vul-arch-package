@@ -1,0 +1,23 @@
+{
+  "name": "js102",
+  "version": "102.15.0-1",
+  "depends": [
+    "gcc-libs",
+    "readline",
+    "sh",
+    "zlib"
+  ],
+  "makedepends": [
+    "autoconf2.13",
+    "clang",
+    "lld",
+    "llvm",
+    "python-psutil",
+    "python-setuptools",
+    "rust",
+    "zip"
+  ],
+  "receive": 691027654,
+  "transmit": 1594771,
+  "disk": 2815593644
+}
