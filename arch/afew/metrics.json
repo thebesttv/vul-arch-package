@@ -1,0 +1,20 @@
+{
+  "name": "afew",
+  "version": "3.0.1-6",
+  "depends": [
+    "notmuch",
+    "python-chardet",
+    "python-dkim",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 199608843,
+  "transmit": 360655,
+  "disk": 295426
+}
