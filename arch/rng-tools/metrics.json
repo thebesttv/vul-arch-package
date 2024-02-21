@@ -1,0 +1,17 @@
+{
+  "name": "rng-tools",
+  "version": "6.16-2",
+  "depends": [
+    "curl",
+    "libxml2",
+    "sysfsutils",
+    "jitterentropy",
+    "libp11",
+    "jansson",
+    "rtl-sdr"
+  ],
+  "makedepends": [],
+  "receive": 199581730,
+  "transmit": 356064,
+  "disk": 448622
+}
