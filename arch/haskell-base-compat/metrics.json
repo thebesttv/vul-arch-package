@@ -1,0 +1,13 @@
+{
+  "name": "haskell-base-compat",
+  "version": "0.12.2-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199710196,
+  "transmit": 400319,
+  "disk": 819803
+}
