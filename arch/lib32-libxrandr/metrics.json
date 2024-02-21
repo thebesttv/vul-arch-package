@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libxrandr",
+  "version": "1.5.4-1",
+  "depends": [
+    "lib32-libxext",
+    "lib32-libxrender",
+    "libxrandr"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199739157,
+  "transmit": 421662,
+  "disk": 2291470
+}
