@@ -1,0 +1,14 @@
+{
+  "name": "perl-datetime-timezone",
+  "version": "2.62-1",
+  "depends": [
+    "perl-class-singleton>=1.03",
+    "perl-params-validate>=0.72",
+    "perl-class-load",
+    "perl-list-allutils"
+  ],
+  "makedepends": [],
+  "receive": 199735445,
+  "transmit": 420097,
+  "disk": 8169754
+}
