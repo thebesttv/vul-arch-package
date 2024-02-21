@@ -1,0 +1,14 @@
+{
+  "name": "babel-core",
+  "version": "7.21.4-1",
+  "depends": [
+    "nodejs",
+    "semver"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199530655,
+  "transmit": 275800,
+  "disk": 339806
+}
