@@ -1,0 +1,14 @@
+{
+  "name": "ruby-test-unit",
+  "version": "3.6.1-1",
+  "depends": [
+    "ruby",
+    "ruby-power_assert"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199634174,
+  "transmit": 379295,
+  "disk": 1212100
+}
