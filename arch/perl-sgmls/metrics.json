@@ -1,0 +1,11 @@
+{
+  "name": "perl-sgmls",
+  "version": "1:1.1-10",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199703446,
+  "transmit": 409186,
+  "disk": 658704
+}
