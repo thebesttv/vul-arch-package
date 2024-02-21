@@ -1,0 +1,32 @@
+{
+  "name": "fcitx",
+  "version": "4.2.9.9-1",
+  "depends": [
+    "pango",
+    "libxinerama",
+    "gtk-update-icon-cache",
+    "shared-mime-info",
+    "hicolor-icon-theme",
+    "desktop-file-utils",
+    "libxkbfile",
+    "libxfixes",
+    "dbus",
+    "icu",
+    "libxkbcommon"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "gtk2",
+    "gtk3",
+    "mesa",
+    "opencc",
+    "iso-codes",
+    "gobject-introspection",
+    "enchant",
+    "python"
+  ],
+  "receive": 199653959,
+  "transmit": 385177,
+  "disk": 26811446
+}
