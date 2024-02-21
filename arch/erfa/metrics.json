@@ -1,0 +1,11 @@
+{
+  "name": "erfa",
+  "version": "2.0.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199640852,
+  "transmit": 383336,
+  "disk": 2612736
+}
