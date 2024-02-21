@@ -1,0 +1,12 @@
+{
+  "name": "purple-skypeweb",
+  "version": "1.7-4",
+  "depends": [
+    "libpurple",
+    "json-glib"
+  ],
+  "makedepends": [],
+  "receive": 199632333,
+  "transmit": 367771,
+  "disk": 1476830
+}
