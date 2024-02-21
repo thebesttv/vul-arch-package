@@ -1,0 +1,13 @@
+{
+  "name": "perl-function-parameters",
+  "version": "2.002004-1",
+  "depends": [
+    "perl>=5.14.0"
+  ],
+  "makedepends": [
+    "perl-extutils-makemaker>=7.0"
+  ],
+  "receive": 199538904,
+  "transmit": 258232,
+  "disk": 521497
+}
