@@ -1,0 +1,14 @@
+{
+  "name": "haskell-word-wrap",
+  "version": "0.5-90",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199777947,
+  "transmit": 403085,
+  "disk": 321904
+}
