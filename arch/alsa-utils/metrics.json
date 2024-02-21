@@ -1,0 +1,23 @@
+{
+  "name": "alsa-utils",
+  "version": "1.2.11-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "pciutils",
+    "psmisc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "docbook-xsl",
+    "fftw",
+    "libsamplerate",
+    "ncurses",
+    "python-docutils",
+    "systemd",
+    "xmlto"
+  ],
+  "receive": 199657109,
+  "transmit": 399402,
+  "disk": 8156833
+}
