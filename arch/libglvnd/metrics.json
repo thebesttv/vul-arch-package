@@ -1,0 +1,15 @@
+{
+  "name": "libglvnd",
+  "version": "1.7.0-1",
+  "depends": [],
+  "makedepends": [
+    "libxext",
+    "libx11",
+    "xorgproto",
+    "python",
+    "meson"
+  ],
+  "receive": 199551398,
+  "transmit": 281288,
+  "disk": 7710040
+}
