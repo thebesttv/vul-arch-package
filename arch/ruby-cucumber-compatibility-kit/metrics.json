@@ -1,0 +1,15 @@
+{
+  "name": "ruby-cucumber-compatibility-kit",
+  "version": "12.0.0-1",
+  "depends": [
+    "ruby-cucumber-messages",
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199667541,
+  "transmit": 402510,
+  "disk": 664962
+}
