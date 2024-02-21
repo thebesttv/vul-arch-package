@@ -1,0 +1,11 @@
+{
+  "name": "gitsign",
+  "version": "0.8.0-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199683089,
+  "transmit": 432181,
+  "disk": 1265152
+}
