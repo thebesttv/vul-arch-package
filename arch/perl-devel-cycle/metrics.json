@@ -1,0 +1,11 @@
+{
+  "name": "perl-devel-cycle",
+  "version": "1.12-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199499334,
+  "transmit": 282822,
+  "disk": 133048
+}
