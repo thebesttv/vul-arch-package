@@ -1,0 +1,16 @@
+{
+  "name": "httrack",
+  "version": "3.49.4-1",
+  "depends": [
+    "bash",
+    "xdg-utils",
+    "hicolor-icon-theme",
+    "openssl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199615059,
+  "transmit": 371304,
+  "disk": 31930988
+}
