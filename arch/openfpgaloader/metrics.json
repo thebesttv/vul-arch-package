@@ -1,0 +1,18 @@
+{
+  "name": "openfpgaloader",
+  "version": "0.11.0-1",
+  "depends": [
+    "libftdi",
+    "libftdi-compat",
+    "libhidapi-hidraw.so",
+    "libudev.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "libusb",
+    "systemd"
+  ],
+  "receive": 199680424,
+  "transmit": 385332,
+  "disk": 34389499
+}
