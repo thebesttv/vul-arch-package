@@ -1,0 +1,11 @@
+{
+  "name": "or1k-elf-binutils",
+  "version": "2.39-1",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 237269735,
+  "transmit": 902205,
+  "disk": 312991331
+}
