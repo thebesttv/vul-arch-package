@@ -1,0 +1,14 @@
+{
+  "name": "python-aenum",
+  "version": "3.1.11-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199528519,
+  "transmit": 238253,
+  "disk": 5335229
+}
