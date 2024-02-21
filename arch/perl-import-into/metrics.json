@@ -1,0 +1,12 @@
+{
+  "name": "perl-import-into",
+  "version": "1.002005-9",
+  "depends": [
+    "perl-module-runtime>=0",
+    "perl>=5.006"
+  ],
+  "makedepends": [],
+  "receive": 199614378,
+  "transmit": 360826,
+  "disk": 145187
+}
