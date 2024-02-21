@@ -1,0 +1,24 @@
+{
+  "name": "modemmanager",
+  "version": "1.22.0-1",
+  "depends": [
+    "libgudev",
+    "libmbim",
+    "libqmi",
+    "mobile-broadband-provider-info",
+    "polkit",
+    "ppp",
+    "systemd"
+  ],
+  "makedepends": [
+    "bash-completion",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "vala"
+  ],
+  "receive": 216843334,
+  "transmit": 336799,
+  "disk": 32124955
+}
