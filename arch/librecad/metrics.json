@@ -1,0 +1,19 @@
+{
+  "name": "librecad",
+  "version": "2.2.0.2-2",
+  "depends": [
+    "qt5-base",
+    "qt5-svg",
+    "libxcb",
+    "muparser"
+  ],
+  "makedepends": [
+    "qt5-tools",
+    "boost",
+    "imagemagick",
+    "librsvg"
+  ],
+  "receive": 209644651,
+  "transmit": 394657,
+  "disk": 115193359
+}
