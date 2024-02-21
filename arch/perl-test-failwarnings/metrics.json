@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-failwarnings",
+  "version": "0.008-7",
+  "depends": [
+    "perl>=5.8.1"
+  ],
+  "makedepends": [],
+  "receive": 199593158,
+  "transmit": 362142,
+  "disk": 177929
+}
