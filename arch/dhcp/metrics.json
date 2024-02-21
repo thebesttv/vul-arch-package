@@ -1,0 +1,13 @@
+{
+  "name": "dhcp",
+  "version": "4.4.3.P1-2",
+  "depends": [],
+  "makedepends": [
+    "bash",
+    "iproute2",
+    "openldap"
+  ],
+  "receive": 199670799,
+  "transmit": 348289,
+  "disk": 25963847
+}
