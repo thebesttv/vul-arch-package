@@ -1,0 +1,15 @@
+{
+  "name": "junit-system-rules",
+  "version": "1.19.0-8",
+  "depends": [
+    "junit"
+  ],
+  "makedepends": [
+    "git",
+    "jdk8-openjdk",
+    "maven"
+  ],
+  "receive": 199617780,
+  "transmit": 389176,
+  "disk": 2675420
+}
