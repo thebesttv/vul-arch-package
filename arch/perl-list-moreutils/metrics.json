@@ -1,0 +1,12 @@
+{
+  "name": "perl-list-moreutils",
+  "version": "0.430-4",
+  "depends": [
+    "perl-exporter-tiny",
+    "perl-list-moreutils-xs"
+  ],
+  "makedepends": [],
+  "receive": 199548003,
+  "transmit": 305728,
+  "disk": 979086
+}
