@@ -1,0 +1,13 @@
+{
+  "name": "libtracefs",
+  "version": "1.8.0-1",
+  "depends": [],
+  "makedepends": [
+    "asciidoc",
+    "libtraceevent",
+    "xmlto"
+  ],
+  "receive": 199621071,
+  "transmit": 317512,
+  "disk": 1377935
+}
