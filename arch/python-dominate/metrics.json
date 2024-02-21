@@ -1,0 +1,16 @@
+{
+  "name": "python-dominate",
+  "version": "2.9.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199547132,
+  "transmit": 279971,
+  "disk": 271261
+}
