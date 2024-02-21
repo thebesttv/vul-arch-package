@@ -1,0 +1,14 @@
+{
+  "name": "lucky-commit",
+  "version": "2.2.2-1",
+  "depends": [
+    "gcc-libs",
+    "ocl-icd"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199520637,
+  "transmit": 279240,
+  "disk": 258476
+}
