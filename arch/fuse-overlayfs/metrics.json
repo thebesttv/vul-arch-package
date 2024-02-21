@@ -1,0 +1,13 @@
+{
+  "name": "fuse-overlayfs",
+  "version": "1.13-1",
+  "depends": [
+    "fuse3"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199556365,
+  "transmit": 315551,
+  "disk": 1883317
+}
