@@ -1,0 +1,16 @@
+{
+  "name": "python-sepaxml",
+  "version": "2.6.1-1",
+  "depends": [
+    "python",
+    "python-lxml",
+    "python-text-unidecode",
+    "python-xmlschema"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199564545,
+  "transmit": 341134,
+  "disk": 453660
+}
