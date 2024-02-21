@@ -1,0 +1,15 @@
+{
+  "name": "libmesode",
+  "version": "0.10.1-2",
+  "depends": [
+    "glibc",
+    "openssl",
+    "expat"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199510406,
+  "transmit": 267687,
+  "disk": 874273
+}
