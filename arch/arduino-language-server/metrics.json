@@ -1,0 +1,15 @@
+{
+  "name": "arduino-language-server",
+  "version": "0.7.6-1",
+  "depends": [
+    "glibc",
+    "arduino-cli",
+    "clang"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199639742,
+  "transmit": 410869,
+  "disk": 3059758
+}
