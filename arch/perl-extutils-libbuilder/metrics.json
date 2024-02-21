@@ -1,0 +1,13 @@
+{
+  "name": "perl-extutils-libbuilder",
+  "version": "0.08-11",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199516716,
+  "transmit": 259196,
+  "disk": 129675
+}
