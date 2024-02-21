@@ -1,0 +1,21 @@
+{
+  "name": "python-urwid",
+  "version": "2.6.1-1",
+  "depends": [
+    "glibc",
+    "python",
+    "python-typing-extensions",
+    "python-wcwidth"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 200843906,
+  "transmit": 956559,
+  "disk": 14436837
+}
