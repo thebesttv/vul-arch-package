@@ -1,0 +1,25 @@
+{
+  "name": "qca",
+  "version": "2.3.8-2",
+  "depends": [
+    "ca-certificates",
+    "gcc-libs",
+    "glibc",
+    "nss"
+  ],
+  "makedepends": [
+    "botan",
+    "cmake",
+    "doxygen",
+    "libgcrypt",
+    "libsasl",
+    "openssl",
+    "pkcs11-helper",
+    "qt5-base",
+    "qt6-base",
+    "qt6-5compat"
+  ],
+  "receive": 199790096,
+  "transmit": 403106,
+  "disk": 5533189
+}
