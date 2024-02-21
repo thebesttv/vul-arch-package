@@ -1,0 +1,16 @@
+{
+  "name": "xcb-util-cursor",
+  "version": "0.1.5-1",
+  "depends": [
+    "libxcb",
+    "xcb-util-renderutil",
+    "xcb-util-image",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorgproto"
+  ],
+  "receive": 199561618,
+  "transmit": 315433,
+  "disk": 2126927
+}
