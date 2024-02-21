@@ -1,0 +1,16 @@
+{
+  "name": "aom",
+  "version": "3.8.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "ninja",
+    "yasm"
+  ],
+  "receive": 199629887,
+  "transmit": 359640,
+  "disk": 36309614
+}
