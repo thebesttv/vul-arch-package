@@ -1,0 +1,17 @@
+{
+  "name": "python-pytest-param-files",
+  "version": "0.6.0-2",
+  "depends": [
+    "python",
+    "python-ruamel-yaml",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199496886,
+  "transmit": 255688,
+  "disk": 156686
+}
