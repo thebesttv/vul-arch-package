@@ -1,0 +1,16 @@
+{
+  "name": "libgtop",
+  "version": "2.41.3-1",
+  "depends": [
+    "glib2",
+    "glibc",
+    "libxau"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "gtk-doc"
+  ],
+  "receive": 200711325,
+  "transmit": 886793,
+  "disk": 7220147
+}
