@@ -1,0 +1,11 @@
+{
+  "name": "ruby-logger",
+  "version": "1.5.1-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199526973,
+  "transmit": 256438,
+  "disk": 261394
+}
