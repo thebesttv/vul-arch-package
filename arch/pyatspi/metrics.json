@@ -1,0 +1,14 @@
+{
+  "name": "pyatspi",
+  "version": "2.46.1-1",
+  "depends": [
+    "at-spi2-core",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200005306,
+  "transmit": 409685,
+  "disk": 4051242
+}
