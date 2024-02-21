@@ -1,0 +1,18 @@
+{
+  "name": "haskell-interpolate",
+  "version": "0.2.1-314",
+  "depends": [
+    "ghc-libs",
+    "haskell-src-meta"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-base-compat",
+    "haskell-hspec",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances"
+  ],
+  "receive": 199886176,
+  "transmit": 318829,
+  "disk": 516365
+}
