@@ -1,0 +1,11 @@
+{
+  "name": "schroedinger",
+  "version": "1.0.11-6",
+  "depends": [
+    "orc"
+  ],
+  "makedepends": [],
+  "receive": 199769279,
+  "transmit": 419009,
+  "disk": 8458509
+}
