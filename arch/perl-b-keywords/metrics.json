@@ -1,0 +1,11 @@
+{
+  "name": "perl-b-keywords",
+  "version": "1.26-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199707300,
+  "transmit": 407643,
+  "disk": 159988
+}
