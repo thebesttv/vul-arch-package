@@ -1,0 +1,16 @@
+{
+  "name": "gnac",
+  "version": "0.2.4.1-12",
+  "depends": [
+    "libnotify",
+    "gst-plugins-base",
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool",
+    "gnome-common"
+  ],
+  "receive": 199621640,
+  "transmit": 346874,
+  "disk": 5805524
+}
