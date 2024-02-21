@@ -1,0 +1,16 @@
+{
+  "name": "mjpegtools",
+  "version": "2.2.1-2",
+  "depends": [
+    "bash",
+    "gcc-libs",
+    "glibc",
+    "libdv",
+    "libjpeg-turbo",
+    "libpng"
+  ],
+  "makedepends": [],
+  "receive": 199615946,
+  "transmit": 377378,
+  "disk": 11870526
+}
