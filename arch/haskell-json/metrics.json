@@ -1,0 +1,14 @@
+{
+  "name": "haskell-json",
+  "version": "0.10-148",
+  "depends": [
+    "ghc-libs",
+    "haskell-syb"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199859129,
+  "transmit": 541366,
+  "disk": 348277
+}
