@@ -1,0 +1,14 @@
+{
+  "name": "curlie",
+  "version": "1.7.2-1",
+  "depends": [
+    "glibc",
+    "curl"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199746119,
+  "transmit": 468554,
+  "disk": 1148022
+}
