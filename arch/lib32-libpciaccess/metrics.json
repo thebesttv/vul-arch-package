@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libpciaccess",
+  "version": "0.17-1",
+  "depends": [
+    "lib32-glibc",
+    "libpciaccess"
+  ],
+  "makedepends": [
+    "gcc-multilib",
+    "pkgconfig",
+    "xorg-util-macros"
+  ],
+  "receive": 199689822,
+  "transmit": 450028,
+  "disk": 2619413
+}
