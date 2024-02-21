@@ -1,0 +1,16 @@
+{
+  "name": "codespell",
+  "version": "2.2.6-1",
+  "depends": [
+    "python-chardet"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199655154,
+  "transmit": 339138,
+  "disk": 1935006
+}
