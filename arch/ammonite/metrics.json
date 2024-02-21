@@ -1,0 +1,15 @@
+{
+  "name": "ammonite",
+  "version": "2.5.9-1",
+  "depends": [
+    "bash",
+    "java-environment"
+  ],
+  "makedepends": [
+    "git",
+    "mill"
+  ],
+  "receive": 555835523,
+  "transmit": 602672,
+  "disk": 398794226
+}
