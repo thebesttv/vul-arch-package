@@ -1,0 +1,22 @@
+{
+  "name": "wikiman",
+  "version": "2.13.2-1",
+  "depends": [
+    "man",
+    "fzf",
+    "ripgrep",
+    "awk",
+    "w3m",
+    "findutils",
+    "coreutils",
+    "sed",
+    "grep",
+    "parallel"
+  ],
+  "makedepends": [
+    "make"
+  ],
+  "receive": 199495443,
+  "transmit": 238716,
+  "disk": 2954452
+}
