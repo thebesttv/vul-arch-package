@@ -1,0 +1,14 @@
+{
+  "name": "ruby-pcaprub",
+  "version": "0.13.1-1",
+  "depends": [
+    "ruby",
+    "libpcap"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199604766,
+  "transmit": 366736,
+  "disk": 126412
+}
