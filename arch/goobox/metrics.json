@@ -1,0 +1,19 @@
+{
+  "name": "goobox",
+  "version": "3.6.0-2",
+  "depends": [
+    "gst-plugins-base",
+    "brasero",
+    "libmusicbrainz5",
+    "libdiscid",
+    "libcoverart",
+    "libnotify"
+  ],
+  "makedepends": [
+    "itstool",
+    "meson"
+  ],
+  "receive": 199562921,
+  "transmit": 314704,
+  "disk": 2465212
+}
