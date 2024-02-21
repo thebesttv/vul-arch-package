@@ -1,0 +1,15 @@
+{
+  "name": "yices",
+  "version": "2.6.4-1",
+  "depends": [
+    "cudd",
+    "gmp",
+    "libpoly"
+  ],
+  "makedepends": [
+    "gperf"
+  ],
+  "receive": 210194293,
+  "transmit": 537754,
+  "disk": 69073037
+}
