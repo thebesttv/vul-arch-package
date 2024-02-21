@@ -1,0 +1,14 @@
+{
+  "name": "xorg-xbacklight",
+  "version": "1.2.3-3",
+  "depends": [
+    "xcb-util"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199751284,
+  "transmit": 485884,
+  "disk": 927547
+}
