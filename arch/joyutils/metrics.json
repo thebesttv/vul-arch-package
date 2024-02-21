@@ -1,0 +1,11 @@
+{
+  "name": "joyutils",
+  "version": "1.8.1-1",
+  "depends": [
+    "sdl2"
+  ],
+  "makedepends": [],
+  "receive": 199679528,
+  "transmit": 415158,
+  "disk": 386462
+}
