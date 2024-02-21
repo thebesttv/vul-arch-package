@@ -1,0 +1,11 @@
+{
+  "name": "rcs",
+  "version": "5.10.1-1",
+  "depends": [
+    "ed"
+  ],
+  "makedepends": [],
+  "receive": 199546669,
+  "transmit": 313656,
+  "disk": 7820945
+}
