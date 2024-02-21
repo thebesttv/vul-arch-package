@@ -1,0 +1,11 @@
+{
+  "name": "autoconf2.13",
+  "version": "2.13-7",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199813898,
+  "transmit": 456561,
+  "disk": 2052459
+}
