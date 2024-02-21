@@ -1,0 +1,16 @@
+{
+  "name": "volumeicon",
+  "version": "0.5.1-5",
+  "depends": [
+    "alsa-lib",
+    "gtk3",
+    "libnotify"
+  ],
+  "makedepends": [
+    "git",
+    "intltool"
+  ],
+  "receive": 199674667,
+  "transmit": 431155,
+  "disk": 876531
+}
