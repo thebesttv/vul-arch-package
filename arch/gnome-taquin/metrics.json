@@ -1,0 +1,19 @@
+{
+  "name": "gnome-taquin",
+  "version": "3.38.1+r35+g35edb95-1",
+  "depends": [
+    "gtk3",
+    "librsvg",
+    "gsound"
+  ],
+  "makedepends": [
+    "meson",
+    "vala",
+    "yelp-tools",
+    "appstream-glib",
+    "git"
+  ],
+  "receive": 207072897,
+  "transmit": 429717,
+  "disk": 36229246
+}
