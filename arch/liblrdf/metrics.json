@@ -1,0 +1,13 @@
+{
+  "name": "liblrdf",
+  "version": "0.6.1-4",
+  "depends": [
+    "raptor"
+  ],
+  "makedepends": [
+    "ladspa"
+  ],
+  "receive": 199669986,
+  "transmit": 423153,
+  "disk": 377501
+}
