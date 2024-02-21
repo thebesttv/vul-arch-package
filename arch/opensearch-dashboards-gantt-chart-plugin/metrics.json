@@ -1,0 +1,16 @@
+{
+  "name": "opensearch-dashboards-gantt-chart-plugin",
+  "version": "2.11.1.0-1",
+  "depends": [
+    "opensearch-dashboards=2.11.1"
+  ],
+  "makedepends": [
+    "yarn",
+    "npm",
+    "python",
+    "git"
+  ],
+  "receive": 3399431629,
+  "transmit": 9935543,
+  "disk": 4015387059
+}
