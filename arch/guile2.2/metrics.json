@@ -1,0 +1,19 @@
+{
+  "name": "guile2.2",
+  "version": "2.2.7-4",
+  "depends": [
+    "gc",
+    "gmp",
+    "libffi",
+    "libltdl",
+    "libunistring",
+    "libxcrypt"
+  ],
+  "makedepends": [
+    "ncurses",
+    "texinfo"
+  ],
+  "receive": 213031626,
+  "transmit": 638348,
+  "disk": 100364066
+}
