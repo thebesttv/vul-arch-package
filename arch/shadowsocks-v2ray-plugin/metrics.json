@@ -1,0 +1,14 @@
+{
+  "name": "shadowsocks-v2ray-plugin",
+  "version": "5.13.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199808381,
+  "transmit": 556328,
+  "disk": 160552
+}
