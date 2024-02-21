@@ -1,0 +1,13 @@
+{
+  "name": "liblzf",
+  "version": "3.6-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "signify"
+  ],
+  "receive": 199706301,
+  "transmit": 401411,
+  "disk": 456794
+}
