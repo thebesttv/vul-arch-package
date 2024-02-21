@@ -1,0 +1,15 @@
+{
+  "name": "opensearch-security-plugin",
+  "version": "2.11.1.0-1",
+  "depends": [
+    "opensearch=2.11.1"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip",
+    "git"
+  ],
+  "receive": 740333494,
+  "transmit": 1396291,
+  "disk": 542457888
+}
