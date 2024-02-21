@@ -1,0 +1,11 @@
+{
+  "name": "texi2html",
+  "version": "5.0-7",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 215282052,
+  "transmit": 434955,
+  "disk": 153023133
+}
