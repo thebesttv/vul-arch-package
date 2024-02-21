@@ -1,0 +1,11 @@
+{
+  "name": "nauty",
+  "version": "1:2.8.8-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199537606,
+  "transmit": 301520,
+  "disk": 12862935
+}
