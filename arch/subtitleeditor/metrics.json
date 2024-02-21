@@ -1,0 +1,22 @@
+{
+  "name": "subtitleeditor",
+  "version": "0.54.0-5",
+  "depends": [
+    "desktop-file-utils",
+    "enchant",
+    "gst-plugins-base",
+    "gstreamermm",
+    "gst-libav",
+    "gtkmm3",
+    "hicolor-icon-theme",
+    "libsigc++",
+    "libxml++2.6",
+    "xdg-utils"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199528430,
+  "transmit": 262977,
+  "disk": 11029922
+}
