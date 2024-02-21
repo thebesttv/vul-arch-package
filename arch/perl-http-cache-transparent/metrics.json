@@ -1,0 +1,12 @@
+{
+  "name": "perl-http-cache-transparent",
+  "version": "1.4-5",
+  "depends": [
+    "perl>=5.10.0",
+    "perl-libwww"
+  ],
+  "makedepends": [],
+  "receive": 199485796,
+  "transmit": 269479,
+  "disk": 156613
+}
