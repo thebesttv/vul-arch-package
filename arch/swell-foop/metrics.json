@@ -1,0 +1,20 @@
+{
+  "name": "swell-foop",
+  "version": "41.1-1",
+  "depends": [
+    "clutter-gtk",
+    "librsvg",
+    "libgnome-games-support",
+    "libgee"
+  ],
+  "makedepends": [
+    "yelp-tools",
+    "appstream-glib",
+    "vala",
+    "git",
+    "meson"
+  ],
+  "receive": 203408738,
+  "transmit": 390165,
+  "disk": 13007516
+}
