@@ -1,0 +1,11 @@
+{
+  "name": "libkeccak",
+  "version": "1.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199603112,
+  "transmit": 350248,
+  "disk": 419374
+}
