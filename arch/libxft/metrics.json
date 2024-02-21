@@ -1,0 +1,14 @@
+{
+  "name": "libxft",
+  "version": "2.3.8-1",
+  "depends": [
+    "fontconfig",
+    "libxrender"
+  ],
+  "makedepends": [
+    "pkgconfig"
+  ],
+  "receive": 199602908,
+  "transmit": 285934,
+  "disk": 2495878
+}
