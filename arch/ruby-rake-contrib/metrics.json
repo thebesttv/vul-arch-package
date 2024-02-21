@@ -1,0 +1,13 @@
+{
+  "name": "ruby-rake-contrib",
+  "version": "1.0.0.20210616-1",
+  "depends": [
+    "ruby-rake"
+  ],
+  "makedepends": [
+    "ruby-minitest"
+  ],
+  "receive": 199663042,
+  "transmit": 395499,
+  "disk": 124778
+}
