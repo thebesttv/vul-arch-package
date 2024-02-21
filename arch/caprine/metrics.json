@@ -1,0 +1,14 @@
+{
+  "name": "caprine",
+  "version": "2.59.3-1",
+  "depends": [
+    "electron26"
+  ],
+  "makedepends": [
+    "git",
+    "npm"
+  ],
+  "receive": 199587771,
+  "transmit": 332574,
+  "disk": 31286156
+}
