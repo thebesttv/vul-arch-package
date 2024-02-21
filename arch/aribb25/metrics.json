@@ -1,0 +1,12 @@
+{
+  "name": "aribb25",
+  "version": "0.2.7-2",
+  "depends": [
+    "glibc",
+    "pcsclite"
+  ],
+  "makedepends": [],
+  "receive": 199526440,
+  "transmit": 282092,
+  "disk": 305077
+}
