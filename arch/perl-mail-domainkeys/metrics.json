@@ -1,0 +1,13 @@
+{
+  "name": "perl-mail-domainkeys",
+  "version": "1.0-8",
+  "depends": [
+    "perl-crypt-openssl-rsa",
+    "perl-mailtools",
+    "perl-net-dns>=0.34"
+  ],
+  "makedepends": [],
+  "receive": 199850504,
+  "transmit": 517874,
+  "disk": 161694
+}
