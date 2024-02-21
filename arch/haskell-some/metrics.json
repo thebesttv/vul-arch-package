@@ -1,0 +1,14 @@
+{
+  "name": "haskell-some",
+  "version": "1.0.5-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199606009,
+  "transmit": 378216,
+  "disk": 168484
+}
