@@ -1,0 +1,11 @@
+{
+  "name": "iotop",
+  "version": "0.6-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199663198,
+  "transmit": 364861,
+  "disk": 152827
+}
