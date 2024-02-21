@@ -1,0 +1,14 @@
+{
+  "name": "portmidi",
+  "version": "1:2.0.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake"
+  ],
+  "receive": 199849461,
+  "transmit": 556273,
+  "disk": 1376852
+}
