@@ -1,0 +1,44 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.30 s (1251.2 files/s 386736.7 lines/s)"
+511,PO File,56584,69423,130676
+595,C++,18327,12209,104055
+248,C,31717,21538,100165
+877,C/C++ Header,21674,45504,64350
+37,Bourne Shell,7475,8404,47254
+6,MSBuild script,0,0,36224
+50,HTML,2069,7,18991
+13,m4,2134,234,18722
+99,JSON,6,0,8682
+6,diff,188,561,6925
+37,Markdown,2351,0,5858
+27,XML,39,35,5562
+42,Text,987,0,4637
+40,CMake,637,745,3163
+54,reStructuredText,2735,1619,2855
+19,Python,930,5618,2531
+109,make,1627,2804,2239
+14,C#,259,90,1772
+26,Squirrel,169,77,1244
+4,SVG,3,3,886
+1,Glade,63,0,884
+7,Visual Studio Solution,4,7,476
+3,Objective-C,135,80,436
+27,Jam,172,388,424
+3,Perl,103,90,331
+3,Scheme,28,95,285
+1,CSS,39,2,233
+1,DOS Batch,34,2,227
+1,C Shell,28,24,220
+1,awk,38,0,143
+1,LLVM IR,12,0,128
+4,GLSL,24,5,103
+1,Nix,7,29,93
+3,Windows Resource File,24,27,93
+3,YAML,14,4,68
+3,INI,7,0,62
+1,TNSDL,4,11,51
+1,Ruby,9,3,37
+2,Bourne Again Shell,4,3,9
+1,sed,1,0,4
+1,Dockerfile,3,2,3
+1,JavaScript,0,0,2
+2884,SUM,150664,169643,571103

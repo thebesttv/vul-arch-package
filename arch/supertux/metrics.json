@@ -1,0 +1,25 @@
+{
+  "name": "supertux",
+  "version": "0.6.3-7",
+  "depends": [
+    "sdl2_image",
+    "curl",
+    "openal",
+    "libvorbis",
+    "glew",
+    "physfs",
+    "freetype2",
+    "boost-libs",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "mesa",
+    "optipng",
+    "glm"
+  ],
+  "receive": 382388550,
+  "transmit": 440767,
+  "disk": 462261623
+}
