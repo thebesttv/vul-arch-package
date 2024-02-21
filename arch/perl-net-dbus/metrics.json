@@ -1,0 +1,12 @@
+{
+  "name": "perl-net-dbus",
+  "version": "1.2.0-5",
+  "depends": [
+    "dbus",
+    "perl-xml-twig"
+  ],
+  "makedepends": [],
+  "receive": 199534836,
+  "transmit": 258441,
+  "disk": 779083
+}
