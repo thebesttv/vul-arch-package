@@ -1,0 +1,19 @@
+{
+  "name": "haskell-rio-prettyprint",
+  "version": "0.1.6.0-13",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-annotated-wl-pprint",
+    "haskell-ansi-terminal",
+    "haskell-colour",
+    "haskell-path",
+    "haskell-rio"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199911164,
+  "transmit": 406561,
+  "disk": 522859
+}
