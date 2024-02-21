@@ -1,0 +1,14 @@
+{
+  "name": "gmtk",
+  "version": "1.0.9-6",
+  "depends": [
+    "gtk3",
+    "mplayer"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199528436,
+  "transmit": 294691,
+  "disk": 2407085
+}
