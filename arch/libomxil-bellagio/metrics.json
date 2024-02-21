@@ -1,0 +1,11 @@
+{
+  "name": "libomxil-bellagio",
+  "version": "0.9.3-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199525060,
+  "transmit": 270018,
+  "disk": 3477415
+}
