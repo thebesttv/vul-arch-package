@@ -1,0 +1,11 @@
+{
+  "name": "memtester",
+  "version": "4.6.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199749733,
+  "transmit": 455709,
+  "disk": 283992
+}
