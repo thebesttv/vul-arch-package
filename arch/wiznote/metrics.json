@@ -1,0 +1,20 @@
+{
+  "name": "wiznote",
+  "version": "2.8.5-1",
+  "depends": [
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "xdg-utils",
+    "qt5-websockets",
+    "qt5-webengine",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools",
+    "boost"
+  ],
+  "receive": 225973958,
+  "transmit": 664711,
+  "disk": 85505982
+}
