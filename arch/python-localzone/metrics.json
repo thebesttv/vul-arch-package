@@ -1,0 +1,13 @@
+{
+  "name": "python-localzone",
+  "version": "0.9.8-4",
+  "depends": [
+    "python-dnspython"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199615171,
+  "transmit": 365950,
+  "disk": 144871
+}
