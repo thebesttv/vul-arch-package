@@ -1,0 +1,19 @@
+{
+  "name": "libgdata",
+  "version": "0.18.1-3",
+  "depends": [
+    "gcr",
+    "libgoa",
+    "libsoup"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "vala"
+  ],
+  "receive": 199680649,
+  "transmit": 389901,
+  "disk": 16224645
+}
