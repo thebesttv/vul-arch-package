@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libndp",
+  "version": "1.8-1",
+  "depends": [
+    "lib32-glibc",
+    "libndp"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199650055,
+  "transmit": 359463,
+  "disk": 3683004
+}
