@@ -1,0 +1,11 @@
+{
+  "name": "perl-graphics-colornames",
+  "version": "3.5.0-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199666528,
+  "transmit": 398018,
+  "disk": 281508
+}
