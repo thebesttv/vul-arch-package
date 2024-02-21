@@ -1,0 +1,14 @@
+{
+  "name": "gitlab-shell",
+  "version": "3:14.33.0-1",
+  "depends": [
+    "redis",
+    "git"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199615987,
+  "transmit": 361312,
+  "disk": 1311099
+}
