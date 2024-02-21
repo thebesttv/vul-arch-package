@@ -1,0 +1,34 @@
+{
+  "name": "lib32-curl",
+  "version": "8.6.0-3",
+  "depends": [
+    "curl",
+    "lib32-brotli",
+    "libbrotlidec.so",
+    "lib32-krb5",
+    "libgssapi_krb5.so",
+    "lib32-libidn2",
+    "libidn2.so",
+    "lib32-libnghttp2",
+    "libnghttp2.so",
+    "lib32-libnghttp3",
+    "libnghttp3.so",
+    "lib32-libpsl",
+    "libpsl.so",
+    "lib32-libssh2",
+    "libssh2.so",
+    "lib32-zlib",
+    "libz.so",
+    "lib32-zstd",
+    "libzstd.so"
+  ],
+  "makedepends": [
+    "git",
+    "patchelf",
+    "lib32-gnutls",
+    "lib32-openssl"
+  ],
+  "receive": 358027850,
+  "transmit": 675749,
+  "disk": 183055126
+}
