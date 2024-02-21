@@ -1,0 +1,11 @@
+{
+  "name": "ruby-memory_profiler",
+  "version": "1.0.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 200187351,
+  "transmit": 745311,
+  "disk": 223870
+}
