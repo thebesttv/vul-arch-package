@@ -1,0 +1,23 @@
+{
+  "name": "python-openstackclient",
+  "version": "6.5.0-1",
+  "depends": [
+    "python-pbr",
+    "python-cryptography",
+    "python-cliff",
+    "python-iso8601",
+    "python-openstacksdk",
+    "python-osc-lib",
+    "python-oslo-i18n",
+    "python-keystoneclient",
+    "python-novaclient",
+    "python-cinderclient",
+    "python-stevedore"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199705712,
+  "transmit": 447922,
+  "disk": 24307791
+}
