@@ -1,0 +1,12 @@
+{
+  "name": "libavc1394",
+  "version": "0.5.4-6",
+  "depends": [
+    "glibc",
+    "libraw1394"
+  ],
+  "makedepends": [],
+  "receive": 199594009,
+  "transmit": 361572,
+  "disk": 1835448
+}
