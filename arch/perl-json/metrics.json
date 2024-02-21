@@ -1,0 +1,11 @@
+{
+  "name": "perl-json",
+  "version": "4.10-1",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199536260,
+  "transmit": 336384,
+  "disk": 548537
+}
