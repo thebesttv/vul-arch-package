@@ -1,0 +1,18 @@
+{
+  "name": "jupyter-jsmol",
+  "version": "2022.1.0-3",
+  "depends": [
+    "jupyterlab",
+    "python",
+    "python-ipywidgets",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-jupyter-packaging"
+  ],
+  "receive": 199624268,
+  "transmit": 285940,
+  "disk": 35925815
+}
