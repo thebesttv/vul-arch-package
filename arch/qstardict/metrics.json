@@ -1,0 +1,14 @@
+{
+  "name": "qstardict",
+  "version": "1.4.1-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199835102,
+  "transmit": 534155,
+  "disk": 6275302
+}
