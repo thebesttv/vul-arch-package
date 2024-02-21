@@ -1,0 +1,19 @@
+{
+  "name": "libssh",
+  "version": "0.10.6-2",
+  "depends": [
+    "glibc",
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "cmocka",
+    "doxygen",
+    "openssh",
+    "python"
+  ],
+  "receive": 200357149,
+  "transmit": 408763,
+  "disk": 5261114
+}
