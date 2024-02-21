@@ -1,0 +1,27 @@
+{
+  "name": "lib32-virtualgl",
+  "version": "3.1-1",
+  "depends": [
+    "virtualgl",
+    "lib32-libxv",
+    "lib32-glu",
+    "lib32-libjpeg-turbo",
+    "lib32-opencl-driver",
+    "lib32-ocl-icd"
+  ],
+  "makedepends": [
+    "lib32-libxv",
+    "lib32-glu",
+    "virtualgl",
+    "cmake",
+    "gcc-multilib",
+    "lib32-mesa",
+    "lib32-mesa-libgl",
+    "lib32-libxtst",
+    "opencl-headers",
+    "ninja"
+  ],
+  "receive": 199662553,
+  "transmit": 423351,
+  "disk": 5734504
+}
