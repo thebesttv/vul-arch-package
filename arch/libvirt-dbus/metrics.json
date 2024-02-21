@@ -1,0 +1,16 @@
+{
+  "name": "libvirt-dbus",
+  "version": "1.4.1-3",
+  "depends": [
+    "libvirt-glib",
+    "dbus",
+    "libssh"
+  ],
+  "makedepends": [
+    "meson",
+    "python-docutils"
+  ],
+  "receive": 199552190,
+  "transmit": 290462,
+  "disk": 757083
+}
