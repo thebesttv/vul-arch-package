@@ -1,0 +1,11 @@
+{
+  "name": "libbf",
+  "version": "2020.01.19-1",
+  "depends": [
+    "mpfr"
+  ],
+  "makedepends": [],
+  "receive": 199667855,
+  "transmit": 407483,
+  "disk": 571975
+}
