@@ -1,0 +1,24 @@
+{
+  "name": "spotify-launcher",
+  "version": "0.5.4-1",
+  "depends": [
+    "alsa-lib>=1.0.14",
+    "at-spi2-atk",
+    "desktop-file-utils",
+    "gtk3",
+    "libayatana-appindicator",
+    "libcurl-gnutls",
+    "libsm",
+    "libxss",
+    "nss",
+    "openssl",
+    "sequoia-sqv",
+    "zenity"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199655998,
+  "transmit": 409164,
+  "disk": 388518
+}
