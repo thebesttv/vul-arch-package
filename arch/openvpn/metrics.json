@@ -1,0 +1,29 @@
+{
+  "name": "openvpn",
+  "version": "2.6.9-1",
+  "depends": [
+    "libcap-ng",
+    "libcap-ng.so",
+    "libnl",
+    "libnl-genl-3.so",
+    "libnl-3.so",
+    "lz4",
+    "lzo",
+    "liblzo2.so",
+    "openssl",
+    "libcrypto.so",
+    "libssl.so",
+    "pkcs11-helper",
+    "libpkcs11-helper.so",
+    "systemd-libs",
+    "libsystemd.so"
+  ],
+  "makedepends": [
+    "git",
+    "systemd",
+    "python-docutils"
+  ],
+  "receive": 199791500,
+  "transmit": 564846,
+  "disk": 36700593
+}
