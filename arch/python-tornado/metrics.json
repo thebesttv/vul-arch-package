@@ -1,0 +1,13 @@
+{
+  "name": "python-tornado",
+  "version": "6.3.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199631192,
+  "transmit": 301325,
+  "disk": 2879030
+}
