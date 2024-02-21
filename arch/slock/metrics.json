@@ -1,0 +1,12 @@
+{
+  "name": "slock",
+  "version": "1.5-1",
+  "depends": [
+    "libxext",
+    "libxrandr"
+  ],
+  "makedepends": [],
+  "receive": 199539281,
+  "transmit": 303368,
+  "disk": 128347
+}
