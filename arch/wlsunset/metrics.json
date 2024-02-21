@@ -1,0 +1,15 @@
+{
+  "name": "wlsunset",
+  "version": "0.3.0-2",
+  "depends": [
+    "libwayland-client.so"
+  ],
+  "makedepends": [
+    "meson",
+    "scdoc",
+    "wayland-protocols"
+  ],
+  "receive": 199561405,
+  "transmit": 339372,
+  "disk": 162685
+}
