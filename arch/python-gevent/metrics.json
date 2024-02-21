@@ -1,0 +1,18 @@
+{
+  "name": "python-gevent",
+  "version": "23.9.1-1",
+  "depends": [
+    "c-ares",
+    "libev",
+    "python-greenlet",
+    "python-setuptools",
+    "python-zope-event",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "cython"
+  ],
+  "receive": 200537686,
+  "transmit": 466699,
+  "disk": 21232648
+}
