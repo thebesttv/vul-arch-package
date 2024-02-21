@@ -1,0 +1,11 @@
+{
+  "name": "perl-role-tiny",
+  "version": "2.002004-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199608527,
+  "transmit": 349468,
+  "disk": 284100
+}
