@@ -1,0 +1,17 @@
+{
+  "name": "khotkeys",
+  "version": "5.27.10-1",
+  "depends": [
+    "plasma-workspace",
+    "kdelibs4support"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "kdesignerplugin",
+    "kinit"
+  ],
+  "receive": 199581584,
+  "transmit": 355318,
+  "disk": 8723158
+}
