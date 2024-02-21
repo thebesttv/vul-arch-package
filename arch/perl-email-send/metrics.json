@@ -1,0 +1,14 @@
+{
+  "name": "perl-email-send",
+  "version": "2.201-5",
+  "depends": [
+    "perl-email-address>=1.80",
+    "perl-email-simple>=1.92",
+    "perl-return-value>=1.28",
+    "perl-module-pluggable"
+  ],
+  "makedepends": [],
+  "receive": 199519961,
+  "transmit": 263872,
+  "disk": 261006
+}
