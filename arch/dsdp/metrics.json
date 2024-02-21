@@ -1,0 +1,11 @@
+{
+  "name": "dsdp",
+  "version": "5.8-7",
+  "depends": [
+    "lapack"
+  ],
+  "makedepends": [],
+  "receive": 199512791,
+  "transmit": 248234,
+  "disk": 6782633
+}
