@@ -1,0 +1,25 @@
+{
+  "name": "synergy",
+  "version": "1.11.1-1",
+  "depends": [
+    "gcc-libs",
+    "libxtst",
+    "libxinerama",
+    "libxkbcommon-x11",
+    "avahi",
+    "curl",
+    "openssl",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "libxt",
+    "cmake",
+    "qt5-base",
+    "qt5-tools",
+    "gmock",
+    "gtest"
+  ],
+  "receive": 199535165,
+  "transmit": 279661,
+  "disk": 38019446
+}
