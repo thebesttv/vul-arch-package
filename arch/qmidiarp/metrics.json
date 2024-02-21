@@ -1,0 +1,18 @@
+{
+  "name": "qmidiarp",
+  "version": "0.7.0-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "gcc-libs",
+    "glibc",
+    "jack",
+    "liblo",
+    "lv2",
+    "qt5-base",
+    "qt5-tools"
+  ],
+  "receive": 200242844,
+  "transmit": 314535,
+  "disk": 4903602
+}
