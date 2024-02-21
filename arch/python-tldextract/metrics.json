@@ -1,0 +1,21 @@
+{
+  "name": "python-tldextract",
+  "version": "5.1.1-1",
+  "depends": [
+    "python-idna",
+    "python-requests",
+    "python-requests-file",
+    "python-filelock"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199557732,
+  "transmit": 278755,
+  "disk": 1941737
+}
