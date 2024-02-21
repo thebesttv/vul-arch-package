@@ -1,0 +1,16 @@
+{
+  "name": "python-pytest-subtesthack",
+  "version": "0.2.0-2",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199694686,
+  "transmit": 412680,
+  "disk": 104795
+}
