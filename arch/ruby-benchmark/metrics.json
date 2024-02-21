@@ -1,0 +1,11 @@
+{
+  "name": "ruby-benchmark",
+  "version": "0.2.0-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199628142,
+  "transmit": 369028,
+  "disk": 164828
+}
