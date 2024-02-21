@@ -1,0 +1,15 @@
+{
+  "name": "hm",
+  "version": "18.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "lsb-release",
+    "openmp"
+  ],
+  "receive": 199745456,
+  "transmit": 455637,
+  "disk": 7964643
+}
