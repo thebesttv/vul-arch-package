@@ -1,0 +1,13 @@
+{
+  "name": "libedit",
+  "version": "20230828_3.1-1",
+  "depends": [
+    "glibc",
+    "ncurses",
+    "libncursesw.so"
+  ],
+  "makedepends": [],
+  "receive": 199627853,
+  "transmit": 332280,
+  "disk": 2860926
+}
