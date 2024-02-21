@@ -1,0 +1,16 @@
+{
+  "name": "ruby-toml",
+  "version": "0.3.0-1",
+  "depends": [
+    "ruby",
+    "ruby-parslet"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199520848,
+  "transmit": 237010,
+  "disk": 151208
+}
