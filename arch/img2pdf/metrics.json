@@ -1,0 +1,17 @@
+{
+  "name": "img2pdf",
+  "version": "0.5.1-1",
+  "depends": [
+    "python-pillow",
+    "python-pikepdf"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199697237,
+  "transmit": 406567,
+  "disk": 797809
+}
