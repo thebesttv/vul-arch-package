@@ -1,0 +1,11 @@
+{
+  "name": "perl-tk-tablematrix",
+  "version": "1.29-2",
+  "depends": [
+    "perl-tk"
+  ],
+  "makedepends": [],
+  "receive": 199806761,
+  "transmit": 472612,
+  "disk": 2369193
+}
