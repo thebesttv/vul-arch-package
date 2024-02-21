@@ -1,0 +1,11 @@
+{
+  "name": "zsh-history-substring-search",
+  "version": "1.1.0-1",
+  "depends": [
+    "zsh"
+  ],
+  "makedepends": [],
+  "receive": 199593783,
+  "transmit": 373316,
+  "disk": 138735
+}
