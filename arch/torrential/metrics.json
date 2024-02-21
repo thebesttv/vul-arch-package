@@ -1,0 +1,22 @@
+{
+  "name": "torrential",
+  "version": "2.0.1-2",
+  "depends": [
+    "granite",
+    "libevent",
+    "libb64",
+    "miniupnpc",
+    "libnatpmp"
+  ],
+  "makedepends": [
+    "meson",
+    "git",
+    "vala",
+    "libtransmission",
+    "dht",
+    "libutp"
+  ],
+  "receive": 199576813,
+  "transmit": 305494,
+  "disk": 3761306
+}
