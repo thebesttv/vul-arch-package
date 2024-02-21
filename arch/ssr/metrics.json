@@ -1,0 +1,25 @@
+{
+  "name": "ssr",
+  "version": "0.6.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "glu",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "asio",
+    "ecasound",
+    "fftw",
+    "gendesk",
+    "help2man",
+    "jack",
+    "libglvnd",
+    "libsndfile",
+    "qt5-tools",
+    "websocketpp"
+  ],
+  "receive": 199739119,
+  "transmit": 565921,
+  "disk": 30539543
+}
