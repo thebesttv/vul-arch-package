@@ -1,0 +1,9 @@
+{
+  "name": "intel-oneapi-compiler-dpcpp-cpp-runtime",
+  "version": "2023.2.0-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 200759604,
+  "transmit": 292336,
+  "disk": 3269226
+}
