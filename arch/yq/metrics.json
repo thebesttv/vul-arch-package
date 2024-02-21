@@ -1,0 +1,20 @@
+{
+  "name": "yq",
+  "version": "3.2.3-1",
+  "depends": [
+    "jq",
+    "python-argcomplete",
+    "python-tomlkit",
+    "python-xmltodict",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199650947,
+  "transmit": 404225,
+  "disk": 280638
+}
