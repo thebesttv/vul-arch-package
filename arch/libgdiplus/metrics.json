@@ -1,0 +1,20 @@
+{
+  "name": "libgdiplus",
+  "version": "5.6.1-4",
+  "depends": [
+    "libtiff",
+    "libjpeg",
+    "libpng",
+    "cairo",
+    "giflib",
+    "libgif.so",
+    "glib2",
+    "libexif",
+    "zlib",
+    "freetype2"
+  ],
+  "makedepends": [],
+  "receive": 199630057,
+  "transmit": 388063,
+  "disk": 2640140
+}
