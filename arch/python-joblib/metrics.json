@@ -1,0 +1,16 @@
+{
+  "name": "python-joblib",
+  "version": "1.3.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199669001,
+  "transmit": 432490,
+  "disk": 1931652
+}
