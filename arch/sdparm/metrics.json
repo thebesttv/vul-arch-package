@@ -1,0 +1,12 @@
+{
+  "name": "sdparm",
+  "version": "1.12-1",
+  "depends": [
+    "glibc",
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199529196,
+  "transmit": 274183,
+  "disk": 2517939
+}
