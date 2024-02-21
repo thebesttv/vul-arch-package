@@ -1,0 +1,53 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=1.60 s (2226.0 files/s 95990.7 lines/s)"
+449,Python,14944,14947,75439
+1272,Meson,4087,1789,15072
+642,C,1145,458,6139
+138,Text,110,0,5359
+298,JSON,26,0,3757
+161,C++,408,101,1711
+203,C/C++ Header,402,223,1257
+54,CMake,284,84,947
+2,SVG,2,2,425
+48,Fortran 90,197,60,412
+40,Vala,75,6,359
+53,Rust,64,12,313
+23,D,78,10,305
+4,vim script,49,82,255
+14,CUDA,51,0,222
+4,HTML,39,0,214
+14,XML,14,5,205
+14,Assembly,61,62,144
+3,Qt,0,2,141
+11,Bourne Shell,16,7,96
+9,Java,21,0,92
+1,XSD,10,1,85
+5,diff,18,73,80
+3,Markdown,34,0,79
+5,PO File,9,26,73
+7,C#,9,0,54
+10,Swift,9,0,42
+6,Objective-C,7,0,34
+4,Objective-C++,9,0,29
+1,Verilog-SystemVerilog,4,0,28
+6,Cython,7,0,27
+9,INI,4,0,24
+2,TypeScript,0,0,24
+3,Visualforce Page,0,0,24
+9,Windows Module Definition,0,0,19
+7,Windows Resource File,3,0,19
+1,Modula3,7,0,16
+3,Protocol Buffers,6,0,16
+4,TOML,2,0,15
+2,lex,3,0,13
+3,DOS Batch,0,0,12
+2,Fortran 77,6,1,12
+1,Bourne Again Shell,1,1,11
+1,PowerShell,1,5,11
+4,YAML,1,0,10
+2,MATLAB,2,0,9
+1,yacc,2,0,9
+5,make,7,8,8
+1,JavaScript,0,0,6
+3,Vala Header,0,0,6
+1,LLVM IR,0,0,4
+3568,SUM,22234,17965,113663
