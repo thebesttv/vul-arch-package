@@ -1,0 +1,16 @@
+{
+  "name": "fcitx5-skk",
+  "version": "5.1.1-1",
+  "depends": [
+    "fcitx5-qt",
+    "libskk",
+    "skk-jisyo"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja"
+  ],
+  "receive": 199951071,
+  "transmit": 553884,
+  "disk": 417195
+}
