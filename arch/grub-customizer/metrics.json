@@ -1,0 +1,26 @@
+{
+  "name": "grub-customizer",
+  "version": "5.2.4-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "grub",
+    "hicolor-icon-theme",
+    "openssl"
+  ],
+  "makedepends": [
+    "atkmm",
+    "cairomm",
+    "cmake",
+    "glib2",
+    "glibmm",
+    "gtk3",
+    "gtkmm3",
+    "libarchive",
+    "libsigc++",
+    "pangomm"
+  ],
+  "receive": 199613195,
+  "transmit": 360879,
+  "disk": 3551035
+}
