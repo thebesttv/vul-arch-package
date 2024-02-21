@@ -1,0 +1,13 @@
+{
+  "name": "halp",
+  "version": "0.1.7-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199671238,
+  "transmit": 384684,
+  "disk": 3531836
+}
