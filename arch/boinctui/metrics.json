@@ -1,0 +1,16 @@
+{
+  "name": "boinctui",
+  "version": "2.7.0-2",
+  "depends": [
+    "expat",
+    "gcc-libs",
+    "ncurses",
+    "openssl"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199534367,
+  "transmit": 269366,
+  "disk": 644195
+}
