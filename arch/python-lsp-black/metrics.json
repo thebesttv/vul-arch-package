@@ -1,0 +1,15 @@
+{
+  "name": "python-lsp-black",
+  "version": "1.3.0-1",
+  "depends": [
+    "python-black",
+    "python-lsp-server",
+    "python-toml"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199642160,
+  "transmit": 347939,
+  "disk": 167927
+}
