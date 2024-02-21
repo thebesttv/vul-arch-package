@@ -1,0 +1,16 @@
+{
+  "name": "ruby-metadata_json_deps",
+  "version": "1.2.0-1",
+  "depends": [
+    "ruby",
+    "ruby-puppet_forge",
+    "ruby-puppet_metadata"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake"
+  ],
+  "receive": 199501310,
+  "transmit": 233879,
+  "disk": 136774
+}
