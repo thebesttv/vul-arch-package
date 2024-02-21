@@ -1,0 +1,13 @@
+{
+  "name": "python-rdflib",
+  "version": "6.2.0-2",
+  "depends": [
+    "python-isodate",
+    "python-pyparsing",
+    "python-setuptools"
+  ],
+  "makedepends": [],
+  "receive": 199584648,
+  "transmit": 315304,
+  "disk": 50217235
+}
