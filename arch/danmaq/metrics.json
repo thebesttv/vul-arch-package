@@ -1,0 +1,14 @@
+{
+  "name": "danmaq",
+  "version": "0.2.3.2-1",
+  "depends": [
+    "qt5-x11extras"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools"
+  ],
+  "receive": 199528023,
+  "transmit": 284058,
+  "disk": 1014445
+}
