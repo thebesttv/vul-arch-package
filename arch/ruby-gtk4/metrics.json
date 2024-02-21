@@ -1,0 +1,14 @@
+{
+  "name": "ruby-gtk4",
+  "version": "4.1.2-1",
+  "depends": [
+    "gtk4",
+    "ruby",
+    "ruby-atk=4.1.2",
+    "ruby-gdk4=4.1.2"
+  ],
+  "makedepends": [],
+  "receive": 199517225,
+  "transmit": 271078,
+  "disk": 162195
+}
