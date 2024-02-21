@@ -1,0 +1,11 @@
+{
+  "name": "mkinitcpio-nfs-utils",
+  "version": "0.3-8",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199546256,
+  "transmit": 248471,
+  "disk": 265704
+}
