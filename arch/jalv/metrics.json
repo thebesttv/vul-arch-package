@@ -1,0 +1,24 @@
+{
+  "name": "jalv",
+  "version": "1.6.8-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "gtk2",
+    "gtk3",
+    "jack",
+    "lilv",
+    "lv2",
+    "meson",
+    "qt5-tools",
+    "serd",
+    "sord",
+    "sratom",
+    "suil"
+  ],
+  "receive": 200389342,
+  "transmit": 864075,
+  "disk": 502650
+}
