@@ -1,0 +1,11 @@
+{
+  "name": "libdvdcss",
+  "version": "1.4.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199760681,
+  "transmit": 444294,
+  "disk": 2384519
+}
