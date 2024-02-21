@@ -1,0 +1,9 @@
+{
+  "name": "libmilter",
+  "version": "8.17.2-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 199601927,
+  "transmit": 361993,
+  "disk": 9945077
+}
