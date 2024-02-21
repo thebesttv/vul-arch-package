@@ -1,0 +1,13 @@
+{
+  "name": "perl-test-warn",
+  "version": "0.37-1",
+  "depends": [
+    "perl-tree-dag-node",
+    "perl-sub-uplevel>=0.12",
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199721136,
+  "transmit": 435108,
+  "disk": 161793
+}
