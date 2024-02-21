@@ -1,0 +1,18 @@
+{
+  "name": "lib32-polkit",
+  "version": "124-1",
+  "depends": [
+    "lib32-glib2",
+    "lib32-systemd",
+    "polkit"
+  ],
+  "makedepends": [
+    "git",
+    "lib32-expat",
+    "lib32-pam",
+    "meson"
+  ],
+  "receive": 203003662,
+  "transmit": 298719,
+  "disk": 6238326
+}
