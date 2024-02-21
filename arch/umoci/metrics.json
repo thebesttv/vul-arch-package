@@ -1,0 +1,14 @@
+{
+  "name": "umoci",
+  "version": "0.4.7-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "go-md2man"
+  ],
+  "receive": 199769783,
+  "transmit": 441273,
+  "disk": 12362572
+}
