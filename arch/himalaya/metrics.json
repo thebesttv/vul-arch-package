@@ -1,0 +1,16 @@
+{
+  "name": "himalaya",
+  "version": "0.9.0-2",
+  "depends": [
+    "gcc-libs",
+    "gpgme",
+    "notmuch",
+    "openssl"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199556334,
+  "transmit": 311868,
+  "disk": 705735
+}
