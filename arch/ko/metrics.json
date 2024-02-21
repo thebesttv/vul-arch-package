@@ -1,0 +1,14 @@
+{
+  "name": "ko",
+  "version": "0.15.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 205866519,
+  "transmit": 428182,
+  "disk": 38483488
+}
