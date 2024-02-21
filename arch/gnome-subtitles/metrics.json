@@ -1,0 +1,17 @@
+{
+  "name": "gnome-subtitles",
+  "version": "1.7.2-1",
+  "depends": [
+    "gst-plugin-gtk",
+    "gst-plugins-base",
+    "gtk-sharp-3",
+    "gtkspell3"
+  ],
+  "makedepends": [
+    "intltool",
+    "itstool"
+  ],
+  "receive": 199728641,
+  "transmit": 415809,
+  "disk": 7457145
+}
