@@ -1,0 +1,13 @@
+{
+  "name": "haskell-repline",
+  "version": "0.4.2.0-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199616094,
+  "transmit": 394663,
+  "disk": 156330
+}
