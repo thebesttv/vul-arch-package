@@ -1,0 +1,23 @@
+{
+  "name": "accountsservice",
+  "version": "23.13.9-1",
+  "depends": [
+    "glib2",
+    "libxcrypt",
+    "polkit",
+    "shadow",
+    "systemd"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "vala",
+    "xmlto"
+  ],
+  "receive": 199585910,
+  "transmit": 350486,
+  "disk": 3369939
+}
