@@ -1,0 +1,11 @@
+{
+  "name": "sl",
+  "version": "5.05-4",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199939811,
+  "transmit": 609397,
+  "disk": 1434445
+}
