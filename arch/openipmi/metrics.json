@@ -1,0 +1,19 @@
+{
+  "name": "openipmi",
+  "version": "2.0.34-2",
+  "depends": [
+    "popt",
+    "ncurses",
+    "net-snmp",
+    "glib2",
+    "gdbm",
+    "libedit"
+  ],
+  "makedepends": [
+    "python",
+    "swig"
+  ],
+  "receive": 199531506,
+  "transmit": 273001,
+  "disk": 13840225
+}
