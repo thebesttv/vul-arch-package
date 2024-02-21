@@ -1,0 +1,11 @@
+{
+  "name": "ruby-rexml",
+  "version": "3.2.6-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 200035614,
+  "transmit": 784666,
+  "disk": 187710
+}
