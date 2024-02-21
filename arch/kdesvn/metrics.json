@@ -1,0 +1,19 @@
+{
+  "name": "kdesvn",
+  "version": "2.1.0-3",
+  "depends": [
+    "subversion",
+    "kcoreaddons5",
+    "kdoctools5",
+    "kio5",
+    "knotifications5",
+    "kparts5",
+    "ktexteditor5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 201546533,
+  "transmit": 302465,
+  "disk": 12399840
+}
