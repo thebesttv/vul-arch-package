@@ -1,0 +1,21 @@
+{
+  "name": "riscv32-elf-gdb",
+  "version": "13.1-2",
+  "depends": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile",
+    "gdb-common",
+    "mpfr",
+    "libelf",
+    "source-highlight"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 223822826,
+  "transmit": 711755,
+  "disk": 231452920
+}
