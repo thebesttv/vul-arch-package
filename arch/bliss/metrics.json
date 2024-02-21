@@ -1,0 +1,13 @@
+{
+  "name": "bliss",
+  "version": "0.77-2",
+  "depends": [
+    "gmp"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199645767,
+  "transmit": 384400,
+  "disk": 656015
+}
