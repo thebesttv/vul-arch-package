@@ -1,0 +1,18 @@
+{
+  "name": "wasi-libc++",
+  "version": "16.0.6-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "python",
+    "clang",
+    "llvm",
+    "wasi-libc",
+    "wasi-compiler-rt",
+    "lld"
+  ],
+  "receive": 318153495,
+  "transmit": 536983,
+  "disk": 1503944068
+}
