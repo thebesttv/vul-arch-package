@@ -1,0 +1,12 @@
+{
+  "name": "ttf-monoid",
+  "version": "0.61-7",
+  "depends": [],
+  "makedepends": [
+    "fontforge",
+    "python"
+  ],
+  "receive": 206056395,
+  "transmit": 365724,
+  "disk": 19617184
+}
