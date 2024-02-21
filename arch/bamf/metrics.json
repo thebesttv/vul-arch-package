@@ -1,0 +1,17 @@
+{
+  "name": "bamf",
+  "version": "0.5.6-1",
+  "depends": [
+    "libgtop",
+    "libwnck3"
+  ],
+  "makedepends": [
+    "git",
+    "gnome-common",
+    "gobject-introspection",
+    "vala"
+  ],
+  "receive": 207251465,
+  "transmit": 384046,
+  "disk": 16147856
+}
