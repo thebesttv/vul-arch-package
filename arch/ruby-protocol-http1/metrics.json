@@ -1,0 +1,11 @@
+{
+  "name": "ruby-protocol-http1",
+  "version": "0.15.0-1",
+  "depends": [
+    "ruby-protocol-http"
+  ],
+  "makedepends": [],
+  "receive": 199504349,
+  "transmit": 246220,
+  "disk": 243617
+}
