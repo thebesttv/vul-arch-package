@@ -1,0 +1,31 @@
+{
+  "name": "deepin-session",
+  "version": "1.2.5-2",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "glib2",
+    "libx11",
+    "libsecret",
+    "qt5-base",
+    "gsettings-qt",
+    "dtkcore",
+    "libxcursor",
+    "libxfixes",
+    "systemd-libs",
+    "deepin-session-ui",
+    "deepin-kwin",
+    "deepin-dock",
+    "deepin-qt5platform-plugins",
+    "deepin-qt5integration",
+    "deepin-qt6platform-plugins",
+    "deepin-qt6integration"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199688294,
+  "transmit": 378055,
+  "disk": 865769
+}
