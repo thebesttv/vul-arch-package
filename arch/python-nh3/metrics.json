@@ -1,0 +1,17 @@
+{
+  "name": "python-nh3",
+  "version": "0.2.15-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-maturin"
+  ],
+  "receive": 199708039,
+  "transmit": 438455,
+  "disk": 170803
+}
