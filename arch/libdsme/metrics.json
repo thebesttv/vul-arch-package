@@ -1,0 +1,13 @@
+{
+  "name": "libdsme",
+  "version": "0.66.8-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "check"
+  ],
+  "receive": 199687085,
+  "transmit": 413492,
+  "disk": 300533
+}
