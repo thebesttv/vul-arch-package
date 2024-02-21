@@ -1,0 +1,15 @@
+{
+  "name": "python-axolotl-curve25519",
+  "version": "0.4.1.2-9",
+  "depends": [
+    "python",
+    "zlib",
+    "glibc"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199915336,
+  "transmit": 571513,
+  "disk": 583349
+}
