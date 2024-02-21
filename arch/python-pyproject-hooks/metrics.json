@@ -1,0 +1,16 @@
+{
+  "name": "python-pyproject-hooks",
+  "version": "1.0.0-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core",
+    "python-wheel"
+  ],
+  "receive": 199576496,
+  "transmit": 285354,
+  "disk": 245510
+}
