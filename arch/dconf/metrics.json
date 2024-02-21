@@ -1,0 +1,19 @@
+{
+  "name": "dconf",
+  "version": "0.40.0-2",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "vala",
+    "dbus",
+    "git",
+    "gtk-doc",
+    "python",
+    "meson",
+    "bash-completion"
+  ],
+  "receive": 199599107,
+  "transmit": 316354,
+  "disk": 2895794
+}
