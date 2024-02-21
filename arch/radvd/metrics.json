@@ -1,0 +1,13 @@
+{
+  "name": "radvd",
+  "version": "2.19-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "check"
+  ],
+  "receive": 199584754,
+  "transmit": 344938,
+  "disk": 1145628
+}
