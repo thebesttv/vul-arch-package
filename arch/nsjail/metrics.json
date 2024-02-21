@@ -1,0 +1,14 @@
+{
+  "name": "nsjail",
+  "version": "3.4-2",
+  "depends": [
+    "protobuf",
+    "libnl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199849169,
+  "transmit": 446902,
+  "disk": 1649635
+}
