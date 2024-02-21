@@ -1,0 +1,15 @@
+{
+  "name": "python-junit-xml",
+  "version": "1.9-7",
+  "depends": [
+    "python",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 199604250,
+  "transmit": 329374,
+  "disk": 512402
+}
