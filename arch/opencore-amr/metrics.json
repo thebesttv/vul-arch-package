@@ -1,0 +1,11 @@
+{
+  "name": "opencore-amr",
+  "version": "0.1.6-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199685475,
+  "transmit": 440923,
+  "disk": 6722784
+}
