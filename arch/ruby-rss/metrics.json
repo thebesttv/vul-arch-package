@@ -1,0 +1,14 @@
+{
+  "name": "ruby-rss",
+  "version": "0.3.0-1",
+  "depends": [
+    "ruby-rexml"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-test-unit"
+  ],
+  "receive": 199514588,
+  "transmit": 289282,
+  "disk": 931882
+}
