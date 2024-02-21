@@ -1,0 +1,15 @@
+{
+  "name": "python-colorclass",
+  "version": "2.2.2-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199554651,
+  "transmit": 266375,
+  "disk": 1249500
+}
