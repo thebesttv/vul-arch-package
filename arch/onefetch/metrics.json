@@ -1,0 +1,15 @@
+{
+  "name": "onefetch",
+  "version": "2.19.0-1",
+  "depends": [
+    "libgit2.so"
+  ],
+  "makedepends": [
+    "cargo",
+    "cmake",
+    "git"
+  ],
+  "receive": 199661618,
+  "transmit": 387898,
+  "disk": 36388959
+}
