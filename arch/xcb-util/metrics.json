@@ -1,0 +1,15 @@
+{
+  "name": "xcb-util",
+  "version": "0.4.1-1",
+  "depends": [
+    "libxcb>=1.7"
+  ],
+  "makedepends": [
+    "gperf",
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199582418,
+  "transmit": 301575,
+  "disk": 2115137
+}
