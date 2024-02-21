@@ -1,0 +1,15 @@
+{
+  "name": "kidentitymanagement",
+  "version": "23.08.5-1",
+  "depends": [
+    "kpimtextedit"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools"
+  ],
+  "receive": 199751341,
+  "transmit": 408380,
+  "disk": 1646537
+}
