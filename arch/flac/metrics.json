@@ -1,0 +1,17 @@
+{
+  "name": "flac",
+  "version": "1.4.3-1",
+  "depends": [
+    "gcc-libs",
+    "libogg"
+  ],
+  "makedepends": [
+    "nasm",
+    "cmake",
+    "ninja",
+    "doxygen"
+  ],
+  "receive": 199550305,
+  "transmit": 267606,
+  "disk": 13540987
+}
