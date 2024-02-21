@@ -1,0 +1,22 @@
+{
+  "name": "duplicity",
+  "version": "2.1.4-1",
+  "depends": [
+    "gnupg",
+    "librsync",
+    "python-paramiko",
+    "python-fasteners",
+    "python-future"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 305815625,
+  "transmit": 594496,
+  "disk": 112257386
+}
