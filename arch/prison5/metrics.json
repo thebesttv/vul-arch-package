@@ -1,0 +1,20 @@
+{
+  "name": "prison5",
+  "version": "5.115.0-1",
+  "depends": [
+    "qt5-multimedia",
+    "libdmtx",
+    "qrencode",
+    "zxing-cpp"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc",
+    "qt5-declarative"
+  ],
+  "receive": 199614249,
+  "transmit": 343397,
+  "disk": 473504
+}
