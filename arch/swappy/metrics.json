@@ -1,0 +1,16 @@
+{
+  "name": "swappy",
+  "version": "1.5.1-1",
+  "depends": [
+    "cairo",
+    "gtk3",
+    "pango"
+  ],
+  "makedepends": [
+    "meson",
+    "scdoc"
+  ],
+  "receive": 199564581,
+  "transmit": 296074,
+  "disk": 1664243
+}
