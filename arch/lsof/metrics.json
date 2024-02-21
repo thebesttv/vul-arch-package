@@ -1,0 +1,14 @@
+{
+  "name": "lsof",
+  "version": "4.99.0-1",
+  "depends": [
+    "glibc",
+    "libtirpc"
+  ],
+  "makedepends": [
+    "groff"
+  ],
+  "receive": 199724518,
+  "transmit": 435907,
+  "disk": 6322254
+}
