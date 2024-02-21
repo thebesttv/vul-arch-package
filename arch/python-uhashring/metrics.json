@@ -1,0 +1,15 @@
+{
+  "name": "python-uhashring",
+  "version": "2.3-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling"
+  ],
+  "receive": 201143683,
+  "transmit": 1243750,
+  "disk": 177803
+}
