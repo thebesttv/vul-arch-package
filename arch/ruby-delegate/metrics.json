@@ -1,0 +1,11 @@
+{
+  "name": "ruby-delegate",
+  "version": "0.2.0-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199596797,
+  "transmit": 363984,
+  "disk": 195937
+}
