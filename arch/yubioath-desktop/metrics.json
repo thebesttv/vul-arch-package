@@ -1,0 +1,23 @@
+{
+  "name": "yubioath-desktop",
+  "version": "5.1.0-3",
+  "depends": [
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-quickcontrols",
+    "qt5-quickcontrols2",
+    "python-pyotherside",
+    "qt5-graphicaleffects",
+    "qt5-multimedia",
+    "ccid",
+    "pcsclite",
+    "yubikey-manager"
+  ],
+  "makedepends": [
+    "git",
+    "python"
+  ],
+  "receive": 199635336,
+  "transmit": 359957,
+  "disk": 52831047
+}
