@@ -1,0 +1,22 @@
+{
+  "name": "lxpanel",
+  "version": "0.10.1-1",
+  "depends": [
+    "alsa-lib",
+    "curl",
+    "menu-cache",
+    "lxmenu-data",
+    "libwnck",
+    "libfm-gtk2",
+    "libkeybinder2"
+  ],
+  "makedepends": [
+    "intltool",
+    "docbook-xml",
+    "docbook-xsl",
+    "wireless_tools"
+  ],
+  "receive": 199616567,
+  "transmit": 370146,
+  "disk": 9628767
+}
