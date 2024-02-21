@@ -1,0 +1,16 @@
+{
+  "name": "libfm-qt",
+  "version": "1.4.0-2",
+  "depends": [
+    "menu-cache",
+    "libexif",
+    "qt5-x11extras",
+    "lxqt-menu-data"
+  ],
+  "makedepends": [
+    "lxqt-build-tools"
+  ],
+  "receive": 200141581,
+  "transmit": 446075,
+  "disk": 4977509
+}
