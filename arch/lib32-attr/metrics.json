@@ -1,0 +1,15 @@
+{
+  "name": "lib32-attr",
+  "version": "2.5.2-1",
+  "depends": [
+    "lib32-glibc",
+    "attr"
+  ],
+  "makedepends": [
+    "gcc-multilib",
+    "gettext"
+  ],
+  "receive": 199941602,
+  "transmit": 300727,
+  "disk": 2659637
+}
