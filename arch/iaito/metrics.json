@@ -1,0 +1,23 @@
+{
+  "name": "iaito",
+  "version": "5.8.8-1",
+  "depends": [
+    "radare2",
+    "capstone",
+    "qt5-base",
+    "qt5-svg",
+    "python",
+    "pyside2",
+    "python-shiboken2",
+    "graphviz",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "shiboken2",
+    "qt5-tools"
+  ],
+  "receive": 216906979,
+  "transmit": 660301,
+  "disk": 30428753
+}
