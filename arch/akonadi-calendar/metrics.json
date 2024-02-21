@@ -1,0 +1,18 @@
+{
+  "name": "akonadi-calendar",
+  "version": "23.08.5-1",
+  "depends": [
+    "kmailtransport",
+    "kcalutils",
+    "akonadi-contacts",
+    "messagelib"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "doxygen"
+  ],
+  "receive": 199657065,
+  "transmit": 301163,
+  "disk": 5580971
+}
