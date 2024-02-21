@@ -1,0 +1,28 @@
+{
+  "name": "haskell-wai-middleware-static",
+  "version": "0.9.2-235",
+  "depends": [
+    "ghc-libs",
+    "haskell-base16-bytestring",
+    "haskell-cryptohash-sha1",
+    "haskell-expiring-cache-map",
+    "haskell-http-types",
+    "haskell-mime-types",
+    "haskell-old-locale",
+    "haskell-wai"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-hspec-expectations-lifted",
+    "haskell-hspec-wai",
+    "haskell-mockery",
+    "haskell-scotty",
+    "haskell-wai-extra"
+  ],
+  "receive": 199785859,
+  "transmit": 294916,
+  "disk": 685570
+}
