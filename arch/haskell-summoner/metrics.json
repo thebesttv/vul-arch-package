@@ -1,0 +1,28 @@
+{
+  "name": "haskell-summoner",
+  "version": "2.0.1.1-477",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-colourista",
+    "haskell-generic-data",
+    "haskell-gitrev",
+    "haskell-neat-interpolation",
+    "haskell-optparse-applicative",
+    "haskell-relude",
+    "haskell-shellmet",
+    "haskell-tomland",
+    "haskell-validation-selective"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hedgehog",
+    "haskell-hspec",
+    "haskell-hspec-hedgehog",
+    "haskell-tree-diff"
+  ],
+  "receive": 200053632,
+  "transmit": 425105,
+  "disk": 895859
+}
