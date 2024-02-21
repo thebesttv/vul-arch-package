@@ -1,0 +1,14 @@
+{
+  "name": "ruby-sorted_set",
+  "version": "1.0.3-2",
+  "depends": [
+    "ruby-set",
+    "ruby-rbtree"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199615410,
+  "transmit": 378961,
+  "disk": 309408
+}
