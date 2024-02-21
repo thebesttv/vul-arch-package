@@ -1,0 +1,11 @@
+{
+  "name": "perl-json-parse",
+  "version": "0.62-2",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199569919,
+  "transmit": 256690,
+  "disk": 514367
+}
