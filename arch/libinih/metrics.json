@@ -1,0 +1,15 @@
+{
+  "name": "libinih",
+  "version": "57-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199551114,
+  "transmit": 271667,
+  "disk": 696535
+}
