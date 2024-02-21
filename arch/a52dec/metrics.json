@@ -1,0 +1,11 @@
+{
+  "name": "a52dec",
+  "version": "0.8.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199696942,
+  "transmit": 439306,
+  "disk": 2446379
+}
