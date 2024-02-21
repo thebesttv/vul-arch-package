@@ -1,0 +1,14 @@
+{
+  "name": "xkeycaps",
+  "version": "2.47-3",
+  "depends": [
+    "libxaw"
+  ],
+  "makedepends": [
+    "imake",
+    "xbitmaps"
+  ],
+  "receive": 199632308,
+  "transmit": 398936,
+  "disk": 2127095
+}
