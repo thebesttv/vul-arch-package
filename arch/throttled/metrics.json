@@ -1,0 +1,12 @@
+{
+  "name": "throttled",
+  "version": "0.10.0-2",
+  "depends": [
+    "python-dbus",
+    "python-gobject"
+  ],
+  "makedepends": [],
+  "receive": 199518414,
+  "transmit": 284308,
+  "disk": 215123
+}
