@@ -1,0 +1,21 @@
+{
+  "name": "python-anyio",
+  "version": "4.2.0-1",
+  "depends": [
+    "python",
+    "python-idna",
+    "python-sniffio"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel",
+    "python-uvloop",
+    "python-trio"
+  ],
+  "receive": 199708464,
+  "transmit": 458432,
+  "disk": 1054443
+}
