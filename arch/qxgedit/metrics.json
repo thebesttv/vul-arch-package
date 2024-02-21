@@ -1,0 +1,19 @@
+{
+  "name": "qxgedit",
+  "version": "0.9.12-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "qt6-tools"
+  ],
+  "receive": 199563292,
+  "transmit": 262722,
+  "disk": 1587566
+}
