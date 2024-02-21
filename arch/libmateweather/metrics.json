@@ -1,0 +1,13 @@
+{
+  "name": "libmateweather",
+  "version": "1.26.3-1",
+  "depends": [
+    "gtk3",
+    "libsoup",
+    "gettext"
+  ],
+  "makedepends": [],
+  "receive": 199639389,
+  "transmit": 363947,
+  "disk": 48463571
+}
