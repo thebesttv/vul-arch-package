@@ -1,0 +1,13 @@
+{
+  "name": "groovy",
+  "version": "4.0.18-1",
+  "depends": [
+    "java-environment"
+  ],
+  "makedepends": [
+    "gendesk"
+  ],
+  "receive": 199627862,
+  "transmit": 314786,
+  "disk": 63172558
+}
