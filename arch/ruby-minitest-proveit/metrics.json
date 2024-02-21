@@ -1,0 +1,16 @@
+{
+  "name": "ruby-minitest-proveit",
+  "version": "1.0.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-hoe",
+    "ruby-bundler",
+    "git",
+    "ruby-rake"
+  ],
+  "receive": 200286992,
+  "transmit": 953958,
+  "disk": 276827
+}
