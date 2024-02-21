@@ -1,0 +1,14 @@
+{
+  "name": "ly",
+  "version": "0.6.0-1",
+  "depends": [
+    "pam"
+  ],
+  "makedepends": [
+    "git",
+    "libxcb"
+  ],
+  "receive": 200918053,
+  "transmit": 423168,
+  "disk": 2750957
+}
