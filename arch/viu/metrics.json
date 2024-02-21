@@ -1,0 +1,14 @@
+{
+  "name": "viu",
+  "version": "1.5.0-1",
+  "depends": [
+    "gcc-libs",
+    "libsixel"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199711320,
+  "transmit": 435458,
+  "disk": 70712402
+}
