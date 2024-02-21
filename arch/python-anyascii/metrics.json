@@ -1,0 +1,15 @@
+{
+  "name": "python-anyascii",
+  "version": "0.3.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199569487,
+  "transmit": 284637,
+  "disk": 526386
+}
