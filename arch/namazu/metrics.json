@@ -1,0 +1,11 @@
+{
+  "name": "namazu",
+  "version": "2.0.21-5",
+  "depends": [
+    "perl-file-mmagic"
+  ],
+  "makedepends": [],
+  "receive": 199637469,
+  "transmit": 374293,
+  "disk": 6950078
+}
