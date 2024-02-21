@@ -1,0 +1,14 @@
+{
+  "name": "gdbm",
+  "version": "1.23-2",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "readline"
+  ],
+  "receive": 199920517,
+  "transmit": 484503,
+  "disk": 5730722
+}
