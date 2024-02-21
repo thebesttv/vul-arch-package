@@ -1,0 +1,14 @@
+{
+  "name": "dscanner",
+  "version": "0.15.2-1",
+  "depends": [
+    "liblphobos"
+  ],
+  "makedepends": [
+    "ldc",
+    "git"
+  ],
+  "receive": 199544456,
+  "transmit": 286958,
+  "disk": 17437636
+}
