@@ -1,0 +1,19 @@
+{
+  "name": "libuhd",
+  "version": "4.6.0.0-1",
+  "depends": [
+    "boost-libs",
+    "orc",
+    "libusb"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "python-setuptools",
+    "python-mako",
+    "python-numpy"
+  ],
+  "receive": 242179301,
+  "transmit": 743970,
+  "disk": 218924672
+}
