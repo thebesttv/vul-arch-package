@@ -1,0 +1,20 @@
+{
+  "name": "ruby-msgpack",
+  "version": "1.7.2-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-rake-compiler",
+    "ruby-yard",
+    "ruby-rspec",
+    "ruby-bundler",
+    "ruby-webrick",
+    "ruby-ruby_memcheck"
+  ],
+  "receive": 199713661,
+  "transmit": 321088,
+  "disk": 731816
+}
