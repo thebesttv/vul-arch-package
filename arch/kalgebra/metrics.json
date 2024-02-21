@@ -1,0 +1,17 @@
+{
+  "name": "kalgebra",
+  "version": "23.08.5-1",
+  "depends": [
+    "analitza5",
+    "kio5",
+    "qt5-webengine"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "plasma-framework5"
+  ],
+  "receive": 199580471,
+  "transmit": 297436,
+  "disk": 4565740
+}
