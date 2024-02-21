@@ -1,0 +1,15 @@
+{
+  "name": "browserify",
+  "version": "17.0.0-1",
+  "depends": [
+    "nodejs",
+    "acorn"
+  ],
+  "makedepends": [
+    "npm",
+    "git"
+  ],
+  "receive": 199700839,
+  "transmit": 397480,
+  "disk": 274791
+}
