@@ -1,0 +1,18 @@
+{
+  "name": "hamster-time-tracker",
+  "version": "3.0.3-1",
+  "depends": [
+    "gtk3",
+    "python-dbus",
+    "python-cairo",
+    "python-gobject",
+    "python-xdg"
+  ],
+  "makedepends": [
+    "intltool",
+    "itstool"
+  ],
+  "receive": 199514019,
+  "transmit": 278536,
+  "disk": 5691017
+}
