@@ -1,0 +1,17 @@
+{
+  "name": "xortool",
+  "version": "1.0.0-1",
+  "depends": [
+    "python",
+    "python-docopt",
+    "python-importlib-metadata"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199719943,
+  "transmit": 433566,
+  "disk": 495313
+}
