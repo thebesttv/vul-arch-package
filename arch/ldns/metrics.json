@@ -1,0 +1,14 @@
+{
+  "name": "ldns",
+  "version": "1.8.3-2",
+  "depends": [
+    "openssl",
+    "dnssec-anchors"
+  ],
+  "makedepends": [
+    "libpcap"
+  ],
+  "receive": 199578475,
+  "transmit": 279766,
+  "disk": 6899487
+}
