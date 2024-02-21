@@ -1,0 +1,45 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=4.73 s (1140.7 files/s 384042.9 lines/s)"
+1869,C/C++ Header,61284,116199,375543
+974,C++,63607,43429,346398
+430,C,45042,50362,227743
+28,PO File,57036,78477,155287
+1408,INI,5387,0,28551
+49,Text,1183,0,28034
+39,Bourne Shell,3936,4843,25179
+174,XML,542,865,15340
+109,Java,2322,1472,13460
+10,m4,1192,106,12710
+7,PHP,402,220,10020
+122,CMake,1330,1587,7531
+1,yacc,237,136,3454
+1,TeX,743,34,2970
+4,reStructuredText,826,81,2304
+9,YAML,193,162,2213
+19,Python,428,276,1662
+7,Windows Module Definition,181,0,1374
+2,Assembly,604,230,1325
+18,Markdown,471,0,1325
+8,Objective-C++,225,63,1209
+4,Perl,173,186,935
+48,GLSL,172,119,912
+3,MSBuild script,0,0,649
+2,Visual Studio Solution,2,2,566
+10,make,175,168,492
+2,Fortran 77,34,2,351
+5,DOS Batch,84,19,320
+1,Visual Basic Script,16,40,230
+4,Gradle,33,43,173
+3,JavaScript,19,8,152
+2,Bourne Again Shell,22,21,137
+3,JSON,0,0,116
+3,Objective-C,29,11,114
+3,Windows Resource File,8,30,92
+4,diff,20,53,75
+1,Lua,23,0,36
+2,Snakemake,1,2,36
+2,ProGuard,8,20,16
+1,HTML,3,0,14
+2,Properties,0,14,10
+1,SVG,0,0,9
+1,Linker Script,0,0,7
+5395,SUM,247993,299280,1269074
