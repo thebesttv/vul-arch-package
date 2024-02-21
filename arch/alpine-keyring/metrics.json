@@ -1,0 +1,9 @@
+{
+  "name": "alpine-keyring",
+  "version": "2.4-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 200217961,
+  "transmit": 819989,
+  "disk": 102496
+}
