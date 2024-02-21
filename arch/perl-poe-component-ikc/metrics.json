@@ -1,0 +1,13 @@
+{
+  "name": "perl-poe-component-ikc",
+  "version": "0.2402-9",
+  "depends": [
+    "perl-poe"
+  ],
+  "makedepends": [
+    "perl-poe"
+  ],
+  "receive": 199630094,
+  "transmit": 391167,
+  "disk": 511657
+}
