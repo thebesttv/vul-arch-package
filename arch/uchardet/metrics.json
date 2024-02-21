@@ -1,0 +1,13 @@
+{
+  "name": "uchardet",
+  "version": "0.0.8-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199700154,
+  "transmit": 367461,
+  "disk": 1870644
+}
