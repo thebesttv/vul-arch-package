@@ -1,0 +1,11 @@
+{
+  "name": "ruby-rake",
+  "version": "13.0.6-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199512425,
+  "transmit": 266984,
+  "disk": 175477
+}
