@@ -1,0 +1,19 @@
+{
+  "name": "osinfo-db-tools",
+  "version": "1.11.0-1",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "json-glib",
+    "libarchive",
+    "libsoup3",
+    "libxml2"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199592605,
+  "transmit": 324963,
+  "disk": 730032
+}
