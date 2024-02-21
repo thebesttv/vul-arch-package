@@ -1,0 +1,20 @@
+{
+  "name": "ruby-gpgme",
+  "version": "2.0.23-1",
+  "depends": [
+    "ruby",
+    "ruby-mini_portile2",
+    "gpgme",
+    "libgpg-error",
+    "libassuan"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-bundler",
+    "ruby-yard"
+  ],
+  "receive": 199576557,
+  "transmit": 296044,
+  "disk": 7406646
+}
