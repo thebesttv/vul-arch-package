@@ -1,0 +1,12 @@
+{
+  "name": "mythes-en",
+  "version": "20221102-2",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "libmythes"
+  ],
+  "receive": 415247109,
+  "transmit": 1972455,
+  "disk": 627382652
+}
