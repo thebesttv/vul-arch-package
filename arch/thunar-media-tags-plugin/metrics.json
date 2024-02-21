@@ -1,0 +1,14 @@
+{
+  "name": "thunar-media-tags-plugin",
+  "version": "0.4.0-2",
+  "depends": [
+    "taglib",
+    "thunar"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199738756,
+  "transmit": 426995,
+  "disk": 2716528
+}
