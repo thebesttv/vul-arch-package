@@ -1,0 +1,20 @@
+{
+  "name": "gnome-terminal",
+  "version": "3.50.1-1",
+  "depends": [
+    "gsettings-desktop-schemas",
+    "libhandy",
+    "vte3"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "gnome-shell",
+    "libnautilus-extension",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199713570,
+  "transmit": 289035,
+  "disk": 44524200
+}
