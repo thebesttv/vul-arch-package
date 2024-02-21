@@ -1,0 +1,13 @@
+{
+  "name": "libidn2",
+  "version": "2.3.7-1",
+  "depends": [
+    "libunistring"
+  ],
+  "makedepends": [
+    "ruby-ronn-ng"
+  ],
+  "receive": 199724810,
+  "transmit": 393247,
+  "disk": 13946767
+}
