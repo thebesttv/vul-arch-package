@@ -1,0 +1,13 @@
+{
+  "name": "perl-readonly",
+  "version": "2.05-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build-tiny"
+  ],
+  "receive": 199614807,
+  "transmit": 395575,
+  "disk": 236099
+}
