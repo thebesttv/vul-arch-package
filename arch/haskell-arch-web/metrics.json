@@ -1,0 +1,24 @@
+{
+  "name": "haskell-arch-web",
+  "version": "0.2-93",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-deriving-aeson",
+    "haskell-http-client",
+    "haskell-http-client-tls",
+    "haskell-http-types",
+    "haskell-lens",
+    "haskell-servant",
+    "haskell-servant-client",
+    "haskell-servant-client-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit"
+  ],
+  "receive": 199749918,
+  "transmit": 466691,
+  "disk": 596131
+}
