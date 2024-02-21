@@ -1,0 +1,11 @@
+{
+  "name": "perl-digest-bubblebabble",
+  "version": "0.02-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199696247,
+  "transmit": 379172,
+  "disk": 341347
+}
