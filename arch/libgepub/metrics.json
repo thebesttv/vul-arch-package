@@ -1,0 +1,19 @@
+{
+  "name": "libgepub",
+  "version": "0.7.1-1",
+  "depends": [
+    "glib2",
+    "libarchive",
+    "libsoup3",
+    "libxml2",
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson"
+  ],
+  "receive": 199756383,
+  "transmit": 438990,
+  "disk": 630284
+}
