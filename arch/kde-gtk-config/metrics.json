@@ -1,0 +1,19 @@
+{
+  "name": "kde-gtk-config",
+  "version": "5.27.10-1",
+  "depends": [
+    "qt5-svg",
+    "kdecoration",
+    "kconfigwidgets5",
+    "kdbusaddons5",
+    "kwindowsystem5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "gtk3",
+    "sassc"
+  ],
+  "receive": 199655429,
+  "transmit": 415156,
+  "disk": 677833
+}
