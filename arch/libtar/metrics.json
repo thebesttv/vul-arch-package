@@ -1,0 +1,11 @@
+{
+  "name": "libtar",
+  "version": "1.2.20-6",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199557692,
+  "transmit": 307597,
+  "disk": 437419
+}
