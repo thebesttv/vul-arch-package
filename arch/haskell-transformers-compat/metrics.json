@@ -1,0 +1,13 @@
+{
+  "name": "haskell-transformers-compat",
+  "version": "0.7.2-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199895944,
+  "transmit": 503785,
+  "disk": 482704
+}
