@@ -1,0 +1,15 @@
+{
+  "name": "python-enlighten",
+  "version": "1.12.4-1",
+  "depends": [
+    "python-blessed",
+    "python-prefixed"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199538128,
+  "transmit": 305712,
+  "disk": 9192265
+}
