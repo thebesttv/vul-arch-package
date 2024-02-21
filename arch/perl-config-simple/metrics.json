@@ -1,0 +1,11 @@
+{
+  "name": "perl-config-simple",
+  "version": "4.59-16",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199606804,
+  "transmit": 326919,
+  "disk": 207519
+}
