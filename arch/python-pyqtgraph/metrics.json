@@ -1,0 +1,18 @@
+{
+  "name": "python-pyqtgraph",
+  "version": "0.13.3-2",
+  "depends": [
+    "python",
+    "qt5-python-bindings",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199986287,
+  "transmit": 537657,
+  "disk": 6585668
+}
