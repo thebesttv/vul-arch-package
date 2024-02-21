@@ -1,0 +1,13 @@
+{
+  "name": "perl-xml-stream",
+  "version": "1.24-9",
+  "depends": [
+    "perl-authen-sasl"
+  ],
+  "makedepends": [
+    "perl-authen-sasl"
+  ],
+  "receive": 199529819,
+  "transmit": 280944,
+  "disk": 523115
+}
