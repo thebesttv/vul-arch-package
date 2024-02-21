@@ -1,0 +1,18 @@
+{
+  "name": "python-coverage-conditional-plugin",
+  "version": "0.9.0-1",
+  "depends": [
+    "python",
+    "python-coverage",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 199591441,
+  "transmit": 383541,
+  "disk": 145264
+}
