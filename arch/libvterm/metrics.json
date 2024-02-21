@@ -1,0 +1,13 @@
+{
+  "name": "libvterm",
+  "version": "0.3.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199604116,
+  "transmit": 370986,
+  "disk": 530230
+}
