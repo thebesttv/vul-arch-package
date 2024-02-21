@@ -1,0 +1,13 @@
+{
+  "name": "ruby-ice_nine",
+  "version": "0.11.2-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199567683,
+  "transmit": 323499,
+  "disk": 921893
+}
