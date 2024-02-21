@@ -1,0 +1,17 @@
+{
+  "name": "qt6-lottie",
+  "version": "6.6.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-declarative"
+  ],
+  "receive": 199589276,
+  "transmit": 331019,
+  "disk": 216480
+}
