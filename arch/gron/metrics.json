@@ -1,0 +1,14 @@
+{
+  "name": "gron",
+  "version": "0.7.1-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199661515,
+  "transmit": 400496,
+  "disk": 3368279
+}
