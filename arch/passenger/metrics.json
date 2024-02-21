@@ -1,0 +1,15 @@
+{
+  "name": "passenger",
+  "version": "6.0.20-1",
+  "depends": [],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rack",
+    "curl",
+    "apache",
+    "nginx-src"
+  ],
+  "receive": 208209514,
+  "transmit": 341221,
+  "disk": 65487436
+}
