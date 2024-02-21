@@ -1,0 +1,15 @@
+{
+  "name": "rocsparse",
+  "version": "6.0.0-1",
+  "depends": [
+    "hip",
+    "rocprim"
+  ],
+  "makedepends": [
+    "rocm-cmake",
+    "gcc-fortran"
+  ],
+  "receive": 199582825,
+  "transmit": 307944,
+  "disk": 15519992
+}
