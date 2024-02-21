@@ -1,0 +1,21 @@
+{
+  "name": "gloobus-preview",
+  "version": "0.4.5.336-6",
+  "depends": [
+    "gst-plugins-base",
+    "gtksourceview3",
+    "poppler-glib",
+    "python-dbus",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "boost",
+    "breezy",
+    "djvulibre",
+    "libgxps",
+    "libspectre"
+  ],
+  "receive": 200475147,
+  "transmit": 448274,
+  "disk": 3824840
+}
