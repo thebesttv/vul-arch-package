@@ -1,0 +1,13 @@
+{
+  "name": "s3rver",
+  "version": "3.7.1-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 200253989,
+  "transmit": 712880,
+  "disk": 119947
+}
