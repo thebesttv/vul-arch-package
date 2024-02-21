@@ -1,0 +1,18 @@
+{
+  "name": "pantheon-onboarding",
+  "version": "7.2.0-1",
+  "depends": [
+    "glib2",
+    "libadwaita-1.so",
+    "libgranite-7.so"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199816453,
+  "transmit": 467865,
+  "disk": 5689159
+}
