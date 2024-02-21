@@ -1,0 +1,11 @@
+{
+  "name": "perl-sort-naturally",
+  "version": "1.03-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199658564,
+  "transmit": 399917,
+  "disk": 155374
+}
