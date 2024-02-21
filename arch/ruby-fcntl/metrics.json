@@ -1,0 +1,14 @@
+{
+  "name": "ruby-fcntl",
+  "version": "1.0.1-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rake-compiler"
+  ],
+  "receive": 199970075,
+  "transmit": 495669,
+  "disk": 130653
+}
