@@ -1,0 +1,17 @@
+{
+  "name": "zarchive",
+  "version": "0.1.2-5",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libzstd.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 200091188,
+  "transmit": 856242,
+  "disk": 392387
+}
