@@ -1,0 +1,11 @@
+{
+  "name": "openlibm",
+  "version": "0.8.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199675211,
+  "transmit": 385917,
+  "disk": 2221966
+}
