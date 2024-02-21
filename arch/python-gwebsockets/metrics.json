@@ -1,0 +1,13 @@
+{
+  "name": "python-gwebsockets",
+  "version": "0.7-6",
+  "depends": [
+    "python-gobject"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199516557,
+  "transmit": 303754,
+  "disk": 130163
+}
