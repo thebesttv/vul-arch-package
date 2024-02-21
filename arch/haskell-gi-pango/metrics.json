@@ -1,0 +1,22 @@
+{
+  "name": "haskell-gi-pango",
+  "version": "1.0.29-60",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-gio",
+    "haskell-gi-glib",
+    "haskell-gi-gobject",
+    "haskell-gi-harfbuzz",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "pango"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199740392,
+  "transmit": 479230,
+  "disk": 302709
+}
