@@ -1,0 +1,15 @@
+{
+  "name": "xorg-xkbcomp",
+  "version": "1.4.7-1",
+  "depends": [
+    "libxkbfile",
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199631772,
+  "transmit": 358693,
+  "disk": 1938870
+}
