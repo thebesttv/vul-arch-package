@@ -1,0 +1,16 @@
+{
+  "name": "rage-encryption",
+  "version": "0.10.0-1",
+  "depends": [
+    "bzip2",
+    "fuse3",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199676636,
+  "transmit": 409728,
+  "disk": 4493077
+}
