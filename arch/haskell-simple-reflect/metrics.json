@@ -1,0 +1,13 @@
+{
+  "name": "haskell-simple-reflect",
+  "version": "0.3.3-9",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199684047,
+  "transmit": 407927,
+  "disk": 121147
+}
