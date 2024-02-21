@@ -1,0 +1,22 @@
+{
+  "name": "xmonad-extras",
+  "version": "0.17.1-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-x11",
+    "haskell-alsa-mixer",
+    "haskell-dbus",
+    "haskell-hint",
+    "haskell-libmpd",
+    "haskell-network",
+    "haskell-regex-posix",
+    "xmonad",
+    "xmonad-contrib"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199854842,
+  "transmit": 450215,
+  "disk": 372172
+}
