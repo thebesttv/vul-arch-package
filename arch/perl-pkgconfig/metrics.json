@@ -1,0 +1,11 @@
+{
+  "name": "perl-pkgconfig",
+  "version": "0.25026-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199512282,
+  "transmit": 270899,
+  "disk": 885450
+}
