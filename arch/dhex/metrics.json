@@ -1,0 +1,11 @@
+{
+  "name": "dhex",
+  "version": "0.69-3",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199524453,
+  "transmit": 280956,
+  "disk": 348854
+}
