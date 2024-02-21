@@ -1,0 +1,11 @@
+{
+  "name": "libiconv",
+  "version": "1.17-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 200009959,
+  "transmit": 762469,
+  "disk": 26180448
+}
