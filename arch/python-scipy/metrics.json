@@ -1,0 +1,26 @@
+{
+  "name": "python-scipy",
+  "version": "1.12.0-1",
+  "depends": [
+    "blas",
+    "gcc-libs",
+    "glibc",
+    "lapack",
+    "python",
+    "python-numpy",
+    "python-platformdirs",
+    "python-pooch"
+  ],
+  "makedepends": [
+    "cython",
+    "gcc-fortran",
+    "meson-python",
+    "pybind11",
+    "python-build",
+    "python-installer",
+    "python-pythran"
+  ],
+  "receive": 256686254,
+  "transmit": 345764,
+  "disk": 257749073
+}
