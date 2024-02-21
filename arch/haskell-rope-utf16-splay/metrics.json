@@ -1,0 +1,17 @@
+{
+  "name": "haskell-rope-utf16-splay",
+  "version": "0.3.2.0-133",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199612253,
+  "transmit": 385459,
+  "disk": 297984
+}
