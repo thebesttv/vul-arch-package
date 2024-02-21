@@ -1,0 +1,13 @@
+{
+  "name": "gnubg",
+  "version": "1.07.001-2",
+  "depends": [
+    "python",
+    "gtkglext",
+    "curl"
+  ],
+  "makedepends": [],
+  "receive": 199612828,
+  "transmit": 323216,
+  "disk": 42043140
+}
