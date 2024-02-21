@@ -1,0 +1,14 @@
+{
+  "name": "xorg-xlsatoms",
+  "version": "1.1.4-1",
+  "depends": [
+    "libxcb"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199629913,
+  "transmit": 355599,
+  "disk": 959321
+}
