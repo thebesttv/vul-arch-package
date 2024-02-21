@@ -1,0 +1,27 @@
+{
+  "name": "fcitx5",
+  "version": "5.1.7-3",
+  "depends": [
+    "cairo",
+    "enchant",
+    "iso-codes",
+    "libgl",
+    "libxkbcommon-x11",
+    "pango",
+    "systemd",
+    "wayland",
+    "xcb-imdkit",
+    "xcb-util-wm",
+    "libxkbfile",
+    "gdk-pixbuf2"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "wayland-protocols",
+    "fmt"
+  ],
+  "receive": 203325883,
+  "transmit": 339342,
+  "disk": 22127983
+}
