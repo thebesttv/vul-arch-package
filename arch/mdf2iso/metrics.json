@@ -1,0 +1,11 @@
+{
+  "name": "mdf2iso",
+  "version": "0.3.1-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199957860,
+  "transmit": 729327,
+  "disk": 1852263
+}
