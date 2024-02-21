@@ -1,0 +1,12 @@
+{
+  "name": "fcgiwrap",
+  "version": "1.1.0-8",
+  "depends": [
+    "fcgi",
+    "systemd"
+  ],
+  "makedepends": [],
+  "receive": 199547296,
+  "transmit": 298390,
+  "disk": 147554
+}
