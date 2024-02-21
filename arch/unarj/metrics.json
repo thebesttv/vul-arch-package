@@ -1,0 +1,11 @@
+{
+  "name": "unarj",
+  "version": "2.65-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199753686,
+  "transmit": 426127,
+  "disk": 554432
+}
