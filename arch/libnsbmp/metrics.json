@@ -1,0 +1,11 @@
+{
+  "name": "libnsbmp",
+  "version": "0.1.7-1",
+  "depends": [],
+  "makedepends": [
+    "netsurf-buildsystem"
+  ],
+  "receive": 199494684,
+  "transmit": 264066,
+  "disk": 3651382
+}
