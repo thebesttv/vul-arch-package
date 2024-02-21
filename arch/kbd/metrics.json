@@ -1,0 +1,15 @@
+{
+  "name": "kbd",
+  "version": "2.6.4-1",
+  "depends": [
+    "glibc",
+    "pam"
+  ],
+  "makedepends": [
+    "check",
+    "git"
+  ],
+  "receive": 199567049,
+  "transmit": 325004,
+  "disk": 20313203
+}
