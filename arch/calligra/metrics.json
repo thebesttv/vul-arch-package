@@ -1,0 +1,43 @@
+{
+  "name": "calligra",
+  "version": "3.2.1-53",
+  "depends": [
+    "kcmutils5",
+    "knotifyconfig5",
+    "kross",
+    "kactivities5",
+    "kdiagram5",
+    "libspnav",
+    "kdelibs4support",
+    "gsl",
+    "imath",
+    "kcontacts5",
+    "qca-qt5",
+    "poppler-qt5",
+    "libodfgen",
+    "khtml",
+    "kinit",
+    "cauchy"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "kdesignerplugin",
+    "libwpg",
+    "okular",
+    "eigen",
+    "marble-common",
+    "boost",
+    "pstoedit",
+    "libvisio",
+    "libetonyek",
+    "libwps",
+    "vc",
+    "libgit2",
+    "kcalendarcore5",
+    "akonadi"
+  ],
+  "receive": 256064939,
+  "transmit": 1036606,
+  "disk": 290450708
+}
