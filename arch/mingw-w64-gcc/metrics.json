@@ -1,0 +1,19 @@
+{
+  "name": "mingw-w64-gcc",
+  "version": "13.1.0-1",
+  "depends": [
+    "zlib",
+    "libisl",
+    "libmpc",
+    "mingw-w64-crt",
+    "mingw-w64-binutils",
+    "mingw-w64-winpthreads",
+    "mingw-w64-headers"
+  ],
+  "makedepends": [
+    "gcc-ada"
+  ],
+  "receive": 288629967,
+  "transmit": 1342445,
+  "disk": 801923691
+}
