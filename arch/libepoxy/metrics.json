@@ -1,0 +1,20 @@
+{
+  "name": "libepoxy",
+  "version": "1.5.10-2",
+  "depends": [
+    "glibc",
+    "libglvnd",
+    "libx11"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "mesa-libgl",
+    "systemd",
+    "doxygen",
+    "graphviz"
+  ],
+  "receive": 199654235,
+  "transmit": 380875,
+  "disk": 7440647
+}
