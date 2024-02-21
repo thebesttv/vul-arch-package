@@ -1,0 +1,11 @@
+{
+  "name": "libnftnl",
+  "version": "1.2.6-1",
+  "depends": [
+    "libmnl"
+  ],
+  "makedepends": [],
+  "receive": 199660256,
+  "transmit": 356325,
+  "disk": 2975623
+}
