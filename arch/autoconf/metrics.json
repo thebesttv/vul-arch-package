@@ -1,0 +1,15 @@
+{
+  "name": "autoconf",
+  "version": "2.72-1",
+  "depends": [
+    "awk",
+    "m4",
+    "diffutils",
+    "perl",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199565119,
+  "transmit": 292692,
+  "disk": 8887671
+}
