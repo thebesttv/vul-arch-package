@@ -1,0 +1,33 @@
+{
+  "name": "plasma-desktop",
+  "version": "5.27.10-1",
+  "depends": [
+    "gawk",
+    "kdelibs4support",
+    "polkit-kde-agent",
+    "kmenuedit",
+    "systemsettings",
+    "powerdevil",
+    "baloo5",
+    "xdg-user-dirs"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "xf86-input-evdev",
+    "xf86-input-synaptics",
+    "xf86-input-libinput",
+    "xorg-server-devel",
+    "scim",
+    "kdesignerplugin",
+    "kaccounts-integration",
+    "intltool",
+    "packagekit-qt5",
+    "kinit",
+    "wayland-protocols",
+    "libibus"
+  ],
+  "receive": 199751023,
+  "transmit": 275473,
+  "disk": 63716230
+}
