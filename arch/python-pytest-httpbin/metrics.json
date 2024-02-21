@@ -1,0 +1,17 @@
+{
+  "name": "python-pytest-httpbin",
+  "version": "2.0.0-1",
+  "depends": [
+    "python-pytest",
+    "httpbin"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199621103,
+  "transmit": 362744,
+  "disk": 196943
+}
