@@ -1,0 +1,19 @@
+{
+  "name": "fastd",
+  "version": "22-4",
+  "depends": [
+    "gcc-libs",
+    "libcap",
+    "libmnl",
+    "libuecc>=6",
+    "libsodium",
+    "json-c",
+    "openssl"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199583525,
+  "transmit": 304528,
+  "disk": 1705206
+}
