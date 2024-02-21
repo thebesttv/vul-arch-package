@@ -1,0 +1,14 @@
+{
+  "name": "ruby-faraday-rack",
+  "version": "1.0.0-1",
+  "depends": [
+    "ruby",
+    "ruby-rack"
+  ],
+  "makedepends": [
+    "ruby-rspec"
+  ],
+  "receive": 199727582,
+  "transmit": 398138,
+  "disk": 159652
+}
