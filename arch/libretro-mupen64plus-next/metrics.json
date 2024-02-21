@@ -1,0 +1,22 @@
+{
+  "name": "libretro-mupen64plus-next",
+  "version": "1:454-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libgl",
+    "libpng",
+    "libretro-core-info",
+    "minizip",
+    "xxhash",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "mesa",
+    "nasm"
+  ],
+  "receive": 239134773,
+  "transmit": 354533,
+  "disk": 100511079
+}
