@@ -1,0 +1,14 @@
+{
+  "name": "perl-net-dns-resolver-programmable",
+  "version": "0.009-9",
+  "depends": [
+    "perl-net-dns",
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199614618,
+  "transmit": 354458,
+  "disk": 188690
+}
