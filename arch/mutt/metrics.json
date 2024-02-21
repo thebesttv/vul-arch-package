@@ -1,0 +1,28 @@
+{
+  "name": "mutt",
+  "version": "2.2.12-1",
+  "depends": [
+    "glibc",
+    "libgpg-error",
+    "mime-types",
+    "sqlite",
+    "zlib"
+  ],
+  "makedepends": [
+    "docbook-xml",
+    "docbook-xsl",
+    "elinks",
+    "gdbm",
+    "gpgme",
+    "krb5",
+    "libidn2",
+    "libsasl",
+    "libxslt",
+    "lynx",
+    "ncurses",
+    "openssl"
+  ],
+  "receive": 205393810,
+  "transmit": 401257,
+  "disk": 26256950
+}
