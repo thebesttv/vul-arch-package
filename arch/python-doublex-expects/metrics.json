@@ -1,0 +1,14 @@
+{
+  "name": "python-doublex-expects",
+  "version": "0.7.1-8",
+  "depends": [
+    "python-doublex",
+    "python-expects"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199522681,
+  "transmit": 255354,
+  "disk": 136958
+}
