@@ -1,0 +1,11 @@
+{
+  "name": "pekwm-themes",
+  "version": "1.0.5-5",
+  "depends": [
+    "pekwm"
+  ],
+  "makedepends": [],
+  "receive": 199565218,
+  "transmit": 301739,
+  "disk": 1629889
+}
