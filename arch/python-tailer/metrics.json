@@ -1,0 +1,11 @@
+{
+  "name": "python-tailer",
+  "version": "0.4.1-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199763736,
+  "transmit": 418860,
+  "disk": 131249
+}
