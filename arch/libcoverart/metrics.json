@@ -1,0 +1,14 @@
+{
+  "name": "libcoverart",
+  "version": "1.0.0-5",
+  "depends": [
+    "neon",
+    "jansson"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199472444,
+  "transmit": 219829,
+  "disk": 475175
+}
