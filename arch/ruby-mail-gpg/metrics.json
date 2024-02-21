@@ -1,0 +1,14 @@
+{
+  "name": "ruby-mail-gpg",
+  "version": "0.4.4-2",
+  "depends": [
+    "ruby",
+    "ruby-gpgme",
+    "ruby-mail",
+    "ruby-rdoc"
+  ],
+  "makedepends": [],
+  "receive": 199659689,
+  "transmit": 367158,
+  "disk": 272301
+}
