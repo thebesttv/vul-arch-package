@@ -1,0 +1,11 @@
+{
+  "name": "serialdv",
+  "version": "1.1.4-3",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199614745,
+  "transmit": 376538,
+  "disk": 824381
+}
