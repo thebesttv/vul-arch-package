@@ -1,0 +1,19 @@
+{
+  "name": "pam_wrapper",
+  "version": "1.1.5-1",
+  "depends": [
+    "pam",
+    "python"
+  ],
+  "makedepends": [
+    "cmake",
+    "cmocka",
+    "doxygen",
+    "git",
+    "graphviz",
+    "ninja"
+  ],
+  "receive": 199833244,
+  "transmit": 419015,
+  "disk": 1035838
+}
