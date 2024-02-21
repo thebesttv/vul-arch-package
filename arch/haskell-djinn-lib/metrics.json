@@ -1,0 +1,13 @@
+{
+  "name": "haskell-djinn-lib",
+  "version": "0.0.1.4-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199657534,
+  "transmit": 410490,
+  "disk": 176573
+}
