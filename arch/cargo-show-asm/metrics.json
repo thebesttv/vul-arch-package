@@ -1,0 +1,13 @@
+{
+  "name": "cargo-show-asm",
+  "version": "0.2.30-1",
+  "depends": [
+    "cargo",
+    "rust-src",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199667162,
+  "transmit": 417713,
+  "disk": 350287
+}
