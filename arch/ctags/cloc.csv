@@ -1,0 +1,102 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=1.76 s (1617.9 files/s 211321.1 lines/s)"
+443,C,20223,17374,136997
+229,C/C++ Header,5472,10975,25885
+285,Text,430,0,16039
+96,reStructuredText,4911,2479,10184
+79,m4,803,686,9754
+9,JSON,0,0,9092
+299,Bourne Shell,1999,1274,7984
+6,Lisp,871,1237,7138
+14,VHDL,1948,495,6519
+10,SVG,10,8,4977
+19,TeX,794,32,3211
+96,Verilog-SystemVerilog,539,508,2880
+19,HTML,328,23,2694
+34,Perl,487,219,2644
+24,XML,125,67,2644
+24,PEG,360,31,2524
+74,Python,536,497,2214
+114,C++,561,352,2128
+26,make,476,270,2018
+89,JavaScript,386,443,1742
+16,vim script,375,500,1630
+33,YAML,266,100,1552
+23,Markdown,491,6,1291
+39,C#,159,138,1191
+11,Kotlin,204,40,1050
+31,PHP,285,95,970
+3,Raku,105,14,963
+22,TypeScript,179,26,955
+42,Ruby,168,827,900
+3,lex,203,129,821
+46,SQL,138,142,777
+20,COBOL,70,246,741
+6,Bourne Again Shell,201,82,712
+5,Thrift,236,501,614
+53,Puppet,167,34,572
+39,Fortran 90,150,212,551
+27,Ada,131,132,534
+5,yacc,50,25,465
+29,Assembly,130,260,421
+17,Fortran 77,31,305,412
+31,Go,98,49,377
+32,Elm,215,116,328
+31,R,58,42,315
+6,Objective-C,60,17,293
+24,TTCN,57,24,289
+3,DOS Batch,63,45,272
+25,Tcl/Tk,63,31,267
+9,Julia,134,163,260
+13,Specman e,99,20,248
+6,DTD,67,72,218
+9,GDScript,103,44,217
+4,Rust,48,10,205
+10,CMake,66,6,204
+5,D,48,12,172
+22,Java,21,6,171
+7,Protocol Buffers,45,111,165
+2,Windows Resource File,40,61,156
+9,MATLAB,24,114,152
+1,diff,1,20,149
+3,Haxe,50,0,144
+8,Lua,42,4,139
+4,PowerShell,36,24,120
+11,Elixir,24,33,119
+5,Scheme,11,2,113
+11,CSS,27,3,108
+1,XSLT,26,20,107
+8,ActionScript,10,5,105
+4,AsciiDoc,69,2,94
+5,SCSS,17,10,91
+7,Clojure,24,1,73
+4,RobotFramework,31,11,72
+3,Standard ML,21,21,71
+2,Visual Studio Solution,2,2,71
+1,Linker Script,10,26,70
+6,Visual Basic,19,4,70
+3,Erlang,31,74,69
+2,Fortran 95,24,13,68
+4,MXML,10,7,53
+3,INI,13,0,49
+7,OCaml,12,8,49
+3,Pascal,18,24,45
+3,Cython,16,9,44
+8,HCL,6,2,39
+3,Haskell,17,13,36
+3,awk,7,5,36
+1,Glade,4,0,31
+1,IDL,0,0,31
+1,Objective-C++,6,0,23
+1,Forth,10,2,19
+1,CUDA,6,1,14
+5,Logos,0,0,14
+1,CoffeeScript,4,1,12
+1,Properties,2,11,12
+1,zsh,2,0,11
+1,ASP,5,2,7
+1,Coq,0,0,6
+1,JSX,1,0,6
+1,VB for Applications,0,0,6
+1,Korn Shell,2,0,5
+1,Mojo,0,0,4
+2849,SUM,46923,42087,283104

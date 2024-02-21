@@ -1,0 +1,20 @@
+{
+  "name": "ctags",
+  "version": "1:6.1.0-1",
+  "depends": [
+    "glibc",
+    "libxml2",
+    "jansson",
+    "libyaml",
+    "libseccomp",
+    "libseccomp.so",
+    "pcre2"
+  ],
+  "makedepends": [
+    "git",
+    "python-docutils"
+  ],
+  "receive": 229659422,
+  "transmit": 482637,
+  "disk": 54560794
+}
