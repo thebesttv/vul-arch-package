@@ -1,0 +1,13 @@
+{
+  "name": "perl-lchown",
+  "version": "1.01-15",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199667259,
+  "transmit": 448385,
+  "disk": 122947
+}
