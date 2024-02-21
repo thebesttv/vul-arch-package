@@ -1,0 +1,17 @@
+{
+  "name": "rtkit",
+  "version": "0.13-2",
+  "depends": [
+    "dbus",
+    "polkit",
+    "systemd"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vim"
+  ],
+  "receive": 199677010,
+  "transmit": 374458,
+  "disk": 717604
+}
