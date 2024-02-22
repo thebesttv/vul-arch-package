@@ -1,0 +1,13 @@
+{
+  "name": "offroad",
+  "version": "0.5-3",
+  "depends": [
+    "hicolor-icon-theme",
+    "imagemagick",
+    "java-runtime<=11"
+  ],
+  "makedepends": [],
+  "receive": 201266553,
+  "transmit": 1259224,
+  "disk": 86722391
+}
