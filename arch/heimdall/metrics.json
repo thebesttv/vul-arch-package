@@ -1,0 +1,17 @@
+{
+  "name": "heimdall",
+  "version": "1.4.2-7",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libusb",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-base"
+  ],
+  "receive": 199660163,
+  "transmit": 404960,
+  "disk": 12864446
+}
