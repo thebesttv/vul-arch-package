@@ -1,0 +1,17 @@
+{
+  "name": "python-iniconfig",
+  "version": "2.0.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs"
+  ],
+  "receive": 199551732,
+  "transmit": 332600,
+  "disk": 452598
+}
