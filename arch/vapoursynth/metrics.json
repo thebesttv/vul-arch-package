@@ -1,0 +1,16 @@
+{
+  "name": "vapoursynth",
+  "version": "R65-1",
+  "depends": [
+    "libzimg.so",
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "git",
+    "python-sphinx"
+  ],
+  "receive": 199504887,
+  "transmit": 283572,
+  "disk": 16617606
+}
