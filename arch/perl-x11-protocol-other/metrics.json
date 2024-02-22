@@ -1,0 +1,13 @@
+{
+  "name": "perl-x11-protocol-other",
+  "version": "31-2",
+  "depends": [
+    "perl-x11-protocol"
+  ],
+  "makedepends": [
+    "perl-extutils-makemaker"
+  ],
+  "receive": 199559001,
+  "transmit": 312491,
+  "disk": 1675608
+}
