@@ -1,0 +1,13 @@
+{
+  "name": "vcdimager",
+  "version": "2.0.1-4",
+  "depends": [
+    "libcdio",
+    "libxml2",
+    "popt"
+  ],
+  "makedepends": [],
+  "receive": 199516481,
+  "transmit": 256094,
+  "disk": 5283038
+}
