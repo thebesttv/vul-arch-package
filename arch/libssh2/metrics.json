@@ -1,0 +1,12 @@
+{
+  "name": "libssh2",
+  "version": "1.11.0-1",
+  "depends": [
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199738870,
+  "transmit": 445109,
+  "disk": 6177799
+}
