@@ -1,0 +1,21 @@
+{
+  "name": "deepin-util-dfm",
+  "version": "1.2.22-1",
+  "depends": [
+    "libisoburn",
+    "libmediainfo",
+    "qt5-base",
+    "udisks2",
+    "glib2",
+    "gcc-libs",
+    "util-linux-libs",
+    "libsecret"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199579955,
+  "transmit": 289006,
+  "disk": 2506650
+}
