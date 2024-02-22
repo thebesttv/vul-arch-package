@@ -1,0 +1,11 @@
+{
+  "name": "teensy-loader-cli",
+  "version": "2.2-2",
+  "depends": [
+    "libusb-compat"
+  ],
+  "makedepends": [],
+  "receive": 199637654,
+  "transmit": 396033,
+  "disk": 652617
+}
