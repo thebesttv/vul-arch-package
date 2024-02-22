@@ -1,0 +1,22 @@
+{
+  "name": "kconfigwidgets5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kauth5",
+    "kcodecs5",
+    "kconfig5",
+    "kguiaddons5",
+    "ki18n5",
+    "kwidgetsaddons5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199564789,
+  "transmit": 294746,
+  "disk": 27236667
+}
