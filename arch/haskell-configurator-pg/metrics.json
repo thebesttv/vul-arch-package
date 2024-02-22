@@ -1,0 +1,19 @@
+{
+  "name": "haskell-configurator-pg",
+  "version": "0.2.8-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-megaparsec",
+    "haskell-protolude",
+    "haskell-scientific"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199823235,
+  "transmit": 402567,
+  "disk": 347501
+}
