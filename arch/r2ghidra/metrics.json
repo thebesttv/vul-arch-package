@@ -1,0 +1,14 @@
+{
+  "name": "r2ghidra",
+  "version": "5.8.8-1",
+  "depends": [
+    "radare2",
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 280017563,
+  "transmit": 493916,
+  "disk": 104427716
+}
