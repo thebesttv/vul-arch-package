@@ -1,0 +1,11 @@
+{
+  "name": "mpgtx",
+  "version": "1.3.1-7",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199505445,
+  "transmit": 270634,
+  "disk": 498086
+}
