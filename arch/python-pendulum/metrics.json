@@ -1,0 +1,21 @@
+{
+  "name": "python-pendulum",
+  "version": "3.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-dateutil",
+    "python-tzdata",
+    "python-time-machine"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-maturin",
+    "python-wheel"
+  ],
+  "receive": 199639263,
+  "transmit": 392354,
+  "disk": 1583365
+}
