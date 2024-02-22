@@ -1,0 +1,15 @@
+{
+  "name": "lib32-primus",
+  "version": "20151110-5",
+  "depends": [
+    "bumblebee",
+    "lib32-mesa-libgl"
+  ],
+  "makedepends": [
+    "git",
+    "gcc-multilib"
+  ],
+  "receive": 200401323,
+  "transmit": 796270,
+  "disk": 597672
+}
