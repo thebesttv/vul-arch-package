@@ -1,0 +1,16 @@
+{
+  "name": "diffuse",
+  "version": "0.9.0-1",
+  "depends": [
+    "python-cairo",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "ninja"
+  ],
+  "receive": 199516167,
+  "transmit": 254272,
+  "disk": 5889372
+}
