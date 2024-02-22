@@ -1,0 +1,25 @@
+{
+  "name": "xdg-desktop-portal-gnome",
+  "version": "45.1-1",
+  "depends": [
+    "cairo",
+    "fontconfig",
+    "gdk-pixbuf2",
+    "glib2",
+    "gnome-desktop-4",
+    "gnome-keyring",
+    "gtk4",
+    "libadwaita",
+    "libx11",
+    "wayland",
+    "xdg-desktop-portal",
+    "xdg-desktop-portal-gtk>=1.10.0-2"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199648531,
+  "transmit": 391201,
+  "disk": 2829673
+}
