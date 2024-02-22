@@ -1,0 +1,16 @@
+{
+  "name": "python-pandocfilters",
+  "version": "1.5.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199666295,
+  "transmit": 417736,
+  "disk": 152187
+}
