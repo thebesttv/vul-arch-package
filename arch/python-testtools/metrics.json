@@ -1,0 +1,17 @@
+{
+  "name": "python-testtools",
+  "version": "2.7.1-1",
+  "depends": [
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs"
+  ],
+  "receive": 205705565,
+  "transmit": 328588,
+  "disk": 7612433
+}
