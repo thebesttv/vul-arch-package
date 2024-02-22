@@ -1,0 +1,19 @@
+{
+  "name": "gtkmm-4.0",
+  "version": "4.12.0-1",
+  "depends": [
+    "gtk4",
+    "pangomm-2.48"
+  ],
+  "makedepends": [
+    "cairomm-1.16-docs",
+    "git",
+    "glibmm-2.68-docs",
+    "meson",
+    "mm-common",
+    "pangomm-2.48-docs"
+  ],
+  "receive": 218414086,
+  "transmit": 348662,
+  "disk": 29578600
+}
