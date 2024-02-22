@@ -1,0 +1,11 @@
+{
+  "name": "perl-ipc-run3",
+  "version": "0.049-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199695696,
+  "transmit": 432136,
+  "disk": 205993
+}
