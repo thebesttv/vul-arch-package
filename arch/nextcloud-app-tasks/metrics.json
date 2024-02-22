@@ -1,0 +1,11 @@
+{
+  "name": "nextcloud-app-tasks",
+  "version": "0.15.0-1",
+  "depends": [],
+  "makedepends": [
+    "nextcloud"
+  ],
+  "receive": 199617695,
+  "transmit": 389922,
+  "disk": 58943929
+}
