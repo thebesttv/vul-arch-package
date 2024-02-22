@@ -1,0 +1,14 @@
+{
+  "name": "ruby-mini_portile",
+  "version": "0.6.2-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake"
+  ],
+  "receive": 199489282,
+  "transmit": 230908,
+  "disk": 133207
+}
