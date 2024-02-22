@@ -1,0 +1,16 @@
+{
+  "name": "libretro-desmume",
+  "version": "6359-1",
+  "depends": [
+    "libgl",
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git",
+    "libpcap",
+    "mesa"
+  ],
+  "receive": 286456762,
+  "transmit": 385341,
+  "disk": 130728198
+}
