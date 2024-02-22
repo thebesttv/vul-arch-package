@@ -1,0 +1,12 @@
+{
+  "name": "man-pages",
+  "version": "6.06-2",
+  "depends": [],
+  "makedepends": [
+    "man2html",
+    "git"
+  ],
+  "receive": 202760029,
+  "transmit": 279365,
+  "disk": 20910912
+}
