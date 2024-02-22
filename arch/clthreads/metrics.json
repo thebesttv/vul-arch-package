@@ -1,0 +1,12 @@
+{
+  "name": "clthreads",
+  "version": "2.4.2-5",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199489084,
+  "transmit": 264279,
+  "disk": 169016
+}
