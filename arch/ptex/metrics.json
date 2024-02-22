@@ -1,0 +1,17 @@
+{
+  "name": "ptex",
+  "version": "2.4.2-2",
+  "depends": [
+    "zlib",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "doxygen",
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199693787,
+  "transmit": 444702,
+  "disk": 1992863
+}
