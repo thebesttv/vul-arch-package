@@ -1,0 +1,22 @@
+{
+  "name": "python-pydrive2",
+  "version": "1.17.0-1",
+  "depends": [
+    "python",
+    "python-google-api-python-client",
+    "python-oauth2client",
+    "python-pyaml",
+    "python-pyopenssl"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-setuptools-scm"
+  ],
+  "receive": 199657912,
+  "transmit": 411741,
+  "disk": 10283002
+}
