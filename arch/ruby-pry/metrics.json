@@ -1,0 +1,14 @@
+{
+  "name": "ruby-pry",
+  "version": "0.14.2-2",
+  "depends": [
+    "ruby-coderay",
+    "ruby-method_source"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199508014,
+  "transmit": 233731,
+  "disk": 12959821
+}
