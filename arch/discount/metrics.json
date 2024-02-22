@@ -1,0 +1,11 @@
+{
+  "name": "discount",
+  "version": "3.0.0.d-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199583950,
+  "transmit": 293668,
+  "disk": 731431
+}
