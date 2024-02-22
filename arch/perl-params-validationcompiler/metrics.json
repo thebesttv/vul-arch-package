@@ -1,0 +1,13 @@
+{
+  "name": "perl-params-validationcompiler",
+  "version": "0.31-2",
+  "depends": [
+    "perl-role-tiny",
+    "perl-eval-closure",
+    "perl-exception-class"
+  ],
+  "makedepends": [],
+  "receive": 199618049,
+  "transmit": 392912,
+  "disk": 438639
+}
