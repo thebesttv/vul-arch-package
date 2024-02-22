@@ -1,0 +1,20 @@
+{
+  "name": "certbot-nginx",
+  "version": "2.8.0-1",
+  "depends": [
+    "certbot=2.8.0",
+    "python-acme=2.8.0",
+    "python-pyopenssl",
+    "python-pyparsing",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-wheel",
+    "python-installer"
+  ],
+  "receive": 291167038,
+  "transmit": 599537,
+  "disk": 101890947
+}
