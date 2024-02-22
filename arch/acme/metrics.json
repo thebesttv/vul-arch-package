@@ -1,0 +1,12 @@
+{
+  "name": "acme",
+  "version": "2023.03.05-1",
+  "depends": [],
+  "makedepends": [
+    "setconf",
+    "subversion"
+  ],
+  "receive": 199635170,
+  "transmit": 389664,
+  "disk": 6964750
+}
