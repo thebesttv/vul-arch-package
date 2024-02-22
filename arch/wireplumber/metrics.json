@@ -1,0 +1,20 @@
+{
+  "name": "wireplumber",
+  "version": "0.4.17-1",
+  "depends": [],
+  "makedepends": [
+    "doxygen",
+    "git",
+    "glib2",
+    "gobject-introspection",
+    "graphviz",
+    "lua",
+    "meson",
+    "pipewire",
+    "python-lxml",
+    "systemd"
+  ],
+  "receive": 199688457,
+  "transmit": 389505,
+  "disk": 8144885
+}
