@@ -1,0 +1,15 @@
+{
+  "name": "ibus-rime",
+  "version": "1.5.0-1",
+  "depends": [
+    "ibus",
+    "libnotify",
+    "librime"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199649605,
+  "transmit": 372650,
+  "disk": 241270
+}
