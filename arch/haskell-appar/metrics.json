@@ -1,0 +1,13 @@
+{
+  "name": "haskell-appar",
+  "version": "0.1.8-13",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199570660,
+  "transmit": 292876,
+  "disk": 132443
+}
