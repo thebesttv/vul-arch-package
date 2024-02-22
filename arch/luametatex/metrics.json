@@ -1,0 +1,13 @@
+{
+  "name": "luametatex",
+  "version": "2.11.01-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199578748,
+  "transmit": 361123,
+  "disk": 21644323
+}
