@@ -1,0 +1,11 @@
+{
+  "name": "ipcalc",
+  "version": "0.51-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199734775,
+  "transmit": 441253,
+  "disk": 174955
+}
