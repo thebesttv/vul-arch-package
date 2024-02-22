@@ -1,0 +1,14 @@
+{
+  "name": "opensmtpd-filter-rspamd",
+  "version": "0.1.8-1",
+  "depends": [
+    "glibc",
+    "rspamd"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 200030031,
+  "transmit": 639925,
+  "disk": 131549
+}
