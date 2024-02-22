@@ -1,0 +1,35 @@
+{
+  "name": "kea",
+  "version": "2.4.1-1",
+  "depends": [
+    "log4cplus",
+    "mariadb-libs",
+    "openssl",
+    "postgresql-libs"
+  ],
+  "makedepends": [
+    "boost",
+    "mariadb",
+    "postgresql",
+    "python",
+    "python-sphinx",
+    "python-sphinx_rtd_theme",
+    "doxygen",
+    "graphviz",
+    "texlive-bibtexextra",
+    "texlive-basic",
+    "texlive-fontsextra",
+    "texlive-formatsextra",
+    "texlive-games",
+    "texlive-humanities",
+    "texlive-latexextra",
+    "texlive-music",
+    "texlive-pictures",
+    "texlive-pstricks",
+    "texlive-publishers",
+    "texlive-science"
+  ],
+  "receive": 199603566,
+  "transmit": 265368,
+  "disk": 63178415
+}
