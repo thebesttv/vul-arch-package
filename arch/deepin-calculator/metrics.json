@@ -1,0 +1,22 @@
+{
+  "name": "deepin-calculator",
+  "version": "5.8.24-4",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "glibc",
+    "gcc-libs",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199582506,
+  "transmit": 300480,
+  "disk": 5757387
+}
