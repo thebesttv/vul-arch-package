@@ -1,0 +1,19 @@
+{
+  "name": "python-pytest-subtests",
+  "version": "0.11.0-1",
+  "depends": [
+    "python-attrs",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199672966,
+  "transmit": 388699,
+  "disk": 520821
+}
