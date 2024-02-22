@@ -1,0 +1,25 @@
+{
+  "name": "glib2",
+  "version": "2.78.4-1",
+  "depends": [
+    "libffi",
+    "libsysprof-capture",
+    "pcre2",
+    "util-linux-libs",
+    "zlib"
+  ],
+  "makedepends": [
+    "dbus",
+    "gettext",
+    "git",
+    "gtk-doc",
+    "libelf",
+    "meson",
+    "python",
+    "shared-mime-info",
+    "util-linux"
+  ],
+  "receive": 296511512,
+  "transmit": 348733,
+  "disk": 153716226
+}
