@@ -1,0 +1,21 @@
+{
+  "name": "pysolfc",
+  "version": "2.21.0-1",
+  "depends": [
+    "python-attrs",
+    "pysolfc-cardsets",
+    "python-configobj",
+    "python-pillow",
+    "python-pysol_cards",
+    "python-random2",
+    "python-six",
+    "tk",
+    "python-pygame"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 219904524,
+  "transmit": 526998,
+  "disk": 53140826
+}
