@@ -1,0 +1,15 @@
+{
+  "name": "haskell-universe-reverse-instances",
+  "version": "1.1.1-146",
+  "depends": [
+    "ghc-libs",
+    "haskell-universe-base"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199858262,
+  "transmit": 397876,
+  "disk": 253261
+}
