@@ -1,0 +1,19 @@
+{
+  "name": "ruby-activesupport",
+  "version": "6.1.7.6-1",
+  "depends": [
+    "ruby",
+    "ruby-concurrent",
+    "ruby-i18n",
+    "ruby-tzinfo",
+    "ruby-zeitwerk",
+    "ruby-minitest"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rake"
+  ],
+  "receive": 567383519,
+  "transmit": 5318444,
+  "disk": 424037436
+}
