@@ -1,0 +1,14 @@
+{
+  "name": "dnscrypt-proxy",
+  "version": "2.1.5-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 231167510,
+  "transmit": 347417,
+  "disk": 53529459
+}
