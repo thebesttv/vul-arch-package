@@ -1,0 +1,17 @@
+{
+  "name": "telepathy-gabble",
+  "version": "0.18.4-4",
+  "depends": [
+    "telepathy-glib",
+    "libsoup",
+    "libnice"
+  ],
+  "makedepends": [
+    "libxslt",
+    "python",
+    "gnome-common"
+  ],
+  "receive": 199793719,
+  "transmit": 413586,
+  "disk": 16437658
+}
