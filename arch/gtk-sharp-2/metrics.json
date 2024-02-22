@@ -1,0 +1,14 @@
+{
+  "name": "gtk-sharp-2",
+  "version": "2.12.45-4",
+  "depends": [
+    "mono",
+    "gtk2"
+  ],
+  "makedepends": [
+    "monodoc"
+  ],
+  "receive": 199513237,
+  "transmit": 250818,
+  "disk": 24504148
+}
