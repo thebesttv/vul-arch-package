@@ -1,0 +1,13 @@
+{
+  "name": "opensmtpd-filter-senderscore",
+  "version": "0.1.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199546368,
+  "transmit": 290800,
+  "disk": 138661
+}
