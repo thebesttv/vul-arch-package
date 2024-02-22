@@ -1,0 +1,13 @@
+{
+  "name": "haskell-ieee754",
+  "version": "0.8.0-23",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199523709,
+  "transmit": 282923,
+  "disk": 219174
+}
