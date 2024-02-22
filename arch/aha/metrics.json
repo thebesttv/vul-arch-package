@@ -1,0 +1,11 @@
+{
+  "name": "aha",
+  "version": "0.5.1-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199675895,
+  "transmit": 411537,
+  "disk": 948609
+}
