@@ -1,0 +1,19 @@
+{
+  "name": "python-pygame-sdl2",
+  "version": "1:2.1.0.r436.7aa1e5a-1",
+  "depends": [
+    "python",
+    "sdl2_image",
+    "sdl2_mixer",
+    "sdl2_ttf"
+  ],
+  "makedepends": [
+    "cython",
+    "git",
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 199712258,
+  "transmit": 399404,
+  "disk": 5226901
+}
