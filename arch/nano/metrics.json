@@ -1,0 +1,13 @@
+{
+  "name": "nano",
+  "version": "7.2-1",
+  "depends": [
+    "ncurses",
+    "file",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199883148,
+  "transmit": 389071,
+  "disk": 14922208
+}
