@@ -1,0 +1,13 @@
+{
+  "name": "dummyhttp",
+  "version": "1.0.3-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199904984,
+  "transmit": 640695,
+  "disk": 926187
+}
