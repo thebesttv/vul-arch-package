@@ -1,0 +1,12 @@
+{
+  "name": "routino",
+  "version": "3.4.1-1",
+  "depends": [
+    "zlib",
+    "bzip2"
+  ],
+  "makedepends": [],
+  "receive": 199843446,
+  "transmit": 543250,
+  "disk": 8629335
+}
