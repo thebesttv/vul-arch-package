@@ -1,0 +1,11 @@
+{
+  "name": "glulxe-term",
+  "version": "1:0.6.1-1",
+  "depends": [
+    "libglkterm"
+  ],
+  "makedepends": [],
+  "receive": 199597482,
+  "transmit": 342865,
+  "disk": 678838
+}
