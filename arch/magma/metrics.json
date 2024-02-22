@@ -1,0 +1,23 @@
+{
+  "name": "magma",
+  "version": "2.7.2-3",
+  "depends": [
+    "blas",
+    "lapack"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "ninja",
+    "python",
+    "gcc-fortran",
+    "cuda",
+    "rocm-core",
+    "hip-runtime-amd",
+    "hipblas",
+    "hipsparse"
+  ],
+  "receive": 294302577,
+  "transmit": 789529,
+  "disk": 125327085
+}
