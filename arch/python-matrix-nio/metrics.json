@@ -1,0 +1,24 @@
+{
+  "name": "python-matrix-nio",
+  "version": "0.24.0-1",
+  "depends": [
+    "python",
+    "python-aiofiles",
+    "python-aiohttp",
+    "python-aiohttp-socks",
+    "python-h11",
+    "python-h2",
+    "python-jsonschema",
+    "python-pycryptodome",
+    "python-unpaddedbase64"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199610885,
+  "transmit": 352756,
+  "disk": 12546901
+}
