@@ -1,0 +1,21 @@
+{
+  "name": "networkmanager-openconnect",
+  "version": "1.2.10-1",
+  "depends": [
+    "libnm",
+    "libsecret",
+    "openconnect"
+  ],
+  "makedepends": [
+    "gcr",
+    "git",
+    "intltool",
+    "libnma",
+    "libnma-gtk4",
+    "python",
+    "webkit2gtk-4.1"
+  ],
+  "receive": 199570800,
+  "transmit": 311578,
+  "disk": 30712930
+}
