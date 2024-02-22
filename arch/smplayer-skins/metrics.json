@@ -1,0 +1,11 @@
+{
+  "name": "smplayer-skins",
+  "version": "1:20.11.0-2",
+  "depends": [
+    "smplayer"
+  ],
+  "makedepends": [],
+  "receive": 199525657,
+  "transmit": 266946,
+  "disk": 2247459
+}
