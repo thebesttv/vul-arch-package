@@ -1,0 +1,16 @@
+{
+  "name": "haskell-gio",
+  "version": "0.13.10.0-19",
+  "depends": [
+    "ghc-libs",
+    "glib2",
+    "haskell-glib"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-gtk2hs-buildtools"
+  ],
+  "receive": 199612456,
+  "transmit": 382094,
+  "disk": 618612
+}
