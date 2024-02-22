@@ -1,0 +1,19 @@
+{
+  "name": "python-doit",
+  "version": "0.36.0-4",
+  "depends": [
+    "ipython",
+    "python",
+    "python-cloudpickle",
+    "python-pyinotify"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199615789,
+  "transmit": 353882,
+  "disk": 4578129
+}
