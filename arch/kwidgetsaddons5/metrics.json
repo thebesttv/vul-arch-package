@@ -1,0 +1,16 @@
+{
+  "name": "kwidgetsaddons5",
+  "version": "5.115.0-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "qt5-doc",
+    "doxygen"
+  ],
+  "receive": 199560947,
+  "transmit": 312397,
+  "disk": 37098620
+}
