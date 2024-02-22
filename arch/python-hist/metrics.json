@@ -1,0 +1,21 @@
+{
+  "name": "python-hist",
+  "version": "2.6.2-3",
+  "depends": [
+    "python-boost-histogram",
+    "python-histoprint",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm",
+    "python-hatchling",
+    "python-hatch-vcs"
+  ],
+  "receive": 199532214,
+  "transmit": 264896,
+  "disk": 10277161
+}
