@@ -1,0 +1,11 @@
+{
+  "name": "aiksaurus",
+  "version": "1.2.1-9",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199665643,
+  "transmit": 392305,
+  "disk": 3599771
+}
