@@ -1,0 +1,13 @@
+{
+  "name": "sops",
+  "version": "3.8.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199572580,
+  "transmit": 345513,
+  "disk": 1360561
+}
