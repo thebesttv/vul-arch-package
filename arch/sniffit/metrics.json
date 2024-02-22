@@ -1,0 +1,14 @@
+{
+  "name": "sniffit",
+  "version": "0.5-3",
+  "depends": [
+    "ncurses",
+    "libpcap"
+  ],
+  "makedepends": [
+    "libtool"
+  ],
+  "receive": 199555597,
+  "transmit": 295841,
+  "disk": 427339
+}
