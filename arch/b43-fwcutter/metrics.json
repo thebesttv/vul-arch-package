@@ -1,0 +1,11 @@
+{
+  "name": "b43-fwcutter",
+  "version": "019-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199750902,
+  "transmit": 522768,
+  "disk": 446376
+}
