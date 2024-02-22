@@ -1,0 +1,15 @@
+{
+  "name": "clipgrab",
+  "version": "3.9.10-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt5-base",
+    "qt5-webengine",
+    "yt-dlp"
+  ],
+  "makedepends": [],
+  "receive": 199806997,
+  "transmit": 453052,
+  "disk": 3183356
+}
