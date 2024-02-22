@@ -1,0 +1,13 @@
+{
+  "name": "python-snowballstemmer",
+  "version": "2.2.0-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199472936,
+  "transmit": 239758,
+  "disk": 1037233
+}
