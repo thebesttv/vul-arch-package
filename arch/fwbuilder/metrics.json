@@ -1,0 +1,16 @@
+{
+  "name": "fwbuilder",
+  "version": "5.3.7-15",
+  "depends": [
+    "libxslt",
+    "net-snmp",
+    "qt5-base",
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "shared-mime-info"
+  ],
+  "makedepends": [],
+  "receive": 207743434,
+  "transmit": 610845,
+  "disk": 43441946
+}
