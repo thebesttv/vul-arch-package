@@ -1,0 +1,13 @@
+{
+  "name": "python-editorconfig",
+  "version": "0.12.3-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199753694,
+  "transmit": 462288,
+  "disk": 165722
+}
