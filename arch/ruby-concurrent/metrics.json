@@ -1,0 +1,13 @@
+{
+  "name": "ruby-concurrent",
+  "version": "1.2.2-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199576179,
+  "transmit": 267006,
+  "disk": 450679
+}
