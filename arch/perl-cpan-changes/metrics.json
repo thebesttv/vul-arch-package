@@ -1,0 +1,11 @@
+{
+  "name": "perl-cpan-changes",
+  "version": "0.400002-5",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199580858,
+  "transmit": 361152,
+  "disk": 234470
+}
