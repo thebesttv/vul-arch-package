@@ -1,0 +1,18 @@
+{
+  "name": "lib32-krb5",
+  "version": "1.21.2-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-gcc-libs",
+    "lib32-e2fsprogs",
+    "lib32-libldap",
+    "lib32-keyutils",
+    "krb5"
+  ],
+  "makedepends": [
+    "perl"
+  ],
+  "receive": 208441591,
+  "transmit": 496813,
+  "disk": 49966455
+}
