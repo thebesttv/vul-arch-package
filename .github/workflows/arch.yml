@@ -3,9 +3,9 @@ name: Arch packages
 on:
   schedule:
     - cron: '33 18 * * *'       # UTC 18:33 => UTC+8 2:33
-  # push:
-  #   branches:
-  #     - 'main'
+  push:
+    branches:
+      - 'main'
   workflow_dispatch:
 
 concurrency:
