@@ -1,0 +1,11 @@
+{
+  "name": "kakasi",
+  "version": "2.3.6-3",
+  "depends": [
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 200619087,
+  "transmit": 476525,
+  "disk": 5351418
+}
