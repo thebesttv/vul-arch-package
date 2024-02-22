@@ -1,0 +1,13 @@
+{
+  "name": "pdf2svg",
+  "version": "0.2.3-5",
+  "depends": [
+    "poppler-glib",
+    "glib2",
+    "cairo"
+  ],
+  "makedepends": [],
+  "receive": 199882525,
+  "transmit": 406062,
+  "disk": 509942
+}
