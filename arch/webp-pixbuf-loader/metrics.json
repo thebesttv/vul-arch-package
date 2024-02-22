@@ -1,0 +1,14 @@
+{
+  "name": "webp-pixbuf-loader",
+  "version": "0.2.5-1",
+  "depends": [
+    "gdk-pixbuf2",
+    "libwebp"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199692509,
+  "transmit": 434782,
+  "disk": 18444539
+}
