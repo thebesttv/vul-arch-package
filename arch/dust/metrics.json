@@ -1,0 +1,14 @@
+{
+  "name": "dust",
+  "version": "0.9.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199477547,
+  "transmit": 234093,
+  "disk": 1533700
+}
