@@ -1,0 +1,14 @@
+{
+  "name": "tokei",
+  "version": "12.1.2-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust",
+    "cargo"
+  ],
+  "receive": 199710789,
+  "transmit": 462549,
+  "disk": 640616
+}
