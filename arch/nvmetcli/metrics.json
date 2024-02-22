@@ -1,0 +1,15 @@
+{
+  "name": "nvmetcli",
+  "version": "0.8-2",
+  "depends": [
+    "python-configshell-fb",
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199693105,
+  "transmit": 422579,
+  "disk": 478640
+}
