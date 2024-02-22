@@ -1,0 +1,16 @@
+{
+  "name": "noise-repellent",
+  "version": "0.2.3-2",
+  "depends": [
+    "glibc",
+    "libspecbleach",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "lv2",
+    "meson"
+  ],
+  "receive": 199523546,
+  "transmit": 269759,
+  "disk": 214774
+}
