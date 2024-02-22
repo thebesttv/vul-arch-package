@@ -1,0 +1,16 @@
+{
+  "name": "ruby-yard",
+  "version": "0.9.34-1",
+  "depends": [
+    "ruby",
+    "ruby-rdoc",
+    "ruby-webrick"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-samus"
+  ],
+  "receive": 199551614,
+  "transmit": 335143,
+  "disk": 5026123
+}
