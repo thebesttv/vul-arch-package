@@ -1,0 +1,14 @@
+{
+  "name": "hitch",
+  "version": "1.8.0-1",
+  "depends": [
+    "libev",
+    "openssl"
+  ],
+  "makedepends": [
+    "python-docutils"
+  ],
+  "receive": 199687317,
+  "transmit": 432680,
+  "disk": 1865411
+}
