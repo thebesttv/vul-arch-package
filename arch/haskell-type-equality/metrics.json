@@ -1,0 +1,13 @@
+{
+  "name": "haskell-type-equality",
+  "version": "1-12",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199571962,
+  "transmit": 275489,
+  "disk": 140750
+}
