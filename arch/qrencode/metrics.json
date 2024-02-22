@@ -1,0 +1,13 @@
+{
+  "name": "qrencode",
+  "version": "4.1.1-2",
+  "depends": [
+    "libpng"
+  ],
+  "makedepends": [
+    "sdl2"
+  ],
+  "receive": 199679400,
+  "transmit": 437608,
+  "disk": 3280244
+}
