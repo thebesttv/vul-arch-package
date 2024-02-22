@@ -1,0 +1,13 @@
+{
+  "name": "libsbsms",
+  "version": "2.3.0-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199544667,
+  "transmit": 290877,
+  "disk": 2332114
+}
