@@ -1,0 +1,17 @@
+{
+  "name": "qxmledit",
+  "version": "0.9.18-1",
+  "depends": [
+    "glu",
+    "hicolor-icon-theme",
+    "qt5-scxml",
+    "qt5-svg",
+    "qt5-xmlpatterns"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 219690747,
+  "transmit": 545555,
+  "disk": 57490541
+}
