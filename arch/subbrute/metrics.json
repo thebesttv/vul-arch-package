@@ -1,0 +1,13 @@
+{
+  "name": "subbrute",
+  "version": "1.2.1-3",
+  "depends": [
+    "python-dnspython"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199547250,
+  "transmit": 297042,
+  "disk": 22215562
+}
