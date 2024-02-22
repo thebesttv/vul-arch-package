@@ -1,0 +1,35 @@
+{
+  "name": "eog",
+  "version": "45.2-1",
+  "depends": [
+    "cairo",
+    "dconf",
+    "exempi",
+    "gdk-pixbuf2",
+    "glib2",
+    "gnome-desktop",
+    "gtk3",
+    "hicolor-icon-theme",
+    "lcms2",
+    "libexif",
+    "libgirepository",
+    "libhandy",
+    "libjpeg-turbo",
+    "libpeas",
+    "librsvg",
+    "libx11",
+    "webp-pixbuf-loader",
+    "zlib"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "systemd",
+    "yelp-tools"
+  ],
+  "receive": 236814652,
+  "transmit": 623891,
+  "disk": 55209539
+}
