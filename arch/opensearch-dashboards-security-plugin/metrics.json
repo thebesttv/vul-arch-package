@@ -1,0 +1,16 @@
+{
+  "name": "opensearch-dashboards-security-plugin",
+  "version": "2.11.1.0-1",
+  "depends": [
+    "opensearch-dashboards=2.11.1"
+  ],
+  "makedepends": [
+    "yarn",
+    "npm",
+    "python",
+    "git"
+  ],
+  "receive": 3421924658,
+  "transmit": 23615464,
+  "disk": 4002393685
+}
