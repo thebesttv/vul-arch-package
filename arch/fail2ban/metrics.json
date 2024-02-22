@@ -1,0 +1,16 @@
+{
+  "name": "fail2ban",
+  "version": "1.0.2-4",
+  "depends": [
+    "python-pyinotify",
+    "whois",
+    "sqlite",
+    "python-systemd"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199528829,
+  "transmit": 251855,
+  "disk": 3064981
+}
