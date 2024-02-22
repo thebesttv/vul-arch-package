@@ -1,0 +1,13 @@
+{
+  "name": "ruby-colorize",
+  "version": "1.0.4-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199591753,
+  "transmit": 373264,
+  "disk": 239651
+}
