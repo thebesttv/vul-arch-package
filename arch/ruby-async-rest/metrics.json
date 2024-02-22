@@ -1,0 +1,12 @@
+{
+  "name": "ruby-async-rest",
+  "version": "0.12.4-2",
+  "depends": [
+    "ruby-async-http",
+    "ruby-protocol-http"
+  ],
+  "makedepends": [],
+  "receive": 199644628,
+  "transmit": 387106,
+  "disk": 205107
+}
