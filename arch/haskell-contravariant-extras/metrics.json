@@ -1,0 +1,16 @@
+{
+  "name": "haskell-contravariant-extras",
+  "version": "0.3.5.4-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-contravariant",
+    "haskell-template-haskell-compat-v0208"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199666689,
+  "transmit": 377098,
+  "disk": 179583
+}
