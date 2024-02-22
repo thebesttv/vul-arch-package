@@ -1,0 +1,12 @@
+{
+  "name": "notify-sharp-3",
+  "version": "3.0.3-4",
+  "depends": [
+    "gtk-sharp-3",
+    "dbus-sharp-glib"
+  ],
+  "makedepends": [],
+  "receive": 199630258,
+  "transmit": 389412,
+  "disk": 609244
+}
