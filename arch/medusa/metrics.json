@@ -1,0 +1,17 @@
+{
+  "name": "medusa",
+  "version": "2.2-12",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "libssh2",
+    "postgresql-libs",
+    "afpfs-ng",
+    "subversion",
+    "freerdp"
+  ],
+  "receive": 199533228,
+  "transmit": 253015,
+  "disk": 2336736
+}
