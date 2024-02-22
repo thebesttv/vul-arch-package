@@ -1,0 +1,19 @@
+{
+  "name": "python-cson",
+  "version": "0.8-6",
+  "depends": [
+    "python",
+    "python-six",
+    "python-speg"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-pytest",
+    "python-pytest-cov",
+    "python-speg"
+  ],
+  "receive": 199833885,
+  "transmit": 509206,
+  "disk": 351237
+}
