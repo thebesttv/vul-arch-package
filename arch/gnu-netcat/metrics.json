@@ -1,0 +1,12 @@
+{
+  "name": "gnu-netcat",
+  "version": "0.7.1-9",
+  "depends": [
+    "glibc",
+    "texinfo"
+  ],
+  "makedepends": [],
+  "receive": 199668820,
+  "transmit": 299793,
+  "disk": 2047433
+}
