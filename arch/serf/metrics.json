@@ -1,0 +1,13 @@
+{
+  "name": "serf",
+  "version": "1.3.10-1",
+  "depends": [
+    "apr-util"
+  ],
+  "makedepends": [
+    "scons"
+  ],
+  "receive": 199527200,
+  "transmit": 275224,
+  "disk": 1257493
+}
