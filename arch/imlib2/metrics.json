@@ -1,0 +1,27 @@
+{
+  "name": "imlib2",
+  "version": "1.12.2-1",
+  "depends": [
+    "bzip2",
+    "freetype2",
+    "giflib",
+    "libjpeg-turbo",
+    "libpng",
+    "libtiff",
+    "libxext",
+    "xz"
+  ],
+  "makedepends": [
+    "highway",
+    "libheif",
+    "libid3tag",
+    "libjxl",
+    "librsvg",
+    "libspectre",
+    "libwebp",
+    "openjpeg2"
+  ],
+  "receive": 199580889,
+  "transmit": 304285,
+  "disk": 5654365
+}
