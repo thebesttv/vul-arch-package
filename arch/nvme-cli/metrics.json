@@ -1,0 +1,20 @@
+{
+  "name": "nvme-cli",
+  "version": "2.8-1",
+  "depends": [
+    "util-linux",
+    "libsystemd",
+    "libnvme"
+  ],
+  "makedepends": [
+    "systemd",
+    "meson",
+    "git",
+    "asciidoc",
+    "xmlto",
+    "swig"
+  ],
+  "receive": 199837551,
+  "transmit": 557487,
+  "disk": 8919775
+}
