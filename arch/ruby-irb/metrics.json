@@ -1,0 +1,14 @@
+{
+  "name": "ruby-irb",
+  "version": "1.4.2-1",
+  "depends": [
+    "ruby",
+    "ruby-reline"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199657877,
+  "transmit": 401156,
+  "disk": 660659
+}
