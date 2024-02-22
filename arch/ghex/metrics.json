@@ -1,0 +1,17 @@
+{
+  "name": "ghex",
+  "version": "45.1-1",
+  "depends": [
+    "libadwaita"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199595121,
+  "transmit": 317213,
+  "disk": 15400483
+}
