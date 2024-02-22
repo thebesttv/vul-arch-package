@@ -1,0 +1,14 @@
+{
+  "name": "soft-serve",
+  "version": "0.7.4-1",
+  "depends": [
+    "glibc",
+    "git"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199604553,
+  "transmit": 361315,
+  "disk": 4460745
+}
