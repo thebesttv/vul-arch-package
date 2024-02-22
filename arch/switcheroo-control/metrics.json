@@ -1,0 +1,20 @@
+{
+  "name": "switcheroo-control",
+  "version": "2.6-4",
+  "depends": [
+    "glib2",
+    "libgudev",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "git",
+    "gtk-doc",
+    "meson",
+    "python-dbus",
+    "python-dbusmock",
+    "systemd"
+  ],
+  "receive": 199805803,
+  "transmit": 446747,
+  "disk": 572966
+}
