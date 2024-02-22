@@ -1,0 +1,16 @@
+{
+  "name": "sxiv",
+  "version": "26-1",
+  "depends": [
+    "imlib2",
+    "desktop-file-utils",
+    "xdg-utils",
+    "hicolor-icon-theme",
+    "libexif",
+    "libxft"
+  ],
+  "makedepends": [],
+  "receive": 199668584,
+  "transmit": 404670,
+  "disk": 334068
+}
