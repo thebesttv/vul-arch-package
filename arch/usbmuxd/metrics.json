@@ -1,0 +1,16 @@
+{
+  "name": "usbmuxd",
+  "version": "1.1.1-3",
+  "depends": [
+    "libimobiledevice",
+    "libusb",
+    "libplist"
+  ],
+  "makedepends": [
+    "git",
+    "systemd"
+  ],
+  "receive": 199583005,
+  "transmit": 345035,
+  "disk": 1660289
+}
