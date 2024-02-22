@@ -1,0 +1,13 @@
+{
+  "name": "ruby-diff-lcs",
+  "version": "1.5.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199690394,
+  "transmit": 428512,
+  "disk": 382017
+}
