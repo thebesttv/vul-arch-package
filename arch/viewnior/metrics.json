@@ -1,0 +1,14 @@
+{
+  "name": "viewnior",
+  "version": "1.8-5",
+  "depends": [
+    "gtk2",
+    "exiv2"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199615886,
+  "transmit": 370366,
+  "disk": 1286063
+}
