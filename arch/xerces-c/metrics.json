@@ -1,0 +1,14 @@
+{
+  "name": "xerces-c",
+  "version": "3.2.5-1",
+  "depends": [
+    "gcc-libs",
+    "curl",
+    "libnsl",
+    "icu"
+  ],
+  "makedepends": [],
+  "receive": 207370940,
+  "transmit": 483310,
+  "disk": 50172668
+}
