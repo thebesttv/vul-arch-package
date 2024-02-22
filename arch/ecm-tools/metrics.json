@@ -1,0 +1,13 @@
+{
+  "name": "ecm-tools",
+  "version": "1.03-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199690454,
+  "transmit": 449620,
+  "disk": 367793
+}
