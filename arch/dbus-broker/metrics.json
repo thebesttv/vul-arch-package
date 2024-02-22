@@ -1,0 +1,18 @@
+{
+  "name": "dbus-broker",
+  "version": "35-2",
+  "depends": [
+    "audit",
+    "libcap-ng",
+    "expat",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "meson",
+    "python-docutils",
+    "systemd"
+  ],
+  "receive": 199530470,
+  "transmit": 279636,
+  "disk": 2515447
+}
