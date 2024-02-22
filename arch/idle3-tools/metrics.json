@@ -1,0 +1,11 @@
+{
+  "name": "idle3-tools",
+  "version": "0.9.1-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199758412,
+  "transmit": 507315,
+  "disk": 179756
+}
