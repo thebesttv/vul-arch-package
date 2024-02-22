@@ -1,0 +1,20 @@
+{
+  "name": "leatherman",
+  "version": "1.12.9-3",
+  "depends": [
+    "boost-libs",
+    "libcurl.so",
+    "icu",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "rapidjson",
+    "python"
+  ],
+  "receive": 199618778,
+  "transmit": 334921,
+  "disk": 3229280
+}
