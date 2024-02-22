@@ -1,0 +1,14 @@
+{
+  "name": "perl-test-distmanifest",
+  "version": "1.014-5",
+  "depends": [
+    "perl",
+    "perl-module-manifest"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199536864,
+  "transmit": 259660,
+  "disk": 329249
+}
