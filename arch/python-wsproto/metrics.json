@@ -1,0 +1,13 @@
+{
+  "name": "python-wsproto",
+  "version": "1.2.0-2",
+  "depends": [
+    "python-h11"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199513075,
+  "transmit": 280310,
+  "disk": 435860
+}
