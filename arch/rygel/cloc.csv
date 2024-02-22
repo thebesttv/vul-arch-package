@@ -1,0 +1,20 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.33 s (1559.3 files/s 493226.8 lines/s)"
+66,PO File,19649,32997,48185
+331,Vala,7628,11342,32381
+19,XML,205,119,1750
+47,Meson,162,40,1585
+3,SVG,3,3,1136
+10,C,311,275,967
+1,Glade,0,4,405
+14,Bourne Shell,86,249,375
+5,Python,64,101,198
+1,JSON,0,0,128
+4,C/C++ Header,50,76,106
+1,Perl,31,42,101
+2,Markdown,13,2,77
+1,Vala Header,13,27,29
+1,Bourne Again Shell,5,18,18
+1,INI,4,0,12
+1,Text,0,0,12
+1,YAML,3,5,11
+509,SUM,28227,45300,87476

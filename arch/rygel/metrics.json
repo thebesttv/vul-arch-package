@@ -1,0 +1,25 @@
+{
+  "name": "rygel",
+  "version": "1:0.42.5-1",
+  "depends": [
+    "gst-editing-services",
+    "gtk3",
+    "gupnp",
+    "gupnp-av",
+    "gupnp-dlna",
+    "libgee",
+    "libmediaart",
+    "libsoup3",
+    "libunistring",
+    "tracker3"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199807326,
+  "transmit": 397304,
+  "disk": 20127385
+}
