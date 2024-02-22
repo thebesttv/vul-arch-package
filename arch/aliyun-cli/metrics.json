@@ -1,0 +1,14 @@
+{
+  "name": "aliyun-cli",
+  "version": "3.0.198-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 244747169,
+  "transmit": 452921,
+  "disk": 96009118
+}
