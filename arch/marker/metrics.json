@@ -1,0 +1,17 @@
+{
+  "name": "marker",
+  "version": "2023.05.02-1",
+  "depends": [
+    "gtksourceview3",
+    "gtkspell3",
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "itstool"
+  ],
+  "receive": 248167998,
+  "transmit": 338178,
+  "disk": 71770243
+}
