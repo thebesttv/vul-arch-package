@@ -1,0 +1,19 @@
+{
+  "name": "vidcutter",
+  "version": "6.0.5.1-7",
+  "depends": [
+    "ffmpeg",
+    "mediainfo",
+    "mpv",
+    "python-opengl",
+    "python-pyqt5",
+    "python-simplejson"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 213160522,
+  "transmit": 495655,
+  "disk": 36136089
+}
