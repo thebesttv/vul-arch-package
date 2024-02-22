@@ -1,0 +1,12 @@
+{
+  "name": "flatpak-xdg-utils",
+  "version": "1.0.5-1",
+  "depends": [],
+  "makedepends": [
+    "ninja",
+    "meson"
+  ],
+  "receive": 199527639,
+  "transmit": 290439,
+  "disk": 359137
+}
