@@ -1,0 +1,13 @@
+{
+  "name": "bats-file",
+  "version": "0.4.0-1",
+  "depends": [
+    "bash",
+    "bats",
+    "bats-support"
+  ],
+  "makedepends": [],
+  "receive": 199556570,
+  "transmit": 293713,
+  "disk": 326651
+}
