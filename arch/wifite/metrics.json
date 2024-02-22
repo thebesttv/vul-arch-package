@@ -1,0 +1,20 @@
+{
+  "name": "wifite",
+  "version": "2:2.7.0-1",
+  "depends": [
+    "python",
+    "python-chardet",
+    "aircrack-ng",
+    "iproute2",
+    "iw"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199521737,
+  "transmit": 249124,
+  "disk": 7175041
+}
