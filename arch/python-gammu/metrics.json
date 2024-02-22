@@ -1,0 +1,14 @@
+{
+  "name": "python-gammu",
+  "version": "3.2.4-2",
+  "depends": [
+    "python",
+    "gammu"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199774761,
+  "transmit": 333413,
+  "disk": 1067207
+}
