@@ -1,0 +1,16 @@
+{
+  "name": "kcoreaddons5",
+  "version": "5.115.0-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "qt5-doc",
+    "doxygen"
+  ],
+  "receive": 199618326,
+  "transmit": 337941,
+  "disk": 28339310
+}
