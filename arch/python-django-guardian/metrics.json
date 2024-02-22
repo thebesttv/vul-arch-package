@@ -1,0 +1,14 @@
+{
+  "name": "python-django-guardian",
+  "version": "2.4.0-4",
+  "depends": [
+    "python-django",
+    "python-django-environ"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199819097,
+  "transmit": 447551,
+  "disk": 1209877
+}
