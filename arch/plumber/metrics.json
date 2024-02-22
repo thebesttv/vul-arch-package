@@ -1,0 +1,14 @@
+{
+  "name": "plumber",
+  "version": "2.5.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 225156092,
+  "transmit": 581448,
+  "disk": 104197661
+}
