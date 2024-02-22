@@ -1,0 +1,23 @@
+{
+  "name": "imv",
+  "version": "4.4.0-4",
+  "depends": [
+    "freeimage",
+    "glu",
+    "libheif",
+    "libinih",
+    "librsvg",
+    "libxkbcommon",
+    "libxkbcommon-x11",
+    "pango"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "cmake",
+    "cmocka",
+    "meson"
+  ],
+  "receive": 199697721,
+  "transmit": 445094,
+  "disk": 555115
+}
