@@ -1,0 +1,18 @@
+{
+  "name": "cutefish-statusbar",
+  "version": "0.7-1",
+  "depends": [
+    "fishui",
+    "libcutefish",
+    "libdbusmenu-qt5",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199677947,
+  "transmit": 439494,
+  "disk": 840478
+}
