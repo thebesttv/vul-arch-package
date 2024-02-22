@@ -1,0 +1,18 @@
+{
+  "name": "perl-path-isdev",
+  "version": "1.001003-6",
+  "depends": [
+    "perl-class-tiny",
+    "perl-file-homedir",
+    "perl-module-runtime",
+    "perl-path-tiny",
+    "perl-role-tiny",
+    "perl-sub-exporter"
+  ],
+  "makedepends": [
+    "perl-test-fatal"
+  ],
+  "receive": 199725945,
+  "transmit": 413706,
+  "disk": 835838
+}
