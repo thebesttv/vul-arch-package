@@ -1,0 +1,11 @@
+{
+  "name": "vicious",
+  "version": "2.7.0-1",
+  "depends": [
+    "lua53"
+  ],
+  "makedepends": [],
+  "receive": 199730217,
+  "transmit": 401122,
+  "disk": 485843
+}
