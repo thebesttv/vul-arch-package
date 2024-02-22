@@ -1,0 +1,16 @@
+{
+  "name": "python-astropy-iers-data",
+  "version": "0.2024.02.05.00.30.52-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199488345,
+  "transmit": 250794,
+  "disk": 10582446
+}
