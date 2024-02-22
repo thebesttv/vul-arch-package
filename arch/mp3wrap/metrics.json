@@ -1,0 +1,11 @@
+{
+  "name": "mp3wrap",
+  "version": "0.5-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199547472,
+  "transmit": 250745,
+  "disk": 658393
+}
