@@ -1,0 +1,11 @@
+{
+  "name": "osv-scanner",
+  "version": "1.6.2-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199671507,
+  "transmit": 408419,
+  "disk": 11561967
+}
