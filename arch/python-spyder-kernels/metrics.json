@@ -1,0 +1,22 @@
+{
+  "name": "python-spyder-kernels",
+  "version": "2.4.4-1",
+  "depends": [
+    "cython",
+    "ipython",
+    "python-cloudpickle",
+    "python-ipykernel",
+    "python-jupyter_client",
+    "python-matplotlib",
+    "python-pandas",
+    "python-pyzmq",
+    "python-wurlitzer"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 199726134,
+  "transmit": 414290,
+  "disk": 708489
+}
