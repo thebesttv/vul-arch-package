@@ -1,0 +1,26 @@
+{
+  "name": "python-johnnycanencrypt",
+  "version": "0.14.1-1",
+  "depends": [
+    "bzip2",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "nettle",
+    "pcsclite",
+    "python",
+    "python-httpx"
+  ],
+  "makedepends": [
+    "clang",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-rust",
+    "python-wheel",
+    "rust"
+  ],
+  "receive": 199531059,
+  "transmit": 270398,
+  "disk": 1011406
+}
