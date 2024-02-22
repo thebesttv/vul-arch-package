@@ -1,0 +1,16 @@
+{
+  "name": "lib32-taglib",
+  "version": "2.0-2",
+  "depends": [
+    "taglib",
+    "lib32-zlib",
+    "lib32-gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "utf8cpp"
+  ],
+  "receive": 199599394,
+  "transmit": 318477,
+  "disk": 5945237
+}
