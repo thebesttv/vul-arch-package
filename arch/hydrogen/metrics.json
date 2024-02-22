@@ -1,0 +1,30 @@
+{
+  "name": "hydrogen",
+  "version": "1.2.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "qt5-svg",
+    "qt5-xmlpatterns"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "jack",
+    "ladspa",
+    "libarchive",
+    "liblo",
+    "liblrdf",
+    "libpulse",
+    "libsndfile",
+    "portaudio",
+    "portmidi",
+    "python",
+    "qt5-tools"
+  ],
+  "receive": 199719867,
+  "transmit": 428101,
+  "disk": 41881828
+}
