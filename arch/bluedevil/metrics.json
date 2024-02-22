@@ -1,0 +1,17 @@
+{
+  "name": "bluedevil",
+  "version": "1:5.27.10-3",
+  "depends": [
+    "bluez-qt5",
+    "kdeclarative5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "plasma-framework5",
+    "kdoctools5",
+    "kcmutils5"
+  ],
+  "receive": 199870370,
+  "transmit": 469034,
+  "disk": 3622656
+}
