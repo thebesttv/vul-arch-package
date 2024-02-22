@@ -1,0 +1,11 @@
+{
+  "name": "vamps",
+  "version": "0.99.2-14",
+  "depends": [
+    "libdvdread"
+  ],
+  "makedepends": [],
+  "receive": 199800127,
+  "transmit": 484537,
+  "disk": 372917
+}
