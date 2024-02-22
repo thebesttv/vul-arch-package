@@ -1,0 +1,14 @@
+{
+  "name": "python-mockito",
+  "version": "1.4.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-pytest",
+    "python-setuptools"
+  ],
+  "receive": 199656024,
+  "transmit": 401110,
+  "disk": 459864
+}
