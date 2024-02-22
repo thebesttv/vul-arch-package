@@ -1,0 +1,14 @@
+{
+  "name": "scummvm-tools",
+  "version": "2.7.0-1",
+  "depends": [
+    "libpng",
+    "wxwidgets-gtk3",
+    "flac",
+    "libvorbis"
+  ],
+  "makedepends": [],
+  "receive": 199569925,
+  "transmit": 306801,
+  "disk": 6741164
+}
