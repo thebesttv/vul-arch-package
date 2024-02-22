@@ -1,0 +1,17 @@
+{
+  "name": "ruby-redcloth",
+  "version": "4.3.3-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ragel",
+    "ruby-rake",
+    "ruby-rake-compiler",
+    "ruby-rspec",
+    "ruby-diff-lcs"
+  ],
+  "receive": 199603111,
+  "transmit": 377049,
+  "disk": 619390
+}
