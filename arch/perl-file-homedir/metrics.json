@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-homedir",
+  "version": "1.006-4",
+  "depends": [
+    "perl-file-which"
+  ],
+  "makedepends": [],
+  "receive": 199626861,
+  "transmit": 416607,
+  "disk": 277859
+}
