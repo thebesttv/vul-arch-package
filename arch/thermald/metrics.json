@@ -1,0 +1,18 @@
+{
+  "name": "thermald",
+  "version": "2.5.6-1",
+  "depends": [
+    "dbus-glib",
+    "libxml2",
+    "libevdev",
+    "upower"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "python",
+    "gtk-doc"
+  ],
+  "receive": 199689654,
+  "transmit": 406805,
+  "disk": 1194556
+}
