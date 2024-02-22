@@ -1,0 +1,14 @@
+{
+  "name": "python-apispec-webframeworks",
+  "version": "0.5.2-7",
+  "depends": [
+    "python-apispec",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199759861,
+  "transmit": 557674,
+  "disk": 156038
+}
