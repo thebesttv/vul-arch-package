@@ -1,0 +1,17 @@
+{
+  "name": "haskell-regex-tdfa",
+  "version": "1.3.2.2-34",
+  "depends": [
+    "ghc-libs",
+    "haskell-regex-base"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-doctest-parallel",
+    "haskell-utf8-string"
+  ],
+  "receive": 199560445,
+  "transmit": 353760,
+  "disk": 730152
+}
