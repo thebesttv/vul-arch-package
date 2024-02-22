@@ -1,0 +1,13 @@
+{
+  "name": "python-pysimplesoap",
+  "version": "1.16.2-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "pandoc"
+  ],
+  "receive": 199751788,
+  "transmit": 446188,
+  "disk": 494642
+}
