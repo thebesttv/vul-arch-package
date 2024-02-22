@@ -1,0 +1,13 @@
+{
+  "name": "upx",
+  "version": "4.2.2-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git",
+    "perl"
+  ],
+  "receive": 266135144,
+  "transmit": 353872,
+  "disk": 157749753
+}
