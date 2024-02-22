@@ -1,0 +1,27 @@
+{
+  "name": "deepin-launchpad",
+  "version": "0.4.3-1",
+  "depends": [
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-quickcontrols2",
+    "qt6-svg",
+    "dtk6core",
+    "dtk6gui",
+    "glib2",
+    "appstream-qt",
+    "dtk6declarative",
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "gtest",
+    "qt6-tools",
+    "clang"
+  ],
+  "receive": 199698139,
+  "transmit": 413116,
+  "disk": 1157506
+}
