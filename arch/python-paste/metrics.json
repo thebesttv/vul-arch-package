@@ -1,0 +1,13 @@
+{
+  "name": "python-paste",
+  "version": "3.5.3-1",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199548054,
+  "transmit": 334194,
+  "disk": 2569193
+}
