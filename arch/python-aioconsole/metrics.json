@@ -1,0 +1,13 @@
+{
+  "name": "python-aioconsole",
+  "version": "0.6.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199584674,
+  "transmit": 378358,
+  "disk": 285868
+}
