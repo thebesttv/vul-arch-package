@@ -1,0 +1,14 @@
+{
+  "name": "openvswitch",
+  "version": "3.2.0-1",
+  "depends": [
+    "openssl",
+    "libcap-ng"
+  ],
+  "makedepends": [
+    "python-six"
+  ],
+  "receive": 207984034,
+  "transmit": 397218,
+  "disk": 88188316
+}
