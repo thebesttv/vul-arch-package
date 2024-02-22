@@ -1,0 +1,13 @@
+{
+  "name": "megaglest-data",
+  "version": "3.13.0-3",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "xz",
+    "git"
+  ],
+  "receive": 801911229,
+  "transmit": 3025931,
+  "disk": 1103219785
+}
