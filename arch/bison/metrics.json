@@ -1,0 +1,14 @@
+{
+  "name": "bison",
+  "version": "3.8.2-6",
+  "depends": [
+    "glibc",
+    "m4",
+    "sh",
+    "gettext"
+  ],
+  "makedepends": [],
+  "receive": 199800929,
+  "transmit": 416252,
+  "disk": 40862145
+}
