@@ -1,0 +1,16 @@
+{
+  "name": "tomcat-native",
+  "version": "2.0.7-1",
+  "depends": [
+    "apr",
+    "openssl"
+  ],
+  "makedepends": [
+    "git",
+    "java-environment",
+    "python"
+  ],
+  "receive": 199683134,
+  "transmit": 382423,
+  "disk": 19639825
+}
