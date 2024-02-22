@@ -1,0 +1,14 @@
+{
+  "name": "layer-shell-qt",
+  "version": "5.27.10-1",
+  "depends": [
+    "qt5-wayland"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "wayland-protocols"
+  ],
+  "receive": 199704997,
+  "transmit": 397401,
+  "disk": 284693
+}
