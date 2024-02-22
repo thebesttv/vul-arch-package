@@ -1,0 +1,26 @@
+{
+  "name": "neovide",
+  "version": "0.12.2-1",
+  "depends": [
+    "gcc-libs",
+    "fontconfig",
+    "libfontconfig.so",
+    "freetype2",
+    "libfreetype.so",
+    "glibc",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "libjpeg",
+    "libjpeg.so",
+    "libxkbcommon",
+    "neovim",
+    "sndio"
+  ],
+  "makedepends": [
+    "cargo",
+    "cmake"
+  ],
+  "receive": 223001977,
+  "transmit": 576324,
+  "disk": 77550586
+}
