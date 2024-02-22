@@ -1,0 +1,17 @@
+{
+  "name": "python-django-appconf",
+  "version": "1.0.6-1",
+  "depends": [
+    "python",
+    "python-django"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199545914,
+  "transmit": 281782,
+  "disk": 186078
+}
