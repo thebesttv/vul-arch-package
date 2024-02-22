@@ -1,0 +1,22 @@
+{
+  "name": "jack-example-tools",
+  "version": "4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "git",
+    "jack2",
+    "libsamplerate",
+    "libsndfile",
+    "meson",
+    "opus",
+    "readline",
+    "zita-alsa-pcmi",
+    "zita-resampler"
+  ],
+  "receive": 199920026,
+  "transmit": 619732,
+  "disk": 2054486
+}
