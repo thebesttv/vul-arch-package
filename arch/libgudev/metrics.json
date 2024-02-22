@@ -1,0 +1,19 @@
+{
+  "name": "libgudev",
+  "version": "238-1",
+  "depends": [
+    "glib2",
+    "systemd"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "umockdev",
+    "vala"
+  ],
+  "receive": 199531972,
+  "transmit": 288490,
+  "disk": 591909
+}
