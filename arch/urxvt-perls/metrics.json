@@ -1,0 +1,13 @@
+{
+  "name": "urxvt-perls",
+  "version": "2.3-2",
+  "depends": [
+    "rxvt-unicode",
+    "perl",
+    "xsel"
+  ],
+  "makedepends": [],
+  "receive": 199514271,
+  "transmit": 248134,
+  "disk": 166253
+}
