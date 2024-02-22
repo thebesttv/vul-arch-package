@@ -1,0 +1,13 @@
+{
+  "name": "libdatrie",
+  "version": "0.2.13-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199670187,
+  "transmit": 413777,
+  "disk": 2355061
+}
