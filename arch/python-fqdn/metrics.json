@@ -1,0 +1,17 @@
+{
+  "name": "python-fqdn",
+  "version": "1.5.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199642140,
+  "transmit": 399986,
+  "disk": 486210
+}
