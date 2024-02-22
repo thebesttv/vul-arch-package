@@ -1,0 +1,17 @@
+{
+  "name": "json-glib",
+  "version": "1.8.0-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson"
+  ],
+  "receive": 199728325,
+  "transmit": 456162,
+  "disk": 3479961
+}
