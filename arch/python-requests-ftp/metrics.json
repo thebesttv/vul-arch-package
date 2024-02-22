@@ -1,0 +1,13 @@
+{
+  "name": "python-requests-ftp",
+  "version": "0.3.1-7",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199693429,
+  "transmit": 448490,
+  "disk": 144439
+}
