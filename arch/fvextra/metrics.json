@@ -1,0 +1,13 @@
+{
+  "name": "fvextra",
+  "version": "1.4-3",
+  "depends": [
+    "texlive-latexextra"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199580516,
+  "transmit": 332727,
+  "disk": 5641439
+}
