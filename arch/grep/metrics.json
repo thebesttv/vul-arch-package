@@ -1,0 +1,14 @@
+{
+  "name": "grep",
+  "version": "3.11-1",
+  "depends": [
+    "glibc",
+    "pcre2"
+  ],
+  "makedepends": [
+    "texinfo"
+  ],
+  "receive": 201557877,
+  "transmit": 469431,
+  "disk": 15185604
+}
