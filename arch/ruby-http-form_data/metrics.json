@@ -1,0 +1,14 @@
+{
+  "name": "ruby-http-form_data",
+  "version": "2.3.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 199869193,
+  "transmit": 549912,
+  "disk": 190597
+}
