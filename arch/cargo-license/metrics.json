@@ -1,0 +1,15 @@
+{
+  "name": "cargo-license",
+  "version": "0.6.1-1",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199634804,
+  "transmit": 401110,
+  "disk": 149464
+}
