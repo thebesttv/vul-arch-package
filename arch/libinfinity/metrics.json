@@ -1,0 +1,20 @@
+{
+  "name": "libinfinity",
+  "version": "0.7.2-2",
+  "depends": [
+    "gnutls",
+    "gsasl",
+    "glib2",
+    "libxml2",
+    "gobject-introspection-runtime"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "gtk3",
+    "avahi",
+    "gobject-introspection"
+  ],
+  "receive": 199633094,
+  "transmit": 362250,
+  "disk": 14707804
+}
