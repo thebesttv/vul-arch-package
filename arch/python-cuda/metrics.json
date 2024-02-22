@@ -1,0 +1,20 @@
+{
+  "name": "python-cuda",
+  "version": "12.1.0-2",
+  "depends": [
+    "cuda",
+    "cython",
+    "python-pyclibrary",
+    "NVIDIA-MODULE"
+  ],
+  "makedepends": [
+    "git",
+    "python-wheel",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm"
+  ],
+  "receive": 199715533,
+  "transmit": 403889,
+  "disk": 24790891
+}
