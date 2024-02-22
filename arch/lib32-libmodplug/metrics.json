@@ -1,0 +1,13 @@
+{
+  "name": "lib32-libmodplug",
+  "version": "0.8.9.0-4",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "libmodplug"
+  ],
+  "makedepends": [],
+  "receive": 199564771,
+  "transmit": 330295,
+  "disk": 3039781
+}
