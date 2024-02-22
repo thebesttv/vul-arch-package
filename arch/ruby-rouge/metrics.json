@@ -1,0 +1,12 @@
+{
+  "name": "ruby-rouge",
+  "version": "4.2.0-1",
+  "depends": [
+    "ruby",
+    "ruby-rdoc"
+  ],
+  "makedepends": [],
+  "receive": 199614082,
+  "transmit": 385333,
+  "disk": 5069625
+}
