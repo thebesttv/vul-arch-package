@@ -1,0 +1,16 @@
+{
+  "name": "smartmontools",
+  "version": "7.4-1",
+  "depends": [
+    "gcc-libs",
+    "libcap-ng",
+    "bash",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 200756810,
+  "transmit": 332933,
+  "disk": 5535545
+}
