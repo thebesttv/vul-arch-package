@@ -1,0 +1,16 @@
+{
+  "name": "arch-wiki-lite",
+  "version": "20240103-1",
+  "depends": [
+    "bash",
+    "gzip"
+  ],
+  "makedepends": [
+    "git",
+    "python",
+    "arch-wiki-docs=20240103"
+  ],
+  "receive": 199525340,
+  "transmit": 263586,
+  "disk": 364260
+}
