@@ -1,0 +1,14 @@
+{
+  "name": "go-task",
+  "version": "3.31.0-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 215734028,
+  "transmit": 453147,
+  "disk": 28701047
+}
