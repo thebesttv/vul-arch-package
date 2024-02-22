@@ -1,0 +1,15 @@
+{
+  "name": "pypinyin",
+  "version": "0.50.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "phrase-pinyin-data",
+    "pinyin-data"
+  ],
+  "receive": 199523125,
+  "transmit": 272253,
+  "disk": 4575152
+}
