@@ -1,0 +1,12 @@
+{
+  "name": "python-nodeenv",
+  "version": "1.8.0-1",
+  "depends": [
+    "python-setuptools",
+    "make"
+  ],
+  "makedepends": [],
+  "receive": 199537120,
+  "transmit": 300427,
+  "disk": 413176
+}
