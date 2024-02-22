@@ -1,0 +1,13 @@
+{
+  "name": "opensearch-cli",
+  "version": "1.2.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199548439,
+  "transmit": 345797,
+  "disk": 1169538
+}
