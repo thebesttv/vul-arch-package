@@ -1,0 +1,21 @@
+{
+  "name": "catfish",
+  "version": "4.18.0-1",
+  "depends": [
+    "dbus-python",
+    "gtk3",
+    "python-cairo",
+    "python-gobject",
+    "python-pexpect",
+    "xdg-utils",
+    "xfconf",
+    "which"
+  ],
+  "makedepends": [
+    "intltool",
+    "python-distutils-extra"
+  ],
+  "receive": 199608957,
+  "transmit": 274117,
+  "disk": 2459929
+}
