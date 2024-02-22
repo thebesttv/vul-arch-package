@@ -1,0 +1,14 @@
+{
+  "name": "smartdns",
+  "version": "45-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199795208,
+  "transmit": 424616,
+  "disk": 3244075
+}
