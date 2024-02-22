@@ -1,0 +1,17 @@
+{
+  "name": "libdbusmenu",
+  "version": "16.04.0.r498-2",
+  "depends": [],
+  "makedepends": [
+    "breezy",
+    "gnome-common",
+    "gobject-introspection",
+    "gtk2",
+    "gtk3",
+    "intltool",
+    "vala"
+  ],
+  "receive": 208759262,
+  "transmit": 646967,
+  "disk": 27946510
+}
