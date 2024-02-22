@@ -1,0 +1,19 @@
+{
+  "name": "libretro-sameboy",
+  "version": "1720-2",
+  "depends": [
+    "glibc",
+    "libretro-core-info",
+    "libgl"
+  ],
+  "makedepends": [
+    "clang",
+    "git",
+    "libglvnd",
+    "rgbds",
+    "sdl2"
+  ],
+  "receive": 199707363,
+  "transmit": 453419,
+  "disk": 19046921
+}
