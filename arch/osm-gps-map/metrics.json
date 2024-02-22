@@ -1,0 +1,15 @@
+{
+  "name": "osm-gps-map",
+  "version": "1.2.0-1",
+  "depends": [
+    "gtk3",
+    "libsoup"
+  ],
+  "makedepends": [
+    "gtk-doc",
+    "gobject-introspection"
+  ],
+  "receive": 199660285,
+  "transmit": 394104,
+  "disk": 2755819
+}
