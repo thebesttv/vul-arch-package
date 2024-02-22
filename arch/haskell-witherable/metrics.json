@@ -1,0 +1,24 @@
+{
+  "name": "haskell-witherable",
+  "version": "0.4.2-91",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-orphans",
+    "haskell-hashable",
+    "haskell-indexed-traversable",
+    "haskell-indexed-traversable-instances",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199670472,
+  "transmit": 333810,
+  "disk": 271224
+}
