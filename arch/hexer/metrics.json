@@ -1,0 +1,11 @@
+{
+  "name": "hexer",
+  "version": "1.0.6-1",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199661081,
+  "transmit": 372404,
+  "disk": 804417
+}
