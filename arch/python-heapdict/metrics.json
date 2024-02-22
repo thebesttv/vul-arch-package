@@ -1,0 +1,13 @@
+{
+  "name": "python-heapdict",
+  "version": "1.0.1-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199733623,
+  "transmit": 429717,
+  "disk": 113666
+}
