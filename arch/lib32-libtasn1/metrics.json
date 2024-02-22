@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libtasn1",
+  "version": "4.19.0-1",
+  "depends": [
+    "lib32-glibc",
+    "libtasn1"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 199549314,
+  "transmit": 269799,
+  "disk": 9680918
+}
