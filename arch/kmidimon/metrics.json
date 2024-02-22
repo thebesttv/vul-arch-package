@@ -1,0 +1,21 @@
+{
+  "name": "kmidimon",
+  "version": "1.4.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt6-5compat",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "drumstick",
+    "pandoc",
+    "qt6-tools"
+  ],
+  "receive": 199483862,
+  "transmit": 255070,
+  "disk": 2088257
+}
