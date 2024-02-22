@@ -1,0 +1,15 @@
+{
+  "name": "ruby-regexp_parser",
+  "version": "2.6.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ragel",
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 199531842,
+  "transmit": 260040,
+  "disk": 698036
+}
