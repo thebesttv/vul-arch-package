@@ -1,0 +1,11 @@
+{
+  "name": "tinyssh",
+  "version": "20240101-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199816537,
+  "transmit": 296801,
+  "disk": 1631817
+}
