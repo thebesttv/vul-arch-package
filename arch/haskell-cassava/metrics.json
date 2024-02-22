@@ -1,0 +1,26 @@
+{
+  "name": "haskell-cassava",
+  "version": "0.5.3.0-89",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-hashable",
+    "haskell-only",
+    "haskell-scientific",
+    "haskell-text-short",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199672345,
+  "transmit": 405900,
+  "disk": 642670
+}
