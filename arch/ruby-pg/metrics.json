@@ -1,0 +1,17 @@
+{
+  "name": "ruby-pg",
+  "version": "1.5.4-1",
+  "depends": [
+    "glibc",
+    "ruby",
+    "ruby-rspec-core",
+    "postgresql-libs"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rdoc"
+  ],
+  "receive": 199589934,
+  "transmit": 375956,
+  "disk": 5510576
+}
