@@ -1,0 +1,13 @@
+{
+  "name": "mpv-mpris",
+  "version": "1.1-1",
+  "depends": [
+    "glib2",
+    "libavformat.so",
+    "mpv"
+  ],
+  "makedepends": [],
+  "receive": 199633077,
+  "transmit": 353451,
+  "disk": 176805
+}
