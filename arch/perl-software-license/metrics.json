@@ -1,0 +1,15 @@
+{
+  "name": "perl-software-license",
+  "version": "0.104004-2",
+  "depends": [
+    "perl>=5.6",
+    "perl-data-section",
+    "perl-text-template"
+  ],
+  "makedepends": [
+    "perl-extutils-makemaker>=6.78"
+  ],
+  "receive": 199623024,
+  "transmit": 373004,
+  "disk": 780441
+}
