@@ -1,0 +1,16 @@
+{
+  "name": "python-trustme",
+  "version": "1.1.0-1",
+  "depends": [
+    "python",
+    "python-cryptography",
+    "python-idna",
+    "python-pyopenssl"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199665131,
+  "transmit": 440516,
+  "disk": 266836
+}
