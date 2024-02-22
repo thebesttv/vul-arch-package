@@ -1,0 +1,11 @@
+{
+  "name": "opendoas",
+  "version": "6.8.2-1",
+  "depends": [
+    "pam"
+  ],
+  "makedepends": [],
+  "receive": 199683071,
+  "transmit": 422483,
+  "disk": 254573
+}
