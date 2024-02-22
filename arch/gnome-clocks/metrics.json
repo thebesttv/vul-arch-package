@@ -1,0 +1,23 @@
+{
+  "name": "gnome-clocks",
+  "version": "45.0-1",
+  "depends": [
+    "geoclue",
+    "geocode-glib-2",
+    "gnome-desktop-4",
+    "gtk4",
+    "libadwaita",
+    "libgweather-4",
+    "xdg-desktop-portal"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199746795,
+  "transmit": 492520,
+  "disk": 12605177
+}
