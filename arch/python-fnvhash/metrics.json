@@ -1,0 +1,17 @@
+{
+  "name": "python-fnvhash",
+  "version": "0.1.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199540973,
+  "transmit": 293443,
+  "disk": 346033
+}
