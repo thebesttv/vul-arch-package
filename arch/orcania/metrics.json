@@ -1,0 +1,17 @@
+{
+  "name": "orcania",
+  "version": "2.3.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "git",
+    "graphviz",
+    "ninja"
+  ],
+  "receive": 199533556,
+  "transmit": 264760,
+  "disk": 1463116
+}
