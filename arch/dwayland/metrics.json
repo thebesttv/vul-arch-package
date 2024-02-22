@@ -1,0 +1,24 @@
+{
+  "name": "dwayland",
+  "version": "5.25.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "libglvnd",
+    "qt5-base",
+    "qt5-wayland",
+    "wayland"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc",
+    "wayland-protocols",
+    "deepin-wayland-protocols",
+    "ninja"
+  ],
+  "receive": 199558270,
+  "transmit": 337854,
+  "disk": 4344796
+}
