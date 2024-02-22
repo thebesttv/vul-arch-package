@@ -1,0 +1,11 @@
+{
+  "name": "libisl",
+  "version": "0.26-1",
+  "depends": [
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 199613929,
+  "transmit": 356915,
+  "disk": 17487387
+}
