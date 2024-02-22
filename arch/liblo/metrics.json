@@ -1,0 +1,11 @@
+{
+  "name": "liblo",
+  "version": "1:0.32-1",
+  "depends": [],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199540343,
+  "transmit": 292211,
+  "disk": 1063990
+}
