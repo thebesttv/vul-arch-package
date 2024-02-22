@@ -1,0 +1,19 @@
+{
+  "name": "graphite",
+  "version": "1:1.3.14-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "freetype2",
+    "python",
+    "doxygen",
+    "dblatex",
+    "graphviz",
+    "asciidoc"
+  ],
+  "receive": 199711761,
+  "transmit": 449908,
+  "disk": 29416815
+}
