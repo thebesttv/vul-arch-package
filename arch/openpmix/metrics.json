@@ -1,0 +1,18 @@
+{
+  "name": "openpmix",
+  "version": "4.2.9-1",
+  "depends": [],
+  "makedepends": [
+    "glibc",
+    "hwloc",
+    "perl",
+    "libevent",
+    "libevent_core-2.1.so",
+    "libevent_pthreads-2.1.so",
+    "python",
+    "zlib"
+  ],
+  "receive": 199645670,
+  "transmit": 365475,
+  "disk": 27780372
+}
