@@ -1,0 +1,14 @@
+{
+  "name": "highway",
+  "version": "1.1.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest"
+  ],
+  "receive": 199542150,
+  "transmit": 270723,
+  "disk": 8839739
+}
