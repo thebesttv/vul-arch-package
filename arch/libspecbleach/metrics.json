@@ -1,0 +1,14 @@
+{
+  "name": "libspecbleach",
+  "version": "0.1.6-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "fftw",
+    "meson"
+  ],
+  "receive": 199548059,
+  "transmit": 286893,
+  "disk": 385851
+}
