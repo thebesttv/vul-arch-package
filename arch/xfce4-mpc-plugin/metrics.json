@@ -1,0 +1,14 @@
+{
+  "name": "xfce4-mpc-plugin",
+  "version": "0.5.3-1",
+  "depends": [
+    "xfce4-panel",
+    "libmpd"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199565382,
+  "transmit": 321751,
+  "disk": 2214183
+}
