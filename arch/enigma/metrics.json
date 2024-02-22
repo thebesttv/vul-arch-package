@@ -1,0 +1,11 @@
+{
+  "name": "enigma",
+  "version": "1.04-7",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199545165,
+  "transmit": 302412,
+  "disk": 294780
+}
