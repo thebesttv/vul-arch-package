@@ -1,0 +1,21 @@
+{
+  "name": "deepin-pdfium",
+  "version": "1.0.2-2",
+  "depends": [
+    "qt5-base",
+    "openjpeg2",
+    "libchardet",
+    "lcms2",
+    "libjpeg-turbo",
+    "icu",
+    "zlib",
+    "gcc-libs",
+    "freetype2"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199516007,
+  "transmit": 238839,
+  "disk": 23749228
+}
