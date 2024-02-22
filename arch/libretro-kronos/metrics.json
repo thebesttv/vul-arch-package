@@ -1,0 +1,16 @@
+{
+  "name": "libretro-kronos",
+  "version": "7016-2",
+  "depends": [
+    "glibc",
+    "libgl",
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git",
+    "libglvnd"
+  ],
+  "receive": 340932462,
+  "transmit": 344863,
+  "disk": 278843538
+}
