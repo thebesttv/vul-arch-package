@@ -1,0 +1,18 @@
+{
+  "name": "python-jsonschema-specifications",
+  "version": "2023.12.1-1",
+  "depends": [
+    "python",
+    "python-referencing"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs"
+  ],
+  "receive": 199697560,
+  "transmit": 406109,
+  "disk": 518132
+}
