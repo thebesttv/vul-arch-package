@@ -1,0 +1,13 @@
+{
+  "name": "python-diff-match-patch",
+  "version": "20200713-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199595042,
+  "transmit": 356300,
+  "disk": 472785
+}
