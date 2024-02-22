@@ -1,0 +1,13 @@
+{
+  "name": "perl-ntlm",
+  "version": "1.09-8",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-digest-hmac"
+  ],
+  "receive": 199535025,
+  "transmit": 279133,
+  "disk": 219769
+}
