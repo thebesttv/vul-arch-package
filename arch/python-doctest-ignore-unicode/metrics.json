@@ -1,0 +1,13 @@
+{
+  "name": "python-doctest-ignore-unicode",
+  "version": "0.1.2-6",
+  "depends": [
+    "python-nose"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199524033,
+  "transmit": 264056,
+  "disk": 95331
+}
