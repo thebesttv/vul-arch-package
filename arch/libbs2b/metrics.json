@@ -1,0 +1,12 @@
+{
+  "name": "libbs2b",
+  "version": "3.1.0-8",
+  "depends": [
+    "libsndfile",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199599361,
+  "transmit": 349266,
+  "disk": 3880226
+}
