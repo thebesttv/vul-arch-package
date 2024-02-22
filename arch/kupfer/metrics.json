@@ -1,0 +1,21 @@
+{
+  "name": "kupfer",
+  "version": "322-2",
+  "depends": [
+    "libkeybinder3",
+    "libwnck3",
+    "python-cairo",
+    "python-dbus",
+    "python-gobject",
+    "python-setproctitle",
+    "python-xdg"
+  ],
+  "makedepends": [
+    "intltool",
+    "itstool",
+    "python-docutils"
+  ],
+  "receive": 199634411,
+  "transmit": 366843,
+  "disk": 5455379
+}
