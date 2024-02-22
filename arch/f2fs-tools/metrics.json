@@ -1,0 +1,13 @@
+{
+  "name": "f2fs-tools",
+  "version": "1.16.0-2",
+  "depends": [
+    "util-linux"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199612299,
+  "transmit": 363733,
+  "disk": 4167837
+}
