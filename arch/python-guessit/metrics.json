@@ -1,0 +1,20 @@
+{
+  "name": "python-guessit",
+  "version": "3.8.0-1",
+  "depends": [
+    "python",
+    "python-dateutil",
+    "python-babelfish",
+    "python-rebulk"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199841246,
+  "transmit": 534920,
+  "disk": 6497158
+}
