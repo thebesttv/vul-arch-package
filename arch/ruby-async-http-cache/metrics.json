@@ -1,0 +1,11 @@
+{
+  "name": "ruby-async-http-cache",
+  "version": "0.4.3-2",
+  "depends": [
+    "ruby-async-http"
+  ],
+  "makedepends": [],
+  "receive": 200130853,
+  "transmit": 629192,
+  "disk": 189749
+}
