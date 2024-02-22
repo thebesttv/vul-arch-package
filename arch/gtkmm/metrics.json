@@ -1,0 +1,13 @@
+{
+  "name": "gtkmm",
+  "version": "1:2.24.5-4",
+  "depends": [
+    "gtk2",
+    "pangomm",
+    "atkmm"
+  ],
+  "makedepends": [],
+  "receive": 211639064,
+  "transmit": 310372,
+  "disk": 158722921
+}
