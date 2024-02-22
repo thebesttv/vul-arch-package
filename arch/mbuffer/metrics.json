@@ -1,0 +1,14 @@
+{
+  "name": "mbuffer",
+  "version": "20240107-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "openssl"
+  ],
+  "receive": 199540830,
+  "transmit": 270112,
+  "disk": 803730
+}
