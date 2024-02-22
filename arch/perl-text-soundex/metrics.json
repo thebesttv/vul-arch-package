@@ -1,0 +1,11 @@
+{
+  "name": "perl-text-soundex",
+  "version": "3.05-11",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199669439,
+  "transmit": 448312,
+  "disk": 160936
+}
