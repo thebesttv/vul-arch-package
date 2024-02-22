@@ -1,0 +1,11 @@
+{
+  "name": "tailspin",
+  "version": "3.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199625437,
+  "transmit": 344850,
+  "disk": 8374823
+}
