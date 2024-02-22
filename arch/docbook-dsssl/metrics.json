@@ -1,0 +1,12 @@
+{
+  "name": "docbook-dsssl",
+  "version": "1.79-9",
+  "depends": [
+    "sgml-common",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199561009,
+  "transmit": 279297,
+  "disk": 3059315
+}
