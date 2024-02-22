@@ -1,0 +1,13 @@
+{
+  "name": "fcitx5-sayura",
+  "version": "5.1.1-1",
+  "depends": [
+    "fcitx5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199555618,
+  "transmit": 292917,
+  "disk": 266203
+}
