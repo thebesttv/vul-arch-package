@@ -1,0 +1,14 @@
+{
+  "name": "peda",
+  "version": "1.2-3",
+  "depends": [
+    "gdb",
+    "binutils",
+    "nasm",
+    "python-six"
+  ],
+  "makedepends": [],
+  "receive": 199652549,
+  "transmit": 353882,
+  "disk": 452737
+}
