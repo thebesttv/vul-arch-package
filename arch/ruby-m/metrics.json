@@ -1,0 +1,16 @@
+{
+  "name": "ruby-m",
+  "version": "1.6.1-1",
+  "depends": [
+    "ruby-method_source",
+    "ruby-rake"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-activesupport",
+    "ruby-rdiscount"
+  ],
+  "receive": 199583809,
+  "transmit": 305218,
+  "disk": 1046998
+}
