@@ -1,0 +1,36 @@
+{
+  "name": "gitlab",
+  "version": "16.9.1-1",
+  "depends": [
+    "git",
+    "gitlab-gitaly",
+    "http-parser",
+    "icu",
+    "libicui18n.so",
+    "libicuuc.so",
+    "libxslt",
+    "nodejs",
+    "openssh",
+    "openssl",
+    "perl-image-exiftool",
+    "re2",
+    "libre2.so",
+    "redis",
+    "ruby",
+    "ruby-bundler"
+  ],
+  "makedepends": [
+    "cargo",
+    "clang",
+    "cmake",
+    "go",
+    "nodejs",
+    "postgresql",
+    "ruby-rake",
+    "rust",
+    "yarn"
+  ],
+  "receive": 2038740492,
+  "transmit": 10217241,
+  "disk": 2305240516
+}
