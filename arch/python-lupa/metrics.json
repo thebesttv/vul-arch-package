@@ -1,0 +1,16 @@
+{
+  "name": "python-lupa",
+  "version": "2.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 206084231,
+  "transmit": 443034,
+  "disk": 34382380
+}
