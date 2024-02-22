@@ -1,0 +1,18 @@
+{
+  "name": "python-pynvim",
+  "version": "0.5.0-2",
+  "depends": [
+    "python",
+    "python-msgpack",
+    "python-greenlet"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-wheel",
+    "python-installer"
+  ],
+  "receive": 199537751,
+  "transmit": 296314,
+  "disk": 462873
+}
