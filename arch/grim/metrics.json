@@ -1,0 +1,21 @@
+{
+  "name": "grim",
+  "version": "1.4.1-1",
+  "depends": [
+    "cairo",
+    "libjpeg-turbo",
+    "wayland"
+  ],
+  "makedepends": [
+    "fish",
+    "git",
+    "meson",
+    "ninja",
+    "pango",
+    "scdoc",
+    "wayland-protocols"
+  ],
+  "receive": 199600936,
+  "transmit": 360357,
+  "disk": 522405
+}
