@@ -1,0 +1,15 @@
+{
+  "name": "libredefender",
+  "version": "0.7.0-1",
+  "depends": [
+    "libclamav.so",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cargo",
+    "clang"
+  ],
+  "receive": 199561235,
+  "transmit": 310359,
+  "disk": 409587
+}
