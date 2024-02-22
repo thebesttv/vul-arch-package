@@ -1,0 +1,18 @@
+{
+  "name": "ruby-minitest-reporters",
+  "version": "1.5.0-2",
+  "depends": [
+    "ruby",
+    "ruby-ansi",
+    "ruby-builder",
+    "ruby-minitest",
+    "ruby-ruby-progressbar"
+  ],
+  "makedepends": [
+    "rubygems",
+    "ruby-rdoc"
+  ],
+  "receive": 199616995,
+  "transmit": 375640,
+  "disk": 646563
+}
