@@ -1,0 +1,14 @@
+{
+  "name": "libglacierapp",
+  "version": "0.9-1",
+  "depends": [
+    "mlite",
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199581742,
+  "transmit": 354029,
+  "disk": 149920
+}
