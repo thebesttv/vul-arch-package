@@ -1,0 +1,11 @@
+{
+  "name": "wakeonlan",
+  "version": "0.42-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199601519,
+  "transmit": 392322,
+  "disk": 136112
+}
