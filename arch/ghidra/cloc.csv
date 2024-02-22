@@ -1,0 +1,43 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=43.13 s (432.9 files/s 97894.7 lines/s)"
+16617,Java,416743,739149,2000266
+538,XML,2528,2178,351216
+135,C++,24997,20720,143831
+373,HTML,220439,371,98979
+85,C,5844,5808,28451
+84,SVG,34,34,25517
+151,C/C++ Header,4777,13045,25139
+68,Python,3845,4912,18075
+105,Text,1080,0,9124
+179,Gradle,1797,4991,7505
+37,Markdown,1091,0,3815
+5,yacc,404,127,3385
+10,ANTLR Grammar,500,80,3111
+1,JSON,498,0,2872
+21,Xtend,470,469,2777
+1,Go,226,144,1929
+58,Bourne Shell,456,941,1857
+54,Properties,492,111,1817
+7,Assembly,1618,1192,1372
+1,TeX,133,13,1070
+3,Protocol Buffers,264,63,931
+12,Groovy,224,191,899
+60,DOS Batch,294,481,696
+1,lex,52,18,615
+17,Bourne Again Shell,142,217,386
+4,make,96,35,385
+15,XSLT,109,12,380
+1,MSBuild script,0,0,252
+1,Maven,15,5,223
+5,CSS,62,165,169
+1,Perl,31,42,101
+4,TOML,8,0,93
+3,Velocity Template Language,13,6,84
+1,SQL,20,4,83
+2,Visual Studio Solution,1,2,43
+6,JavaScript,4,0,25
+1,Haskell,3,0,11
+1,Linker Script,1,0,9
+1,Windows Module Definition,2,2,9
+2,Fortran 77,0,0,6
+1,Lua,1,1,4
+18672,SUM,689314,795529,2737512

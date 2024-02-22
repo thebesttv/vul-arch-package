@@ -1,0 +1,17 @@
+{
+  "name": "ghidra",
+  "version": "11.0.1-1",
+  "depends": [
+    "java-environment>=17",
+    "bash"
+  ],
+  "makedepends": [
+    "git",
+    "gradle",
+    "unzip",
+    "java-environment=17"
+  ],
+  "receive": 614821064,
+  "transmit": 1340874,
+  "disk": 751379307
+}
