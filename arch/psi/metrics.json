@@ -1,0 +1,19 @@
+{
+  "name": "psi",
+  "version": "1.5-3",
+  "depends": [
+    "hunspell",
+    "qca",
+    "qt5-svg",
+    "qt5-webengine",
+    "qt5-x11extras",
+    "libidn"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-multimedia"
+  ],
+  "receive": 199608767,
+  "transmit": 369249,
+  "disk": 12776991
+}
