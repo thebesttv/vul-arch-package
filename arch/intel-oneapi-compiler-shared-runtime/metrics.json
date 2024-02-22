@@ -1,0 +1,11 @@
+{
+  "name": "intel-oneapi-compiler-shared-runtime",
+  "version": "2023.2.0-1",
+  "depends": [
+    "level-zero-loader"
+  ],
+  "makedepends": [],
+  "receive": 199613238,
+  "transmit": 384951,
+  "disk": 244810830
+}
