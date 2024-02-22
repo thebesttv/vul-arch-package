@@ -1,0 +1,27 @@
+{
+  "name": "postgresql-old-upgrade",
+  "version": "15.5-4",
+  "depends": [
+    "postgresql-libs>=15",
+    "libxml2",
+    "openssl",
+    "pam",
+    "zlib",
+    "icu",
+    "systemd-libs",
+    "libldap",
+    "krb5",
+    "llvm-libs"
+  ],
+  "makedepends": [
+    "python",
+    "perl",
+    "tcl",
+    "systemd",
+    "llvm",
+    "clang"
+  ],
+  "receive": 223017427,
+  "transmit": 453036,
+  "disk": 173566641
+}
