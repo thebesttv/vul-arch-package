@@ -1,0 +1,24 @@
+{
+  "name": "apache",
+  "version": "2.4.58-1",
+  "depends": [
+    "zlib",
+    "apr-util",
+    "pcre2",
+    "libnghttp2",
+    "openssl",
+    "libxcrypt"
+  ],
+  "makedepends": [
+    "libxml2",
+    "lua",
+    "curl",
+    "brotli",
+    "jansson",
+    "db",
+    "systemd"
+  ],
+  "receive": 207565350,
+  "transmit": 504160,
+  "disk": 50670618
+}
