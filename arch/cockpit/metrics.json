@@ -1,0 +1,27 @@
+{
+  "name": "cockpit",
+  "version": "311.1-1",
+  "depends": [],
+  "makedepends": [
+    "krb5",
+    "libssh",
+    "json-glib",
+    "glib-networking",
+    "git",
+    "intltool",
+    "gtk-doc",
+    "gobject-introspection",
+    "networkmanager",
+    "xmlto",
+    "npm",
+    "pcp",
+    "gendesk",
+    "python-installer",
+    "python-wheel",
+    "python-build",
+    "python-pip"
+  ],
+  "receive": 199682391,
+  "transmit": 338229,
+  "disk": 49130279
+}
