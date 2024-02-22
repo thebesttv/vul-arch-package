@@ -1,0 +1,29 @@
+{
+  "name": "gnome-connections",
+  "version": "45.0-1",
+  "depends": [
+    "cairo",
+    "dconf",
+    "freerdp",
+    "fuse3",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gtk3",
+    "gtk-vnc",
+    "hicolor-icon-theme",
+    "libhandy",
+    "libsecret",
+    "libxml2"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "gobject-introspection",
+    "itstool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199584455,
+  "transmit": 315181,
+  "disk": 9636309
+}
