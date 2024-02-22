@@ -1,0 +1,14 @@
+{
+  "name": "dog",
+  "version": "0.1.0-4",
+  "depends": [
+    "openssl",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199770776,
+  "transmit": 409106,
+  "disk": 1307498
+}
