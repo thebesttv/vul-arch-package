@@ -1,0 +1,13 @@
+{
+  "name": "nethogs",
+  "version": "0.8.7-1",
+  "depends": [
+    "libpcap",
+    "ncurses",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199538223,
+  "transmit": 264445,
+  "disk": 14078736
+}
