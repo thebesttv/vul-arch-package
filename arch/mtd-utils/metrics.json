@@ -1,0 +1,16 @@
+{
+  "name": "mtd-utils",
+  "version": "2.1.6-1",
+  "depends": [
+    "lzo",
+    "util-linux",
+    "zstd",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmocka"
+  ],
+  "receive": 200095925,
+  "transmit": 380740,
+  "disk": 3210760
+}
