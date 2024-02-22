@@ -1,0 +1,15 @@
+{
+  "name": "encfs",
+  "version": "1.9.5-7",
+  "depends": [
+    "openssl",
+    "fuse2",
+    "tinyxml2"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199642209,
+  "transmit": 390468,
+  "disk": 14437735
+}
