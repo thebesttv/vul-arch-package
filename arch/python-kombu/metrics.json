@@ -1,0 +1,14 @@
+{
+  "name": "python-kombu",
+  "version": "5.3.5-1",
+  "depends": [
+    "python-amqp",
+    "python-vine"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199765259,
+  "transmit": 478975,
+  "disk": 2478276
+}
