@@ -1,0 +1,13 @@
+{
+  "name": "cargo-sort",
+  "version": "1.0.9-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199880279,
+  "transmit": 475005,
+  "disk": 420906
+}
