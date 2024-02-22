@@ -1,0 +1,17 @@
+{
+  "name": "virglrenderer",
+  "version": "0.10.4-1",
+  "depends": [
+    "libepoxy",
+    "mesa",
+    "libva"
+  ],
+  "makedepends": [
+    "python",
+    "meson",
+    "ninja"
+  ],
+  "receive": 202380144,
+  "transmit": 485075,
+  "disk": 82511569
+}
