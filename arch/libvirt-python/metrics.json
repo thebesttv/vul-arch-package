@@ -1,0 +1,16 @@
+{
+  "name": "libvirt-python",
+  "version": "1:10.0.0-1",
+  "depends": [
+    "python",
+    "libvirt"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools",
+    "libvirt"
+  ],
+  "receive": 199651411,
+  "transmit": 319672,
+  "disk": 1712501
+}
