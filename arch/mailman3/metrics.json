@@ -1,0 +1,38 @@
+{
+  "name": "mailman3",
+  "version": "3.3.9-1",
+  "depends": [
+    "gunicorn",
+    "python",
+    "python-aiosmtpd",
+    "python-alembic",
+    "python-atpublic",
+    "python-authheaders",
+    "python-authres",
+    "python-click",
+    "python-dateutil",
+    "python-dnspython",
+    "python-falcon",
+    "python-flufl.bounce",
+    "python-flufl.i18n",
+    "python-flufl-lock",
+    "python-lazr.config",
+    "python-passlib",
+    "python-requests",
+    "python-sqlalchemy>=1.4",
+    "python-zope-component",
+    "python-zope-configuration",
+    "python-zope-event",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 394881750,
+  "transmit": 395495,
+  "disk": 207479902
+}
