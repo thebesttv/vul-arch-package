@@ -1,0 +1,17 @@
+{
+  "name": "firrtl",
+  "version": "1.5.3-2",
+  "depends": [
+    "java-environment",
+    "bash"
+  ],
+  "makedepends": [
+    "antlr4",
+    "protobuf",
+    "mill",
+    "git"
+  ],
+  "receive": 199522503,
+  "transmit": 281614,
+  "disk": 7604990
+}
