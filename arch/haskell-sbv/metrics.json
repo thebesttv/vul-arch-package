@@ -1,0 +1,25 @@
+{
+  "name": "haskell-sbv",
+  "version": "9.1-31",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-async",
+    "haskell-libbf",
+    "haskell-random",
+    "haskell-syb",
+    "haskell-uniplate"
+  ],
+  "makedepends": [
+    "ghc",
+    "expac",
+    "hlint",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199522710,
+  "transmit": 275219,
+  "disk": 7469800
+}
