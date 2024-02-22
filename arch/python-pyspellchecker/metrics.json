@@ -1,0 +1,17 @@
+{
+  "name": "python-pyspellchecker",
+  "version": "0.8.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 283512884,
+  "transmit": 556614,
+  "disk": 229963363
+}
