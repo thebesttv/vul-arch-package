@@ -1,0 +1,11 @@
+{
+  "name": "aspell-pt",
+  "version": "20220621-1",
+  "depends": [
+    "aspell"
+  ],
+  "makedepends": [],
+  "receive": 201128265,
+  "transmit": 557451,
+  "disk": 10932686
+}
