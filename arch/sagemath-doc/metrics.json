@@ -1,0 +1,22 @@
+{
+  "name": "sagemath-doc",
+  "version": "10.2-1",
+  "depends": [
+    "mathjax",
+    "python-pplpy"
+  ],
+  "makedepends": [
+    "cython",
+    "python-docutils",
+    "python-jupyter-client",
+    "python-jupyter-sphinx",
+    "python-pkgconfig",
+    "python-pyzmq",
+    "python-sphinx-copybutton",
+    "python-sphinx-furo",
+    "sagemath"
+  ],
+  "receive": 230805324,
+  "transmit": 972130,
+  "disk": 150459658
+}
