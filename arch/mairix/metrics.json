@@ -1,0 +1,16 @@
+{
+  "name": "mairix",
+  "version": "0.24-4",
+  "depends": [
+    "bzip2",
+    "zlib"
+  ],
+  "makedepends": [
+    "flex",
+    "bison",
+    "git"
+  ],
+  "receive": 200296445,
+  "transmit": 257072,
+  "disk": 2103585
+}
