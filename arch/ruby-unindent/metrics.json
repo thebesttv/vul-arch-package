@@ -1,0 +1,14 @@
+{
+  "name": "ruby-unindent",
+  "version": "1.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-nanotest",
+    "ruby-rake"
+  ],
+  "receive": 199572815,
+  "transmit": 296824,
+  "disk": 104829
+}
