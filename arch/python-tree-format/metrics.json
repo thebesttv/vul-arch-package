@@ -1,0 +1,13 @@
+{
+  "name": "python-tree-format",
+  "version": "0.1.2-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199694669,
+  "transmit": 380496,
+  "disk": 124476
+}
