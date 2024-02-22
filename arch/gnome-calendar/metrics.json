@@ -1,0 +1,28 @@
+{
+  "name": "gnome-calendar",
+  "version": "45.1-1",
+  "depends": [
+    "dconf",
+    "evolution-data-server",
+    "geoclue",
+    "geocode-glib-2",
+    "glib2",
+    "graphene",
+    "gsettings-desktop-schemas",
+    "gtk4",
+    "hicolor-icon-theme",
+    "libadwaita",
+    "libedataserverui4",
+    "libgweather-4",
+    "libical",
+    "libsoup3",
+    "pango"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199660742,
+  "transmit": 344925,
+  "disk": 18870987
+}
