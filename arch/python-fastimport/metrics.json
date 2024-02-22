@@ -1,0 +1,14 @@
+{
+  "name": "python-fastimport",
+  "version": "0.9.14-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199642568,
+  "transmit": 385757,
+  "disk": 6596486
+}
