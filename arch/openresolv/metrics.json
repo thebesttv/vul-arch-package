@@ -1,0 +1,14 @@
+{
+  "name": "openresolv",
+  "version": "3.13.2-2",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "git",
+    "systemd"
+  ],
+  "receive": 199621696,
+  "transmit": 402320,
+  "disk": 1325210
+}
