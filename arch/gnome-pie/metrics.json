@@ -1,0 +1,17 @@
+{
+  "name": "gnome-pie",
+  "version": "0.7.3-1",
+  "depends": [
+    "libarchive",
+    "libgee",
+    "libwnck3",
+    "gnome-menus"
+  ],
+  "makedepends": [
+    "cmake",
+    "vala"
+  ],
+  "receive": 199582874,
+  "transmit": 328081,
+  "disk": 2232623
+}
