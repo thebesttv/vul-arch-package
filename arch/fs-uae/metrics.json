@@ -1,0 +1,21 @@
+{
+  "name": "fs-uae",
+  "version": "3.1.66-2",
+  "depends": [
+    "glib2",
+    "libmpeg2",
+    "libpng",
+    "libx11",
+    "openal",
+    "sdl2",
+    "zlib",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "libxi",
+    "zip"
+  ],
+  "receive": 199639760,
+  "transmit": 388249,
+  "disk": 24416471
+}
