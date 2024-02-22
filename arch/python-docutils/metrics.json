@@ -1,0 +1,16 @@
+{
+  "name": "python-docutils",
+  "version": "1:0.20.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199645670,
+  "transmit": 412719,
+  "disk": 9430978
+}
