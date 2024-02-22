@@ -1,0 +1,12 @@
+{
+  "name": "ruby-manpages",
+  "version": "0.6.1-4",
+  "depends": [
+    "ruby",
+    "ruby-rdoc"
+  ],
+  "makedepends": [],
+  "receive": 199547152,
+  "transmit": 266544,
+  "disk": 185951
+}
