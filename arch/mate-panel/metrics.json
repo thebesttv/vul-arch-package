@@ -1,0 +1,25 @@
+{
+  "name": "mate-panel",
+  "version": "1.26.4-1",
+  "depends": [
+    "dbus-glib",
+    "libwnck3",
+    "libcanberra",
+    "libmateweather",
+    "libsm",
+    "mate-menus",
+    "mate-desktop",
+    "gettext",
+    "gtk-layer-shell"
+  ],
+  "makedepends": [
+    "itstool",
+    "gobject-introspection",
+    "mate-common",
+    "yelp-tools",
+    "autoconf-archive"
+  ],
+  "receive": 199540572,
+  "transmit": 293770,
+  "disk": 44130366
+}
