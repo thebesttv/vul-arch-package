@@ -1,0 +1,27 @@
+{
+  "name": "clevis",
+  "version": "19-2",
+  "depends": [
+    "bash",
+    "jose"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "asciidoc",
+    "audit",
+    "bash-completion",
+    "cryptsetup",
+    "dracut",
+    "glib2",
+    "jansson",
+    "libpwquality",
+    "luksmeta",
+    "openssl",
+    "tpm2-tools",
+    "udisks2"
+  ],
+  "receive": 199544790,
+  "transmit": 298677,
+  "disk": 1775575
+}
