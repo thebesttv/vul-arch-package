@@ -1,0 +1,19 @@
+{
+  "name": "deepin-picker",
+  "version": "6.0.0-2",
+  "depends": [
+    "deepin-qt5integration",
+    "qt5-base",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "qt5-tools",
+    "deepin-gettext-tools"
+  ],
+  "receive": 199846212,
+  "transmit": 481612,
+  "disk": 493908
+}
