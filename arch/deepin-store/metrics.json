@@ -1,0 +1,18 @@
+{
+  "name": "deepin-store",
+  "version": "1.2.5-1",
+  "depends": [
+    "appstream-qt5",
+    "archlinux-appstream-data",
+    "dtkwidget",
+    "packagekit-qt5"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199676591,
+  "transmit": 418794,
+  "disk": 647470
+}
