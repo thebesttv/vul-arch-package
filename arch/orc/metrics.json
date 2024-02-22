@@ -1,0 +1,16 @@
+{
+  "name": "orc",
+  "version": "0.4.37-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "gtk-doc",
+    "meson",
+    "valgrind"
+  ],
+  "receive": 199761088,
+  "transmit": 469225,
+  "disk": 5187098
+}
