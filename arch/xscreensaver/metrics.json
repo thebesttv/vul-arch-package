@@ -1,0 +1,41 @@
+{
+  "name": "xscreensaver",
+  "version": "6.08-1",
+  "depends": [
+    "gtk3",
+    "glu",
+    "xorg-appres",
+    "libglvnd",
+    "libjpeg-turbo",
+    "libjpeg.so",
+    "libsystemd.so",
+    "libx11",
+    "libxcrypt",
+    "libcrypt.so",
+    "libxext",
+    "libxft",
+    "libxi",
+    "libxinerama",
+    "libxmu",
+    "libxrandr",
+    "libxt",
+    "libxxf86vm",
+    "perl-libwww",
+    "pam",
+    "libpam.so",
+    "glibc",
+    "glib2",
+    "gdk-pixbuf2"
+  ],
+  "makedepends": [
+    "bc",
+    "intltool",
+    "libxpm",
+    "gdm",
+    "systemd",
+    "systemd-libs"
+  ],
+  "receive": 219745841,
+  "transmit": 402598,
+  "disk": 84519193
+}
