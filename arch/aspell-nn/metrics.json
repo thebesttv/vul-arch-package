@@ -1,0 +1,11 @@
+{
+  "name": "aspell-nn",
+  "version": "0.50.1-6",
+  "depends": [
+    "aspell"
+  ],
+  "makedepends": [],
+  "receive": 199704688,
+  "transmit": 467363,
+  "disk": 1532573
+}
