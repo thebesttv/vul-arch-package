@@ -1,0 +1,11 @@
+{
+  "name": "libb2",
+  "version": "0.98.1-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199823245,
+  "transmit": 402448,
+  "disk": 2885859
+}
