@@ -1,0 +1,34 @@
+{
+  "name": "zynaddsubfx",
+  "version": "3.0.6-5",
+  "depends": [
+    "fftw",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "libuv",
+    "libx11",
+    "ttf-roboto",
+    "zlib"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "asciidoc",
+    "asciidoctor",
+    "cmake",
+    "cxxtest",
+    "doxygen",
+    "git",
+    "jack",
+    "liblo",
+    "libxpm",
+    "mxml",
+    "portaudio",
+    "rtosc",
+    "ruby-rake"
+  ],
+  "receive": 253904422,
+  "transmit": 582087,
+  "disk": 143544442
+}
