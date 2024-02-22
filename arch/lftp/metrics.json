@@ -1,0 +1,20 @@
+{
+  "name": "lftp",
+  "version": "4.9.2-2",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "readline",
+    "gnutls",
+    "expat",
+    "zlib",
+    "libidn2",
+    "ncurses",
+    "sh",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [],
+  "receive": 199886512,
+  "transmit": 466969,
+  "disk": 14273721
+}
