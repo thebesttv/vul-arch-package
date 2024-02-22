@@ -1,0 +1,12 @@
+{
+  "name": "vim-fugitive",
+  "version": "3.7-2",
+  "depends": [
+    "vim-plugin-runtime",
+    "git"
+  ],
+  "makedepends": [],
+  "receive": 199662239,
+  "transmit": 424500,
+  "disk": 581808
+}
