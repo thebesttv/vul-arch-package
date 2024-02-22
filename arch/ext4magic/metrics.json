@@ -1,0 +1,14 @@
+{
+  "name": "ext4magic",
+  "version": "0.3.2-4",
+  "depends": [
+    "bzip2",
+    "file",
+    "util-linux",
+    "e2fsprogs"
+  ],
+  "makedepends": [],
+  "receive": 200066439,
+  "transmit": 334098,
+  "disk": 2346458
+}
