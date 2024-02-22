@@ -1,0 +1,11 @@
+{
+  "name": "ccfits",
+  "version": "2.6-2",
+  "depends": [
+    "cfitsio"
+  ],
+  "makedepends": [],
+  "receive": 201351198,
+  "transmit": 482182,
+  "disk": 9285118
+}
