@@ -1,0 +1,17 @@
+{
+  "name": "s3cmd",
+  "version": "2.4.0-1",
+  "depends": [
+    "python-dateutil",
+    "python-magic"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199629380,
+  "transmit": 390153,
+  "disk": 893477
+}
