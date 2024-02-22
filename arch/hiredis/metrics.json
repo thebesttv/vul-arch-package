@@ -1,0 +1,11 @@
+{
+  "name": "hiredis",
+  "version": "1.2.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 200517732,
+  "transmit": 877527,
+  "disk": 808058
+}
