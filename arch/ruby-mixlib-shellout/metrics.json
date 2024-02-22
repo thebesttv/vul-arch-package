@@ -1,0 +1,16 @@
+{
+  "name": "ruby-mixlib-shellout",
+  "version": "3.2.7-2",
+  "depends": [
+    "ruby",
+    "ruby-chef-utils"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 199549450,
+  "transmit": 282322,
+  "disk": 1822304
+}
