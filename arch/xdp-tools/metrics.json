@@ -1,0 +1,23 @@
+{
+  "name": "xdp-tools",
+  "version": "1.4.2-1",
+  "depends": [
+    "libelf",
+    "linux-api-headers",
+    "libbpf"
+  ],
+  "makedepends": [
+    "clang",
+    "llvm",
+    "gcc",
+    "make",
+    "m4",
+    "pkgconfig",
+    "libpcap",
+    "zlib",
+    "bpf"
+  ],
+  "receive": 199521887,
+  "transmit": 308220,
+  "disk": 1941554
+}
