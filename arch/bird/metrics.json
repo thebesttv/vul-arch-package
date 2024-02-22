@@ -1,0 +1,14 @@
+{
+  "name": "bird",
+  "version": "2.14-1",
+  "depends": [
+    "glibc",
+    "readline",
+    "ncurses",
+    "libssh"
+  ],
+  "makedepends": [],
+  "receive": 199538649,
+  "transmit": 286167,
+  "disk": 6674973
+}
