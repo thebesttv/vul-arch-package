@@ -1,0 +1,14 @@
+{
+  "name": "python-curtsies",
+  "version": "0.4.2-1",
+  "depends": [
+    "python-blessed",
+    "python-cwcwidth"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199719804,
+  "transmit": 482225,
+  "disk": 380294
+}
