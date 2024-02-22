@@ -1,0 +1,11 @@
+{
+  "name": "intel-ucode",
+  "version": "20231114-2",
+  "depends": [],
+  "makedepends": [
+    "iucode-tool"
+  ],
+  "receive": 199673703,
+  "transmit": 413750,
+  "disk": 25345004
+}
