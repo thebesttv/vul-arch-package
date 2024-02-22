@@ -1,0 +1,30 @@
+{
+  "name": "gnome-system-monitor",
+  "version": "45.0.2-1",
+  "depends": [
+    "cairo",
+    "dconf",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibmm",
+    "gtk3",
+    "gtkmm3",
+    "hicolor-icon-theme",
+    "libgtop",
+    "libhandy",
+    "librsvg",
+    "libsigc++",
+    "pango",
+    "polkit",
+    "systemd"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199683922,
+  "transmit": 382439,
+  "disk": 24869835
+}
