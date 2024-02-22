@@ -1,0 +1,20 @@
+{
+  "name": "python-fakeredis",
+  "version": "2.21.1-1",
+  "depends": [
+    "python-redis",
+    "python-six",
+    "python-sortedcontainers"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-packaging",
+    "python-lupa",
+    "python-poetry-core"
+  ],
+  "receive": 199865636,
+  "transmit": 496326,
+  "disk": 970878
+}
