@@ -1,0 +1,14 @@
+{
+  "name": "kde-dev-scripts",
+  "version": "23.08.5-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199606729,
+  "transmit": 339739,
+  "disk": 3006528
+}
