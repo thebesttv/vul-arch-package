@@ -1,0 +1,16 @@
+{
+  "name": "djvulibre",
+  "version": "3.5.28-5",
+  "depends": [
+    "bash",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libjpeg-turbo",
+    "libtiff"
+  ],
+  "makedepends": [],
+  "receive": 199586343,
+  "transmit": 258515,
+  "disk": 12741991
+}
