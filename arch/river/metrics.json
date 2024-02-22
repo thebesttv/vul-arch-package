@@ -1,0 +1,21 @@
+{
+  "name": "river",
+  "version": "0.2.6-1",
+  "depends": [
+    "libevdev",
+    "libxkbcommon",
+    "mesa",
+    "pixman",
+    "wayland",
+    "wlroots0.16",
+    "xorg-xwayland"
+  ],
+  "makedepends": [
+    "scdoc",
+    "wayland-protocols",
+    "zig"
+  ],
+  "receive": 199617892,
+  "transmit": 355758,
+  "disk": 1853689
+}
