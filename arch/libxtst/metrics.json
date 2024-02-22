@@ -1,0 +1,16 @@
+{
+  "name": "libxtst",
+  "version": "1.2.4-1",
+  "depends": [
+    "libxext",
+    "libxi",
+    "libxfixes"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199618108,
+  "transmit": 356119,
+  "disk": 2338998
+}
