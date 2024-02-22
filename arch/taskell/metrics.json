@@ -1,0 +1,32 @@
+{
+  "name": "taskell",
+  "version": "1.11.4-415",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-brick0.71",
+    "haskell-config-ini",
+    "haskell-file-embed",
+    "haskell-fold-debounce",
+    "haskell-http-client",
+    "haskell-http-conduit",
+    "haskell-http-types",
+    "haskell-lens",
+    "haskell-tz",
+    "haskell-vty",
+    "haskell-classy-prelude"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-classy-prelude",
+    "haskell-raw-strings-qq",
+    "haskell-tasty",
+    "haskell-tasty-discover",
+    "haskell-tasty-expected-failure",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 200304371,
+  "transmit": 454545,
+  "disk": 1218245
+}
