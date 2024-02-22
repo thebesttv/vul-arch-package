@@ -1,0 +1,16 @@
+{
+  "name": "photoflare",
+  "version": "1.6.13-1",
+  "depends": [
+    "graphicsmagick",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "qt5-imageformats"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199846697,
+  "transmit": 492750,
+  "disk": 7925771
+}
