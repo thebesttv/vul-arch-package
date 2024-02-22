@@ -1,0 +1,22 @@
+{
+  "name": "python-pycapnp",
+  "version": "2.0.0b2-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "capnproto",
+    "cython0",
+    "python-build",
+    "python-installer",
+    "python-pkgconfig",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199569597,
+  "transmit": 249081,
+  "disk": 3948940
+}
