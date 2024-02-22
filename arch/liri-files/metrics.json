@@ -1,0 +1,17 @@
+{
+  "name": "liri-files",
+  "version": "0.2.0.20200620-2",
+  "depends": [
+    "fluid",
+    "taglib"
+  ],
+  "makedepends": [
+    "cmake",
+    "liri-cmake-shared",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199650731,
+  "transmit": 396885,
+  "disk": 1583712
+}
