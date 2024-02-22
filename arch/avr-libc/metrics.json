@@ -1,0 +1,11 @@
+{
+  "name": "avr-libc",
+  "version": "2.1.0-3",
+  "depends": [
+    "avr-gcc"
+  ],
+  "makedepends": [],
+  "receive": 203290621,
+  "transmit": 326476,
+  "disk": 85408048
+}
