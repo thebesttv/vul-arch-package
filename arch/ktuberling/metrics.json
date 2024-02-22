@@ -1,0 +1,15 @@
+{
+  "name": "ktuberling",
+  "version": "23.08.5-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "libkdegames"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 271632243,
+  "transmit": 534589,
+  "disk": 172314953
+}
