@@ -1,0 +1,15 @@
+{
+  "name": "fcitx-googlepinyin",
+  "version": "0.1.6-7",
+  "depends": [
+    "fcitx",
+    "libgooglepinyin"
+  ],
+  "makedepends": [
+    "cmake",
+    "intltool"
+  ],
+  "receive": 199729010,
+  "transmit": 485904,
+  "disk": 221249
+}
