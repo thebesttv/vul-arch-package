@@ -1,0 +1,14 @@
+{
+  "name": "lasem",
+  "version": "0.4.4-2",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool",
+    "python"
+  ],
+  "receive": 199606831,
+  "transmit": 397043,
+  "disk": 4531951
+}
