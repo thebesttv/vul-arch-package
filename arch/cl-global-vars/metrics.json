@@ -1,0 +1,14 @@
+{
+  "name": "cl-global-vars",
+  "version": "1.0.0.r2.gc749f32-2",
+  "depends": [
+    "common-lisp",
+    "cl-asdf"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199768070,
+  "transmit": 428569,
+  "disk": 288937
+}
