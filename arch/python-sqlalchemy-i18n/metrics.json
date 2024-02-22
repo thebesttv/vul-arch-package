@@ -1,0 +1,16 @@
+{
+  "name": "python-sqlalchemy-i18n",
+  "version": "1.1.0-4",
+  "depends": [
+    "python",
+    "python-sqlalchemy",
+    "python-sqlalchemy-utils",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199604158,
+  "transmit": 365342,
+  "disk": 257853
+}
