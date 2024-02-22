@@ -1,0 +1,16 @@
+{
+  "name": "perl-html-tree",
+  "version": "5.07-3",
+  "depends": [
+    "perl>=5.10.0",
+    "perl-html-tagset>=3.02",
+    "perl-html-parser>=3.46"
+  ],
+  "makedepends": [
+    "perl-test-fatal",
+    "perl-module-build"
+  ],
+  "receive": 199568109,
+  "transmit": 342548,
+  "disk": 795476
+}
