@@ -1,0 +1,13 @@
+{
+  "name": "python-csscompressor",
+  "version": "0.9.5-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199609545,
+  "transmit": 358718,
+  "disk": 970421
+}
