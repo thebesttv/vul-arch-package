@@ -1,0 +1,16 @@
+{
+  "name": "python-archinfo",
+  "version": "9.2.81-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199993587,
+  "transmit": 560856,
+  "disk": 478576
+}
