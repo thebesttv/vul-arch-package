@@ -1,0 +1,19 @@
+{
+  "name": "podman-compose",
+  "version": "1.0.6-4",
+  "depends": [
+    "podman",
+    "python",
+    "python-dotenv",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199577304,
+  "transmit": 335650,
+  "disk": 635186
+}
