@@ -1,0 +1,13 @@
+{
+  "name": "python-docopt",
+  "version": "0.6.2-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199507352,
+  "transmit": 227464,
+  "disk": 235111
+}
