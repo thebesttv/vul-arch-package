@@ -1,0 +1,13 @@
+{
+  "name": "python-daemonize",
+  "version": "2.5.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199503600,
+  "transmit": 257301,
+  "disk": 135601
+}
