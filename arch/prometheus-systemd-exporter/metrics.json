@@ -1,0 +1,14 @@
+{
+  "name": "prometheus-systemd-exporter",
+  "version": "0.6.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199721083,
+  "transmit": 463158,
+  "disk": 220569
+}
