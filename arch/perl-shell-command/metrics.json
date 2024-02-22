@@ -1,0 +1,11 @@
+{
+  "name": "perl-shell-command",
+  "version": "0.06-5",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199642300,
+  "transmit": 392435,
+  "disk": 100814
+}
