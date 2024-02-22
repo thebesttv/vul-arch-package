@@ -1,0 +1,18 @@
+{
+  "name": "ruby-puppet_forge",
+  "version": "3.2.0-1",
+  "depends": [
+    "ruby",
+    "ruby-faraday",
+    "ruby-faraday-middleware",
+    "ruby-semantic_puppet",
+    "ruby-minitar"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199632676,
+  "transmit": 384205,
+  "disk": 3913902
+}
