@@ -1,0 +1,22 @@
+{
+  "name": "telepathy-logger",
+  "version": "0.8.2-6",
+  "depends": [
+    "dconf",
+    "dbus-glib",
+    "glib2",
+    "glibc",
+    "libxml2",
+    "sqlite",
+    "telepathy-glib"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "intltool",
+    "libxslt",
+    "python"
+  ],
+  "receive": 199648857,
+  "transmit": 348293,
+  "disk": 4228977
+}
