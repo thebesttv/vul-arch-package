@@ -1,0 +1,15 @@
+{
+  "name": "hsakmt-roct",
+  "version": "6.0.0-1",
+  "depends": [
+    "numactl",
+    "pciutils",
+    "libdrm"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199724794,
+  "transmit": 426739,
+  "disk": 5022972
+}
