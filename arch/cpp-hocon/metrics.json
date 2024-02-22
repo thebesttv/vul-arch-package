@@ -1,0 +1,21 @@
+{
+  "name": "cpp-hocon",
+  "version": "0.3.0-15",
+  "depends": [
+    "boost-libs",
+    "gcc-libs",
+    "glibc",
+    "leatherman",
+    "leatherman_util.so",
+    "leatherman_locale.so"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "leatherman",
+    "rapidjson"
+  ],
+  "receive": 199566783,
+  "transmit": 264181,
+  "disk": 1133792
+}
