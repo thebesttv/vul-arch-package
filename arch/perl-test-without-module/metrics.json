@@ -1,0 +1,13 @@
+{
+  "name": "perl-test-without-module",
+  "version": "0.21-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl"
+  ],
+  "receive": 199542364,
+  "transmit": 299032,
+  "disk": 175660
+}
