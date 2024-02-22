@@ -1,0 +1,13 @@
+{
+  "name": "primus",
+  "version": "20151110-9",
+  "depends": [
+    "bumblebee"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199593743,
+  "transmit": 300925,
+  "disk": 600399
+}
