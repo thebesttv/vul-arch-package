@@ -1,0 +1,13 @@
+{
+  "name": "libxdamage",
+  "version": "1.1.6-1",
+  "depends": [
+    "libxfixes"
+  ],
+  "makedepends": [
+    "xorgproto"
+  ],
+  "receive": 199661501,
+  "transmit": 381861,
+  "disk": 2063734
+}
