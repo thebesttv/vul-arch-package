@@ -1,0 +1,11 @@
+{
+  "name": "hdparm",
+  "version": "9.65-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199619933,
+  "transmit": 320159,
+  "disk": 735001
+}
