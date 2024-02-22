@@ -1,0 +1,16 @@
+{
+  "name": "kplotting5",
+  "version": "5.115.0-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199683433,
+  "transmit": 425811,
+  "disk": 324082
+}
