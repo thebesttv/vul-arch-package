@@ -1,0 +1,37 @@
+{
+  "name": "haskell-snap-core",
+  "version": "1.0.5.1-58",
+  "depends": [
+    "ghc-libs",
+    "haskell-old-locale",
+    "haskell-hunit",
+    "haskell-attoparsec",
+    "haskell-case-insensitive",
+    "haskell-lifted-base",
+    "haskell-io-streams",
+    "haskell-hashable",
+    "haskell-monad-control",
+    "haskell-random",
+    "haskell-readable",
+    "haskell-regex-posix",
+    "haskell-transformers-base",
+    "haskell-unix-compat",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-network",
+    "haskell-network-uri"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-parallel",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-test-framework-quickcheck2",
+    "haskell-zlib"
+  ],
+  "receive": 199887586,
+  "transmit": 297686,
+  "disk": 1361811
+}
