@@ -1,0 +1,15 @@
+{
+  "name": "ruby-http-cookie",
+  "version": "1.0.5-1",
+  "depends": [
+    "ruby",
+    "ruby-domain_name"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199703312,
+  "transmit": 461786,
+  "disk": 310685
+}
