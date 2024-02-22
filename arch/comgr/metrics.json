@@ -1,0 +1,14 @@
+{
+  "name": "comgr",
+  "version": "6.0.0-1",
+  "depends": [
+    "rocm-device-libs"
+  ],
+  "makedepends": [
+    "rocm-cmake",
+    "rocm-llvm"
+  ],
+  "receive": 199741084,
+  "transmit": 426092,
+  "disk": 1222752
+}
