@@ -1,0 +1,20 @@
+{
+  "name": "soapyosmo",
+  "version": "0.2.5-18",
+  "depends": [
+    "soapysdr",
+    "gnuradio-osmosdr",
+    "boost-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "airspy",
+    "hackrf",
+    "libosmosdr",
+    "rtl-sdr"
+  ],
+  "receive": 199938683,
+  "transmit": 399688,
+  "disk": 2260401
+}
