@@ -1,0 +1,12 @@
+{
+  "name": "lib32-bzip2",
+  "version": "1.0.8-3",
+  "depends": [
+    "lib32-glibc",
+    "bzip2"
+  ],
+  "makedepends": [],
+  "receive": 199512511,
+  "transmit": 282511,
+  "disk": 4027632
+}
