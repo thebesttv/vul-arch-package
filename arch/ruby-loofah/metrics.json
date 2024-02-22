@@ -1,0 +1,13 @@
+{
+  "name": "ruby-loofah",
+  "version": "2.19.0-1",
+  "depends": [
+    "ruby",
+    "ruby-crass",
+    "ruby-nokogiri"
+  ],
+  "makedepends": [],
+  "receive": 199669144,
+  "transmit": 450326,
+  "disk": 551823
+}
