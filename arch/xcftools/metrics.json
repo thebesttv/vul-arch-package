@@ -1,0 +1,12 @@
+{
+  "name": "xcftools",
+  "version": "1.0.7-9",
+  "depends": [
+    "libpng",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199640154,
+  "transmit": 363913,
+  "disk": 1206992
+}
