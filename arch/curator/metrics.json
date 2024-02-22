@@ -1,0 +1,25 @@
+{
+  "name": "curator",
+  "version": "5.7.6-10",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "python-setuptools",
+    "python-elasticsearch",
+    "python-boto3",
+    "python-requests-aws4auth",
+    "python-click",
+    "python-urllib3",
+    "python-yaml",
+    "python-voluptuous",
+    "python-certifi",
+    "python-six",
+    "python-sphinx",
+    "python-cx_freeze",
+    "xz",
+    "mpdecimal"
+  ],
+  "receive": 199550805,
+  "transmit": 274027,
+  "disk": 1654668
+}
