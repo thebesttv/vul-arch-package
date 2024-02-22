@@ -1,0 +1,16 @@
+{
+  "name": "lv2file",
+  "version": "0.95-2",
+  "depends": [
+    "argtable",
+    "glibc"
+  ],
+  "makedepends": [
+    "libsndfile",
+    "lilv",
+    "lv2"
+  ],
+  "receive": 199529930,
+  "transmit": 268366,
+  "disk": 198852
+}
