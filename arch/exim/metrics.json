@@ -1,0 +1,23 @@
+{
+  "name": "exim",
+  "version": "4.97.1-1",
+  "depends": [
+    "gdbm",
+    "libldap",
+    "libidn",
+    "libidn2",
+    "libnsl",
+    "libspf2",
+    "libxcrypt",
+    "openssl",
+    "pam",
+    "pcre2",
+    "sqlite"
+  ],
+  "makedepends": [
+    "perl-file-fcntllock"
+  ],
+  "receive": 199968370,
+  "transmit": 379674,
+  "disk": 11898317
+}
