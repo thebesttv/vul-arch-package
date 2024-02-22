@@ -1,0 +1,13 @@
+{
+  "name": "grub-theme-vimix",
+  "version": "20190605-2",
+  "depends": [
+    "grub"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199675217,
+  "transmit": 388513,
+  "disk": 6589491
+}
