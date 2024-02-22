@@ -1,0 +1,11 @@
+{
+  "name": "perl-anyevent",
+  "version": "4:7.17-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199574362,
+  "transmit": 350075,
+  "disk": 1461073
+}
