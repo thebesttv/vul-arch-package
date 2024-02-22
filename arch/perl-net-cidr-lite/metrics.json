@@ -1,0 +1,11 @@
+{
+  "name": "perl-net-cidr-lite",
+  "version": "0.22-4",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199635515,
+  "transmit": 367225,
+  "disk": 155023
+}
