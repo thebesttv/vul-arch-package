@@ -1,0 +1,11 @@
+{
+  "name": "ruby-stackprof",
+  "version": "0.2.22-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199619351,
+  "transmit": 382906,
+  "disk": 478679
+}
