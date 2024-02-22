@@ -1,0 +1,11 @@
+{
+  "name": "symmetrica",
+  "version": "3.0.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199550146,
+  "transmit": 318312,
+  "disk": 4515899
+}
