@@ -1,0 +1,15 @@
+{
+  "name": "python-psycopg2",
+  "version": "2.9.9-1",
+  "depends": [
+    "python",
+    "postgresql-libs"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "postgresql-libs"
+  ],
+  "receive": 199606442,
+  "transmit": 359608,
+  "disk": 2287302
+}
