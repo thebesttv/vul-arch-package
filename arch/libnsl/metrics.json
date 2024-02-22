@@ -1,0 +1,12 @@
+{
+  "name": "libnsl",
+  "version": "2.0.1-1",
+  "depends": [
+    "glibc",
+    "libtirpc"
+  ],
+  "makedepends": [],
+  "receive": 199599454,
+  "transmit": 355001,
+  "disk": 347393
+}
