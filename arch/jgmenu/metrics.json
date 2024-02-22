@@ -1,0 +1,19 @@
+{
+  "name": "jgmenu",
+  "version": "4.4.1-1",
+  "depends": [
+    "libx11",
+    "cairo",
+    "pango",
+    "libxrandr",
+    "librsvg",
+    "libxml2",
+    "glib2",
+    "menu-cache",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199528936,
+  "transmit": 293761,
+  "disk": 1969403
+}
