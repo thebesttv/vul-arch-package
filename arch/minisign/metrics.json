@@ -1,0 +1,14 @@
+{
+  "name": "minisign",
+  "version": "0.11-2",
+  "depends": [
+    "libsodium"
+  ],
+  "makedepends": [
+    "cmake",
+    "git"
+  ],
+  "receive": 199560372,
+  "transmit": 283303,
+  "disk": 645801
+}
