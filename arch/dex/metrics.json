@@ -1,0 +1,14 @@
+{
+  "name": "dex",
+  "version": "0.9.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-sphinx"
+  ],
+  "receive": 199613177,
+  "transmit": 344776,
+  "disk": 146510
+}
