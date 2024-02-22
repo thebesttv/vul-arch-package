@@ -1,0 +1,23 @@
+{
+  "name": "slim",
+  "version": "1.4.0-2",
+  "depends": [
+    "gcc-libs",
+    "libjpeg",
+    "libpng",
+    "libx11",
+    "libxext",
+    "libxft",
+    "libxmu",
+    "libxrandr",
+    "pam",
+    "ttf-font",
+    "xorg-xauth"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199577100,
+  "transmit": 284479,
+  "disk": 1407275
+}
