@@ -1,0 +1,12 @@
+{
+  "name": "gperf",
+  "version": "3.1-5",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199649381,
+  "transmit": 343851,
+  "disk": 4693392
+}
