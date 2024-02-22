@@ -1,0 +1,14 @@
+{
+  "name": "luksmeta",
+  "version": "9-6",
+  "depends": [
+    "cryptsetup",
+    "libcryptsetup.so"
+  ],
+  "makedepends": [
+    "asciidoc"
+  ],
+  "receive": 199579894,
+  "transmit": 279569,
+  "disk": 1808437
+}
