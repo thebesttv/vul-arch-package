@@ -1,0 +1,31 @@
+{
+  "name": "kaffeine",
+  "version": "2.0.18-4",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kdbusaddons5",
+    "ki18n5",
+    "kio5",
+    "kwidgetsaddons5",
+    "kwindowsystem5",
+    "kxmlgui5",
+    "libxss",
+    "qt5-base",
+    "qt5-x11extras",
+    "solid5",
+    "v4l-utils",
+    "vlc"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "kidletime5"
+  ],
+  "receive": 205680010,
+  "transmit": 303572,
+  "disk": 18382498
+}
