@@ -1,0 +1,15 @@
+{
+  "name": "libpg_query",
+  "version": "15.4.2.3-1",
+  "depends": [
+    "glibc",
+    "protobuf-c",
+    "xxhash"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199669157,
+  "transmit": 403113,
+  "disk": 46049962
+}
