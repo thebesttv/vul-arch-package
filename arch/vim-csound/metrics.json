@@ -1,0 +1,11 @@
+{
+  "name": "vim-csound",
+  "version": "0.8.1-3",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199613323,
+  "transmit": 369015,
+  "disk": 2470742
+}
