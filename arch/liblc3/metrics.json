@@ -1,0 +1,14 @@
+{
+  "name": "liblc3",
+  "version": "1.0.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199705526,
+  "transmit": 474955,
+  "disk": 2336022
+}
