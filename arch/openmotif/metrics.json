@@ -1,0 +1,18 @@
+{
+  "name": "openmotif",
+  "version": "2.3.8-3",
+  "depends": [
+    "libxp",
+    "libxft",
+    "libxmu",
+    "libpng",
+    "libjpeg"
+  ],
+  "makedepends": [
+    "xbitmaps",
+    "xorgproto"
+  ],
+  "receive": 205558064,
+  "transmit": 577665,
+  "disk": 34770805
+}
