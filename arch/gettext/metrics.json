@@ -1,0 +1,19 @@
+{
+  "name": "gettext",
+  "version": "0.22.4-1",
+  "depends": [
+    "gcc-libs",
+    "acl",
+    "sh",
+    "libunistring",
+    "libxml2"
+  ],
+  "makedepends": [
+    "gettext",
+    "emacs",
+    "git"
+  ],
+  "receive": 227111010,
+  "transmit": 726281,
+  "disk": 166503849
+}
