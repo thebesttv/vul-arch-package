@@ -1,0 +1,12 @@
+{
+  "name": "dunesh",
+  "version": "0.1.8-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199608643,
+  "transmit": 403408,
+  "disk": 17430502
+}
