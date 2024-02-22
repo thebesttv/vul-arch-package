@@ -1,0 +1,18 @@
+{
+  "name": "synthv1",
+  "version": "0.9.34-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "jack",
+    "liblo",
+    "lv2",
+    "qt6-base",
+    "qt6-svg",
+    "qt6-tools"
+  ],
+  "receive": 199702153,
+  "transmit": 391943,
+  "disk": 1650321
+}
