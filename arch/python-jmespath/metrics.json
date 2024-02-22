@@ -1,0 +1,13 @@
+{
+  "name": "python-jmespath",
+  "version": "1.0.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199606683,
+  "transmit": 355801,
+  "disk": 623264
+}
