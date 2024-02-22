@@ -1,0 +1,19 @@
+{
+  "name": "sparkleshare",
+  "version": "3.38-1",
+  "depends": [
+    "webkit2-sharp",
+    "notify-sharp-3",
+    "curl",
+    "git-lfs",
+    "openssh",
+    "gvfs"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 241030779,
+  "transmit": 597859,
+  "disk": 62821883
+}
