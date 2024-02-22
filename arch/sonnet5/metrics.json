@@ -1,0 +1,21 @@
+{
+  "name": "sonnet5",
+  "version": "5.115.0-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-declarative",
+    "qt5-tools",
+    "qt5-doc",
+    "hunspell",
+    "aspell",
+    "hspell",
+    "libvoikko",
+    "doxygen"
+  ],
+  "receive": 199693149,
+  "transmit": 416723,
+  "disk": 26009504
+}
