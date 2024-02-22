@@ -1,0 +1,17 @@
+{
+  "name": "lib32-libxml2",
+  "version": "2.12.5-1",
+  "depends": [
+    "lib32-icu",
+    "lib32-xz",
+    "lib32-zlib",
+    "libxml2"
+  ],
+  "makedepends": [
+    "git",
+    "python"
+  ],
+  "receive": 225510305,
+  "transmit": 306804,
+  "disk": 60740919
+}
