@@ -1,0 +1,13 @@
+{
+  "name": "microsoft-gsl",
+  "version": "4.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199583716,
+  "transmit": 274055,
+  "disk": 506666
+}
