@@ -1,0 +1,32 @@
+{
+  "name": "python-flask-security",
+  "version": "3.0.0-7",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-flask-login",
+    "python-flask-mail",
+    "python-flask-principal",
+    "python-flask-wtf",
+    "python-flask-babelex",
+    "python-itsdangerous",
+    "python-passlib",
+    "python-email-validator"
+  ],
+  "makedepends": [
+    "python-flask",
+    "python-flask-login",
+    "python-flask-mail",
+    "python-flask-principal",
+    "python-flask-wtf",
+    "python-flask-babelex",
+    "python-itsdangerous",
+    "python-passlib",
+    "python-sphinx",
+    "python-setuptools",
+    "python-pytest-runner"
+  ],
+  "receive": 199635537,
+  "transmit": 371505,
+  "disk": 701751
+}
