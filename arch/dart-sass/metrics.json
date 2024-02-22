@@ -1,0 +1,15 @@
+{
+  "name": "dart-sass",
+  "version": "1.70.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "dart",
+    "buf"
+  ],
+  "receive": 226694144,
+  "transmit": 564906,
+  "disk": 33954970
+}
