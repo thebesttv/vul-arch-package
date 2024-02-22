@@ -1,0 +1,13 @@
+{
+  "name": "perl-module-runtime",
+  "version": "0.016-3",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199654017,
+  "transmit": 395722,
+  "disk": 185553
+}
