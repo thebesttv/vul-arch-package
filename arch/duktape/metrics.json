@@ -1,0 +1,11 @@
+{
+  "name": "duktape",
+  "version": "2.7.0-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199571397,
+  "transmit": 309358,
+  "disk": 19620584
+}
