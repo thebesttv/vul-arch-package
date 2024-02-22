@@ -1,0 +1,14 @@
+{
+  "name": "runst",
+  "version": "0.1.5-1",
+  "depends": [
+    "dbus",
+    "pango"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199569571,
+  "transmit": 315177,
+  "disk": 772800
+}
