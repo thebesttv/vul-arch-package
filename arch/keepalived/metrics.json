@@ -1,0 +1,20 @@
+{
+  "name": "keepalived",
+  "version": "2.2.8-1",
+  "depends": [
+    "glibc",
+    "libnl",
+    "openssl",
+    "file",
+    "iptables",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "libnfnetlink",
+    "ipset",
+    "systemd"
+  ],
+  "receive": 199768778,
+  "transmit": 445472,
+  "disk": 6506176
+}
