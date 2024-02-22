@@ -1,0 +1,11 @@
+{
+  "name": "yamdi",
+  "version": "1.9-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199595004,
+  "transmit": 356626,
+  "disk": 189481
+}
