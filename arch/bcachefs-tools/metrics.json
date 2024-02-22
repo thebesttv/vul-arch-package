@@ -1,0 +1,37 @@
+{
+  "name": "bcachefs-tools",
+  "version": "3:1.6.3-1",
+  "depends": [
+    "bash",
+    "fuse3",
+    "gcc-libs",
+    "libaio.so",
+    "libaio",
+    "libblkid.so",
+    "libuuid.so",
+    "util-linux-libs",
+    "libkeyutils.so",
+    "keyutils",
+    "libsodium.so",
+    "libsodium",
+    "liburcu",
+    "libz.so",
+    "zlib",
+    "libzstd.so",
+    "zstd",
+    "lz4",
+    "libudev.so",
+    "systemd-libs",
+    "udev"
+  ],
+  "makedepends": [
+    "cargo",
+    "clang",
+    "llvm",
+    "pkgconf",
+    "valgrind"
+  ],
+  "receive": 199580086,
+  "transmit": 352082,
+  "disk": 5885046
+}
