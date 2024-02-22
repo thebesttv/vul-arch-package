@@ -1,0 +1,13 @@
+{
+  "name": "bchunk",
+  "version": "1.2.2-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199534403,
+  "transmit": 281077,
+  "disk": 151736
+}
