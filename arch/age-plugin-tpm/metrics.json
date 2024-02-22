@@ -1,0 +1,15 @@
+{
+  "name": "age-plugin-tpm",
+  "version": "0.2.0-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git",
+    "swtpm"
+  ],
+  "receive": 199619280,
+  "transmit": 393747,
+  "disk": 198324
+}
