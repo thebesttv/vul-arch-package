@@ -1,0 +1,39 @@
+{
+  "name": "gvfs",
+  "version": "1.52.2-2",
+  "depends": [
+    "avahi",
+    "dconf",
+    "fuse3",
+    "gcr",
+    "gsettings-desktop-schemas",
+    "libarchive",
+    "libbluray",
+    "libcdio-paranoia",
+    "libgudev",
+    "libsecret",
+    "libsoup3",
+    "psmisc",
+    "udisks2"
+  ],
+  "makedepends": [
+    "dbus",
+    "docbook-xsl",
+    "git",
+    "gtk-doc",
+    "gtk3",
+    "libgdata",
+    "libgoa",
+    "libgphoto2",
+    "libimobiledevice",
+    "libmtp",
+    "libnfs",
+    "meson",
+    "openssh",
+    "python",
+    "smbclient"
+  ],
+  "receive": 199714415,
+  "transmit": 307577,
+  "disk": 31725653
+}
