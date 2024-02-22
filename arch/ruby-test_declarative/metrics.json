@@ -1,0 +1,14 @@
+{
+  "name": "ruby-test_declarative",
+  "version": "0.0.6-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rdoc"
+  ],
+  "receive": 199652465,
+  "transmit": 417307,
+  "disk": 314315
+}
