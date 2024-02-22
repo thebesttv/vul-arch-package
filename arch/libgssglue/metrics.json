@@ -1,0 +1,11 @@
+{
+  "name": "libgssglue",
+  "version": "0.9-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199670816,
+  "transmit": 416896,
+  "disk": 414125
+}
