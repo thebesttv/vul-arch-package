@@ -1,0 +1,12 @@
+{
+  "name": "ruby-em-proxy",
+  "version": "0.1.9-7",
+  "depends": [
+    "ruby",
+    "ruby-eventmachine"
+  ],
+  "makedepends": [],
+  "receive": 199833778,
+  "transmit": 515946,
+  "disk": 185316
+}
