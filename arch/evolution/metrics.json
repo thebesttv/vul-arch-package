@@ -1,0 +1,35 @@
+{
+  "name": "evolution",
+  "version": "3.50.4-1",
+  "depends": [
+    "cmark",
+    "enchant",
+    "evolution-data-server",
+    "gnome-autoar",
+    "gnome-desktop",
+    "gspell",
+    "libcanberra",
+    "libgweather-4",
+    "libnotify",
+    "libpst",
+    "libytnef",
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "bogofilter",
+    "cmake",
+    "docbook-xsl",
+    "git",
+    "gtk-doc",
+    "highlight",
+    "intltool",
+    "itstool",
+    "networkmanager",
+    "ninja",
+    "spamassassin",
+    "yelp-tools"
+  ],
+  "receive": 666392709,
+  "transmit": 437884,
+  "disk": 608103545
+}
