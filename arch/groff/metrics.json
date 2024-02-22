@@ -1,0 +1,17 @@
+{
+  "name": "groff",
+  "version": "1.23.0-5",
+  "depends": [
+    "perl",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "netpbm",
+    "psutils",
+    "libxaw",
+    "perl-file-homedir"
+  ],
+  "receive": 199540140,
+  "transmit": 329618,
+  "disk": 36312499
+}
