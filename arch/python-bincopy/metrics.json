@@ -1,0 +1,19 @@
+{
+  "name": "python-bincopy",
+  "version": "20.0.0-1",
+  "depends": [
+    "python",
+    "python-argparse-addons",
+    "python-humanfriendly",
+    "python-pyelftools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 200131539,
+  "transmit": 665978,
+  "disk": 8379602
+}
