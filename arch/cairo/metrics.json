@@ -1,0 +1,26 @@
+{
+  "name": "cairo",
+  "version": "1.18.0-1",
+  "depends": [
+    "fontconfig",
+    "freetype2",
+    "glib2",
+    "libpng",
+    "libx11",
+    "libxcb",
+    "libxext",
+    "libxrender",
+    "lzo",
+    "pixman",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "gtk-doc",
+    "meson",
+    "valgrind"
+  ],
+  "receive": 309427455,
+  "transmit": 442634,
+  "disk": 171834443
+}
