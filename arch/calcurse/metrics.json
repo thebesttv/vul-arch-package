@@ -1,0 +1,11 @@
+{
+  "name": "calcurse",
+  "version": "4.8.1-1",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 200163817,
+  "transmit": 651998,
+  "disk": 3975757
+}
