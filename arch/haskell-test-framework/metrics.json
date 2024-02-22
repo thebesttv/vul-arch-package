@@ -1,0 +1,23 @@
+{
+  "name": "haskell-test-framework",
+  "version": "0.8.2.0-680",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-ansi-wl-pprint",
+    "haskell-hostname",
+    "haskell-old-locale",
+    "haskell-random",
+    "haskell-regex-posix",
+    "haskell-xml"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-libxml"
+  ],
+  "receive": 199539219,
+  "transmit": 302185,
+  "disk": 750423
+}
