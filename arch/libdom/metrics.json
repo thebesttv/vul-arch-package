@@ -1,0 +1,15 @@
+{
+  "name": "libdom",
+  "version": "0.4.2-1",
+  "depends": [
+    "expat",
+    "libhubbub>=0.3.8",
+    "libwapcaplet>=0.4.3"
+  ],
+  "makedepends": [
+    "netsurf-buildsystem"
+  ],
+  "receive": 199774735,
+  "transmit": 328944,
+  "disk": 10246636
+}
