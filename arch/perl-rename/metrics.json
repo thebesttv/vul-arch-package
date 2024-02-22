@@ -1,0 +1,11 @@
+{
+  "name": "perl-rename",
+  "version": "1.14-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199509933,
+  "transmit": 270809,
+  "disk": 106447
+}
