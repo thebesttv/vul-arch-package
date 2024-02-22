@@ -1,0 +1,13 @@
+{
+  "name": "docparser",
+  "version": "1.0.3-1",
+  "depends": [
+    "poppler"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199651554,
+  "transmit": 371316,
+  "disk": 2671926
+}
