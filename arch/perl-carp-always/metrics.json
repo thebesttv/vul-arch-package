@@ -1,0 +1,11 @@
+{
+  "name": "perl-carp-always",
+  "version": "0.16-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199533850,
+  "transmit": 290429,
+  "disk": 154328
+}
