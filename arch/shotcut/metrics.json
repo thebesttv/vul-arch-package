@@ -1,0 +1,29 @@
+{
+  "name": "shotcut",
+  "version": "24.01-2",
+  "depends": [
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-imageformats",
+    "qt6-multimedia",
+    "qt6-translations",
+    "mlt",
+    "movit",
+    "ffmpeg",
+    "libx264",
+    "libvpx",
+    "lame",
+    "frei0r-plugins",
+    "ladspa",
+    "qt6-charts"
+  ],
+  "makedepends": [
+    "qt6-tools",
+    "cmake",
+    "ninja",
+    "clang"
+  ],
+  "receive": 212654839,
+  "transmit": 837009,
+  "disk": 57660503
+}
