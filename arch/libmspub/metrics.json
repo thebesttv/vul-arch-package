@@ -1,0 +1,20 @@
+{
+  "name": "libmspub",
+  "version": "0.1.4-15",
+  "depends": [
+    "libwpd",
+    "icu",
+    "librevenge",
+    "zlib",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "libwpg",
+    "boost",
+    "doxygen"
+  ],
+  "receive": 199757007,
+  "transmit": 422606,
+  "disk": 3241100
+}
