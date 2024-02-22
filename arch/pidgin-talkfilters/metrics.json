@@ -1,0 +1,18 @@
+{
+  "name": "pidgin-talkfilters",
+  "version": "2.7.0-6",
+  "depends": [
+    "libpurple",
+    "talkfilters"
+  ],
+  "makedepends": [
+    "intltool",
+    "gettext",
+    "python",
+    "pidgin",
+    "mercurial"
+  ],
+  "receive": 199571381,
+  "transmit": 365664,
+  "disk": 5689768
+}
