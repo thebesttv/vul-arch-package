@@ -1,0 +1,15 @@
+{
+  "name": "python-blinker",
+  "version": "1.6.3-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199684091,
+  "transmit": 419557,
+  "disk": 235563
+}
