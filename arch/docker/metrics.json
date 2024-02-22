@@ -1,0 +1,28 @@
+{
+  "name": "docker",
+  "version": "1:25.0.2-1",
+  "depends": [
+    "glibc",
+    "bridge-utils",
+    "iproute2",
+    "device-mapper",
+    "sqlite",
+    "systemd-libs",
+    "libseccomp",
+    "libtool",
+    "runc",
+    "containerd"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "btrfs-progs",
+    "cmake",
+    "systemd",
+    "go-md2man",
+    "sed"
+  ],
+  "receive": 760393965,
+  "transmit": 5311128,
+  "disk": 696341623
+}
