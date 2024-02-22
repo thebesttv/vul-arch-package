@@ -1,0 +1,28 @@
+{
+  "name": "geonkick",
+  "version": "3.3.2-2",
+  "depends": [],
+  "makedepends": [
+    "cairo",
+    "cmake",
+    "gcc-libs",
+    "glibc",
+    "gtkmm3",
+    "hicolor-icon-theme",
+    "jack",
+    "libsndfile",
+    "libx11",
+    "libxkbcommon",
+    "libxkbcommon-x11",
+    "lv2",
+    "pango",
+    "rapidjson",
+    "vst3sdk",
+    "xcb-util",
+    "xcb-util-cursor",
+    "xcb-util-keysyms"
+  ],
+  "receive": 199700361,
+  "transmit": 392769,
+  "disk": 24340259
+}
