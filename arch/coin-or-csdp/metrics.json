@@ -1,0 +1,11 @@
+{
+  "name": "coin-or-csdp",
+  "version": "6.2.0-4",
+  "depends": [
+    "lapack"
+  ],
+  "makedepends": [],
+  "receive": 199711148,
+  "transmit": 444000,
+  "disk": 1520903
+}
