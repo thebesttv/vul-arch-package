@@ -1,0 +1,18 @@
+{
+  "name": "composable-kernel",
+  "version": "6.0.0-1",
+  "depends": [
+    "hip"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "ninja",
+    "rocm-cmake",
+    "rocm-llvm",
+    "openmp"
+  ],
+  "receive": 199907815,
+  "transmit": 553972,
+  "disk": 20473526
+}
