@@ -1,0 +1,16 @@
+{
+  "name": "aardvark-dns",
+  "version": "1.10.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo",
+    "git",
+    "libgit2"
+  ],
+  "receive": 199673175,
+  "transmit": 401670,
+  "disk": 14195838
+}
