@@ -1,0 +1,19 @@
+{
+  "name": "aarch64-linux-gnu-gcc",
+  "version": "13.2.0-1",
+  "depends": [
+    "aarch64-linux-gnu-binutils",
+    "aarch64-linux-gnu-glibc",
+    "libmpc",
+    "zlib",
+    "libisl",
+    "zstd"
+  ],
+  "makedepends": [
+    "gmp",
+    "mpfr"
+  ],
+  "receive": 288910731,
+  "transmit": 1368665,
+  "disk": 807621757
+}
