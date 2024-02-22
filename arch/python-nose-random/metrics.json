@@ -1,0 +1,13 @@
+{
+  "name": "python-nose-random",
+  "version": "1.0.0-10",
+  "depends": [
+    "python-nose"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199678481,
+  "transmit": 417076,
+  "disk": 113147
+}
