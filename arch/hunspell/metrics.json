@@ -1,0 +1,12 @@
+{
+  "name": "hunspell",
+  "version": "1.7.2-1",
+  "depends": [
+    "gcc-libs",
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 199519311,
+  "transmit": 238355,
+  "disk": 8818808
+}
