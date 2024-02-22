@@ -1,0 +1,12 @@
+{
+  "name": "xsimd",
+  "version": "12.1.1-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "gtest"
+  ],
+  "receive": 199633931,
+  "transmit": 377660,
+  "disk": 2366684
+}
