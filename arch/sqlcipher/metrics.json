@@ -1,0 +1,15 @@
+{
+  "name": "sqlcipher",
+  "version": "4.5.5-1",
+  "depends": [
+    "openssl",
+    "sqlite",
+    "tcl",
+    "readline",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199685416,
+  "transmit": 413303,
+  "disk": 136796483
+}
