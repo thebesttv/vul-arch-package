@@ -1,0 +1,14 @@
+{
+  "name": "eslint-language-server",
+  "version": "2.4.4-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "npm"
+  ],
+  "receive": 199509577,
+  "transmit": 283057,
+  "disk": 13102547
+}
