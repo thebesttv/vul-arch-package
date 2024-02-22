@@ -1,0 +1,14 @@
+{
+  "name": "sed",
+  "version": "4.9-3",
+  "depends": [
+    "glibc",
+    "acl"
+  ],
+  "makedepends": [
+    "gettext"
+  ],
+  "receive": 199658817,
+  "transmit": 404998,
+  "disk": 12133212
+}
