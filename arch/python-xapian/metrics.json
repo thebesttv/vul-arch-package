@@ -1,0 +1,18 @@
+{
+  "name": "python-xapian",
+  "version": "1:1.4.24-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "zlib"
+  ],
+  "makedepends": [
+    "util-linux-libs",
+    "python-sphinx",
+    "xapian-core=1:1.4.24"
+  ],
+  "receive": 199560165,
+  "transmit": 253549,
+  "disk": 21904873
+}
