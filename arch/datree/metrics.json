@@ -1,0 +1,14 @@
+{
+  "name": "datree",
+  "version": "1.8.8-1",
+  "depends": [
+    "kubectl"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199680412,
+  "transmit": 398788,
+  "disk": 12390074
+}
