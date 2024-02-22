@@ -1,0 +1,14 @@
+{
+  "name": "rocfft",
+  "version": "6.0.0-1",
+  "depends": [
+    "hip",
+    "python"
+  ],
+  "makedepends": [
+    "rocm-cmake"
+  ],
+  "receive": 199539015,
+  "transmit": 262146,
+  "disk": 6197579
+}
