@@ -1,0 +1,13 @@
+{
+  "name": "navi",
+  "version": "2.23.0-1",
+  "depends": [
+    "fzf"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199484863,
+  "transmit": 234987,
+  "disk": 464399
+}
