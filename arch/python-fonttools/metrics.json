@@ -1,0 +1,17 @@
+{
+  "name": "python-fonttools",
+  "version": "4.49.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199752443,
+  "transmit": 416513,
+  "disk": 24717303
+}
