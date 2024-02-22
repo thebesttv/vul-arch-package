@@ -1,0 +1,14 @@
+{
+  "name": "gpgit",
+  "version": "1:1.5.0-2",
+  "depends": [
+    "bash",
+    "gnupg",
+    "git",
+    "xz"
+  ],
+  "makedepends": [],
+  "receive": 199486588,
+  "transmit": 246361,
+  "disk": 664850
+}
