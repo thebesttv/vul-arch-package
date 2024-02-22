@@ -1,0 +1,15 @@
+{
+  "name": "cargo-msrv",
+  "version": "0.15.1-4",
+  "depends": [
+    "gcc-libs",
+    "openssl",
+    "rustup"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199515125,
+  "transmit": 304933,
+  "disk": 686630
+}
