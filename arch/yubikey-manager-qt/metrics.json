@@ -1,0 +1,15 @@
+{
+  "name": "yubikey-manager-qt",
+  "version": "1.2.5-1",
+  "depends": [
+    "yubikey-manager",
+    "qt5-quickcontrols",
+    "qt5-quickcontrols2",
+    "qt5-graphicaleffects",
+    "python-pyotherside"
+  ],
+  "makedepends": [],
+  "receive": 199541207,
+  "transmit": 278926,
+  "disk": 35383328
+}
