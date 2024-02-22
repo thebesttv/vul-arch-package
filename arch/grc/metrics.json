@@ -1,0 +1,11 @@
+{
+  "name": "grc",
+  "version": "1.13-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199550029,
+  "transmit": 296686,
+  "disk": 329598
+}
