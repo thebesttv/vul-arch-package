@@ -1,0 +1,19 @@
+{
+  "name": "haskell-pipes",
+  "version": "4.3.16-114",
+  "depends": [
+    "ghc-libs",
+    "haskell-mmorph",
+    "haskell-void"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199606804,
+  "transmit": 347110,
+  "disk": 518070
+}
