@@ -1,0 +1,20 @@
+{
+  "name": "rime-cantonese",
+  "version": "0.0.0.20240101-1",
+  "depends": [
+    "rime-cangjie",
+    "rime-emoji",
+    "rime-loengfan",
+    "rime-luna-pinyin",
+    "rime-stroke"
+  ],
+  "makedepends": [
+    "git",
+    "librime",
+    "rime-prelude",
+    "rime-essay"
+  ],
+  "receive": 308252151,
+  "transmit": 1209766,
+  "disk": 117554960
+}
