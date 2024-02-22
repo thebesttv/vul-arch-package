@@ -1,0 +1,14 @@
+{
+  "name": "cmark",
+  "version": "0.31.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "python"
+  ],
+  "receive": 199499684,
+  "transmit": 286168,
+  "disk": 1729889
+}
