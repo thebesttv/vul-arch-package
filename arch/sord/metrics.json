@@ -1,0 +1,17 @@
+{
+  "name": "sord",
+  "version": "0.16.16-1",
+  "depends": [],
+  "makedepends": [
+    "doxygen",
+    "glibc",
+    "meson",
+    "pcre2",
+    "python-sphinx",
+    "serd",
+    "zix"
+  ],
+  "receive": 199503127,
+  "transmit": 280764,
+  "disk": 3657801
+}
