@@ -1,0 +1,19 @@
+{
+  "name": "lib2geom",
+  "version": "1.3-1",
+  "depends": [
+    "glib2",
+    "gsl",
+    "double-conversion",
+    "cairo",
+    "ragel"
+  ],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "gtest"
+  ],
+  "receive": 199608289,
+  "transmit": 381190,
+  "disk": 6414514
+}
