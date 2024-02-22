@@ -1,0 +1,14 @@
+{
+  "name": "haskell-mersenne-random-pure64",
+  "version": "0.2.2.0-175",
+  "depends": [
+    "ghc-libs",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199525866,
+  "transmit": 260270,
+  "disk": 291727
+}
