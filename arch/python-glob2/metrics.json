@@ -1,0 +1,13 @@
+{
+  "name": "python-glob2",
+  "version": "0.7-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199621380,
+  "transmit": 371335,
+  "disk": 141559
+}
