@@ -1,0 +1,11 @@
+{
+  "name": "cudd",
+  "version": "3.0.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199524424,
+  "transmit": 279837,
+  "disk": 7139437
+}
