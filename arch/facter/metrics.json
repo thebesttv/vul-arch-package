@@ -1,0 +1,42 @@
+{
+  "name": "facter",
+  "version": "3.14.24-7",
+  "depends": [
+    "yaml-cpp",
+    "boost-libs",
+    "curl",
+    "libwhereami",
+    "libwhereami.so",
+    "cpp-hocon",
+    "libcpp-hocon.so",
+    "systemd-libs",
+    "leatherman",
+    "leatherman_curl.so",
+    "leatherman_ruby.so",
+    "leatherman_execution.so",
+    "leatherman_file_util.so",
+    "leatherman_util.so",
+    "leatherman_logging.so",
+    "leatherman_locale.so",
+    "openssl",
+    "gcc-libs",
+    "glibc",
+    "util-linux-libs",
+    "ruby",
+    "libblkid.so",
+    "yaml-cpp",
+    "dmidecode",
+    "pciutils",
+    "virt-what"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "java-environment>=10",
+    "python",
+    "rapidjson"
+  ],
+  "receive": 200011928,
+  "transmit": 292925,
+  "disk": 2875516
+}
