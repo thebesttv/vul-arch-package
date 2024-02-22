@@ -1,0 +1,15 @@
+{
+  "name": "avisynthplus",
+  "version": "3.7.3-1",
+  "depends": [
+    "gcc-libs",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake",
+    "devil"
+  ],
+  "receive": 199530505,
+  "transmit": 301240,
+  "disk": 40871248
+}
