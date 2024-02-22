@@ -1,0 +1,15 @@
+{
+  "name": "rtmidi",
+  "version": "5.0.0-2",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "doxygen",
+    "gcc-libs",
+    "glibc",
+    "jack"
+  ],
+  "receive": 199579791,
+  "transmit": 315771,
+  "disk": 662961
+}
