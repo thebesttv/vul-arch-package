@@ -1,0 +1,16 @@
+{
+  "name": "python-crispy-bootstrap3",
+  "version": "2024.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199520363,
+  "transmit": 256685,
+  "disk": 335929
+}
