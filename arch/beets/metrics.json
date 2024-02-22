@@ -1,0 +1,24 @@
+{
+  "name": "beets",
+  "version": "1.6.0-6",
+  "depends": [
+    "python-confuse",
+    "python-jellyfish",
+    "python-mediafile",
+    "python-munkres",
+    "python-musicbrainzngs",
+    "python-reflink",
+    "python-setuptools",
+    "python-six",
+    "python-unidecode",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 199723633,
+  "transmit": 440941,
+  "disk": 48741910
+}
