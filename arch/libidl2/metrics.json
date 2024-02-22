@@ -1,0 +1,14 @@
+{
+  "name": "libidl2",
+  "version": "0.8.14-6",
+  "depends": [
+    "glib2",
+    "texinfo"
+  ],
+  "makedepends": [
+    "pkg-config"
+  ],
+  "receive": 199636744,
+  "transmit": 384095,
+  "disk": 2547869
+}
