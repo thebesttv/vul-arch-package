@@ -1,0 +1,14 @@
+{
+  "name": "ruby-date",
+  "version": "3.2.2-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rake-compiler"
+  ],
+  "receive": 199560994,
+  "transmit": 303196,
+  "disk": 827508
+}
