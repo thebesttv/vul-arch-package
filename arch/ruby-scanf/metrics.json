@@ -1,0 +1,13 @@
+{
+  "name": "ruby-scanf",
+  "version": "1.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-bundler"
+  ],
+  "receive": 199721909,
+  "transmit": 432313,
+  "disk": 162800
+}
