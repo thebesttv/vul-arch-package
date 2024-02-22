@@ -1,0 +1,12 @@
+{
+  "name": "festival",
+  "version": "2.5.0-5",
+  "depends": [
+    "perl",
+    "alsa-lib"
+  ],
+  "makedepends": [],
+  "receive": 199536991,
+  "transmit": 242082,
+  "disk": 39933320
+}
