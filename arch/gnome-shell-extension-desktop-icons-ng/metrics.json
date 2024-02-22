@@ -1,0 +1,22 @@
+{
+  "name": "gnome-shell-extension-desktop-icons-ng",
+  "version": "47.0.8-2",
+  "depends": [
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "gjs",
+    "gnome-autoar",
+    "gnome-desktop",
+    "gnome-shell",
+    "gtk3",
+    "nautilus",
+    "pango"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199631321,
+  "transmit": 347715,
+  "disk": 1405541
+}
