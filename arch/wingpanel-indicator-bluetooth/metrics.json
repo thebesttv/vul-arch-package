@@ -1,0 +1,19 @@
+{
+  "name": "wingpanel-indicator-bluetooth",
+  "version": "7.0.1-1",
+  "depends": [
+    "bluez",
+    "glib2",
+    "gtk3",
+    "libgranite.so",
+    "libwingpanel.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199685984,
+  "transmit": 450414,
+  "disk": 5417014
+}
