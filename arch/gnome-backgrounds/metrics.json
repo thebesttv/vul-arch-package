@@ -1,0 +1,12 @@
+{
+  "name": "gnome-backgrounds",
+  "version": "45.0-1",
+  "depends": [],
+  "makedepends": [
+    "glib2",
+    "meson"
+  ],
+  "receive": 199651474,
+  "transmit": 336167,
+  "disk": 69984531
+}
