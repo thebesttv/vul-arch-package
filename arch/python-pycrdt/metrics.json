@@ -1,0 +1,17 @@
+{
+  "name": "python-pycrdt",
+  "version": "0.8.11-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-maturin"
+  ],
+  "receive": 199671638,
+  "transmit": 433304,
+  "disk": 284792
+}
