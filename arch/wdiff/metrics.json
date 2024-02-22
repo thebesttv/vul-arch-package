@@ -1,0 +1,11 @@
+{
+  "name": "wdiff",
+  "version": "1.2.2-4",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199645797,
+  "transmit": 392270,
+  "disk": 8231425
+}
