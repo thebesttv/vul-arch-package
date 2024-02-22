@@ -1,0 +1,14 @@
+{
+  "name": "ruby-rake-compiler-dock",
+  "version": "1.2.2-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-bundler",
+    "ruby-rake"
+  ],
+  "receive": 199647275,
+  "transmit": 383216,
+  "disk": 311042
+}
