@@ -1,0 +1,11 @@
+{
+  "name": "libdaemon",
+  "version": "0.14-5",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199597820,
+  "transmit": 342258,
+  "disk": 647637
+}
