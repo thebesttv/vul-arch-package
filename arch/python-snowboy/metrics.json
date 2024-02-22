@@ -1,0 +1,15 @@
+{
+  "name": "python-snowboy",
+  "version": "1.3.0-5",
+  "depends": [
+    "python-pyaudio",
+    "cblas"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "swig"
+  ],
+  "receive": 215074321,
+  "transmit": 581451,
+  "disk": 73469491
+}
