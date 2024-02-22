@@ -1,0 +1,11 @@
+{
+  "name": "perl-sub-install",
+  "version": "0.928-9",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199877037,
+  "transmit": 490672,
+  "disk": 211252
+}
