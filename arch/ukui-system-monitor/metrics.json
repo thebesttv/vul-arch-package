@@ -1,0 +1,19 @@
+{
+  "name": "ukui-system-monitor",
+  "version": "1.0.4-2",
+  "depends": [
+    "dconf",
+    "gsettings-qt",
+    "hicolor-icon-theme",
+    "kwindowsystem5",
+    "libgtop",
+    "qt5-svg",
+    "qt5-x11extras"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199666262,
+  "transmit": 420670,
+  "disk": 1244460
+}
