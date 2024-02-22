@@ -1,0 +1,17 @@
+{
+  "name": "python-requests-credssp",
+  "version": "2.0.0-2",
+  "depends": [
+    "python",
+    "python-pyopenssl",
+    "python-requests",
+    "python-ntlm-auth",
+    "python-pyspnego"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199535831,
+  "transmit": 288662,
+  "disk": 182963
+}
