@@ -1,0 +1,14 @@
+{
+  "name": "committed",
+  "version": "1.0.20-1",
+  "depends": [
+    "gcc-libs",
+    "libgit2.so"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199526137,
+  "transmit": 258283,
+  "disk": 305124
+}
