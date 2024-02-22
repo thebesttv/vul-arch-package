@@ -1,0 +1,23 @@
+{
+  "name": "gnome-bluetooth-3.0",
+  "version": "42.8-1",
+  "depends": [
+    "bluez",
+    "gsound",
+    "gtk4",
+    "libadwaita",
+    "libnotify",
+    "systemd",
+    "upower"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson"
+  ],
+  "receive": 199611592,
+  "transmit": 359061,
+  "disk": 9857817
+}
