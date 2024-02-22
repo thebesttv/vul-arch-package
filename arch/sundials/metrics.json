@@ -1,0 +1,16 @@
+{
+  "name": "sundials",
+  "version": "6.7.0-2",
+  "depends": [
+    "openmpi",
+    "suitesparse"
+  ],
+  "makedepends": [
+    "cmake",
+    "gcc-fortran",
+    "python"
+  ],
+  "receive": 231215926,
+  "transmit": 689947,
+  "disk": 125151101
+}
