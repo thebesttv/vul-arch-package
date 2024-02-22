@@ -1,0 +1,17 @@
+{
+  "name": "modemmanager-qt5",
+  "version": "5.115.0-1",
+  "depends": [
+    "modemmanager",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199631942,
+  "transmit": 403154,
+  "disk": 1213860
+}
