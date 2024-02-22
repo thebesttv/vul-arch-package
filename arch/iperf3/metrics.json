@@ -1,0 +1,13 @@
+{
+  "name": "iperf3",
+  "version": "3.16-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "lksctp-tools"
+  ],
+  "makedepends": [],
+  "receive": 199517541,
+  "transmit": 264405,
+  "disk": 3347937
+}
