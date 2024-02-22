@@ -1,0 +1,17 @@
+{
+  "name": "libiio",
+  "version": "0.25-2",
+  "depends": [],
+  "makedepends": [
+    "avahi",
+    "cmake",
+    "libaio",
+    "libserialport",
+    "libusb",
+    "libxml2",
+    "python-setuptools"
+  ],
+  "receive": 199666560,
+  "transmit": 419920,
+  "disk": 2564679
+}
