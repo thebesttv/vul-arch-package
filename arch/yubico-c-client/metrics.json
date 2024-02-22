@@ -1,0 +1,14 @@
+{
+  "name": "yubico-c-client",
+  "version": "2.15-5",
+  "depends": [
+    "curl",
+    "yubico-c"
+  ],
+  "makedepends": [
+    "help2man"
+  ],
+  "receive": 199636945,
+  "transmit": 384611,
+  "disk": 2083125
+}
