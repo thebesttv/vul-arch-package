@@ -1,0 +1,14 @@
+{
+  "name": "apko",
+  "version": "0.14.0-1",
+  "depends": [
+    "apk-tools",
+    "alpine-keyring"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199516269,
+  "transmit": 233208,
+  "disk": 1101219
+}
