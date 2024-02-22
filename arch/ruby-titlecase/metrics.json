@@ -1,0 +1,14 @@
+{
+  "name": "ruby-titlecase",
+  "version": "0.1.1+13+1d6b4f7-5",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rdoc"
+  ],
+  "receive": 199510726,
+  "transmit": 258097,
+  "disk": 285001
+}
