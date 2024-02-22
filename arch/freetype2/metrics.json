@@ -1,0 +1,21 @@
+{
+  "name": "freetype2",
+  "version": "2.13.2-1",
+  "depends": [
+    "brotli",
+    "bzip2",
+    "libpng",
+    "sh",
+    "zlib",
+    "harfbuzz"
+  ],
+  "makedepends": [
+    "librsvg",
+    "libx11",
+    "meson",
+    "qt5-base"
+  ],
+  "receive": 203450730,
+  "transmit": 992070,
+  "disk": 29644025
+}
