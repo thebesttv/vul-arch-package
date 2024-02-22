@@ -1,0 +1,30 @@
+{
+  "name": "python-sphinx",
+  "version": "7.2.6-1",
+  "depends": [
+    "python-babel",
+    "python-docutils",
+    "python-imagesize",
+    "python-jinja",
+    "python-packaging",
+    "python-pygments",
+    "python-requests",
+    "python-snowballstemmer",
+    "python-sphinx-alabaster-theme",
+    "python-sphinxcontrib-applehelp",
+    "python-sphinxcontrib-devhelp",
+    "python-sphinxcontrib-htmlhelp",
+    "python-sphinxcontrib-jsmath",
+    "python-sphinxcontrib-qthelp",
+    "python-sphinxcontrib-serializinghtml"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 316283388,
+  "transmit": 628238,
+  "disk": 142410955
+}
