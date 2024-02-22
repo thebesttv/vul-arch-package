@@ -1,0 +1,17 @@
+{
+  "name": "materia-gtk-theme",
+  "version": "20210322-2",
+  "depends": [
+    "gnome-themes-extra"
+  ],
+  "makedepends": [
+    "meson",
+    "sassc",
+    "gtk3",
+    "gtk4",
+    "gnome-shell"
+  ],
+  "receive": 199568029,
+  "transmit": 319282,
+  "disk": 2273245
+}
