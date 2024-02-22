@@ -1,0 +1,18 @@
+{
+  "name": "python-openpyxl",
+  "version": "3.1.2-3",
+  "depends": [
+    "python",
+    "python-et-xmlfile"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-defusedxml"
+  ],
+  "receive": 199693913,
+  "transmit": 397771,
+  "disk": 11304230
+}
