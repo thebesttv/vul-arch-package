@@ -1,0 +1,17 @@
+{
+  "name": "python-path",
+  "version": "16.10.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199708704,
+  "transmit": 412145,
+  "disk": 1860814
+}
