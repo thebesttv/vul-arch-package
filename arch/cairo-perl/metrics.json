@@ -1,0 +1,15 @@
+{
+  "name": "cairo-perl",
+  "version": "1.109-3",
+  "depends": [
+    "cairo",
+    "perl"
+  ],
+  "makedepends": [
+    "perl-extutils-depends",
+    "perl-extutils-pkgconfig"
+  ],
+  "receive": 199562131,
+  "transmit": 271717,
+  "disk": 724911
+}
