@@ -1,0 +1,13 @@
+{
+  "name": "pkcs11-helper",
+  "version": "1.30.0-1",
+  "depends": [
+    "gnutls",
+    "nss",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199593056,
+  "transmit": 322837,
+  "disk": 3229017
+}
