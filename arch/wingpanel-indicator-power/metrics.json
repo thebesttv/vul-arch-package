@@ -1,0 +1,23 @@
+{
+  "name": "wingpanel-indicator-power",
+  "version": "6.2.1-1",
+  "depends": [
+    "bamf",
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libgtop",
+    "libudev.so",
+    "libwingpanel.so"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199625744,
+  "transmit": 393565,
+  "disk": 5642025
+}
