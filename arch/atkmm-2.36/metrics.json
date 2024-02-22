@@ -1,0 +1,17 @@
+{
+  "name": "atkmm-2.36",
+  "version": "2.36.3-1",
+  "depends": [
+    "atk",
+    "glibmm-2.68"
+  ],
+  "makedepends": [
+    "git",
+    "glibmm-2.68-docs",
+    "meson",
+    "mm-common"
+  ],
+  "receive": 199635675,
+  "transmit": 392654,
+  "disk": 1404400
+}
