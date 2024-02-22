@@ -1,0 +1,18 @@
+{
+  "name": "rapidyaml",
+  "version": "0.5.0-3",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja",
+    "python-setuptools",
+    "python-setuptools-git",
+    "python-setuptools-scm",
+    "python-cmake-build-extension",
+    "swig"
+  ],
+  "receive": 212307869,
+  "transmit": 479361,
+  "disk": 54635560
+}
