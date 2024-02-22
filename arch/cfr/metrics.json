@@ -1,0 +1,15 @@
+{
+  "name": "cfr",
+  "version": "0.152-2",
+  "depends": [
+    "java-runtime"
+  ],
+  "makedepends": [
+    "git",
+    "maven",
+    "jdk8-openjdk"
+  ],
+  "receive": 210280782,
+  "transmit": 440899,
+  "disk": 41378908
+}
