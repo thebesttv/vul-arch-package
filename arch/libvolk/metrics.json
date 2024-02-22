@@ -1,0 +1,16 @@
+{
+  "name": "libvolk",
+  "version": "2:3.1.1-1",
+  "depends": [
+    "gcc-libs",
+    "orc",
+    "python"
+  ],
+  "makedepends": [
+    "cmake",
+    "python-mako"
+  ],
+  "receive": 199542149,
+  "transmit": 298256,
+  "disk": 3784427
+}
