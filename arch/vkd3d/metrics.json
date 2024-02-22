@@ -1,0 +1,17 @@
+{
+  "name": "vkd3d",
+  "version": "1.10-1",
+  "depends": [
+    "spirv-tools",
+    "vulkan-icd-loader"
+  ],
+  "makedepends": [
+    "spirv-headers",
+    "vulkan-headers",
+    "xcb-util-keysyms",
+    "xorgproto"
+  ],
+  "receive": 199533105,
+  "transmit": 275917,
+  "disk": 10705544
+}
