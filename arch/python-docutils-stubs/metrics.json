@@ -1,0 +1,17 @@
+{
+  "name": "python-docutils-stubs",
+  "version": "0.0.22-2",
+  "depends": [
+    "python",
+    "python-docutils"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199609881,
+  "transmit": 358800,
+  "disk": 489256
+}
