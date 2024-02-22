@@ -1,0 +1,14 @@
+{
+  "name": "glow",
+  "version": "1.5.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199901448,
+  "transmit": 518380,
+  "disk": 6012125
+}
