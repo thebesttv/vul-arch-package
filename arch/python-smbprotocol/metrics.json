@@ -1,0 +1,16 @@
+{
+  "name": "python-smbprotocol",
+  "version": "1.12.0-1",
+  "depends": [
+    "python-cryptography",
+    "python-pyspnego",
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199514805,
+  "transmit": 222598,
+  "disk": 3228875
+}
