@@ -1,0 +1,14 @@
+{
+  "name": "ruby-unicode-emoji",
+  "version": "3.3.2-1",
+  "depends": [
+    "ruby",
+    "ruby-unicode-version"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199739014,
+  "transmit": 467697,
+  "disk": 1543910
+}
