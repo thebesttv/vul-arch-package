@@ -1,0 +1,16 @@
+{
+  "name": "kylin-nm",
+  "version": "3.0.2-2",
+  "depends": [
+    "gsettings-qt",
+    "kwindowsystem5",
+    "qt5-svg",
+    "qt5-x11extras"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199527623,
+  "transmit": 290420,
+  "disk": 2164310
+}
