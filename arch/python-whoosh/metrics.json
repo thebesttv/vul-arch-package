@@ -1,0 +1,14 @@
+{
+  "name": "python-whoosh",
+  "version": "2.7.4-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 199610554,
+  "transmit": 391858,
+  "disk": 33028831
+}
