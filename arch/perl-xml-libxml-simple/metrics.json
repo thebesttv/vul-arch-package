@@ -1,0 +1,13 @@
+{
+  "name": "perl-xml-libxml-simple",
+  "version": "1.01-2",
+  "depends": [
+    "perl",
+    "perl-xml-libxml",
+    "perl-file-slurp-tiny"
+  ],
+  "makedepends": [],
+  "receive": 199677183,
+  "transmit": 403195,
+  "disk": 227060
+}
