@@ -1,0 +1,14 @@
+{
+  "name": "xmlstarlet",
+  "version": "1.6.1-3",
+  "depends": [
+    "libxslt"
+  ],
+  "makedepends": [
+    "fop",
+    "ghostscript"
+  ],
+  "receive": 199683529,
+  "transmit": 402255,
+  "disk": 1856361
+}
