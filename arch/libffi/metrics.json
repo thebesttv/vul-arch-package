@@ -1,0 +1,11 @@
+{
+  "name": "libffi",
+  "version": "3.4.6-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199610249,
+  "transmit": 370229,
+  "disk": 7223587
+}
