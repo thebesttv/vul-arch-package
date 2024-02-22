@@ -1,0 +1,16 @@
+{
+  "name": "eigen",
+  "version": "3.4.0-2",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "freeglut",
+    "gcc-fortran",
+    "fftw",
+    "suitesparse",
+    "boost"
+  ],
+  "receive": 199697442,
+  "transmit": 430558,
+  "disk": 18879181
+}
