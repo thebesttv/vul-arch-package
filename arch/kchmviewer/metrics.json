@@ -1,0 +1,13 @@
+{
+  "name": "kchmviewer",
+  "version": "8.0-5",
+  "depends": [
+    "chmlib",
+    "libzip",
+    "qt5-webengine"
+  ],
+  "makedepends": [],
+  "receive": 199844047,
+  "transmit": 491844,
+  "disk": 1633956
+}
