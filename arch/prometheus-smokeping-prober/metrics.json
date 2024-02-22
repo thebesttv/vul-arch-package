@@ -1,0 +1,13 @@
+{
+  "name": "prometheus-smokeping-prober",
+  "version": "0.7.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199517411,
+  "transmit": 246485,
+  "disk": 371419
+}
