@@ -1,0 +1,14 @@
+{
+  "name": "kexec-tools",
+  "version": "2.0.26-1",
+  "depends": [
+    "zlib",
+    "xz"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199543676,
+  "transmit": 281358,
+  "disk": 4367631
+}
