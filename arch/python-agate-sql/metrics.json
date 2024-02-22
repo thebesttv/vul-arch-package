@@ -1,0 +1,17 @@
+{
+  "name": "python-agate-sql",
+  "version": "0.7.2-1",
+  "depends": [
+    "python",
+    "python-agate",
+    "python-sqlalchemy",
+    "python-sphinx_rtd_theme"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 199589216,
+  "transmit": 290069,
+  "disk": 177454
+}
