@@ -1,0 +1,14 @@
+{
+  "name": "ruby-samovar",
+  "version": "2.1.4-3",
+  "depends": [
+    "ruby-console",
+    "ruby-mapping"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199555719,
+  "transmit": 340367,
+  "disk": 682403
+}
