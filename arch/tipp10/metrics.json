@@ -1,0 +1,15 @@
+{
+  "name": "tipp10",
+  "version": "3.3.1-1",
+  "depends": [
+    "qt6-multimedia"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "qt6-tools"
+  ],
+  "receive": 199546316,
+  "transmit": 289226,
+  "disk": 7998477
+}
