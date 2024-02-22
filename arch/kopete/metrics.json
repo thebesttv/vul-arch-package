@@ -1,0 +1,29 @@
+{
+  "name": "kopete",
+  "version": "23.08.5-1",
+  "depends": [
+    "knotifyconfig5",
+    "kcmutils5",
+    "ktexteditor5",
+    "kcontacts5",
+    "kidentitymanagement",
+    "libkleo",
+    "qca-qt5",
+    "kdelibs4support",
+    "khtml",
+    "libidn",
+    "libotr"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "libgadu",
+    "jsoncpp",
+    "kdoctools5",
+    "kdesignerplugin",
+    "kdnssd5",
+    "kinit"
+  ],
+  "receive": 210093358,
+  "transmit": 495480,
+  "disk": 100332399
+}
