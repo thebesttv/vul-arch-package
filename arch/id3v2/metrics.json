@@ -1,0 +1,14 @@
+{
+  "name": "id3v2",
+  "version": "0.1.12-6",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "id3lib",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199516278,
+  "transmit": 260788,
+  "disk": 559311
+}
