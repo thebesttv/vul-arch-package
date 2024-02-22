@@ -1,0 +1,16 @@
+{
+  "name": "python-toolz",
+  "version": "0.12.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199621945,
+  "transmit": 341083,
+  "disk": 466193
+}
