@@ -1,0 +1,14 @@
+{
+  "name": "calc",
+  "version": "2.15.0.5-1",
+  "depends": [
+    "readline"
+  ],
+  "makedepends": [
+    "chrpath",
+    "man"
+  ],
+  "receive": 199649633,
+  "transmit": 370661,
+  "disk": 6664433
+}
