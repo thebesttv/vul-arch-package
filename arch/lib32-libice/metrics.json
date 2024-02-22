@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libice",
+  "version": "1.1.1-1",
+  "depends": [
+    "lib32-glibc",
+    "libice"
+  ],
+  "makedepends": [
+    "xtrans>=1.2.5",
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199645580,
+  "transmit": 399098,
+  "disk": 2770543
+}
