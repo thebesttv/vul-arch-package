@@ -1,0 +1,11 @@
+{
+  "name": "gendesk",
+  "version": "1.0.9-3",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199615364,
+  "transmit": 361054,
+  "disk": 6469267
+}
