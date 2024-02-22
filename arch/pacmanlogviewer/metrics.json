@@ -1,0 +1,15 @@
+{
+  "name": "pacmanlogviewer",
+  "version": "1.5.1-1",
+  "depends": [
+    "qt5-base",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools"
+  ],
+  "receive": 199644775,
+  "transmit": 380450,
+  "disk": 353769
+}
