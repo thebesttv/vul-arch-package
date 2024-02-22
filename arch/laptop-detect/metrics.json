@@ -1,0 +1,12 @@
+{
+  "name": "laptop-detect",
+  "version": "0.16-1",
+  "depends": [
+    "dmidecode",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199663637,
+  "transmit": 446328,
+  "disk": 125061
+}
