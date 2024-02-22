@@ -1,0 +1,13 @@
+{
+  "name": "dive",
+  "version": "0.12.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199543786,
+  "transmit": 270242,
+  "disk": 15513099
+}
