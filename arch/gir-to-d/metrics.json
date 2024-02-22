@@ -1,0 +1,15 @@
+{
+  "name": "gir-to-d",
+  "version": "0.23.1-6",
+  "depends": [
+    "gcc-libs",
+    "liblphobos"
+  ],
+  "makedepends": [
+    "meson",
+    "ldc"
+  ],
+  "receive": 199726020,
+  "transmit": 420418,
+  "disk": 381773
+}
