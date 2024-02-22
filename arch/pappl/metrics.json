@@ -1,0 +1,21 @@
+{
+  "name": "pappl",
+  "version": "1.4.6-1",
+  "depends": [
+    "libcups",
+    "libjpeg-turbo",
+    "libpng",
+    "pam",
+    "libusb",
+    "openssl",
+    "zlib",
+    "avahi",
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200001152,
+  "transmit": 669196,
+  "disk": 9022386
+}
