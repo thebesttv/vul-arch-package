@@ -1,0 +1,11 @@
+{
+  "name": "libtorrent",
+  "version": "0.13.8-3",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 200820092,
+  "transmit": 1073704,
+  "disk": 5011312
+}
