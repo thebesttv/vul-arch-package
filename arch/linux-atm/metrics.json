@@ -1,0 +1,11 @@
+{
+  "name": "linux-atm",
+  "version": "2.5.2-8",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199596650,
+  "transmit": 313401,
+  "disk": 5379224
+}
