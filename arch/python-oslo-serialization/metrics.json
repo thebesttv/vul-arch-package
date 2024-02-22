@@ -1,0 +1,17 @@
+{
+  "name": "python-oslo-serialization",
+  "version": "5.3.0-1",
+  "depends": [
+    "python-pbr",
+    "python-msgpack",
+    "python-oslo-utils",
+    "python-pytz"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199499707,
+  "transmit": 266525,
+  "disk": 999987
+}
