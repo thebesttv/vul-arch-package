@@ -1,0 +1,22 @@
+{
+  "name": "python-onnx",
+  "version": "1:1.15.0-3",
+  "depends": [
+    "python",
+    "protobuf",
+    "python-protobuf",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "pybind11",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 479514494,
+  "transmit": 544506,
+  "disk": 320567878
+}
