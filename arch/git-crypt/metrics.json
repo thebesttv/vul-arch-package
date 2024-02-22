@@ -1,0 +1,15 @@
+{
+  "name": "git-crypt",
+  "version": "0.7.0-2",
+  "depends": [
+    "git",
+    "openssl"
+  ],
+  "makedepends": [
+    "libxslt",
+    "docbook-xsl"
+  ],
+  "receive": 199479783,
+  "transmit": 236856,
+  "disk": 405147
+}
