@@ -1,0 +1,12 @@
+{
+  "name": "function2",
+  "version": "4.2.4-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "gtest"
+  ],
+  "receive": 199571395,
+  "transmit": 371617,
+  "disk": 321146
+}
