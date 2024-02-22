@@ -1,0 +1,18 @@
+{
+  "name": "pybind11",
+  "version": "2.11.1-2",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "boost",
+    "eigen",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-pytest",
+    "python-wheel"
+  ],
+  "receive": 200319386,
+  "transmit": 772612,
+  "disk": 3663379
+}
