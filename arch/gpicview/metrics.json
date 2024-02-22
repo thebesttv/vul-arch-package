@@ -1,0 +1,13 @@
+{
+  "name": "gpicview",
+  "version": "0.2.5-8",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199788324,
+  "transmit": 524896,
+  "disk": 2707751
+}
