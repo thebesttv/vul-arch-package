@@ -1,0 +1,23 @@
+{
+  "name": "renderdoc",
+  "version": "1.31-1",
+  "depends": [
+    "libgl",
+    "libx11",
+    "libxcb",
+    "mesa",
+    "qt5-base",
+    "qt5-svg",
+    "qt5-x11extras",
+    "xcb-util-keysyms"
+  ],
+  "makedepends": [
+    "cmake",
+    "pcre",
+    "python",
+    "ninja"
+  ],
+  "receive": 259185647,
+  "transmit": 1140693,
+  "disk": 263633268
+}
