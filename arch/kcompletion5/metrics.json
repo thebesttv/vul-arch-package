@@ -1,0 +1,17 @@
+{
+  "name": "kcompletion5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kwidgetsaddons5",
+    "kconfig5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "qt5-doc",
+    "doxygen"
+  ],
+  "receive": 199557817,
+  "transmit": 264305,
+  "disk": 24653426
+}
