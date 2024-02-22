@@ -1,0 +1,15 @@
+{
+  "name": "wolf-spectrum",
+  "version": "1.0.0-2",
+  "depends": [
+    "jack",
+    "libglvnd"
+  ],
+  "makedepends": [
+    "gendesk",
+    "lv2"
+  ],
+  "receive": 199532810,
+  "transmit": 315792,
+  "disk": 8855275
+}
