@@ -1,0 +1,22 @@
+{
+  "name": "chrony",
+  "version": "4.5-1",
+  "depends": [
+    "glibc",
+    "libcap",
+    "libcap.so",
+    "libedit",
+    "libedit.so",
+    "libseccomp",
+    "libseccomp.so",
+    "nettle",
+    "libnettle.so",
+    "gnutls"
+  ],
+  "makedepends": [
+    "asciidoctor"
+  ],
+  "receive": 199796372,
+  "transmit": 476048,
+  "disk": 3427225
+}
