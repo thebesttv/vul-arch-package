@@ -1,0 +1,15 @@
+{
+  "name": "fingerterm",
+  "version": "1.4.7-1",
+  "depends": [
+    "qt5-feedback"
+  ],
+  "makedepends": [
+    "git",
+    "nemo-qml-plugin-notifications",
+    "qt5-tools"
+  ],
+  "receive": 199683166,
+  "transmit": 380723,
+  "disk": 871751
+}
