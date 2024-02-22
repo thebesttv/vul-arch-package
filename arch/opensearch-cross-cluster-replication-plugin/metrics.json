@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-cross-cluster-replication-plugin",
+  "version": "2.11.1.0-1",
+  "depends": [
+    "opensearch=2.11.1"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 199619575,
+  "transmit": 329836,
+  "disk": 2370568
+}
