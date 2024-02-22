@@ -1,0 +1,13 @@
+{
+  "name": "python-pythondata-cpu-lm32",
+  "version": "2022.08-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199907919,
+  "transmit": 439298,
+  "disk": 727710
+}
