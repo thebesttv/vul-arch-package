@@ -1,0 +1,16 @@
+{
+  "name": "libde265",
+  "version": "1.0.15-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "ffmpeg",
+    "qt5-base",
+    "sdl"
+  ],
+  "receive": 199533262,
+  "transmit": 311580,
+  "disk": 5097988
+}
