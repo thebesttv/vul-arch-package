@@ -1,0 +1,17 @@
+{
+  "name": "kvantum",
+  "version": "1.0.10-2",
+  "depends": [
+    "kwindowsystem5",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools",
+    "qt6-svg",
+    "qt6-tools"
+  ],
+  "receive": 199743614,
+  "transmit": 408189,
+  "disk": 15630232
+}
