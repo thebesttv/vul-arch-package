@@ -1,0 +1,14 @@
+{
+  "name": "dump_syms",
+  "version": "2.2.2-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 199685319,
+  "transmit": 417042,
+  "disk": 52101882
+}
