@@ -1,0 +1,15 @@
+{
+  "name": "haskell-hie-compat",
+  "version": "0.3.0.0-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199593715,
+  "transmit": 332669,
+  "disk": 579199
+}
