@@ -1,0 +1,17 @@
+{
+  "name": "ocaml-topkg",
+  "version": "1.0.7-2",
+  "depends": [
+    "ocaml",
+    "ocaml-result"
+  ],
+  "makedepends": [
+    "ocaml-findlib",
+    "ocamlbuild",
+    "opam",
+    "ocaml-compiler-libs"
+  ],
+  "receive": 199623875,
+  "transmit": 389734,
+  "disk": 764934
+}
