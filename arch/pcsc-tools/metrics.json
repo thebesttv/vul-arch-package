@@ -1,0 +1,15 @@
+{
+  "name": "pcsc-tools",
+  "version": "1.7.1-1",
+  "depends": [
+    "pcsclite",
+    "pcsc-perl",
+    "glib-perl"
+  ],
+  "makedepends": [
+    "pkg-config"
+  ],
+  "receive": 199534238,
+  "transmit": 321929,
+  "disk": 2268738
+}
