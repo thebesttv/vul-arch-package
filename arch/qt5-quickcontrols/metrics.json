@@ -1,0 +1,13 @@
+{
+  "name": "qt5-quickcontrols",
+  "version": "5.15.12-1",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199653913,
+  "transmit": 367454,
+  "disk": 29145149
+}
