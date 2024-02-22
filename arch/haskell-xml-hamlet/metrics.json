@@ -1,0 +1,15 @@
+{
+  "name": "haskell-xml-hamlet",
+  "version": "0.5.0.2-181",
+  "depends": [
+    "ghc-libs",
+    "haskell-shakespeare",
+    "haskell-xml-conduit"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199527888,
+  "transmit": 261110,
+  "disk": 740164
+}
