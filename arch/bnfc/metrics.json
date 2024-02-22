@@ -1,0 +1,22 @@
+{
+  "name": "bnfc",
+  "version": "2.9.4.1-29",
+  "depends": [
+    "ghc-libs",
+    "haskell-string-qq"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "alex",
+    "happy",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-temporary"
+  ],
+  "receive": 199657511,
+  "transmit": 246495,
+  "disk": 1453404
+}
