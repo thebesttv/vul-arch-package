@@ -1,0 +1,21 @@
+{
+  "name": "haskell-aeson-qq",
+  "version": "0.8.4-170",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-base-compat",
+    "haskell-src-meta",
+    "haskell-scientific",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199733217,
+  "transmit": 388271,
+  "disk": 535503
+}
