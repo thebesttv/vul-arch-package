@@ -1,0 +1,17 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=1.86 s (610.7 files/s 654920.5 lines/s)"
+260,PO File,171885,242372,638855
+349,C++,21374,9083,82252
+377,C/C++ Header,6996,8530,17648
+20,Qt,5,0,5825
+14,XML,168,300,4816
+16,JSON,0,0,2430
+72,CMake,347,358,1982
+10,Text,290,0,1032
+3,YAML,5,9,182
+1,XSD,30,56,89
+8,Bourne Shell,13,0,61
+2,Windows Resource File,6,0,61
+1,Bourne Again Shell,8,30,28
+1,Standard ML,1,0,15
+1,HTML,2,0,10
+1135,SUM,201130,260738,755286
