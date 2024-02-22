@@ -1,0 +1,17 @@
+{
+  "name": "lib32-libappindicator",
+  "version": "12.10.0.r298-1",
+  "depends": [],
+  "makedepends": [
+    "breezy",
+    "dbus-glib",
+    "lib32-libdbusmenu-gtk2",
+    "lib32-libdbusmenu-gtk3",
+    "lib32-libindicator-gtk2",
+    "lib32-libindicator-gtk3",
+    "vala"
+  ],
+  "receive": 202413956,
+  "transmit": 491943,
+  "disk": 5453658
+}
