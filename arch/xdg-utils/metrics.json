@@ -1,0 +1,19 @@
+{
+  "name": "xdg-utils",
+  "version": "1.2.1-1",
+  "depends": [
+    "sh",
+    "file",
+    "xorg-xset",
+    "xorg-xprop"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "lynx",
+    "xmlto",
+    "git"
+  ],
+  "receive": 199615038,
+  "transmit": 375192,
+  "disk": 2590198
+}
