@@ -1,0 +1,22 @@
+{
+  "name": "lldpd",
+  "version": "1.0.18-1",
+  "depends": [
+    "glibc",
+    "libevent",
+    "libbsd",
+    "zlib",
+    "openssl",
+    "pciutils",
+    "perl",
+    "libxml2",
+    "net-snmp",
+    "jansson"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199720299,
+  "transmit": 417909,
+  "disk": 10765671
+}

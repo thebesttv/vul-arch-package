@@ -1,0 +1,17 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.54 s (728.1 files/s 411249.4 lines/s)"
+180,C,12033,11119,76457
+16,Bourne Shell,8784,7652,50462
+33,m4,1488,305,14101
+114,C/C++ Header,3830,12499,13924
+17,CMake,541,570,2034
+3,Text,362,0,1072
+15,make,207,201,1015
+4,Markdown,196,0,828
+3,Python,376,1270,393
+3,HTML,7,0,66
+1,awk,3,2,20
+1,sed,3,5,19
+1,D,14,85,16
+1,Standard ML,1,0,15
+1,YAML,0,0,3
+393,SUM,27845,33708,160425
