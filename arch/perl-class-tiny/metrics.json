@@ -1,0 +1,11 @@
+{
+  "name": "perl-class-tiny",
+  "version": "1.008-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199622594,
+  "transmit": 282256,
+  "disk": 233875
+}
