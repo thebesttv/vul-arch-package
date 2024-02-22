@@ -1,0 +1,13 @@
+{
+  "name": "libmpdclient",
+  "version": "2.22-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199732717,
+  "transmit": 444195,
+  "disk": 698806
+}
