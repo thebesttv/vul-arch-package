@@ -1,0 +1,17 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.53 s (1352.8 files/s 451847.3 lines/s)"
+259,C,20462,26624,95688
+282,C/C++ Header,5302,30549,19550
+63,PO File,4996,6426,11583
+36,XML,89,11,4736
+6,m4,437,256,3370
+28,make,350,167,1800
+5,Text,220,0,1770
+6,MSBuild script,0,0,936
+17,Bourne Shell,213,297,880
+2,Visual Studio Solution,2,2,378
+1,Perl,31,42,101
+2,JavaScript,10,10,45
+1,YAML,3,2,43
+2,sed,0,0,16
+1,Ant,16,53,15
+711,SUM,32131,64439,140911
