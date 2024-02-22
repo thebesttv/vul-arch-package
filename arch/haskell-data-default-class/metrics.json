@@ -1,0 +1,13 @@
+{
+  "name": "haskell-data-default-class",
+  "version": "0.1.2.0-24",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199542377,
+  "transmit": 235123,
+  "disk": 132696
+}
