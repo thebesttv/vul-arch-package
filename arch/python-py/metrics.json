@@ -1,0 +1,20 @@
+{
+  "name": "python-py",
+  "version": "1.11.0-4",
+  "depends": [
+    "python",
+    "python-apipkg",
+    "python-iniconfig"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199641908,
+  "transmit": 345549,
+  "disk": 24516477
+}
