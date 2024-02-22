@@ -1,0 +1,19 @@
+{
+  "name": "uqm",
+  "version": "0.8.0-3",
+  "depends": [
+    "libmikmod",
+    "libvorbis",
+    "sdl_image",
+    "libgl",
+    "glu"
+  ],
+  "makedepends": [
+    "imagemagick",
+    "mesa",
+    "namcap"
+  ],
+  "receive": 213074595,
+  "transmit": 489836,
+  "disk": 20639383
+}
