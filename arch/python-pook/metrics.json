@@ -1,0 +1,18 @@
+{
+  "name": "python-pook",
+  "version": "1.2.1-1",
+  "depends": [
+    "python-furl",
+    "python-jsonschema",
+    "python-xmltodict"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199556924,
+  "transmit": 323104,
+  "disk": 437087
+}
