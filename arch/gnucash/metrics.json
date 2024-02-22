@@ -1,0 +1,26 @@
+{
+  "name": "gnucash",
+  "version": "5.5-1",
+  "depends": [
+    "aqbanking",
+    "gwenhywfar",
+    "boost-libs",
+    "guile",
+    "libdbi",
+    "webkit2gtk",
+    "libofx"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "gtest",
+    "libdbi-drivers",
+    "mariadb-libs",
+    "postgresql-libs",
+    "swig",
+    "python"
+  ],
+  "receive": 214898241,
+  "transmit": 503937,
+  "disk": 130120962
+}
