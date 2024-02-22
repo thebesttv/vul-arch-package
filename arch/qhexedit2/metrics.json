@@ -1,0 +1,14 @@
+{
+  "name": "qhexedit2",
+  "version": "0.8.9-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools"
+  ],
+  "receive": 199683040,
+  "transmit": 459883,
+  "disk": 1573819
+}
