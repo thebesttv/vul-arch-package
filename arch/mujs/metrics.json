@@ -1,0 +1,11 @@
+{
+  "name": "mujs",
+  "version": "1.3.4-1",
+  "depends": [
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 199661842,
+  "transmit": 411914,
+  "disk": 712254
+}
