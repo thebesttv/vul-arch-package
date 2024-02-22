@@ -1,0 +1,17 @@
+{
+  "name": "lxlauncher",
+  "version": "0.2.5-4",
+  "depends": [
+    "gtk2",
+    "gtk3",
+    "startup-notification",
+    "lxmenu-data",
+    "menu-cache"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199527707,
+  "transmit": 265671,
+  "disk": 1028827
+}
