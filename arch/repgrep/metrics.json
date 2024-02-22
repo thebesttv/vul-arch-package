@@ -1,0 +1,15 @@
+{
+  "name": "repgrep",
+  "version": "0.15.0-1",
+  "depends": [
+    "gcc-libs",
+    "ripgrep"
+  ],
+  "makedepends": [
+    "cargo",
+    "asciidoctor"
+  ],
+  "receive": 199515483,
+  "transmit": 287658,
+  "disk": 3330666
+}
