@@ -1,0 +1,20 @@
+{
+  "name": "getdns",
+  "version": "1.7.3-1",
+  "depends": [
+    "libbsd",
+    "libev",
+    "libevent",
+    "libidn2",
+    "libuv",
+    "libyaml",
+    "unbound",
+    "check"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199909773,
+  "transmit": 320803,
+  "disk": 4594427
+}
