@@ -1,0 +1,14 @@
+{
+  "name": "haskell-hxt-unicode",
+  "version": "9.0.2.4-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-hxt-charproperties"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199537369,
+  "transmit": 289028,
+  "disk": 194652
+}
