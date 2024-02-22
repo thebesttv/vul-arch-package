@@ -1,0 +1,11 @@
+{
+  "name": "aspell-uk",
+  "version": "1.8.0-3",
+  "depends": [
+    "aspell"
+  ],
+  "makedepends": [],
+  "receive": 199872011,
+  "transmit": 373885,
+  "disk": 7521577
+}
