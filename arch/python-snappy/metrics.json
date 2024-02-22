@@ -1,0 +1,14 @@
+{
+  "name": "python-snappy",
+  "version": "0.6.1-3",
+  "depends": [
+    "python",
+    "snappy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199662737,
+  "transmit": 446788,
+  "disk": 222435
+}
