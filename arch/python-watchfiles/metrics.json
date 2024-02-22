@@ -1,0 +1,16 @@
+{
+  "name": "python-watchfiles",
+  "version": "0.21.0-1",
+  "depends": [
+    "python",
+    "python-anyio"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-maturin"
+  ],
+  "receive": 199496739,
+  "transmit": 240833,
+  "disk": 362783
+}
