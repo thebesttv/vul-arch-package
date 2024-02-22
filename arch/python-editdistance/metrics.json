@@ -1,0 +1,14 @@
+{
+  "name": "python-editdistance",
+  "version": "0.6.2-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 199593112,
+  "transmit": 357225,
+  "disk": 143661
+}
