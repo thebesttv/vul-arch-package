@@ -1,0 +1,11 @@
+{
+  "name": "vim-align",
+  "version": "37.43-6",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199613087,
+  "transmit": 385126,
+  "disk": 296169
+}
