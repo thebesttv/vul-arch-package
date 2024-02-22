@@ -1,0 +1,11 @@
+{
+  "name": "gunicorn",
+  "version": "20.1.0-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199626663,
+  "transmit": 414428,
+  "disk": 1475684
+}
