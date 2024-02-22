@@ -1,0 +1,16 @@
+{
+  "name": "atomix",
+  "version": "3.34.0-2",
+  "depends": [
+    "gtk3",
+    "libgnome-games-support"
+  ],
+  "makedepends": [
+    "meson",
+    "appstream-glib",
+    "git"
+  ],
+  "receive": 199519618,
+  "transmit": 237540,
+  "disk": 3744815
+}
