@@ -1,0 +1,31 @@
+{
+  "name": "lightdm-pantheon-greeter",
+  "version": "7.0.0-2",
+  "depends": [
+    "accountsservice",
+    "cairo",
+    "gdk-pixbuf2",
+    "glibc",
+    "libgdk-3.so",
+    "libgee",
+    "libgio-2.0.so",
+    "libglib-2.0.so",
+    "libgl",
+    "libgobject-2.0.so",
+    "libgranite.so",
+    "libgtk-3.so",
+    "libhandy-1.so",
+    "lightdm",
+    "mutter"
+  ],
+  "makedepends": [
+    "cmake",
+    "meson",
+    "git",
+    "libglvnd",
+    "vala"
+  ],
+  "receive": 199615244,
+  "transmit": 317478,
+  "disk": 9905210
+}
