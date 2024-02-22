@@ -1,0 +1,23 @@
+{
+  "name": "rawtherapee",
+  "version": "1:5.10-1",
+  "depends": [
+    "exiv2",
+    "fftw",
+    "gtk3",
+    "glibmm",
+    "gtkmm3",
+    "lcms2",
+    "lensfun",
+    "libcanberra",
+    "libiptcdata",
+    "desktop-file-utils",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199680987,
+  "transmit": 401881,
+  "disk": 132296522
+}
