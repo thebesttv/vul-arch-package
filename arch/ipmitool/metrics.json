@@ -1,0 +1,11 @@
+{
+  "name": "ipmitool",
+  "version": "1.8.19-2",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199618217,
+  "transmit": 383228,
+  "disk": 3836904
+}
