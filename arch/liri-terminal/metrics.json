@@ -1,0 +1,17 @@
+{
+  "name": "liri-terminal",
+  "version": "0.2.0.20200620-1",
+  "depends": [
+    "fluid",
+    "qt5-gsettings"
+  ],
+  "makedepends": [
+    "cmake",
+    "liri-cmake-shared",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199669920,
+  "transmit": 379394,
+  "disk": 1434267
+}
