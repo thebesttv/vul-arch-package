@@ -1,0 +1,14 @@
+{
+  "name": "ruby-chronic",
+  "version": "0.10.2-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake"
+  ],
+  "receive": 199561433,
+  "transmit": 333931,
+  "disk": 350857
+}
