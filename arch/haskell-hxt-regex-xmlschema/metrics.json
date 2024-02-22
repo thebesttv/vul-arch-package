@@ -1,0 +1,14 @@
+{
+  "name": "haskell-hxt-regex-xmlschema",
+  "version": "9.2.0.7-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-hxt-charproperties"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199551486,
+  "transmit": 287589,
+  "disk": 374834
+}
