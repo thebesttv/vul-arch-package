@@ -1,0 +1,13 @@
+{
+  "name": "python-patsy",
+  "version": "0.5.4-1",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199675878,
+  "transmit": 411068,
+  "disk": 1790459
+}
