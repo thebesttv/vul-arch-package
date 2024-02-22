@@ -1,0 +1,17 @@
+{
+  "name": "lib32-libcroco",
+  "version": "0.6.13-1",
+  "depends": [
+    "lib32-glib2",
+    "lib32-libxml2",
+    "libcroco"
+  ],
+  "makedepends": [
+    "gcc-multilib",
+    "git",
+    "gtk-doc"
+  ],
+  "receive": 199658085,
+  "transmit": 393011,
+  "disk": 3171724
+}
