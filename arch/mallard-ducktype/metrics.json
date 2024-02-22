@@ -1,0 +1,14 @@
+{
+  "name": "mallard-ducktype",
+  "version": "1.0.2-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 199620889,
+  "transmit": 361402,
+  "disk": 979962
+}
