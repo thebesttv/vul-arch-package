@@ -1,0 +1,22 @@
+{
+  "name": "freedroidrpg",
+  "version": "1.0-1",
+  "depends": [
+    "sdl_mixer",
+    "sdl_image",
+    "sdl_gfx",
+    "libogg",
+    "libvorbis",
+    "libgl",
+    "glu",
+    "glew",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "mesa",
+    "python"
+  ],
+  "receive": 438276685,
+  "transmit": 614204,
+  "disk": 511757152
+}
