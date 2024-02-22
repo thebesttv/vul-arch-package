@@ -1,0 +1,11 @@
+{
+  "name": "prjtrellis-db",
+  "version": "r262.f7f8375-3",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 206185129,
+  "transmit": 464406,
+  "disk": 73155764
+}
