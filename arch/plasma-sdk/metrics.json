@@ -1,0 +1,16 @@
+{
+  "name": "plasma-sdk",
+  "version": "5.27.10-1",
+  "depends": [
+    "plasma-framework5",
+    "perl"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "ktexteditor5"
+  ],
+  "receive": 199814572,
+  "transmit": 432906,
+  "disk": 4352640
+}
