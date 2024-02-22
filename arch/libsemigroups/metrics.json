@@ -1,0 +1,15 @@
+{
+  "name": "libsemigroups",
+  "version": "2.7.3-1",
+  "depends": [
+    "fmt",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "eigen"
+  ],
+  "receive": 199728875,
+  "transmit": 404599,
+  "disk": 17173121
+}
