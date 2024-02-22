@@ -1,0 +1,15 @@
+{
+  "name": "lcov",
+  "version": "2.0-3",
+  "depends": [
+    "perl",
+    "perl-capture-tiny",
+    "perl-datetime",
+    "perl-devel-cover",
+    "perl-memory-process"
+  ],
+  "makedepends": [],
+  "receive": 199499526,
+  "transmit": 249000,
+  "disk": 2167422
+}
