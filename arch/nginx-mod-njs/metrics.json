@@ -1,0 +1,14 @@
+{
+  "name": "nginx-mod-njs",
+  "version": "0.8.3-1",
+  "depends": [
+    "nginx",
+    "libxslt"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199756641,
+  "transmit": 450357,
+  "disk": 5602025
+}
