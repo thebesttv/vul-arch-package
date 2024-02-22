@@ -1,0 +1,12 @@
+{
+  "name": "ruby-rubytest-cli",
+  "version": "0.2.0-2",
+  "depends": [
+    "ruby-ansi",
+    "ruby-rubytest"
+  ],
+  "makedepends": [],
+  "receive": 199673011,
+  "transmit": 404554,
+  "disk": 153092
+}
