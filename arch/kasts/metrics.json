@@ -1,0 +1,24 @@
+{
+  "name": "kasts",
+  "version": "23.08.5-1",
+  "depends": [
+    "kirigami-addons5",
+    "qt5-svg",
+    "qtkeychain-qt5",
+    "syndication5",
+    "threadweaver5",
+    "ki18n5",
+    "kcoreaddons5",
+    "kconfig5",
+    "networkmanager-qt5",
+    "taglib",
+    "qt5-multimedia",
+    "vlc"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199515558,
+  "transmit": 250491,
+  "disk": 4141316
+}
