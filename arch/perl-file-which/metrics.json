@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-which",
+  "version": "1.27-3",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199496564,
+  "transmit": 228178,
+  "disk": 237021
+}
