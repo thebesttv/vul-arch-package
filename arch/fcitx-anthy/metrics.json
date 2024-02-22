@@ -1,0 +1,15 @@
+{
+  "name": "fcitx-anthy",
+  "version": "0.2.4-1",
+  "depends": [
+    "fcitx",
+    "anthy"
+  ],
+  "makedepends": [
+    "cmake",
+    "intltool"
+  ],
+  "receive": 199561853,
+  "transmit": 233191,
+  "disk": 762571
+}
