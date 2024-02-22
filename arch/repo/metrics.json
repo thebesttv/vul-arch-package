@@ -1,0 +1,12 @@
+{
+  "name": "repo",
+  "version": "2.41-1",
+  "depends": [
+    "git",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 200179780,
+  "transmit": 835004,
+  "disk": 13614762
+}
