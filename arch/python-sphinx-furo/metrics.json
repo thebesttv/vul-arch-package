@@ -1,0 +1,22 @@
+{
+  "name": "python-sphinx-furo",
+  "version": "2024.01.29-1",
+  "depends": [
+    "python-beautifulsoup4",
+    "python-pygments",
+    "python-sphinx-basic-ng"
+  ],
+  "makedepends": [
+    "expac",
+    "git",
+    "nodejs-lts-iron",
+    "npm",
+    "python-build",
+    "python-flit-core",
+    "python-installer",
+    "python-sphinx-theme-builder"
+  ],
+  "receive": 199514320,
+  "transmit": 270608,
+  "disk": 11704841
+}
