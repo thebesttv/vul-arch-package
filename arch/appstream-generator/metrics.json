@@ -1,0 +1,29 @@
+{
+  "name": "appstream-generator",
+  "version": "0.9.1-2",
+  "depends": [
+    "appstream",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "glibd",
+    "libarchive",
+    "liblphobos",
+    "lmdb",
+    "optipng"
+  ],
+  "makedepends": [
+    "curl",
+    "docbook-xsl",
+    "gir-to-d",
+    "gobject-introspection",
+    "ldc",
+    "meson",
+    "mustache-d",
+    "ninja"
+  ],
+  "receive": 199725663,
+  "transmit": 457326,
+  "disk": 2078977
+}
