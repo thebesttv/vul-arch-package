@@ -1,0 +1,15 @@
+{
+  "name": "haskell-static-hash",
+  "version": "0.0.2-40",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-primes"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199763974,
+  "transmit": 433424,
+  "disk": 152804
+}
