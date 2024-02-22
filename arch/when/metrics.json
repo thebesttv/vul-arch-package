@@ -1,0 +1,13 @@
+{
+  "name": "when",
+  "version": "1.1.45-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199700870,
+  "transmit": 371678,
+  "disk": 521854
+}
