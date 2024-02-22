@@ -1,0 +1,22 @@
+{
+  "name": "deepin-device-formatter",
+  "version": "0.0.1.15-1",
+  "depends": [
+    "deepin-qt5integration",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "qt5-x11extras",
+    "libx11",
+    "udisks2-qt5",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "deepin-gettext-tools",
+    "qt5-tools"
+  ],
+  "receive": 199510148,
+  "transmit": 251028,
+  "disk": 559170
+}
