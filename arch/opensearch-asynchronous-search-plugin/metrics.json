@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-asynchronous-search-plugin",
+  "version": "2.11.1.0-1",
+  "depends": [
+    "opensearch=2.11.1"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 199559945,
+  "transmit": 295109,
+  "disk": 4872972
+}
