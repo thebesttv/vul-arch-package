@@ -1,0 +1,21 @@
+{
+  "name": "python-pytest-html",
+  "version": "4.1.1-1",
+  "depends": [
+    "python",
+    "python-jinja",
+    "python-pytest",
+    "python-pytest-metadata"
+  ],
+  "makedepends": [
+    "npm",
+    "python-build",
+    "python-hatch-vcs",
+    "python-hatchling",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199626959,
+  "transmit": 376849,
+  "disk": 871746
+}
