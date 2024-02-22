@@ -1,0 +1,11 @@
+{
+  "name": "sugar-activity-paint",
+  "version": "70-3",
+  "depends": [
+    "sugar-toolkit-gtk3"
+  ],
+  "makedepends": [],
+  "receive": 200453525,
+  "transmit": 894789,
+  "disk": 1842128
+}
