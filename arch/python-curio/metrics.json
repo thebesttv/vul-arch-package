@@ -1,0 +1,14 @@
+{
+  "name": "python-curio",
+  "version": "1.6-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199578155,
+  "transmit": 319629,
+  "disk": 3770540
+}
