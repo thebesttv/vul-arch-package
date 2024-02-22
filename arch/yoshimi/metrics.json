@@ -1,0 +1,21 @@
+{
+  "name": "yoshimi",
+  "version": "2.3.2-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "cairo",
+    "cmake",
+    "fftw",
+    "fltk",
+    "jack",
+    "lv2",
+    "mxml",
+    "ncurses",
+    "readline",
+    "zlib"
+  ],
+  "receive": 199924585,
+  "transmit": 476141,
+  "disk": 22481386
+}
