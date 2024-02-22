@@ -1,0 +1,12 @@
+{
+  "name": "ruby-sawyer",
+  "version": "0.9.2-1",
+  "depends": [
+    "ruby-faraday",
+    "ruby-addressable"
+  ],
+  "makedepends": [],
+  "receive": 199566886,
+  "transmit": 324549,
+  "disk": 192708
+}
