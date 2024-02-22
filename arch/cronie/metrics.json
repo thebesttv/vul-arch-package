@@ -1,0 +1,13 @@
+{
+  "name": "cronie",
+  "version": "1.7.1-1",
+  "depends": [
+    "pam",
+    "bash",
+    "run-parts"
+  ],
+  "makedepends": [],
+  "receive": 199690530,
+  "transmit": 449210,
+  "disk": 1423393
+}
