@@ -1,0 +1,12 @@
+{
+  "name": "ruby-pry-byebug",
+  "version": "3.10.1-2",
+  "depends": [
+    "ruby-byebug",
+    "ruby-pry"
+  ],
+  "makedepends": [],
+  "receive": 199580370,
+  "transmit": 334524,
+  "disk": 336122
+}
