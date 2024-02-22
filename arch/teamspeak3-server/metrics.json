@@ -1,0 +1,12 @@
+{
+  "name": "teamspeak3-server",
+  "version": "3.13.7-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199525661,
+  "transmit": 272957,
+  "disk": 31287595
+}
