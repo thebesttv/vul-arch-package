@@ -1,0 +1,15 @@
+{
+  "name": "ruby-cucumber-messages",
+  "version": "23.0.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-cucumber-compatibility-kit",
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 199635609,
+  "transmit": 380210,
+  "disk": 2039459
+}
