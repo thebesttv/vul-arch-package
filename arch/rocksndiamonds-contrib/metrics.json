@@ -1,0 +1,12 @@
+{
+  "name": "rocksndiamonds-contrib",
+  "version": "5-3",
+  "depends": [],
+  "makedepends": [
+    "unzip",
+    "p7zip"
+  ],
+  "receive": 336382708,
+  "transmit": 843056,
+  "disk": 572020022
+}
