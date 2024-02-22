@@ -1,0 +1,14 @@
+{
+  "name": "sdl12-compat",
+  "version": "1.2.68-1",
+  "depends": [
+    "sdl2",
+    "glu"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199548565,
+  "transmit": 286668,
+  "disk": 2376403
+}
