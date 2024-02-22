@@ -1,0 +1,13 @@
+{
+  "name": "fontobene-qt5",
+  "version": "0.2.0-3",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199525856,
+  "transmit": 235026,
+  "disk": 156992
+}
