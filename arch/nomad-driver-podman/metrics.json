@@ -1,0 +1,15 @@
+{
+  "name": "nomad-driver-podman",
+  "version": "0.5.1-1",
+  "depends": [
+    "nomad",
+    "podman"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 211520252,
+  "transmit": 397167,
+  "disk": 12500200
+}
