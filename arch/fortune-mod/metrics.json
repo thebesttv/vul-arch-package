@@ -1,0 +1,15 @@
+{
+  "name": "fortune-mod",
+  "version": "3.20.0-1",
+  "depends": [
+    "glibc",
+    "recode"
+  ],
+  "makedepends": [
+    "cmake",
+    "rinutils"
+  ],
+  "receive": 199495335,
+  "transmit": 262034,
+  "disk": 6610184
+}
