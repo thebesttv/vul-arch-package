@@ -1,0 +1,14 @@
+{
+  "name": "ruby-timers",
+  "version": "4.3.5-1",
+  "depends": [
+    "ruby",
+    "ruby-hitimes"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199575412,
+  "transmit": 331846,
+  "disk": 193333
+}
