@@ -1,0 +1,15 @@
+{
+  "name": "alembic",
+  "version": "1.8.6-1",
+  "depends": [
+    "imath",
+    "hdf5"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199704663,
+  "transmit": 410129,
+  "disk": 7874371
+}
