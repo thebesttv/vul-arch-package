@@ -1,0 +1,15 @@
+{
+  "name": "tcpreplay",
+  "version": "4.4.3-1",
+  "depends": [
+    "libpcap",
+    "libdnet",
+    "autogen"
+  ],
+  "makedepends": [
+    "tcpdump"
+  ],
+  "receive": 204364518,
+  "transmit": 580812,
+  "disk": 14151960
+}
