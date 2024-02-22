@@ -1,0 +1,24 @@
+{
+  "name": "owncloud-client",
+  "version": "5.2.1.13040-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kdsingleapplication",
+    "libre-graph-api",
+    "qt6-base",
+    "qt6-svg",
+    "qtkeychain-qt6",
+    "sqlite",
+    "zlib"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "python-sphinx",
+    "qt6-tools"
+  ],
+  "receive": 199741949,
+  "transmit": 399365,
+  "disk": 19112353
+}
