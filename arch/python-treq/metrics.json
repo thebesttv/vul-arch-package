@@ -1,0 +1,25 @@
+{
+  "name": "python-treq",
+  "version": "23.11.0-1",
+  "depends": [
+    "python",
+    "python-incremental",
+    "python-requests",
+    "python-pyopenssl",
+    "python-service-identity",
+    "python-attrs",
+    "python-twisted",
+    "python-hyperlink",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "httpbin"
+  ],
+  "receive": 199718983,
+  "transmit": 436197,
+  "disk": 522733
+}
