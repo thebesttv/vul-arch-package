@@ -1,0 +1,9 @@
+{
+  "name": "rocm-hip-sdk",
+  "version": "6.0.0-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 199520514,
+  "transmit": 278434,
+  "disk": 95495
+}
