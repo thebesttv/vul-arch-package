@@ -1,0 +1,18 @@
+{
+  "name": "perl-perl-minimumversion",
+  "version": "1.40-4",
+  "depends": [
+    "perl-file-find-rule",
+    "perl-file-find-rule-perl",
+    "perl-ppi",
+    "perl-ppix-regexp",
+    "perl-params-util",
+    "perl-ppix-utils"
+  ],
+  "makedepends": [
+    "perl-test-script"
+  ],
+  "receive": 199638746,
+  "transmit": 362142,
+  "disk": 293722
+}
