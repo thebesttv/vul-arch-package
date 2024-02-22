@@ -1,0 +1,11 @@
+{
+  "name": "python-simplemediawiki",
+  "version": "1.2.0_b2-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199582218,
+  "transmit": 323284,
+  "disk": 185446
+}
