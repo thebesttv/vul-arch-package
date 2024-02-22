@@ -1,0 +1,11 @@
+{
+  "name": "python-zope-interface",
+  "version": "6.2-1",
+  "depends": [
+    "python-setuptools"
+  ],
+  "makedepends": [],
+  "receive": 199637083,
+  "transmit": 354637,
+  "disk": 1627734
+}
