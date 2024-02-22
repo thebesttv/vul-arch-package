@@ -1,0 +1,24 @@
+{
+  "name": "openscenegraph",
+  "version": "3.6.5-23",
+  "depends": [
+    "fontconfig",
+    "libglvnd",
+    "libxinerama",
+    "libxrandr"
+  ],
+  "makedepends": [
+    "cmake",
+    "ffmpeg4.4",
+    "gdal",
+    "gst-plugins-base-libs",
+    "jasper",
+    "librsvg",
+    "libvncserver",
+    "openexr",
+    "poppler-glib"
+  ],
+  "receive": 205737659,
+  "transmit": 524660,
+  "disk": 36011689
+}
