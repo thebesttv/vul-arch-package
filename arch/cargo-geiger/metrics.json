@@ -1,0 +1,13 @@
+{
+  "name": "cargo-geiger",
+  "version": "0.11.7-2",
+  "depends": [
+    "cargo",
+    "openssl",
+    "curl"
+  ],
+  "makedepends": [],
+  "receive": 199628366,
+  "transmit": 401500,
+  "disk": 854285
+}
