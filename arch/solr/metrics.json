@@ -1,0 +1,18 @@
+{
+  "name": "solr",
+  "version": "9.5.0-3",
+  "depends": [
+    "bash",
+    "java-runtime=11"
+  ],
+  "makedepends": [
+    "gradle",
+    "git",
+    "groovy",
+    "java-environment=11",
+    "npm"
+  ],
+  "receive": 293848959,
+  "transmit": 2418061,
+  "disk": 243936848
+}
