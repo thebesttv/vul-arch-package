@@ -1,0 +1,13 @@
+{
+  "name": "yggdrasil",
+  "version": "0.5.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199622098,
+  "transmit": 391482,
+  "disk": 698929
+}
