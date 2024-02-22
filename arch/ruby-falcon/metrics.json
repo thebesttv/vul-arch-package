@@ -1,0 +1,21 @@
+{
+  "name": "ruby-falcon",
+  "version": "0.42.3-2",
+  "depends": [
+    "ruby-async",
+    "ruby-async-container",
+    "ruby-async-http",
+    "ruby-async-http",
+    "ruby-async-http-cache",
+    "ruby-async-io",
+    "ruby-build-environment",
+    "ruby-localhost",
+    "ruby-process-metrics",
+    "ruby-protocol-rack",
+    "ruby-samovar"
+  ],
+  "makedepends": [],
+  "receive": 199702452,
+  "transmit": 378920,
+  "disk": 793452
+}
