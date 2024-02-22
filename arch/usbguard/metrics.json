@@ -1,0 +1,33 @@
+{
+  "name": "usbguard",
+  "version": "1.1.2-6",
+  "depends": [
+    "glibc",
+    "libqb",
+    "libqb.so",
+    "libsodium",
+    "libcap-ng",
+    "protobuf",
+    "polkit",
+    "dbus-glib",
+    "audit",
+    "libaudit.so",
+    "libseccomp",
+    "libseccomp.so",
+    "libcap-ng.so",
+    "libgio-2.0.so",
+    "libglib-2.0.so",
+    "libprotobuf.so"
+  ],
+  "makedepends": [
+    "catch2",
+    "pegtl",
+    "libxslt",
+    "libxml2",
+    "asciidoc",
+    "systemd"
+  ],
+  "receive": 199577262,
+  "transmit": 359014,
+  "disk": 10930478
+}
