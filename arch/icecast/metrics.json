@@ -1,0 +1,21 @@
+{
+  "name": "icecast",
+  "version": "2.4.4-5",
+  "depends": [
+    "glibc",
+    "libkate",
+    "libxml2",
+    "libxslt",
+    "openssl",
+    "speex",
+    "libtheora"
+  ],
+  "makedepends": [
+    "curl",
+    "libogg",
+    "libvorbis"
+  ],
+  "receive": 200448346,
+  "transmit": 451256,
+  "disk": 7503195
+}
