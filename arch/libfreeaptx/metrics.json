@@ -1,0 +1,13 @@
+{
+  "name": "libfreeaptx",
+  "version": "0.1.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199653299,
+  "transmit": 387174,
+  "disk": 389106
+}
