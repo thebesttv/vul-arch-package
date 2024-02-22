@@ -1,0 +1,12 @@
+{
+  "name": "libshairport",
+  "version": "1.2.1.20121215-8",
+  "depends": [
+    "openssl",
+    "libao"
+  ],
+  "makedepends": [],
+  "receive": 199688480,
+  "transmit": 444946,
+  "disk": 257577
+}
