@@ -1,0 +1,14 @@
+{
+  "name": "haskell-abstract-deque",
+  "version": "0.3-202",
+  "depends": [
+    "ghc-libs",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199551318,
+  "transmit": 282973,
+  "disk": 284075
+}
