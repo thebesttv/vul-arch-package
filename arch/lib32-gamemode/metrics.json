@@ -1,0 +1,16 @@
+{
+  "name": "lib32-gamemode",
+  "version": "1.8.1-1",
+  "depends": [
+    "lib32-dbus",
+    "lib32-glibc",
+    "lib32-systemd"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199596383,
+  "transmit": 346263,
+  "disk": 1932136
+}
