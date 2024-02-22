@@ -1,0 +1,16 @@
+{
+  "name": "libgnome-games-support",
+  "version": "1.8.2-3",
+  "depends": [
+    "gtk3",
+    "libgee"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199895214,
+  "transmit": 570214,
+  "disk": 1049490
+}
