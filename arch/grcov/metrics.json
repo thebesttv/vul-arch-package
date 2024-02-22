@@ -1,0 +1,14 @@
+{
+  "name": "grcov",
+  "version": "0.8.19-1",
+  "depends": [
+    "zlib",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199796761,
+  "transmit": 463053,
+  "disk": 23817887
+}
