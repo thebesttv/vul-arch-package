@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libxv",
+  "version": "1.0.12-1",
+  "depends": [
+    "lib32-libxext",
+    "libxv"
+  ],
+  "makedepends": [
+    "pkgconfig",
+    "gcc-multilib"
+  ],
+  "receive": 199691766,
+  "transmit": 441859,
+  "disk": 2281378
+}
