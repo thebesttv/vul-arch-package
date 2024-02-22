@@ -1,0 +1,16 @@
+{
+  "name": "python-urllib3",
+  "version": "1.26.18-1",
+  "depends": [],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-sphinx",
+    "python-sphinx-furo",
+    "python-wheel"
+  ],
+  "receive": 199606367,
+  "transmit": 366921,
+  "disk": 1610322
+}
