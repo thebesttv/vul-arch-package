@@ -1,0 +1,14 @@
+{
+  "name": "python-webencodings",
+  "version": "0.5.1-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 199610626,
+  "transmit": 360624,
+  "disk": 163260
+}
