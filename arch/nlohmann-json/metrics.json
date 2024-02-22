@@ -1,0 +1,12 @@
+{
+  "name": "nlohmann-json",
+  "version": "3.11.2-2",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git"
+  ],
+  "receive": 543878589,
+  "transmit": 2359446,
+  "disk": 613616725
+}
