@@ -1,0 +1,27 @@
+{
+  "name": "kfilemetadata5",
+  "version": "5.115.0-1",
+  "depends": [
+    "ki18n5",
+    "karchive5",
+    "kconfig5",
+    "kcoreaddons5",
+    "exiv2",
+    "poppler-qt5",
+    "taglib",
+    "ffmpeg",
+    "ebook-tools"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "catdoc",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc",
+    "libappimage",
+    "kdegraphics-mobipocket"
+  ],
+  "receive": 199635505,
+  "transmit": 300115,
+  "disk": 3575689
+}
