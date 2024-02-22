@@ -1,0 +1,12 @@
+{
+  "name": "nvidia-prime",
+  "version": "1.0-4",
+  "depends": [
+    "bash",
+    "nvidia-utils"
+  ],
+  "makedepends": [],
+  "receive": 199506350,
+  "transmit": 278382,
+  "disk": 85792
+}
