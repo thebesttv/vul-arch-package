@@ -1,0 +1,17 @@
+{
+  "name": "libtorrent-rasterbar",
+  "version": "1:2.0.9-3",
+  "depends": [
+    "boost-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "ninja",
+    "python-setuptools"
+  ],
+  "receive": 199735647,
+  "transmit": 395951,
+  "disk": 20350500
+}
