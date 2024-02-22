@@ -1,0 +1,11 @@
+{
+  "name": "raft",
+  "version": "0.18.1-1",
+  "depends": [
+    "libuv"
+  ],
+  "makedepends": [],
+  "receive": 199512759,
+  "transmit": 263186,
+  "disk": 2401201
+}
