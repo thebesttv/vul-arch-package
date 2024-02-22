@@ -1,0 +1,14 @@
+{
+  "name": "gtksourceviewmm",
+  "version": "1:3.18.0-5",
+  "depends": [
+    "gtkmm3",
+    "gtksourceview3"
+  ],
+  "makedepends": [
+    "gtkmm3-docs"
+  ],
+  "receive": 199523753,
+  "transmit": 308392,
+  "disk": 17415376
+}
