@@ -1,0 +1,28 @@
+{
+  "name": "gigedit",
+  "version": "1.2.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "atkmm",
+    "cairomm",
+    "docbook-xsl",
+    "gendesk",
+    "glib2",
+    "glibmm",
+    "gtk3",
+    "gtkmm3",
+    "intltool",
+    "libgig",
+    "libsigc++",
+    "libsndfile",
+    "libxslt",
+    "linuxsampler",
+    "pangomm"
+  ],
+  "receive": 199577536,
+  "transmit": 336070,
+  "disk": 4683053
+}
