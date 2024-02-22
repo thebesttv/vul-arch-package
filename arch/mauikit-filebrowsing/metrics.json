@@ -1,0 +1,14 @@
+{
+  "name": "mauikit-filebrowsing",
+  "version": "3.0.2-1",
+  "depends": [
+    "mauikit",
+    "kio5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199820398,
+  "transmit": 482737,
+  "disk": 3787908
+}
