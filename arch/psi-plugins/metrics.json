@@ -1,0 +1,14 @@
+{
+  "name": "psi-plugins",
+  "version": "1.5-2",
+  "depends": [
+    "psi"
+  ],
+  "makedepends": [
+    "libotr",
+    "tidy"
+  ],
+  "receive": 199512748,
+  "transmit": 241989,
+  "disk": 3866065
+}
