@@ -1,0 +1,15 @@
+{
+  "name": "superlu",
+  "version": "6.0.1-1",
+  "depends": [
+    "blas"
+  ],
+  "makedepends": [
+    "cmake",
+    "gcc-fortran",
+    "ninja"
+  ],
+  "receive": 199656878,
+  "transmit": 402022,
+  "disk": 14277174
+}
