@@ -1,0 +1,18 @@
+{
+  "name": "kxmlgui5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kglobalaccel5",
+    "kiconthemes5",
+    "kitemviews5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199727420,
+  "transmit": 422606,
+  "disk": 30634151
+}
