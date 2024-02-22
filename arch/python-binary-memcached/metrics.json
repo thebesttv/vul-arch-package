@@ -1,0 +1,15 @@
+{
+  "name": "python-binary-memcached",
+  "version": "0.31.0-2",
+  "depends": [
+    "python-six",
+    "python-uhashring"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-uhashring"
+  ],
+  "receive": 199489693,
+  "transmit": 248662,
+  "disk": 555653
+}
