@@ -1,0 +1,22 @@
+{
+  "name": "deepin-calendar",
+  "version": "5.12.1-1",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "glibc",
+    "gcc-libs",
+    "libical",
+    "qt5-svg",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199505844,
+  "transmit": 249024,
+  "disk": 14107047
+}
