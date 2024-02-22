@@ -1,0 +1,16 @@
+{
+  "name": "doge",
+  "version": "3.7.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199640476,
+  "transmit": 387750,
+  "disk": 296999
+}
