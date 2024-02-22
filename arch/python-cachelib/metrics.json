@@ -1,0 +1,16 @@
+{
+  "name": "python-cachelib",
+  "version": "0.12.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199618445,
+  "transmit": 399194,
+  "disk": 282539
+}
