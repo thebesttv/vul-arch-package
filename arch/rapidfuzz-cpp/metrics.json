@@ -1,0 +1,13 @@
+{
+  "name": "rapidfuzz-cpp",
+  "version": "3.0.0-1",
+  "depends": [
+    "cmake"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 203279545,
+  "transmit": 478060,
+  "disk": 6105881
+}
