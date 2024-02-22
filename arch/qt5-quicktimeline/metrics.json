@@ -1,0 +1,13 @@
+{
+  "name": "qt5-quicktimeline",
+  "version": "5.15.12-1",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199697993,
+  "transmit": 414241,
+  "disk": 1663331
+}
