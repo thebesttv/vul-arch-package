@@ -1,0 +1,17 @@
+{
+  "name": "python-pyclipper",
+  "version": "1.3.0.post5-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199583050,
+  "transmit": 357278,
+  "disk": 1538086
+}
