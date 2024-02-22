@@ -1,0 +1,19 @@
+{
+  "name": "python-prompt_toolkit",
+  "version": "3.0.43-1",
+  "depends": [
+    "python",
+    "python-pygments",
+    "python-wcwidth"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 210972732,
+  "transmit": 304626,
+  "disk": 17941927
+}
