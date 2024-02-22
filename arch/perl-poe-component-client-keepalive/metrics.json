@@ -1,0 +1,14 @@
+{
+  "name": "perl-poe-component-client-keepalive",
+  "version": "0.272-10",
+  "depends": [
+    "perl-poe-component-client-dns",
+    "perl-poe",
+    "perl-poe-component-resolver",
+    "perl-net-ip-minimal"
+  ],
+  "makedepends": [],
+  "receive": 199731395,
+  "transmit": 413559,
+  "disk": 321825
+}
