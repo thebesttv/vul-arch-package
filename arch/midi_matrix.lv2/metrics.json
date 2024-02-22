@@ -1,0 +1,20 @@
+{
+  "name": "midi_matrix.lv2",
+  "version": "0.30.0-3",
+  "depends": [
+    "glibc",
+    "libglvnd",
+    "libx11",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "glew",
+    "glu",
+    "lv2",
+    "meson",
+    "sord"
+  ],
+  "receive": 199523718,
+  "transmit": 263282,
+  "disk": 7184556
+}
