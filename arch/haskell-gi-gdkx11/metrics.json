@@ -1,0 +1,23 @@
+{
+  "name": "haskell-gi-gdkx11",
+  "version": "4.0.7-62",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-cairo",
+    "haskell-gi-gdk",
+    "haskell-gi-gio",
+    "haskell-gi-gobject",
+    "haskell-gi-xlib",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "gtk4"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199798172,
+  "transmit": 413773,
+  "disk": 300491
+}
