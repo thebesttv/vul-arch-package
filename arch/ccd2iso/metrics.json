@@ -1,0 +1,11 @@
+{
+  "name": "ccd2iso",
+  "version": "0.3-11",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199560449,
+  "transmit": 288553,
+  "disk": 904896
+}
