@@ -1,0 +1,15 @@
+{
+  "name": "lua-loadkit",
+  "version": "1.1.0-1",
+  "depends": [],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 199528800,
+  "transmit": 287668,
+  "disk": 125085
+}
