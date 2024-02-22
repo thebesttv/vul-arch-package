@@ -1,0 +1,18 @@
+{
+  "name": "tpm2-tss",
+  "version": "4.0.1-1",
+  "depends": [
+    "curl",
+    "json-c",
+    "openssl",
+    "libjson-c.so"
+  ],
+  "makedepends": [
+    "cmocka",
+    "doxygen",
+    "libtpms"
+  ],
+  "receive": 199606545,
+  "transmit": 334434,
+  "disk": 17356690
+}
