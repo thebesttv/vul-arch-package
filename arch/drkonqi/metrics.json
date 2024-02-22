@@ -1,0 +1,22 @@
+{
+  "name": "drkonqi",
+  "version": "5.27.10-1",
+  "depends": [
+    "kidletime5",
+    "syntax-highlighting5",
+    "kirigami2",
+    "kitemmodels5",
+    "kuserfeedback5",
+    "kio5",
+    "gdb",
+    "python-distro",
+    "python-psutil",
+    "qt5-tools"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 200577317,
+  "transmit": 281635,
+  "disk": 10661357
+}
