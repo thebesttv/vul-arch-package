@@ -1,0 +1,14 @@
+{
+  "name": "dcd",
+  "version": "1:0.15.2-1",
+  "depends": [
+    "liblphobos"
+  ],
+  "makedepends": [
+    "ldc",
+    "git"
+  ],
+  "receive": 202593910,
+  "transmit": 368112,
+  "disk": 12442080
+}
