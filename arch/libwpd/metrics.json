@@ -1,0 +1,17 @@
+{
+  "name": "libwpd",
+  "version": "0.10.3-4",
+  "depends": [
+    "gcc-libs",
+    "zlib",
+    "librevenge"
+  ],
+  "makedepends": [
+    "libgsf>=1.14.26",
+    "doxygen",
+    "boost"
+  ],
+  "receive": 199596770,
+  "transmit": 341118,
+  "disk": 4668060
+}
