@@ -1,0 +1,14 @@
+{
+  "name": "wimlib",
+  "version": "1.14.3-1",
+  "depends": [
+    "fuse3",
+    "ntfs-3g"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199658989,
+  "transmit": 405037,
+  "disk": 10959270
+}
