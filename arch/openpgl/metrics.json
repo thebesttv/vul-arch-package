@@ -1,0 +1,16 @@
+{
+  "name": "openpgl",
+  "version": "0.6.0-1",
+  "depends": [
+    "onetbb"
+  ],
+  "makedepends": [
+    "cmake",
+    "make",
+    "gcc",
+    "ninja"
+  ],
+  "receive": 199554476,
+  "transmit": 257394,
+  "disk": 23865950
+}
