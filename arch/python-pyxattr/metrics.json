@@ -1,0 +1,15 @@
+{
+  "name": "python-pyxattr",
+  "version": "0.8.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python",
+    "python-pytest",
+    "python-setuptools"
+  ],
+  "receive": 199752136,
+  "transmit": 431874,
+  "disk": 301928
+}
