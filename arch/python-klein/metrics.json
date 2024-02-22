@@ -1,0 +1,24 @@
+{
+  "name": "python-klein",
+  "version": "23.12.0-1",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-hyperlink",
+    "python-incremental",
+    "python-tubes",
+    "python-twisted",
+    "python-werkzeug",
+    "python-zope-interface",
+    "python-constantly"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199634329,
+  "transmit": 410671,
+  "disk": 661296
+}
