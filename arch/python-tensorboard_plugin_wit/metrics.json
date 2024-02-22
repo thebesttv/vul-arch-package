@@ -1,0 +1,22 @@
+{
+  "name": "python-tensorboard_plugin_wit",
+  "version": "1.8.1-7",
+  "depends": [
+    "python-werkzeug",
+    "tensorboard"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "python-virtualenv",
+    "python-setuptools-scm",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-google-api-python-client",
+    "python-ipywidgets"
+  ],
+  "receive": 472018978,
+  "transmit": 509802,
+  "disk": 1059848414
+}
