@@ -1,0 +1,11 @@
+{
+  "name": "gsettings-qt",
+  "version": "0.2-1",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [],
+  "receive": 199743057,
+  "transmit": 504131,
+  "disk": 198898
+}
