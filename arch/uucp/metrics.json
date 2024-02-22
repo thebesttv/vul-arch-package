@@ -1,0 +1,13 @@
+{
+  "name": "uucp",
+  "version": "1.07-7",
+  "depends": [],
+  "makedepends": [
+    "wget",
+    "sed",
+    "grep"
+  ],
+  "receive": 199669263,
+  "transmit": 430888,
+  "disk": 5097295
+}
