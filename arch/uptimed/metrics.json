@@ -1,0 +1,11 @@
+{
+  "name": "uptimed",
+  "version": "0.4.6-3",
+  "depends": [],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199547556,
+  "transmit": 285798,
+  "disk": 371405
+}
