@@ -1,0 +1,19 @@
+{
+  "name": "python-aiodiscover",
+  "version": "1.6.0-2",
+  "depends": [
+    "python",
+    "python-dnspython",
+    "python-ifaddr",
+    "python-netifaces",
+    "python-pyroute2"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199509849,
+  "transmit": 258805,
+  "disk": 6868157
+}
