@@ -1,0 +1,21 @@
+{
+  "name": "pekwm",
+  "version": "0.3.0-1",
+  "depends": [
+    "libjpeg",
+    "libpng",
+    "libxft",
+    "libxinerama",
+    "libxpm",
+    "libxrandr"
+  ],
+  "makedepends": [
+    "cmake",
+    "gendesk",
+    "git",
+    "ninja"
+  ],
+  "receive": 199542054,
+  "transmit": 269934,
+  "disk": 9026703
+}
