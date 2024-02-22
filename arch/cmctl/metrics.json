@@ -1,0 +1,14 @@
+{
+  "name": "cmctl",
+  "version": "1.13.3-1",
+  "depends": [
+    "kubectl"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 200502951,
+  "transmit": 355671,
+  "disk": 14740488
+}
