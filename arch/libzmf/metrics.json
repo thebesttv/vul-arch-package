@@ -1,0 +1,20 @@
+{
+  "name": "libzmf",
+  "version": "0.0.2-15",
+  "depends": [
+    "librevenge",
+    "libpng",
+    "zlib",
+    "icu",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "boost",
+    "cppunit",
+    "doxygen"
+  ],
+  "receive": 199711777,
+  "transmit": 445837,
+  "disk": 2752860
+}
