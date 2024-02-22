@@ -1,0 +1,11 @@
+{
+  "name": "guetzli",
+  "version": "1.0.1-4",
+  "depends": [
+    "libpng"
+  ],
+  "makedepends": [],
+  "receive": 199532438,
+  "transmit": 295255,
+  "disk": 603140
+}
