@@ -1,0 +1,19 @@
+{
+  "name": "ruby-patron",
+  "version": "0.13.3-2",
+  "depends": [
+    "ruby",
+    "curl"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rake-compiler",
+    "ruby-rack",
+    "ruby-rspec",
+    "ruby-puma",
+    "ruby-yard"
+  ],
+  "receive": 199667831,
+  "transmit": 425406,
+  "disk": 1326485
+}
