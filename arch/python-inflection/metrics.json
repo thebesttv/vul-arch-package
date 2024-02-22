@@ -1,0 +1,13 @@
+{
+  "name": "python-inflection",
+  "version": "0.5.1-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199653081,
+  "transmit": 292201,
+  "disk": 158406
+}
