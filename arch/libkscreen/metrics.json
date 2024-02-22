@@ -1,0 +1,19 @@
+{
+  "name": "libkscreen",
+  "version": "5.27.10-1",
+  "depends": [
+    "qt5-x11extras",
+    "kwayland5",
+    "kconfig5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc",
+    "plasma-wayland-protocols"
+  ],
+  "receive": 199529895,
+  "transmit": 280953,
+  "disk": 1260278
+}
