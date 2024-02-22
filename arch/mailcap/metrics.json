@@ -1,0 +1,11 @@
+{
+  "name": "mailcap",
+  "version": "2.1.54-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199649756,
+  "transmit": 411247,
+  "disk": 653201
+}
