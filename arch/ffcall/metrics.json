@@ -1,0 +1,11 @@
+{
+  "name": "ffcall",
+  "version": "2.4-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199545761,
+  "transmit": 300490,
+  "disk": 7784607
+}
