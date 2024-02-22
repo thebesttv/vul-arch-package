@@ -1,0 +1,14 @@
+{
+  "name": "scaleway-cli",
+  "version": "2.26.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199939508,
+  "transmit": 492122,
+  "disk": 58049448
+}
