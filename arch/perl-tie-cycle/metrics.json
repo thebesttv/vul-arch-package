@@ -1,0 +1,11 @@
+{
+  "name": "perl-tie-cycle",
+  "version": "1.227-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199576600,
+  "transmit": 329392,
+  "disk": 158519
+}
