@@ -1,0 +1,15 @@
+{
+  "name": "libpinyin",
+  "version": "2.8.1-1",
+  "depends": [
+    "kyotocabinet",
+    "glib2"
+  ],
+  "makedepends": [
+    "git",
+    "gnome-common"
+  ],
+  "receive": 199715197,
+  "transmit": 411133,
+  "disk": 25787151
+}
