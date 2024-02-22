@@ -1,0 +1,21 @@
+{
+  "name": "gnustep-base",
+  "version": "1.29.0-3",
+  "depends": [
+    "libxslt",
+    "avahi",
+    "gmp",
+    "gcc-libs",
+    "openssl",
+    "libffi",
+    "gnutls",
+    "icu"
+  ],
+  "makedepends": [
+    "gcc-objc",
+    "gnustep-make"
+  ],
+  "receive": 199548072,
+  "transmit": 308159,
+  "disk": 25903791
+}
