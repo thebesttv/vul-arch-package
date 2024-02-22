@@ -1,0 +1,19 @@
+{
+  "name": "rstcheck",
+  "version": "6.2.0-1",
+  "depends": [
+    "python-rstcheck-core",
+    "python-typer",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199615960,
+  "transmit": 342073,
+  "disk": 1633779
+}
