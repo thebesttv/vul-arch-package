@@ -1,0 +1,15 @@
+{
+  "name": "vncdotool",
+  "version": "1.2.0-1",
+  "depends": [
+    "python-pillow",
+    "python-twisted",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199724962,
+  "transmit": 423860,
+  "disk": 413051
+}
