@@ -1,0 +1,12 @@
+{
+  "name": "augeas",
+  "version": "1.14.1-1",
+  "depends": [
+    "libxml2",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199635432,
+  "transmit": 328293,
+  "disk": 15258930
+}
