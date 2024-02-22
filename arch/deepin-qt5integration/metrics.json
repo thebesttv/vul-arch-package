@@ -1,0 +1,25 @@
+{
+  "name": "deepin-qt5integration",
+  "version": "5.6.20-2",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "libqtxdg",
+    "qt5-x11extras",
+    "qt5-base",
+    "libx11",
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools",
+    "xcb-util-renderutil",
+    "gtest"
+  ],
+  "receive": 199658037,
+  "transmit": 281786,
+  "disk": 1459924
+}
