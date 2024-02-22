@@ -1,0 +1,18 @@
+{
+  "name": "p11-kit",
+  "version": "0.25.3-1",
+  "depends": [
+    "glibc",
+    "libffi",
+    "libtasn1"
+  ],
+  "makedepends": [
+    "bash-completion",
+    "gtk-doc",
+    "meson",
+    "systemd"
+  ],
+  "receive": 199582859,
+  "transmit": 255523,
+  "disk": 11011388
+}
