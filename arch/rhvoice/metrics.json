@@ -1,0 +1,16 @@
+{
+  "name": "rhvoice",
+  "version": "1.8.0-1",
+  "depends": [
+    "speech-dispatcher",
+    "libpulse",
+    "portaudio"
+  ],
+  "makedepends": [
+    "scons",
+    "libao"
+  ],
+  "receive": 557268011,
+  "transmit": 745402,
+  "disk": 1094791080
+}
