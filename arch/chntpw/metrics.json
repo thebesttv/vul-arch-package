@@ -1,0 +1,11 @@
+{
+  "name": "chntpw",
+  "version": "140201-4",
+  "depends": [],
+  "makedepends": [
+    "openssl"
+  ],
+  "receive": 199665955,
+  "transmit": 400961,
+  "disk": 4645498
+}
