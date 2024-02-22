@@ -1,0 +1,12 @@
+{
+  "name": "barrage",
+  "version": "1.0.7-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "sdl_mixer"
+  ],
+  "makedepends": [],
+  "receive": 199632768,
+  "transmit": 368890,
+  "disk": 2970325
+}
