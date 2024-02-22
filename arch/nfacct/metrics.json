@@ -1,0 +1,11 @@
+{
+  "name": "nfacct",
+  "version": "1.0.2-3",
+  "depends": [
+    "libnetfilter_acct"
+  ],
+  "makedepends": [],
+  "receive": 199517229,
+  "transmit": 254595,
+  "disk": 1714306
+}
