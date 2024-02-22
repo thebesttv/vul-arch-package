@@ -1,0 +1,14 @@
+{
+  "name": "meshbird",
+  "version": "2.3-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199595057,
+  "transmit": 356706,
+  "disk": 175832
+}
