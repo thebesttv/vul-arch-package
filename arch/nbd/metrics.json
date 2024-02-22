@@ -1,0 +1,13 @@
+{
+  "name": "nbd",
+  "version": "3.25-1",
+  "depends": [
+    "glib2",
+    "gnutls",
+    "libnl"
+  ],
+  "makedepends": [],
+  "receive": 199559066,
+  "transmit": 269301,
+  "disk": 6246126
+}
