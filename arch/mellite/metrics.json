@@ -1,0 +1,18 @@
+{
+  "name": "mellite",
+  "version": "3.13.11-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "java-runtime=17",
+    "sh",
+    "supercollider"
+  ],
+  "makedepends": [
+    "gendesk",
+    "java-environment=17",
+    "sbt"
+  ],
+  "receive": 199549461,
+  "transmit": 271420,
+  "disk": 5175451
+}
