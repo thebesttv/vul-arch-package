@@ -1,0 +1,12 @@
+{
+  "name": "db5.3",
+  "version": "5.3.28-4",
+  "depends": [
+    "gcc-libs",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 234940886,
+  "transmit": 397687,
+  "disk": 182260587
+}
