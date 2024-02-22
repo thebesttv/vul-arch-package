@@ -1,0 +1,11 @@
+{
+  "name": "perl-uri",
+  "version": "5.21-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199550491,
+  "transmit": 297383,
+  "disk": 681619
+}
