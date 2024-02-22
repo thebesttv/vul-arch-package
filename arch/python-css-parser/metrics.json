@@ -1,0 +1,17 @@
+{
+  "name": "python-css-parser",
+  "version": "1.0.9-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 200475939,
+  "transmit": 334160,
+  "disk": 2978161
+}
