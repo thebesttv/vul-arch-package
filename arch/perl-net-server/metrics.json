@@ -1,0 +1,11 @@
+{
+  "name": "perl-net-server",
+  "version": "2.014-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199705132,
+  "transmit": 444926,
+  "disk": 881344
+}
