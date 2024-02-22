@@ -1,0 +1,13 @@
+{
+  "name": "python-pycparser",
+  "version": "2.21-5",
+  "depends": [
+    "python-ply"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199653667,
+  "transmit": 444662,
+  "disk": 1775071
+}
