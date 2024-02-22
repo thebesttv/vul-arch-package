@@ -1,0 +1,12 @@
+{
+  "name": "autossh",
+  "version": "1.4g-2",
+  "depends": [
+    "libnsl",
+    "openssh"
+  ],
+  "makedepends": [],
+  "receive": 199868434,
+  "transmit": 544663,
+  "disk": 483769
+}
