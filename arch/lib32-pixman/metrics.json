@@ -1,0 +1,17 @@
+{
+  "name": "lib32-pixman",
+  "version": "0.43.2-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "pixman"
+  ],
+  "makedepends": [
+    "meson",
+    "gcc-multilib",
+    "lib32-libpng"
+  ],
+  "receive": 199630905,
+  "transmit": 320051,
+  "disk": 3706119
+}
