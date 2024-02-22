@@ -1,0 +1,24 @@
+{
+  "name": "gaupol",
+  "version": "1.13-1",
+  "depends": [
+    "python-gobject",
+    "gtk3",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gst-plugins-bad",
+    "gst-plugins-ugly",
+    "gst-libav",
+    "gst-plugin-gtk",
+    "gspell",
+    "iso-codes",
+    "python-chardet",
+    "python-cairo",
+    "desktop-file-utils",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [],
+  "receive": 199668926,
+  "transmit": 385801,
+  "disk": 4039024
+}
