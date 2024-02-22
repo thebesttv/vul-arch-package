@@ -1,0 +1,11 @@
+{
+  "name": "fcgi",
+  "version": "2.4.2-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199495865,
+  "transmit": 245987,
+  "disk": 1692727
+}
