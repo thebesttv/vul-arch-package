@@ -1,0 +1,13 @@
+{
+  "name": "python-threadloop",
+  "version": "1.0.2-7",
+  "depends": [
+    "python-tornado"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199641362,
+  "transmit": 392407,
+  "disk": 132635
+}
