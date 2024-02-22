@@ -1,0 +1,13 @@
+{
+  "name": "benchmark",
+  "version": "1.8.3-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199502257,
+  "transmit": 251747,
+  "disk": 1423954
+}
