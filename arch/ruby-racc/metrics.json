@@ -1,0 +1,16 @@
+{
+  "name": "ruby-racc",
+  "version": "1.6.0-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "rubygems",
+    "ruby-rake",
+    "ruby-rake-compiler",
+    "ruby-rdoc"
+  ],
+  "receive": 200363440,
+  "transmit": 1040480,
+  "disk": 4165496
+}
