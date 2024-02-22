@@ -1,0 +1,13 @@
+{
+  "name": "perl-mail-authenticationresults",
+  "version": "2.20230112-2",
+  "depends": [
+    "perl>=5.8",
+    "perl-clone",
+    "perl-json"
+  ],
+  "makedepends": [],
+  "receive": 199599356,
+  "transmit": 379165,
+  "disk": 328886
+}
