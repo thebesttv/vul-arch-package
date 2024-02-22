@@ -1,0 +1,16 @@
+{
+  "name": "pango-perl",
+  "version": "1.227-16",
+  "depends": [
+    "pango",
+    "glib-perl",
+    "cairo-perl"
+  ],
+  "makedepends": [
+    "perl-extutils-pkgconfig",
+    "perl-extutils-depends"
+  ],
+  "receive": 200572469,
+  "transmit": 832169,
+  "disk": 376114
+}
