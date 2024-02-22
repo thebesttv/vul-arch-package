@@ -1,0 +1,12 @@
+{
+  "name": "symphytum",
+  "version": "2.6-4",
+  "depends": [
+    "hicolor-icon-theme",
+    "qt5-svg"
+  ],
+  "makedepends": [],
+  "receive": 199740542,
+  "transmit": 491784,
+  "disk": 36228005
+}
