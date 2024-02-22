@@ -1,0 +1,13 @@
+{
+  "name": "openocd",
+  "version": "1:0.12.0-3",
+  "depends": [
+    "libftdi-compat",
+    "libusb",
+    "hidapi"
+  ],
+  "makedepends": [],
+  "receive": 199551250,
+  "transmit": 305727,
+  "disk": 42076368
+}
