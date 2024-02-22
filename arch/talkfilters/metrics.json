@@ -1,0 +1,11 @@
+{
+  "name": "talkfilters",
+  "version": "2.3.8-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199553909,
+  "transmit": 272495,
+  "disk": 4445167
+}
