@@ -1,0 +1,27 @@
+{
+  "name": "ams",
+  "version": "2.2.1-1",
+  "depends": [
+    "cmt",
+    "gcc-libs",
+    "glibc",
+    "qt5-base",
+    "mcp-plugins",
+    "rev-plugins",
+    "swh-plugins",
+    "vco-plugins"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "fftw",
+    "gendesk",
+    "jack",
+    "ladspa",
+    "liblo",
+    "qt5-tools",
+    "zita-alsa-pcmi"
+  ],
+  "receive": 199591072,
+  "transmit": 309593,
+  "disk": 3136696
+}
