@@ -1,0 +1,12 @@
+{
+  "name": "ext3grep",
+  "version": "0.10.2-6",
+  "depends": [],
+  "makedepends": [
+    "e2fsprogs",
+    "patch"
+  ],
+  "receive": 199705344,
+  "transmit": 444892,
+  "disk": 1363259
+}
