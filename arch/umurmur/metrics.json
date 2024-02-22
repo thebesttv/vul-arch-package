@@ -1,0 +1,16 @@
+{
+  "name": "umurmur",
+  "version": "0.2.20-2",
+  "depends": [
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [
+    "cmake",
+    "libconfig",
+    "protobuf-c"
+  ],
+  "receive": 200601381,
+  "transmit": 928740,
+  "disk": 838880
+}
