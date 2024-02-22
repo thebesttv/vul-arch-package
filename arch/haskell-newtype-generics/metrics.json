@@ -1,0 +1,14 @@
+{
+  "name": "haskell-newtype-generics",
+  "version": "0.6.2-52",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199751929,
+  "transmit": 381916,
+  "disk": 324311
+}
