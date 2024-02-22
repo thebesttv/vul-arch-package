@@ -1,0 +1,16 @@
+{
+  "name": "pcre",
+  "version": "8.45-4",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "readline",
+    "zlib",
+    "bzip2",
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 201412913,
+  "transmit": 433357,
+  "disk": 11579562
+}
