@@ -1,0 +1,13 @@
+{
+  "name": "python-zope-testing",
+  "version": "5.0.1-2",
+  "depends": [
+    "python-setuptools",
+    "python-zope-interface",
+    "python-zope-exceptions"
+  ],
+  "makedepends": [],
+  "receive": 199708591,
+  "transmit": 427033,
+  "disk": 277552
+}
