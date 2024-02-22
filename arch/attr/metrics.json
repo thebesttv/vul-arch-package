@@ -1,0 +1,13 @@
+{
+  "name": "attr",
+  "version": "2.5.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "gettext"
+  ],
+  "receive": 199563902,
+  "transmit": 278115,
+  "disk": 2666842
+}
