@@ -1,0 +1,18 @@
+{
+  "name": "quagga",
+  "version": "1.2.4-8",
+  "depends": [
+    "libcap",
+    "libnl",
+    "net-snmp",
+    "readline",
+    "ncurses",
+    "perl",
+    "c-ares",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199592837,
+  "transmit": 311689,
+  "disk": 17985783
+}
