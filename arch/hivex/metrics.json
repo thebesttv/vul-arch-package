@@ -1,0 +1,23 @@
+{
+  "name": "hivex",
+  "version": "1.3.23-3",
+  "depends": [
+    "libxml2",
+    "perl"
+  ],
+  "makedepends": [
+    "python",
+    "ruby",
+    "ruby-rake",
+    "ruby-rdoc",
+    "perl-io-stringy",
+    "perl-test-simple",
+    "ocaml-findlib",
+    "ocaml",
+    "ocaml-compiler-libs",
+    "chrpath"
+  ],
+  "receive": 199534581,
+  "transmit": 284250,
+  "disk": 4190884
+}
