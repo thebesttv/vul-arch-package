@@ -1,0 +1,21 @@
+{
+  "name": "haskell-missingh",
+  "version": "1.6.0.1-17",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslogger",
+    "haskell-network",
+    "haskell-network-bsd",
+    "haskell-old-locale",
+    "haskell-old-time",
+    "haskell-regex-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit"
+  ],
+  "receive": 199612230,
+  "transmit": 389778,
+  "disk": 896423
+}
