@@ -1,0 +1,11 @@
+{
+  "name": "interception-dual-function-keys",
+  "version": "1.5.0-4",
+  "depends": [
+    "interception-tools"
+  ],
+  "makedepends": [],
+  "receive": 199706549,
+  "transmit": 392278,
+  "disk": 182239
+}
