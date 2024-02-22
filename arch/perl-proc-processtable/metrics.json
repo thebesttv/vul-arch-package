@@ -1,0 +1,11 @@
+{
+  "name": "perl-proc-processtable",
+  "version": "0.636-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199504658,
+  "transmit": 272107,
+  "disk": 556158
+}
