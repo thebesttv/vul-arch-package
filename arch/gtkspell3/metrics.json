@@ -1,0 +1,16 @@
+{
+  "name": "gtkspell3",
+  "version": "3.0.10-2",
+  "depends": [
+    "gtk3",
+    "enchant"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection",
+    "vala"
+  ],
+  "receive": 199867649,
+  "transmit": 495348,
+  "disk": 2352139
+}
