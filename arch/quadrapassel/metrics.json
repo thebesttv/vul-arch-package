@@ -1,0 +1,21 @@
+{
+  "name": "quadrapassel",
+  "version": "40.2-1",
+  "depends": [
+    "clutter-gtk",
+    "gsound",
+    "librsvg",
+    "libmanette"
+  ],
+  "makedepends": [
+    "meson",
+    "gobject-introspection",
+    "yelp-tools",
+    "appstream-glib",
+    "git",
+    "vala"
+  ],
+  "receive": 199712312,
+  "transmit": 425399,
+  "disk": 9827352
+}
