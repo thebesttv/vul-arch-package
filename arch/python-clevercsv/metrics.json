@@ -1,0 +1,16 @@
+{
+  "name": "python-clevercsv",
+  "version": "0.8.0-2",
+  "depends": [
+    "python-chardet",
+    "python-regex",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199642304,
+  "transmit": 407570,
+  "disk": 6015706
+}
