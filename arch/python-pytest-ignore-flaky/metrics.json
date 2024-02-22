@@ -1,0 +1,13 @@
+{
+  "name": "python-pytest-ignore-flaky",
+  "version": "2.1.0-1",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199611231,
+  "transmit": 375126,
+  "disk": 117308
+}
