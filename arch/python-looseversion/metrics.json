@@ -1,0 +1,17 @@
+{
+  "name": "python-looseversion",
+  "version": "1.2.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-flit",
+    "python-hatchling"
+  ],
+  "receive": 199535721,
+  "transmit": 265435,
+  "disk": 136377
+}
