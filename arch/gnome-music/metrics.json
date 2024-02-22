@@ -1,0 +1,26 @@
+{
+  "name": "gnome-music",
+  "version": "1:45.1-1",
+  "depends": [
+    "grilo",
+    "grilo-plugins",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gtk4",
+    "libadwaita",
+    "libmediaart",
+    "python-cairo",
+    "python-gobject",
+    "tracker3-miners"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199708593,
+  "transmit": 419259,
+  "disk": 25330237
+}
