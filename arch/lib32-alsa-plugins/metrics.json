@@ -1,0 +1,20 @@
+{
+  "name": "lib32-alsa-plugins",
+  "version": "1.2.7.1-2",
+  "depends": [
+    "alsa-plugins=1:1.2.7.1",
+    "lib32-alsa-lib",
+    "lib32-glibc"
+  ],
+  "makedepends": [
+    "lib32-libavtp",
+    "lib32-dbus",
+    "lib32-jack",
+    "lib32-libpulse",
+    "lib32-libsamplerate",
+    "lib32-speexdsp"
+  ],
+  "receive": 200125341,
+  "transmit": 433004,
+  "disk": 2846085
+}
