@@ -1,0 +1,25 @@
+{
+  "name": "foomatic-db-engine",
+  "version": "5:20200131-1",
+  "depends": [
+    "perl",
+    "libxml2",
+    "cups-filters",
+    "glibc",
+    "bash",
+    "perl-xml-libxml",
+    "perl-clone",
+    "perl-dbi"
+  ],
+  "makedepends": [
+    "cups",
+    "ghostscript",
+    "a2ps",
+    "wget",
+    "foomatic-db",
+    "git"
+  ],
+  "receive": 199489610,
+  "transmit": 260849,
+  "disk": 22812530
+}
