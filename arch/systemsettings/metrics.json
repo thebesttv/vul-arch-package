@@ -1,0 +1,14 @@
+{
+  "name": "systemsettings",
+  "version": "5.27.10-1",
+  "depends": [
+    "plasma-workspace"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199792274,
+  "transmit": 408471,
+  "disk": 2555552
+}
