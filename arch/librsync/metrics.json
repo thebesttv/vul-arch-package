@@ -1,0 +1,13 @@
+{
+  "name": "librsync",
+  "version": "1:2.3.4-1",
+  "depends": [
+    "popt"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200321950,
+  "transmit": 757240,
+  "disk": 1107793
+}
