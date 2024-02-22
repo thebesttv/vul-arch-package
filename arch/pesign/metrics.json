@@ -1,0 +1,20 @@
+{
+  "name": "pesign",
+  "version": "116-2",
+  "depends": [
+    "bash",
+    "gcc-libs",
+    "glibc",
+    "efivar",
+    "util-linux-libs",
+    "nspr",
+    "nss",
+    "popt"
+  ],
+  "makedepends": [
+    "mandoc"
+  ],
+  "receive": 199526917,
+  "transmit": 284623,
+  "disk": 865736
+}
