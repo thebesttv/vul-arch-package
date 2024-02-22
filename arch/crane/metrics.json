@@ -1,0 +1,13 @@
+{
+  "name": "crane",
+  "version": "0.19.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199724197,
+  "transmit": 309078,
+  "disk": 24645215
+}
