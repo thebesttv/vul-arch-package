@@ -1,0 +1,32 @@
+{
+  "name": "gnome-remote-desktop",
+  "version": "45.1-1",
+  "depends": [
+    "cairo",
+    "dconf",
+    "freerdp",
+    "fuse3",
+    "glib2",
+    "libdrm",
+    "libei",
+    "libepoxy",
+    "libfdk-aac",
+    "libnotify",
+    "libpipewire",
+    "libsecret",
+    "libvncserver",
+    "libxkbcommon",
+    "pipewire",
+    "systemd",
+    "tpm2-tss"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "ffnvcodec-headers",
+    "git",
+    "meson"
+  ],
+  "receive": 199565780,
+  "transmit": 364333,
+  "disk": 4416396
+}
