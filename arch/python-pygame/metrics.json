@@ -1,0 +1,24 @@
+{
+  "name": "python-pygame",
+  "version": "2.4.0-1",
+  "depends": [
+    "glibc",
+    "libpng",
+    "python",
+    "sdl2",
+    "sdl2_mixer",
+    "sdl2_ttf",
+    "sdl2_image",
+    "portmidi"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "sdl2"
+  ],
+  "receive": 199558047,
+  "transmit": 284587,
+  "disk": 54969364
+}
