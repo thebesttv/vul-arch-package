@@ -1,0 +1,11 @@
+{
+  "name": "etl",
+  "version": "1.4.4-1",
+  "depends": [],
+  "makedepends": [
+    "glibmm"
+  ],
+  "receive": 199653873,
+  "transmit": 407528,
+  "disk": 1600370
+}
