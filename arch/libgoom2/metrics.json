@@ -1,0 +1,11 @@
+{
+  "name": "libgoom2",
+  "version": "2k4-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199729384,
+  "transmit": 451594,
+  "disk": 848172
+}
