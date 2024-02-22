@@ -1,0 +1,13 @@
+{
+  "name": "robotfindskitten",
+  "version": "2.8284271.702-1",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [
+    "setconf"
+  ],
+  "receive": 199578467,
+  "transmit": 368407,
+  "disk": 2389235
+}
