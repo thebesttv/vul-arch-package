@@ -1,0 +1,11 @@
+{
+  "name": "perl-probe-perl",
+  "version": "0.03-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199687285,
+  "transmit": 364248,
+  "disk": 149630
+}
