@@ -1,0 +1,13 @@
+{
+  "name": "libnih",
+  "version": "1.0.3-4",
+  "depends": [
+    "dbus"
+  ],
+  "makedepends": [
+    "expat"
+  ],
+  "receive": 199708582,
+  "transmit": 421337,
+  "disk": 11077142
+}
