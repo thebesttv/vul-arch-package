@@ -1,0 +1,14 @@
+{
+  "name": "skate",
+  "version": "0.2.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199798896,
+  "transmit": 469549,
+  "disk": 624672
+}
