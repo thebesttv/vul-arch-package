@@ -1,0 +1,11 @@
+{
+  "name": "perl-archive-zip",
+  "version": "1.68-8",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199578201,
+  "transmit": 330264,
+  "disk": 762338
+}
