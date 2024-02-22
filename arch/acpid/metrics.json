@@ -1,0 +1,11 @@
+{
+  "name": "acpid",
+  "version": "2.0.34-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199681568,
+  "transmit": 399548,
+  "disk": 1055100
+}
