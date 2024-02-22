@@ -1,0 +1,12 @@
+{
+  "name": "libicns",
+  "version": "0.8.1-10",
+  "depends": [
+    "libpng",
+    "jasper"
+  ],
+  "makedepends": [],
+  "receive": 199624340,
+  "transmit": 368344,
+  "disk": 2398222
+}
