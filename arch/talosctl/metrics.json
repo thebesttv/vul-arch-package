@@ -1,0 +1,12 @@
+{
+  "name": "talosctl",
+  "version": "1.6.3-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 308641636,
+  "transmit": 888399,
+  "disk": 194343552
+}
