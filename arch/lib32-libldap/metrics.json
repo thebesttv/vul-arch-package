@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libldap",
+  "version": "2.6.6-1",
+  "depends": [
+    "lib32-openssl",
+    "lib32-libxcrypt",
+    "libldap"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 199702717,
+  "transmit": 397560,
+  "disk": 35846462
+}
