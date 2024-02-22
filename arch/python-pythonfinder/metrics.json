@@ -1,0 +1,17 @@
+{
+  "name": "python-pythonfinder",
+  "version": "2.1.0-1",
+  "depends": [
+    "python",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199768482,
+  "transmit": 437754,
+  "disk": 371430
+}
