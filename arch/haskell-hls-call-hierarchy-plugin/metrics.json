@@ -1,0 +1,26 @@
+{
+  "name": "haskell-hls-call-hierarchy-plugin",
+  "version": "1.2.0.0-146",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-extra",
+    "haskell-ghcide",
+    "haskell-hiedb",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-sqlite-simple",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-ghcide-test-utils",
+    "haskell-hls-test-utils",
+    "haskell-lsp-test"
+  ],
+  "receive": 199533812,
+  "transmit": 287604,
+  "disk": 676896
+}
