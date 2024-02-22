@@ -1,0 +1,14 @@
+{
+  "name": "felix-rs",
+  "version": "2.12.1-1",
+  "depends": [
+    "gcc-libs",
+    "bzip2"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199768118,
+  "transmit": 464010,
+  "disk": 31169449
+}
