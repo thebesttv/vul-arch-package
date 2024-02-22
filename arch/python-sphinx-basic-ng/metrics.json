@@ -1,0 +1,16 @@
+{
+  "name": "python-sphinx-basic-ng",
+  "version": "1.0.0b2-1",
+  "depends": [
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199668083,
+  "transmit": 427292,
+  "disk": 231361
+}
