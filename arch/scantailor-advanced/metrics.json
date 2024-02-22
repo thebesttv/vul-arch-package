@@ -1,0 +1,19 @@
+{
+  "name": "scantailor-advanced",
+  "version": "1.0.19-2",
+  "depends": [
+    "qt6-base",
+    "qt6-svg",
+    "hicolor-icon-theme",
+    "libpng>=1.0.0",
+    "libtiff>=4.0.0"
+  ],
+  "makedepends": [
+    "cmake>=3.9.0",
+    "qt6-tools",
+    "boost>=1.0.0"
+  ],
+  "receive": 200582890,
+  "transmit": 335010,
+  "disk": 6508787
+}
