@@ -1,0 +1,13 @@
+{
+  "name": "l3afpad",
+  "version": "0.8.18.1.11-7",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199658581,
+  "transmit": 406484,
+  "disk": 973555
+}
