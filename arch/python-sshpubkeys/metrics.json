@@ -1,0 +1,14 @@
+{
+  "name": "python-sshpubkeys",
+  "version": "3.3.1-4",
+  "depends": [
+    "python-ecdsa",
+    "python-cryptography"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199665097,
+  "transmit": 408526,
+  "disk": 304725
+}
