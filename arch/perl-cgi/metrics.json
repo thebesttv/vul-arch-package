@@ -1,0 +1,12 @@
+{
+  "name": "perl-cgi",
+  "version": "4.59-1",
+  "depends": [
+    "perl>=5.8.1",
+    "perl-html-parser"
+  ],
+  "makedepends": [],
+  "receive": 199708892,
+  "transmit": 488548,
+  "disk": 1028047
+}
