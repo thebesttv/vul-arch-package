@@ -1,0 +1,32 @@
+{
+  "name": "pantheon-code",
+  "version": "7.2.0-1",
+  "depends": [
+    "editorconfig-core-c",
+    "glib2",
+    "gtk3",
+    "gtksourceview4",
+    "libgee",
+    "libgit2-glib",
+    "libgranite.so",
+    "libhandy-1.so",
+    "libpeas",
+    "pango",
+    "polkit",
+    "vala"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "gobject-introspection",
+    "gtkspell3",
+    "intltool",
+    "libsoup",
+    "meson",
+    "vte3",
+    "webkit2gtk"
+  ],
+  "receive": 265269675,
+  "transmit": 360759,
+  "disk": 77696653
+}
