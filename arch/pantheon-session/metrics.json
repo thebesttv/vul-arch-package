@@ -1,0 +1,25 @@
+{
+  "name": "pantheon-session",
+  "version": "6.0.0-4",
+  "depends": [
+    "cerbere",
+    "dconf",
+    "gala",
+    "gnome-keyring",
+    "gnome-session",
+    "gnome-settings-daemon",
+    "pantheon-applications-menu",
+    "onboard",
+    "orca",
+    "plank",
+    "wingpanel",
+    "xdg-user-dirs-gtk"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199533936,
+  "transmit": 267011,
+  "disk": 515515
+}
