@@ -1,0 +1,20 @@
+{
+  "name": "lib32-sdl2_mixer",
+  "version": "2.6.3-1",
+  "depends": [
+    "lib32-flac",
+    "lib32-glibc",
+    "lib32-libmodplug",
+    "lib32-libvorbis",
+    "lib32-mpg123",
+    "lib32-sdl2",
+    "sdl2_mixer"
+  ],
+  "makedepends": [
+    "git",
+    "lib32-fluidsynth"
+  ],
+  "receive": 237242019,
+  "transmit": 332597,
+  "disk": 114247225
+}
