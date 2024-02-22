@@ -1,0 +1,16 @@
+{
+  "name": "libgee",
+  "version": "0.20.6-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "vala",
+    "autoconf-archive",
+    "git"
+  ],
+  "receive": 201286898,
+  "transmit": 1254413,
+  "disk": 2112655
+}
