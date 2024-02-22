@@ -1,0 +1,23 @@
+{
+  "name": "knotifications5",
+  "version": "5.115.0-1",
+  "depends": [
+    "libcanberra",
+    "libdbusmenu-qt5",
+    "kwindowsystem5",
+    "kconfig5",
+    "kcoreaddons5",
+    "qt5-speech",
+    "libxtst"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "qt5-doc",
+    "doxygen",
+    "qt5-declarative"
+  ],
+  "receive": 200208585,
+  "transmit": 615699,
+  "disk": 25131767
+}
