@@ -1,0 +1,13 @@
+{
+  "name": "perl-devel-checkbin",
+  "version": "0.04-9",
+  "depends": [
+    "perl>=5.8.1"
+  ],
+  "makedepends": [
+    "perl-extutils-makemaker>=6.64"
+  ],
+  "receive": 199584043,
+  "transmit": 347860,
+  "disk": 143375
+}
