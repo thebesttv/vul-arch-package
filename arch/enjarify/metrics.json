@@ -1,0 +1,13 @@
+{
+  "name": "enjarify",
+  "version": "1.0.3-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199478424,
+  "transmit": 227862,
+  "disk": 7196487
+}
