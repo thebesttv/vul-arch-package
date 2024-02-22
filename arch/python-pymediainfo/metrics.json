@@ -1,0 +1,20 @@
+{
+  "name": "python-pymediainfo",
+  "version": "6.1.0-2",
+  "depends": [
+    "libmediainfo",
+    "python",
+    "python-importlib-metadata"
+  ],
+  "makedepends": [
+    "mediainfo",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199684094,
+  "transmit": 414886,
+  "disk": 1123251
+}
