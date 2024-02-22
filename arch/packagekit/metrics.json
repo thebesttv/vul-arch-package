@@ -1,0 +1,17 @@
+{
+  "name": "packagekit",
+  "version": "1.2.8-2",
+  "depends": [],
+  "makedepends": [
+    "polkit",
+    "sqlite",
+    "gobject-introspection",
+    "intltool",
+    "bash-completion",
+    "vala",
+    "meson"
+  ],
+  "receive": 199542089,
+  "transmit": 305218,
+  "disk": 12786404
+}
