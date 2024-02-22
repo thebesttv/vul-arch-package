@@ -1,0 +1,11 @@
+{
+  "name": "perl-sort-key",
+  "version": "1.33-12",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199562152,
+  "transmit": 339104,
+  "disk": 390027
+}
