@@ -1,0 +1,19 @@
+{
+  "name": "haskell-th-utilities",
+  "version": "0.2.5.0-43",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive",
+    "haskell-syb",
+    "haskell-th-abstraction",
+    "haskell-th-orphans"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-vector"
+  ],
+  "receive": 199749061,
+  "transmit": 280516,
+  "disk": 434707
+}
