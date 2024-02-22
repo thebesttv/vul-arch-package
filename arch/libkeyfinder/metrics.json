@@ -1,0 +1,16 @@
+{
+  "name": "libkeyfinder",
+  "version": "2.2.8-1",
+  "depends": [
+    "fftw",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "catch2",
+    "cmake"
+  ],
+  "receive": 199747503,
+  "transmit": 450696,
+  "disk": 522454
+}
