@@ -1,0 +1,13 @@
+{
+  "name": "mingw-w64-winpthreads",
+  "version": "11.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "mingw-w64-gcc",
+    "mingw-w64-binutils",
+    "mingw-w64-crt=11.0.0"
+  ],
+  "receive": 209686154,
+  "transmit": 280677,
+  "disk": 120833723
+}
