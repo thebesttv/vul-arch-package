@@ -1,0 +1,21 @@
+{
+  "name": "zabbix",
+  "version": "6.4.11-1",
+  "depends": [],
+  "makedepends": [
+    "postgresql-libs",
+    "libxml2",
+    "unixodbc",
+    "net-snmp",
+    "mariadb-libs",
+    "libldap",
+    "libevent",
+    "go",
+    "pkgconfig",
+    "pcre2",
+    "openipmi"
+  ],
+  "receive": 245816751,
+  "transmit": 320243,
+  "disk": 341155740
+}
