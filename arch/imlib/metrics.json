@@ -1,0 +1,16 @@
+{
+  "name": "imlib",
+  "version": "1.9.15-18",
+  "depends": [
+    "giflib",
+    "libpng",
+    "libtiff",
+    "libxext"
+  ],
+  "makedepends": [
+    "libxt"
+  ],
+  "receive": 199757061,
+  "transmit": 432762,
+  "disk": 5223395
+}
