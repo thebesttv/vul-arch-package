@@ -1,0 +1,11 @@
+{
+  "name": "ack",
+  "version": "3.7.0-2",
+  "depends": [
+    "perl-file-next"
+  ],
+  "makedepends": [],
+  "receive": 199618158,
+  "transmit": 364083,
+  "disk": 1204566
+}
