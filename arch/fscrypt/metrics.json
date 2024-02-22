@@ -1,0 +1,13 @@
+{
+  "name": "fscrypt",
+  "version": "0.3.4-1",
+  "depends": [
+    "pam"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199586858,
+  "transmit": 341502,
+  "disk": 1101046
+}
