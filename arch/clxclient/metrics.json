@@ -1,0 +1,16 @@
+{
+  "name": "clxclient",
+  "version": "3.9.2-4",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "libxft"
+  ],
+  "makedepends": [
+    "clthreads"
+  ],
+  "receive": 199579197,
+  "transmit": 349795,
+  "disk": 277610
+}
