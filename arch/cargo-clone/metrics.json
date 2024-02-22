@@ -1,0 +1,14 @@
+{
+  "name": "cargo-clone",
+  "version": "1.2.1-3",
+  "depends": [
+    "libgit2",
+    "curl"
+  ],
+  "makedepends": [
+    "libssh2"
+  ],
+  "receive": 199487288,
+  "transmit": 221443,
+  "disk": 288962
+}
