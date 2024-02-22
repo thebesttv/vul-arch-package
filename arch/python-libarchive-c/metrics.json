@@ -1,0 +1,14 @@
+{
+  "name": "python-libarchive-c",
+  "version": "4.0-3",
+  "depends": [
+    "python",
+    "libarchive"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199708369,
+  "transmit": 424512,
+  "disk": 849636
+}
