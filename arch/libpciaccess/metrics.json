@@ -1,0 +1,15 @@
+{
+  "name": "libpciaccess",
+  "version": "0.18-1",
+  "depends": [
+    "glibc",
+    "zlib"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "meson"
+  ],
+  "receive": 199608939,
+  "transmit": 367330,
+  "disk": 570073
+}
