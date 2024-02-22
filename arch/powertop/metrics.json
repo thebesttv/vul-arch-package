@@ -1,0 +1,17 @@
+{
+  "name": "powertop",
+  "version": "2.15-1",
+  "depends": [
+    "gcc-libs",
+    "libnl",
+    "ncurses",
+    "pciutils"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "patch"
+  ],
+  "receive": 199663611,
+  "transmit": 370044,
+  "disk": 2142413
+}
