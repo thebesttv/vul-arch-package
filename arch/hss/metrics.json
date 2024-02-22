@@ -1,0 +1,11 @@
+{
+  "name": "hss",
+  "version": "1.9-1",
+  "depends": [
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 199557808,
+  "transmit": 288454,
+  "disk": 143219
+}
