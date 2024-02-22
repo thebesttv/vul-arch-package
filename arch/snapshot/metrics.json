@@ -1,0 +1,25 @@
+{
+  "name": "snapshot",
+  "version": "45.2-1",
+  "depends": [
+    "dconf",
+    "graphene",
+    "gst-plugin-pipewire",
+    "gst-plugins-bad-libs",
+    "gst-plugins-base",
+    "gst-plugins-base-libs",
+    "gst-plugins-good",
+    "gstreamer",
+    "gtk4",
+    "hicolor-icon-theme",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "rust"
+  ],
+  "receive": 199745951,
+  "transmit": 447733,
+  "disk": 4420746
+}
