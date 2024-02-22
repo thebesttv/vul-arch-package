@@ -1,0 +1,14 @@
+{
+  "name": "miniflux",
+  "version": "2.0.51-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199771254,
+  "transmit": 425515,
+  "disk": 50670233
+}
