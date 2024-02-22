@@ -1,0 +1,11 @@
+{
+  "name": "lager",
+  "version": "0.1.1-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199521896,
+  "transmit": 256822,
+  "disk": 3417682
+}
