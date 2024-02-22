@@ -1,0 +1,15 @@
+{
+  "name": "gd",
+  "version": "2.3.3-7",
+  "depends": [
+    "fontconfig",
+    "libxpm",
+    "libwebp",
+    "libavif",
+    "libheif"
+  ],
+  "makedepends": [],
+  "receive": 199725634,
+  "transmit": 432135,
+  "disk": 9638349
+}
