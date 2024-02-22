@@ -1,0 +1,24 @@
+{
+  "name": "bitwarden",
+  "version": "2024.2.0-1",
+  "depends": [
+    "electron27",
+    "libnotify",
+    "libsecret",
+    "libxtst",
+    "libxss",
+    "libnss_nis"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "python",
+    "node-gyp",
+    "nodejs-lts-hydrogen",
+    "jq",
+    "rust"
+  ],
+  "receive": 1159165271,
+  "transmit": 856109,
+  "disk": 1006163454
+}
