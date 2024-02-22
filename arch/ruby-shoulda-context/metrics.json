@@ -1,0 +1,13 @@
+{
+  "name": "ruby-shoulda-context",
+  "version": "2.0.0-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199641141,
+  "transmit": 387720,
+  "disk": 2307938
+}
