@@ -1,0 +1,17 @@
+{
+  "name": "hwdetect",
+  "version": "2024.02.05-1",
+  "depends": [
+    "sh",
+    "awk",
+    "grep",
+    "coreutils",
+    "sed",
+    "e2fsprogs",
+    "gzip"
+  ],
+  "makedepends": [],
+  "receive": 199683345,
+  "transmit": 369648,
+  "disk": 188133
+}
