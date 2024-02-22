@@ -1,0 +1,16 @@
+{
+  "name": "perl-inline-java",
+  "version": "0.67-2",
+  "depends": [
+    "perl",
+    "perl-inline",
+    "java-runtime"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "perl-file-which"
+  ],
+  "receive": 199678675,
+  "transmit": 426896,
+  "disk": 656833
+}
