@@ -1,0 +1,13 @@
+{
+  "name": "perl-io-compress-brotli",
+  "version": "1:0.008-1",
+  "depends": [
+    "perl",
+    "brotli",
+    "perl-file-slurper"
+  ],
+  "makedepends": [],
+  "receive": 199579394,
+  "transmit": 265512,
+  "disk": 25924338
+}
