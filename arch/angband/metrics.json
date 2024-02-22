@@ -1,0 +1,23 @@
+{
+  "name": "angband",
+  "version": "4.2.5-2",
+  "depends": [
+    "glibc",
+    "sdl2",
+    "sdl2_ttf",
+    "sdl2_image",
+    "sdl2_mixer",
+    "ncurses",
+    "xorg-fonts-misc",
+    "xorg-mkfontscale",
+    "hicolor-icon-theme",
+    "libx11"
+  ],
+  "makedepends": [
+    "git",
+    "python-docutils"
+  ],
+  "receive": 344472634,
+  "transmit": 422770,
+  "disk": 181235582
+}
