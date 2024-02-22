@@ -1,0 +1,14 @@
+{
+  "name": "vamp-plugin-sdk",
+  "version": "2.10.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "libsndfile"
+  ],
+  "receive": 199737867,
+  "transmit": 435458,
+  "disk": 2433901
+}
