@@ -1,0 +1,17 @@
+{
+  "name": "python-asteval",
+  "version": "0.9.31-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199559333,
+  "transmit": 322114,
+  "disk": 2989710
+}
