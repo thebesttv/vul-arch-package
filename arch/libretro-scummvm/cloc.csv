@@ -1,0 +1,49 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=17.89 s (1000.3 files/s 345252.2 lines/s)"
+8462,C++,629937,466358,3018260
+8233,C/C++ Header,194079,309749,961817
+34,PO File,72728,121122,187052
+36,Assembly,8837,1487,28417
+108,XML,1340,905,23841
+115,Lua,3600,1039,17678
+121,INI,184,0,14842
+209,make,1409,860,13348
+90,Bourne Shell,1440,2147,11735
+50,Python,1779,2761,11278
+14,Markdown,1615,43,6972
+15,Java,1124,1863,5771
+1,Pascal,0,0,5684
+84,Text,650,0,5603
+22,Objective-C++,755,807,3755
+52,reStructuredText,3662,3719,3222
+112,Perl,362,258,2720
+10,HTML,493,28,2685
+9,YAML,137,70,2378
+4,yacc,208,226,1667
+3,CSS,309,84,1467
+6,Linker Script,94,202,1096
+9,JavaScript,127,132,1016
+25,JSON,2,0,858
+25,SVG,4,1,786
+4,lex,83,80,499
+2,Visual Basic Script,114,145,428
+6,DOS Batch,93,30,419
+1,Windows Resource File,12,2,321
+1,awk,58,60,276
+14,DTD,45,22,256
+1,XSD,26,69,246
+2,Rexx,33,102,167
+2,R,15,6,127
+2,diff,10,43,104
+2,C,23,60,98
+1,Protocol Buffers,26,81,90
+1,Objective-C,23,23,79
+1,Gradle,14,47,61
+1,Logos,0,0,60
+2,Visual Studio Solution,2,2,47
+1,Bazel,12,0,38
+1,CMake,3,0,22
+1,sed,0,8,11
+1,Fortran 77,4,1,10
+1,Properties,0,0,6
+1,Expect,0,0,4
+17898,SUM,925471,914642,4337317
