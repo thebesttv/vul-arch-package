@@ -1,0 +1,13 @@
+{
+  "name": "cxxtest",
+  "version": "4.4-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199672633,
+  "transmit": 437126,
+  "disk": 5734886
+}
