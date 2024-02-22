@@ -1,0 +1,11 @@
+{
+  "name": "cpanminus",
+  "version": "1.7046-2",
+  "depends": [
+    "perl>=5.8.1"
+  ],
+  "makedepends": [],
+  "receive": 199709997,
+  "transmit": 451930,
+  "disk": 1622186
+}
