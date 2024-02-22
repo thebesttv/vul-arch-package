@@ -1,0 +1,13 @@
+{
+  "name": "python-asynctest",
+  "version": "0.13.0-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199680423,
+  "transmit": 418414,
+  "disk": 497451
+}
