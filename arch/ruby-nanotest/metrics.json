@@ -1,0 +1,13 @@
+{
+  "name": "ruby-nanotest",
+  "version": "0.9.4.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-minitest"
+  ],
+  "receive": 201021023,
+  "transmit": 1030614,
+  "disk": 112571
+}
