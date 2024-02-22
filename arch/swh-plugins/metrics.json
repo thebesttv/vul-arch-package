@@ -1,0 +1,18 @@
+{
+  "name": "swh-plugins",
+  "version": "0.4.17-5",
+  "depends": [
+    "fftw",
+    "glibc",
+    "gsm",
+    "ladspa-host"
+  ],
+  "makedepends": [
+    "ladspa",
+    "libxml2",
+    "perl-xml-parser"
+  ],
+  "receive": 199520862,
+  "transmit": 264115,
+  "disk": 3209903
+}
