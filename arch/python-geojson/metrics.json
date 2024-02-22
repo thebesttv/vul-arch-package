@@ -1,0 +1,16 @@
+{
+  "name": "python-geojson",
+  "version": "3.1.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199583348,
+  "transmit": 275458,
+  "disk": 222636
+}
