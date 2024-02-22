@@ -1,0 +1,11 @@
+{
+  "name": "psmisc",
+  "version": "23.6-1",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 200011955,
+  "transmit": 308277,
+  "disk": 4097538
+}
