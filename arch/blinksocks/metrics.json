@@ -1,0 +1,14 @@
+{
+  "name": "blinksocks",
+  "version": "3.3.8-3",
+  "depends": [
+    "nodejs",
+    "semver"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199640699,
+  "transmit": 384957,
+  "disk": 153069
+}
