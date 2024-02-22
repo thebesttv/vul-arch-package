@@ -1,0 +1,16 @@
+{
+  "name": "libnids",
+  "version": "1.26-5",
+  "depends": [
+    "libnet",
+    "libpcap",
+    "glib2",
+    "libnsl"
+  ],
+  "makedepends": [
+    "pkgconfig"
+  ],
+  "receive": 199625539,
+  "transmit": 388842,
+  "disk": 834607
+}
