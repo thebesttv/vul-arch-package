@@ -1,0 +1,14 @@
+{
+  "name": "webhook",
+  "version": "2.8.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199646051,
+  "transmit": 380398,
+  "disk": 11808319
+}
