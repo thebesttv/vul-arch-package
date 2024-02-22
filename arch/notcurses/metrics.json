@@ -1,0 +1,30 @@
+{
+  "name": "notcurses",
+  "version": "3.0.9-3",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "doctest",
+    "ffmpeg",
+    "gpm",
+    "libdeflate",
+    "libunistring",
+    "ncurses",
+    "ninja",
+    "pandoc",
+    "python-build",
+    "python-cffi",
+    "python-installer",
+    "python-pypandoc",
+    "python-setuptools",
+    "python-wheel",
+    "readline",
+    "zlib"
+  ],
+  "receive": 199547246,
+  "transmit": 295588,
+  "disk": 31906346
+}
