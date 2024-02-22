@@ -1,0 +1,23 @@
+{
+  "name": "spice-vdagent",
+  "version": "0.22.1-3",
+  "depends": [
+    "alsa-lib",
+    "dbus",
+    "glib2",
+    "gtk3",
+    "libdrm",
+    "libpciaccess",
+    "libxfixes",
+    "libxinerama",
+    "libxrandr",
+    "systemd"
+  ],
+  "makedepends": [
+    "spice-protocol",
+    "git"
+  ],
+  "receive": 199615635,
+  "transmit": 286047,
+  "disk": 1219039
+}
