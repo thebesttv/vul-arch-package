@@ -1,0 +1,15 @@
+{
+  "name": "pg_auto_failover",
+  "version": "2.1-1",
+  "depends": [
+    "postgresql",
+    "ncurses"
+  ],
+  "makedepends": [
+    "clang",
+    "llvm"
+  ],
+  "receive": 199659040,
+  "transmit": 372180,
+  "disk": 5608495
+}
