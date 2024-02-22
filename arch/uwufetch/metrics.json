@@ -1,0 +1,11 @@
+{
+  "name": "uwufetch",
+  "version": "2.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199515081,
+  "transmit": 240961,
+  "disk": 5610440
+}
