@@ -1,0 +1,15 @@
+{
+  "name": "extra-cmake-modules",
+  "version": "5.115.0-1",
+  "depends": [
+    "cmake"
+  ],
+  "makedepends": [
+    "python-sphinx",
+    "python-requests",
+    "qt5-tools"
+  ],
+  "receive": 199681803,
+  "transmit": 407986,
+  "disk": 2767004
+}
