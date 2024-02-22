@@ -1,0 +1,26 @@
+{
+  "name": "picard",
+  "version": "2.11-1",
+  "depends": [
+    "glibc",
+    "hicolor-icon-theme",
+    "python",
+    "python-dateutil",
+    "python-discid",
+    "python-fasteners",
+    "python-markdown",
+    "python-mutagen",
+    "python-pyjwt",
+    "python-pyqt5",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 206158949,
+  "transmit": 797437,
+  "disk": 36507049
+}
