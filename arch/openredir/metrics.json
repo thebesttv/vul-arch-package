@@ -1,0 +1,12 @@
+{
+  "name": "openredir",
+  "version": "1.0-1",
+  "depends": [
+    "lua",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199867109,
+  "transmit": 524437,
+  "disk": 104545
+}
