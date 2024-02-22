@@ -1,0 +1,11 @@
+{
+  "name": "run-parts",
+  "version": "5.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199615061,
+  "transmit": 373069,
+  "disk": 910479
+}
