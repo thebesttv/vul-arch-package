@@ -1,0 +1,18 @@
+{
+  "name": "perl-mail-spf",
+  "version": "2.9.0-11",
+  "depends": [
+    "perl-error",
+    "perl-netaddr-ip",
+    "perl-uri",
+    "perl-net-dns",
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build",
+    "perl-net-dns-resolver-programmable"
+  ],
+  "receive": 199573189,
+  "transmit": 326052,
+  "disk": 623848
+}
