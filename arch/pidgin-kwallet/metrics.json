@@ -1,0 +1,14 @@
+{
+  "name": "pidgin-kwallet",
+  "version": "1.1.0-7",
+  "depends": [
+    "pidgin",
+    "kwallet5"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200345504,
+  "transmit": 801813,
+  "disk": 144937
+}
