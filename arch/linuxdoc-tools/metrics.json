@@ -1,0 +1,15 @@
+{
+  "name": "linuxdoc-tools",
+  "version": "0.9.83-1",
+  "depends": [
+    "jade"
+  ],
+  "makedepends": [
+    "texlive-bin",
+    "texlive-latexrecommended",
+    "texlive-fontsrecommended"
+  ],
+  "receive": 199532462,
+  "transmit": 292968,
+  "disk": 3239689
+}
