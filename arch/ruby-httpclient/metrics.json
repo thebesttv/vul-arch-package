@@ -1,0 +1,14 @@
+{
+  "name": "ruby-httpclient",
+  "version": "2.8.3-9",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199566496,
+  "transmit": 328782,
+  "disk": 1696702
+}
