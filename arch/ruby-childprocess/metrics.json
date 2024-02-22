@@ -1,0 +1,14 @@
+{
+  "name": "ruby-childprocess",
+  "version": "4.1.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rspec",
+    "ruby-yard"
+  ],
+  "receive": 199548945,
+  "transmit": 333552,
+  "disk": 259975
+}
