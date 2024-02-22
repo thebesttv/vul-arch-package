@@ -1,0 +1,11 @@
+{
+  "name": "httptunnel",
+  "version": "3.3-8",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199603570,
+  "transmit": 379916,
+  "disk": 1331565
+}
