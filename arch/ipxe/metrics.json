@@ -1,0 +1,11 @@
+{
+  "name": "ipxe",
+  "version": "1.21.1-5",
+  "depends": [],
+  "makedepends": [
+    "cdrtools"
+  ],
+  "receive": 203768505,
+  "transmit": 417777,
+  "disk": 24031778
+}
