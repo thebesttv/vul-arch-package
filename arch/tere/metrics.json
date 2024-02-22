@@ -1,0 +1,13 @@
+{
+  "name": "tere",
+  "version": "1.5.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199596617,
+  "transmit": 371801,
+  "disk": 935226
+}
