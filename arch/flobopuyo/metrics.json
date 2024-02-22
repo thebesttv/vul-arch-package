@@ -1,0 +1,16 @@
+{
+  "name": "flobopuyo",
+  "version": "0.20-11",
+  "depends": [
+    "glu",
+    "sdl_image",
+    "sdl_mixer"
+  ],
+  "makedepends": [
+    "mesa",
+    "patch"
+  ],
+  "receive": 199815820,
+  "transmit": 517284,
+  "disk": 7670308
+}
