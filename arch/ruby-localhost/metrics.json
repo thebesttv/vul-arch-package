@@ -1,0 +1,16 @@
+{
+  "name": "ruby-localhost",
+  "version": "1.1.10-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-covered",
+    "ruby-sus",
+    "ruby-sus-fixtures-async"
+  ],
+  "receive": 199632418,
+  "transmit": 379487,
+  "disk": 4869292
+}
