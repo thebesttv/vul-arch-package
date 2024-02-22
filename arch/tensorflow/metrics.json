@@ -1,0 +1,40 @@
+{
+  "name": "tensorflow",
+  "version": "2.15.0-6",
+  "depends": [
+    "c-ares",
+    "pybind11",
+    "openssl",
+    "libpng",
+    "curl",
+    "giflib",
+    "icu",
+    "libjpeg-turbo",
+    "intel-oneapi-openmp",
+    "intel-oneapi-compiler-shared-runtime-libs"
+  ],
+  "makedepends": [
+    "bazel",
+    "python-numpy",
+    "cuda",
+    "nvidia-utils",
+    "nccl",
+    "git",
+    "cudnn",
+    "python-wheel",
+    "openmp",
+    "python-installer",
+    "python-setuptools",
+    "python-h5py",
+    "python-keras-applications",
+    "python-keras-preprocessing",
+    "cython",
+    "patchelf",
+    "python-requests",
+    "libxcrypt-compat",
+    "clang"
+  ],
+  "receive": 310271144,
+  "transmit": 1394204,
+  "disk": 520909834
+}
