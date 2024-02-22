@@ -1,0 +1,34 @@
+{
+  "name": "arrow",
+  "version": "15.0.0-3",
+  "depends": [
+    "apache-orc",
+    "brotli",
+    "bzip2",
+    "gflags",
+    "grpc",
+    "google-glog",
+    "libutf8proc",
+    "lz4",
+    "openssl",
+    "protobuf",
+    "re2",
+    "snappy",
+    "thrift",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "boost",
+    "clang",
+    "cmake",
+    "flatbuffers",
+    "git",
+    "gmock",
+    "rapidjson",
+    "xsimd"
+  ],
+  "receive": 489419172,
+  "transmit": 2481881,
+  "disk": 397524544
+}
