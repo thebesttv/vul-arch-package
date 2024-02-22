@@ -1,0 +1,31 @@
+{
+  "name": "easytag",
+  "version": "2.4.3-8",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glibc",
+    "id3lib",
+    "taglib",
+    "wavpack",
+    "zlib"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "atk",
+    "flac",
+    "glib2",
+    "gtk3",
+    "harfbuzz",
+    "intltool",
+    "itstool",
+    "libid3tag",
+    "pango",
+    "python",
+    "yelp-tools"
+  ],
+  "receive": 199572375,
+  "transmit": 345906,
+  "disk": 12101614
+}
