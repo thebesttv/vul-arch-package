@@ -1,0 +1,15 @@
+{
+  "name": "perl-html-tableextract",
+  "version": "2.15-7",
+  "depends": [
+    "perl-html-parser",
+    "perl-html-element-extended"
+  ],
+  "makedepends": [
+    "perl-html-parser",
+    "perl-html-element-extended"
+  ],
+  "receive": 199496037,
+  "transmit": 263934,
+  "disk": 302052
+}
