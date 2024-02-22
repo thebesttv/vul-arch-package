@@ -1,0 +1,19 @@
+{
+  "name": "xdm-archlinux",
+  "version": "0.7-2",
+  "depends": [
+    "xorg-xdm",
+    "bash",
+    "xorg-xmessage",
+    "xorg-xclock",
+    "xorg-xsetroot",
+    "xorg-xwininfo",
+    "xorg-xkill",
+    "ttf-bitstream-vera",
+    "terminus-font"
+  ],
+  "makedepends": [],
+  "receive": 199563588,
+  "transmit": 330730,
+  "disk": 207661
+}
