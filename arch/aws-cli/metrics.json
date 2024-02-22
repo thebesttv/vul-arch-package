@@ -1,0 +1,25 @@
+{
+  "name": "aws-cli",
+  "version": "1.32.34-1",
+  "depends": [
+    "python",
+    "python-botocore",
+    "python-dateutil",
+    "python-jmespath",
+    "python-colorama",
+    "python-docutils",
+    "python-pyasn1",
+    "python-rsa",
+    "python-s3transfer",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 200000372,
+  "transmit": 465377,
+  "disk": 18702884
+}
