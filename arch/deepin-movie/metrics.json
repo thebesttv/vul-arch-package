@@ -1,0 +1,34 @@
+{
+  "name": "deepin-movie",
+  "version": "1:5.10.34-1",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "qt5-svg",
+    "ffmpegthumbnailer",
+    "libxtst",
+    "libglvnd",
+    "dconf",
+    "gsettings-qt",
+    "libva",
+    "libxcb",
+    "libx11",
+    "qt5-x11extras",
+    "mpv",
+    "qt5-multimedia",
+    "qtdbusextended",
+    "qtmpris",
+    "deepin-daemon"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199647705,
+  "transmit": 267140,
+  "disk": 42332330
+}
