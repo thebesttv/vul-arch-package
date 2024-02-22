@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-exception",
+  "version": "0.43-9",
+  "depends": [
+    "perl-sub-uplevel"
+  ],
+  "makedepends": [],
+  "receive": 199547011,
+  "transmit": 247525,
+  "disk": 178442
+}
