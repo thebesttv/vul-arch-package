@@ -1,0 +1,18 @@
+{
+  "name": "edk2",
+  "version": "202311-1",
+  "depends": [],
+  "makedepends": [
+    "aarch64-linux-gnu-gcc",
+    "arm-none-eabi-gcc",
+    "acpica",
+    "git",
+    "util-linux-libs",
+    "nasm",
+    "python",
+    "seabios"
+  ],
+  "receive": 619080777,
+  "transmit": 652092,
+  "disk": 588788148
+}
