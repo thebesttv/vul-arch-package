@@ -1,0 +1,13 @@
+{
+  "name": "cmake-fedora",
+  "version": "2.9.3-7",
+  "depends": [
+    "cmake"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199686154,
+  "transmit": 418775,
+  "disk": 1884248
+}
