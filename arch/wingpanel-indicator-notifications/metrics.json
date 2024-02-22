@@ -1,0 +1,22 @@
+{
+  "name": "wingpanel-indicator-notifications",
+  "version": "7.1.0-1",
+  "depends": [
+    "dbus-glib",
+    "glib2",
+    "gtk3",
+    "libdbus",
+    "libgranite.so",
+    "libhandy-1.so",
+    "libwingpanel.so",
+    "libwnck3"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199696667,
+  "transmit": 453046,
+  "disk": 5211387
+}
