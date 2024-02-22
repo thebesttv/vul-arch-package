@@ -1,0 +1,14 @@
+{
+  "name": "sheldon",
+  "version": "0.7.4-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "rust",
+    "mdbook-linkcheck",
+    "curl"
+  ],
+  "receive": 199539004,
+  "transmit": 268901,
+  "disk": 3583407
+}
