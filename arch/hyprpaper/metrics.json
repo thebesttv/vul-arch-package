@@ -1,0 +1,30 @@
+{
+  "name": "hyprpaper",
+  "version": "0.6.0-3",
+  "depends": [
+    "cairo",
+    "libcairo.so",
+    "file",
+    "libmagic.so",
+    "gcc-libs",
+    "glibc",
+    "hyprlang",
+    "libhyprlang.so",
+    "libglvnd",
+    "libjpeg",
+    "libjpeg.so",
+    "libwebp",
+    "libwebp.so",
+    "pango",
+    "wayland",
+    "wlroots"
+  ],
+  "makedepends": [
+    "cmake",
+    "wayland-protocols",
+    "xorgproto"
+  ],
+  "receive": 199576050,
+  "transmit": 353588,
+  "disk": 272750
+}
