@@ -1,0 +1,15 @@
+{
+  "name": "haskell-indexed-traversable",
+  "version": "0.1.3-49",
+  "depends": [
+    "ghc-libs",
+    "haskell-foldable1-classes-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199676235,
+  "transmit": 360931,
+  "disk": 274189
+}
