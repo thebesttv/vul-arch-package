@@ -1,0 +1,21 @@
+{
+  "name": "python-pytest-container",
+  "version": "0.3.0-1",
+  "depends": [
+    "python",
+    "python-pytest",
+    "python-pytest-testinfra",
+    "python-filelock",
+    "python-deprecation"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core",
+    "git"
+  ],
+  "receive": 199566967,
+  "transmit": 333731,
+  "disk": 569727
+}
