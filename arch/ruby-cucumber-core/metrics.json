@@ -1,0 +1,17 @@
+{
+  "name": "ruby-cucumber-core",
+  "version": "11.1.0-1",
+  "depends": [
+    "ruby-cucumber-gherkin",
+    "ruby-cucumber-messages",
+    "ruby-cucumber-tag-expressions"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rspec",
+    "ruby-unindent"
+  ],
+  "receive": 199621349,
+  "transmit": 371521,
+  "disk": 763194
+}
