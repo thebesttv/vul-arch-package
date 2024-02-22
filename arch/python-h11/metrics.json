@@ -1,0 +1,13 @@
+{
+  "name": "python-h11",
+  "version": "0.14.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199542235,
+  "transmit": 327371,
+  "disk": 580880
+}
