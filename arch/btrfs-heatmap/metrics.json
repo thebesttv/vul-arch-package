@@ -1,0 +1,13 @@
+{
+  "name": "btrfs-heatmap",
+  "version": "9-2",
+  "depends": [
+    "python-btrfs"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199508621,
+  "transmit": 262303,
+  "disk": 1938571
+}
