@@ -1,0 +1,14 @@
+{
+  "name": "perl-module-build-xsutil",
+  "version": "0.19-7",
+  "depends": [
+    "perl-devel-checkcompiler",
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199626173,
+  "transmit": 379133,
+  "disk": 193215
+}
