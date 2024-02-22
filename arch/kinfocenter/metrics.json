@@ -1,0 +1,24 @@
+{
+  "name": "kinfocenter",
+  "version": "5.27.10-1",
+  "depends": [
+    "systemsettings",
+    "glu",
+    "vulkan-tools",
+    "wayland-utils",
+    "xorg-xdpyinfo",
+    "mesa-utils",
+    "aha",
+    "dmidecode",
+    "clinfo"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "fwupd",
+    "plasma-framework5",
+    "kdoctools5"
+  ],
+  "receive": 199824473,
+  "transmit": 398359,
+  "disk": 9501702
+}
