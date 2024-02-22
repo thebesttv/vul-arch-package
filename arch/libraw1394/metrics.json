@@ -1,0 +1,13 @@
+{
+  "name": "libraw1394",
+  "version": "2.1.2-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "pkgconfig"
+  ],
+  "receive": 199571208,
+  "transmit": 305730,
+  "disk": 2352834
+}
