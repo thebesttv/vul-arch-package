@@ -1,0 +1,11 @@
+{
+  "name": "libp11",
+  "version": "0.4.12-2",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199620703,
+  "transmit": 410258,
+  "disk": 2739106
+}
