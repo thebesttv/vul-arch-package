@@ -1,0 +1,12 @@
+{
+  "name": "pixiewps",
+  "version": "1.4.2-3",
+  "depends": [
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199719127,
+  "transmit": 463851,
+  "disk": 1258901
+}
