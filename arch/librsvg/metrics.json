@@ -1,0 +1,24 @@
+{
+  "name": "librsvg",
+  "version": "2:2.57.1-1",
+  "depends": [
+    "cairo",
+    "freetype2",
+    "gdk-pixbuf2",
+    "glib2",
+    "harfbuzz",
+    "libxml2",
+    "pango"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "python-docutils",
+    "rust",
+    "vala"
+  ],
+  "receive": 204708878,
+  "transmit": 430941,
+  "disk": 57194870
+}
