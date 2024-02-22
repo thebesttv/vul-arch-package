@@ -1,0 +1,12 @@
+{
+  "name": "ruby-rubydns",
+  "version": "2.0.2-5",
+  "depends": [
+    "ruby",
+    "ruby-async-dns"
+  ],
+  "makedepends": [],
+  "receive": 199504216,
+  "transmit": 255922,
+  "disk": 203657
+}
