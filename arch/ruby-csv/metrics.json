@@ -1,0 +1,11 @@
+{
+  "name": "ruby-csv",
+  "version": "3.2.5-4",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199540373,
+  "transmit": 322180,
+  "disk": 714608
+}
