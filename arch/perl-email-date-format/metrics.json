@@ -1,0 +1,11 @@
+{
+  "name": "perl-email-date-format",
+  "version": "1.008-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199561772,
+  "transmit": 286907,
+  "disk": 213785
+}
