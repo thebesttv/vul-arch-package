@@ -1,0 +1,15 @@
+{
+  "name": "python-latex2mathml",
+  "version": "3.77.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199685135,
+  "transmit": 290457,
+  "disk": 866463
+}
