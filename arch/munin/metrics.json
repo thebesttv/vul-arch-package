@@ -1,0 +1,23 @@
+{
+  "name": "munin",
+  "version": "2.0.75-1",
+  "depends": [],
+  "makedepends": [
+    "perl",
+    "rrdtool",
+    "perl-log-log4perl",
+    "perl-html-template",
+    "perl-date-manip",
+    "perl-io-socket-inet6",
+    "perl-net-snmp",
+    "perl-net-ssleay",
+    "perl-net-server",
+    "perl-file-copy-recursive",
+    "perl-fcgi",
+    "perl-uri",
+    "perl-module-build"
+  ],
+  "receive": 201948859,
+  "transmit": 391901,
+  "disk": 7603395
+}
