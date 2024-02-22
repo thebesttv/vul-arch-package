@@ -1,0 +1,14 @@
+{
+  "name": "bless",
+  "version": "0.6.3-1",
+  "depends": [
+    "gtk-sharp-2"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja"
+  ],
+  "receive": 199921128,
+  "transmit": 421719,
+  "disk": 2127641
+}
