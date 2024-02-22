@@ -1,0 +1,11 @@
+{
+  "name": "encpipe",
+  "version": "0.5-2",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199471097,
+  "transmit": 219912,
+  "disk": 330298
+}
