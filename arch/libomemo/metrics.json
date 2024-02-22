@@ -1,0 +1,17 @@
+{
+  "name": "libomemo",
+  "version": "0.8.1-1",
+  "depends": [
+    "sqlite",
+    "libgcrypt",
+    "mxml",
+    "glib2"
+  ],
+  "makedepends": [
+    "cmake",
+    "cmocka"
+  ],
+  "receive": 199499408,
+  "transmit": 288541,
+  "disk": 310711
+}
