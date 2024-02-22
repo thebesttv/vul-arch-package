@@ -1,0 +1,11 @@
+{
+  "name": "lm32-elf-newlib",
+  "version": "4.1.0-1",
+  "depends": [],
+  "makedepends": [
+    "lm32-elf-gcc"
+  ],
+  "receive": 218618533,
+  "transmit": 519709,
+  "disk": 105575472
+}
