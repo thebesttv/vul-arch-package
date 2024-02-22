@@ -1,0 +1,12 @@
+{
+  "name": "perl-berkeleydb",
+  "version": "0.65-5",
+  "depends": [
+    "perl",
+    "db5.3"
+  ],
+  "makedepends": [],
+  "receive": 199793665,
+  "transmit": 387341,
+  "disk": 1724195
+}
