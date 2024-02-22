@@ -1,0 +1,18 @@
+{
+  "name": "mcabber",
+  "version": "1.1.2-2",
+  "depends": [
+    "ncurses",
+    "glib2",
+    "loudmouth",
+    "gpgme",
+    "libotr",
+    "aspell"
+  ],
+  "makedepends": [
+    "pkg-config"
+  ],
+  "receive": 200243031,
+  "transmit": 277623,
+  "disk": 3964365
+}
