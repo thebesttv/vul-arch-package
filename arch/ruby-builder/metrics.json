@@ -1,0 +1,14 @@
+{
+  "name": "ruby-builder",
+  "version": "3.2.4-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake"
+  ],
+  "receive": 199543560,
+  "transmit": 281777,
+  "disk": 257606
+}
