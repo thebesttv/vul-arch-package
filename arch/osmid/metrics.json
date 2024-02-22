@@ -1,0 +1,16 @@
+{
+  "name": "osmid",
+  "version": "0.8.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "libx11"
+  ],
+  "receive": 199630446,
+  "transmit": 378407,
+  "disk": 7353516
+}
