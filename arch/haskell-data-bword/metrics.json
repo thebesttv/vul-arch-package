@@ -1,0 +1,13 @@
+{
+  "name": "haskell-data-bword",
+  "version": "0.1.0.2-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199494625,
+  "transmit": 269148,
+  "disk": 146663
+}
