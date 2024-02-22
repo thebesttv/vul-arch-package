@@ -1,0 +1,12 @@
+{
+  "name": "horst",
+  "version": "5.1-2",
+  "depends": [
+    "ncurses",
+    "libnl"
+  ],
+  "makedepends": [],
+  "receive": 199622255,
+  "transmit": 368170,
+  "disk": 723714
+}
