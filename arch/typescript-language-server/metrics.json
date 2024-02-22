@@ -1,0 +1,15 @@
+{
+  "name": "typescript-language-server",
+  "version": "4.3.3-1",
+  "depends": [
+    "typescript"
+  ],
+  "makedepends": [
+    "git",
+    "jq",
+    "yarn"
+  ],
+  "receive": 199572805,
+  "transmit": 255445,
+  "disk": 4900044
+}
