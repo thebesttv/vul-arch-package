@@ -1,0 +1,22 @@
+{
+  "name": "mupen64plus",
+  "version": "2.5-26",
+  "depends": [
+    "boost-libs",
+    "freetype2",
+    "glu",
+    "libgl",
+    "libpng",
+    "libsamplerate",
+    "sdl2",
+    "zlib",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "boost",
+    "mesa"
+  ],
+  "receive": 203038764,
+  "transmit": 1006686,
+  "disk": 15376029
+}
