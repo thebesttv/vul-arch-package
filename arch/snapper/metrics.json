@@ -1,0 +1,24 @@
+{
+  "name": "snapper",
+  "version": "0.10.7-1",
+  "depends": [
+    "btrfs-progs",
+    "libxml2",
+    "dbus",
+    "boost-libs",
+    "acl",
+    "json-c"
+  ],
+  "makedepends": [
+    "boost",
+    "lvm2",
+    "libxslt",
+    "docbook-xsl",
+    "pam",
+    "git",
+    "systemd"
+  ],
+  "receive": 199660498,
+  "transmit": 395755,
+  "disk": 3497302
+}
