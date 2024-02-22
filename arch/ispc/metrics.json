@@ -1,0 +1,26 @@
+{
+  "name": "ispc",
+  "version": "1.22.0-1",
+  "depends": [
+    "clang",
+    "gcc-libs",
+    "glibc",
+    "llvm-libs",
+    "spirv-llvm-translator",
+    "onetbb"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "level-zero-headers",
+    "level-zero-loader",
+    "lib32-glibc",
+    "llvm",
+    "openmp",
+    "python",
+    "vc-intrinsics"
+  ],
+  "receive": 289181957,
+  "transmit": 662926,
+  "disk": 186574005
+}
