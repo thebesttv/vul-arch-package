@@ -1,0 +1,11 @@
+{
+  "name": "lmdbxx",
+  "version": "1.0.0-2",
+  "depends": [
+    "lmdb"
+  ],
+  "makedepends": [],
+  "receive": 199538491,
+  "transmit": 299403,
+  "disk": 388341
+}
