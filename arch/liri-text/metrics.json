@@ -1,0 +1,14 @@
+{
+  "name": "liri-text",
+  "version": "0.5.0-1",
+  "depends": [
+    "fluid"
+  ],
+  "makedepends": [
+    "liri-cmake-shared",
+    "qt5-tools"
+  ],
+  "receive": 199514882,
+  "transmit": 264444,
+  "disk": 3780466
+}
