@@ -1,0 +1,18 @@
+{
+  "name": "yad",
+  "version": "13.0-2",
+  "depends": [
+    "gtk3",
+    "webkit2gtk-4.1",
+    "gtksourceview3",
+    "gspell"
+  ],
+  "makedepends": [
+    "autoconf",
+    "automake",
+    "intltool"
+  ],
+  "receive": 199573360,
+  "transmit": 321084,
+  "disk": 2266856
+}
