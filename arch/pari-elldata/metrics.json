@@ -1,0 +1,11 @@
+{
+  "name": "pari-elldata",
+  "version": "20210301-1",
+  "depends": [
+    "pari"
+  ],
+  "makedepends": [],
+  "receive": 220280252,
+  "transmit": 421852,
+  "disk": 218838985
+}
