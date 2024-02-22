@@ -1,0 +1,22 @@
+{
+  "name": "python-dbus-fast",
+  "version": "2.21.1-1",
+  "depends": [
+    "dbus",
+    "glib2",
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "git",
+    "python-async-timeout",
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199697782,
+  "transmit": 397201,
+  "disk": 3052074
+}
