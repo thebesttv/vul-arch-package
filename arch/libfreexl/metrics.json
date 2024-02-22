@@ -1,0 +1,12 @@
+{
+  "name": "libfreexl",
+  "version": "2.0.0-1",
+  "depends": [
+    "glibc",
+    "minizip"
+  ],
+  "makedepends": [],
+  "receive": 199549566,
+  "transmit": 235922,
+  "disk": 4992139
+}
