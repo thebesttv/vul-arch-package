@@ -1,0 +1,20 @@
+{
+  "name": "navidrome",
+  "version": "0.51.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "zlib",
+    "ffmpeg",
+    "taglib"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "npm",
+    "nodejs"
+  ],
+  "receive": 260628454,
+  "transmit": 492975,
+  "disk": 73254086
+}
