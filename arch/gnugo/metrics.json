@@ -1,0 +1,11 @@
+{
+  "name": "gnugo",
+  "version": "3.8-7",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199655531,
+  "transmit": 417686,
+  "disk": 14601518
+}
