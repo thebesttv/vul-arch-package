@@ -1,0 +1,11 @@
+{
+  "name": "libcuckoo",
+  "version": "0.3.1-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199597311,
+  "transmit": 379306,
+  "disk": 1107253
+}
