@@ -1,0 +1,11 @@
+{
+  "name": "plantri",
+  "version": "5.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199615825,
+  "transmit": 366252,
+  "disk": 1405615
+}
