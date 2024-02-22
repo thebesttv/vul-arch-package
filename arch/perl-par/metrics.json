@@ -1,0 +1,12 @@
+{
+  "name": "perl-par",
+  "version": "1.019-1",
+  "depends": [
+    "perl-archive-zip",
+    "perl-par-dist"
+  ],
+  "makedepends": [],
+  "receive": 199619917,
+  "transmit": 374611,
+  "disk": 372501
+}
