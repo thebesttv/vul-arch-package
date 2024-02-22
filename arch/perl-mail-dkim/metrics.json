@@ -1,0 +1,15 @@
+{
+  "name": "perl-mail-dkim",
+  "version": "1.20230911-1",
+  "depends": [
+    "perl-crypt-openssl-rsa",
+    "perl-cryptx",
+    "perl-mail-authenticationresults",
+    "perl-mailtools",
+    "perl-net-dns"
+  ],
+  "makedepends": [],
+  "receive": 199678403,
+  "transmit": 434956,
+  "disk": 1339074
+}
