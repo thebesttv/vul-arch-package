@@ -1,0 +1,11 @@
+{
+  "name": "perl-return-multilevel",
+  "version": "0.08-4",
+  "depends": [
+    "perl-data-munge"
+  ],
+  "makedepends": [],
+  "receive": 199573815,
+  "transmit": 317527,
+  "disk": 194241
+}
