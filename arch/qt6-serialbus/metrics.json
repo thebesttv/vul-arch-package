@@ -1,0 +1,17 @@
+{
+  "name": "qt6-serialbus",
+  "version": "6.6.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-serialport"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199656927,
+  "transmit": 390292,
+  "disk": 675967
+}
