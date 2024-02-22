@@ -1,0 +1,21 @@
+{
+  "name": "python-fiona",
+  "version": "1.9.5-2",
+  "depends": [
+    "gdal",
+    "python-attrs",
+    "python-certifi",
+    "python-click",
+    "python-click-plugins",
+    "python-cligj",
+    "python-munch",
+    "python-six"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools"
+  ],
+  "receive": 199720772,
+  "transmit": 454091,
+  "disk": 2023883
+}
