@@ -1,0 +1,13 @@
+{
+  "name": "haskell-dlist",
+  "version": "1.0-235",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199772303,
+  "transmit": 317787,
+  "disk": 435129
+}
