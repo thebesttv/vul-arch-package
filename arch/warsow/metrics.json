@@ -1,0 +1,24 @@
+{
+  "name": "warsow",
+  "version": "2.1.2-2",
+  "depends": [
+    "sdl2",
+    "libjpeg",
+    "libpng",
+    "curl",
+    "libvorbis",
+    "freetype2",
+    "libxinerama",
+    "libxxf86vm",
+    "libxrandr",
+    "libtheora",
+    "libxi"
+  ],
+  "makedepends": [
+    "imagemagick",
+    "gendesk"
+  ],
+  "receive": 660583667,
+  "transmit": 6543351,
+  "disk": 956087063
+}
