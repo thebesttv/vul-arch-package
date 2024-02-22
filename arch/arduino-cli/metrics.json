@@ -1,0 +1,14 @@
+{
+  "name": "arduino-cli",
+  "version": "0.35.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 270633073,
+  "transmit": 571567,
+  "disk": 137462599
+}
