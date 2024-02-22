@@ -1,0 +1,16 @@
+{
+  "name": "pylama",
+  "version": "7.7.1-9",
+  "depends": [
+    "python-pycodestyle",
+    "python-pydocstyle",
+    "python-pyflakes",
+    "python-mccabe"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199547058,
+  "transmit": 291723,
+  "disk": 260724
+}
