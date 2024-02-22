@@ -1,0 +1,14 @@
+{
+  "name": "python-keras-preprocessing",
+  "version": "1.1.2-7",
+  "depends": [
+    "python",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199529930,
+  "transmit": 291214,
+  "disk": 940796
+}
