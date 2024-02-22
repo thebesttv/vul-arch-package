@@ -1,0 +1,19 @@
+{
+  "name": "ot-urchin",
+  "version": "1.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "rust",
+    "libglvnd",
+    "python",
+    "alsa-lib",
+    "jack",
+    "libx11",
+    "libxcb",
+    "libxcursor",
+    "xcb-util-wm"
+  ],
+  "receive": 201928684,
+  "transmit": 391269,
+  "disk": 9219167
+}
