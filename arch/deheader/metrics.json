@@ -1,0 +1,11 @@
+{
+  "name": "deheader",
+  "version": "1.10-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199515585,
+  "transmit": 276689,
+  "disk": 248111
+}
