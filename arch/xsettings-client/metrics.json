@@ -1,0 +1,11 @@
+{
+  "name": "xsettings-client",
+  "version": "0.10-9",
+  "depends": [
+    "libx11"
+  ],
+  "makedepends": [],
+  "receive": 199635627,
+  "transmit": 363880,
+  "disk": 1015722
+}
