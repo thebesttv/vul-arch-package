@@ -1,0 +1,15 @@
+{
+  "name": "python-requests-kerberos",
+  "version": "0.14.0-4",
+  "depends": [
+    "python-requests",
+    "python-pyspnego",
+    "python-cryptography"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199520257,
+  "transmit": 242164,
+  "disk": 223044
+}
