@@ -1,0 +1,17 @@
+{
+  "name": "lib32-util-linux",
+  "version": "2.39.3-1",
+  "depends": [
+    "lib32-glibc",
+    "util-linux-libs"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "lib32-libxcrypt",
+    "lib32-ncurses"
+  ],
+  "receive": 411365353,
+  "transmit": 530950,
+  "disk": 270289876
+}
