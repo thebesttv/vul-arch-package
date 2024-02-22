@@ -1,0 +1,26 @@
+{
+  "name": "openra",
+  "version": "20231010-2",
+  "depends": [
+    "ttf-dejavu",
+    "openal",
+    "libgl",
+    "freetype2",
+    "sdl2",
+    "lua51",
+    "hicolor-icon-theme",
+    "gtk-update-icon-cache",
+    "desktop-file-utils",
+    "xdg-utils",
+    "zenity",
+    "dotnet-runtime-6.0"
+  ],
+  "makedepends": [
+    "git",
+    "unzip",
+    "dotnet-sdk-6.0"
+  ],
+  "receive": 637726886,
+  "transmit": 885369,
+  "disk": 492228741
+}
