@@ -1,0 +1,13 @@
+{
+  "name": "haskell-primes",
+  "version": "0.2.1.0-23",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199680112,
+  "transmit": 410075,
+  "disk": 129126
+}
