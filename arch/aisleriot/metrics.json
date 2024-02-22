@@ -1,0 +1,20 @@
+{
+  "name": "aisleriot",
+  "version": "3.22.30-1",
+  "depends": [
+    "dconf",
+    "gtk3",
+    "guile",
+    "libcanberra",
+    "librsvg"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 258948811,
+  "transmit": 538470,
+  "disk": 90038953
+}
