@@ -1,0 +1,11 @@
+{
+  "name": "libpam-google-authenticator",
+  "version": "1.09-1",
+  "depends": [
+    "pam"
+  ],
+  "makedepends": [],
+  "receive": 199529830,
+  "transmit": 258229,
+  "disk": 407446
+}
