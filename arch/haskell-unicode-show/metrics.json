@@ -1,0 +1,16 @@
+{
+  "name": "haskell-unicode-show",
+  "version": "0.1.1.1-62",
+  "depends": [
+    "ghc-libs",
+    "haskell-safe"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-quickcheck"
+  ],
+  "receive": 199597327,
+  "transmit": 334945,
+  "disk": 296190
+}
