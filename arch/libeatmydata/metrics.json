@@ -1,0 +1,11 @@
+{
+  "name": "libeatmydata",
+  "version": "131-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199507142,
+  "transmit": 213998,
+  "disk": 357277
+}
