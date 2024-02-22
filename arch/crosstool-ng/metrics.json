@@ -1,0 +1,19 @@
+{
+  "name": "crosstool-ng",
+  "version": "1.26.0-1",
+  "depends": [
+    "git",
+    "gperf",
+    "help2man",
+    "lzip",
+    "meson",
+    "ncurses",
+    "python",
+    "rsync",
+    "unzip"
+  ],
+  "makedepends": [],
+  "receive": 199705666,
+  "transmit": 410200,
+  "disk": 31372929
+}
