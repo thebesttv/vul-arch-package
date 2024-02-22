@@ -1,0 +1,13 @@
+{
+  "name": "xxkb",
+  "version": "1.11.1-3",
+  "depends": [
+    "libxpm"
+  ],
+  "makedepends": [
+    "imake"
+  ],
+  "receive": 199665889,
+  "transmit": 424197,
+  "disk": 276942
+}
