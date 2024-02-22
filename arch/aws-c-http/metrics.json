@@ -1,0 +1,15 @@
+{
+  "name": "aws-c-http",
+  "version": "0.7.11-1",
+  "depends": [
+    "aws-c-common",
+    "aws-c-compression",
+    "aws-c-io"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199652296,
+  "transmit": 374855,
+  "disk": 3652112
+}
