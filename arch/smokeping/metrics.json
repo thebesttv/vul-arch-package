@@ -1,0 +1,22 @@
+{
+  "name": "smokeping",
+  "version": "2.8.2-2",
+  "depends": [
+    "perl-config-grammar",
+    "perl-digest-hmac",
+    "perl-libwww",
+    "rrdtool",
+    "perl-fcgi",
+    "perl-cgi-fast",
+    "perl-io-tty",
+    "perl-net-dns",
+    "perl-net-snmp",
+    "perl-net-telnet",
+    "perl-ldap",
+    "perl-net-openssh"
+  ],
+  "makedepends": [],
+  "receive": 200023686,
+  "transmit": 617574,
+  "disk": 2831272
+}
