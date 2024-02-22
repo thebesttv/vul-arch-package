@@ -1,0 +1,15 @@
+{
+  "name": "gauche",
+  "version": "0.9.14-1",
+  "depends": [
+    "libatomic_ops",
+    "libxcrypt",
+    "slib"
+  ],
+  "makedepends": [
+    "gauche"
+  ],
+  "receive": 199584370,
+  "transmit": 321501,
+  "disk": 65138934
+}
