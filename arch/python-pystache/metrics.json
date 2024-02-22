@@ -1,0 +1,16 @@
+{
+  "name": "python-pystache",
+  "version": "0.6.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199628199,
+  "transmit": 370402,
+  "disk": 943547
+}
