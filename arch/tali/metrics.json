@@ -1,0 +1,19 @@
+{
+  "name": "tali",
+  "version": "40.9-1",
+  "depends": [
+    "gtk3",
+    "librsvg",
+    "libgnome-games-support"
+  ],
+  "makedepends": [
+    "meson",
+    "gobject-introspection",
+    "yelp-tools",
+    "appstream-glib",
+    "git"
+  ],
+  "receive": 199694386,
+  "transmit": 409174,
+  "disk": 15591991
+}
