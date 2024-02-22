@@ -1,0 +1,11 @@
+{
+  "name": "premake",
+  "version": "5.0beta2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 208466307,
+  "transmit": 292487,
+  "disk": 45258947
+}
