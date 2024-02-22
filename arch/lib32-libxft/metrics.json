@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libxft",
+  "version": "2.3.8-1",
+  "depends": [
+    "lib32-fontconfig",
+    "lib32-libxrender"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 199579670,
+  "transmit": 267372,
+  "disk": 2487860
+}
