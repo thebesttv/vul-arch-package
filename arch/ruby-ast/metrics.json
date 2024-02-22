@@ -1,0 +1,11 @@
+{
+  "name": "ruby-ast",
+  "version": "2.4.2-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199657363,
+  "transmit": 404287,
+  "disk": 158701
+}
