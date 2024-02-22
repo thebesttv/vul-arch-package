@@ -1,0 +1,13 @@
+{
+  "name": "perl-math-random-isaac",
+  "version": "1.004-10",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-test-nowarnings"
+  ],
+  "receive": 199657523,
+  "transmit": 438328,
+  "disk": 251397
+}
