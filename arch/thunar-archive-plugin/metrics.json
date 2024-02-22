@@ -1,0 +1,15 @@
+{
+  "name": "thunar-archive-plugin",
+  "version": "0.5.2-1",
+  "depends": [
+    "thunar",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "intltool",
+    "xfce4-dev-tools"
+  ],
+  "receive": 199610323,
+  "transmit": 359109,
+  "disk": 2503266
+}
