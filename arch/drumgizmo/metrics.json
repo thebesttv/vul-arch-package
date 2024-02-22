@@ -1,0 +1,21 @@
+{
+  "name": "drumgizmo",
+  "version": "0.9.20-2",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "gcc-libs",
+    "glibc",
+    "jack",
+    "libsmf",
+    "libsndfile",
+    "libxext",
+    "libx11",
+    "libxml2",
+    "lv2",
+    "zita-resampler"
+  ],
+  "receive": 200896241,
+  "transmit": 520354,
+  "disk": 6291523
+}
