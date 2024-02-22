@@ -1,0 +1,17 @@
+{
+  "name": "josm",
+  "version": "18822-2",
+  "depends": [
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "java-runtime>=11",
+    "libxtst",
+    "ttf-font"
+  ],
+  "makedepends": [
+    "subversion"
+  ],
+  "receive": 301289512,
+  "transmit": 2946175,
+  "disk": 505211353
+}
