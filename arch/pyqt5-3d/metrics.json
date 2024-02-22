@@ -1,0 +1,15 @@
+{
+  "name": "pyqt5-3d",
+  "version": "5.15.6-2",
+  "depends": [
+    "qt5-3d",
+    "python-pyqt5"
+  ],
+  "makedepends": [
+    "sip",
+    "pyqt-builder"
+  ],
+  "receive": 199780894,
+  "transmit": 541042,
+  "disk": 19233388
+}
