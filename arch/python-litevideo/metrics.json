@@ -1,0 +1,14 @@
+{
+  "name": "python-litevideo",
+  "version": "2021.08-2",
+  "depends": [
+    "python-migen",
+    "python-litex"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199548491,
+  "transmit": 320224,
+  "disk": 1738494
+}
