@@ -1,0 +1,11 @@
+{
+  "name": "libwapcaplet",
+  "version": "0.4.3-3",
+  "depends": [],
+  "makedepends": [
+    "netsurf-buildsystem"
+  ],
+  "receive": 199620937,
+  "transmit": 355866,
+  "disk": 273413
+}
