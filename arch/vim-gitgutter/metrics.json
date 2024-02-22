@@ -1,0 +1,12 @@
+{
+  "name": "vim-gitgutter",
+  "version": "768.256702d-2",
+  "depends": [
+    "vim-plugin-runtime",
+    "git"
+  ],
+  "makedepends": [],
+  "receive": 199551468,
+  "transmit": 280081,
+  "disk": 2938077
+}
