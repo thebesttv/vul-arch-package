@@ -1,0 +1,11 @@
+{
+  "name": "ragel",
+  "version": "6.10-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199640928,
+  "transmit": 401040,
+  "disk": 5337482
+}
