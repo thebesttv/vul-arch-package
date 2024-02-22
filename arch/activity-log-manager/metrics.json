@@ -1,0 +1,16 @@
+{
+  "name": "activity-log-manager",
+  "version": "0.9.7-9",
+  "depends": [
+    "gtk3",
+    "libgee",
+    "zeitgeist"
+  ],
+  "makedepends": [
+    "vala",
+    "intltool"
+  ],
+  "receive": 199610240,
+  "transmit": 346369,
+  "disk": 2848514
+}
