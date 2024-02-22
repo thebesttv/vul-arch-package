@@ -1,0 +1,15 @@
+{
+  "name": "haskell-text-ansi",
+  "version": "0.2.1.1-44",
+  "depends": [
+    "ghc-libs",
+    "haskell-text-builder"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199554295,
+  "transmit": 279848,
+  "disk": 244280
+}
