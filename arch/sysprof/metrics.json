@@ -1,0 +1,26 @@
+{
+  "name": "sysprof",
+  "version": "45.2-1",
+  "depends": [
+    "cairo",
+    "glib2",
+    "graphene",
+    "gtk4",
+    "hicolor-icon-theme",
+    "json-glib",
+    "libadwaita",
+    "libdex",
+    "libpanel",
+    "libunwind",
+    "pango",
+    "polkit"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199678718,
+  "transmit": 407415,
+  "disk": 15918336
+}
