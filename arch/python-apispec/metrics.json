@@ -1,0 +1,16 @@
+{
+  "name": "python-apispec",
+  "version": "6.0.2-3",
+  "depends": [
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199561525,
+  "transmit": 287333,
+  "disk": 587686
+}
