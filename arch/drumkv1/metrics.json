@@ -1,0 +1,19 @@
+{
+  "name": "drumkv1",
+  "version": "0.9.34-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "jack",
+    "liblo",
+    "libsndfile",
+    "lv2",
+    "qt6-base",
+    "qt6-svg",
+    "qt6-tools"
+  ],
+  "receive": 199724429,
+  "transmit": 425375,
+  "disk": 1703947
+}
