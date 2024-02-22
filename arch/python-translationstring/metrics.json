@@ -1,0 +1,13 @@
+{
+  "name": "python-translationstring",
+  "version": "1.4-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199520700,
+  "transmit": 251854,
+  "disk": 242907
+}
