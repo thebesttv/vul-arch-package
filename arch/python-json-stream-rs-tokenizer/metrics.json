@@ -1,0 +1,18 @@
+{
+  "name": "python-json-stream-rs-tokenizer",
+  "version": "0.4.25-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-rust",
+    "python-wheel"
+  ],
+  "receive": 199587648,
+  "transmit": 365611,
+  "disk": 257179
+}
