@@ -1,0 +1,11 @@
+{
+  "name": "lxde-icon-theme",
+  "version": "0.5.1-5",
+  "depends": [
+    "gtk-update-icon-cache"
+  ],
+  "makedepends": [],
+  "receive": 199710935,
+  "transmit": 469310,
+  "disk": 10888222
+}
