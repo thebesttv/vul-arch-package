@@ -1,0 +1,14 @@
+{
+  "name": "go-bindata-hashicorp",
+  "version": "3.0.7+bf7910af-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199720740,
+  "transmit": 474984,
+  "disk": 1573904
+}
