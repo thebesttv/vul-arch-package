@@ -1,0 +1,14 @@
+{
+  "name": "cl-asdf-flv",
+  "version": "2.1-2",
+  "depends": [
+    "common-lisp",
+    "cl-asdf"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199917572,
+  "transmit": 578198,
+  "disk": 284697
+}
