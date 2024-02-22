@@ -1,0 +1,11 @@
+{
+  "name": "ruby-build-files",
+  "version": "1.9.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 200199604,
+  "transmit": 691648,
+  "disk": 207177
+}
