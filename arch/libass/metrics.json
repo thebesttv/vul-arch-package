@@ -1,0 +1,19 @@
+{
+  "name": "libass",
+  "version": "0.17.1-2",
+  "depends": [
+    "fontconfig",
+    "fribidi",
+    "glibc",
+    "harfbuzz",
+    "libfreetype.so",
+    "libunibreak"
+  ],
+  "makedepends": [
+    "git",
+    "nasm"
+  ],
+  "receive": 199574246,
+  "transmit": 330870,
+  "disk": 6124194
+}
