@@ -1,0 +1,16 @@
+{
+  "name": "qgit",
+  "version": "2.10-2",
+  "depends": [
+    "git",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199752454,
+  "transmit": 476154,
+  "disk": 3078802
+}
