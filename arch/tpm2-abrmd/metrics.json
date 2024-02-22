@@ -1,0 +1,16 @@
+{
+  "name": "tpm2-abrmd",
+  "version": "3.0.0-1",
+  "depends": [
+    "glib2",
+    "tpm2-tss",
+    "libtss2-mu.so",
+    "libtss2-rc.so",
+    "libtss2-sys.so",
+    "libtss2-tctildr.so"
+  ],
+  "makedepends": [],
+  "receive": 199699196,
+  "transmit": 443251,
+  "disk": 3476349
+}
