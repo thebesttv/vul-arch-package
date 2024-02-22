@@ -1,0 +1,12 @@
+{
+  "name": "perl-xml-libxslt",
+  "version": "2.002001-2",
+  "depends": [
+    "perl-xml-libxml",
+    "libxslt"
+  ],
+  "makedepends": [],
+  "receive": 199597184,
+  "transmit": 341092,
+  "disk": 724334
+}
