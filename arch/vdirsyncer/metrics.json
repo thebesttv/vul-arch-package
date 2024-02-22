@@ -1,0 +1,24 @@
+{
+  "name": "vdirsyncer",
+  "version": "0.19.2-1",
+  "depends": [
+    "python-aiohttp",
+    "python-aiostream",
+    "python-atomicwrites",
+    "python-click",
+    "python-click-log",
+    "python-requests",
+    "python-requests-toolbelt"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 199498580,
+  "transmit": 242020,
+  "disk": 5249039
+}
