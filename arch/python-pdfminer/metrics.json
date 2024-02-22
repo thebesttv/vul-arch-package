@@ -1,0 +1,15 @@
+{
+  "name": "python-pdfminer",
+  "version": "20221105-2",
+  "depends": [
+    "python-charset-normalizer",
+    "python-cryptography"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 211012985,
+  "transmit": 612410,
+  "disk": 30233046
+}
