@@ -1,0 +1,15 @@
+{
+  "name": "rustup",
+  "version": "1.26.0-5",
+  "depends": [
+    "curl",
+    "xz",
+    "zstd"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199684455,
+  "transmit": 441414,
+  "disk": 3601656
+}
