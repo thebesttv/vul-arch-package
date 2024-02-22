@@ -1,0 +1,13 @@
+{
+  "name": "python-xlib",
+  "version": "0.33-2",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools-scm"
+  ],
+  "receive": 199554981,
+  "transmit": 248596,
+  "disk": 1804697
+}
