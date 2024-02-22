@@ -1,0 +1,13 @@
+{
+  "name": "python-betamax-serializers",
+  "version": "0.2.1-8",
+  "depends": [
+    "python-betamax"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199505850,
+  "transmit": 247828,
+  "disk": 107176
+}
