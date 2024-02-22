@@ -1,0 +1,31 @@
+{
+  "name": "tracker3-miners",
+  "version": "3.6.2-2",
+  "depends": [
+    "exempi",
+    "giflib",
+    "gst-plugins-base-libs",
+    "libcue",
+    "libexif",
+    "libgexiv2",
+    "libgrss",
+    "libgsf",
+    "libgxps",
+    "libiptcdata",
+    "libnm",
+    "libosinfo",
+    "libseccomp",
+    "poppler-glib",
+    "totem-plparser",
+    "tracker3",
+    "upower"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "git",
+    "meson"
+  ],
+  "receive": 209030698,
+  "transmit": 298781,
+  "disk": 72283211
+}
