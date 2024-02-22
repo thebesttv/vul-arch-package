@@ -1,0 +1,28 @@
+{
+  "name": "netdata",
+  "version": "1.44.3-1",
+  "depends": [
+    "libmnl",
+    "libnetfilter_acct",
+    "zlib",
+    "judy",
+    "libuv",
+    "json-c",
+    "libcap",
+    "lz4",
+    "openssl",
+    "which",
+    "snappy",
+    "protobuf",
+    "libwebsockets",
+    "mongo-c-driver",
+    "libyaml"
+  ],
+  "makedepends": [
+    "cups",
+    "go"
+  ],
+  "receive": 248926302,
+  "transmit": 333690,
+  "disk": 222713155
+}
