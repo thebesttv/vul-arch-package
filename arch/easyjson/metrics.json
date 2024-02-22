@@ -1,0 +1,14 @@
+{
+  "name": "easyjson",
+  "version": "0.7.7-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199650154,
+  "transmit": 421239,
+  "disk": 768184
+}
