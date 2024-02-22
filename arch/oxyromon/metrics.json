@@ -1,0 +1,22 @@
+{
+  "name": "oxyromon",
+  "version": "0.17.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "ctrtool",
+    "dolphin-emu-tool",
+    "git",
+    "mame-tools",
+    "maxcso",
+    "p7zip",
+    "rust",
+    "yarn"
+  ],
+  "receive": 199564387,
+  "transmit": 305429,
+  "disk": 102605351
+}
