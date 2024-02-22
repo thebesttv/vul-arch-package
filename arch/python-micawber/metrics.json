@@ -1,0 +1,16 @@
+{
+  "name": "python-micawber",
+  "version": "0.5.5-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199553034,
+  "transmit": 238004,
+  "disk": 230981
+}
