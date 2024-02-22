@@ -1,0 +1,11 @@
+{
+  "name": "popt",
+  "version": "1.19-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199748241,
+  "transmit": 460781,
+  "disk": 3018211
+}
