@@ -1,0 +1,15 @@
+{
+  "name": "speex",
+  "version": "1.2.1-1",
+  "depends": [
+    "gcc-libs",
+    "libogg",
+    "speexdsp"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199746372,
+  "transmit": 493937,
+  "disk": 9601261
+}
