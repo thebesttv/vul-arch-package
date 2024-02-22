@@ -1,0 +1,14 @@
+{
+  "name": "cliphist",
+  "version": "1:0.5.0-1",
+  "depends": [
+    "glibc",
+    "wl-clipboard"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199619105,
+  "transmit": 361828,
+  "disk": 198260
+}
