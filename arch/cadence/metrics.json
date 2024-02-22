@@ -1,0 +1,29 @@
+{
+  "name": "cadence",
+  "version": "0.9.2-3",
+  "depends": [
+    "alsa-utils",
+    "bash",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "jack2-dbus",
+    "python",
+    "python-dbus",
+    "python-pyqt5",
+    "qt5-base",
+    "qt5-svg",
+    "sh"
+  ],
+  "makedepends": [
+    "a2jmidid",
+    "jack_capture",
+    "libpulse",
+    "pulseaudio-jack",
+    "python-rdflib",
+    "zita-ajbridge"
+  ],
+  "receive": 199682489,
+  "transmit": 401670,
+  "disk": 8689401
+}
