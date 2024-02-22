@@ -1,0 +1,17 @@
+{
+  "name": "haskell-tz",
+  "version": "0.1.3.6-92",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector",
+    "haskell-data-default",
+    "haskell-tzdata"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199632328,
+  "transmit": 353734,
+  "disk": 392663
+}
