@@ -1,0 +1,14 @@
+{
+  "name": "python-sybil",
+  "version": "6.0.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199886578,
+  "transmit": 387691,
+  "disk": 1324974
+}
