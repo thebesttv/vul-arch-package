@@ -1,0 +1,18 @@
+{
+  "name": "haskell-alsa-core",
+  "version": "0.5.0.1-17",
+  "depends": [
+    "ghc-libs",
+    "glibc",
+    "gmp",
+    "alsa-lib",
+    "haskell-base",
+    "haskell-extensible-exceptions"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199716539,
+  "transmit": 409421,
+  "disk": 116415
+}
