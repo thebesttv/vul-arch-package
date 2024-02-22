@@ -1,0 +1,15 @@
+{
+  "name": "wildmidi",
+  "version": "0.4.5-2",
+  "depends": [
+    "alsa-lib",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199666510,
+  "transmit": 406697,
+  "disk": 1319624
+}
