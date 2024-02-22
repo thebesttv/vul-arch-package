@@ -1,0 +1,17 @@
+{
+  "name": "lib32-spirv-tools",
+  "version": "2023.5-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "spirv-tools"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "ninja",
+    "spirv-headers"
+  ],
+  "receive": 199570372,
+  "transmit": 286447,
+  "disk": 26472940
+}
