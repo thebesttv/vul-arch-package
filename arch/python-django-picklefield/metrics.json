@@ -1,0 +1,14 @@
+{
+  "name": "python-django-picklefield",
+  "version": "3.1.0-2",
+  "depends": [
+    "python-django"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199778444,
+  "transmit": 537999,
+  "disk": 479610
+}
