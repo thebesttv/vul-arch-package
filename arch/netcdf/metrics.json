@@ -1,0 +1,20 @@
+{
+  "name": "netcdf",
+  "version": "4.9.2-2",
+  "depends": [
+    "hdf5",
+    "curl",
+    "libxml2",
+    "libaec",
+    "blosc",
+    "bzip2",
+    "libzip",
+    "zstd"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 205210409,
+  "transmit": 335711,
+  "disk": 127720572
+}
