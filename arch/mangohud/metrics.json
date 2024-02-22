@@ -1,0 +1,32 @@
+{
+  "name": "mangohud",
+  "version": "0.7.1-1",
+  "depends": [
+    "dbus",
+    "fmt",
+    "gcc-libs",
+    "glew",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "libx11",
+    "python",
+    "python-matplotlib",
+    "python-numpy",
+    "vulkan-icd-loader"
+  ],
+  "makedepends": [
+    "appstream",
+    "cmocka",
+    "git",
+    "glfw-x11",
+    "glslang",
+    "libxnvctrl",
+    "meson",
+    "nlohmann-json",
+    "python-mako",
+    "vulkan-headers"
+  ],
+  "receive": 199485446,
+  "transmit": 239930,
+  "disk": 52875454
+}
