@@ -1,0 +1,20 @@
+{
+  "name": "python-sphinx-tabs",
+  "version": "3.4.5-1",
+  "depends": [
+    "python",
+    "python-sphinx",
+    "python-docutils",
+    "python-pygments"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199588834,
+  "transmit": 294166,
+  "disk": 2746134
+}
