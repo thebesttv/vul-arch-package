@@ -1,0 +1,14 @@
+{
+  "name": "lychee",
+  "version": "0.14.3-2",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199608250,
+  "transmit": 353263,
+  "disk": 4549141
+}
