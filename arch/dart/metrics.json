@@ -1,0 +1,22 @@
+{
+  "name": "dart",
+  "version": "3.0.7-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "clang",
+    "dart",
+    "git",
+    "gn",
+    "lld",
+    "llvm",
+    "ninja",
+    "python",
+    "python-httplib2",
+    "python-six"
+  ],
+  "receive": 1827060069,
+  "transmit": 3946312,
+  "disk": 1956674758
+}
