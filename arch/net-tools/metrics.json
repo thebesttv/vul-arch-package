@@ -1,0 +1,11 @@
+{
+  "name": "net-tools",
+  "version": "2.10-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199492743,
+  "transmit": 257971,
+  "disk": 1739047
+}
