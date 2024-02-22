@@ -1,0 +1,24 @@
+{
+  "name": "gcin",
+  "version": "2.9.0-5",
+  "depends": [
+    "glibc",
+    "glib2",
+    "gdk-pixbuf2",
+    "cairo",
+    "pango",
+    "gtk3",
+    "libx11",
+    "libxtst",
+    "libappindicator-gtk3"
+  ],
+  "makedepends": [
+    "qt5-base",
+    "gtk2",
+    "anthy",
+    "curl"
+  ],
+  "receive": 203829941,
+  "transmit": 470337,
+  "disk": 25409039
+}
