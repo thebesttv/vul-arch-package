@@ -1,0 +1,23 @@
+{
+  "name": "ktikz",
+  "version": "0.13.2-2",
+  "depends": [
+    "poppler-qt5"
+  ],
+  "makedepends": [
+    "cmake",
+    "extra-cmake-modules",
+    "qt5-base",
+    "qt5-tools",
+    "kdoctools5",
+    "kxmlgui5",
+    "ktexteditor5",
+    "kparts5",
+    "kiconthemes5",
+    "poppler",
+    "poppler-qt5"
+  ],
+  "receive": 199504223,
+  "transmit": 261202,
+  "disk": 6677102
+}
