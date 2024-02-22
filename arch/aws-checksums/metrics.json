@@ -1,0 +1,13 @@
+{
+  "name": "aws-checksums",
+  "version": "0.1.17-1",
+  "depends": [
+    "aws-c-common"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199712064,
+  "transmit": 377008,
+  "disk": 452728
+}
