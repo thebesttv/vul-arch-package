@@ -1,0 +1,11 @@
+{
+  "name": "intel-undervolt",
+  "version": "1.7-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199679045,
+  "transmit": 441844,
+  "disk": 229998
+}
