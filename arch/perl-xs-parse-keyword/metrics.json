@@ -1,0 +1,14 @@
+{
+  "name": "perl-xs-parse-keyword",
+  "version": "0.39-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-extutils-cchecker>=0.11",
+    "perl-module-build>=0.4004"
+  ],
+  "receive": 199703586,
+  "transmit": 386755,
+  "disk": 509098
+}
