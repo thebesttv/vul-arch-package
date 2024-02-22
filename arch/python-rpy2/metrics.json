@@ -1,0 +1,22 @@
+{
+  "name": "python-rpy2",
+  "version": "3.5.15-1",
+  "depends": [
+    "python",
+    "python-cffi",
+    "python-jinja",
+    "python-numpy",
+    "python-pytz",
+    "python-tzlocal",
+    "r"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 200331026,
+  "transmit": 815785,
+  "disk": 1320186
+}
