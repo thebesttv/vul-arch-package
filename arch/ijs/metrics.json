@@ -1,0 +1,15 @@
+{
+  "name": "ijs",
+  "version": "0.35-6",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "docbook-utils",
+    "ghostscript"
+  ],
+  "receive": 199505191,
+  "transmit": 242070,
+  "disk": 1764838
+}
