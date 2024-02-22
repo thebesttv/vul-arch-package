@@ -1,0 +1,14 @@
+{
+  "name": "prometheus-bird-exporter",
+  "version": "1.4.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199685649,
+  "transmit": 435710,
+  "disk": 450950
+}
