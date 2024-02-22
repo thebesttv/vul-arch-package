@@ -1,0 +1,14 @@
+{
+  "name": "vnstat",
+  "version": "2.12-1",
+  "depends": [
+    "bash",
+    "sqlite"
+  ],
+  "makedepends": [
+    "gd"
+  ],
+  "receive": 199669693,
+  "transmit": 283420,
+  "disk": 2123279
+}
