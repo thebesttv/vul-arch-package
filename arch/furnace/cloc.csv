@@ -1,0 +1,49 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=4.53 s (1197.6 files/s 351116.8 lines/s)"
+347,C++,23230,23658,447459
+3293,C,51977,55751,402383
+729,C/C++ Header,23845,58807,113510
+194,HTML,51450,3777,73429
+54,Bourne Shell,9714,10621,58353
+26,m4,2626,453,21411
+2,SVG,2,2,16552
+236,Markdown,4014,24,14270
+12,MSBuild script,1,0,13549
+49,XML,96,155,13471
+62,Text,2713,0,11686
+18,C#,239,533,7498
+1,TeX,833,3678,7261
+58,OCaml,1043,1572,5446
+29,JavaScript,1022,1349,4953
+10,Java,787,798,4098
+167,make,2081,3169,3296
+13,Assembly,1082,1512,3164
+21,CMake,523,632,2962
+13,Perl,501,290,2256
+16,Python,562,5474,1909
+10,Ada,599,560,1681
+3,Objective-C++,319,230,1615
+12,Visual Studio Solution,7,11,1091
+4,Pascal,219,139,1085
+3,Fortran 77,4,37,637
+5,Windows Module Definition,42,32,455
+6,YAML,51,32,455
+2,Meson,82,73,329
+2,Go,46,47,308
+1,diff,63,221,185
+3,CSS,6,22,153
+1,awk,38,0,143
+5,Windows Resource File,10,22,134
+2,Bourne Again Shell,19,20,123
+3,Gradle,8,4,78
+3,DOS Batch,24,2,68
+2,TNSDL,12,31,68
+2,GLSL,7,0,32
+1,SAS,14,22,32
+1,NAnt script,7,0,26
+1,INI,4,0,24
+1,Objective-C,2,26,21
+2,Properties,4,13,6
+1,TOML,0,0,5
+1,JSON,0,0,1
+1,ProGuard,2,15,0
+5428,SUM,179930,173814,1237671
