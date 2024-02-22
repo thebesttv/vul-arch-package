@@ -1,0 +1,21 @@
+{
+  "name": "python-cle",
+  "version": "9.2.69-1",
+  "depends": [
+    "python",
+    "python-pyelftools",
+    "python-cffi",
+    "python-pyvex",
+    "python-pefile",
+    "python-sortedcontainers"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 280424554,
+  "transmit": 1198751,
+  "disk": 399421920
+}
