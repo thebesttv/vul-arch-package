@@ -1,0 +1,26 @@
+{
+  "name": "python-pycuda",
+  "version": "2022.2.2-4",
+  "depends": [
+    "boost-libs",
+    "cuda",
+    "gcc-libs",
+    "glibc",
+    "nvidia-utils",
+    "python",
+    "python-numpy",
+    "python-pytools"
+  ],
+  "makedepends": [
+    "boost",
+    "ctags",
+    "mesa",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199616085,
+  "transmit": 384362,
+  "disk": 14715006
+}
