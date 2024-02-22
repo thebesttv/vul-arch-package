@@ -1,0 +1,11 @@
+{
+  "name": "libiec61883",
+  "version": "1.2.0-7",
+  "depends": [
+    "libraw1394"
+  ],
+  "makedepends": [],
+  "receive": 199525760,
+  "transmit": 272893,
+  "disk": 1776605
+}
