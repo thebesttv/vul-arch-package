@@ -1,0 +1,20 @@
+{
+  "name": "haskell-x509",
+  "version": "1.7.7-55",
+  "depends": [
+    "ghc-libs",
+    "haskell-asn1-encoding",
+    "haskell-asn1-parse",
+    "haskell-asn1-types",
+    "haskell-cryptonite",
+    "haskell-hourglass",
+    "haskell-memory",
+    "haskell-pem"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199759257,
+  "transmit": 301545,
+  "disk": 480524
+}
