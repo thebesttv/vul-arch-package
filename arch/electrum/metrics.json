@@ -1,0 +1,31 @@
+{
+  "name": "electrum",
+  "version": "4.5.2-1",
+  "depends": [
+    "python-pyaes",
+    "python-ecdsa",
+    "python-pbkdf2",
+    "python-requests",
+    "python-qrcode",
+    "python-protobuf",
+    "python-dnspython",
+    "python-jsonrpclib-pelix",
+    "python-pysocks",
+    "python-pyqt5",
+    "python-pycryptodomex",
+    "python-websocket-client",
+    "python-certifi",
+    "python-aiorpcx",
+    "python-aiohttp",
+    "python-aiohttp-socks",
+    "libsecp256k1",
+    "python-bitstring",
+    "python-jsonpatch"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 213024131,
+  "transmit": 432737,
+  "disk": 58779754
+}
