@@ -1,0 +1,17 @@
+{
+  "name": "lib32-fontconfig",
+  "version": "2:2.15.0-1",
+  "depends": [
+    "fontconfig",
+    "lib32-expat",
+    "lib32-freetype2"
+  ],
+  "makedepends": [
+    "git",
+    "gperf",
+    "meson"
+  ],
+  "receive": 199661584,
+  "transmit": 381788,
+  "disk": 8289481
+}
