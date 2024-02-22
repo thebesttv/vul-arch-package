@@ -1,0 +1,11 @@
+{
+  "name": "pngcrush",
+  "version": "1.8.13-3",
+  "depends": [
+    "libpng"
+  ],
+  "makedepends": [],
+  "receive": 199730417,
+  "transmit": 394527,
+  "disk": 583831
+}
