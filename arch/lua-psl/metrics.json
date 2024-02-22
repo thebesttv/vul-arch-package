@@ -1,0 +1,17 @@
+{
+  "name": "lua-psl",
+  "version": "0.3-3",
+  "depends": [
+    "libpsl"
+  ],
+  "makedepends": [
+    "luarocks",
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53"
+  ],
+  "receive": 199686898,
+  "transmit": 422283,
+  "disk": 142535
+}
