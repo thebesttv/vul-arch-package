@@ -1,0 +1,11 @@
+{
+  "name": "libcddb",
+  "version": "1.3.2-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199553471,
+  "transmit": 277217,
+  "disk": 2401411
+}
