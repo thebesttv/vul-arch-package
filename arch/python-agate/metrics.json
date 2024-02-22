@@ -1,0 +1,24 @@
+{
+  "name": "python-agate",
+  "version": "1.9.1-1",
+  "depends": [
+    "python",
+    "python-babel",
+    "python-isodate",
+    "python-leather",
+    "python-parsedatetime",
+    "python-pyicu",
+    "python-pytimeparse",
+    "python-six",
+    "python-slugify",
+    "python-sphinx_rtd_theme",
+    "python-sphinx-furo"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 199671617,
+  "transmit": 403493,
+  "disk": 1589766
+}
