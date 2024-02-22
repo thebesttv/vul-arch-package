@@ -1,0 +1,17 @@
+{
+  "name": "kemoticons",
+  "version": "5.115.0-1",
+  "depends": [
+    "karchive5",
+    "kservice5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 200185681,
+  "transmit": 409548,
+  "disk": 4389424
+}
