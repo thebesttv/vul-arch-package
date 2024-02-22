@@ -1,0 +1,15 @@
+{
+  "name": "python-testrepository",
+  "version": "0.0.20-11",
+  "depends": [
+    "python-testtools",
+    "python-fixtures",
+    "python-subunit"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 200543798,
+  "transmit": 798362,
+  "disk": 644151
+}
