@@ -1,0 +1,17 @@
+{
+  "name": "doomretro",
+  "version": "5.2.1-1",
+  "depends": [
+    "glibc",
+    "sdl2",
+    "sdl2_image",
+    "sdl2_mixer"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 410470813,
+  "transmit": 624945,
+  "disk": 278986091
+}
