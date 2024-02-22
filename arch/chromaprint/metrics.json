@@ -1,0 +1,16 @@
+{
+  "name": "chromaprint",
+  "version": "1.5.1-7",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "ffmpeg",
+    "gtest"
+  ],
+  "receive": 199642756,
+  "transmit": 400622,
+  "disk": 7240591
+}
