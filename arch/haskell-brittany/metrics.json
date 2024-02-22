@@ -1,0 +1,31 @@
+{
+  "name": "haskell-brittany",
+  "version": "0.14.0.2-107",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-butcher",
+    "haskell-cmdargs",
+    "haskell-czipwith",
+    "haskell-data-tree-print",
+    "haskell-extra",
+    "haskell-ghc",
+    "haskell-ghc-exactprint",
+    "haskell-monad-memo",
+    "haskell-multistate",
+    "haskell-random",
+    "haskell-safe",
+    "haskell-strict",
+    "haskell-syb",
+    "haskell-uniplate",
+    "haskell-yaml"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec"
+  ],
+  "receive": 199745122,
+  "transmit": 493832,
+  "disk": 1246600
+}
