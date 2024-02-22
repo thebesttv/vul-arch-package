@@ -1,0 +1,13 @@
+{
+  "name": "stumpwm-contrib",
+  "version": "r515.g4613a95-2",
+  "depends": [
+    "stumpwm"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199588553,
+  "transmit": 349078,
+  "disk": 4385853
+}
