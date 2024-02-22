@@ -1,0 +1,18 @@
+{
+  "name": "python-cattrs",
+  "version": "23.1.2-1",
+  "depends": [
+    "python",
+    "python-exceptiongroup",
+    "python-attrs"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 199760474,
+  "transmit": 485125,
+  "disk": 342080
+}
