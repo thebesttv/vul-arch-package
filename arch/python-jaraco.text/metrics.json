@@ -1,0 +1,21 @@
+{
+  "name": "python-jaraco.text",
+  "version": "3.12.0-1",
+  "depends": [
+    "python",
+    "python-jaraco.functools",
+    "python-jaraco.context",
+    "python-autocommand",
+    "python-inflect",
+    "python-more-itertools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199742327,
+  "transmit": 436789,
+  "disk": 182692
+}
