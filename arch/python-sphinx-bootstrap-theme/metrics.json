@@ -1,0 +1,14 @@
+{
+  "name": "python-sphinx-bootstrap-theme",
+  "version": "0.8.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199616365,
+  "transmit": 392984,
+  "disk": 17570332
+}
