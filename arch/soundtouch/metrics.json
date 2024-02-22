@@ -1,0 +1,15 @@
+{
+  "name": "soundtouch",
+  "version": "2.3.2-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja"
+  ],
+  "receive": 199575325,
+  "transmit": 303345,
+  "disk": 3307947
+}
