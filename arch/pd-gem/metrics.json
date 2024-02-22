@@ -1,0 +1,23 @@
+{
+  "name": "pd-gem",
+  "version": "0.94-11",
+  "depends": [
+    "assimp",
+    "ftgl",
+    "glew",
+    "libdv",
+    "libiec61883",
+    "pd",
+    "sdl2",
+    "ttf-dejavu",
+    "zlib"
+  ],
+  "makedepends": [
+    "imagemagick",
+    "libvncserver",
+    "vlc"
+  ],
+  "receive": 199592551,
+  "transmit": 366127,
+  "disk": 27017659
+}
