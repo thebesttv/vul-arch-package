@@ -1,0 +1,12 @@
+{
+  "name": "unzip",
+  "version": "6.0-20",
+  "depends": [
+    "bzip2",
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 201346334,
+  "transmit": 460407,
+  "disk": 8060030
+}
