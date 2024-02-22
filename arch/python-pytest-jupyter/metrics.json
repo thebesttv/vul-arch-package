@@ -1,0 +1,24 @@
+{
+  "name": "python-pytest-jupyter",
+  "version": "0.9.0-1",
+  "depends": [
+    "jupyter-nbformat",
+    "jupyter-server",
+    "python",
+    "python-ipykernel",
+    "python-jupyter-client",
+    "python-jupyter-core",
+    "python-pytest",
+    "python-pyzmq",
+    "python-tornado",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199720430,
+  "transmit": 457399,
+  "disk": 175272
+}
