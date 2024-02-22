@@ -1,0 +1,16 @@
+{
+  "name": "ruby-packetfu",
+  "version": "1.1.13-5",
+  "depends": [
+    "ruby",
+    "ruby-network_interface",
+    "ruby-pcaprub"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 199550551,
+  "transmit": 305443,
+  "disk": 3687248
+}
