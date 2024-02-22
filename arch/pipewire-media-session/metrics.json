@@ -1,0 +1,17 @@
+{
+  "name": "pipewire-media-session",
+  "version": "1:0.4.2-2",
+  "depends": [
+    "pipewire>=0.3.39"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "dbus",
+    "git",
+    "meson",
+    "systemd"
+  ],
+  "receive": 201064477,
+  "transmit": 1108819,
+  "disk": 23112320
+}
