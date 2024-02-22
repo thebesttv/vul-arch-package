@@ -1,0 +1,16 @@
+{
+  "name": "compiler-rt15",
+  "version": "15.0.7-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "llvm15",
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 201950788,
+  "transmit": 291004,
+  "disk": 41784896
+}
