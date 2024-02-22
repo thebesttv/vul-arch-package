@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libpng12",
+  "version": "1.2.59-2",
+  "depends": [
+    "lib32-glibc",
+    "lib32-zlib"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 200547197,
+  "transmit": 501710,
+  "disk": 5606047
+}
