@@ -1,0 +1,14 @@
+{
+  "name": "ecl",
+  "version": "23.9.9-1",
+  "depends": [
+    "bash",
+    "gmp"
+  ],
+  "makedepends": [
+    "texinfo"
+  ],
+  "receive": 207841832,
+  "transmit": 364018,
+  "disk": 45248010
+}
