@@ -1,0 +1,16 @@
+{
+  "name": "ruby-gettext-setup",
+  "version": "1.1.0-1",
+  "depends": [
+    "ruby",
+    "ruby-fast_gettext",
+    "ruby-gettext"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199657437,
+  "transmit": 341963,
+  "disk": 250694
+}
