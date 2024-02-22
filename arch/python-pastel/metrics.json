@@ -1,0 +1,16 @@
+{
+  "name": "python-pastel",
+  "version": "0.2.1-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 199632467,
+  "transmit": 374554,
+  "disk": 138516
+}
