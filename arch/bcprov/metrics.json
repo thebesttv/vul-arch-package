@@ -1,0 +1,14 @@
+{
+  "name": "bcprov",
+  "version": "1.73-1",
+  "depends": [
+    "java-runtime-headless"
+  ],
+  "makedepends": [
+    "ant",
+    "strip-nondeterminism"
+  ],
+  "receive": 220323893,
+  "transmit": 510302,
+  "disk": 90421622
+}
