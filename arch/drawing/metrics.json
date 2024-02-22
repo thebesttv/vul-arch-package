@@ -1,0 +1,17 @@
+{
+  "name": "drawing",
+  "version": "1.0.2-1",
+  "depends": [
+    "gtk3",
+    "python-cairo",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "meson",
+    "itstool"
+  ],
+  "receive": 199572898,
+  "transmit": 316616,
+  "disk": 31878301
+}
