@@ -1,0 +1,14 @@
+{
+  "name": "evilginx",
+  "version": "3.2.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 203323399,
+  "transmit": 371085,
+  "disk": 20980816
+}
