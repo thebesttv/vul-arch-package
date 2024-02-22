@@ -1,0 +1,21 @@
+{
+  "name": "luppp",
+  "version": "1.2.1-4",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "jack",
+    "liblo",
+    "libsamplerate",
+    "libsndfile",
+    "libx11",
+    "ntk"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199539069,
+  "transmit": 288320,
+  "disk": 3094810
+}
