@@ -1,0 +1,15 @@
+{
+  "name": "python-debugpy",
+  "version": "1.8.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199640116,
+  "transmit": 388498,
+  "disk": 35512856
+}
