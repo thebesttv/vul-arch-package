@@ -1,0 +1,19 @@
+{
+  "name": "wingpanel-indicator-keyboard",
+  "version": "2.4.1-2",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "ibus",
+    "libxml2",
+    "wingpanel"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199579390,
+  "transmit": 339760,
+  "disk": 2113318
+}
