@@ -1,0 +1,14 @@
+{
+  "name": "haskell-data-default-instances-containers",
+  "version": "0.0.1-36",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default-class"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199630707,
+  "transmit": 386743,
+  "disk": 132668
+}
