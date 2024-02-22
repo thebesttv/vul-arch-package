@@ -1,0 +1,12 @@
+{
+  "name": "plantuml-ascii-math",
+  "version": "20171116-3",
+  "depends": [
+    "plantuml",
+    "jlatexmath"
+  ],
+  "makedepends": [],
+  "receive": 199658422,
+  "transmit": 439786,
+  "disk": 8254185
+}
