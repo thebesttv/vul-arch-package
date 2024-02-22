@@ -1,0 +1,13 @@
+{
+  "name": "keybinder2",
+  "version": "0.3.1-4",
+  "depends": [
+    "gtk2"
+  ],
+  "makedepends": [
+    "gobject-introspection"
+  ],
+  "receive": 199524351,
+  "transmit": 263606,
+  "disk": 2085585
+}
