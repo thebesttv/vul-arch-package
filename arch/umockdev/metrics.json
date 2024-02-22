@@ -1,0 +1,18 @@
+{
+  "name": "umockdev",
+  "version": "0.17.18-2",
+  "depends": [
+    "systemd",
+    "libgudev",
+    "libpcap"
+  ],
+  "makedepends": [
+    "meson",
+    "gobject-introspection",
+    "gtk-doc",
+    "vala"
+  ],
+  "receive": 199564452,
+  "transmit": 348269,
+  "disk": 2657698
+}
