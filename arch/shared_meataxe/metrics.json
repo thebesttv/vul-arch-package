@@ -1,0 +1,11 @@
+{
+  "name": "shared_meataxe",
+  "version": "1.0.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199810897,
+  "transmit": 439583,
+  "disk": 4640370
+}
