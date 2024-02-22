@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libxt",
+  "version": "1.3.0-1",
+  "depends": [
+    "lib32-libsm",
+    "lib32-libx11",
+    "libxt"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "gcc-multilib"
+  ],
+  "receive": 199701928,
+  "transmit": 420237,
+  "disk": 6158648
+}
