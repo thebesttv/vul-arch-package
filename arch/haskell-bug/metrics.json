@@ -1,0 +1,13 @@
+{
+  "name": "haskell-bug",
+  "version": "1.0.1-19",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199582186,
+  "transmit": 359163,
+  "disk": 115451
+}
