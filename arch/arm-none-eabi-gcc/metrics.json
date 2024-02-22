@@ -1,0 +1,19 @@
+{
+  "name": "arm-none-eabi-gcc",
+  "version": "13.2.0-2",
+  "depends": [
+    "arm-none-eabi-binutils",
+    "zlib",
+    "libmpc",
+    "libisl",
+    "zstd"
+  ],
+  "makedepends": [
+    "gmp",
+    "mpfr",
+    "arm-none-eabi-newlib"
+  ],
+  "receive": 288539371,
+  "transmit": 955563,
+  "disk": 807637067
+}
