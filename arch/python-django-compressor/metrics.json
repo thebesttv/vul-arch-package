@@ -1,0 +1,20 @@
+{
+  "name": "python-django-compressor",
+  "version": "4.4-1",
+  "depends": [
+    "python",
+    "python-django",
+    "python-django-appconf",
+    "python-rcssmin",
+    "python-rjsmin"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199567454,
+  "transmit": 281929,
+  "disk": 2566418
+}
