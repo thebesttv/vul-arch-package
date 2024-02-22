@@ -1,0 +1,13 @@
+{
+  "name": "musepack",
+  "version": "1:0.1+r475-4",
+  "depends": [
+    "glibc",
+    "libcue",
+    "libreplaygain"
+  ],
+  "makedepends": [],
+  "receive": 199618582,
+  "transmit": 377633,
+  "disk": 1298736
+}
