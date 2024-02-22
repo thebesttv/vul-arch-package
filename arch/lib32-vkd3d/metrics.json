@@ -1,0 +1,17 @@
+{
+  "name": "lib32-vkd3d",
+  "version": "1.10-1",
+  "depends": [
+    "lib32-vulkan-icd-loader"
+  ],
+  "makedepends": [
+    "spirv-headers",
+    "vulkan-headers",
+    "lib32-xcb-util-keysyms",
+    "lib32-ncurses",
+    "xorgproto"
+  ],
+  "receive": 199502856,
+  "transmit": 257794,
+  "disk": 10707091
+}
