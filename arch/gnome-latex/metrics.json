@@ -1,0 +1,23 @@
+{
+  "name": "gnome-latex",
+  "version": "3.46.0-2",
+  "depends": [
+    "gsettings-desktop-schemas",
+    "gspell",
+    "libgee",
+    "tepl"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "autoconf-archive",
+    "git",
+    "gtk-doc",
+    "gobject-introspection",
+    "intltool",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199557433,
+  "transmit": 322033,
+  "disk": 12692382
+}
