@@ -1,0 +1,21 @@
+{
+  "name": "vulkan-tools",
+  "version": "1.3.269-1",
+  "depends": [
+    "libx11",
+    "wayland",
+    "libvulkan.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "vulkan-headers",
+    "vulkan-icd-loader",
+    "wayland-protocols",
+    "glslang",
+    "spirv-tools"
+  ],
+  "receive": 199534233,
+  "transmit": 274642,
+  "disk": 5560502
+}
