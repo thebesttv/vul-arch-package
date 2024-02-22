@@ -1,0 +1,11 @@
+{
+  "name": "cargo-fuzz",
+  "version": "0.12.0-1",
+  "depends": [
+    "cargo"
+  ],
+  "makedepends": [],
+  "receive": 199734296,
+  "transmit": 458652,
+  "disk": 306164
+}
