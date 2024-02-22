@@ -1,0 +1,12 @@
+{
+  "name": "gitoxide",
+  "version": "0.33.0-1",
+  "depends": [],
+  "makedepends": [
+    "cargo",
+    "cmake"
+  ],
+  "receive": 205009612,
+  "transmit": 408126,
+  "disk": 24294651
+}
