@@ -1,0 +1,11 @@
+{
+  "name": "perl-email-mime-encodings",
+  "version": "1.317-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199606049,
+  "transmit": 380363,
+  "disk": 207822
+}
