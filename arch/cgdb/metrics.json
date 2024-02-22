@@ -1,0 +1,15 @@
+{
+  "name": "cgdb",
+  "version": "0.8.0-1",
+  "depends": [
+    "readline>=5.1",
+    "ncurses",
+    "gdb"
+  ],
+  "makedepends": [
+    "help2man"
+  ],
+  "receive": 199506453,
+  "transmit": 253698,
+  "disk": 1864217
+}
