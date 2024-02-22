@@ -1,0 +1,13 @@
+{
+  "name": "interception-caps2esc",
+  "version": "0.3.2-2",
+  "depends": [
+    "interception-tools"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199524007,
+  "transmit": 251892,
+  "disk": 109544
+}
