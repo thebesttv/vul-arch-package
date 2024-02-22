@@ -1,0 +1,17 @@
+{
+  "name": "cjs",
+  "version": "6.0.0-1",
+  "depends": [
+    "gtk3",
+    "gobject-introspection-runtime",
+    "js102"
+  ],
+  "makedepends": [
+    "meson",
+    "samurai",
+    "gobject-introspection"
+  ],
+  "receive": 199569134,
+  "transmit": 260413,
+  "disk": 4942043
+}
