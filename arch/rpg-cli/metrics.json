@@ -1,0 +1,13 @@
+{
+  "name": "rpg-cli",
+  "version": "1.0.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199583615,
+  "transmit": 316636,
+  "disk": 1202987
+}
