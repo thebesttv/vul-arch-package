@@ -1,0 +1,16 @@
+{
+  "name": "vapoursynth-plugin-deblock",
+  "version": "6.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "vapoursynth"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199660466,
+  "transmit": 436656,
+  "disk": 376015
+}
