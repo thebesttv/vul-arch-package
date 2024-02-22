@@ -1,0 +1,14 @@
+{
+  "name": "kubectl-cert-manager",
+  "version": "1.13.3-1",
+  "depends": [
+    "kubectl"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 201488831,
+  "transmit": 415733,
+  "disk": 14743310
+}
