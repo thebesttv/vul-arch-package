@@ -1,0 +1,18 @@
+{
+  "name": "sdl2_mixer",
+  "version": "2.8.0-1",
+  "depends": [
+    "sdl2",
+    "libvorbis",
+    "libmodplug",
+    "mpg123",
+    "flac",
+    "opusfile"
+  ],
+  "makedepends": [
+    "fluidsynth"
+  ],
+  "receive": 199509923,
+  "transmit": 238847,
+  "disk": 40321917
+}
