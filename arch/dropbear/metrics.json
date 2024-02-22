@@ -1,0 +1,11 @@
+{
+  "name": "dropbear",
+  "version": "2022.83-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199569173,
+  "transmit": 287027,
+  "disk": 29879481
+}
