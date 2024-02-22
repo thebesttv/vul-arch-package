@@ -1,0 +1,16 @@
+{
+  "name": "python-pyroute2",
+  "version": "0.7.7-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199537646,
+  "transmit": 283378,
+  "disk": 3187315
+}
