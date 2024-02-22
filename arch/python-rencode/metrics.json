@@ -1,0 +1,14 @@
+{
+  "name": "python-rencode",
+  "version": "1.0.6-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools"
+  ],
+  "receive": 199533785,
+  "transmit": 288410,
+  "disk": 225450
+}
