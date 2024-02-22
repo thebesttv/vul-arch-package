@@ -1,0 +1,13 @@
+{
+  "name": "nginx-prometheus-exporter",
+  "version": "0.11.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199719262,
+  "transmit": 469894,
+  "disk": 2006622
+}
