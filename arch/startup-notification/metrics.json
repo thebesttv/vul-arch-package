@@ -1,0 +1,14 @@
+{
+  "name": "startup-notification",
+  "version": "0.12-8",
+  "depends": [
+    "glibc",
+    "libx11",
+    "libxcb",
+    "xcb-util"
+  ],
+  "makedepends": [],
+  "receive": 199661774,
+  "transmit": 386372,
+  "disk": 1964321
+}
