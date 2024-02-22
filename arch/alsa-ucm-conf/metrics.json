@@ -1,0 +1,9 @@
+{
+  "name": "alsa-ucm-conf",
+  "version": "1.2.11-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 199684110,
+  "transmit": 426316,
+  "disk": 1414061
+}
