@@ -1,0 +1,23 @@
+{
+  "name": "sound-juicer",
+  "version": "3.40.0-2",
+  "depends": [
+    "brasero",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gtk3",
+    "iso-codes",
+    "libcanberra",
+    "libdiscid",
+    "libmusicbrainz5"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "itstool",
+    "meson"
+  ],
+  "receive": 200696756,
+  "transmit": 385147,
+  "disk": 16237247
+}
