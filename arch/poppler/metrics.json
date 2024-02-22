@@ -1,0 +1,31 @@
+{
+  "name": "poppler",
+  "version": "24.01.0-1",
+  "depends": [],
+  "makedepends": [
+    "libjpeg",
+    "gcc-libs",
+    "cairo",
+    "fontconfig",
+    "openjpeg2",
+    "gtk3",
+    "pkgconfig",
+    "lcms2",
+    "gobject-introspection",
+    "icu",
+    "qt5-base",
+    "qt6-base",
+    "git",
+    "nss",
+    "gpgme",
+    "gtk-doc",
+    "curl",
+    "poppler-data",
+    "cmake",
+    "python",
+    "boost"
+  ],
+  "receive": 199876645,
+  "transmit": 498477,
+  "disk": 31367320
+}
