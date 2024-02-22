@@ -1,0 +1,13 @@
+{
+  "name": "languagetool",
+  "version": "6.3.a-2",
+  "depends": [
+    "java-runtime-headless"
+  ],
+  "makedepends": [
+    "unzip"
+  ],
+  "receive": 432687504,
+  "transmit": 723037,
+  "disk": 619791476
+}
