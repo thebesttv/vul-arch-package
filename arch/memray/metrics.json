@@ -1,0 +1,26 @@
+{
+  "name": "memray",
+  "version": "1.11.1-2",
+  "depends": [
+    "python",
+    "libunwind",
+    "python-rich",
+    "python-jinja",
+    "lz4",
+    "ipython",
+    "python-textual"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "cython",
+    "npm",
+    "python-pkgconfig"
+  ],
+  "receive": 230036458,
+  "transmit": 345885,
+  "disk": 131414928
+}
