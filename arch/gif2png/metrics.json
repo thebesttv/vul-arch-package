@@ -1,0 +1,15 @@
+{
+  "name": "gif2png",
+  "version": "3.0.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "xmlto",
+    "docbook-xsl"
+  ],
+  "receive": 199505252,
+  "transmit": 288322,
+  "disk": 521436
+}
