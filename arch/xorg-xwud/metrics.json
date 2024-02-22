@@ -1,0 +1,13 @@
+{
+  "name": "xorg-xwud",
+  "version": "1.0.6-1",
+  "depends": [
+    "libx11"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199541647,
+  "transmit": 310742,
+  "disk": 991350
+}
