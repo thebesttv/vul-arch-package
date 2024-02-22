@@ -1,0 +1,14 @@
+{
+  "name": "libieee1284",
+  "version": "0.2.11-15",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "xmlto",
+    "docbook-xml",
+    "docbook-xsl"
+  ],
+  "receive": 199674181,
+  "transmit": 415210,
+  "disk": 535068
+}
