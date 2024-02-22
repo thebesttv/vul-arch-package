@@ -1,0 +1,34 @@
+{
+  "name": "haskell-statistics",
+  "version": "0.16.2.1-21",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-async",
+    "haskell-data-default-class",
+    "haskell-dense-linear-algebra",
+    "haskell-math-functions",
+    "haskell-mwc-random",
+    "haskell-parallel",
+    "haskell-primitive",
+    "haskell-random",
+    "haskell-vector",
+    "haskell-vector-algorithms",
+    "haskell-vector-binary-instances",
+    "haskell-vector-th-unbox"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-erf",
+    "haskell-ieee754",
+    "haskell-tasty",
+    "haskell-tasty-expected-failure",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199683078,
+  "transmit": 428168,
+  "disk": 1114893
+}
