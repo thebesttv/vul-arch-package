@@ -1,0 +1,19 @@
+{
+  "name": "docbook2x",
+  "version": "0.8.8-18",
+  "depends": [
+    "glibc",
+    "perl-sgmls",
+    "perl-xml-parser",
+    "perl-xml-sax",
+    "libxslt",
+    "jade",
+    "perl-xml-sax-expat"
+  ],
+  "makedepends": [
+    "texinfo"
+  ],
+  "receive": 199632317,
+  "transmit": 340403,
+  "disk": 4737349
+}
