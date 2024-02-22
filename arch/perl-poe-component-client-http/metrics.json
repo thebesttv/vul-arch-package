@@ -1,0 +1,17 @@
+{
+  "name": "perl-poe-component-client-http",
+  "version": "0.949-9",
+  "depends": [
+    "perl-uri",
+    "perl-poe-component-client-keepalive",
+    "perl-poe"
+  ],
+  "makedepends": [
+    "perl-uri",
+    "perl-poe-component-client-keepalive",
+    "perl-poe"
+  ],
+  "receive": 199694748,
+  "transmit": 375138,
+  "disk": 475458
+}
