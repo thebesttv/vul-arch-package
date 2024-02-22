@@ -1,0 +1,17 @@
+{
+  "name": "python-send2trash",
+  "version": "1.8.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199581880,
+  "transmit": 312175,
+  "disk": 199079
+}
