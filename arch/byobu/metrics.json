@@ -1,0 +1,16 @@
+{
+  "name": "byobu",
+  "version": "5.133-3",
+  "depends": [
+    "libnewt",
+    "python",
+    "tmux"
+  ],
+  "makedepends": [
+    "gettext",
+    "setconf"
+  ],
+  "receive": 199717754,
+  "transmit": 382805,
+  "disk": 2856924
+}
