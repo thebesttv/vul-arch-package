@@ -1,0 +1,26 @@
+{
+  "name": "nemo-extensions",
+  "version": "6.0.1-1",
+  "depends": [
+    "nemo"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection",
+    "meson",
+    "samurai",
+    "cjs",
+    "clutter-gtk",
+    "clutter-gst",
+    "libmusicbrainz5",
+    "gtksourceview4",
+    "xreader",
+    "webkit2gtk-4.1",
+    "python-gobject",
+    "python-setuptools",
+    "libcryptui"
+  ],
+  "receive": 199610682,
+  "transmit": 299015,
+  "disk": 2650973
+}
