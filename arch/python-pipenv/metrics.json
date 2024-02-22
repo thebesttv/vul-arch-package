@@ -1,0 +1,20 @@
+{
+  "name": "python-pipenv",
+  "version": "2023.12.1-1",
+  "depends": [
+    "python",
+    "python-pip",
+    "python-certifi",
+    "python-virtualenv-clone",
+    "python-virtualenv"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199596515,
+  "transmit": 308980,
+  "disk": 30505712
+}
