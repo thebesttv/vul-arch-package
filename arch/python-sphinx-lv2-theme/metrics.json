@@ -1,0 +1,17 @@
+{
+  "name": "python-sphinx-lv2-theme",
+  "version": "1.4.2-1",
+  "depends": [
+    "python",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199539040,
+  "transmit": 263001,
+  "disk": 151719
+}
