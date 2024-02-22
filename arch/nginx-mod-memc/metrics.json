@@ -1,0 +1,13 @@
+{
+  "name": "nginx-mod-memc",
+  "version": "0.20-1",
+  "depends": [
+    "nginx"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199550921,
+  "transmit": 335708,
+  "disk": 393731
+}
