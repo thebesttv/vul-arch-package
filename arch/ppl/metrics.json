@@ -1,0 +1,13 @@
+{
+  "name": "ppl",
+  "version": "1.2-5",
+  "depends": [
+    "glpk"
+  ],
+  "makedepends": [
+    "swi-prolog"
+  ],
+  "receive": 199727272,
+  "transmit": 458493,
+  "disk": 57939829
+}
