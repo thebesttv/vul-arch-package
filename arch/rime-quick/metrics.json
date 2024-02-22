@@ -1,0 +1,15 @@
+{
+  "name": "rime-quick",
+  "version": "0.0.0.20190120-1",
+  "depends": [
+    "rime-luna-pinyin"
+  ],
+  "makedepends": [
+    "librime",
+    "rime-prelude",
+    "rime-essay"
+  ],
+  "receive": 199516686,
+  "transmit": 224307,
+  "disk": 532108
+}
