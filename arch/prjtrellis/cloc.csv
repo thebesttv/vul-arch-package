@@ -1,0 +1,20 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.59 s (1172.4 files/s 190755.5 lines/s)"
+324,Python,5499,3494,24625
+111,Verilog-SystemVerilog,1809,1104,15705
+68,C++,2321,1866,15149
+49,C/C++ Header,2835,3015,14773
+43,reStructuredText,3130,3080,5655
+20,CMake,443,433,2150
+19,YAML,307,174,1356
+5,JSON,5,0,1148
+2,SVG,0,0,854
+21,Markdown,241,8,635
+5,Bourne Shell,68,46,406
+15,make,136,15,307
+3,Assembly,8,3,80
+2,C,12,1,58
+2,TOML,8,2,54
+1,INI,0,0,22
+3,Text,1,0,22
+2,CSS,0,0,14
+695,SUM,16823,13241,83013

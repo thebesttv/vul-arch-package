@@ -1,0 +1,16 @@
+{
+  "name": "prjtrellis",
+  "version": "1.4-1",
+  "depends": [
+    "boost-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "prjtrellis-db",
+    "boost",
+    "python"
+  ],
+  "receive": 199535814,
+  "transmit": 296065,
+  "disk": 7801005
+}
