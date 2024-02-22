@@ -1,0 +1,16 @@
+{
+  "name": "python-cloudpickle",
+  "version": "2.2.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199517154,
+  "transmit": 262848,
+  "disk": 478851
+}
