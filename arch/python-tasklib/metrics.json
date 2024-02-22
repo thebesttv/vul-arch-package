@@ -1,0 +1,14 @@
+{
+  "name": "python-tasklib",
+  "version": "2.5.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 199529672,
+  "transmit": 307788,
+  "disk": 282457
+}
