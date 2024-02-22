@@ -1,0 +1,13 @@
+{
+  "name": "mfoc",
+  "version": "0.10.7+38+gba072f1-1",
+  "depends": [
+    "libnfc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199696738,
+  "transmit": 362142,
+  "disk": 2671301
+}
