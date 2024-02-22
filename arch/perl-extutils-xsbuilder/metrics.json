@@ -1,0 +1,13 @@
+{
+  "name": "perl-extutils-xsbuilder",
+  "version": "0.28-10",
+  "depends": [
+    "perl>=5.10.0",
+    "perl-parse-recdescent",
+    "perl-tie-ixhash"
+  ],
+  "makedepends": [],
+  "receive": 199525674,
+  "transmit": 268457,
+  "disk": 317276
+}
