@@ -1,0 +1,13 @@
+{
+  "name": "bats-assert",
+  "version": "2.1.0-2",
+  "depends": [
+    "bash",
+    "bats",
+    "bats-support"
+  ],
+  "makedepends": [],
+  "receive": 199559824,
+  "transmit": 282670,
+  "disk": 233526
+}
