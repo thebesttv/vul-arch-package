@@ -1,0 +1,14 @@
+{
+  "name": "python-litesdcard",
+  "version": "2021.08-2",
+  "depends": [
+    "python-migen",
+    "python-litex"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199720975,
+  "transmit": 414084,
+  "disk": 702973
+}
