@@ -1,0 +1,14 @@
+{
+  "name": "wiki-tui",
+  "version": "0.8.2-1",
+  "depends": [
+    "openssl",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199536101,
+  "transmit": 287256,
+  "disk": 4429805
+}
