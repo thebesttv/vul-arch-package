@@ -1,0 +1,11 @@
+{
+  "name": "perl-data-dump",
+  "version": "1.25-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199535309,
+  "transmit": 277216,
+  "disk": 195290
+}
