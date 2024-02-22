@@ -1,0 +1,21 @@
+{
+  "name": "xorg-xeyes",
+  "version": "1.3.0-1",
+  "depends": [
+    "libx11",
+    "libxt",
+    "libxext",
+    "libxmu",
+    "libxrender",
+    "libxi",
+    "libxcb",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "libxfixes"
+  ],
+  "receive": 199653528,
+  "transmit": 396588,
+  "disk": 1015817
+}
