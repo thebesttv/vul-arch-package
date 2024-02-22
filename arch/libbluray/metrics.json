@@ -1,0 +1,17 @@
+{
+  "name": "libbluray",
+  "version": "1.3.4-1",
+  "depends": [
+    "fontconfig",
+    "libfreetype.so",
+    "libxml2"
+  ],
+  "makedepends": [
+    "apache-ant",
+    "git",
+    "java-environment"
+  ],
+  "receive": 199666023,
+  "transmit": 295272,
+  "disk": 11294871
+}
