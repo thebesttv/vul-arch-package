@@ -1,0 +1,16 @@
+{
+  "name": "lib32-e2fsprogs",
+  "version": "1.47.0-1",
+  "depends": [
+    "lib32-glibc",
+    "e2fsprogs"
+  ],
+  "makedepends": [
+    "bc",
+    "lib32-util-linux",
+    "gcc-multilib"
+  ],
+  "receive": 199656762,
+  "transmit": 385452,
+  "disk": 42858814
+}
