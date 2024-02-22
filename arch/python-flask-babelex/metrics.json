@@ -1,0 +1,18 @@
+{
+  "name": "python-flask-babelex",
+  "version": "0.9.4-7",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-babel",
+    "python-speaklater",
+    "python-jinja"
+  ],
+  "makedepends": [
+    "python-sphinx",
+    "python-setuptools"
+  ],
+  "receive": 199648735,
+  "transmit": 379429,
+  "disk": 262171
+}
