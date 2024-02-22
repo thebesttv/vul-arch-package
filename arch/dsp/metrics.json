@@ -1,0 +1,32 @@
+{
+  "name": "dsp",
+  "version": "1.9-3",
+  "depends": [
+    "libmad",
+    "libtool",
+    "ffmpeg",
+    "libavcodec.so",
+    "libavformat.so",
+    "libavutil.so",
+    "alsa-lib",
+    "libasound.so",
+    "fftw",
+    "libfftw3.so",
+    "libao",
+    "libao.so",
+    "libpulse",
+    "libpulse.so",
+    "libpulse-simple.so",
+    "libsndfile",
+    "libsndfile.so",
+    "zita-convolver",
+    "libzita-convolver.so"
+  ],
+  "makedepends": [
+    "git",
+    "ladspa"
+  ],
+  "receive": 199666108,
+  "transmit": 425740,
+  "disk": 1202768
+}
