@@ -1,0 +1,15 @@
+{
+  "name": "haskell-emojis",
+  "version": "0.1.3-6",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit"
+  ],
+  "receive": 199883767,
+  "transmit": 462613,
+  "disk": 623833
+}
