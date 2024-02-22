@@ -1,0 +1,17 @@
+{
+  "name": "slurp",
+  "version": "1.5.0-1",
+  "depends": [
+    "cairo",
+    "wayland",
+    "libxkbcommon"
+  ],
+  "makedepends": [
+    "meson",
+    "scdoc",
+    "wayland-protocols"
+  ],
+  "receive": 199606730,
+  "transmit": 396174,
+  "disk": 207360
+}
