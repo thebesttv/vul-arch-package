@@ -1,0 +1,16 @@
+{
+  "name": "seatd",
+  "version": "0.8.0-1",
+  "depends": [
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "scdoc",
+    "systemd"
+  ],
+  "receive": 199587099,
+  "transmit": 353928,
+  "disk": 362541
+}
