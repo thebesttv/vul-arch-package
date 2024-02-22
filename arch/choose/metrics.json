@@ -1,0 +1,14 @@
+{
+  "name": "choose",
+  "version": "1.3.4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199641094,
+  "transmit": 398528,
+  "disk": 568136
+}
