@@ -1,0 +1,19 @@
+{
+  "name": "gpodder",
+  "version": "3.11.4-1",
+  "depends": [
+    "gtk3",
+    "python-cairo",
+    "dbus-python",
+    "python-gobject",
+    "python-mygpoclient",
+    "python-podcastparser",
+    "python-requests"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199487948,
+  "transmit": 218086,
+  "disk": 6217156
+}
