@@ -1,0 +1,13 @@
+{
+  "name": "haskell-ordered-containers",
+  "version": "0.2.3-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199486699,
+  "transmit": 224878,
+  "disk": 147678
+}
