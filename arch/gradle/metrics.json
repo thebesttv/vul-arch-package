@@ -1,0 +1,22 @@
+{
+  "name": "gradle",
+  "version": "8.6-1",
+  "depends": [
+    "java-environment",
+    "bash",
+    "which",
+    "coreutils",
+    "findutils",
+    "sed"
+  ],
+  "makedepends": [
+    "git",
+    "asciidoc",
+    "xmlto",
+    "groovy",
+    "java-environment=11"
+  ],
+  "receive": 479947831,
+  "transmit": 740840,
+  "disk": 927986059
+}
