@@ -1,0 +1,18 @@
+{
+  "name": "python-regress",
+  "version": "0.4.5-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-maturin",
+    "python-wheel"
+  ],
+  "receive": 199726770,
+  "transmit": 447899,
+  "disk": 143270
+}
