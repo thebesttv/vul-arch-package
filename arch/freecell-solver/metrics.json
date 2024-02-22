@@ -1,0 +1,21 @@
+{
+  "name": "freecell-solver",
+  "version": "6.8.0-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "cmake",
+    "gperf",
+    "perl-moo",
+    "perl-path-tiny",
+    "perl-template-toolkit",
+    "python-random2",
+    "python-six",
+    "python-pysol_cards",
+    "rinutils"
+  ],
+  "receive": 199543430,
+  "transmit": 293179,
+  "disk": 3835888
+}
