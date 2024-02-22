@@ -1,0 +1,15 @@
+{
+  "name": "nomad-driver-containerd",
+  "version": "0.9.4-1",
+  "depends": [
+    "nomad",
+    "containerd"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199549762,
+  "transmit": 311639,
+  "disk": 7934424
+}
