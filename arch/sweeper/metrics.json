@@ -1,0 +1,15 @@
+{
+  "name": "sweeper",
+  "version": "23.08.5-1",
+  "depends": [
+    "kactivities-stats5",
+    "kio5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199649306,
+  "transmit": 397604,
+  "disk": 2244212
+}
