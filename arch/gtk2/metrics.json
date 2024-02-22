@@ -1,0 +1,28 @@
+{
+  "name": "gtk2",
+  "version": "2.24.33-3",
+  "depends": [
+    "atk",
+    "cairo",
+    "desktop-file-utils",
+    "gtk-update-icon-cache",
+    "libcups",
+    "librsvg",
+    "libxcomposite",
+    "libxcursor",
+    "libxdamage",
+    "libxi",
+    "libxinerama",
+    "libxrandr",
+    "pango",
+    "shared-mime-info"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc"
+  ],
+  "receive": 755618028,
+  "transmit": 1995820,
+  "disk": 660619296
+}
