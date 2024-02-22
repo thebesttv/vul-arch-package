@@ -1,0 +1,11 @@
+{
+  "name": "python-clint",
+  "version": "0.5.1-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 199669666,
+  "transmit": 415064,
+  "disk": 267106
+}
