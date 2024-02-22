@@ -1,0 +1,12 @@
+{
+  "name": "elfkickers",
+  "version": "3.2-4",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "setconf"
+  ],
+  "receive": 199671849,
+  "transmit": 397616,
+  "disk": 1097999
+}
