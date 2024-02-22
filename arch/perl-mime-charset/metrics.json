@@ -1,0 +1,11 @@
+{
+  "name": "perl-mime-charset",
+  "version": "1.013.1-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199819380,
+  "transmit": 503005,
+  "disk": 381859
+}
