@@ -1,0 +1,21 @@
+{
+  "name": "gpaste",
+  "version": "45-1",
+  "depends": [
+    "gcr-4",
+    "gtk3",
+    "gtk4",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "git",
+    "gnome-control-center",
+    "gnome-shell",
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199499291,
+  "transmit": 276812,
+  "disk": 11754199
+}
