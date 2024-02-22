@@ -1,0 +1,19 @@
+{
+  "name": "haskell-zip-archive",
+  "version": "0.4.3-23",
+  "depends": [
+    "ghc-libs",
+    "haskell-digest",
+    "haskell-old-time",
+    "haskell-temporary",
+    "haskell-zlib"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "unzip"
+  ],
+  "receive": 199533245,
+  "transmit": 275753,
+  "disk": 453087
+}
