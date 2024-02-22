@@ -1,0 +1,28 @@
+{
+  "name": "borg",
+  "version": "1.2.7-1",
+  "depends": [
+    "acl",
+    "lz4",
+    "openssl",
+    "xz",
+    "zstd",
+    "python",
+    "python-packaging",
+    "python-msgpack"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-pkgconfig",
+    "python-sphinx",
+    "python-guzzle-sphinx-theme",
+    "python-wheel",
+    "cython"
+  ],
+  "receive": 199608504,
+  "transmit": 272430,
+  "disk": 21823775
+}
