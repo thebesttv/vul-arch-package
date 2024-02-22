@@ -1,0 +1,13 @@
+{
+  "name": "yamlfmt",
+  "version": "0.10.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199520324,
+  "transmit": 244670,
+  "disk": 302328
+}
