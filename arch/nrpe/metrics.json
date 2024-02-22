@@ -1,0 +1,14 @@
+{
+  "name": "nrpe",
+  "version": "4.1.0-3",
+  "depends": [
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [
+    "procps-ng"
+  ],
+  "receive": 199708415,
+  "transmit": 403093,
+  "disk": 1838341
+}
