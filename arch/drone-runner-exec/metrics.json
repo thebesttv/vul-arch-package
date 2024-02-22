@@ -1,0 +1,14 @@
+{
+  "name": "drone-runner-exec",
+  "version": "1.0.0.beta.10-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199544412,
+  "transmit": 294638,
+  "disk": 847760
+}
