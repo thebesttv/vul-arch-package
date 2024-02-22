@@ -1,0 +1,11 @@
+{
+  "name": "fbset",
+  "version": "2.1-10",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199583841,
+  "transmit": 376528,
+  "disk": 242770
+}
