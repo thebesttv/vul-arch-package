@@ -1,0 +1,16 @@
+{
+  "name": "libquvi",
+  "version": "0.9.4-7",
+  "depends": [
+    "libquvi-scripts",
+    "curl",
+    "lua52",
+    "libproxy",
+    "libgcrypt",
+    "glib2"
+  ],
+  "makedepends": [],
+  "receive": 199981726,
+  "transmit": 341301,
+  "disk": 3623019
+}
