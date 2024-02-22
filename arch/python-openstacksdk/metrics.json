@@ -1,0 +1,26 @@
+{
+  "name": "python-openstacksdk",
+  "version": "2.1.0-1",
+  "depends": [
+    "python-cryptography",
+    "python-decorator",
+    "python-dogpile.cache",
+    "python-iso8601",
+    "python-jmespath",
+    "python-jsonpatch",
+    "python-keystoneauth1",
+    "python-netifaces",
+    "python-os-service-types",
+    "python-pbr",
+    "python-platformdirs",
+    "python-yaml",
+    "python-requestsexceptions"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 209677201,
+  "transmit": 437217,
+  "disk": 29564754
+}
