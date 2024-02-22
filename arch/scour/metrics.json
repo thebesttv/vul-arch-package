@@ -1,0 +1,14 @@
+{
+  "name": "scour",
+  "version": "0.38.2-3",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199764480,
+  "transmit": 473767,
+  "disk": 7328204
+}
