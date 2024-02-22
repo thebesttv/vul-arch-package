@@ -1,0 +1,20 @@
+{
+  "name": "solid5",
+  "version": "5.115.0-1",
+  "depends": [
+    "qt5-base",
+    "media-player-info",
+    "upower",
+    "udisks2"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "qt5-doc",
+    "doxygen",
+    "qt5-declarative"
+  ],
+  "receive": 199542914,
+  "transmit": 259615,
+  "disk": 4841066
+}
