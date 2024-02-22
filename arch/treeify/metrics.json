@@ -1,0 +1,13 @@
+{
+  "name": "treeify",
+  "version": "r7958.90292b20-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199667098,
+  "transmit": 426880,
+  "disk": 32067218
+}
