@@ -1,0 +1,11 @@
+{
+  "name": "vim-supertab",
+  "version": "2.1-5",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199564169,
+  "transmit": 277073,
+  "disk": 200116
+}
