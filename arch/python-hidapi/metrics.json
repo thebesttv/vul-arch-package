@@ -1,0 +1,16 @@
+{
+  "name": "python-hidapi",
+  "version": "0.14.0-1",
+  "depends": [
+    "python",
+    "hidapi"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools",
+    "udev"
+  ],
+  "receive": 199566637,
+  "transmit": 275228,
+  "disk": 1039823
+}
