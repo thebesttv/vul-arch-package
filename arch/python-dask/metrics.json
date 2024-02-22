@@ -1,0 +1,26 @@
+{
+  "name": "python-dask",
+  "version": "2023.8.0-1",
+  "depends": [
+    "mpdecimal",
+    "python",
+    "python-click",
+    "python-cloudpickle",
+    "python-fsspec",
+    "python-importlib-metadata",
+    "python-packaging",
+    "python-partd",
+    "python-pyyaml",
+    "python-toolz"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-versioneer",
+    "python-wheel"
+  ],
+  "receive": 199676912,
+  "transmit": 426112,
+  "disk": 24291820
+}
