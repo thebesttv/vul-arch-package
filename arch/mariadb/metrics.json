@@ -1,0 +1,28 @@
+{
+  "name": "mariadb",
+  "version": "11.3.2-1",
+  "depends": [],
+  "makedepends": [
+    "boost",
+    "bzip2",
+    "cmake",
+    "cracklib",
+    "curl",
+    "jemalloc",
+    "judy",
+    "krb5",
+    "liburing",
+    "libxcrypt",
+    "libxml2",
+    "lz4",
+    "openssl",
+    "pcre2",
+    "systemd",
+    "zlib",
+    "zstd",
+    "xz"
+  ],
+  "receive": 307556657,
+  "transmit": 636485,
+  "disk": 748523185
+}
