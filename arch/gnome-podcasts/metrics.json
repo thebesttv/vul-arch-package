@@ -1,0 +1,18 @@
+{
+  "name": "gnome-podcasts",
+  "version": "0.6.1-1",
+  "depends": [
+    "gst-plugins-bad",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gtk4",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "meson",
+    "rust"
+  ],
+  "receive": 200471460,
+  "transmit": 410937,
+  "disk": 14079787
+}
