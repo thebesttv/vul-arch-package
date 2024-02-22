@@ -1,0 +1,15 @@
+{
+  "name": "slimevolley",
+  "version": "2.4.2-5",
+  "depends": [
+    "sdl_net",
+    "sdl_ttf",
+    "sdl_image"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200170342,
+  "transmit": 559245,
+  "disk": 7011132
+}
