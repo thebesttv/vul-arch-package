@@ -1,0 +1,13 @@
+{
+  "name": "piep",
+  "version": "0.10.0-1",
+  "depends": [
+    "python-pygments"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199664298,
+  "transmit": 418350,
+  "disk": 195131
+}
