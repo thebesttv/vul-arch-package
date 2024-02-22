@@ -1,0 +1,24 @@
+{
+  "name": "libmirage",
+  "version": "3.2.7-1",
+  "depends": [
+    "bzip2",
+    "glib2",
+    "libsamplerate",
+    "libsndfile",
+    "shared-mime-info",
+    "xz",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "gobject-introspection",
+    "gtk-doc",
+    "intltool",
+    "ninja",
+    "vala"
+  ],
+  "receive": 199655712,
+  "transmit": 402675,
+  "disk": 2432934
+}
