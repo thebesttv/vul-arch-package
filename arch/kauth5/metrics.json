@@ -1,0 +1,17 @@
+{
+  "name": "kauth5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kcoreaddons5",
+    "polkit-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "qt5-doc",
+    "doxygen"
+  ],
+  "receive": 199689272,
+  "transmit": 351614,
+  "disk": 24570066
+}
