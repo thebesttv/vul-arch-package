@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libcap",
+  "version": "2.69-1",
+  "depends": [
+    "libcap=2.69",
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "lib32-pam"
+  ],
+  "makedepends": [
+    "linux-api-headers"
+  ],
+  "receive": 199944573,
+  "transmit": 432619,
+  "disk": 1247242
+}
