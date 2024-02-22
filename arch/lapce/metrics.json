@@ -1,0 +1,21 @@
+{
+  "name": "lapce",
+  "version": "0.3.1-1",
+  "depends": [
+    "expat",
+    "fontconfig",
+    "freetype2",
+    "gcc-libs",
+    "gtk3",
+    "libxcb",
+    "libxkbcommon"
+  ],
+  "makedepends": [
+    "cargo",
+    "python",
+    "cmake"
+  ],
+  "receive": 199535229,
+  "transmit": 262753,
+  "disk": 6372822
+}
