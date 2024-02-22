@@ -1,0 +1,17 @@
+{
+  "name": "python-pygdbmi",
+  "version": "0.11.0.0-3",
+  "depends": [
+    "gdb",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199730608,
+  "transmit": 447644,
+  "disk": 273073
+}
