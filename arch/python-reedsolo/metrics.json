@@ -1,0 +1,15 @@
+{
+  "name": "python-reedsolo",
+  "version": "1.7.0-2",
+  "depends": [
+    "python",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python",
+    "cython"
+  ],
+  "receive": 199603424,
+  "transmit": 356152,
+  "disk": 404245
+}
