@@ -1,0 +1,14 @@
+{
+  "name": "ansible-language-server",
+  "version": "1.2.1-1",
+  "depends": [
+    "ansible",
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199603233,
+  "transmit": 356632,
+  "disk": 2430494
+}
