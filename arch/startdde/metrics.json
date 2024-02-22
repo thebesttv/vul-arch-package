@@ -1,0 +1,22 @@
+{
+  "name": "startdde",
+  "version": "6.0.13-1",
+  "depends": [
+    "dconf",
+    "glib2",
+    "glibc",
+    "gtk3",
+    "libgnome-keyring",
+    "libgudev",
+    "libx11",
+    "libxi",
+    "deepin-wloutput-daemon"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199593072,
+  "transmit": 342190,
+  "disk": 1706628
+}
