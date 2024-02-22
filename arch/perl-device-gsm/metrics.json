@@ -1,0 +1,11 @@
+{
+  "name": "perl-device-gsm",
+  "version": "1.61-5",
+  "depends": [
+    "perl-device-modem"
+  ],
+  "makedepends": [],
+  "receive": 199699278,
+  "transmit": 437019,
+  "disk": 417362
+}
