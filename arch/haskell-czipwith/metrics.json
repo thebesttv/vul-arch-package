@@ -1,0 +1,13 @@
+{
+  "name": "haskell-czipwith",
+  "version": "1.0.1.4-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199531856,
+  "transmit": 266524,
+  "disk": 133302
+}
