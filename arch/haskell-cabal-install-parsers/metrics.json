@@ -1,0 +1,26 @@
+{
+  "name": "haskell-cabal-install-parsers",
+  "version": "0.4.2-264",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-base16-bytestring",
+    "haskell-binary-instances",
+    "haskell-cryptohash-sha256",
+    "haskell-lukko",
+    "haskell-network-uri",
+    "haskell-tar"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-ansi-terminal",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-hunit",
+    "haskell-tree-diff"
+  ],
+  "receive": 199601006,
+  "transmit": 358922,
+  "disk": 626972
+}
