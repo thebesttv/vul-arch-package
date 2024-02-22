@@ -1,0 +1,18 @@
+{
+  "name": "haskell-hspec-golden",
+  "version": "0.2.1.0-18",
+  "depends": [
+    "ghc-libs",
+    "haskell-hspec-core",
+    "haskell-optparse-applicative"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-silently"
+  ],
+  "receive": 199576288,
+  "transmit": 345216,
+  "disk": 288830
+}
