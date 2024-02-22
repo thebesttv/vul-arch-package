@@ -1,0 +1,15 @@
+{
+  "name": "python-pytest-cov",
+  "version": "4.1.0-1",
+  "depends": [
+    "python-coverage",
+    "python-pytest",
+    "python-tomli"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199665769,
+  "transmit": 391301,
+  "disk": 429995
+}
