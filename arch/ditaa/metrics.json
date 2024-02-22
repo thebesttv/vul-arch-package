@@ -1,0 +1,12 @@
+{
+  "name": "ditaa",
+  "version": "0.11.0-3",
+  "depends": [
+    "gsfonts",
+    "java-runtime"
+  ],
+  "makedepends": [],
+  "receive": 212306651,
+  "transmit": 377919,
+  "disk": 39643662
+}
