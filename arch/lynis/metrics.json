@@ -1,0 +1,12 @@
+{
+  "name": "lynis",
+  "version": "3.0.9-1",
+  "depends": [
+    "sh",
+    "awk"
+  ],
+  "makedepends": [],
+  "receive": 199975769,
+  "transmit": 424940,
+  "disk": 2276996
+}
