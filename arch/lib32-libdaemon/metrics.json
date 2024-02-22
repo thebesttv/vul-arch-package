@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libdaemon",
+  "version": "0.14-8",
+  "depends": [
+    "lib32-glibc",
+    "libdaemon"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 200146025,
+  "transmit": 637521,
+  "disk": 1896480
+}
