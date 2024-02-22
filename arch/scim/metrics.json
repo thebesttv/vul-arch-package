@@ -1,0 +1,14 @@
+{
+  "name": "scim",
+  "version": "1.4.18-4",
+  "depends": [
+    "libltdl",
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199602161,
+  "transmit": 353972,
+  "disk": 8122205
+}
