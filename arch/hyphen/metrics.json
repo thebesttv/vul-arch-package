@@ -1,0 +1,12 @@
+{
+  "name": "hyphen",
+  "version": "2.8.8-5",
+  "depends": [],
+  "makedepends": [
+    "glibc",
+    "perl"
+  ],
+  "receive": 200233707,
+  "transmit": 444933,
+  "disk": 2567994
+}
