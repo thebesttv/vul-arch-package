@@ -1,0 +1,19 @@
+{
+  "name": "ruby-pycall",
+  "version": "1.5.1-1",
+  "depends": [
+    "ruby",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rake",
+    "ruby-rake-compiler",
+    "ruby-rspec",
+    "ruby-pry",
+    "ruby-pry-byebug"
+  ],
+  "receive": 199534873,
+  "transmit": 281642,
+  "disk": 5504880
+}
