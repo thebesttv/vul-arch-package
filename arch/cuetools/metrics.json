@@ -1,0 +1,11 @@
+{
+  "name": "cuetools",
+  "version": "1.4.1-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199518217,
+  "transmit": 251859,
+  "disk": 268799
+}
