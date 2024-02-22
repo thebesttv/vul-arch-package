@@ -1,0 +1,17 @@
+{
+  "name": "opengl-man-pages",
+  "version": "20190725-3",
+  "depends": [],
+  "makedepends": [
+    "docbook5-xml",
+    "docbook-xsl",
+    "libxslt",
+    "docbook-mathml",
+    "w3c-mathml2",
+    "python",
+    "git"
+  ],
+  "receive": 210681327,
+  "transmit": 309458,
+  "disk": 64050953
+}
