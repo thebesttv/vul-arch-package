@@ -1,0 +1,11 @@
+{
+  "name": "ruby-rspec-memory",
+  "version": "1.0.4-1",
+  "depends": [
+    "ruby-rspec"
+  ],
+  "makedepends": [],
+  "receive": 199710636,
+  "transmit": 396244,
+  "disk": 157176
+}
