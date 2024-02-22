@@ -1,0 +1,11 @@
+{
+  "name": "monit",
+  "version": "5.33.0-1",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199804129,
+  "transmit": 445560,
+  "disk": 8907186
+}
