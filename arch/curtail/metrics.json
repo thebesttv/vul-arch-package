@@ -1,0 +1,19 @@
+{
+  "name": "curtail",
+  "version": "1.8.0-1",
+  "depends": [
+    "gtk4",
+    "libadwaita",
+    "jpegoptim",
+    "oxipng",
+    "pngquant",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "meson"
+  ],
+  "receive": 199566613,
+  "transmit": 349613,
+  "disk": 1149875
+}
