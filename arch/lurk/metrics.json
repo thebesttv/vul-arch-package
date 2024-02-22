@@ -1,0 +1,13 @@
+{
+  "name": "lurk",
+  "version": "0.3.4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199615509,
+  "transmit": 362878,
+  "disk": 704546
+}
