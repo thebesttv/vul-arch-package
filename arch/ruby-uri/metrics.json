@@ -1,0 +1,11 @@
+{
+  "name": "ruby-uri",
+  "version": "0.12.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199522101,
+  "transmit": 269417,
+  "disk": 412704
+}
