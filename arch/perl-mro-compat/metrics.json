@@ -1,0 +1,11 @@
+{
+  "name": "perl-mro-compat",
+  "version": "0.15-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199639628,
+  "transmit": 380252,
+  "disk": 180872
+}
