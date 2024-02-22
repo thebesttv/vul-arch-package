@@ -1,0 +1,23 @@
+{
+  "name": "systemdgenie",
+  "version": "0.99.0-6",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kauth5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kcrash5",
+    "ki18n5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "qt5-base",
+    "systemd"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199590252,
+  "transmit": 354861,
+  "disk": 296474
+}
