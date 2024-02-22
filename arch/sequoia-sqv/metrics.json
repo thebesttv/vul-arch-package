@@ -1,0 +1,20 @@
+{
+  "name": "sequoia-sqv",
+  "version": "1.1.0-1",
+  "depends": [
+    "glibc",
+    "nettle",
+    "libnettle.so",
+    "libhogweed.so",
+    "gcc-libs",
+    "gmp"
+  ],
+  "makedepends": [
+    "git",
+    "cargo",
+    "clang"
+  ],
+  "receive": 199720263,
+  "transmit": 404031,
+  "disk": 563301
+}
