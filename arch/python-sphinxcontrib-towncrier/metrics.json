@@ -1,0 +1,18 @@
+{
+  "name": "python-sphinxcontrib-towncrier",
+  "version": "0.4.0a0-1",
+  "depends": [
+    "python-sphinx",
+    "towncrier"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199641608,
+  "transmit": 389949,
+  "disk": 320421
+}
