@@ -1,0 +1,15 @@
+{
+  "name": "libbpf",
+  "version": "1.3.0-1",
+  "depends": [
+    "glibc",
+    "libelf",
+    "linux-api-headers"
+  ],
+  "makedepends": [
+    "rsync"
+  ],
+  "receive": 199555056,
+  "transmit": 340465,
+  "disk": 5249823
+}
