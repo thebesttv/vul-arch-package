@@ -1,0 +1,15 @@
+{
+  "name": "frugally-deep",
+  "version": "0.15.20-1",
+  "depends": [
+    "functional-plus",
+    "eigen",
+    "nlohmann-json"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199830260,
+  "transmit": 549623,
+  "disk": 1055416
+}
