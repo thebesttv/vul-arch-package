@@ -1,0 +1,14 @@
+{
+  "name": "lockfile-progs",
+  "version": "0.1.19-3",
+  "depends": [
+    "glibc",
+    "liblockfile"
+  ],
+  "makedepends": [
+    "liblockfile"
+  ],
+  "receive": 199701730,
+  "transmit": 413254,
+  "disk": 599151
+}
