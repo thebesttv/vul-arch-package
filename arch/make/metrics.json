@@ -1,0 +1,12 @@
+{
+  "name": "make",
+  "version": "4.4.1-2",
+  "depends": [
+    "glibc",
+    "guile"
+  ],
+  "makedepends": [],
+  "receive": 199619998,
+  "transmit": 373911,
+  "disk": 10308311
+}
