@@ -1,0 +1,13 @@
+{
+  "name": "bingrep",
+  "version": "0.11.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199618078,
+  "transmit": 382455,
+  "disk": 1474234
+}
