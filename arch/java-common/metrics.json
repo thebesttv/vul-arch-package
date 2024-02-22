@@ -1,0 +1,13 @@
+{
+  "name": "java-common",
+  "version": "3-5",
+  "depends": [],
+  "makedepends": [
+    "bash",
+    "findutils",
+    "coreutils"
+  ],
+  "receive": 199517352,
+  "transmit": 272554,
+  "disk": 449363
+}
