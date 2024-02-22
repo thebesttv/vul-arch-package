@@ -1,0 +1,23 @@
+{
+  "name": "haskell-with-utf8",
+  "version": "1.1.0.0-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-safe-exceptions",
+    "haskell-th-env"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit",
+    "haskell-hedgehog",
+    "haskell-tasty",
+    "haskell-tasty-discover",
+    "haskell-tasty-hedgehog",
+    "haskell-tasty-hunit",
+    "haskell-temporary"
+  ],
+  "receive": 199678178,
+  "transmit": 420172,
+  "disk": 417095
+}
