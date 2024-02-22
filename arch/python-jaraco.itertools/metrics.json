@@ -1,0 +1,20 @@
+{
+  "name": "python-jaraco.itertools",
+  "version": "6.4.1-1",
+  "depends": [
+    "python",
+    "python-inflect",
+    "python-more-itertools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 199710708,
+  "transmit": 420996,
+  "disk": 181764
+}
