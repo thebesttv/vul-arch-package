@@ -1,0 +1,14 @@
+{
+  "name": "haskell-zlib-bindings",
+  "version": "0.1.1.5-154",
+  "depends": [
+    "ghc-libs",
+    "haskell-zlib"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199522797,
+  "transmit": 316943,
+  "disk": 466181
+}
