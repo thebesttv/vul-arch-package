@@ -1,0 +1,13 @@
+{
+  "name": "hexer-hobu",
+  "version": "1.4.0-11",
+  "depends": [
+    "gdal"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200499793,
+  "transmit": 817097,
+  "disk": 1283531
+}
