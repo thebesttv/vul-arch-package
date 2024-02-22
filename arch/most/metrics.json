@@ -1,0 +1,11 @@
+{
+  "name": "most",
+  "version": "5.2.0-1",
+  "depends": [
+    "slang"
+  ],
+  "makedepends": [],
+  "receive": 199501294,
+  "transmit": 257855,
+  "disk": 1534564
+}
