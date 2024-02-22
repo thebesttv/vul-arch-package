@@ -1,0 +1,14 @@
+{
+  "name": "python-argcomplete",
+  "version": "2.0.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 200498045,
+  "transmit": 849682,
+  "disk": 4979052
+}
