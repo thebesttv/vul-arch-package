@@ -1,0 +1,17 @@
+{
+  "name": "urlscan",
+  "version": "1.0.1-1",
+  "depends": [
+    "python-urwid"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-vcs",
+    "python-hatchling",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199527617,
+  "transmit": 282235,
+  "disk": 261776
+}
