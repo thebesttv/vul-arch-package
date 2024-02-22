@@ -1,0 +1,31 @@
+{
+  "name": "polybar",
+  "version": "3.7.1-1",
+  "depends": [
+    "libuv",
+    "cairo",
+    "xcb-util-image",
+    "xcb-util-wm",
+    "xcb-util-xrm",
+    "xcb-util-cursor",
+    "alsa-lib",
+    "libpulse",
+    "libmpdclient",
+    "libnl",
+    "jsoncpp",
+    "curl"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "pkg-config",
+    "python-sphinx",
+    "python-packaging",
+    "i3-wm",
+    "ninja",
+    "git"
+  ],
+  "receive": 199654041,
+  "transmit": 410970,
+  "disk": 2820480
+}
