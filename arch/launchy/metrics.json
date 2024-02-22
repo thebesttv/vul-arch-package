@@ -1,0 +1,17 @@
+{
+  "name": "launchy",
+  "version": "2.9.1pre.1-2",
+  "depends": [
+    "qt5-x11extras",
+    "qt5-declarative",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "qt5-tools",
+    "boost",
+    "cmake"
+  ],
+  "receive": 199551732,
+  "transmit": 303234,
+  "disk": 30365668
+}
