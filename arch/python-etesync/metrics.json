@@ -1,0 +1,30 @@
+{
+  "name": "python-etesync",
+  "version": "0.12.1-4",
+  "depends": [
+    "python-appdirs",
+    "python-asn1crypto",
+    "python-cffi",
+    "python-cryptography",
+    "python-dateutil",
+    "python-furl",
+    "python-idna",
+    "python-orderedmultidict",
+    "python-packaging",
+    "python-peewee",
+    "python-py",
+    "python-pyasn1",
+    "python-pycparser",
+    "python-pyparsing",
+    "python-pytz",
+    "python-requests",
+    "python-six",
+    "python-vobject"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199709976,
+  "transmit": 452264,
+  "disk": 227352
+}
