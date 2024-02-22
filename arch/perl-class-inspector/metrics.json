@@ -1,0 +1,11 @@
+{
+  "name": "perl-class-inspector",
+  "version": "1.36-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199530789,
+  "transmit": 266238,
+  "disk": 252389
+}
