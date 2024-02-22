@@ -1,0 +1,19 @@
+{
+  "name": "bandit",
+  "version": "1.7.7-1",
+  "depends": [
+    "python-yaml",
+    "python-stevedore",
+    "python-six",
+    "python-pbr",
+    "python-gitpython",
+    "python-rich"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 199588619,
+  "transmit": 378720,
+  "disk": 4841587
+}
