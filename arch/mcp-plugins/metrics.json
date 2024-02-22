@@ -1,0 +1,13 @@
+{
+  "name": "mcp-plugins",
+  "version": "0.4.0-6",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "ladspa"
+  ],
+  "receive": 199514062,
+  "transmit": 275346,
+  "disk": 235511
+}
