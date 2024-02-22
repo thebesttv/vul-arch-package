@@ -1,0 +1,16 @@
+{
+  "name": "birdfont",
+  "version": "2.32.3-1",
+  "depends": [
+    "libgee",
+    "libxmlbird",
+    "webkit2gtk"
+  ],
+  "makedepends": [
+    "python",
+    "vala"
+  ],
+  "receive": 199509760,
+  "transmit": 259249,
+  "disk": 18244402
+}
