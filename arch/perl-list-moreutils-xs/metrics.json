@@ -1,0 +1,11 @@
+{
+  "name": "perl-list-moreutils-xs",
+  "version": "0.430-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199536000,
+  "transmit": 289367,
+  "disk": 1026598
+}
