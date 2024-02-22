@@ -1,0 +1,11 @@
+{
+  "name": "perl-tie-ixhash",
+  "version": "1.23-5",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [],
+  "receive": 199671323,
+  "transmit": 424090,
+  "disk": 138531
+}
