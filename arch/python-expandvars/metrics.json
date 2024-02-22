@@ -1,0 +1,15 @@
+{
+  "name": "python-expandvars",
+  "version": "0.12.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199579122,
+  "transmit": 345394,
+  "disk": 155985
+}
