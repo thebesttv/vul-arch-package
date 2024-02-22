@@ -1,0 +1,31 @@
+{
+  "name": "php",
+  "version": "8.3.3-1",
+  "depends": [],
+  "makedepends": [
+    "apache",
+    "aspell",
+    "enchant",
+    "gd",
+    "gmp",
+    "icu",
+    "libsodium",
+    "libxslt",
+    "libzip",
+    "net-snmp",
+    "postgresql-libs",
+    "sqlite",
+    "systemd",
+    "tidy",
+    "unixodbc",
+    "curl",
+    "libtool",
+    "postfix",
+    "freetds",
+    "pcre2",
+    "oniguruma"
+  ],
+  "receive": 212575618,
+  "transmit": 352163,
+  "disk": 162878176
+}
