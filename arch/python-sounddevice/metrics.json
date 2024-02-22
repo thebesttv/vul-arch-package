@@ -1,0 +1,14 @@
+{
+  "name": "python-sounddevice",
+  "version": "0.4.6-2",
+  "depends": [
+    "portaudio",
+    "python-cffi"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199523754,
+  "transmit": 291384,
+  "disk": 363081
+}
