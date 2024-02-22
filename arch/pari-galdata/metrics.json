@@ -1,0 +1,11 @@
+{
+  "name": "pari-galdata",
+  "version": "20080412-1",
+  "depends": [
+    "pari"
+  ],
+  "makedepends": [],
+  "receive": 199589349,
+  "transmit": 334152,
+  "disk": 321530
+}
