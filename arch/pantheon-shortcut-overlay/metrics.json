@@ -1,0 +1,17 @@
+{
+  "name": "pantheon-shortcut-overlay",
+  "version": "2.0.1-1",
+  "depends": [
+    "glib2",
+    "libgee",
+    "libgranite-7.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199513806,
+  "transmit": 257085,
+  "disk": 5470356
+}
