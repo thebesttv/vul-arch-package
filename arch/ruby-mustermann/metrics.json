@@ -1,0 +1,12 @@
+{
+  "name": "ruby-mustermann",
+  "version": "3.0.0-1",
+  "depends": [
+    "ruby",
+    "ruby-ruby2_keywords"
+  ],
+  "makedepends": [],
+  "receive": 199532859,
+  "transmit": 260410,
+  "disk": 1194590
+}
