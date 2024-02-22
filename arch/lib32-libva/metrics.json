@@ -1,0 +1,22 @@
+{
+  "name": "lib32-libva",
+  "version": "2.20.0-1",
+  "depends": [
+    "lib32-libdrm",
+    "lib32-libgl",
+    "lib32-libx11",
+    "lib32-libxext",
+    "lib32-libxfixes",
+    "lib32-wayland",
+    "libva"
+  ],
+  "makedepends": [
+    "git",
+    "lib32-libglvnd",
+    "lib32-mesa",
+    "meson"
+  ],
+  "receive": 199628941,
+  "transmit": 384524,
+  "disk": 11466966
+}
