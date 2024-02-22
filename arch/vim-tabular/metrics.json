@@ -1,0 +1,13 @@
+{
+  "name": "vim-tabular",
+  "version": "1.0.0+5+g339091a-3",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199524602,
+  "transmit": 299629,
+  "disk": 432352
+}
