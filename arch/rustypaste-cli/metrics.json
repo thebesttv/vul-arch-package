@@ -1,0 +1,13 @@
+{
+  "name": "rustypaste-cli",
+  "version": "0.8.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199527249,
+  "transmit": 262201,
+  "disk": 954125
+}
