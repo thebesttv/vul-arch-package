@@ -1,0 +1,14 @@
+{
+  "name": "cppunit",
+  "version": "1.15.1-3",
+  "depends": [
+    "sh",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199796021,
+  "transmit": 403509,
+  "disk": 4649877
+}
