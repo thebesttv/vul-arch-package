@@ -1,0 +1,15 @@
+{
+  "name": "lua-cassowary",
+  "version": "2.3.2-1",
+  "depends": [],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 199610491,
+  "transmit": 315167,
+  "disk": 238159
+}
