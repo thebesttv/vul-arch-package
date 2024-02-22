@@ -1,0 +1,15 @@
+{
+  "name": "sdl_image",
+  "version": "1.2.12-8",
+  "depends": [
+    "sdl>=1.2.13",
+    "libpng",
+    "libjpeg-turbo",
+    "libtiff",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 201829860,
+  "transmit": 339749,
+  "disk": 8658414
+}
