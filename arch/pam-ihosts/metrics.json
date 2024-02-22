@@ -1,0 +1,11 @@
+{
+  "name": "pam-ihosts",
+  "version": "1.6-1",
+  "depends": [
+    "pam"
+  ],
+  "makedepends": [],
+  "receive": 199553390,
+  "transmit": 305894,
+  "disk": 375152
+}
