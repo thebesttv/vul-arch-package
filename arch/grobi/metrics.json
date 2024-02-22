@@ -1,0 +1,11 @@
+{
+  "name": "grobi",
+  "version": "0.6.0-3",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199903534,
+  "transmit": 508070,
+  "disk": 177637
+}
