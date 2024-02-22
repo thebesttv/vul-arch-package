@@ -1,0 +1,13 @@
+{
+  "name": "pgpdump",
+  "version": "0.36-1",
+  "depends": [
+    "glibc",
+    "zlib",
+    "bzip2"
+  ],
+  "makedepends": [],
+  "receive": 199499089,
+  "transmit": 239468,
+  "disk": 480410
+}
