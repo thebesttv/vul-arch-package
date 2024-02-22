@@ -1,0 +1,17 @@
+{
+  "name": "python-slip",
+  "version": "0.6.5-8",
+  "depends": [
+    "polkit",
+    "python-dbus",
+    "python-decorator",
+    "python-gobject",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199728459,
+  "transmit": 437528,
+  "disk": 253582
+}
