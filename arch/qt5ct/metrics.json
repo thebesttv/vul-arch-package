@@ -1,0 +1,17 @@
+{
+  "name": "qt5ct",
+  "version": "1.8-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt5-base",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools"
+  ],
+  "receive": 200631159,
+  "transmit": 1084882,
+  "disk": 1710278
+}
