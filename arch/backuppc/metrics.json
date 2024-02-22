@@ -1,0 +1,24 @@
+{
+  "name": "backuppc",
+  "version": "4.4.0-7",
+  "depends": [
+    "glibc",
+    "popt",
+    "perl",
+    "par2cmdline",
+    "perl-archive-zip",
+    "perl-io-dirent",
+    "perl-file-listing",
+    "perl-time-modules",
+    "perl-cgi",
+    "perl-xml-rss",
+    "perl-json-xs",
+    "smtp-forwarder"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199587766,
+  "transmit": 326468,
+  "disk": 9172957
+}
