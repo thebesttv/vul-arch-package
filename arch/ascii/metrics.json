@@ -1,0 +1,11 @@
+{
+  "name": "ascii",
+  "version": "3.18-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199621003,
+  "transmit": 379416,
+  "disk": 157125
+}
