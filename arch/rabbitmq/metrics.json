@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq",
+  "version": "3.12.10-1",
+  "depends": [],
+  "makedepends": [
+    "zip",
+    "unzip",
+    "libxslt",
+    "xmlto",
+    "systemd",
+    "elixir",
+    "python",
+    "python-simplejson",
+    "rsync",
+    "util-linux",
+    "inetutils",
+    "erlang-nox",
+    "socat"
+  ],
+  "receive": 199598015,
+  "transmit": 326806,
+  "disk": 35264531
+}
