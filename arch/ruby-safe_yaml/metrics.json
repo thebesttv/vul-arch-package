@@ -1,0 +1,15 @@
+{
+  "name": "ruby-safe_yaml",
+  "version": "1.0.5-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 199533926,
+  "transmit": 279240,
+  "disk": 245189
+}
