@@ -1,0 +1,14 @@
+{
+  "name": "dtkcommon",
+  "version": "5.6.21-1",
+  "depends": [
+    "dconf"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199657858,
+  "transmit": 400269,
+  "disk": 215458
+}
