@@ -1,0 +1,17 @@
+{
+  "name": "python-aiostream",
+  "version": "0.5.2-1",
+  "depends": [
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199538163,
+  "transmit": 252714,
+  "disk": 836966
+}
