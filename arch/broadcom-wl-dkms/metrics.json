@@ -1,0 +1,11 @@
+{
+  "name": "broadcom-wl-dkms",
+  "version": "6.30.223.271-36",
+  "depends": [
+    "dkms"
+  ],
+  "makedepends": [],
+  "receive": 199781465,
+  "transmit": 395884,
+  "disk": 11099209
+}
