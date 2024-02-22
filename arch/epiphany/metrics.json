@@ -1,0 +1,26 @@
+{
+  "name": "epiphany",
+  "version": "45.2-1",
+  "depends": [
+    "gcr-4",
+    "gstreamer",
+    "gtk4",
+    "libadwaita",
+    "libarchive",
+    "libportal-gtk4",
+    "libsoup3",
+    "webkitgtk-6.0"
+  ],
+  "makedepends": [
+    "docbook-xml",
+    "git",
+    "gobject-introspection",
+    "lsb-release",
+    "meson",
+    "startup-notification",
+    "yelp-tools"
+  ],
+  "receive": 290314183,
+  "transmit": 763726,
+  "disk": 117719494
+}
