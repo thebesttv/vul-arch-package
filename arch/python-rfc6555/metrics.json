@@ -1,0 +1,13 @@
+{
+  "name": "python-rfc6555",
+  "version": "0.1.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199588306,
+  "transmit": 362689,
+  "disk": 141403
+}
