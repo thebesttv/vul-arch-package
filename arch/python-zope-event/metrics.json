@@ -1,0 +1,13 @@
+{
+  "name": "python-zope-event",
+  "version": "5.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199553598,
+  "transmit": 307818,
+  "disk": 193623
+}
