@@ -1,0 +1,34 @@
+{
+  "name": "alice-vision",
+  "version": "3.2.0-7",
+  "depends": [
+    "boost-libs",
+    "openimageio",
+    "flann",
+    "geogram",
+    "coin-or-clp",
+    "ceres-solver",
+    "cctag",
+    "alembic",
+    "opengv",
+    "opencv",
+    "popsift",
+    "uncertainty-framework",
+    "assimp"
+  ],
+  "makedepends": [
+    "boost",
+    "ninja",
+    "eigen",
+    "freetype2",
+    "coin-or-coinutils",
+    "coin-or-lemon",
+    "git",
+    "cmake",
+    "doxygen",
+    "python-sphinx"
+  ],
+  "receive": 260790550,
+  "transmit": 676126,
+  "disk": 124535510
+}
