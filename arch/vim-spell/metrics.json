@@ -1,0 +1,11 @@
+{
+  "name": "vim-spell",
+  "version": "20200604-4",
+  "depends": [
+    "vim"
+  ],
+  "makedepends": [],
+  "receive": 442102255,
+  "transmit": 1680474,
+  "disk": 241069544
+}
