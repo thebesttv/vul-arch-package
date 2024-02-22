@@ -1,0 +1,14 @@
+{
+  "name": "python-secretstorage",
+  "version": "3.3.3-2",
+  "depends": [
+    "python-cryptography",
+    "python-jeepney"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199621100,
+  "transmit": 374403,
+  "disk": 218079
+}
