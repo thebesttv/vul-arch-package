@@ -1,0 +1,17 @@
+{
+  "name": "zutty",
+  "version": "0.14-2",
+  "depends": [
+    "freetype2",
+    "libglvnd",
+    "libxmu",
+    "xorg-fonts-misc"
+  ],
+  "makedepends": [
+    "git",
+    "python"
+  ],
+  "receive": 199555665,
+  "transmit": 324469,
+  "disk": 2096668
+}
