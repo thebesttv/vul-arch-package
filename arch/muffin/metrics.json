@@ -1,0 +1,26 @@
+{
+  "name": "muffin",
+  "version": "6.0.1-1",
+  "depends": [
+    "cinnamon-desktop",
+    "gobject-introspection-runtime",
+    "libcanberra",
+    "libinput",
+    "libsm",
+    "libxkbcommon-x11",
+    "startup-notification",
+    "zenity",
+    "graphene",
+    "pipewire",
+    "xorg-xwayland"
+  ],
+  "makedepends": [
+    "meson",
+    "intltool",
+    "gobject-introspection",
+    "wayland-protocols"
+  ],
+  "receive": 199671036,
+  "transmit": 368101,
+  "disk": 29441523
+}
