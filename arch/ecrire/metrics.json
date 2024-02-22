@@ -1,0 +1,14 @@
+{
+  "name": "ecrire",
+  "version": "0.2.0-1",
+  "depends": [
+    "efl"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja"
+  ],
+  "receive": 199530133,
+  "transmit": 227778,
+  "disk": 333465
+}
