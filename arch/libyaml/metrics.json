@@ -1,0 +1,11 @@
+{
+  "name": "libyaml",
+  "version": "0.2.5-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199621398,
+  "transmit": 369463,
+  "disk": 3813586
+}
