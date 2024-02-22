@@ -1,0 +1,32 @@
+{
+  "name": "auto-multiple-choice",
+  "version": "1.6.0-2",
+  "depends": [
+    "perl",
+    "perl-gtk3",
+    "perl-glib-object-introspection",
+    "perl-locale-gettext",
+    "perl-xml-writer",
+    "perl-xml-simple",
+    "perl-dbd-sqlite",
+    "perl-file-mimeinfo",
+    "perl-text-csv",
+    "perl-dbi",
+    "perl-archive-zip",
+    "perl-clone",
+    "perl-locale-codes",
+    "ttf-linux-libertine",
+    "texlive-latex",
+    "opencv",
+    "poppler",
+    "poppler-glib"
+  ],
+  "makedepends": [
+    "netpbm",
+    "xorgproto",
+    "libxslt"
+  ],
+  "receive": 199716485,
+  "transmit": 436004,
+  "disk": 79268229
+}
