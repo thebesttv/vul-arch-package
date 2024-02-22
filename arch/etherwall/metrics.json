@@ -1,0 +1,22 @@
+{
+  "name": "etherwall",
+  "version": "3.0.5-5",
+  "depends": [
+    "qt5-declarative",
+    "qt5-graphicaleffects",
+    "qt5-quickcontrols",
+    "qt5-quickcontrols2",
+    "qt5-websockets",
+    "geth",
+    "protobuf",
+    "libhidapi-libusb.so",
+    "libusb",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "hidapi"
+  ],
+  "receive": 199617268,
+  "transmit": 311265,
+  "disk": 5931382
+}
