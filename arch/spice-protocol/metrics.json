@@ -1,0 +1,11 @@
+{
+  "name": "spice-protocol",
+  "version": "0.14.4-1",
+  "depends": [],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199576630,
+  "transmit": 351020,
+  "disk": 238062
+}
