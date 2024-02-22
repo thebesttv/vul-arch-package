@@ -1,0 +1,14 @@
+{
+  "name": "gitlab-exporter",
+  "version": "0.5.1-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199670870,
+  "transmit": 387388,
+  "disk": 6362919
+}
