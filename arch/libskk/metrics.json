@@ -1,0 +1,18 @@
+{
+  "name": "libskk",
+  "version": "1.0.5-2",
+  "depends": [
+    "libgee",
+    "libxkbcommon",
+    "json-glib"
+  ],
+  "makedepends": [
+    "intltool",
+    "gnome-common",
+    "gobject-introspection",
+    "vala"
+  ],
+  "receive": 199621604,
+  "transmit": 358476,
+  "disk": 1358892
+}
