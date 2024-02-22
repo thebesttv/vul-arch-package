@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-dashboards",
+  "version": "2.11.1-1",
+  "depends": [
+    "nodejs-lts-hydrogen"
+  ],
+  "makedepends": [
+    "yarn",
+    "git"
+  ],
+  "receive": 3375591505,
+  "transmit": 5791844,
+  "disk": 3994651466
+}
