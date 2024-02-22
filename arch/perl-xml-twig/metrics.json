@@ -1,0 +1,13 @@
+{
+  "name": "perl-xml-twig",
+  "version": "3.52-11",
+  "depends": [
+    "perl-xml-parser",
+    "perl-text-iconv",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199556841,
+  "transmit": 277411,
+  "disk": 2237834
+}
