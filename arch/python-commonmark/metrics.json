@@ -1,0 +1,19 @@
+{
+  "name": "python-commonmark",
+  "version": "0.9.1-9",
+  "depends": [
+    "python-docutils",
+    "python-future"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-sphinx",
+    "python-sphinx_rtd_theme"
+  ],
+  "receive": 199588371,
+  "transmit": 365336,
+  "disk": 630772
+}
