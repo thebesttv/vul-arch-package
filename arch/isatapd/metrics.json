@@ -1,0 +1,11 @@
+{
+  "name": "isatapd",
+  "version": "0.9.7-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199536592,
+  "transmit": 273176,
+  "disk": 603746
+}
