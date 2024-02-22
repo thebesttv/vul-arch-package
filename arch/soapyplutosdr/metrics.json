@@ -1,0 +1,15 @@
+{
+  "name": "soapyplutosdr",
+  "version": "0.2.1-5",
+  "depends": [
+    "soapysdr",
+    "libiio.so",
+    "libad9361"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199580081,
+  "transmit": 320860,
+  "disk": 211085
+}
