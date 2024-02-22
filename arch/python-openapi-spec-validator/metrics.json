@@ -1,0 +1,19 @@
+{
+  "name": "python-openapi-spec-validator",
+  "version": "0.7.1-1",
+  "depends": [
+    "python",
+    "python-jsonschema",
+    "python-openapi-schema-validator",
+    "python-jsonschema-path",
+    "python-lazy-object-proxy"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199571119,
+  "transmit": 328047,
+  "disk": 722244
+}
