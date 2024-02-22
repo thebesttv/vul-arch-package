@@ -1,0 +1,12 @@
+{
+  "name": "perl-pkgconfig-libpkgconf",
+  "version": "0.11-6",
+  "depends": [
+    "perl",
+    "pkgconf"
+  ],
+  "makedepends": [],
+  "receive": 199590222,
+  "transmit": 285463,
+  "disk": 318981
+}
