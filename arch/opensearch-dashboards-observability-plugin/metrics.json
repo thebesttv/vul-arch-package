@@ -1,0 +1,17 @@
+{
+  "name": "opensearch-dashboards-observability-plugin",
+  "version": "2.11.1.0-1",
+  "depends": [
+    "opensearch-dashboards=2.11.1",
+    "gnuplot"
+  ],
+  "makedepends": [
+    "yarn",
+    "npm",
+    "python",
+    "git"
+  ],
+  "receive": 3443700474,
+  "transmit": 4386195,
+  "disk": 4093948581
+}
