@@ -1,0 +1,13 @@
+{
+  "name": "unlambda",
+  "version": "0.1.4.2-9",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199530463,
+  "transmit": 270493,
+  "disk": 132293
+}
