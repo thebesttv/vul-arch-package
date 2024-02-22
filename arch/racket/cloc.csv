@@ -1,0 +1,45 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=7.27 s (1240.2 files/s 377044.9 lines/s)"
+7093,Racket,164036,83515,1121781
+345,Scheme,13068,13555,392422
+458,C,48135,29390,267162
+74,PHP,2235,4240,124357
+158,Text,6880,0,104813
+34,Bourne Shell,11147,12467,77646
+124,HTML,5629,2030,67173
+193,C/C++ Header,8071,10552,51535
+63,m4,2388,237,21084
+74,TeX,1893,4490,17710
+55,Assembly,2314,4664,11849
+41,XML,21,34,10808
+8,MSBuild script,1,0,4863
+14,Expect,166,307,3304
+38,Windows Module Definition,77,102,2721
+36,Markdown,752,0,2616
+30,CSS,704,304,2527
+11,Pascal,756,2874,2196
+15,C++,719,458,2178
+10,Ada,599,560,1681
+6,JavaScript,129,154,1266
+28,make,256,213,967
+9,C#,230,506,879
+35,diff,144,641,850
+9,Visual Studio Solution,7,8,724
+7,Fortran 77,14,0,660
+8,WiX source,22,0,630
+1,R,18,0,628
+1,zsh,37,47,527
+10,Windows Resource File,76,108,438
+3,C Shell,71,59,416
+12,DOS Batch,100,20,297
+2,Perl,91,117,277
+2,Python,68,16,271
+1,CMake,27,31,155
+1,Bourne Again Shell,21,24,138
+3,SaltStack,3,0,108
+2,IDL,9,0,86
+1,SAS,14,22,32
+1,NAnt script,7,0,26
+1,SVG,0,1,16
+1,PowerShell,5,16,9
+3,CSV,0,0,8
+9021,SUM,270940,171762,2299834

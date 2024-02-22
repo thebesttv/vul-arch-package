@@ -1,0 +1,14 @@
+{
+  "name": "racket",
+  "version": "8.11.1-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "gsfonts",
+    "sqlite"
+  ],
+  "receive": 233753752,
+  "transmit": 406508,
+  "disk": 183584097
+}
