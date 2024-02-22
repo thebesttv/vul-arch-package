@@ -1,0 +1,15 @@
+{
+  "name": "libopencm3",
+  "version": "r2848.8bc48374-1",
+  "depends": [
+    "arm-none-eabi-newlib"
+  ],
+  "makedepends": [
+    "git",
+    "arm-none-eabi-gcc",
+    "python-yaml"
+  ],
+  "receive": 199508316,
+  "transmit": 241939,
+  "disk": 25976057
+}
