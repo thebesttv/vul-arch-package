@@ -1,0 +1,11 @@
+{
+  "name": "ruby-permessage_deflate",
+  "version": "0.1.4-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199519182,
+  "transmit": 232512,
+  "disk": 146273
+}
