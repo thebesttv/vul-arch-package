@@ -1,0 +1,40 @@
+{
+  "name": "gnome-boxes",
+  "version": "45.0-1",
+  "depends": [
+    "cairo",
+    "cdrtools",
+    "dconf",
+    "edk2-ovmf",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "hicolor-icon-theme",
+    "libarchive",
+    "libgudev",
+    "libhandy",
+    "libosinfo",
+    "libsecret",
+    "libsoup3",
+    "libusb",
+    "libvirt-glib",
+    "libxml2",
+    "mtools",
+    "qemu-desktop",
+    "spice-gtk",
+    "tracker3",
+    "webkit2gtk-4.1",
+    "xdg-user-dirs"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "gobject-introspection",
+    "meson",
+    "spice-protocol",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199550135,
+  "transmit": 289579,
+  "disk": 11288024
+}
