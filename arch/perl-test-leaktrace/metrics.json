@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-leaktrace",
+  "version": "0.17-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199715703,
+  "transmit": 420789,
+  "disk": 299210
+}
