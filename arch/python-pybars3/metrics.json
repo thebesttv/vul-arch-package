@@ -1,0 +1,14 @@
+{
+  "name": "python-pybars3",
+  "version": "0.9.7-8",
+  "depends": [
+    "python",
+    "python-pymeta3"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199669349,
+  "transmit": 416190,
+  "disk": 270023
+}
