@@ -1,0 +1,19 @@
+{
+  "name": "haskell-html-parse",
+  "version": "0.2.1.0-11",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-quickcheck-instances",
+    "haskell-string-conversions"
+  ],
+  "receive": 199848557,
+  "transmit": 499166,
+  "disk": 400949
+}
