@@ -1,0 +1,16 @@
+{
+  "name": "python-tomli-w",
+  "version": "1.0.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199676668,
+  "transmit": 405093,
+  "disk": 888085
+}
