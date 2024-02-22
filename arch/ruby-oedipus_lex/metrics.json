@@ -1,0 +1,13 @@
+{
+  "name": "ruby-oedipus_lex",
+  "version": "2.6.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-hoe"
+  ],
+  "receive": 199596228,
+  "transmit": 348598,
+  "disk": 194413
+}
