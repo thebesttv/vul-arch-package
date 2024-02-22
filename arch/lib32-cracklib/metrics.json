@@ -1,0 +1,14 @@
+{
+  "name": "lib32-cracklib",
+  "version": "2.9.11-1",
+  "depends": [
+    "cracklib",
+    "lib32-zlib"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199629257,
+  "transmit": 377124,
+  "disk": 23638398
+}
