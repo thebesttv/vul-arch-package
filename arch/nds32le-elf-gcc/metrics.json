@@ -1,0 +1,19 @@
+{
+  "name": "nds32le-elf-gcc",
+  "version": "12.2.0-1",
+  "depends": [
+    "nds32le-elf-binutils",
+    "zlib",
+    "libmpc",
+    "libisl",
+    "zstd"
+  ],
+  "makedepends": [
+    "gmp",
+    "mpfr",
+    "nds32le-elf-newlib"
+  ],
+  "receive": 286143654,
+  "transmit": 1540521,
+  "disk": 758699102
+}
