@@ -1,0 +1,15 @@
+{
+  "name": "rime-wugniu",
+  "version": "0.0.0.20190120-1",
+  "depends": [
+    "rime-luna-pinyin"
+  ],
+  "makedepends": [
+    "librime",
+    "rime-prelude",
+    "rime-essay"
+  ],
+  "receive": 199563507,
+  "transmit": 333117,
+  "disk": 958865
+}
