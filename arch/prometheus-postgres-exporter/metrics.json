@@ -1,0 +1,14 @@
+{
+  "name": "prometheus-postgres-exporter",
+  "version": "0.15.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199537457,
+  "transmit": 278547,
+  "disk": 670815
+}
