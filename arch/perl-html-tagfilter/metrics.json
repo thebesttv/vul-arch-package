@@ -1,0 +1,15 @@
+{
+  "name": "perl-html-tagfilter",
+  "version": "1.03-15",
+  "depends": [
+    "perl-uri",
+    "perl-html-parser"
+  ],
+  "makedepends": [
+    "perl-uri",
+    "perl-html-parser"
+  ],
+  "receive": 199653931,
+  "transmit": 413506,
+  "disk": 172692
+}
