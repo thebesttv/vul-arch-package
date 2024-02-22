@@ -1,0 +1,21 @@
+{
+  "name": "gucharmap",
+  "version": "15.1.1-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "appdata-tools",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "unicode-character-database",
+    "unzip",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199668746,
+  "transmit": 367587,
+  "disk": 30777185
+}
