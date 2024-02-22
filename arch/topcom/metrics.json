@@ -1,0 +1,11 @@
+{
+  "name": "topcom",
+  "version": "1.1.2-1",
+  "depends": [
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 199648594,
+  "transmit": 380885,
+  "disk": 44032596
+}
