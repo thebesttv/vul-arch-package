@@ -1,0 +1,17 @@
+{
+  "name": "python-reactivex",
+  "version": "4.0.4-3",
+  "depends": [
+    "python",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-poetry-core",
+    "python-installer"
+  ],
+  "receive": 211872372,
+  "transmit": 485958,
+  "disk": 107364823
+}
