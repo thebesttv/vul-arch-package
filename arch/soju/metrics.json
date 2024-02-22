@@ -1,0 +1,16 @@
+{
+  "name": "soju",
+  "version": "0.7.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "scdoc",
+    "sqlite"
+  ],
+  "receive": 199737473,
+  "transmit": 491452,
+  "disk": 2594514
+}
