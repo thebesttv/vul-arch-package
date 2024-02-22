@@ -1,0 +1,17 @@
+{
+  "name": "telepathy-glib",
+  "version": "0.24.2-3",
+  "depends": [
+    "dbus",
+    "dbus-glib",
+    "glib2",
+    "glibc"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "vala"
+  ],
+  "receive": 199516177,
+  "transmit": 287714,
+  "disk": 33587600
+}
