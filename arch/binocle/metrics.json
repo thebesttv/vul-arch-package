@@ -1,0 +1,13 @@
+{
+  "name": "binocle",
+  "version": "0.3.2-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199559803,
+  "transmit": 286591,
+  "disk": 4692045
+}
