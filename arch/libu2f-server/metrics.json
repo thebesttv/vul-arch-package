@@ -1,0 +1,16 @@
+{
+  "name": "libu2f-server",
+  "version": "1.1.0-5",
+  "depends": [
+    "openssl",
+    "json-c"
+  ],
+  "makedepends": [
+    "check",
+    "gengetopt",
+    "help2man"
+  ],
+  "receive": 199527605,
+  "transmit": 296618,
+  "disk": 2095696
+}
