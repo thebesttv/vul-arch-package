@@ -1,0 +1,20 @@
+{
+  "name": "python-flake8-black",
+  "version": "0.3.6-2",
+  "depends": [
+    "python",
+    "flake8",
+    "python-black",
+    "python-tomli"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199518577,
+  "transmit": 314805,
+  "disk": 561499
+}
