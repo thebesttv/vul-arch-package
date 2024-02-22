@@ -1,0 +1,17 @@
+{
+  "name": "lib32-pipewire",
+  "version": "1:1.0.3-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "lib32-alsa-lib",
+    "lib32-dbus",
+    "lib32-glib2",
+    "lib32-systemd",
+    "meson",
+    "systemd"
+  ],
+  "receive": 229464025,
+  "transmit": 369150,
+  "disk": 45257941
+}
