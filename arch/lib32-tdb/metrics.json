@@ -1,0 +1,15 @@
+{
+  "name": "lib32-tdb",
+  "version": "1.4.9-1",
+  "depends": [
+    "lib32-glibc",
+    "tdb"
+  ],
+  "makedepends": [
+    "libxslt",
+    "python"
+  ],
+  "receive": 200403753,
+  "transmit": 409937,
+  "disk": 3913743
+}
