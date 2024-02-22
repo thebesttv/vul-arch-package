@@ -1,0 +1,19 @@
+{
+  "name": "lib32-dbus-glib",
+  "version": "0.112-2",
+  "depends": [
+    "dbus-glib",
+    "lib32-glib2",
+    "lib32-glibc",
+    "lib32-dbus"
+  ],
+  "makedepends": [
+    "git",
+    "gtk-doc",
+    "lib32-expat",
+    "python"
+  ],
+  "receive": 199652776,
+  "transmit": 381476,
+  "disk": 2699198
+}
