@@ -1,0 +1,18 @@
+{
+  "name": "ruby-net-ssh",
+  "version": "7.2.0-1",
+  "depends": [
+    "ruby",
+    "ruby-ed25519",
+    "ruby-x25519",
+    "ruby-bcrypt_pbkdf"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-bundler",
+    "ruby-rdoc"
+  ],
+  "receive": 199589270,
+  "transmit": 365656,
+  "disk": 1487606
+}
