@@ -1,0 +1,13 @@
+{
+  "name": "python-pretend",
+  "version": "1.0.9-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199533343,
+  "transmit": 293664,
+  "disk": 117772
+}
