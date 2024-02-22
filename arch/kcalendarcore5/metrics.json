@@ -1,0 +1,17 @@
+{
+  "name": "kcalendarcore5",
+  "version": "5.115.0-1",
+  "depends": [
+    "libical",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199862017,
+  "transmit": 343773,
+  "disk": 3277346
+}
