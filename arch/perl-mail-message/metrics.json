@@ -1,0 +1,17 @@
+{
+  "name": "perl-mail-message",
+  "version": "3.015-1",
+  "depends": [
+    "perl",
+    "perl-user-identity",
+    "perl-mailtools",
+    "perl-mime-types",
+    "perl-io-stringy",
+    "perl-uri",
+    "perl-hash-ordered"
+  ],
+  "makedepends": [],
+  "receive": 199896624,
+  "transmit": 521260,
+  "disk": 1616155
+}
