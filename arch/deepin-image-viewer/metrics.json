@@ -1,0 +1,22 @@
+{
+  "name": "deepin-image-viewer",
+  "version": "5.9.13-3",
+  "depends": [
+    "deepin-qt5integration",
+    "qt5-base",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "deepin-image-editor",
+    "gcc-libs",
+    "libraw"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199572665,
+  "transmit": 325863,
+  "disk": 30185934
+}
