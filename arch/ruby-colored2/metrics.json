@@ -1,0 +1,13 @@
+{
+  "name": "ruby-colored2",
+  "version": "3.1.2-5",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199514576,
+  "transmit": 262978,
+  "disk": 966230
+}
