@@ -1,0 +1,11 @@
+{
+  "name": "yank",
+  "version": "1.3.0-1",
+  "depends": [
+    "xsel"
+  ],
+  "makedepends": [],
+  "receive": 199617770,
+  "transmit": 363330,
+  "disk": 119133
+}
