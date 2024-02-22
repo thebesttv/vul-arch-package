@@ -1,0 +1,11 @@
+{
+  "name": "ruby-bake",
+  "version": "0.18.2-3",
+  "depends": [
+    "ruby-samovar"
+  ],
+  "makedepends": [],
+  "receive": 199758369,
+  "transmit": 415883,
+  "disk": 315259
+}
