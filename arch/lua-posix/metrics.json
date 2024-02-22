@@ -1,0 +1,18 @@
+{
+  "name": "lua-posix",
+  "version": "36.2.1-2",
+  "depends": [
+    "libxcrypt",
+    "libcrypt.so"
+  ],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 199682683,
+  "transmit": 442155,
+  "disk": 1550601
+}
