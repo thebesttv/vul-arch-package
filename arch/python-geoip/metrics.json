@@ -1,0 +1,15 @@
+{
+  "name": "python-geoip",
+  "version": "1.3.2-14",
+  "depends": [
+    "python",
+    "geoip"
+  ],
+  "makedepends": [
+    "python",
+    "geoip"
+  ],
+  "receive": 199590657,
+  "transmit": 371863,
+  "disk": 263309
+}
