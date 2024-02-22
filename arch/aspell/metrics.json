@@ -1,0 +1,12 @@
+{
+  "name": "aspell",
+  "version": "0.60.8.1-2",
+  "depends": [
+    "gcc-libs",
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 202000321,
+  "transmit": 450719,
+  "disk": 11693934
+}
