@@ -1,0 +1,22 @@
+{
+  "name": "mosquitto",
+  "version": "2.0.18-1",
+  "depends": [
+    "cjson",
+    "gcc-libs",
+    "glibc",
+    "openssl",
+    "util-linux-libs"
+  ],
+  "makedepends": [
+    "c-ares",
+    "cmake",
+    "docbook-xsl",
+    "libwebsockets",
+    "systemd",
+    "uthash"
+  ],
+  "receive": 199803691,
+  "transmit": 453727,
+  "disk": 5435290
+}
