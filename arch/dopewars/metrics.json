@@ -1,0 +1,17 @@
+{
+  "name": "dopewars",
+  "version": "1.6.2-2",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "alsa-lib",
+    "audiofile",
+    "gendesk",
+    "gtk3",
+    "sdl2",
+    "sdl2_mixer"
+  ],
+  "receive": 199627034,
+  "transmit": 424572,
+  "disk": 8616077
+}
