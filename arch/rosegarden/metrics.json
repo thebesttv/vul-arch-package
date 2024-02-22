@@ -1,0 +1,28 @@
+{
+  "name": "rosegarden",
+  "version": "23.12-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "lirc",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "zlib"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "dssi",
+    "fftw",
+    "jack",
+    "ladspa",
+    "liblrdf",
+    "liblo",
+    "libsamplerate",
+    "libsndfile",
+    "qt5-tools"
+  ],
+  "receive": 207446698,
+  "transmit": 1507757,
+  "disk": 42040256
+}
