@@ -1,0 +1,13 @@
+{
+  "name": "ngspice",
+  "version": "42-1",
+  "depends": [
+    "gcc-libs",
+    "libedit",
+    "libxaw"
+  ],
+  "makedepends": [],
+  "receive": 213209291,
+  "transmit": 498093,
+  "disk": 76034097
+}
