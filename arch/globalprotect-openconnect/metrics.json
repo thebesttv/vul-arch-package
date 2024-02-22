@@ -1,0 +1,18 @@
+{
+  "name": "globalprotect-openconnect",
+  "version": "1.4.9-1",
+  "depends": [
+    "openconnect",
+    "qt5-base",
+    "qt5-webengine",
+    "qt5-websockets",
+    "qtkeychain-qt5"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 199649139,
+  "transmit": 380285,
+  "disk": 7996864
+}
