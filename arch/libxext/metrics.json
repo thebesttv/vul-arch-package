@@ -1,0 +1,15 @@
+{
+  "name": "libxext",
+  "version": "1.3.6-1",
+  "depends": [
+    "libx11",
+    "glibc",
+    "xorgproto"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199646397,
+  "transmit": 366195,
+  "disk": 2801722
+}
