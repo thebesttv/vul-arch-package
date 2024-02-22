@@ -1,0 +1,16 @@
+{
+  "name": "cvc4",
+  "version": "1.8-3",
+  "depends": [
+    "libantlr3c",
+    "cln"
+  ],
+  "makedepends": [
+    "cmake",
+    "java-runtime",
+    "python-toml"
+  ],
+  "receive": 205833260,
+  "transmit": 493298,
+  "disk": 68856558
+}
