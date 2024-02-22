@@ -1,0 +1,18 @@
+{
+  "name": "template-glib",
+  "version": "3.36.1-1",
+  "depends": [
+    "glib2",
+    "gobject-introspection-runtime"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala",
+    "gobject-introspection",
+    "gtk-doc"
+  ],
+  "receive": 199685185,
+  "transmit": 420859,
+  "disk": 1088495
+}
