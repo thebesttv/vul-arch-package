@@ -1,0 +1,17 @@
+{
+  "name": "python-dulwich",
+  "version": "0.21.7-1",
+  "depends": [
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199740339,
+  "transmit": 499876,
+  "disk": 22804219
+}
