@@ -1,0 +1,14 @@
+{
+  "name": "libretro-blastem",
+  "version": "2052-2",
+  "depends": [
+    "glibc",
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199750099,
+  "transmit": 481832,
+  "disk": 9604680
+}
