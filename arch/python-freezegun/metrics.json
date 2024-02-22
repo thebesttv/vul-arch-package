@@ -1,0 +1,18 @@
+{
+  "name": "python-freezegun",
+  "version": "1.4.0-1",
+  "depends": [
+    "python",
+    "python-dateutil"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199580782,
+  "transmit": 333076,
+  "disk": 1590507
+}
