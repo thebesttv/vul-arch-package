@@ -1,0 +1,11 @@
+{
+  "name": "perl-b-cow",
+  "version": "0.007-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199734130,
+  "transmit": 451165,
+  "disk": 208288
+}
