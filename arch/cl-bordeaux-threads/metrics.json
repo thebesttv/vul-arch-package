@@ -1,0 +1,18 @@
+{
+  "name": "cl-bordeaux-threads",
+  "version": "0.9.3-1",
+  "depends": [
+    "common-lisp",
+    "cl-asdf",
+    "cl-alexandria",
+    "cl-global-vars",
+    "cl-trivial-features",
+    "cl-trivial-garbage"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199534702,
+  "transmit": 266529,
+  "disk": 1413296
+}
