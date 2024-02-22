@@ -1,0 +1,31 @@
+{
+  "name": "krename",
+  "version": "5.0.2-7",
+  "depends": [
+    "exiv2",
+    "freetype2",
+    "gcc-libs",
+    "glibc",
+    "kcompletion5",
+    "kconfig5",
+    "kcoreaddons5",
+    "kcrash5",
+    "ki18n5",
+    "kiconthemes5",
+    "kitemviews5",
+    "kio5",
+    "kjobwidgets5",
+    "kjs",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "podofo",
+    "qt5-base",
+    "taglib"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199716119,
+  "transmit": 420017,
+  "disk": 4151873
+}
