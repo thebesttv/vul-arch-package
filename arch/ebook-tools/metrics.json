@@ -1,0 +1,15 @@
+{
+  "name": "ebook-tools",
+  "version": "0.2.2-7",
+  "depends": [
+    "libzip",
+    "libxml2",
+    "convertlit"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199867513,
+  "transmit": 603227,
+  "disk": 366193
+}
