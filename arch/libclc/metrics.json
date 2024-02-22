@@ -1,0 +1,16 @@
+{
+  "name": "libclc",
+  "version": "16.0.6-1",
+  "depends": [],
+  "makedepends": [
+    "clang",
+    "llvm",
+    "cmake",
+    "ninja",
+    "python",
+    "spirv-llvm-translator"
+  ],
+  "receive": 199548255,
+  "transmit": 309000,
+  "disk": 1515348
+}
