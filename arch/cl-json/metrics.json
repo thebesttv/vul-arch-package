@@ -1,0 +1,14 @@
+{
+  "name": "cl-json",
+  "version": "0.6.0-2",
+  "depends": [
+    "common-lisp",
+    "cl-asdf"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199637449,
+  "transmit": 354893,
+  "disk": 882503
+}
