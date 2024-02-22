@@ -1,0 +1,18 @@
+{
+  "name": "avrdude",
+  "version": "1:7.3-1",
+  "depends": [
+    "elfutils",
+    "hidapi",
+    "libftdi",
+    "libusb-compat",
+    "readline"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199681646,
+  "transmit": 404755,
+  "disk": 25667016
+}
