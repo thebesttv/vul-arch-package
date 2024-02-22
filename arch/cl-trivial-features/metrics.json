@@ -1,0 +1,14 @@
+{
+  "name": "cl-trivial-features",
+  "version": "1.0.r3.g35c5eeb-2",
+  "depends": [
+    "common-lisp",
+    "cl-asdf"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200098684,
+  "transmit": 664597,
+  "disk": 421431
+}
