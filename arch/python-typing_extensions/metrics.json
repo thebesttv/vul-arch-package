@@ -1,0 +1,16 @@
+{
+  "name": "python-typing_extensions",
+  "version": "4.9.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 200083826,
+  "transmit": 592518,
+  "disk": 3457498
+}
