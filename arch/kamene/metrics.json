@@ -1,0 +1,12 @@
+{
+  "name": "kamene",
+  "version": "0.32-5",
+  "depends": [
+    "tcpdump",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 200191326,
+  "transmit": 658567,
+  "disk": 4598373
+}
