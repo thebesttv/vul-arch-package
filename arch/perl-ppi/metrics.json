@@ -1,0 +1,21 @@
+{
+  "name": "perl-ppi",
+  "version": "1.277-1",
+  "depends": [
+    "perl-clone",
+    "perl-io-string",
+    "perl-list-moreutils",
+    "perl-params-util",
+    "perl-task-weaken"
+  ],
+  "makedepends": [
+    "perl-class-inspector",
+    "perl-file-remove",
+    "perl-test-deep",
+    "perl-test-object",
+    "perl-test-subcalls"
+  ],
+  "receive": 199597892,
+  "transmit": 365912,
+  "disk": 1477399
+}
