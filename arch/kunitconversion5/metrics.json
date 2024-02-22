@@ -1,0 +1,16 @@
+{
+  "name": "kunitconversion5",
+  "version": "5.115.0-1",
+  "depends": [
+    "ki18n5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199595315,
+  "transmit": 336639,
+  "disk": 23531497
+}
