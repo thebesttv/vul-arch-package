@@ -1,0 +1,12 @@
+{
+  "name": "cscope",
+  "version": "15.9-2",
+  "depends": [
+    "ncurses",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199533440,
+  "transmit": 305314,
+  "disk": 4146252
+}
