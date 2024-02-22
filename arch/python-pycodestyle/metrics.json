@@ -1,0 +1,16 @@
+{
+  "name": "python-pycodestyle",
+  "version": "2.11.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199545360,
+  "transmit": 280975,
+  "disk": 510907
+}
