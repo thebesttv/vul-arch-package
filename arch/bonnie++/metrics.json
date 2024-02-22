@@ -1,0 +1,11 @@
+{
+  "name": "bonnie++",
+  "version": "2.00a-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199718551,
+  "transmit": 403780,
+  "disk": 595394
+}
