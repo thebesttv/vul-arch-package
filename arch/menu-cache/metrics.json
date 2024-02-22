@@ -1,0 +1,13 @@
+{
+  "name": "menu-cache",
+  "version": "1.1.0-4",
+  "depends": [
+    "libfm-extra"
+  ],
+  "makedepends": [
+    "gtk-doc"
+  ],
+  "receive": 199662360,
+  "transmit": 391771,
+  "disk": 2092689
+}
