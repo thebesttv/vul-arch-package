@@ -1,0 +1,19 @@
+{
+  "name": "python-stestr",
+  "version": "4.1.0-1",
+  "depends": [
+    "python-cliff",
+    "python-pbr",
+    "python-subunit",
+    "python-fixtures",
+    "python-testtools",
+    "python-yaml",
+    "python-voluptuous",
+    "python-tomlkit",
+    "python-extras"
+  ],
+  "makedepends": [],
+  "receive": 199628701,
+  "transmit": 392718,
+  "disk": 802023
+}
