@@ -1,0 +1,13 @@
+{
+  "name": "vimpager",
+  "version": "2.06-6",
+  "depends": [
+    "vim"
+  ],
+  "makedepends": [
+    "sharutils"
+  ],
+  "receive": 199624036,
+  "transmit": 382906,
+  "disk": 323717
+}
