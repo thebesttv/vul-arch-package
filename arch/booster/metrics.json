@@ -1,0 +1,14 @@
+{
+  "name": "booster",
+  "version": "0.11-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "go",
+    "ruby-ronn-ng"
+  ],
+  "receive": 199715873,
+  "transmit": 499022,
+  "disk": 680668
+}
