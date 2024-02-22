@@ -1,0 +1,16 @@
+{
+  "name": "libgme",
+  "version": "0.6.3-4",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199530492,
+  "transmit": 261019,
+  "disk": 1418146
+}
