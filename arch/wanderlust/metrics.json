@@ -1,0 +1,17 @@
+{
+  "name": "wanderlust",
+  "version": "20240207-1",
+  "depends": [
+    "emacs",
+    "emacs-apel>=10.7",
+    "flim",
+    "semi"
+  ],
+  "makedepends": [
+    "git",
+    "texinfo"
+  ],
+  "receive": 199493629,
+  "transmit": 246120,
+  "disk": 37751919
+}
