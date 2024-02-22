@@ -1,0 +1,21 @@
+{
+  "name": "haxe",
+  "version": "4.3.3-1",
+  "depends": [
+    "neko",
+    "mbedtls2"
+  ],
+  "makedepends": [
+    "camlp5",
+    "git",
+    "neko",
+    "ocaml",
+    "opam",
+    "zlib",
+    "perl-string-shellquote",
+    "perl-ipc-system-simple"
+  ],
+  "receive": 338481402,
+  "transmit": 526756,
+  "disk": 169071722
+}
