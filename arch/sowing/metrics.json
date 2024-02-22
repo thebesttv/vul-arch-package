@@ -1,0 +1,14 @@
+{
+  "name": "sowing",
+  "version": "1.1.26.p8-1",
+  "depends": [
+    "bash",
+    "gcc-libs",
+    "glibc",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199527942,
+  "transmit": 315358,
+  "disk": 2636164
+}
