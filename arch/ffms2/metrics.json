@@ -1,0 +1,14 @@
+{
+  "name": "ffms2",
+  "version": "2.40-4",
+  "depends": [
+    "ffmpeg"
+  ],
+  "makedepends": [
+    "avisynthplus",
+    "git"
+  ],
+  "receive": 199727839,
+  "transmit": 425161,
+  "disk": 6217093
+}
