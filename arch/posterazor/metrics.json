@@ -1,0 +1,13 @@
+{
+  "name": "posterazor",
+  "version": "1.9.7.pre-3",
+  "depends": [
+    "poppler-qt5"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199525569,
+  "transmit": 295208,
+  "disk": 6771296
+}
