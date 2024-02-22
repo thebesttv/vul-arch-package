@@ -1,0 +1,13 @@
+{
+  "name": "gitprompt-rs",
+  "version": "0.3.0-1",
+  "depends": [
+    "git"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199731760,
+  "transmit": 408776,
+  "disk": 128718
+}
