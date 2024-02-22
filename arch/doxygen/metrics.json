@@ -1,0 +1,27 @@
+{
+  "name": "doxygen",
+  "version": "1.10.0-2",
+  "depends": [],
+  "makedepends": [
+    "clang",
+    "cmake",
+    "flex",
+    "fmt",
+    "gcc-libs",
+    "ghostscript",
+    "glibc",
+    "graphviz",
+    "llvm",
+    "python",
+    "qt6-base",
+    "spdlog",
+    "sqlite",
+    "texlive-fontsrecommended",
+    "texlive-fontutils",
+    "texlive-latexextra",
+    "texlive-plaingeneric"
+  ],
+  "receive": 207937358,
+  "transmit": 413513,
+  "disk": 40490303
+}
