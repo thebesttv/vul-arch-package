@@ -1,0 +1,21 @@
+{
+  "name": "lxqt-session",
+  "version": "1.4.0-1",
+  "depends": [
+    "liblxqt",
+    "qtxdg-tools",
+    "xdg-user-dirs",
+    "libx11",
+    "udev",
+    "kwindowsystem5",
+    "libQt5Xdg.so",
+    "procps-ng"
+  ],
+  "makedepends": [
+    "cmake",
+    "lxqt-build-tools"
+  ],
+  "receive": 199549826,
+  "transmit": 316708,
+  "disk": 1704831
+}
