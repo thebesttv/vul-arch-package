@@ -1,0 +1,15 @@
+{
+  "name": "ldc",
+  "version": "3:1.36.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake",
+    "llvm",
+    "ldc",
+    "ninja"
+  ],
+  "receive": 453317575,
+  "transmit": 785964,
+  "disk": 306403577
+}
