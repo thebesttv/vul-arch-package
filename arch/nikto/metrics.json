@@ -1,0 +1,14 @@
+{
+  "name": "nikto",
+  "version": "2.5.0-1",
+  "depends": [
+    "sh",
+    "openssl",
+    "perl-net-ssleay",
+    "perl-json"
+  ],
+  "makedepends": [],
+  "receive": 199605382,
+  "transmit": 358419,
+  "disk": 2866970
+}
