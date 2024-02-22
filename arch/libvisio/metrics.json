@@ -1,0 +1,20 @@
+{
+  "name": "libvisio",
+  "version": "0.1.7-10",
+  "depends": [
+    "libxml2",
+    "icu",
+    "librevenge",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "boost",
+    "gperf",
+    "doxygen",
+    "cppunit"
+  ],
+  "receive": 200416332,
+  "transmit": 457307,
+  "disk": 5175908
+}
