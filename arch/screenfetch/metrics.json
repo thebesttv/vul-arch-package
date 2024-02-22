@@ -1,0 +1,14 @@
+{
+  "name": "screenfetch",
+  "version": "3.9.1-3",
+  "depends": [
+    "bash",
+    "bc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199795382,
+  "transmit": 513723,
+  "disk": 6006650
+}
