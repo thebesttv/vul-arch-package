@@ -1,0 +1,20 @@
+{
+  "name": "vcspull",
+  "version": "1.28.1-1",
+  "depends": [
+    "python",
+    "python-colorama",
+    "python-libvcs",
+    "python-shtab",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-typing_extensions"
+  ],
+  "receive": 199542690,
+  "transmit": 280344,
+  "disk": 4707425
+}
