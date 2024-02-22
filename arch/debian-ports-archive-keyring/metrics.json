@@ -1,0 +1,11 @@
+{
+  "name": "debian-ports-archive-keyring",
+  "version": "2024.02.02-1",
+  "depends": [
+    "gnupg"
+  ],
+  "makedepends": [],
+  "receive": 199622204,
+  "transmit": 357846,
+  "disk": 203388
+}
