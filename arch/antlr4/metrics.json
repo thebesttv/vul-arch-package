@@ -1,0 +1,12 @@
+{
+  "name": "antlr4",
+  "version": "4.13.1-1",
+  "depends": [
+    "bash",
+    "java-environment>=6"
+  ],
+  "makedepends": [],
+  "receive": 199534185,
+  "transmit": 250082,
+  "disk": 2235868
+}
