@@ -1,0 +1,14 @@
+{
+  "name": "libad9361",
+  "version": "0.3-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "graphviz",
+    "libiio"
+  ],
+  "receive": 199535889,
+  "transmit": 279480,
+  "disk": 1532867
+}
