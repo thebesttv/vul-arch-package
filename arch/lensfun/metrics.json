@@ -1,0 +1,19 @@
+{
+  "name": "lensfun",
+  "version": "1:0.3.4-3",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "libpng",
+    "doxygen",
+    "cmake"
+  ],
+  "receive": 199732321,
+  "transmit": 457918,
+  "disk": 7286608
+}
