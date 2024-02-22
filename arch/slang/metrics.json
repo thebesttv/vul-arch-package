@@ -1,0 +1,11 @@
+{
+  "name": "slang",
+  "version": "2.3.3-2",
+  "depends": [
+    "pcre"
+  ],
+  "makedepends": [],
+  "receive": 199857892,
+  "transmit": 488532,
+  "disk": 11449867
+}
