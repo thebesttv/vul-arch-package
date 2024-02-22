@@ -1,0 +1,16 @@
+{
+  "name": "python-beautifulsoup4",
+  "version": "4.12.2-1",
+  "depends": [
+    "python",
+    "python-soupsieve"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling"
+  ],
+  "receive": 199582318,
+  "transmit": 270279,
+  "disk": 2555928
+}
