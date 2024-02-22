@@ -1,0 +1,24 @@
+{
+  "name": "haskell-conduit",
+  "version": "1.3.5-40",
+  "depends": [
+    "ghc-libs",
+    "haskell-mono-traversable",
+    "haskell-primitive",
+    "haskell-resourcet",
+    "haskell-unliftio-core",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-quickcheck",
+    "haskell-safe",
+    "haskell-silently",
+    "haskell-split",
+    "haskell-unliftio"
+  ],
+  "receive": 199489109,
+  "transmit": 253563,
+  "disk": 1046629
+}
