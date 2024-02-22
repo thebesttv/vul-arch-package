@@ -1,0 +1,21 @@
+{
+  "name": "haskell-random-source",
+  "version": "0.3.0.13-16",
+  "depends": [
+    "ghc-libs",
+    "haskell-flexible-defaults",
+    "haskell-mersenne-random-pure64",
+    "haskell-mwc-random",
+    "haskell-primitive",
+    "haskell-random",
+    "haskell-stateref",
+    "haskell-syb",
+    "haskell-th-extras"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199720481,
+  "transmit": 382152,
+  "disk": 327980
+}
