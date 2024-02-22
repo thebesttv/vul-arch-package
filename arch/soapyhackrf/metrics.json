@@ -1,0 +1,14 @@
+{
+  "name": "soapyhackrf",
+  "version": "0.3.4-1",
+  "depends": [
+    "soapysdr",
+    "hackrf"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199579453,
+  "transmit": 337924,
+  "disk": 196451
+}
