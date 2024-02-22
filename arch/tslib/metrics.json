@@ -1,0 +1,11 @@
+{
+  "name": "tslib",
+  "version": "1.23-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199546215,
+  "transmit": 287977,
+  "disk": 3099332
+}
