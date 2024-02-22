@@ -1,0 +1,26 @@
+{
+  "name": "python-tox",
+  "version": "4.12.1-1",
+  "depends": [
+    "python",
+    "python-cachetools",
+    "python-chardet",
+    "python-colorama",
+    "python-filelock",
+    "python-packaging",
+    "python-platformdirs",
+    "python-pluggy",
+    "python-pyproject-api",
+    "python-virtualenv"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-vcs",
+    "python-hatchling",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199748669,
+  "transmit": 419363,
+  "disk": 1313319
+}
