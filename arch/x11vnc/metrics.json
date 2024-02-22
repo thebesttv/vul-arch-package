@@ -1,0 +1,26 @@
+{
+  "name": "x11vnc",
+  "version": "1:0.9.16-7",
+  "depends": [
+    "libvncserver",
+    "openssl",
+    "libxcrypt",
+    "libxtst",
+    "libxext",
+    "libxinerama",
+    "libxrandr",
+    "libxfixes",
+    "libxdamage",
+    "libxcomposite",
+    "libx11",
+    "avahi",
+    "libxi",
+    "xorg-xdpyinfo"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 208255011,
+  "transmit": 397810,
+  "disk": 15519802
+}
