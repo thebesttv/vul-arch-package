@@ -1,0 +1,26 @@
+{
+  "name": "recoll",
+  "version": "1.37.0-1",
+  "depends": [
+    "xapian-core>=1.0.15-1",
+    "qt5-base",
+    "openssl",
+    "hicolor-icon-theme",
+    "qt5-webengine",
+    "chmlib",
+    "aspell"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools",
+    "qt5-tools",
+    "cmake",
+    "extra-cmake-modules",
+    "kcoreaddons5",
+    "kio5",
+    "krunner5"
+  ],
+  "receive": 199609468,
+  "transmit": 259639,
+  "disk": 17237998
+}
