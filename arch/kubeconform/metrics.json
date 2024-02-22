@@ -1,0 +1,14 @@
+{
+  "name": "kubeconform",
+  "version": "0.6.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 201420139,
+  "transmit": 943535,
+  "disk": 14311484
+}
