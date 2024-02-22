@@ -1,0 +1,15 @@
+{
+  "name": "lib32-libdrm",
+  "version": "2.4.119-1",
+  "depends": [
+    "lib32-libpciaccess",
+    "lib32-glibc",
+    "libdrm"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199547028,
+  "transmit": 273198,
+  "disk": 4418558
+}
