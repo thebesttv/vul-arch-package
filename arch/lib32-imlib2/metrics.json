@@ -1,0 +1,23 @@
+{
+  "name": "lib32-imlib2",
+  "version": "1.12.2-1",
+  "depends": [
+    "imlib2",
+    "lib32-bzip2",
+    "lib32-freetype2",
+    "lib32-giflib",
+    "lib32-libjpeg-turbo",
+    "lib32-libpng",
+    "lib32-libtiff",
+    "lib32-libxext",
+    "lib32-xz"
+  ],
+  "makedepends": [
+    "lib32-libid3tag",
+    "lib32-librsvg",
+    "lib32-libwebp"
+  ],
+  "receive": 199550532,
+  "transmit": 349744,
+  "disk": 5632050
+}
