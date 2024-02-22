@@ -1,0 +1,16 @@
+{
+  "name": "glhack",
+  "version": "1.2-10",
+  "depends": [
+    "sdl",
+    "libpng",
+    "libgl"
+  ],
+  "makedepends": [
+    "mesa",
+    "systemd"
+  ],
+  "receive": 204605716,
+  "transmit": 255002,
+  "disk": 28414126
+}
