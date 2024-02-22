@@ -1,0 +1,16 @@
+{
+  "name": "libgig",
+  "version": "4.4.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "util-linux-libs"
+  ],
+  "makedepends": [
+    "libsndfile",
+    "util-linux"
+  ],
+  "receive": 200092557,
+  "transmit": 623022,
+  "disk": 4056045
+}
