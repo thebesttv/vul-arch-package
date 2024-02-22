@@ -1,0 +1,21 @@
+{
+  "name": "python-fastparquet",
+  "version": "0.8.1-1",
+  "depends": [
+    "python",
+    "python-cramjam",
+    "python-pandas",
+    "python-fsspec"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-numpy"
+  ],
+  "receive": 223407007,
+  "transmit": 554718,
+  "disk": 154271784
+}
