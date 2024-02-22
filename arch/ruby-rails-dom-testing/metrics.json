@@ -1,0 +1,16 @@
+{
+  "name": "ruby-rails-dom-testing",
+  "version": "2.0.3-2",
+  "depends": [
+    "ruby",
+    "ruby-activesupport",
+    "ruby-nokogiri"
+  ],
+  "makedepends": [
+    "ruby-bundler",
+    "ruby-rake"
+  ],
+  "receive": 199572283,
+  "transmit": 321481,
+  "disk": 177489
+}
