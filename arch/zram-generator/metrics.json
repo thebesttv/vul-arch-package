@@ -1,0 +1,14 @@
+{
+  "name": "zram-generator",
+  "version": "1.1.2-1",
+  "depends": [
+    "systemd"
+  ],
+  "makedepends": [
+    "rust",
+    "ruby-ronn-ng"
+  ],
+  "receive": 199629660,
+  "transmit": 391810,
+  "disk": 652173
+}
