@@ -1,0 +1,17 @@
+{
+  "name": "librist",
+  "version": "0.2.10-2",
+  "depends": [
+    "cjson",
+    "mbedtls"
+  ],
+  "makedepends": [
+    "meson",
+    "cmake",
+    "cmocka",
+    "lz4"
+  ],
+  "receive": 199618222,
+  "transmit": 398097,
+  "disk": 11872345
+}
