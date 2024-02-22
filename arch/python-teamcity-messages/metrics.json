@@ -1,0 +1,13 @@
+{
+  "name": "python-teamcity-messages",
+  "version": "1.32-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199519679,
+  "transmit": 292099,
+  "disk": 709112
+}
