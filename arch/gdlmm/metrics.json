@@ -1,0 +1,12 @@
+{
+  "name": "gdlmm",
+  "version": "3.7.3-5",
+  "depends": [
+    "gdl",
+    "gtkmm3"
+  ],
+  "makedepends": [],
+  "receive": 199547307,
+  "transmit": 272717,
+  "disk": 3264660
+}
