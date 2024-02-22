@@ -1,0 +1,13 @@
+{
+  "name": "perl-search-xapian",
+  "version": "1.2.25.5-3",
+  "depends": [
+    "perl",
+    "perl-devel-leak",
+    "xapian-core"
+  ],
+  "makedepends": [],
+  "receive": 199586169,
+  "transmit": 362925,
+  "disk": 497630
+}
