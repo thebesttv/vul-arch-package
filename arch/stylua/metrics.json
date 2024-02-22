@@ -1,0 +1,14 @@
+{
+  "name": "stylua",
+  "version": "0.20.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199620899,
+  "transmit": 345424,
+  "disk": 6013995
+}
