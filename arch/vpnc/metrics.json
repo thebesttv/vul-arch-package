@@ -1,0 +1,16 @@
+{
+  "name": "vpnc",
+  "version": "1:0.5.3.r526.r213-1",
+  "depends": [
+    "libgcrypt",
+    "openssl",
+    "iproute2",
+    "which"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199671298,
+  "transmit": 400726,
+  "disk": 2495093
+}
