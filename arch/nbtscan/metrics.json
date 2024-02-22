@@ -1,0 +1,13 @@
+{
+  "name": "nbtscan",
+  "version": "1.7.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199686192,
+  "transmit": 423921,
+  "disk": 984447
+}
