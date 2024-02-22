@@ -1,0 +1,20 @@
+{
+  "name": "rio",
+  "version": "0.0.34-2",
+  "depends": [
+    "gcc-libs",
+    "fontconfig",
+    "freetype2",
+    "libxcb",
+    "libxkbcommon",
+    "python"
+  ],
+  "makedepends": [
+    "cargo",
+    "cmake",
+    "desktop-file-utils"
+  ],
+  "receive": 200178430,
+  "transmit": 695709,
+  "disk": 84780999
+}
