@@ -1,0 +1,14 @@
+{
+  "name": "tuntox",
+  "version": "0.0.10.1-2",
+  "depends": [
+    "toxcore"
+  ],
+  "makedepends": [
+    "git",
+    "libnsl"
+  ],
+  "receive": 199588037,
+  "transmit": 293642,
+  "disk": 1557088
+}
