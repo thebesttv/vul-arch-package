@@ -1,0 +1,21 @@
+{
+  "name": "pantheon-settings-daemon",
+  "version": "1.3.1-1",
+  "depends": [
+    "accountsservice",
+    "dbus",
+    "dconf",
+    "fwupd",
+    "geoclue",
+    "glib2",
+    "granite"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199643011,
+  "transmit": 395336,
+  "disk": 2064445
+}
