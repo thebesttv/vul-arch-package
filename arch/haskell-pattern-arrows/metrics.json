@@ -1,0 +1,13 @@
+{
+  "name": "haskell-pattern-arrows",
+  "version": "0.0.2-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199598425,
+  "transmit": 341437,
+  "disk": 122089
+}
