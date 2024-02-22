@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libdatrie",
+  "version": "0.2.13-2",
+  "depends": [
+    "lib32-glibc",
+    "libdatrie"
+  ],
+  "makedepends": [],
+  "receive": 199559597,
+  "transmit": 274349,
+  "disk": 2341768
+}
