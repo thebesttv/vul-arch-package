@@ -1,0 +1,13 @@
+{
+  "name": "perl-net-ssleay",
+  "version": "1.92-3",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "chrpath"
+  ],
+  "receive": 199498921,
+  "transmit": 264786,
+  "disk": 2711260
+}
