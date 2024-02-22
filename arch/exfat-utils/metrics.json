@@ -1,0 +1,12 @@
+{
+  "name": "exfat-utils",
+  "version": "1.4.0-2",
+  "depends": [
+    "glibc",
+    "fuse3"
+  ],
+  "makedepends": [],
+  "receive": 199677426,
+  "transmit": 392919,
+  "disk": 460637
+}
