@@ -1,0 +1,17 @@
+{
+  "name": "rtaudio",
+  "version": "6.0.1-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "doxygen",
+    "gcc-libs",
+    "glibc",
+    "jack",
+    "meson",
+    "libpulse"
+  ],
+  "receive": 199611855,
+  "transmit": 386470,
+  "disk": 1562636
+}
