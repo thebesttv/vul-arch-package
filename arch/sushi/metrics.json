@@ -1,0 +1,22 @@
+{
+  "name": "sushi",
+  "version": "45.0-1",
+  "depends": [
+    "evince",
+    "gjs",
+    "gst-plugin-gtk",
+    "gst-plugins-base-libs",
+    "gtk3",
+    "gtksourceview4",
+    "libsoup3",
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson"
+  ],
+  "receive": 200365748,
+  "transmit": 861637,
+  "disk": 2016269
+}
