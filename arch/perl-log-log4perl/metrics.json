@@ -1,0 +1,11 @@
+{
+  "name": "perl-log-log4perl",
+  "version": "1.57-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199535269,
+  "transmit": 286966,
+  "disk": 1590700
+}
