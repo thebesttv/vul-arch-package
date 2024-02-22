@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "21.6.2-1",
+  "depends": [
+    "icu",
+    "libuv",
+    "libnghttp2",
+    "libnghttp3",
+    "libngtcp2",
+    "openssl",
+    "zlib",
+    "brotli",
+    "c-ares"
+  ],
+  "makedepends": [
+    "git",
+    "python",
+    "procps-ng"
+  ],
+  "receive": 1941390506,
+  "transmit": 13166718,
+  "disk": 2298911331
+}
