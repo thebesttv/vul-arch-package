@@ -1,0 +1,17 @@
+{
+  "name": "libksysguard",
+  "version": "5.27.10-1",
+  "depends": [
+    "libxres",
+    "qt5-webengine",
+    "knewstuff5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "qt5-tools"
+  ],
+  "receive": 199801130,
+  "transmit": 418519,
+  "disk": 13437482
+}
