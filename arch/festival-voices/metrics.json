@@ -1,0 +1,11 @@
+{
+  "name": "festival-voices",
+  "version": "2.5-2",
+  "depends": [
+    "festival"
+  ],
+  "makedepends": [],
+  "receive": 369971612,
+  "transmit": 2190049,
+  "disk": 422737639
+}
