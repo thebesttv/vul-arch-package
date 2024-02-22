@@ -1,0 +1,11 @@
+{
+  "name": "supervisor",
+  "version": "4.2.5-2",
+  "depends": [
+    "python-setuptools"
+  ],
+  "makedepends": [],
+  "receive": 199498859,
+  "transmit": 218460,
+  "disk": 2599699
+}
