@@ -1,0 +1,14 @@
+{
+  "name": "ipvsadm",
+  "version": "1.31-2",
+  "depends": [
+    "glibc",
+    "libnl",
+    "popt",
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199511914,
+  "transmit": 261750,
+  "disk": 388348
+}
