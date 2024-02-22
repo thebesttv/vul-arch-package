@@ -1,0 +1,16 @@
+{
+  "name": "autogen",
+  "version": "5.18.16-5",
+  "depends": [
+    "guile",
+    "libxml2",
+    "perl"
+  ],
+  "makedepends": [
+    "autogen",
+    "chrpath"
+  ],
+  "receive": 199640714,
+  "transmit": 384204,
+  "disk": 8482486
+}
