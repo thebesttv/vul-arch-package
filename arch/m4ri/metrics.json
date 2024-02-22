@@ -1,0 +1,11 @@
+{
+  "name": "m4ri",
+  "version": "20200125-2",
+  "depends": [
+    "libpng"
+  ],
+  "makedepends": [],
+  "receive": 199566176,
+  "transmit": 287657,
+  "disk": 2819551
+}
