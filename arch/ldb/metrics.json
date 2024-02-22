@@ -1,0 +1,21 @@
+{
+  "name": "ldb",
+  "version": "2:2.8.0-1",
+  "depends": [
+    "talloc",
+    "libtevent.so",
+    "tdb",
+    "libtdb.so",
+    "popt",
+    "lmdb"
+  ],
+  "makedepends": [
+    "python",
+    "cmocka",
+    "docbook-xsl",
+    "tevent"
+  ],
+  "receive": 201525185,
+  "transmit": 443702,
+  "disk": 10754152
+}
