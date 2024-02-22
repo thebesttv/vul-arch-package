@@ -1,0 +1,12 @@
+{
+  "name": "ferm",
+  "version": "2.7-1",
+  "depends": [
+    "iptables",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199517067,
+  "transmit": 286394,
+  "disk": 598711
+}
