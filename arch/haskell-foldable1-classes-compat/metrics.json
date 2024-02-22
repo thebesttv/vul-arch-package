@@ -1,0 +1,14 @@
+{
+  "name": "haskell-foldable1-classes-compat",
+  "version": "0.1-57",
+  "depends": [
+    "ghc-libs",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199782571,
+  "transmit": 403049,
+  "disk": 276684
+}
