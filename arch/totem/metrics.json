@@ -1,0 +1,31 @@
+{
+  "name": "totem",
+  "version": "43.0-2",
+  "depends": [
+    "totem-plparser",
+    "iso-codes",
+    "libpeas",
+    "grilo",
+    "gsettings-desktop-schemas",
+    "python-gobject",
+    "gnome-desktop",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gst-plugins-bad",
+    "gst-plugin-gtk",
+    "libhandy",
+    "libportal-gtk3"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "gobject-introspection",
+    "git",
+    "appstream-glib",
+    "gtk-doc",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 236502418,
+  "transmit": 464404,
+  "disk": 53363947
+}
