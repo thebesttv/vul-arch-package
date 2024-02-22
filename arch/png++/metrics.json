@@ -1,0 +1,13 @@
+{
+  "name": "png++",
+  "version": "0.2.10-2",
+  "depends": [
+    "libpng"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199642765,
+  "transmit": 436546,
+  "disk": 1617493
+}
