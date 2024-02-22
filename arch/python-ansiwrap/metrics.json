@@ -1,0 +1,13 @@
+{
+  "name": "python-ansiwrap",
+  "version": "0.8.4-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 200014267,
+  "transmit": 616542,
+  "disk": 145348
+}
