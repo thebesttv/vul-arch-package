@@ -1,0 +1,13 @@
+{
+  "name": "haskell-network-info",
+  "version": "0.2.1-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199702883,
+  "transmit": 430708,
+  "disk": 153053
+}
