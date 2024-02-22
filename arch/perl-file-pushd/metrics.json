@@ -1,0 +1,13 @@
+{
+  "name": "perl-file-pushd",
+  "version": "1.016-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-extutils-makemaker"
+  ],
+  "receive": 199536944,
+  "transmit": 282356,
+  "disk": 216522
+}
