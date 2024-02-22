@@ -1,0 +1,15 @@
+{
+  "name": "python-krb5",
+  "version": "0.5.1-1",
+  "depends": [
+    "python",
+    "krb5"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools"
+  ],
+  "receive": 199632389,
+  "transmit": 367993,
+  "disk": 1645232
+}
