@@ -1,0 +1,25 @@
+{
+  "name": "python-kikit",
+  "version": "1.4.0-1",
+  "depends": [
+    "python",
+    "kicad",
+    "python-numpy",
+    "python-shapely",
+    "python-click",
+    "python-markdown2",
+    "python-pybars3",
+    "python-solidpython",
+    "python-pcbnewtransition",
+    "python-commentjson"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199524913,
+  "transmit": 305020,
+  "disk": 22218445
+}
