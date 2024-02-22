@@ -1,0 +1,14 @@
+{
+  "name": "python-pydbus",
+  "version": "0.6.0-10",
+  "depends": [
+    "python",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199833098,
+  "transmit": 475066,
+  "disk": 4357727
+}
