@@ -1,0 +1,14 @@
+{
+  "name": "python-requests-gssapi",
+  "version": "1.2.3-3",
+  "depends": [
+    "python-gssapi",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199709387,
+  "transmit": 420990,
+  "disk": 178899
+}
