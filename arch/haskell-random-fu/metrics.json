@@ -1,0 +1,21 @@
+{
+  "name": "haskell-random-fu",
+  "version": "0.3.0.1-20",
+  "depends": [
+    "ghc-libs",
+    "haskell-erf",
+    "haskell-math-functions",
+    "haskell-monad-loops",
+    "haskell-random",
+    "haskell-random-shuffle",
+    "haskell-rvar",
+    "haskell-syb",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199768466,
+  "transmit": 536439,
+  "disk": 421105
+}
