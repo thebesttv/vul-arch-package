@@ -1,0 +1,11 @@
+{
+  "name": "ruby-red-colors",
+  "version": "0.3.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199663602,
+  "transmit": 405911,
+  "disk": 188720
+}
