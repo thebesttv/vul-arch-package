@@ -1,0 +1,11 @@
+{
+  "name": "mpfi",
+  "version": "1.5.4-4",
+  "depends": [
+    "mpfr"
+  ],
+  "makedepends": [],
+  "receive": 199712103,
+  "transmit": 416722,
+  "disk": 2000960
+}
