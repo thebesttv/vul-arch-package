@@ -1,0 +1,14 @@
+{
+  "name": "rocm-smi-lib",
+  "version": "6.0.0-1",
+  "depends": [
+    "hsa-rocr",
+    "python"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199546031,
+  "transmit": 293263,
+  "disk": 3638980
+}
