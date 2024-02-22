@@ -1,0 +1,21 @@
+{
+  "name": "vigra",
+  "version": "1.11.2-1",
+  "depends": [
+    "fftw",
+    "gcc-libs",
+    "hdf5",
+    "libpng",
+    "libtiff",
+    "openexr",
+    "sh"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "python-numpy"
+  ],
+  "receive": 213918725,
+  "transmit": 426347,
+  "disk": 99057143
+}
