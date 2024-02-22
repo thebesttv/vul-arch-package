@@ -1,0 +1,11 @@
+{
+  "name": "benzene",
+  "version": "20130630-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199555161,
+  "transmit": 267099,
+  "disk": 238841
+}
