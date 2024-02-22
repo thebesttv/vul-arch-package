@@ -1,0 +1,15 @@
+{
+  "name": "avr-gcc",
+  "version": "13.2.0-2",
+  "depends": [
+    "avr-binutils",
+    "gcc-libs",
+    "libmpc",
+    "libisl",
+    "zstd"
+  ],
+  "makedepends": [],
+  "receive": 288433125,
+  "transmit": 967115,
+  "disk": 807603959
+}
