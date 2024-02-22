@@ -1,0 +1,57 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=6.98 s (653.3 files/s 426053.4 lines/s)"
+1025,C++,74311,58404,419214
+171,C,32818,100534,330755
+231,JSON,81,0,312169
+42,PO File,148282,401613,309039
+989,C/C++ Header,45061,79732,200519
+713,HTML,7983,3975,151897
+48,SVG,32,137,77969
+317,JavaScript,7303,4764,51300
+207,Text,2727,0,23928
+100,Markdown,6924,6,19818
+140,CMake,2183,2794,11358
+78,Python,2924,5252,11097
+67,XML,104,145,7459
+9,reStructuredText,1948,338,5941
+71,LESS,1178,1533,5538
+8,PHP,467,140,5267
+10,Fortran 77,0,0,5162
+93,GLSL,1091,603,4108
+75,Bourne Shell,586,614,3241
+7,CSS,375,67,2531
+13,YAML,170,150,2388
+32,make,476,277,1673
+4,Qt,0,0,1022
+1,OpenCL,247,29,1014
+2,AsciiDoc,379,1,981
+6,Starlark,91,118,774
+12,diff,79,536,726
+3,Ruby,71,87,552
+4,Objective-C++,114,114,528
+2,MSBuild script,0,0,478
+8,C#,96,38,476
+13,Visual Studio Solution,13,13,410
+2,m4,71,63,397
+3,Bourne Again Shell,54,57,322
+15,Dockerfile,83,58,268
+4,Meson,50,60,254
+3,Bazel,35,11,252
+2,Perl,32,13,226
+1,TeX,38,9,185
+2,SCSS,37,3,165
+1,Qt Linguist,0,0,144
+1,PowerShell,23,21,128
+5,INI,16,0,111
+7,DOS Batch,21,9,99
+1,Julia,18,52,99
+1,Gradle,11,28,93
+1,Visual Basic Script,11,11,90
+1,Java,5,4,88
+1,Objective-C,14,5,70
+2,Windows Module Definition,2,6,46
+2,Qt Project,4,3,42
+1,Forth,8,0,41
+1,Windows Resource File,1,0,35
+1,CUDA,6,9,13
+1,ProGuard,6,5,7
+4560,SUM,338660,662441,1972507

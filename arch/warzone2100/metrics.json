@@ -1,0 +1,30 @@
+{
+  "name": "warzone2100",
+  "version": "4.4.2-2",
+  "depends": [
+    "sdl2",
+    "openal",
+    "libvorbis",
+    "libtheora",
+    "libsodium",
+    "physfs",
+    "sqlite",
+    "freetype2",
+    "opus",
+    "fmt"
+  ],
+  "makedepends": [
+    "zip",
+    "unzip",
+    "libzip",
+    "asciidoc",
+    "mesa",
+    "vulkan-headers",
+    "shaderc",
+    "cmake",
+    "ninja"
+  ],
+  "receive": 693753566,
+  "transmit": 2267794,
+  "disk": 1129813458
+}
