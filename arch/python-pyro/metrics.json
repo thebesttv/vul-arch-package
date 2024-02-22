@@ -1,0 +1,14 @@
+{
+  "name": "python-pyro",
+  "version": "4.82-2",
+  "depends": [
+    "python",
+    "python-serpent"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199572868,
+  "transmit": 289505,
+  "disk": 8050876
+}
