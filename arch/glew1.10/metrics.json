@@ -1,0 +1,16 @@
+{
+  "name": "glew1.10",
+  "version": "1.10.0-3",
+  "depends": [
+    "glibc",
+    "libgl",
+    "libx11",
+    "libxext",
+    "libxi",
+    "libxmu"
+  ],
+  "makedepends": [],
+  "receive": 199596239,
+  "transmit": 375605,
+  "disk": 4391450
+}
