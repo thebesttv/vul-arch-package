@@ -1,0 +1,42 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.58 s (1151.8 files/s 342074.0 lines/s)"
+1779,HTML,15685,53,380508
+343,C,23229,25625,179915
+8,PO File,28799,32370,68788
+256,C/C++ Header,5769,14243,22082
+32,C++,1713,2259,10662
+87,JavaScript,1646,2443,9672
+76,XML,296,62,6446
+38,Markdown,2017,114,4154
+5,lex,207,325,4048
+28,Java,844,618,3604
+41,Objective-C,1266,865,3325
+15,Python,769,1473,3298
+43,CMake,508,459,2334
+24,Swift,616,509,1689
+59,Bourne Shell,489,311,1652
+6,TeX,638,50,1613
+16,Text,309,0,1523
+20,JSON,0,0,1260
+3,yacc,157,80,1255
+12,Nix,122,62,1068
+3,Perl,156,112,638
+4,vim script,128,71,573
+5,SWIG,83,149,517
+5,Lisp,136,189,435
+20,diff,43,381,427
+12,make,59,22,398
+3,Tcl/Tk,43,49,342
+4,YAML,22,35,329
+2,CSS,62,53,256
+2,Bourne Again Shell,26,21,159
+1,TypeScript,8,328,146
+4,Gradle,12,31,71
+2,DOS Batch,24,2,70
+2,Jupyter Notebook,0,141,67
+4,Dockerfile,73,17,57
+1,Elixir,6,6,15
+2,INI,2,0,13
+4,Properties,7,33,12
+1,Fortran 77,0,0,4
+1,ProGuard,2,15,0
+2973,SUM,85971,83576,713425
