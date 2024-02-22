@@ -1,0 +1,13 @@
+{
+  "name": "foremost",
+  "version": "1.5.7-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "patch"
+  ],
+  "receive": 199651452,
+  "transmit": 419820,
+  "disk": 347365
+}
