@@ -1,0 +1,18 @@
+{
+  "name": "log4cxx",
+  "version": "1.1.0-1",
+  "depends": [
+    "apr-util",
+    "libxml2"
+  ],
+  "makedepends": [
+    "cmake",
+    "patch",
+    "zip",
+    "gzip",
+    "sed"
+  ],
+  "receive": 199504101,
+  "transmit": 248916,
+  "disk": 3837620
+}
