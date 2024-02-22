@@ -1,0 +1,16 @@
+{
+  "name": "rdesktop",
+  "version": "1.9.0-2",
+  "depends": [
+    "libao",
+    "libsamplerate",
+    "xorg-xrandr",
+    "pcsclite",
+    "libgssglue",
+    "libxcursor"
+  ],
+  "makedepends": [],
+  "receive": 199510196,
+  "transmit": 225289,
+  "disk": 2005108
+}
