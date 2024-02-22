@@ -1,0 +1,16 @@
+{
+  "name": "cutefish-dock",
+  "version": "0.8-1",
+  "depends": [
+    "fishui",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199493539,
+  "transmit": 284526,
+  "disk": 432343
+}
