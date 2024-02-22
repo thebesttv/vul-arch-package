@@ -1,0 +1,11 @@
+{
+  "name": "libretro-overlays",
+  "version": "263-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199588797,
+  "transmit": 322727,
+  "disk": 79230280
+}
