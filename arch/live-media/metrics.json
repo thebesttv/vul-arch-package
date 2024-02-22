@@ -1,0 +1,12 @@
+{
+  "name": "live-media",
+  "version": "2023.01.19-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199782437,
+  "transmit": 435287,
+  "disk": 4483374
+}
