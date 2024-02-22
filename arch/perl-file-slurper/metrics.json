@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-slurper",
+  "version": "0.014-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199683878,
+  "transmit": 450090,
+  "disk": 192477
+}
