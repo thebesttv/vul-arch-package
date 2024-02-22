@@ -1,0 +1,11 @@
+{
+  "name": "cdparanoia",
+  "version": "10.2-9",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199536224,
+  "transmit": 284310,
+  "disk": 1030960
+}
