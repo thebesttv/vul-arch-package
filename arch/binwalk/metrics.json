@@ -1,0 +1,11 @@
+{
+  "name": "binwalk",
+  "version": "2.3.4-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 213139706,
+  "transmit": 625205,
+  "disk": 89865974
+}
