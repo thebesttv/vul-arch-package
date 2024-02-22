@@ -1,0 +1,11 @@
+{
+  "name": "libwhich",
+  "version": "1.2.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199695156,
+  "transmit": 384568,
+  "disk": 125813
+}
