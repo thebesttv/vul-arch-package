@@ -1,0 +1,45 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=11.57 s (774.4 files/s 354056.2 lines/s)"
+3931,C,343680,340423,1812448
+434,Text,170347,0,518601
+982,Python,54021,62494,233603
+1137,C/C++ Header,23110,66112,99179
+676,XML,9961,25,63643
+1087,Bourne Shell,13889,6556,56749
+21,Markdown,6399,0,47847
+114,Perl,7186,3610,35779
+143,IDL,5686,0,35360
+36,PO File,5713,7756,14516
+83,make,1454,260,5948
+7,yacc,530,781,4108
+11,Windows Module Definition,23,43,4027
+73,m4,528,390,3994
+21,HTML,115,1,3637
+18,Bourne Again Shell,685,958,2555
+29,YAML,146,238,2362
+4,TeX,576,94,2281
+17,XSLT,360,129,2049
+28,Expect,520,349,1589
+2,MSBuild script,0,0,1190
+10,C++,87,195,997
+5,WiX source,152,17,726
+6,lex,91,167,640
+4,awk,25,33,590
+1,SVG,0,1,584
+8,diff,61,643,510
+30,Windows Resource File,98,919,283
+1,Korn Shell,37,25,222
+4,JSON,3,0,205
+12,Dockerfile,72,120,156
+1,Fortran 77,12,0,143
+2,Java,45,79,119
+2,CSS,17,0,116
+2,Logos,25,2,105
+7,DOS Batch,2,0,55
+2,Visual Studio Solution,2,2,45
+1,sed,0,54,45
+1,INI,7,0,31
+1,Assembly,4,3,30
+1,WiX string localization,0,0,15
+1,TOML,1,5,10
+1,Visual Basic Script,3,0,7
+8957,SUM,645673,492484,2957099
