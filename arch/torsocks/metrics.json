@@ -1,0 +1,11 @@
+{
+  "name": "torsocks",
+  "version": "2.4.0-1",
+  "depends": [
+    "tor"
+  ],
+  "makedepends": [],
+  "receive": 199503877,
+  "transmit": 239134,
+  "disk": 772272
+}
