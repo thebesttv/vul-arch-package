@@ -1,0 +1,21 @@
+{
+  "name": "qalculate-gtk",
+  "version": "4.9.0-1",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gtk3",
+    "libqalculate",
+    "pango"
+  ],
+  "makedepends": [
+    "intltool",
+    "python"
+  ],
+  "receive": 199656471,
+  "transmit": 394379,
+  "disk": 12816254
+}
