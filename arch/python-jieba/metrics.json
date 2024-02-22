@@ -1,0 +1,11 @@
+{
+  "name": "python-jieba",
+  "version": "0.42.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 224768754,
+  "transmit": 593345,
+  "disk": 77185939
+}
