@@ -1,0 +1,17 @@
+{
+  "name": "perl",
+  "version": "5.38.2-1",
+  "depends": [
+    "gdbm>=1.17",
+    "db5.3",
+    "glibc",
+    "libxcrypt",
+    "libcrypt.so"
+  ],
+  "makedepends": [
+    "patchutils"
+  ],
+  "receive": 213583201,
+  "transmit": 369606,
+  "disk": 109974601
+}
