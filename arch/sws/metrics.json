@@ -1,0 +1,20 @@
+{
+  "name": "sws",
+  "version": "2.13.2.0-2",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "reaper",
+    "taglib"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "php",
+    "perl",
+    "gtk3"
+  ],
+  "receive": 237818886,
+  "transmit": 355117,
+  "disk": 57560315
+}
