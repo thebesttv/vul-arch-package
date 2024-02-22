@@ -1,0 +1,35 @@
+{
+  "name": "evince",
+  "version": "45.0-1",
+  "depends": [
+    "dconf",
+    "djvulibre",
+    "gnome-desktop",
+    "gsettings-desktop-schemas",
+    "gsfonts",
+    "gspell",
+    "gst-plugins-base-libs",
+    "gtk3",
+    "gvfs",
+    "libarchive",
+    "libgxps",
+    "libhandy",
+    "libsecret",
+    "libspectre",
+    "libsynctex",
+    "libxml2",
+    "poppler-glib"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "texlive-bin",
+    "yelp-tools"
+  ],
+  "receive": 241520781,
+  "transmit": 555831,
+  "disk": 61242222
+}
