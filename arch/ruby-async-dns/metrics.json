@@ -1,0 +1,12 @@
+{
+  "name": "ruby-async-dns",
+  "version": "1.2.6-1",
+  "depends": [
+    "ruby",
+    "ruby-async-io"
+  ],
+  "makedepends": [],
+  "receive": 199565637,
+  "transmit": 364347,
+  "disk": 427091
+}
