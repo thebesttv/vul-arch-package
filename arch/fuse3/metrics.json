@@ -1,0 +1,13 @@
+{
+  "name": "fuse3",
+  "version": "3.16.2-1",
+  "depends": [],
+  "makedepends": [
+    "pkg-config",
+    "meson",
+    "udev"
+  ],
+  "receive": 199700327,
+  "transmit": 412769,
+  "disk": 125513747
+}
