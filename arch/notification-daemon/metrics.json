@@ -1,0 +1,13 @@
+{
+  "name": "notification-daemon",
+  "version": "3.20.0-6",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199613395,
+  "transmit": 384279,
+  "disk": 2763723
+}
