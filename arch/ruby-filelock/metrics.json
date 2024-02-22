@@ -1,0 +1,13 @@
+{
+  "name": "ruby-filelock",
+  "version": "1.1.1-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199584228,
+  "transmit": 352176,
+  "disk": 325108
+}
