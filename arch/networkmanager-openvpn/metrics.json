@@ -1,0 +1,18 @@
+{
+  "name": "networkmanager-openvpn",
+  "version": "1.10.2-3",
+  "depends": [
+    "libnm",
+    "libsecret",
+    "openvpn"
+  ],
+  "makedepends": [
+    "git",
+    "libnma",
+    "libnma-gtk4",
+    "python"
+  ],
+  "receive": 199543100,
+  "transmit": 288750,
+  "disk": 8955679
+}
