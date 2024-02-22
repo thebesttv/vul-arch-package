@@ -1,0 +1,19 @@
+{
+  "name": "lgi",
+  "version": "0.9.2-10",
+  "depends": [
+    "glibc",
+    "glib2",
+    "libffi",
+    "gobject-introspection-runtime"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "lua",
+    "lua51",
+    "lua53"
+  ],
+  "receive": 199542127,
+  "transmit": 298653,
+  "disk": 1321800
+}
