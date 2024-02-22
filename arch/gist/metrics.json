@@ -1,0 +1,14 @@
+{
+  "name": "gist",
+  "version": "6.0.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-ronn"
+  ],
+  "receive": 199625899,
+  "transmit": 368526,
+  "disk": 325028
+}
