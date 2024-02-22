@@ -1,0 +1,11 @@
+{
+  "name": "autocutsel",
+  "version": "0.10.1-2",
+  "depends": [
+    "libxaw"
+  ],
+  "makedepends": [],
+  "receive": 199779116,
+  "transmit": 493034,
+  "disk": 1800237
+}
