@@ -1,0 +1,18 @@
+{
+  "name": "tracer",
+  "version": "0.7.11-1",
+  "depends": [
+    "python",
+    "python-distro",
+    "python-psutil",
+    "python-six",
+    "dbus-python",
+    "pyalpm"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199587248,
+  "transmit": 347249,
+  "disk": 487781
+}
