@@ -1,0 +1,21 @@
+{
+  "name": "pgbouncer",
+  "version": "1.21.0-1",
+  "depends": [
+    "glibc",
+    "libevent",
+    "c-ares",
+    "libcares.so",
+    "systemd",
+    "pam",
+    "libpam.so",
+    "openssl"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "xmlto"
+  ],
+  "receive": 199539192,
+  "transmit": 288637,
+  "disk": 3648611
+}
