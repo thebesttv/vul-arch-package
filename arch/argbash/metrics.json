@@ -1,0 +1,14 @@
+{
+  "name": "argbash",
+  "version": "2.10.0-2",
+  "depends": [
+    "autoconf"
+  ],
+  "makedepends": [
+    "make",
+    "python-docutils"
+  ],
+  "receive": 199583519,
+  "transmit": 336349,
+  "disk": 816354
+}
