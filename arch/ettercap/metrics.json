@@ -1,0 +1,32 @@
+{
+  "name": "ettercap",
+  "version": "0.8.3.1-3",
+  "depends": [
+    "glibc",
+    "openssl",
+    "zlib",
+    "libpcap",
+    "pcre",
+    "libltdl",
+    "libnet",
+    "ethtool",
+    "curl",
+    "geoip",
+    "ncurses",
+    "libncursesw.so",
+    "libformw.so",
+    "libpanelw.so",
+    "libmenuw.so",
+    "libcurl.so"
+  ],
+  "makedepends": [
+    "ghostscript",
+    "cmake",
+    "gtk3",
+    "harfbuzz",
+    "check"
+  ],
+  "receive": 199629299,
+  "transmit": 398456,
+  "disk": 17375861
+}
