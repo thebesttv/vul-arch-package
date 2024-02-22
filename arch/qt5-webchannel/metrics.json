@@ -1,0 +1,13 @@
+{
+  "name": "qt5-webchannel",
+  "version": "5.15.12+kde+r3-1",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199653742,
+  "transmit": 285854,
+  "disk": 4790382
+}
