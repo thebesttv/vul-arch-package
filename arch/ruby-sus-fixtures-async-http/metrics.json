@@ -1,0 +1,16 @@
+{
+  "name": "ruby-sus-fixtures-async-http",
+  "version": "0.7.0-1",
+  "depends": [
+    "ruby-async-http",
+    "ruby-async-io",
+    "ruby-sus",
+    "ruby-sus-fixtures-async"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199607810,
+  "transmit": 355777,
+  "disk": 409804
+}
