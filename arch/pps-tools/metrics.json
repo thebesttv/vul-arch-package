@@ -1,0 +1,11 @@
+{
+  "name": "pps-tools",
+  "version": "1.0.3-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199573232,
+  "transmit": 238979,
+  "disk": 144188
+}
