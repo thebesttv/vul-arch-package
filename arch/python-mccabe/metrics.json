@@ -1,0 +1,16 @@
+{
+  "name": "python-mccabe",
+  "version": "0.7.0-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199719357,
+  "transmit": 448942,
+  "disk": 137787
+}
