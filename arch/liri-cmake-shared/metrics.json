@@ -1,0 +1,11 @@
+{
+  "name": "liri-cmake-shared",
+  "version": "2.0.0-1",
+  "depends": [
+    "extra-cmake-modules"
+  ],
+  "makedepends": [],
+  "receive": 200066749,
+  "transmit": 629769,
+  "disk": 289297
+}
