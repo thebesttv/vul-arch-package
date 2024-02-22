@@ -1,0 +1,11 @@
+{
+  "name": "pari-seadata-small",
+  "version": "20090618-3",
+  "depends": [
+    "pari"
+  ],
+  "makedepends": [],
+  "receive": 199517834,
+  "transmit": 276606,
+  "disk": 2187436
+}
