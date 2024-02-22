@@ -1,0 +1,16 @@
+{
+  "name": "ruby-kramdown-parser-gfm",
+  "version": "1.1.0-2",
+  "depends": [
+    "ruby",
+    "ruby-kramdown"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rdoc",
+    "ruby-rake"
+  ],
+  "receive": 199527424,
+  "transmit": 249663,
+  "disk": 424833
+}
