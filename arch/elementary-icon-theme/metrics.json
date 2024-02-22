@@ -1,0 +1,16 @@
+{
+  "name": "elementary-icon-theme",
+  "version": "7.3.1-1",
+  "depends": [
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "git",
+    "librsvg",
+    "meson",
+    "xorg-xcursorgen"
+  ],
+  "receive": 199636579,
+  "transmit": 321998,
+  "disk": 83078157
+}
