@@ -1,0 +1,18 @@
+{
+  "name": "lib32-gdk-pixbuf2",
+  "version": "2.42.10-2",
+  "depends": [
+    "lib32-glib2",
+    "lib32-libpng",
+    "lib32-libtiff",
+    "lib32-libjpeg",
+    "gdk-pixbuf2"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 356122194,
+  "transmit": 589187,
+  "disk": 188513289
+}
