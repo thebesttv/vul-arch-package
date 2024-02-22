@@ -1,0 +1,14 @@
+{
+  "name": "python-pypatchelf",
+  "version": "0.9-4",
+  "depends": [
+    "python",
+    "patchelf"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199623922,
+  "transmit": 386130,
+  "disk": 149331
+}
