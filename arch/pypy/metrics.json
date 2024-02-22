@@ -1,0 +1,22 @@
+{
+  "name": "pypy",
+  "version": "7.3.15-1",
+  "depends": [
+    "expat",
+    "bzip2",
+    "gdbm",
+    "openssl",
+    "libffi",
+    "zlib",
+    "ncurses"
+  ],
+  "makedepends": [
+    "pypy",
+    "tk",
+    "sqlite",
+    "mercurial"
+  ],
+  "receive": 226073833,
+  "transmit": 490604,
+  "disk": 123042252
+}
