@@ -1,0 +1,14 @@
+{
+  "name": "dot2tex",
+  "version": "2.11.3-6",
+  "depends": [
+    "python-pyparsing",
+    "graphviz"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199688431,
+  "transmit": 431419,
+  "disk": 1892210
+}
