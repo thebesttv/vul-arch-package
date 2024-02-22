@@ -1,0 +1,12 @@
+{
+  "name": "gpa",
+  "version": "0.10.0-2",
+  "depends": [
+    "gpgme",
+    "gtk2"
+  ],
+  "makedepends": [],
+  "receive": 200503767,
+  "transmit": 443589,
+  "disk": 5702461
+}
