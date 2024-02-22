@@ -1,0 +1,15 @@
+{
+  "name": "xfce4-clipman-plugin",
+  "version": "1.6.5-1",
+  "depends": [
+    "xfce4-panel",
+    "libxtst",
+    "qrencode"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199535330,
+  "transmit": 262242,
+  "disk": 3822704
+}
