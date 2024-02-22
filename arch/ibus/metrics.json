@@ -1,0 +1,30 @@
+{
+  "name": "ibus",
+  "version": "1.5.29-3",
+  "depends": [
+    "dconf",
+    "gtk3",
+    "hicolor-icon-theme",
+    "libnotify",
+    "python-dbus",
+    "iso-codes",
+    "librsvg",
+    "libdbusmenu-gtk3"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "vala",
+    "intltool",
+    "gnome-common",
+    "gtk-doc",
+    "gtk4",
+    "gtk2",
+    "qt5-base",
+    "unicode-cldr",
+    "unicode-character-database",
+    "unicode-emoji"
+  ],
+  "receive": 199722433,
+  "transmit": 412072,
+  "disk": 30949590
+}
