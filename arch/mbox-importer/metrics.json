@@ -1,0 +1,13 @@
+{
+  "name": "mbox-importer",
+  "version": "23.08.5-1",
+  "depends": [
+    "mailcommon"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199519198,
+  "transmit": 262081,
+  "disk": 602963
+}
