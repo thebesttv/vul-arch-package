@@ -1,0 +1,19 @@
+{
+  "name": "libsmbios",
+  "version": "2.4.3-6",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "libxml2",
+    "python",
+    "chrpath",
+    "doxygen",
+    "git",
+    "cppunit",
+    "help2man"
+  ],
+  "receive": 199637270,
+  "transmit": 404792,
+  "disk": 8098460
+}
