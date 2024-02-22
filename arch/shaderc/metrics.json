@@ -1,0 +1,20 @@
+{
+  "name": "shaderc",
+  "version": "2023.7-2",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "glslang",
+    "spirv-tools"
+  ],
+  "makedepends": [
+    "asciidoctor",
+    "cmake",
+    "ninja",
+    "python",
+    "spirv-headers"
+  ],
+  "receive": 199564555,
+  "transmit": 289806,
+  "disk": 1676837
+}
