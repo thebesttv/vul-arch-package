@@ -1,0 +1,14 @@
+{
+  "name": "liboauth",
+  "version": "1:1.0.3+r16+gc26f038-1",
+  "depends": [
+    "curl",
+    "nss"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199670387,
+  "transmit": 409500,
+  "disk": 1094033
+}
