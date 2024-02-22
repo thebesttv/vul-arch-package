@@ -1,0 +1,11 @@
+{
+  "name": "perl-net-ip",
+  "version": "1.26-12",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199516668,
+  "transmit": 258331,
+  "disk": 253761
+}
