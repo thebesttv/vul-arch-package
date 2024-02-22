@@ -1,0 +1,11 @@
+{
+  "name": "njconnect",
+  "version": "1.6-3",
+  "depends": [
+    "jack"
+  ],
+  "makedepends": [],
+  "receive": 199621531,
+  "transmit": 378060,
+  "disk": 145697
+}
