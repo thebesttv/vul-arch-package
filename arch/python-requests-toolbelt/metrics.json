@@ -1,0 +1,13 @@
+{
+  "name": "python-requests-toolbelt",
+  "version": "1.0.0-1",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199622379,
+  "transmit": 388450,
+  "disk": 852876
+}
