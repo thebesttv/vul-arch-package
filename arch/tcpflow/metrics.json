@@ -1,0 +1,17 @@
+{
+  "name": "tcpflow",
+  "version": "1.6.1-2",
+  "depends": [
+    "libpcap",
+    "cairo",
+    "openssl",
+    "sqlite"
+  ],
+  "makedepends": [
+    "git",
+    "boost"
+  ],
+  "receive": 199596520,
+  "transmit": 337061,
+  "disk": 63454295
+}
