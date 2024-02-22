@@ -1,0 +1,13 @@
+{
+  "name": "perl-libintl-perl",
+  "version": "1.33-2",
+  "depends": [
+    "coreutils",
+    "gettext",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199647532,
+  "transmit": 388128,
+  "disk": 5551667
+}
