@@ -1,0 +1,11 @@
+{
+  "name": "microsocks",
+  "version": "1.0.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199612335,
+  "transmit": 344956,
+  "disk": 125300
+}
