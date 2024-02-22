@@ -1,0 +1,18 @@
+{
+  "name": "kaccounts-integration",
+  "version": "23.08.5-1",
+  "depends": [
+    "kcmutils5",
+    "signon-kwallet-extension",
+    "signon-plugin-oauth2",
+    "signon-ui"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "qcoro-qt5"
+  ],
+  "receive": 199885086,
+  "transmit": 452477,
+  "disk": 1175445
+}
