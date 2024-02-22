@@ -1,0 +1,11 @@
+{
+  "name": "libemf",
+  "version": "1.0.13-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199513311,
+  "transmit": 282018,
+  "disk": 8524249
+}
