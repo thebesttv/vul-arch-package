@@ -1,0 +1,11 @@
+{
+  "name": "libspectre",
+  "version": "0.2.12-1",
+  "depends": [
+    "ghostscript"
+  ],
+  "makedepends": [],
+  "receive": 199561933,
+  "transmit": 291364,
+  "disk": 2378430
+}
