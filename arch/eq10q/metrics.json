@@ -1,0 +1,22 @@
+{
+  "name": "eq10q",
+  "version": "2.2-5",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gtkmm"
+  ],
+  "makedepends": [
+    "atkmm",
+    "cairomm",
+    "cmake",
+    "fftw",
+    "glibmm",
+    "lv2",
+    "libsigc++",
+    "pangomm"
+  ],
+  "receive": 199662810,
+  "transmit": 444336,
+  "disk": 3492811
+}
