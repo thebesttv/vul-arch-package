@@ -1,0 +1,16 @@
+{
+  "name": "hspell",
+  "version": "1.4-5",
+  "depends": [],
+  "makedepends": [
+    "glibc",
+    "zlib",
+    "perl",
+    "hunspell",
+    "gawk",
+    "qt6-webengine"
+  ],
+  "receive": 199533495,
+  "transmit": 275520,
+  "disk": 1943798
+}
