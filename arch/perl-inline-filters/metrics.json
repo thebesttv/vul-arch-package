@@ -1,0 +1,12 @@
+{
+  "name": "perl-inline-filters",
+  "version": "0.20-6",
+  "depends": [
+    "perl-inline",
+    "perl-inline-c"
+  ],
+  "makedepends": [],
+  "receive": 199748626,
+  "transmit": 479351,
+  "disk": 153618
+}
