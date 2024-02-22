@@ -1,0 +1,15 @@
+{
+  "name": "gzip",
+  "version": "1.13-2",
+  "depends": [
+    "glibc",
+    "bash",
+    "coreutils",
+    "sed",
+    "grep"
+  ],
+  "makedepends": [],
+  "receive": 199524293,
+  "transmit": 281484,
+  "disk": 6816485
+}
