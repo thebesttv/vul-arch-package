@@ -1,0 +1,17 @@
+{
+  "name": "python-pytest-randomly",
+  "version": "3.15.0-1",
+  "depends": [
+    "python-importlib-metadata",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199515365,
+  "transmit": 244668,
+  "disk": 295257
+}
