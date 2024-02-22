@@ -1,0 +1,14 @@
+{
+  "name": "python-tblib",
+  "version": "1.7.0-6",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-six"
+  ],
+  "receive": 199598916,
+  "transmit": 353445,
+  "disk": 226687
+}
