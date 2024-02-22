@@ -1,0 +1,32 @@
+{
+  "name": "ksysguard",
+  "version": "5.22.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcompletion5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kdbusaddons5",
+    "ki18n5",
+    "kiconthemes5",
+    "kio5",
+    "knewstuff5",
+    "knotifications5",
+    "ksystemstats",
+    "kwidgetsaddons5",
+    "kwindowsystem5",
+    "kxmlgui5",
+    "libksysguard",
+    "lm_sensors",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199507429,
+  "transmit": 253909,
+  "disk": 6114674
+}
