@@ -1,0 +1,14 @@
+{
+  "name": "perl-perl4-corelibs",
+  "version": "0.005-1",
+  "depends": [
+    "perl",
+    "inetutils"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199537958,
+  "transmit": 261299,
+  "disk": 314392
+}
