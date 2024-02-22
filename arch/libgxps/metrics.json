@@ -1,0 +1,24 @@
+{
+  "name": "libgxps",
+  "version": "0.3.2-4",
+  "depends": [
+    "cairo",
+    "freetype2",
+    "glib2",
+    "lcms2",
+    "libarchive",
+    "libjpeg-turbo",
+    "libpng",
+    "libtiff"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "gtk3",
+    "meson"
+  ],
+  "receive": 199599741,
+  "transmit": 400771,
+  "disk": 1370933
+}
