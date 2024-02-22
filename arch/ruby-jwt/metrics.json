@@ -1,0 +1,16 @@
+{
+  "name": "ruby-jwt",
+  "version": "2.7.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-rspec",
+    "ruby-bundler"
+  ],
+  "receive": 199565866,
+  "transmit": 301408,
+  "disk": 534323
+}
