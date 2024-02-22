@@ -1,0 +1,27 @@
+{
+  "name": "ppsspp",
+  "version": "1.16.6-1",
+  "depends": [],
+  "makedepends": [
+    "clang",
+    "cmake",
+    "git",
+    "glew",
+    "glu",
+    "libglvnd",
+    "libpng",
+    "libzip",
+    "ninja",
+    "python",
+    "qt5-base",
+    "qt5-multimedia",
+    "qt5-tools",
+    "sdl2",
+    "sdl2_ttf",
+    "snappy",
+    "zlib"
+  ],
+  "receive": 2302257003,
+  "transmit": 2954082,
+  "disk": 3744650753
+}

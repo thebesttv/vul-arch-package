@@ -1,0 +1,54 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=14.53 s (755.5 files/s 206898.3 lines/s)"
+2499,C,145661,108068,966245
+905,C++,81446,56371,487099
+2105,C/C++ Header,64515,116957,362491
+4153,GLSL,28832,3896,218578
+97,INI,2777,0,105528
+266,Assembly,7755,9055,76791
+117,XML,38,40,28855
+138,Bourne Shell,1891,1527,12757
+11,Qt Linguist,0,0,11708
+132,JSON,6,0,11387
+65,Markdown,3636,13,10853
+6,HTML,3624,22,8411
+73,Text,1704,0,8016
+75,CMake,944,1025,7217
+79,make,867,429,6544
+7,SVG,4,48,5824
+1,yacc,214,125,4110
+24,Java,513,378,3746
+9,Fortran 77,0,0,3484
+61,YAML,441,311,3419
+18,Python,434,390,2684
+14,Objective-C++,559,250,2500
+6,Objective-C,353,190,1275
+13,Windows Resource File,117,246,1096
+8,Perl,285,388,1093
+2,PHP,0,26,962
+6,Visual Studio Solution,4,6,878
+3,C Shell,75,17,573
+7,CSS,104,24,545
+8,C#,97,38,489
+2,MSBuild script,0,0,478
+3,Rust,63,32,458
+5,Bourne Again Shell,66,104,396
+2,Starlark,36,2,383
+14,DOS Batch,102,57,339
+1,XSD,41,4,311
+3,Gradle,12,10,201
+4,JavaScript,13,0,144
+6,Dockerfile,30,24,110
+3,Windows Module Definition,1,6,95
+1,Visual Basic Script,11,11,90
+2,Swift,5,16,83
+9,Verilog-SystemVerilog,0,0,52
+1,Ruby,7,0,47
+2,HLSL,3,3,45
+1,Forth,8,0,41
+2,diff,4,23,26
+1,Ant,18,61,19
+4,Properties,1,11,16
+1,Bazel,5,0,14
+1,TOML,1,0,7
+1,AsciiDoc,2,3,6
+10977,SUM,347325,300207,2358519
