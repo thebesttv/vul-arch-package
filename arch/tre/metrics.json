@@ -1,0 +1,11 @@
+{
+  "name": "tre",
+  "version": "0.8.0-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199521293,
+  "transmit": 311568,
+  "disk": 2649972
+}
