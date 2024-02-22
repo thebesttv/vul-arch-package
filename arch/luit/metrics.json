@@ -1,0 +1,13 @@
+{
+  "name": "luit",
+  "version": "20240102-1",
+  "depends": [
+    "libfontenc"
+  ],
+  "makedepends": [
+    "libx11"
+  ],
+  "receive": 199540853,
+  "transmit": 254716,
+  "disk": 1282988
+}
