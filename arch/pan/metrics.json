@@ -1,0 +1,14 @@
+{
+  "name": "pan",
+  "version": "0.155-1",
+  "depends": [
+    "gtkspell3",
+    "gmime3"
+  ],
+  "makedepends": [
+    "itstool"
+  ],
+  "receive": 199548226,
+  "transmit": 318444,
+  "disk": 12287807
+}
