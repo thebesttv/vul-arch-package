@@ -1,0 +1,17 @@
+{
+  "name": "python-ufoprocessor",
+  "version": "1.9.0-7",
+  "depends": [
+    "python-mutatormath",
+    "python-fontparts"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199563776,
+  "transmit": 334677,
+  "disk": 440380
+}
