@@ -1,0 +1,12 @@
+{
+  "name": "libnl",
+  "version": "3.9.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199745572,
+  "transmit": 401860,
+  "disk": 6821307
+}
