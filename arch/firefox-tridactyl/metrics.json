@@ -1,0 +1,15 @@
+{
+  "name": "firefox-tridactyl",
+  "version": "1.24.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "node-gyp",
+    "python",
+    "strip-nondeterminism",
+    "yarn"
+  ],
+  "receive": 200149182,
+  "transmit": 607563,
+  "disk": 55385980
+}
