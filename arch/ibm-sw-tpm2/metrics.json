@@ -1,0 +1,11 @@
+{
+  "name": "ibm-sw-tpm2",
+  "version": "1682-2",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199510661,
+  "transmit": 288188,
+  "disk": 4666709
+}
