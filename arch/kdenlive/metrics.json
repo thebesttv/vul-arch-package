@@ -1,0 +1,24 @@
+{
+  "name": "kdenlive",
+  "version": "23.08.5-1",
+  "depends": [
+    "qt5-networkauth",
+    "knewstuff5",
+    "knotifyconfig5",
+    "kfilemetadata5",
+    "purpose5",
+    "mlt",
+    "breeze-icons",
+    "frei0r-plugins"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "v4l-utils",
+    "doxygen",
+    "qt5-tools"
+  ],
+  "receive": 212629825,
+  "transmit": 425439,
+  "disk": 105823828
+}
