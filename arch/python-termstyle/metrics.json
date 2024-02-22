@@ -1,0 +1,11 @@
+{
+  "name": "python-termstyle",
+  "version": "0.1.11-10",
+  "depends": [
+    "python-setuptools"
+  ],
+  "makedepends": [],
+  "receive": 199552130,
+  "transmit": 274936,
+  "disk": 109874
+}
