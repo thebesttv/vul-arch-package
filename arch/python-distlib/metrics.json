@@ -1,0 +1,17 @@
+{
+  "name": "python-distlib",
+  "version": "0.3.8-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199635669,
+  "transmit": 385104,
+  "disk": 21385070
+}
