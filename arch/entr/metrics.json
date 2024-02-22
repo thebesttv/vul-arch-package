@@ -1,0 +1,11 @@
+{
+  "name": "entr",
+  "version": "5.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199557055,
+  "transmit": 299548,
+  "disk": 218019
+}
