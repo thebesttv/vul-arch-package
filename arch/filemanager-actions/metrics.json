@@ -1,0 +1,19 @@
+{
+  "name": "filemanager-actions",
+  "version": "3.4-6",
+  "depends": [
+    "gtk3",
+    "libgtop"
+  ],
+  "makedepends": [
+    "intltool",
+    "caja",
+    "libnautilus-extension",
+    "nemo",
+    "yelp-tools",
+    "gtk-doc"
+  ],
+  "receive": 199506552,
+  "transmit": 272901,
+  "disk": 21829947
+}
