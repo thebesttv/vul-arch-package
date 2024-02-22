@@ -1,0 +1,11 @@
+{
+  "name": "enca",
+  "version": "1.19-5",
+  "depends": [
+    "recode"
+  ],
+  "makedepends": [],
+  "receive": 199539909,
+  "transmit": 292531,
+  "disk": 3774775
+}
