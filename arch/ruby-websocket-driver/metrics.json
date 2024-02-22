@@ -1,0 +1,15 @@
+{
+  "name": "ruby-websocket-driver",
+  "version": "0.7.5-2",
+  "depends": [
+    "ruby",
+    "ruby-websocket-extensions"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rake-compiler"
+  ],
+  "receive": 199516823,
+  "transmit": 276644,
+  "disk": 278780
+}
