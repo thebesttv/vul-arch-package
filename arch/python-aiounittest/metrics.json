@@ -1,0 +1,13 @@
+{
+  "name": "python-aiounittest",
+  "version": "1.4.2-2",
+  "depends": [
+    "python-wrapt"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199540948,
+  "transmit": 291945,
+  "disk": 177148
+}
