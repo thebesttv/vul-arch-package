@@ -1,0 +1,13 @@
+{
+  "name": "python-crc8",
+  "version": "0.2.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199628728,
+  "transmit": 363300,
+  "disk": 121966
+}
