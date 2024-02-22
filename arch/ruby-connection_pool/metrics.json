@@ -1,0 +1,14 @@
+{
+  "name": "ruby-connection_pool",
+  "version": "2.4.1-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-minitest",
+    "ruby-rake"
+  ],
+  "receive": 199508031,
+  "transmit": 241987,
+  "disk": 163302
+}
