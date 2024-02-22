@@ -1,0 +1,18 @@
+{
+  "name": "jq",
+  "version": "1.7.1-1",
+  "depends": [
+    "glibc",
+    "oniguruma"
+  ],
+  "makedepends": [
+    "autoconf",
+    "automake",
+    "bison",
+    "flex",
+    "python"
+  ],
+  "receive": 199529544,
+  "transmit": 288039,
+  "disk": 10712706
+}
