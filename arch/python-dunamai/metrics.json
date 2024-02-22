@@ -1,0 +1,17 @@
+{
+  "name": "python-dunamai",
+  "version": "1.18.0-1",
+  "depends": [
+    "python",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199709755,
+  "transmit": 427609,
+  "disk": 1125995
+}
