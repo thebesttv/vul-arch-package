@@ -1,0 +1,17 @@
+{
+  "name": "qterminal",
+  "version": "1.4.0-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "qtermwidget",
+    "qt5-x11extras",
+    "libcanberra"
+  ],
+  "makedepends": [
+    "cmake",
+    "lxqt-build-tools"
+  ],
+  "receive": 199614044,
+  "transmit": 361494,
+  "disk": 2638185
+}
