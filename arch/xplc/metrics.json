@@ -1,0 +1,11 @@
+{
+  "name": "xplc",
+  "version": "0.3.13-10",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199544182,
+  "transmit": 259750,
+  "disk": 1224147
+}
