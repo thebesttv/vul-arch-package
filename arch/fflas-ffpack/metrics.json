@@ -1,0 +1,13 @@
+{
+  "name": "fflas-ffpack",
+  "version": "2.5.0-1",
+  "depends": [
+    "givaro",
+    "cblas",
+    "lapack"
+  ],
+  "makedepends": [],
+  "receive": 199566526,
+  "transmit": 342883,
+  "disk": 7475704
+}
