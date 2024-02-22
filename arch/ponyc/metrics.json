@@ -1,0 +1,16 @@
+{
+  "name": "ponyc",
+  "version": "0.43.1-1",
+  "depends": [
+    "llvm-libs"
+  ],
+  "makedepends": [
+    "benchmark",
+    "cmake",
+    "gtest",
+    "llvm"
+  ],
+  "receive": 199544696,
+  "transmit": 328710,
+  "disk": 6427033
+}
