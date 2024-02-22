@@ -1,0 +1,14 @@
+{
+  "name": "qt5-lottie",
+  "version": "5.15.12-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "git"
+  ],
+  "receive": 199668375,
+  "transmit": 398363,
+  "disk": 1939949
+}
