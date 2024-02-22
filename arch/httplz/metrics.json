@@ -1,0 +1,15 @@
+{
+  "name": "httplz",
+  "version": "1.13.2-1",
+  "depends": [
+    "openssl",
+    "bzip2"
+  ],
+  "makedepends": [
+    "cargo",
+    "ruby-ronn-ng"
+  ],
+  "receive": 199673384,
+  "transmit": 368040,
+  "disk": 548040
+}
