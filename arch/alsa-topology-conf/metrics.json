@@ -1,0 +1,9 @@
+{
+  "name": "alsa-topology-conf",
+  "version": "1.2.5.1-3",
+  "depends": [],
+  "makedepends": [],
+  "receive": 199593243,
+  "transmit": 265523,
+  "disk": 483595
+}
