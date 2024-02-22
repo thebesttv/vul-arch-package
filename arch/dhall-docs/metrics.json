@@ -1,0 +1,31 @@
+{
+  "name": "dhall-docs",
+  "version": "1.0.11-86",
+  "depends": [
+    "ghc-libs",
+    "haskell-base16-bytestring",
+    "haskell-cryptohash-sha256",
+    "dhall",
+    "haskell-file-embed",
+    "haskell-lens-family-core",
+    "haskell-lucid",
+    "haskell-megaparsec",
+    "haskell-mmark",
+    "haskell-optparse-applicative",
+    "haskell-path",
+    "haskell-path-io",
+    "haskell-prettyprinter"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest",
+    "haskell-foldl",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-silver",
+    "haskell-turtle"
+  ],
+  "receive": 200008770,
+  "transmit": 418477,
+  "disk": 870474
+}
