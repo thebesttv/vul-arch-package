@@ -1,0 +1,13 @@
+{
+  "name": "mauikit-accounts",
+  "version": "3.0.2-1",
+  "depends": [
+    "mauikit"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199692645,
+  "transmit": 378645,
+  "disk": 424530
+}
