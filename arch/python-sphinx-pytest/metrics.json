@@ -1,0 +1,17 @@
+{
+  "name": "python-sphinx-pytest",
+  "version": "0.1.1-1",
+  "depends": [
+    "python-sphinx",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core",
+    "python-wheel"
+  ],
+  "receive": 199655973,
+  "transmit": 407642,
+  "disk": 138791
+}
