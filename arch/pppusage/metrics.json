@@ -1,0 +1,13 @@
+{
+  "name": "pppusage",
+  "version": "0.2.5-14",
+  "depends": [
+    "perl",
+    "ppp",
+    "cron"
+  ],
+  "makedepends": [],
+  "receive": 199537252,
+  "transmit": 274771,
+  "disk": 174237
+}
