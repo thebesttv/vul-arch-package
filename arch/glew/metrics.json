@@ -1,0 +1,14 @@
+{
+  "name": "glew",
+  "version": "2.2.0-6",
+  "depends": [
+    "glibc",
+    "libegl",
+    "libgl",
+    "glu"
+  ],
+  "makedepends": [],
+  "receive": 199554076,
+  "transmit": 293913,
+  "disk": 6548849
+}
