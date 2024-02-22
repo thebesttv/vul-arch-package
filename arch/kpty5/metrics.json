@@ -1,0 +1,18 @@
+{
+  "name": "kpty5",
+  "version": "5.115.0-1",
+  "depends": [
+    "kcoreaddons5",
+    "ki18n5",
+    "libutempter"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199605649,
+  "transmit": 310624,
+  "disk": 26234553
+}
