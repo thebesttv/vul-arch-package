@@ -1,0 +1,15 @@
+{
+  "name": "python-pallets-sphinx-themes",
+  "version": "2.1.0-1",
+  "depends": [
+    "python",
+    "python-sphinx",
+    "python-importlib-metadata"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199561638,
+  "transmit": 354157,
+  "disk": 254665
+}
