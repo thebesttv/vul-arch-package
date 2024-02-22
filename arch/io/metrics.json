@@ -1,0 +1,31 @@
+{
+  "name": "io",
+  "version": "2017.09.06-9",
+  "depends": [
+    "freeglut",
+    "freetype2",
+    "libedit",
+    "libevent",
+    "libjpeg-turbo",
+    "libpng",
+    "libsndfile",
+    "libtheora",
+    "libtiff",
+    "libxml2",
+    "libxmu",
+    "lzo",
+    "mariadb-libs",
+    "pcre",
+    "python",
+    "sqlite",
+    "util-linux",
+    "yajl"
+  ],
+  "makedepends": [
+    "cmake",
+    "git"
+  ],
+  "receive": 225855203,
+  "transmit": 626557,
+  "disk": 57745912
+}
