@@ -1,0 +1,15 @@
+{
+  "name": "ruby-cri",
+  "version": "2.15.11-3",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-yard",
+    "ruby-rake"
+  ],
+  "receive": 199817614,
+  "transmit": 483526,
+  "disk": 310481
+}
