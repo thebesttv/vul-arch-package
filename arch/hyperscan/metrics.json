@@ -1,0 +1,16 @@
+{
+  "name": "hyperscan",
+  "version": "5.4.2-1",
+  "depends": [],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "git",
+    "ninja",
+    "python",
+    "ragel"
+  ],
+  "receive": 199537315,
+  "transmit": 276559,
+  "disk": 18964549
+}
