@@ -1,0 +1,11 @@
+{
+  "name": "perl-net-openssh",
+  "version": "0.84-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199498732,
+  "transmit": 256639,
+  "disk": 473977
+}
