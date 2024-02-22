@@ -1,0 +1,14 @@
+{
+  "name": "perl-net-libidn2",
+  "version": "1.02-2",
+  "depends": [
+    "libidn2",
+    "perl"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199626319,
+  "transmit": 385008,
+  "disk": 206931
+}
