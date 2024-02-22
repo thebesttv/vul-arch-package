@@ -1,0 +1,14 @@
+{
+  "name": "grsync",
+  "version": "1.3.1-1",
+  "depends": [
+    "gtk3",
+    "rsync"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199566598,
+  "transmit": 325466,
+  "disk": 1746583
+}
