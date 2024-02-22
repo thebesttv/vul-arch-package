@@ -1,0 +1,11 @@
+{
+  "name": "rinutils",
+  "version": "0.10.2-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199625301,
+  "transmit": 390274,
+  "disk": 244811
+}
