@@ -1,0 +1,30 @@
+{
+  "name": "pandoc-plot",
+  "version": "1.8.0-45",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-data-default",
+    "haskell-gitrev",
+    "haskell-hashable",
+    "haskell-lifted-async",
+    "haskell-lifted-base",
+    "haskell-optparse-applicative",
+    "haskell-pandoc",
+    "haskell-pandoc-types",
+    "haskell-shakespeare",
+    "haskell-tagsoup",
+    "haskell-typed-process",
+    "haskell-yaml"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec-expectations",
+    "haskell-tasty",
+    "haskell-tasty-hspec",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 200049736,
+  "transmit": 575216,
+  "disk": 830427
+}
