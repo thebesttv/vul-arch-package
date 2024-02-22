@@ -1,0 +1,13 @@
+{
+  "name": "mlocate",
+  "version": "0.26.git.20170220-7",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 282692317,
+  "transmit": 620178,
+  "disk": 105935488
+}
