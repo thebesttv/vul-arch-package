@@ -1,0 +1,23 @@
+{
+  "name": "nftables",
+  "version": "1:1.0.9-1",
+  "depends": [
+    "libmnl",
+    "libnftnl",
+    "gmp",
+    "readline",
+    "ncurses",
+    "jansson"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "python",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 200649632,
+  "transmit": 391523,
+  "disk": 9637082
+}
