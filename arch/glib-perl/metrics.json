@@ -1,0 +1,14 @@
+{
+  "name": "glib-perl",
+  "version": "1.329.4-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "perl-extutils-depends",
+    "perl-extutils-pkgconfig"
+  ],
+  "receive": 199593310,
+  "transmit": 284083,
+  "disk": 1493419
+}
