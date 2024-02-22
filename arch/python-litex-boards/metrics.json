@@ -1,0 +1,23 @@
+{
+  "name": "python-litex-boards",
+  "version": "2021.08-2",
+  "depends": [
+    "python-migen",
+    "python-litex",
+    "python-litedram",
+    "python-liteeth",
+    "python-liteiclink",
+    "python-litejesd204b",
+    "python-litepcie",
+    "python-litesata",
+    "python-litescope",
+    "python-litesdcard",
+    "python-litevideo"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199550311,
+  "transmit": 261446,
+  "disk": 1511384
+}
