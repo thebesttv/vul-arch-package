@@ -1,0 +1,19 @@
+{
+  "name": "gnome-mines",
+  "version": "40.1-1",
+  "depends": [
+    "gtk3",
+    "librsvg",
+    "libgnome-games-support"
+  ],
+  "makedepends": [
+    "yelp-tools",
+    "appstream-glib",
+    "vala",
+    "git",
+    "meson"
+  ],
+  "receive": 199805069,
+  "transmit": 485587,
+  "disk": 13020310
+}
