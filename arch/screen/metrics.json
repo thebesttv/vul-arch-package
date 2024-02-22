@@ -1,0 +1,12 @@
+{
+  "name": "screen",
+  "version": "4.9.1-1",
+  "depends": [
+    "ncurses",
+    "pam"
+  ],
+  "makedepends": [],
+  "receive": 199721669,
+  "transmit": 429203,
+  "disk": 4635509
+}
