@@ -1,0 +1,19 @@
+{
+  "name": "switchboard-plug-a11y",
+  "version": "2.3.0-2",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so",
+    "libswitchboard-2.0.so"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala"
+  ],
+  "receive": 199525055,
+  "transmit": 289426,
+  "disk": 4325414
+}
