@@ -1,0 +1,15 @@
+{
+  "name": "ruby-bindata",
+  "version": "2.4.14-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc",
+    "ruby-bundler"
+  ],
+  "receive": 199695885,
+  "transmit": 464677,
+  "disk": 513414
+}
