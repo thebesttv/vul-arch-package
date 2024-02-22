@@ -1,0 +1,13 @@
+{
+  "name": "haskell-ghc-trace-events",
+  "version": "0.1.2.8-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199811677,
+  "transmit": 578999,
+  "disk": 154713
+}
