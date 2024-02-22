@@ -1,0 +1,13 @@
+{
+  "name": "python-html2text",
+  "version": "2020.1.16-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199686002,
+  "transmit": 429538,
+  "disk": 355757
+}
