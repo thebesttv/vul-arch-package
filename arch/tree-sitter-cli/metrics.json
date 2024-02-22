@@ -1,0 +1,14 @@
+{
+  "name": "tree-sitter-cli",
+  "version": "0.21.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199703464,
+  "transmit": 469070,
+  "disk": 30672390
+}
