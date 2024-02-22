@@ -1,0 +1,11 @@
+{
+  "name": "perl-padwalker",
+  "version": "2.5-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199771620,
+  "transmit": 447332,
+  "disk": 162464
+}
