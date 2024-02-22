@@ -1,0 +1,13 @@
+{
+  "name": "python-w3lib",
+  "version": "2.1.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199630892,
+  "transmit": 395272,
+  "disk": 390193
+}
