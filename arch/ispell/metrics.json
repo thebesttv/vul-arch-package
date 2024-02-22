@@ -1,0 +1,12 @@
+{
+  "name": "ispell",
+  "version": "3.4.05-1",
+  "depends": [
+    "ncurses",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199485008,
+  "transmit": 248419,
+  "disk": 2882517
+}
