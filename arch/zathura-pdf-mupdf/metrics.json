@@ -1,0 +1,22 @@
+{
+  "name": "zathura-pdf-mupdf",
+  "version": "0.4.1-15",
+  "depends": [
+    "cairo",
+    "gumbo-parser",
+    "jbig2dec",
+    "libjpeg",
+    "libmupdf",
+    "openjpeg2",
+    "openssl",
+    "zathura"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "git"
+  ],
+  "receive": 199729297,
+  "transmit": 338725,
+  "disk": 221407
+}
