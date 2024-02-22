@@ -1,0 +1,13 @@
+{
+  "name": "indent",
+  "version": "2.2.13-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "texi2html"
+  ],
+  "receive": 199510577,
+  "transmit": 264344,
+  "disk": 3673832
+}
