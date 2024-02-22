@@ -1,0 +1,20 @@
+{
+  "name": "balsa",
+  "version": "2.6.4-1",
+  "depends": [
+    "gmime3",
+    "webkit2gtk",
+    "libical",
+    "libnotify",
+    "gpgme",
+    "gtksourceview4",
+    "gspell"
+  ],
+  "makedepends": [
+    "yelp-tools",
+    "intltool"
+  ],
+  "receive": 200306322,
+  "transmit": 649285,
+  "disk": 27207877
+}
