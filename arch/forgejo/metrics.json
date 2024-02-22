@@ -1,0 +1,17 @@
+{
+  "name": "forgejo",
+  "version": "1.21.4.0-1",
+  "depends": [
+    "glibc",
+    "git"
+  ],
+  "makedepends": [
+    "go",
+    "nodejs",
+    "npm",
+    "python-poetry"
+  ],
+  "receive": 774525654,
+  "transmit": 3730784,
+  "disk": 622288815
+}
