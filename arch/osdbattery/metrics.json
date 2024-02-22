@@ -1,0 +1,13 @@
+{
+  "name": "osdbattery",
+  "version": "1.4-8",
+  "depends": [
+    "xosd"
+  ],
+  "makedepends": [
+    "patch"
+  ],
+  "receive": 199630548,
+  "transmit": 353271,
+  "disk": 164946
+}
