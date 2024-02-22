@@ -1,0 +1,16 @@
+{
+  "name": "python-mutagen",
+  "version": "1.47.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199487917,
+  "transmit": 270802,
+  "disk": 5135760
+}
