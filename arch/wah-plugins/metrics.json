@@ -1,0 +1,13 @@
+{
+  "name": "wah-plugins",
+  "version": "0.1.0-6",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "ladspa"
+  ],
+  "receive": 199764850,
+  "transmit": 476004,
+  "disk": 167933
+}
