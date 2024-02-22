@@ -1,0 +1,20 @@
+{
+  "name": "libmbim",
+  "version": "1.30.0-1",
+  "depends": [
+    "bash",
+    "glib2",
+    "systemd"
+  ],
+  "makedepends": [
+    "bash-completion",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "help2man",
+    "meson"
+  ],
+  "receive": 199689354,
+  "transmit": 434552,
+  "disk": 4412453
+}
