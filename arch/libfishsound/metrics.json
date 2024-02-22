@@ -1,0 +1,13 @@
+{
+  "name": "libfishsound",
+  "version": "1.0.0-5",
+  "depends": [
+    "libvorbis",
+    "speex",
+    "flac"
+  ],
+  "makedepends": [],
+  "receive": 199574787,
+  "transmit": 310109,
+  "disk": 616032
+}
