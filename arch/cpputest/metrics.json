@@ -1,0 +1,11 @@
+{
+  "name": "cpputest",
+  "version": "4.0-4",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199773902,
+  "transmit": 443139,
+  "disk": 4621215
+}
