@@ -1,0 +1,14 @@
+{
+  "name": "smpeg",
+  "version": "2.0.0-2",
+  "depends": [
+    "sdl2"
+  ],
+  "makedepends": [
+    "mesa",
+    "glu"
+  ],
+  "receive": 199676459,
+  "transmit": 429863,
+  "disk": 2021399
+}
