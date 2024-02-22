@@ -1,0 +1,38 @@
+{
+  "name": "haskell-yesod-static",
+  "version": "1.6.1.0-698",
+  "depends": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-attoparsec",
+    "haskell-base64-bytestring",
+    "haskell-blaze-builder",
+    "haskell-conduit",
+    "haskell-cryptonite",
+    "haskell-cryptonite-conduit",
+    "haskell-css-text",
+    "haskell-data-default",
+    "haskell-file-embed",
+    "haskell-hashable",
+    "haskell-hjsmin",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-mime-types",
+    "haskell-rio",
+    "haskell-unix-compat",
+    "haskell-unordered-containers",
+    "haskell-wai",
+    "haskell-wai-app-static",
+    "haskell-yesod-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hunit",
+    "haskell-wai-extra",
+    "haskell-yesod-test"
+  ],
+  "receive": 199892052,
+  "transmit": 462308,
+  "disk": 1361600
+}
