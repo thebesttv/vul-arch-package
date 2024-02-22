@@ -1,0 +1,11 @@
+{
+  "name": "perl-http-response-encoding",
+  "version": "0.06-7",
+  "depends": [
+    "perl-libwww"
+  ],
+  "makedepends": [],
+  "receive": 199627560,
+  "transmit": 381523,
+  "disk": 132368
+}
