@@ -1,0 +1,25 @@
+{
+  "name": "dtk6gui",
+  "version": "1:6.0.5-2",
+  "depends": [
+    "glibc",
+    "dtk6core",
+    "freeimage",
+    "libraw",
+    "librsvg",
+    "qt6-base",
+    "glib2",
+    "libx11",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-tools",
+    "gtest",
+    "doxygen"
+  ],
+  "receive": 199609404,
+  "transmit": 377712,
+  "disk": 1963072
+}
