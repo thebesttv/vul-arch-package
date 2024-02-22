@@ -1,0 +1,13 @@
+{
+  "name": "rz-pipe",
+  "version": "0.4.0-2",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "python-setuptools",
+    "rizin"
+  ],
+  "receive": 199522602,
+  "transmit": 254381,
+  "disk": 566212
+}
