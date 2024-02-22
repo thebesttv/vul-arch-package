@@ -1,0 +1,17 @@
+{
+  "name": "python-crcmod",
+  "version": "1.7-6",
+  "depends": [
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199644079,
+  "transmit": 412368,
+  "disk": 618616
+}
