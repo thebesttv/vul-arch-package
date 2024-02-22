@@ -1,0 +1,16 @@
+{
+  "name": "openttd",
+  "version": "13.4-2",
+  "depends": [
+    "fluidsynth",
+    "fontconfig",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199812649,
+  "transmit": 367825,
+  "disk": 55946607
+}
