@@ -1,0 +1,26 @@
+{
+  "name": "python-astropy",
+  "version": "6.0.0-2",
+  "depends": [
+    "python",
+    "cfitsio",
+    "expat",
+    "wcslib",
+    "python-numpy",
+    "python-pyerfa",
+    "python-yaml",
+    "python-packaging",
+    "python-astropy-iers-data"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm",
+    "python-extension-helpers",
+    "cython"
+  ],
+  "receive": 206725658,
+  "transmit": 403763,
+  "disk": 37993016
+}
