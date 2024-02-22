@@ -1,0 +1,16 @@
+{
+  "name": "python-cachy",
+  "version": "0.3.0-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 199801744,
+  "transmit": 524832,
+  "disk": 226648
+}
