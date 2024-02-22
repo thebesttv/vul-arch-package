@@ -1,0 +1,14 @@
+{
+  "name": "dfmt",
+  "version": "0.15.1-1",
+  "depends": [
+    "liblphobos"
+  ],
+  "makedepends": [
+    "ldc",
+    "git"
+  ],
+  "receive": 205783229,
+  "transmit": 479013,
+  "disk": 10319869
+}
