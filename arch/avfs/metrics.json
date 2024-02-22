@@ -1,0 +1,15 @@
+{
+  "name": "avfs",
+  "version": "1.1.5-1",
+  "depends": [
+    "fuse2",
+    "lzlib",
+    "perl",
+    "xz",
+    "zstd"
+  ],
+  "makedepends": [],
+  "receive": 199548286,
+  "transmit": 305741,
+  "disk": 3934638
+}
