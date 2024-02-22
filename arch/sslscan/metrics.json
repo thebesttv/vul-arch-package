@@ -1,0 +1,12 @@
+{
+  "name": "sslscan",
+  "version": "2.1.2-1",
+  "depends": [
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199647752,
+  "transmit": 358317,
+  "disk": 753644
+}
