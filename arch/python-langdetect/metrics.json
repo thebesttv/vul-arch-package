@@ -1,0 +1,13 @@
+{
+  "name": "python-langdetect",
+  "version": "1.0.9-4",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199647218,
+  "transmit": 393421,
+  "disk": 3411863
+}
