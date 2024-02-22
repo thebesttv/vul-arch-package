@@ -1,0 +1,17 @@
+{
+  "name": "python-ziamath",
+  "version": "0.9-1",
+  "depends": [
+    "python-ziafont",
+    "python-latex2mathml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199518949,
+  "transmit": 262750,
+  "disk": 5925569
+}
