@@ -1,0 +1,11 @@
+{
+  "name": "libvarlink",
+  "version": "23-1",
+  "depends": [],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199598636,
+  "transmit": 366533,
+  "disk": 997853
+}
