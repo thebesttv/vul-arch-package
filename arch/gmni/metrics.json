@@ -1,0 +1,14 @@
+{
+  "name": "gmni",
+  "version": "1.0-2",
+  "depends": [
+    "bearssl"
+  ],
+  "makedepends": [
+    "git",
+    "scdoc"
+  ],
+  "receive": 199610666,
+  "transmit": 347847,
+  "disk": 607754
+}
