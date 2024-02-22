@@ -1,0 +1,12 @@
+{
+  "name": "tdlib",
+  "version": "0.9.2-2",
+  "depends": [],
+  "makedepends": [
+    "boost",
+    "git"
+  ],
+  "receive": 207246618,
+  "transmit": 387169,
+  "disk": 44544390
+}
