@@ -1,0 +1,18 @@
+{
+  "name": "asciidoc",
+  "version": "10.2.0-4",
+  "depends": [
+    "python",
+    "libxslt",
+    "docbook-xsl"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199577178,
+  "transmit": 330445,
+  "disk": 7204547
+}
