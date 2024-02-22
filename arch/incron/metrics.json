@@ -1,0 +1,14 @@
+{
+  "name": "incron",
+  "version": "0.5.12-5",
+  "depends": [
+    "gcc-libs",
+    "bash"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199631025,
+  "transmit": 396700,
+  "disk": 2667882
+}
