@@ -1,0 +1,15 @@
+{
+  "name": "makedumpfile",
+  "version": "1.7.4-1",
+  "depends": [
+    "perl",
+    "libelf",
+    "zstd"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199582432,
+  "transmit": 376375,
+  "disk": 2933110
+}
