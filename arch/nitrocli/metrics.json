@@ -1,0 +1,15 @@
+{
+  "name": "nitrocli",
+  "version": "0.4.1-2",
+  "depends": [
+    "gnupg",
+    "libnitrokey.so"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 199711761,
+  "transmit": 456276,
+  "disk": 7393824
+}
