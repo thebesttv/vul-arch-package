@@ -1,0 +1,21 @@
+{
+  "name": "cage",
+  "version": "0.1.5-2",
+  "depends": [
+    "glibc",
+    "wayland",
+    "wlroots0.16"
+  ],
+  "makedepends": [
+    "git",
+    "libxkbcommon",
+    "meson",
+    "pixman",
+    "scdoc",
+    "wayland-protocols",
+    "xorg-server-xwayland"
+  ],
+  "receive": 199699276,
+  "transmit": 416653,
+  "disk": 1083814
+}
