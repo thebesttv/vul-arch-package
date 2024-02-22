@@ -1,0 +1,19 @@
+{
+  "name": "gcolor3",
+  "version": "2.4.0-5",
+  "depends": [
+    "at-spi2-core",
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "meson"
+  ],
+  "receive": 199601760,
+  "transmit": 359796,
+  "disk": 897250
+}
