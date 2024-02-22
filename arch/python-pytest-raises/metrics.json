@@ -1,0 +1,13 @@
+{
+  "name": "python-pytest-raises",
+  "version": "0.11-4",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199525543,
+  "transmit": 279642,
+  "disk": 186135
+}
