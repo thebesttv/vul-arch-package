@@ -1,0 +1,13 @@
+{
+  "name": "modclean",
+  "version": "3.0.0beta.1-3",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199520330,
+  "transmit": 284122,
+  "disk": 84885
+}
