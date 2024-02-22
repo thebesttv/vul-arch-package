@@ -1,0 +1,20 @@
+{
+  "name": "libdex",
+  "version": "0.4.3-1",
+  "depends": [
+    "glib2",
+    "liburing"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "libsoup3",
+    "libsysprof-capture",
+    "meson",
+    "vala"
+  ],
+  "receive": 199681392,
+  "transmit": 428994,
+  "disk": 1716438
+}
