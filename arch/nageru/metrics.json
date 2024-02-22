@@ -1,0 +1,26 @@
+{
+  "name": "nageru",
+  "version": "2.3.0-2",
+  "depends": [
+    "libmicrohttpd",
+    "ffmpeg",
+    "libx264",
+    "protobuf",
+    "movit",
+    "bmusb",
+    "qcustomplot",
+    "pciutils",
+    "zita-resampler",
+    "sqlite3",
+    "luajit",
+    "cmake"
+  ],
+  "makedepends": [
+    "meson",
+    "eigen",
+    "qt5-tools"
+  ],
+  "receive": 199574562,
+  "transmit": 299198,
+  "disk": 3206066
+}
