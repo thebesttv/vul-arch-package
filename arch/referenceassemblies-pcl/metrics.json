@@ -1,0 +1,13 @@
+{
+  "name": "referenceassemblies-pcl",
+  "version": "4.6-3",
+  "depends": [
+    "mono"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199590541,
+  "transmit": 306134,
+  "disk": 30392153
+}
