@@ -1,0 +1,12 @@
+{
+  "name": "chrono-date",
+  "version": "3.0.1-3",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git"
+  ],
+  "receive": 199649245,
+  "transmit": 395334,
+  "disk": 2964556
+}
