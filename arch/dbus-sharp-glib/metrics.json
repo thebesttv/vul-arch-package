@@ -1,0 +1,13 @@
+{
+  "name": "dbus-sharp-glib",
+  "version": "0.6.0-3",
+  "depends": [
+    "dbus-sharp>=0.8"
+  ],
+  "makedepends": [
+    "pkgconfig"
+  ],
+  "receive": 199655488,
+  "transmit": 481300,
+  "disk": 431195
+}
