@@ -1,0 +1,23 @@
+{
+  "name": "haskell-shakespeare",
+  "version": "2.1.0.1-33",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-blaze-html",
+    "haskell-blaze-markup",
+    "haskell-file-embed",
+    "haskell-scientific",
+    "haskell-th-lift",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hunit"
+  ],
+  "receive": 199762976,
+  "transmit": 448890,
+  "disk": 944120
+}
