@@ -1,0 +1,12 @@
+{
+  "name": "docker-scan",
+  "version": "0.26.0-1",
+  "depends": [],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199606339,
+  "transmit": 318289,
+  "disk": 1215958
+}
