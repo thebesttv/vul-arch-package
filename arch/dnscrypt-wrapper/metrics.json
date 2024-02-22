@@ -1,0 +1,12 @@
+{
+  "name": "dnscrypt-wrapper",
+  "version": "0.4.2-4",
+  "depends": [
+    "libsodium",
+    "libevent"
+  ],
+  "makedepends": [],
+  "receive": 199690304,
+  "transmit": 436796,
+  "disk": 468561
+}
