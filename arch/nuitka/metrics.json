@@ -1,0 +1,21 @@
+{
+  "name": "nuitka",
+  "version": "2.0.1-1",
+  "depends": [
+    "libxml2",
+    "patchelf",
+    "python-appdirs",
+    "python-setuptools",
+    "python-wheel",
+    "scons"
+  ],
+  "makedepends": [
+    "gdb",
+    "python-build",
+    "python-installer",
+    "git"
+  ],
+  "receive": 203954955,
+  "transmit": 349303,
+  "disk": 31928300
+}
