@@ -1,0 +1,11 @@
+{
+  "name": "abc",
+  "version": "0.0.0.20221019-1",
+  "depends": [
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 205783840,
+  "transmit": 352397,
+  "disk": 41892293
+}
