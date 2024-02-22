@@ -1,0 +1,20 @@
+{
+  "name": "kcov",
+  "version": "42-1",
+  "depends": [
+    "elfutils",
+    "curl",
+    "zstd",
+    "zlib",
+    "binutils",
+    "libsframe.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "ninja"
+  ],
+  "receive": 199551762,
+  "transmit": 359826,
+  "disk": 1516441
+}
