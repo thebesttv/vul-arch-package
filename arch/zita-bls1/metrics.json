@@ -1,0 +1,17 @@
+{
+  "name": "zita-bls1",
+  "version": "0.3.3-3",
+  "depends": [
+    "cairo",
+    "clthreads",
+    "clxclient",
+    "jack",
+    "zita-convolver"
+  ],
+  "makedepends": [
+    "gendesk"
+  ],
+  "receive": 199845156,
+  "transmit": 566010,
+  "disk": 280932
+}
