@@ -1,0 +1,12 @@
+{
+  "name": "rocksndiamonds-data",
+  "version": "4.3.7.1-1",
+  "depends": [],
+  "makedepends": [
+    "unzip",
+    "p7zip"
+  ],
+  "receive": 204276713,
+  "transmit": 306043,
+  "disk": 18279707
+}
