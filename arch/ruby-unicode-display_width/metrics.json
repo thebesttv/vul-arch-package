@@ -1,0 +1,14 @@
+{
+  "name": "ruby-unicode-display_width",
+  "version": "2.5.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git",
+    "ruby-rdoc"
+  ],
+  "receive": 199682088,
+  "transmit": 420086,
+  "disk": 2368049
+}
