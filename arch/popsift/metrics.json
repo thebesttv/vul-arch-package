@@ -1,0 +1,17 @@
+{
+  "name": "popsift",
+  "version": "1.0.0.git3-2",
+  "depends": [
+    "boost-libs"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "ninja",
+    "git",
+    "cuda"
+  ],
+  "receive": 199566807,
+  "transmit": 330212,
+  "disk": 45108327
+}
