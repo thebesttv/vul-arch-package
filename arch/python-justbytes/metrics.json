@@ -1,0 +1,14 @@
+{
+  "name": "python-justbytes",
+  "version": "0.15-4",
+  "depends": [
+    "python",
+    "python-justbases"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199679669,
+  "transmit": 440541,
+  "disk": 389590
+}
