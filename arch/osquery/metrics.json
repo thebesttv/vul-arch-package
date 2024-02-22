@@ -1,0 +1,17 @@
+{
+  "name": "osquery",
+  "version": "5.7.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "clang",
+    "python",
+    "gcc-libs",
+    "git",
+    "libunwind"
+  ],
+  "receive": 241611025,
+  "transmit": 581668,
+  "disk": 66516352
+}
