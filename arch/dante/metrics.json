@@ -1,0 +1,13 @@
+{
+  "name": "dante",
+  "version": "1.4.3-3",
+  "depends": [
+    "krb5",
+    "libxcrypt",
+    "pam"
+  ],
+  "makedepends": [],
+  "receive": 199633063,
+  "transmit": 260220,
+  "disk": 8710696
+}
