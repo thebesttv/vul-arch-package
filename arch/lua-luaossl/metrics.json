@@ -1,0 +1,17 @@
+{
+  "name": "lua-luaossl",
+  "version": "20220711-2",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "luarocks",
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53"
+  ],
+  "receive": 199645969,
+  "transmit": 414811,
+  "disk": 1706955
+}
