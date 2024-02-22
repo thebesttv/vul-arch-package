@@ -1,0 +1,14 @@
+{
+  "name": "soapybladerf",
+  "version": "0.4.1-4",
+  "depends": [
+    "soapysdr",
+    "bladerf"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199728793,
+  "transmit": 442626,
+  "disk": 253849
+}
