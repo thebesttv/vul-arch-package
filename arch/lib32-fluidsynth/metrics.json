@@ -1,0 +1,28 @@
+{
+  "name": "lib32-fluidsynth",
+  "version": "2.3.4-1",
+  "depends": [
+    "fluidsynth=2.3.4",
+    "lib32-dbus",
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "lib32-libpulse",
+    "lib32-readline",
+    "lib32-sdl2",
+    "lib32-systemd"
+  ],
+  "makedepends": [
+    "cmake",
+    "lib32-alsa-lib",
+    "lib32-glib2",
+    "lib32-jack",
+    "lib32-ladspa",
+    "lib32-libinstpatch",
+    "lib32-libpipewire",
+    "lib32-libsndfile",
+    "lib32-portaudio"
+  ],
+  "receive": 199769652,
+  "transmit": 399892,
+  "disk": 7772254
+}
