@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-number-delta",
+  "version": "1.06-8",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199627237,
+  "transmit": 369605,
+  "disk": 222142
+}
