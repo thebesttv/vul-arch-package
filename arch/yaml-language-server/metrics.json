@@ -1,0 +1,14 @@
+{
+  "name": "yaml-language-server",
+  "version": "1.14.0-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "jq",
+    "yarn"
+  ],
+  "receive": 199665267,
+  "transmit": 387146,
+  "disk": 1533124
+}
