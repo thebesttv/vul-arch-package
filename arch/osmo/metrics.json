@@ -1,0 +1,17 @@
+{
+  "name": "osmo",
+  "version": "0.4.4-1",
+  "depends": [
+    "gspell",
+    "libarchive",
+    "libgringotts",
+    "libical",
+    "libnotify",
+    "libxml2",
+    "webkit2gtk"
+  ],
+  "makedepends": [],
+  "receive": 199537013,
+  "transmit": 257532,
+  "disk": 6274579
+}
