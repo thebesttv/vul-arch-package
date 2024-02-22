@@ -1,0 +1,15 @@
+{
+  "name": "perl-class-method-modifiers",
+  "version": "2.15-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-test-fatal",
+    "perl-test-requires",
+    "perl-test-needs"
+  ],
+  "receive": 199579968,
+  "transmit": 357124,
+  "disk": 357603
+}
