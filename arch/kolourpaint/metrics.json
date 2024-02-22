@@ -1,0 +1,15 @@
+{
+  "name": "kolourpaint",
+  "version": "23.08.5-1",
+  "depends": [
+    "libksane",
+    "kio5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199935973,
+  "transmit": 525938,
+  "disk": 21241170
+}
