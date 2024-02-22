@@ -1,0 +1,13 @@
+{
+  "name": "git-sizer",
+  "version": "1.5.0-2",
+  "depends": [
+    "git"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199712168,
+  "transmit": 456193,
+  "disk": 498405
+}
