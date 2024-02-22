@@ -1,0 +1,13 @@
+{
+  "name": "ruby-sus",
+  "version": "0.24.2-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199554040,
+  "transmit": 293832,
+  "disk": 1288716
+}
