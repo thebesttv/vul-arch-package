@@ -1,0 +1,14 @@
+{
+  "name": "zvbi",
+  "version": "0.2.42-1",
+  "depends": [
+    "libpng",
+    "libx11"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199765089,
+  "transmit": 430569,
+  "disk": 7726807
+}
