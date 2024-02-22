@@ -1,0 +1,16 @@
+{
+  "name": "hck",
+  "version": "0.9.2-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust",
+    "cmake"
+  ],
+  "receive": 199513534,
+  "transmit": 268401,
+  "disk": 35539397
+}
