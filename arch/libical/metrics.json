@@ -1,0 +1,21 @@
+{
+  "name": "libical",
+  "version": "3.0.17-2",
+  "depends": [
+    "glibc",
+    "glib2",
+    "icu",
+    "libxml2"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "gtk-doc",
+    "doxygen",
+    "vala",
+    "gobject-introspection"
+  ],
+  "receive": 199588861,
+  "transmit": 265121,
+  "disk": 6644730
+}
