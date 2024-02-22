@@ -1,0 +1,17 @@
+{
+  "name": "luaexpat",
+  "version": "1.5.1-1",
+  "depends": [
+    "expat"
+  ],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 200169418,
+  "transmit": 676262,
+  "disk": 418736
+}
