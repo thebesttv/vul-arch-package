@@ -1,0 +1,21 @@
+{
+  "name": "lib32-libsndfile",
+  "version": "1.2.2-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-opus",
+    "libsndfile=1.2.2"
+  ],
+  "makedepends": [
+    "cmake",
+    "lib32-alsa-lib",
+    "lib32-flac",
+    "lib32-libogg",
+    "lib32-libvorbis",
+    "lib32-sqlite",
+    "python"
+  ],
+  "receive": 199588712,
+  "transmit": 352178,
+  "disk": 6576265
+}
