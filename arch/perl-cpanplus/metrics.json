@@ -1,0 +1,18 @@
+{
+  "name": "perl-cpanplus",
+  "version": "0.9914-3",
+  "depends": [
+    "perl",
+    "perl-log-message",
+    "perl-archive-extract",
+    "perl-term-ui",
+    "perl-log-message-simple",
+    "perl-module-pluggable",
+    "perl-object-accessor",
+    "perl-package-constants"
+  ],
+  "makedepends": [],
+  "receive": 199709331,
+  "transmit": 432194,
+  "disk": 3868448
+}
