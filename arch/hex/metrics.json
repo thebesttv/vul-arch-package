@@ -1,0 +1,13 @@
+{
+  "name": "hex",
+  "version": "0.6.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199686936,
+  "transmit": 421576,
+  "disk": 529797
+}
