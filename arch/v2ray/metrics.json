@@ -1,0 +1,16 @@
+{
+  "name": "v2ray",
+  "version": "5.12.1-1",
+  "depends": [
+    "glibc",
+    "v2ray-domain-list-community",
+    "v2ray-geoip"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199767681,
+  "transmit": 336863,
+  "disk": 86690465
+}
