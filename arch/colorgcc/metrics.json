@@ -1,0 +1,11 @@
+{
+  "name": "colorgcc",
+  "version": "1.4.5-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199671441,
+  "transmit": 425591,
+  "disk": 129577
+}
