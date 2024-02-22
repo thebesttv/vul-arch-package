@@ -1,0 +1,14 @@
+{
+  "name": "vmaf",
+  "version": "3.0.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "meson",
+    "nasm"
+  ],
+  "receive": 199515634,
+  "transmit": 274710,
+  "disk": 48128111
+}
