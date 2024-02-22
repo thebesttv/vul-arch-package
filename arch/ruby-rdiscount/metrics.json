@@ -1,0 +1,13 @@
+{
+  "name": "ruby-rdiscount",
+  "version": "2.2.7.3-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199705973,
+  "transmit": 427192,
+  "disk": 173606
+}
