@@ -1,0 +1,29 @@
+{
+  "name": "lib32-colord",
+  "version": "1.4.7-1",
+  "depends": [
+    "libcolord",
+    "lib32-glib2",
+    "lib32-systemd",
+    "lib32-lcms2"
+  ],
+  "makedepends": [
+    "argyllcms",
+    "bash-completion",
+    "git",
+    "gobject-introspection",
+    "intltool",
+    "lib32-dbus",
+    "lib32-dconf",
+    "lib32-libgudev",
+    "lib32-libgusb",
+    "lib32-polkit",
+    "lib32-sqlite",
+    "meson",
+    "sane",
+    "vala"
+  ],
+  "receive": 199529499,
+  "transmit": 262193,
+  "disk": 21101906
+}
