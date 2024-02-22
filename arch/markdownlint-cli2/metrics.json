@@ -1,0 +1,14 @@
+{
+  "name": "markdownlint-cli2",
+  "version": "0.12.1-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "npm"
+  ],
+  "receive": 199613433,
+  "transmit": 300518,
+  "disk": 4833288
+}
