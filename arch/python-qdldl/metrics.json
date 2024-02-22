@@ -1,0 +1,18 @@
+{
+  "name": "python-qdldl",
+  "version": "0.1.7.post0-1",
+  "depends": [
+    "python-scipy"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "pybind11",
+    "cmake"
+  ],
+  "receive": 199681036,
+  "transmit": 421805,
+  "disk": 488241
+}
