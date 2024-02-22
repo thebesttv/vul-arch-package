@@ -1,0 +1,13 @@
+{
+  "name": "leafpad",
+  "version": "0.8.19-2",
+  "depends": [
+    "gtk2"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 200473519,
+  "transmit": 831878,
+  "disk": 1785430
+}
