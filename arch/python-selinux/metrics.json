@@ -1,0 +1,17 @@
+{
+  "name": "python-selinux",
+  "version": "0.3.0-2",
+  "depends": [
+    "python-distro"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199521860,
+  "transmit": 294356,
+  "disk": 200092
+}
