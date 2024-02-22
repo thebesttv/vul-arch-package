@@ -1,0 +1,16 @@
+{
+  "name": "libepubgen",
+  "version": "0.1.1-4",
+  "depends": [
+    "librevenge"
+  ],
+  "makedepends": [
+    "boost",
+    "cppunit",
+    "doxygen",
+    "libxml2"
+  ],
+  "receive": 199797241,
+  "transmit": 544807,
+  "disk": 2742293
+}
