@@ -1,0 +1,15 @@
+{
+  "name": "imvirt",
+  "version": "0.9.6-10",
+  "depends": [
+    "perl",
+    "dmidecode",
+    "perl-module-find",
+    "perl-file-slurp",
+    "perl-data-dumper"
+  ],
+  "makedepends": [],
+  "receive": 199678276,
+  "transmit": 443991,
+  "disk": 5108107
+}
