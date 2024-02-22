@@ -1,0 +1,14 @@
+{
+  "name": "xcb-util-errors",
+  "version": "1.0.1-1",
+  "depends": [
+    "libxcb"
+  ],
+  "makedepends": [
+    "xorgproto",
+    "python"
+  ],
+  "receive": 199634169,
+  "transmit": 389606,
+  "disk": 2125774
+}
