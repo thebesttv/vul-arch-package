@@ -1,0 +1,13 @@
+{
+  "name": "haskell-lazysmallcheck",
+  "version": "0.6-4",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199519701,
+  "transmit": 275795,
+  "disk": 176248
+}
