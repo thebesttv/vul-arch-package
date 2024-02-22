@@ -1,0 +1,13 @@
+{
+  "name": "libelfin",
+  "version": "0.3-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199505368,
+  "transmit": 254338,
+  "disk": 581062
+}
