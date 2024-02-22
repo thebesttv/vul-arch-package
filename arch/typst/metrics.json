@@ -1,0 +1,15 @@
+{
+  "name": "typst",
+  "version": "1:0.10.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 207055795,
+  "transmit": 388520,
+  "disk": 115291471
+}
