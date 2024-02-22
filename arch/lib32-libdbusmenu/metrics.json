@@ -1,0 +1,17 @@
+{
+  "name": "lib32-libdbusmenu",
+  "version": "16.04.0-5",
+  "depends": [],
+  "makedepends": [
+    "gnome-common",
+    "gobject-introspection",
+    "lib32-gtk2",
+    "lib32-gtk3",
+    "intltool",
+    "vala",
+    "valgrind-multilib"
+  ],
+  "receive": 199734503,
+  "transmit": 443521,
+  "disk": 4645882
+}
