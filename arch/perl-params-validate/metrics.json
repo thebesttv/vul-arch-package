@@ -1,0 +1,14 @@
+{
+  "name": "perl-params-validate",
+  "version": "1.31-2",
+  "depends": [
+    "perl",
+    "perl-module-implementation"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199603085,
+  "transmit": 371617,
+  "disk": 1312982
+}
