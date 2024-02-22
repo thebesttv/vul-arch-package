@@ -1,0 +1,14 @@
+{
+  "name": "gpsprune",
+  "version": "23-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "java-runtime"
+  ],
+  "makedepends": [
+    "imagemagick"
+  ],
+  "receive": 199533411,
+  "transmit": 285005,
+  "disk": 1306521
+}
