@@ -1,0 +1,11 @@
+{
+  "name": "perl-io-html",
+  "version": "1.004-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199526338,
+  "transmit": 290196,
+  "disk": 214546
+}
