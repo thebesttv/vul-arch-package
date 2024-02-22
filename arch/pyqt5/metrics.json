@@ -1,0 +1,31 @@
+{
+  "name": "pyqt5",
+  "version": "5.15.10-1",
+  "depends": [
+    "python-pyqt5-sip",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "sip",
+    "pyqt-builder",
+    "python-opengl",
+    "python-dbus",
+    "qt5-connectivity",
+    "qt5-multimedia",
+    "qt5-tools",
+    "qt5-serialport",
+    "qt5-speech",
+    "qt5-svg",
+    "qt5-websockets",
+    "qt5-x11extras",
+    "qt5-xmlpatterns",
+    "qt5-remoteobjects",
+    "qt5-quick3d",
+    "qt5-sensors",
+    "qt5-webchannel",
+    "qt5-location"
+  ],
+  "receive": 199509558,
+  "transmit": 266244,
+  "disk": 16767339
+}
