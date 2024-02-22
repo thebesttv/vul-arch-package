@@ -1,0 +1,18 @@
+{
+  "name": "libzim",
+  "version": "9.0.0-2",
+  "depends": [
+    "xapian-core",
+    "xz",
+    "icu",
+    "zstd"
+  ],
+  "makedepends": [
+    "meson",
+    "gtest",
+    "git"
+  ],
+  "receive": 199590708,
+  "transmit": 325817,
+  "disk": 109549691
+}
