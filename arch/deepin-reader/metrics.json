@@ -1,0 +1,26 @@
+{
+  "name": "deepin-reader",
+  "version": "5.10.29-7",
+  "depends": [
+    "deepin-qt5integration",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "qt5-webengine",
+    "gcc-libs",
+    "lcms2",
+    "openjpeg2",
+    "freetype2",
+    "djvulibre",
+    "libchardet"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest",
+    "qt5-tools"
+  ],
+  "receive": 241177703,
+  "transmit": 969380,
+  "disk": 108294382
+}
