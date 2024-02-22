@@ -1,0 +1,20 @@
+{
+  "name": "python-pyzmq",
+  "version": "25.1.2-1",
+  "depends": [
+    "zeromq",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel",
+    "cython"
+  ],
+  "receive": 199529757,
+  "transmit": 266614,
+  "disk": 10625416
+}
