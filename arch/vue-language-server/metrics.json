@@ -1,0 +1,15 @@
+{
+  "name": "vue-language-server",
+  "version": "1.8.27-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "pnpm"
+  ],
+  "receive": 199564817,
+  "transmit": 274344,
+  "disk": 38074753
+}
