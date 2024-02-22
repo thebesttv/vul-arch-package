@@ -1,0 +1,11 @@
+{
+  "name": "findnewest",
+  "version": "0.3-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199557256,
+  "transmit": 291727,
+  "disk": 97661
+}
