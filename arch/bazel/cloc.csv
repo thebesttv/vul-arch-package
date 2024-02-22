@@ -1,0 +1,51 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=41.62 s (214.7 files/s 62405.2 lines/s)"
+6294,Java,174876,436106,1330758
+137,Text,3090,0,123208
+309,Bourne Shell,13282,12419,69506
+237,Markdown,13165,158,60404
+552,Bazel,3900,1124,44078
+230,Starlark,4686,8360,37303
+211,C++,5908,7507,35561
+160,Python,7747,10465,30069
+44,C,3165,5167,17366
+119,C/C++ Header,2409,5927,16299
+215,Protocol Buffers,7901,28302,13743
+56,XML,181,212,11156
+70,HTML,457,1,7522
+62,YAML,167,164,7322
+7,MSBuild script,1,0,4509
+4,JSON,0,0,4294
+65,SVG,13,286,2319
+12,Bourne Again Shell,373,857,2173
+23,Velocity Template Language,341,40,1952
+7,CSS,400,95,1797
+10,Ada,599,560,1681
+4,Pascal,219,139,1085
+9,C#,230,506,879
+6,JavaScript,81,174,750
+15,Gradle,411,507,679
+9,diff,109,508,675
+6,Visual Studio Solution,5,5,645
+1,Fortran 77,0,0,527
+12,ProGuard,348,461,385
+7,PowerShell,63,65,370
+11,make,117,55,342
+2,reStructuredText,280,305,326
+3,Windows Module Definition,17,18,271
+1,Objective-C,25,55,225
+1,Assembly,125,247,202
+1,CMake,27,31,155
+1,Maven,13,0,149
+2,PHP,29,61,117
+1,Perl,33,14,105
+1,WiX source,12,46,77
+3,Windows Resource File,5,15,72
+2,INI,9,0,42
+6,DOS Batch,19,58,38
+1,Ant,11,1,33
+1,SAS,14,22,32
+1,m4,5,0,27
+1,NAnt script,7,0,26
+4,Properties,4,3,6
+1,Objective-C++,2,22,1
+8937,SUM,244881,521068,1831261
