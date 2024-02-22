@@ -1,0 +1,11 @@
+{
+  "name": "perl-return-value",
+  "version": "1.666005-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199623228,
+  "transmit": 318944,
+  "disk": 223202
+}
