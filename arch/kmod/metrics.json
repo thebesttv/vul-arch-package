@@ -1,0 +1,15 @@
+{
+  "name": "kmod",
+  "version": "31-1",
+  "depends": [
+    "glibc",
+    "zlib",
+    "openssl",
+    "xz",
+    "zstd"
+  ],
+  "makedepends": [],
+  "receive": 199662432,
+  "transmit": 267239,
+  "disk": 6578183
+}
