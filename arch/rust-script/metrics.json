@@ -1,0 +1,13 @@
+{
+  "name": "rust-script",
+  "version": "0.34.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199678196,
+  "transmit": 406915,
+  "disk": 550326
+}
