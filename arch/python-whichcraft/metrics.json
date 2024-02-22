@@ -1,0 +1,13 @@
+{
+  "name": "python-whichcraft",
+  "version": "0.6.1-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199745509,
+  "transmit": 441420,
+  "disk": 127042
+}
