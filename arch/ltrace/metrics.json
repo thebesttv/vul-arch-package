@@ -1,0 +1,14 @@
+{
+  "name": "ltrace",
+  "version": "0.7.3-4",
+  "depends": [
+    "elfutils",
+    "libunwind"
+  ],
+  "makedepends": [
+    "dejagnu"
+  ],
+  "receive": 199668867,
+  "transmit": 423336,
+  "disk": 3349838
+}
