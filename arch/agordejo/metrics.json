@@ -1,0 +1,16 @@
+{
+  "name": "agordejo",
+  "version": "0.4.2-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "new-session-manager",
+    "python",
+    "python-pyqt5",
+    "python-pyxdg",
+    "ttf-dejavu"
+  ],
+  "makedepends": [],
+  "receive": 200553346,
+  "transmit": 576180,
+  "disk": 2132447
+}
