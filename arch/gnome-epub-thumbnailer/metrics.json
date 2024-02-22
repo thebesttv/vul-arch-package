@@ -1,0 +1,17 @@
+{
+  "name": "gnome-epub-thumbnailer",
+  "version": "1.7-1",
+  "depends": [
+    "gdk-pixbuf2",
+    "librsvg",
+    "libarchive",
+    "libxml2"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199577924,
+  "transmit": 300101,
+  "disk": 365064
+}
