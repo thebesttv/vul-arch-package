@@ -1,0 +1,19 @@
+{
+  "name": "gutenprint",
+  "version": "5.3.4-3",
+  "depends": [],
+  "makedepends": [
+    "gimp",
+    "gtk2",
+    "cups",
+    "ghostscript",
+    "dialog",
+    "doxygen",
+    "docbook-utils",
+    "texi2html",
+    "texlive-bin"
+  ],
+  "receive": 200192702,
+  "transmit": 476486,
+  "disk": 49705879
+}
