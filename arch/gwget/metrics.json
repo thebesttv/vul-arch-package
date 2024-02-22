@@ -1,0 +1,16 @@
+{
+  "name": "gwget",
+  "version": "1.0.4-19",
+  "depends": [
+    "gtk3",
+    "libnotify",
+    "wget"
+  ],
+  "makedepends": [
+    "intltool",
+    "imagemagick"
+  ],
+  "receive": 199576225,
+  "transmit": 305754,
+  "disk": 3243332
+}
