@@ -1,0 +1,17 @@
+{
+  "name": "gpac",
+  "version": "1:2.2.1-2",
+  "depends": [
+    "glibc",
+    "libnghttp2",
+    "openssl",
+    "xz",
+    "zlib"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 385305935,
+  "transmit": 1181719,
+  "disk": 232985292
+}
