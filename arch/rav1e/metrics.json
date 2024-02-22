@@ -1,0 +1,17 @@
+{
+  "name": "rav1e",
+  "version": "0.7.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo-c",
+    "git",
+    "nasm",
+    "rust"
+  ],
+  "receive": 221762382,
+  "transmit": 598219,
+  "disk": 35540588
+}
