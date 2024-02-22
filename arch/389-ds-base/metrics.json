@@ -1,0 +1,35 @@
+{
+  "name": "389-ds-base",
+  "version": "2.4.4-2",
+  "depends": [
+    "cracklib",
+    "libevent",
+    "nspr",
+    "nss",
+    "net-snmp",
+    "pam",
+    "openldap",
+    "icu",
+    "db5.3",
+    "python-cryptography",
+    "python-argcomplete",
+    "python-dateutil",
+    "python-ldap",
+    "python-packaging",
+    "lmdb"
+  ],
+  "makedepends": [
+    "cargo",
+    "rsync",
+    "doxygen",
+    "cmocka",
+    "python-setuptools",
+    "python-argparse-manpage",
+    "npm",
+    "nodejs",
+    "systemd"
+  ],
+  "receive": 199677584,
+  "transmit": 390045,
+  "disk": 39231123
+}
