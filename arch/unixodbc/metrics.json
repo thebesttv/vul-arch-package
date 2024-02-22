@@ -1,0 +1,13 @@
+{
+  "name": "unixodbc",
+  "version": "2.3.12-1",
+  "depends": [
+    "readline",
+    "libltdl",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199504515,
+  "transmit": 239635,
+  "disk": 10742273
+}
