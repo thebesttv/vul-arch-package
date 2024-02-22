@@ -1,0 +1,17 @@
+{
+  "name": "ruby-ronn-ng",
+  "version": "0.9.1-5",
+  "depends": [
+    "ruby",
+    "ruby-rdiscount",
+    "ruby-mustache",
+    "ruby-kramdown",
+    "ruby-nokogiri"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199676198,
+  "transmit": 384493,
+  "disk": 160468
+}
