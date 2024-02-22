@@ -224,7 +224,7 @@ arp-scan 1.10.0-4
 arpack 3.9.1-2
 arpwatch 3.6-1
 arrayfire 3.9.0-2
-arrow 15.0.0-2
+arrow 15.0.0-3
 arti 1.1.13-1
 artikulate 23.08.5-1
 artyfx 1.3.1-2
@@ -255,7 +255,7 @@ aspell-ru 0.99f7.1-1
 aspell-sv 0.51-4
 aspell-uk 1.8.0-3
 asplib 20160310.da66f51-4
-assimp 5.3.1-1
+assimp 5.3.1-2
 astroid 0.16-11
 astromenace 1.4.2-1
 astyle 3.4.10-1
@@ -396,7 +396,7 @@ bchoppr 1.12.6-1
 bchunk 1.2.2-7
 bcprov 1.73-1
 beanshell 2.1.1-1
-bear 3.1.3-8
+bear 3.1.3-9
 bearssl 0.6-5
 beatslash-lv2 1.0.6-3
 beebeep 5.8.6-1
@@ -619,7 +619,7 @@ cargo-dist 0.10.0-1
 cargo-edit 0.12.2-1
 cargo-expand 1.0.79-1
 cargo-feature 0.7.0-1
-cargo-flamegraph 0.6.5-1
+cargo-flamegraph 0.6.5-2
 cargo-fuzz 0.12.0-1
 cargo-geiger 0.11.7-2
 cargo-generate 0.19.0-2
@@ -628,7 +628,7 @@ cargo-hack 0.6.20-1
 cargo-insta 1.35.1-2
 cargo-license 0.6.1-1
 cargo-llvm-cov 0.6.5-1
-cargo-machete 0.6.0-2
+cargo-machete 0.6.1-1
 cargo-make 0.37.9-1
 cargo-modules 0.13.6-1
 cargo-msrv 0.15.1-4
@@ -831,9 +831,9 @@ cmus 2.10.0-4
 cni-plugins 1.4.0-1
 cobalt 0.19.0-1
 cockatrice 2.9.0-2
-cockpit 311-1
-cockpit-machines 307-1
-cockpit-podman 84-1
+cockpit 311.1-1
+cockpit-machines 308.1-1
+cockpit-podman 84.1-1
 cocogitto 6.0.1-1
 code 1.86.2-1
 codeblocks 20.03-5
@@ -1117,7 +1117,7 @@ deepin-system-monitor 6.0.12-1
 deepin-terminal 6.0.11-1
 deepin-terminal-gtk 5.0.4.4-1
 deepin-turbo 0.0.6-1
-deepin-util-dfm 1.2.21-1
+deepin-util-dfm 1.2.22-1
 deepin-voice-note 6.0.17-1
 deepin-wallpapers 1:1.7.7-2
 deepin-wayland-protocols 1.6.0.deepin.1.2-1
@@ -1622,8 +1622,8 @@ firecracker 1.5.0-1
 firefox 123.0-1
 firefox-adblock-plus 3.17.1-1
 firefox-decentraleyes 2.0.18-1
-firefox-developer-edition 124.0b1-1
-firefox-developer-edition-i18n 124.0b1-1
+firefox-developer-edition 124.0b2-1
+firefox-developer-edition-i18n 124.0b2-1
 firefox-extension-mailvelope 5.1.1-1
 firefox-extension-passff 1.16.0-1
 firefox-i18n 123.0-1
@@ -1866,7 +1866,7 @@ git-absorb 0.6.11-1
 git-annex 10.20240129-3
 git-branchless 0.8.0-1
 git-bug 0.8.0-1
-git-cliff 2.0.2-1
+git-cliff 2.0.3-1
 git-credential-gopass 1.15.5-1
 git-crypt 0.7.0-2
 git-delta 0.16.5-1
@@ -2061,7 +2061,7 @@ gnustep-make 2.9.1-1
 gnutls 3.8.3-1
 go 2:1.22.0-1
 go-bindata-hashicorp 3.0.7+bf7910af-5
-go-ethereum 1.13.12-1
+go-ethereum 1.13.13-1
 go-licenses 1.6.0-1
 go-md2man 2.0.3-1
 go-swagger 0.30.5-1
@@ -2168,7 +2168,7 @@ groff 1.23.0-5
 gron 0.7.1-2
 groovy 4.0.18-1
 groovy-docs 4.0.15-2
-grpc 1.60.1-1
+grpc 1.62.0-1
 grsync 1.3.1-1
 grub 2:2.12-1
 grub-btrfs 4.13-1
@@ -2429,7 +2429,7 @@ haskell-config-schema 1.3.0.0-79
 haskell-config-value 0.8.3-1
 haskell-configfile 1.1.4-81
 haskell-configurator 0.3.0.0-386
-haskell-configurator-pg 0.2.8-4
+haskell-configurator-pg 0.2.8-5
 haskell-constraints 0.13.4-45
 haskell-constraints-extras 0.4.0.0-66
 haskell-containers-unicode-symbols 0.3.1.3-3
@@ -3057,7 +3057,7 @@ haskell-primitive-unlifted 0.1.3.1-31
 haskell-process-extras 0.7.4-307
 haskell-profunctors 5.6.2-163
 haskell-project-template 0.2.1.0-335
-haskell-protolude 0.3.3-20
+haskell-protolude 0.3.4-1
 haskell-psqueues 0.2.8.0-6
 haskell-ptr 0.16.8.6-5
 haskell-puremd5 2.1.4-7
@@ -3101,7 +3101,7 @@ haskell-regex-pcre 0.95.0.0-13
 haskell-regex-posix 0.96.0.1-3
 haskell-regex-tdfa 1.3.2.2-34
 haskell-reinterpret-cast 0.1.0-242
-haskell-relude 1.1.0.0-1
+haskell-relude 1.2.0.0-1
 haskell-repline 0.4.2.0-1
 haskell-req 3.13.0-107
 haskell-rere 0.2.0.1-16
@@ -3218,8 +3218,8 @@ haskell-stringbuilder 0.5.1-400
 haskell-stringsearch 0.3.6.6-24
 haskell-structured 0.1.1-166
 haskell-success 0.2.6-272
-haskell-summoner 2.0.1.1-477
-haskell-summoner-tui 2.0.1.1-536
+haskell-summoner 2.0.1.1-478
+haskell-summoner-tui 2.0.1.1-537
 haskell-svg-builder 0.1.1-171
 haskell-swagger2 2.8.7-47
 haskell-syb 0.7.2.4-2
@@ -6312,7 +6312,7 @@ pambase 20230918-1
 pamixer 1.6-3
 pan 0.155-1
 pandoc-cli 0.1.1.1-68
-pandoc-crossref 0.3.16.0-108
+pandoc-crossref 0.3.17.0-1
 pandoc-plot 1.8.0-45
 pango 1:1.51.2-1
 pango-perl 1.227-16
@@ -6391,7 +6391,7 @@ pciutils 3.10.0-1
 pcmanfm 1.3.2-1
 pcmanfm-gtk3 1.3.2-1
 pcmanfm-qt 1.4.1-1
-pcp 6.1.1-1
+pcp 6.2.0-1
 pcre 8.45-4
 pcre2 10.42-2
 pcsc-perl 1.4.16-1
@@ -7217,7 +7217,7 @@ polari 45.0-1
 polkit 124-2
 polkit-gnome 0.105-10
 polkit-kde-agent 5.27.10-1
-polkit-qt 0.175.0-1
+polkit-qt 0.200.0-1
 polly 16.0.6-1
 polybar 3.7.1-1
 polyclipping 6.4.2-4
@@ -7247,7 +7247,7 @@ postgis 3.4.1-2
 postgresql 16.1-5
 postgresql-ip4r 2.4.2-1
 postgresql-old-upgrade 15.5-4
-postgrest 10.0.0-212
+postgrest 10.0.0-213
 postgrey 1.37-5
 postorius 1.3.10-1
 potrace 1.16-2
@@ -7658,7 +7658,7 @@ python-construct 2.10.70-2
 python-contextlib2 21.6.0-2
 python-contourpy 1.2.0-1
 python-conway-polynomials 0.9-1
-python-cookiecutter 2.5.0-1
+python-cookiecutter 2.6.0-1
 python-cooldict 1.04-2
 python-copr 1.127-1
 python-coverage 7.4.1-1
@@ -7771,7 +7771,7 @@ python-docker 7.0.0-1
 python-dockerpty 0.4.1-10
 python-docopt 0.6.2-12
 python-docs 3.11.3-1
-python-docstring-to-markdown 0.14-1
+python-docstring-to-markdown 0.15-1
 python-doctest-ignore-unicode 0.1.2-6
 python-docutils 1:0.20.1-1
 python-docutils-stubs 0.0.22-2
@@ -8351,7 +8351,7 @@ python-olefile 0.46-6
 python-omegaconf 2.3.0-2
 python-omemo-dr 1.0.1-1
 python-onnx 1:1.15.0-3
-python-openai 1.12.0-1
+python-openai 1.13.2-1
 python-openapi-core 0.19.0-1
 python-openapi-schema-validator 0.6.2-1
 python-openapi-spec-validator 0.7.1-1
@@ -8717,7 +8717,7 @@ python-pytest-httpx 0.27.0-1
 python-pytest-ignore-flaky 2.1.0-1
 python-pytest-integration 0.2.3-1
 python-pytest-isort 3.1.0-2
-python-pytest-jupyter 0.8.0-1
+python-pytest-jupyter 0.9.0-1
 python-pytest-lazy-fixture 0.6.3-6
 python-pytest-lazy-fixtures 1.0.5-1
 python-pytest-localserver 0.8.1-1
@@ -9398,7 +9398,7 @@ qt6-datavis3d 6.6.2-1
 qt6-declarative 6.6.2-1
 qt6-doc 6.6.2-1
 qt6-graphs 6.6.2-1
-qt6-grpc 6.6.2-1
+qt6-grpc 6.6.2-2
 qt6-httpserver 6.6.2-1
 qt6-imageformats 6.6.2-1
 qt6-languageserver 6.6.2-1
@@ -10626,10 +10626,10 @@ synfigstudio 1.4.4-1
 syntax-highlighting5 5.115.0-1
 synthv1 0.9.34-1
 sysbench 1.0.20-1
-sysdig 0.35.1-1
+sysdig 0.35.2-1
 sysfsutils 2.1.1-1
 syslinux 6.04.pre2.r11.gbf6db5b4-4
-syslog-ng 4.4.0-5
+syslog-ng 4.4.0-6
 sysprof 45.2-1
 sysstat 12.7.5-1
 system-config-printer 1.5.18-2
@@ -10746,7 +10746,7 @@ thunar 4.18.10-1
 thunar-archive-plugin 0.5.2-1
 thunar-media-tags-plugin 0.4.0-2
 thunar-volman 4.18.0-1
-thunderbird 115.7.0-2
+thunderbird 115.8.0-1
 tickrs 2:0.14.9-1
 tidy 5.8.0-2
 tig 2.5.8-1
@@ -10841,7 +10841,7 @@ trayer 1.1.8-3
 tre 0.8.0-6
 tree 2.1.1-1
 tree-sitter 0.20.10-2
-tree-sitter-cli 0.20.9-1
+tree-sitter-cli 0.21.0-1
 treeify r7958.90292b20-2
 triehash 0.3.3-2
 trippy 0.9.0-1
@@ -11024,7 +11024,7 @@ uwsgi 2.0.23-2
 uwsgitop 0.11-6
 uwufetch 2.1-1
 v2ray 5.12.1-1
-v2ray-domain-list-community 20240217140518-1
+v2ray-domain-list-community 20240221053250-1
 v2ray-geoip 202402150038-1
 v4l-utils 1.26.1-1
 v4l2loopback 0.12.7-2
@@ -11605,7 +11605,7 @@ yelp-xsl 42.1-1
 yggdrasil 0.5.5-1
 yices 2.6.4-1
 yodl 4.03.03-2
-yoshimi 2.3.1.3-1
+yoshimi 2.3.2-1
 yosys 0.37-1
 you-get 0.4.1650-2
 yq 3.2.3-1
