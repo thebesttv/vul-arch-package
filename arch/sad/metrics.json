@@ -1,0 +1,16 @@
+{
+  "name": "sad",
+  "version": "0.4.23-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust",
+    "python"
+  ],
+  "receive": 240888641,
+  "transmit": 451613,
+  "disk": 44598852
+}
