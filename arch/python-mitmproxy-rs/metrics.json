@@ -1,0 +1,15 @@
+{
+  "name": "python-mitmproxy-rs",
+  "version": "0.5.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "maturin",
+    "python-installer",
+    "cargo"
+  ],
+  "receive": 199679033,
+  "transmit": 429072,
+  "disk": 3652311
+}
