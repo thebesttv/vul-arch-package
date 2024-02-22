@@ -1,0 +1,9 @@
+{
+  "name": "deepin-desktop-base",
+  "version": "2:2024.01.03-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 199528463,
+  "transmit": 247400,
+  "disk": 462180
+}
