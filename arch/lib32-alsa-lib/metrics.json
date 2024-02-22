@@ -1,0 +1,13 @@
+{
+  "name": "lib32-alsa-lib",
+  "version": "1.2.11-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "alsa-lib=1.2.11"
+  ],
+  "makedepends": [],
+  "receive": 199652772,
+  "transmit": 369473,
+  "disk": 8115222
+}
