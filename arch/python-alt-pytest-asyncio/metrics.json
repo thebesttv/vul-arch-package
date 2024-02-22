@@ -1,0 +1,15 @@
+{
+  "name": "python-alt-pytest-asyncio",
+  "version": "0.7.2-1",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling"
+  ],
+  "receive": 199644110,
+  "transmit": 365988,
+  "disk": 218139
+}
