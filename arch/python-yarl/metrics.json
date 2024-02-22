@@ -1,0 +1,21 @@
+{
+  "name": "python-yarl",
+  "version": "1.9.4-1",
+  "depends": [
+    "glibc",
+    "python",
+    "python-multidict",
+    "python-idna"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-expandvars"
+  ],
+  "receive": 199516151,
+  "transmit": 247276,
+  "disk": 720126
+}
