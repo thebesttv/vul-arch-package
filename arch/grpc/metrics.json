@@ -1,0 +1,24 @@
+{
+  "name": "grpc",
+  "version": "1.62.0-1",
+  "depends": [],
+  "makedepends": [
+    "re2",
+    "re2c",
+    "protobuf",
+    "php",
+    "php-legacy",
+    "c-ares",
+    "openssl",
+    "chrpath",
+    "cython0",
+    "cmake",
+    "benchmark",
+    "python-setuptools",
+    "abseil-cpp",
+    "ninja"
+  ],
+  "receive": 223898803,
+  "transmit": 692050,
+  "disk": 169674425
+}
