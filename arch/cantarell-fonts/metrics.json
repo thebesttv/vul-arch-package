@@ -1,0 +1,13 @@
+{
+  "name": "cantarell-fonts",
+  "version": "1:0.303.1-1",
+  "depends": [],
+  "makedepends": [
+    "meson",
+    "appstream-glib",
+    "git"
+  ],
+  "receive": 199517352,
+  "transmit": 272842,
+  "disk": 4097668
+}
