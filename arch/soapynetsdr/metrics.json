@@ -1,0 +1,13 @@
+{
+  "name": "soapynetsdr",
+  "version": "0.2.0-2",
+  "depends": [
+    "soapysdr"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199497691,
+  "transmit": 259890,
+  "disk": 157550
+}
