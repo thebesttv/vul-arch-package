@@ -1,0 +1,15 @@
+{
+  "name": "python-mongomock",
+  "version": "4.0.0-2",
+  "depends": [
+    "python-sentinels",
+    "python-six",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-pbr"
+  ],
+  "receive": 199894324,
+  "transmit": 580090,
+  "disk": 1023724
+}
