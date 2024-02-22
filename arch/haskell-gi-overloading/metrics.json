@@ -1,0 +1,13 @@
+{
+  "name": "haskell-gi-overloading",
+  "version": "1.0-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199532078,
+  "transmit": 302792,
+  "disk": 93026
+}
