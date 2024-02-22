@@ -1,0 +1,14 @@
+{
+  "name": "plasma-vault",
+  "version": "5.27.10-1",
+  "depends": [
+    "plasma-workspace",
+    "networkmanager-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199631154,
+  "transmit": 269491,
+  "disk": 2357081
+}
