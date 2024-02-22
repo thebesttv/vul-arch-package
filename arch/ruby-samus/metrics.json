@@ -1,0 +1,14 @@
+{
+  "name": "ruby-samus",
+  "version": "3.0.9-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 199555659,
+  "transmit": 309492,
+  "disk": 203309
+}
