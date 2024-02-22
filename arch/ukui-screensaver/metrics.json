@@ -1,0 +1,19 @@
+{
+  "name": "ukui-screensaver",
+  "version": "3.0.2-7",
+  "depends": [
+    "dconf",
+    "gsettings-qt",
+    "libxtst",
+    "opencv",
+    "qt5-svg",
+    "qt5-x11extras"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools"
+  ],
+  "receive": 199530136,
+  "transmit": 279523,
+  "disk": 934681
+}
