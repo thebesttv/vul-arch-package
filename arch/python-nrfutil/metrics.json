@@ -1,0 +1,27 @@
+{
+  "name": "python-nrfutil",
+  "version": "6.1.7-2",
+  "depends": [
+    "python-click",
+    "python-crcmod",
+    "python-ecdsa",
+    "python-intelhex",
+    "python-libusb1",
+    "python-pc-ble-driver-py",
+    "python-piccata",
+    "python-protobuf",
+    "python-pyserial",
+    "python-pyspinel",
+    "python-pyyaml",
+    "python-tqdm"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199569071,
+  "transmit": 260164,
+  "disk": 6252217
+}
