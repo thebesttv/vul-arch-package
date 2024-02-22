@@ -1,0 +1,15 @@
+{
+  "name": "ruby-ffi-compiler",
+  "version": "1.0.1-1",
+  "depends": [
+    "ruby-ffi",
+    "ruby-rake"
+  ],
+  "makedepends": [
+    "ruby-rspec",
+    "ruby-rubygems-tasks"
+  ],
+  "receive": 199502055,
+  "transmit": 272607,
+  "disk": 171904
+}
