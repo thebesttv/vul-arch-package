@@ -1,0 +1,11 @@
+{
+  "name": "ghc-filesystem",
+  "version": "1.5.14-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199507462,
+  "transmit": 297638,
+  "disk": 1432176
+}
