@@ -1,0 +1,13 @@
+{
+  "name": "python-yapsy",
+  "version": "1.12.2-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199604790,
+  "transmit": 319339,
+  "disk": 505247
+}
