@@ -1,0 +1,14 @@
+{
+  "name": "ctrtool",
+  "version": "1.2.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199550097,
+  "transmit": 275002,
+  "disk": 18110969
+}
