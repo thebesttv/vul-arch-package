@@ -1,0 +1,19 @@
+{
+  "name": "libmanette",
+  "version": "0.2.7-1",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "libevdev",
+    "libgudev"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199502583,
+  "transmit": 231360,
+  "disk": 521085
+}
