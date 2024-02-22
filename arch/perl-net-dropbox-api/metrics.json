@@ -1,0 +1,19 @@
+{
+  "name": "perl-net-dropbox-api",
+  "version": "1.9-12",
+  "depends": [
+    "perl-common-sense",
+    "perl-data-random",
+    "perl-http-message",
+    "perl-json",
+    "perl-libwww",
+    "perl-mouse",
+    "perl-net-oauth",
+    "perl-uri",
+    "perl-lwp-protocol-https"
+  ],
+  "makedepends": [],
+  "receive": 199526899,
+  "transmit": 262405,
+  "disk": 268721
+}
