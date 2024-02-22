@@ -1,0 +1,16 @@
+{
+  "name": "kgeography",
+  "version": "23.08.5-1",
+  "depends": [
+    "kxmlgui5",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "python"
+  ],
+  "receive": 212478661,
+  "transmit": 482754,
+  "disk": 83437061
+}
