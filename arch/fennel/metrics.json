@@ -1,0 +1,13 @@
+{
+  "name": "fennel",
+  "version": "1.4.0-1",
+  "depends": [
+    "lua"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199577993,
+  "transmit": 303705,
+  "disk": 4107267
+}
