@@ -1,0 +1,16 @@
+{
+  "name": "wikicurses",
+  "version": "1.4-7",
+  "depends": [
+    "python",
+    "python-urwid",
+    "python-beautifulsoup4",
+    "python-lxml"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199630138,
+  "transmit": 352991,
+  "disk": 170617
+}
