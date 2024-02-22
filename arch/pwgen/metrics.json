@@ -1,0 +1,11 @@
+{
+  "name": "pwgen",
+  "version": "2.08-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 200460831,
+  "transmit": 859893,
+  "disk": 358061
+}
