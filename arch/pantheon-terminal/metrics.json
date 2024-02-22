@@ -1,0 +1,23 @@
+{
+  "name": "pantheon-terminal",
+  "version": "6.1.2-1",
+  "depends": [
+    "glib2",
+    "gtk3",
+    "libgranite.so",
+    "libhandy-1.so",
+    "pango",
+    "vte3"
+  ],
+  "makedepends": [
+    "appstream",
+    "git",
+    "intltool",
+    "meson",
+    "vala",
+    "xorg-server-xvfb"
+  ],
+  "receive": 199520815,
+  "transmit": 268005,
+  "disk": 28634675
+}
