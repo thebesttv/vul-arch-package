@@ -1,0 +1,11 @@
+{
+  "name": "dateutils",
+  "version": "0.4.11-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199577403,
+  "transmit": 333020,
+  "disk": 5579660
+}
