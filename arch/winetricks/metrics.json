@@ -1,0 +1,13 @@
+{
+  "name": "winetricks",
+  "version": "20240105-1",
+  "depends": [
+    "cabextract",
+    "perl",
+    "unzip"
+  ],
+  "makedepends": [],
+  "receive": 199720130,
+  "transmit": 485582,
+  "disk": 4404917
+}
