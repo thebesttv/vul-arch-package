@@ -1,0 +1,17 @@
+{
+  "name": "qtcurve",
+  "version": "1:1.9-6",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules",
+    "gtk2",
+    "kdelibs4support",
+    "kdoctools5",
+    "frameworkintegration5",
+    "kdesignerplugin",
+    "kinit"
+  ],
+  "receive": 200365795,
+  "transmit": 298348,
+  "disk": 11445360
+}
