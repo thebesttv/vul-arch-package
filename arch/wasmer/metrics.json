@@ -1,0 +1,18 @@
+{
+  "name": "wasmer",
+  "version": "4.2.3-1",
+  "depends": [
+    "gcc-libs",
+    "zlib",
+    "ncurses",
+    "libffi",
+    "libxkbcommon"
+  ],
+  "makedepends": [
+    "rustup",
+    "cmake"
+  ],
+  "receive": 303680577,
+  "transmit": 1526765,
+  "disk": 398083235
+}
