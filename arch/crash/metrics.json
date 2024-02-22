@@ -1,0 +1,18 @@
+{
+  "name": "crash",
+  "version": "8.0.3-1",
+  "depends": [
+    "xz",
+    "ncurses",
+    "zlib",
+    "libelf",
+    "guile",
+    "mpfr"
+  ],
+  "makedepends": [
+    "wget"
+  ],
+  "receive": 199584522,
+  "transmit": 316069,
+  "disk": 7536018
+}
