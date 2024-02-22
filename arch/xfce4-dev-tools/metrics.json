@@ -1,0 +1,13 @@
+{
+  "name": "xfce4-dev-tools",
+  "version": "4.18.1-1",
+  "depends": [
+    "glib2",
+    "intltool",
+    "gtk-doc"
+  ],
+  "makedepends": [],
+  "receive": 199597368,
+  "transmit": 301955,
+  "disk": 2247560
+}
