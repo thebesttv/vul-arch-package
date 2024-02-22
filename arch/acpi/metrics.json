@@ -1,0 +1,11 @@
+{
+  "name": "acpi",
+  "version": "1.7-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199711185,
+  "transmit": 411168,
+  "disk": 537415
+}
