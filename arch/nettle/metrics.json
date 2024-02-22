@@ -1,0 +1,12 @@
+{
+  "name": "nettle",
+  "version": "3.9.1-1",
+  "depends": [
+    "glibc",
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 199604411,
+  "transmit": 369582,
+  "disk": 10075559
+}
