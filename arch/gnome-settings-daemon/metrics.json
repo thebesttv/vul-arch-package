@@ -1,0 +1,35 @@
+{
+  "name": "gnome-settings-daemon",
+  "version": "45.1-1",
+  "depends": [
+    "dconf",
+    "gcr-4",
+    "geoclue",
+    "geocode-glib-2",
+    "gnome-desktop",
+    "gsettings-desktop-schemas",
+    "gtk3",
+    "libcanberra-pulse",
+    "libgudev",
+    "libgweather-4",
+    "libnm",
+    "libnotify",
+    "librsvg",
+    "libwacom",
+    "nss",
+    "pulse-native-provider",
+    "systemd",
+    "upower"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "libxslt",
+    "meson",
+    "python",
+    "usbguard"
+  ],
+  "receive": 217274482,
+  "transmit": 335215,
+  "disk": 42716932
+}
