@@ -1,0 +1,11 @@
+{
+  "name": "libmcrypt",
+  "version": "2.5.8-6",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199550381,
+  "transmit": 282721,
+  "disk": 7566479
+}
