@@ -1,0 +1,15 @@
+{
+  "name": "menyoki",
+  "version": "1.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "libxrandr",
+    "libsixel"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199589606,
+  "transmit": 353342,
+  "disk": 1318092
+}
