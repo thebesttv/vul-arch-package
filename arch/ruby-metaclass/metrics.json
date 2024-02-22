@@ -1,0 +1,14 @@
+{
+  "name": "ruby-metaclass",
+  "version": "0.0.4-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-minitest",
+    "ruby-test-unit"
+  ],
+  "receive": 199688975,
+  "transmit": 434716,
+  "disk": 107790
+}
