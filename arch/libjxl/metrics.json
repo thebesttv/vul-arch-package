@@ -1,0 +1,28 @@
+{
+  "name": "libjxl",
+  "version": "0.9.2-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake",
+    "brotli",
+    "gdk-pixbuf2",
+    "giflib",
+    "gimp",
+    "gperftools",
+    "highway",
+    "libjpeg-turbo",
+    "libpng",
+    "openexr",
+    "gtest",
+    "java-environment",
+    "python",
+    "asciidoc",
+    "doxygen",
+    "graphviz",
+    "xdg-utils"
+  ],
+  "receive": 631808661,
+  "transmit": 3322384,
+  "disk": 683687306
+}
