@@ -1,0 +1,14 @@
+{
+  "name": "libharu",
+  "version": "2.4.4-1",
+  "depends": [
+    "libpng",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199895629,
+  "transmit": 553510,
+  "disk": 7014613
+}
