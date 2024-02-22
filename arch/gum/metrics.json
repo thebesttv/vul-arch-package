@@ -1,0 +1,14 @@
+{
+  "name": "gum",
+  "version": "0.13.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199516565,
+  "transmit": 260587,
+  "disk": 1841229
+}
