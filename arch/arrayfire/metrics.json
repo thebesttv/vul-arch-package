@@ -1,0 +1,31 @@
+{
+  "name": "arrayfire",
+  "version": "3.9.0-2",
+  "depends": [
+    "cblas",
+    "fftw",
+    "lapacke",
+    "forge",
+    "freeimage",
+    "glfw",
+    "glew",
+    "intel-oneapi-mkl",
+    "intel-oneapi-tbb"
+  ],
+  "makedepends": [
+    "cmake",
+    "graphviz",
+    "doxygen",
+    "opencl-headers",
+    "python",
+    "ocl-icd",
+    "cuda",
+    "cudnn",
+    "git",
+    "ninja",
+    "boost"
+  ],
+  "receive": 265247538,
+  "transmit": 420589,
+  "disk": 262837174
+}
