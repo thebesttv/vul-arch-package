@@ -1,0 +1,14 @@
+{
+  "name": "haskell-case-insensitive",
+  "version": "1.2.1.0-199",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199579117,
+  "transmit": 317150,
+  "disk": 475199
+}
