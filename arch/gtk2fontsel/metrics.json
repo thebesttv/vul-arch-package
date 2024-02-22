@@ -1,0 +1,11 @@
+{
+  "name": "gtk2fontsel",
+  "version": "0.1-7",
+  "depends": [
+    "gtk2"
+  ],
+  "makedepends": [],
+  "receive": 199635775,
+  "transmit": 361872,
+  "disk": 374763
+}
