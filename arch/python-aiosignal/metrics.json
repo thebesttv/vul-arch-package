@@ -1,0 +1,17 @@
+{
+  "name": "python-aiosignal",
+  "version": "1.3.1-5",
+  "depends": [
+    "python",
+    "python-frozenlist"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199528319,
+  "transmit": 269959,
+  "disk": 231497
+}
