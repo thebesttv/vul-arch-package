@@ -1,0 +1,21 @@
+{
+  "name": "python-cmake-build-extension",
+  "version": "0.5.1-3",
+  "depends": [
+    "cmake",
+    "python",
+    "python-gitpython",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel",
+    "ninja"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 199641069,
+  "transmit": 406872,
+  "disk": 662316
+}
