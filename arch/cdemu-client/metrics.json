@@ -1,0 +1,16 @@
+{
+  "name": "cdemu-client",
+  "version": "3.2.5-1",
+  "depends": [
+    "python-gobject",
+    "cdemu-daemon"
+  ],
+  "makedepends": [
+    "intltool",
+    "cmake",
+    "bash-completion"
+  ],
+  "receive": 199519898,
+  "transmit": 281319,
+  "disk": 478143
+}
