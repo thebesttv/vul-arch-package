@@ -1,0 +1,11 @@
+{
+  "name": "mhash",
+  "version": "0.9.9.9-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199566547,
+  "transmit": 285732,
+  "disk": 4884736
+}
