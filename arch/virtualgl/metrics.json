@@ -1,0 +1,24 @@
+{
+  "name": "virtualgl",
+  "version": "3.1-4",
+  "depends": [
+    "libxv",
+    "glu",
+    "libjpeg-turbo",
+    "xcb-util-keysyms",
+    "opencl-driver",
+    "ocl-icd",
+    "xorg-xhost",
+    "inetutils"
+  ],
+  "makedepends": [
+    "cmake",
+    "mesa",
+    "libxtst",
+    "opencl-headers",
+    "ninja"
+  ],
+  "receive": 200183733,
+  "transmit": 325065,
+  "disk": 5745095
+}
