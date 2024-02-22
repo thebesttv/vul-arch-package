@@ -1,0 +1,15 @@
+{
+  "name": "vdpauinfo",
+  "version": "1.5-1",
+  "depends": [
+    "gcc-libs",
+    "libvdpau",
+    "libx11"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200033363,
+  "transmit": 673819,
+  "disk": 364496
+}
