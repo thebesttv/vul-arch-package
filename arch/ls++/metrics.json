@@ -1,0 +1,14 @@
+{
+  "name": "ls++",
+  "version": "1:0.36-8",
+  "depends": [
+    "perl",
+    "perl-term-extendedcolor"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199651259,
+  "transmit": 388343,
+  "disk": 451725
+}
