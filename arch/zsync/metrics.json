@@ -1,0 +1,11 @@
+{
+  "name": "zsync",
+  "version": "0.6.2-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199514084,
+  "transmit": 256218,
+  "disk": 1442883
+}
