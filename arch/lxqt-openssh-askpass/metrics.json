@@ -1,0 +1,14 @@
+{
+  "name": "lxqt-openssh-askpass",
+  "version": "1.4.0-1",
+  "depends": [
+    "liblxqt"
+  ],
+  "makedepends": [
+    "cmake",
+    "lxqt-build-tools"
+  ],
+  "receive": 199509307,
+  "transmit": 271538,
+  "disk": 239225
+}
