@@ -1,0 +1,16 @@
+{
+  "name": "gcovr",
+  "version": "7.0-1",
+  "depends": [
+    "python",
+    "python-jinja",
+    "python-lxml",
+    "gcc"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199524559,
+  "transmit": 296576,
+  "disk": 36934387
+}
