@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-notifications-plugin",
+  "version": "2.11.1.0-1",
+  "depends": [
+    "opensearch=2.11.1"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 199561321,
+  "transmit": 270598,
+  "disk": 2103500
+}
