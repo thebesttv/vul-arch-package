@@ -1,0 +1,18 @@
+{
+  "name": "sympol",
+  "version": "0.1.9-15",
+  "depends": [
+    "boost-libs",
+    "lrs",
+    "cddlib",
+    "bliss"
+  ],
+  "makedepends": [
+    "cmake",
+    "permlib",
+    "eigen"
+  ],
+  "receive": 199601618,
+  "transmit": 349442,
+  "disk": 1489010
+}
