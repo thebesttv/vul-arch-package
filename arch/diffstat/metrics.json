@@ -1,0 +1,11 @@
+{
+  "name": "diffstat",
+  "version": "1.65-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199534988,
+  "transmit": 278534,
+  "disk": 1616509
+}
