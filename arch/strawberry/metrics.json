@@ -1,0 +1,39 @@
+{
+  "name": "strawberry",
+  "version": "1.0.23-2",
+  "depends": [
+    "abseil-cpp",
+    "alsa-lib",
+    "chromaprint",
+    "fftw",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gst-plugins-base",
+    "gst-plugins-base-libs",
+    "gst-plugins-good",
+    "gstreamer",
+    "icu",
+    "kdsingleapplication",
+    "libcdio",
+    "libebur128",
+    "libgpod",
+    "libmtp",
+    "libpulse",
+    "libx11",
+    "protobuf",
+    "qt6-base",
+    "sqlite",
+    "taglib",
+    "udisks2"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "qt6-tools"
+  ],
+  "receive": 199549772,
+  "transmit": 299920,
+  "disk": 32694870
+}
