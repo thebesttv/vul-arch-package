@@ -1,0 +1,13 @@
+{
+  "name": "ruby-ffi",
+  "version": "1.16.3-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199657248,
+  "transmit": 407392,
+  "disk": 1110648
+}
