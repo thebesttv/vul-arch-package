@@ -1,0 +1,13 @@
+{
+  "name": "easy-rsa",
+  "version": "3.1.7-1",
+  "depends": [
+    "openssl",
+    "sh",
+    "grep"
+  ],
+  "makedepends": [],
+  "receive": 199831889,
+  "transmit": 445226,
+  "disk": 770047
+}
