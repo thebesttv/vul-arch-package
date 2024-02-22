@@ -1,0 +1,13 @@
+{
+  "name": "perl-devel-patchperl",
+  "version": "2.08-2",
+  "depends": [
+    "perl",
+    "perl-file-pushd",
+    "perl-module-pluggable"
+  ],
+  "makedepends": [],
+  "receive": 199673276,
+  "transmit": 421203,
+  "disk": 982391
+}
