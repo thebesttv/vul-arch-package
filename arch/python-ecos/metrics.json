@@ -1,0 +1,20 @@
+{
+  "name": "python-ecos",
+  "version": "2.0.13-1",
+  "depends": [
+    "ecos",
+    "glibc",
+    "python",
+    "python-numpy",
+    "python-scipy"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199508235,
+  "transmit": 267589,
+  "disk": 240175
+}
