@@ -1,0 +1,23 @@
+{
+  "name": "postorius",
+  "version": "1.3.10-1",
+  "depends": [
+    "python",
+    "python-cmarkgfm",
+    "python-django",
+    "python-django-allauth",
+    "python-django-mailman3",
+    "python-mailmanclient",
+    "python-readme-renderer"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199731081,
+  "transmit": 468718,
+  "disk": 37816318
+}
