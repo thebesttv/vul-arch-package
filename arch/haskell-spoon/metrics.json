@@ -1,0 +1,13 @@
+{
+  "name": "haskell-spoon",
+  "version": "0.3.1-9",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199514968,
+  "transmit": 277402,
+  "disk": 104124
+}
