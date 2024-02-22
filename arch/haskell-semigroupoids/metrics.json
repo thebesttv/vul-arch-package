@@ -1,0 +1,24 @@
+{
+  "name": "haskell-semigroupoids",
+  "version": "5.3.7-132",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-orphans",
+    "haskell-bifunctors",
+    "haskell-comonad",
+    "haskell-contravariant",
+    "haskell-distributive",
+    "haskell-hashable",
+    "haskell-tagged",
+    "haskell-transformers-compat",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-cabal-doctest",
+    "haskell-doctest"
+  ],
+  "receive": 200034510,
+  "transmit": 441926,
+  "disk": 664852
+}
