@@ -1,0 +1,13 @@
+{
+  "name": "ruby-faraday-excon",
+  "version": "1.1.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rspec"
+  ],
+  "receive": 199641053,
+  "transmit": 382346,
+  "disk": 150686
+}
