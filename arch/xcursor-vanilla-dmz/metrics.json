@@ -1,0 +1,11 @@
+{
+  "name": "xcursor-vanilla-dmz",
+  "version": "0.4.5-2",
+  "depends": [],
+  "makedepends": [
+    "xorg-xcursorgen"
+  ],
+  "receive": 199656779,
+  "transmit": 409243,
+  "disk": 2682238
+}
