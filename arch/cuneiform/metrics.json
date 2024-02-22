@@ -1,0 +1,13 @@
+{
+  "name": "cuneiform",
+  "version": "1.1.0-22",
+  "depends": [
+    "libmagick"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 213335598,
+  "transmit": 508499,
+  "disk": 98398042
+}
