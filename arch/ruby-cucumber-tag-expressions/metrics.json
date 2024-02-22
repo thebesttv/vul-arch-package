@@ -1,0 +1,14 @@
+{
+  "name": "ruby-cucumber-tag-expressions",
+  "version": "5.0.6-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-rspec"
+  ],
+  "receive": 199514393,
+  "transmit": 238978,
+  "disk": 1375476
+}
