@@ -1,0 +1,14 @@
+{
+  "name": "vokoscreen",
+  "version": "4.0.0-1",
+  "depends": [
+    "gst-plugins-good",
+    "qt6-multimedia"
+  ],
+  "makedepends": [
+    "qt6-tools"
+  ],
+  "receive": 199817528,
+  "transmit": 394240,
+  "disk": 9889980
+}
