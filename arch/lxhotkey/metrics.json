@@ -1,0 +1,15 @@
+{
+  "name": "lxhotkey",
+  "version": "0.1.1-2",
+  "depends": [
+    "gtk2",
+    "gtk3",
+    "libfm"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199581435,
+  "transmit": 298144,
+  "disk": 2240569
+}
