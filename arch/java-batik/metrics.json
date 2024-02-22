@@ -1,0 +1,18 @@
+{
+  "name": "java-batik",
+  "version": "1.17-1",
+  "depends": [
+    "java-runtime",
+    "java-commons-io",
+    "java-commons-logging",
+    "java-xmlgraphics-commons"
+  ],
+  "makedepends": [
+    "java-environment",
+    "apache-ant",
+    "unzip"
+  ],
+  "receive": 213435554,
+  "transmit": 457288,
+  "disk": 48213412
+}
