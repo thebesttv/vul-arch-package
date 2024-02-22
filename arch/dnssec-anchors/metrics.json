@@ -1,0 +1,11 @@
+{
+  "name": "dnssec-anchors",
+  "version": "20190629-3",
+  "depends": [],
+  "makedepends": [
+    "unbound"
+  ],
+  "receive": 199547367,
+  "transmit": 306887,
+  "disk": 94766
+}
