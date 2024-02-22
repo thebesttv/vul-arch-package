@@ -1,0 +1,21 @@
+{
+  "name": "librdkafka",
+  "version": "2.3.0-1",
+  "depends": [
+    "curl",
+    "gcc-libs",
+    "glibc",
+    "libsasl",
+    "lz4",
+    "openssl",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "python",
+    "rapidjson"
+  ],
+  "receive": 199527521,
+  "transmit": 250262,
+  "disk": 16940134
+}
