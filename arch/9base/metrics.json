@@ -1,0 +1,11 @@
+{
+  "name": "9base",
+  "version": "6-8",
+  "depends": [
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199652683,
+  "transmit": 393138,
+  "disk": 4507842
+}
