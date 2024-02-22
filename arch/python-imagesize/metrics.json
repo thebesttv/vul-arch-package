@@ -1,0 +1,16 @@
+{
+  "name": "python-imagesize",
+  "version": "1.4.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199651026,
+  "transmit": 410594,
+  "disk": 2982613
+}
