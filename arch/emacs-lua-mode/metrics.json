@@ -1,0 +1,11 @@
+{
+  "name": "emacs-lua-mode",
+  "version": "20210802-3",
+  "depends": [],
+  "makedepends": [
+    "emacs"
+  ],
+  "receive": 199585082,
+  "transmit": 361078,
+  "disk": 392211
+}
