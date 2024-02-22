@@ -1,0 +1,13 @@
+{
+  "name": "python-wrapt",
+  "version": "1.16.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199600572,
+  "transmit": 377718,
+  "disk": 1039435
+}
