@@ -1,0 +1,14 @@
+{
+  "name": "perl-gd",
+  "version": "2.78-1",
+  "depends": [
+    "perl",
+    "gd"
+  ],
+  "makedepends": [
+    "perl-extutils-pkgconfig"
+  ],
+  "receive": 199576282,
+  "transmit": 268452,
+  "disk": 1662595
+}
