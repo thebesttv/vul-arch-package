@@ -1,0 +1,19 @@
+{
+  "name": "python-ipympl",
+  "version": "0.9.3-4",
+  "depends": [
+    "python-ipython-genutils",
+    "python-ipywidgets",
+    "python-matplotlib"
+  ],
+  "makedepends": [
+    "jupyterlab",
+    "python-build",
+    "python-installer",
+    "python-jupyter-packaging",
+    "python-setuptools"
+  ],
+  "receive": 199695007,
+  "transmit": 387608,
+  "disk": 1477021
+}
