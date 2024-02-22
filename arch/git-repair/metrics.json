@@ -1,0 +1,27 @@
+{
+  "name": "git-repair",
+  "version": "1.20230814-34",
+  "depends": [
+    "git",
+    "ghc-libs",
+    "haskell-async",
+    "haskell-attoparsec",
+    "haskell-data-default",
+    "haskell-filepath-bytestring",
+    "haskell-hslogger",
+    "haskell-ifelse",
+    "haskell-network",
+    "haskell-network-uri",
+    "haskell-optparse-applicative",
+    "haskell-quickcheck",
+    "haskell-split",
+    "haskell-unix-compat",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199986053,
+  "transmit": 332987,
+  "disk": 2189734
+}
