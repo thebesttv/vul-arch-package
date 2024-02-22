@@ -1,0 +1,11 @@
+{
+  "name": "nds32le-elf-binutils",
+  "version": "2.39-1",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 237069822,
+  "transmit": 819709,
+  "disk": 313003324
+}
