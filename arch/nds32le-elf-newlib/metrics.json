@@ -1,0 +1,11 @@
+{
+  "name": "nds32le-elf-newlib",
+  "version": "4.1.0-1",
+  "depends": [],
+  "makedepends": [
+    "nds32le-elf-gcc"
+  ],
+  "receive": 218726990,
+  "transmit": 597820,
+  "disk": 105575511
+}
