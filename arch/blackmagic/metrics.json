@@ -1,0 +1,17 @@
+{
+  "name": "blackmagic",
+  "version": "1.9.1-2",
+  "depends": [
+    "libusb",
+    "libftdi",
+    "libhidapi-hidraw.so"
+  ],
+  "makedepends": [
+    "git",
+    "hidapi",
+    "python"
+  ],
+  "receive": 199745001,
+  "transmit": 428600,
+  "disk": 28219082
+}
