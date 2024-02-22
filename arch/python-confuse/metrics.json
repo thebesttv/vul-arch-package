@@ -1,0 +1,16 @@
+{
+  "name": "python-confuse",
+  "version": "2.0.1-1",
+  "depends": [
+    "python-yaml"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199714977,
+  "transmit": 383592,
+  "disk": 1150749
+}
