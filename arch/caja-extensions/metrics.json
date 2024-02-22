@@ -1,0 +1,17 @@
+{
+  "name": "caja-extensions",
+  "version": "1.26.1-2",
+  "depends": [
+    "caja",
+    "gettext",
+    "dbus-glib",
+    "imagemagick",
+    "samba"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199653218,
+  "transmit": 370899,
+  "disk": 6450608
+}
