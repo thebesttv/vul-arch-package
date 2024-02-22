@@ -1,0 +1,13 @@
+{
+  "name": "mari0",
+  "version": "1.6.2-3",
+  "depends": [
+    "love"
+  ],
+  "makedepends": [
+    "zip"
+  ],
+  "receive": 201157314,
+  "transmit": 284973,
+  "disk": 8990909
+}
