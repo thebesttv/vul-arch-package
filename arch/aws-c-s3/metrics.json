@@ -1,0 +1,15 @@
+{
+  "name": "aws-c-s3",
+  "version": "0.3.14-1",
+  "depends": [
+    "aws-c-common",
+    "aws-c-auth",
+    "aws-checksums"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199599502,
+  "transmit": 355338,
+  "disk": 2535027
+}
