@@ -1,0 +1,13 @@
+{
+  "name": "git-credential-gopass",
+  "version": "1.15.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199543340,
+  "transmit": 287749,
+  "disk": 192551
+}
