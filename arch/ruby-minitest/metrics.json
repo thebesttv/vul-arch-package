@@ -1,0 +1,16 @@
+{
+  "name": "ruby-minitest",
+  "version": "5.20.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "rubygems",
+    "ruby-hoe",
+    "ruby-rake",
+    "ruby-rdoc"
+  ],
+  "receive": 199750333,
+  "transmit": 466280,
+  "disk": 552193
+}
