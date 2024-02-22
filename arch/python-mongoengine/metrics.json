@@ -1,0 +1,16 @@
+{
+  "name": "python-mongoengine",
+  "version": "0.24.2-2",
+  "depends": [
+    "python-pymongo"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199623348,
+  "transmit": 335662,
+  "disk": 2040728
+}
