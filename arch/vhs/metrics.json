@@ -1,0 +1,16 @@
+{
+  "name": "vhs",
+  "version": "0.7.1-1",
+  "depends": [
+    "glibc",
+    "ffmpeg",
+    "ttyd"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 201653898,
+  "transmit": 503025,
+  "disk": 54722472
+}
