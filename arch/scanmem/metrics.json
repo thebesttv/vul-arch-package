@@ -1,0 +1,16 @@
+{
+  "name": "scanmem",
+  "version": "0.17-7",
+  "depends": [],
+  "makedepends": [
+    "intltool",
+    "gtk3",
+    "python-gobject",
+    "polkit",
+    "glibc",
+    "readline"
+  ],
+  "receive": 199628197,
+  "transmit": 354354,
+  "disk": 1124812
+}
