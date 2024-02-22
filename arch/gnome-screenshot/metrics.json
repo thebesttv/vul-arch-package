@@ -1,0 +1,16 @@
+{
+  "name": "gnome-screenshot",
+  "version": "41.0+r25+g45f08f0-1",
+  "depends": [
+    "gtk3",
+    "libhandy"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "appstream-glib"
+  ],
+  "receive": 199566241,
+  "transmit": 289369,
+  "disk": 6094044
+}
