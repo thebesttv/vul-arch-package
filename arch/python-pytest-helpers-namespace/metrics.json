@@ -1,0 +1,21 @@
+{
+  "name": "python-pytest-helpers-namespace",
+  "version": "2021.12.29-3",
+  "depends": [
+    "python",
+    "python-setuptools",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-declarative-requirements",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 199581474,
+  "transmit": 356096,
+  "disk": 732116
+}
