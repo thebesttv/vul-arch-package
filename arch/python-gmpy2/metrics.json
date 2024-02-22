@@ -1,0 +1,17 @@
+{
+  "name": "python-gmpy2",
+  "version": "2.1.5-2",
+  "depends": [
+    "python",
+    "libmpc"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199656846,
+  "transmit": 360255,
+  "disk": 10965707
+}
