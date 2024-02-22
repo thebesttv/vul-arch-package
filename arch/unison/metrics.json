@@ -1,0 +1,13 @@
+{
+  "name": "unison",
+  "version": "2.53.4-1",
+  "depends": [],
+  "makedepends": [
+    "emacs",
+    "lablgtk3",
+    "ocaml"
+  ],
+  "receive": 200231201,
+  "transmit": 295659,
+  "disk": 5527217
+}
