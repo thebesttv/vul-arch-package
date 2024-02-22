@@ -1,0 +1,11 @@
+{
+  "name": "perl-net-smtp-ssl",
+  "version": "1.04-4",
+  "depends": [
+    "perl-io-socket-ssl"
+  ],
+  "makedepends": [],
+  "receive": 199794727,
+  "transmit": 463389,
+  "disk": 118034
+}
