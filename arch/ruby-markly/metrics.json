@@ -1,0 +1,11 @@
+{
+  "name": "ruby-markly",
+  "version": "0.10.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [],
+  "receive": 199517656,
+  "transmit": 275144,
+  "disk": 3420875
+}
