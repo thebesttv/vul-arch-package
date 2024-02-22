@@ -1,0 +1,23 @@
+{
+  "name": "lirc",
+  "version": "1:0.10.2-3",
+  "depends": [
+    "alsa-lib",
+    "libx11",
+    "libftdi",
+    "libusb-compat"
+  ],
+  "makedepends": [
+    "help2man",
+    "alsa-lib",
+    "libx11",
+    "libxslt",
+    "python",
+    "python-setuptools",
+    "python-yaml",
+    "systemd"
+  ],
+  "receive": 200276019,
+  "transmit": 397679,
+  "disk": 9174709
+}
