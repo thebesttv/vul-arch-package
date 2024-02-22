@@ -1,0 +1,17 @@
+{
+  "name": "python-perf",
+  "version": "2.6.2-1",
+  "depends": [
+    "python",
+    "python-psutil"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199734868,
+  "transmit": 432846,
+  "disk": 1203641
+}
