@@ -1,0 +1,23 @@
+{
+  "name": "vte3",
+  "version": "0.74.2-1",
+  "depends": [],
+  "makedepends": [
+    "cairo",
+    "fribidi",
+    "gi-docgen",
+    "git",
+    "gnutls",
+    "gobject-introspection",
+    "gperf",
+    "gtk3",
+    "gtk4",
+    "meson",
+    "pcre2",
+    "systemd",
+    "vala"
+  ],
+  "receive": 199669826,
+  "transmit": 281712,
+  "disk": 17051012
+}
