@@ -1,0 +1,29 @@
+{
+  "name": "xtrabackup",
+  "version": "8.0.35_30-1",
+  "depends": [
+    "libaio",
+    "libev",
+    "libgcrypt",
+    "curl",
+    "perl-dbd-mysql",
+    "numactl",
+    "protobuf",
+    "libprocps",
+    "icu",
+    "zlib",
+    "zstd",
+    "lz4"
+  ],
+  "makedepends": [
+    "cmake",
+    "python-sphinx",
+    "vim",
+    "libedit",
+    "libevent",
+    "libfido2"
+  ],
+  "receive": 782411675,
+  "transmit": 2545443,
+  "disk": 2283555942
+}
