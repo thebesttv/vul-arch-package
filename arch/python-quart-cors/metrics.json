@@ -1,0 +1,17 @@
+{
+  "name": "python-quart-cors",
+  "version": "0.7.0-1",
+  "depends": [
+    "python",
+    "python-quart"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199602110,
+  "transmit": 357976,
+  "disk": 399857
+}
