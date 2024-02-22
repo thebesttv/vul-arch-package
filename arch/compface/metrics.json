@@ -1,0 +1,11 @@
+{
+  "name": "compface",
+  "version": "1.5.2-11",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199488306,
+  "transmit": 229480,
+  "disk": 347540
+}
