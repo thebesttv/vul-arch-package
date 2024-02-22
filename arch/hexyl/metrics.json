@@ -1,0 +1,14 @@
+{
+  "name": "hexyl",
+  "version": "0.14.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "pandoc"
+  ],
+  "receive": 199754034,
+  "transmit": 446368,
+  "disk": 361978
+}
