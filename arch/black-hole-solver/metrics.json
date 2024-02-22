@@ -1,0 +1,16 @@
+{
+  "name": "black-hole-solver",
+  "version": "1.12.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "perl-path-tiny",
+    "rinutils",
+    "python"
+  ],
+  "receive": 199622286,
+  "transmit": 368656,
+  "disk": 970610
+}
