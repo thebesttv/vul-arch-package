@@ -1,0 +1,12 @@
+{
+  "name": "perl-pdf-builder",
+  "version": "3.026-1",
+  "depends": [
+    "perl",
+    "perl-font-ttf"
+  ],
+  "makedepends": [],
+  "receive": 199516704,
+  "transmit": 230054,
+  "disk": 28267398
+}
