@@ -1,0 +1,22 @@
+{
+  "name": "ssh-openpgp-auth",
+  "version": "0.2.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "bzip2",
+    "clang",
+    "gmp",
+    "just",
+    "nettle",
+    "openssl",
+    "rust",
+    "rust-script",
+    "sqlite"
+  ],
+  "receive": 199591964,
+  "transmit": 366340,
+  "disk": 463969
+}
