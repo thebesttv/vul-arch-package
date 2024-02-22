@@ -1,0 +1,13 @@
+{
+  "name": "rpmextract",
+  "version": "1.0-9",
+  "depends": [
+    "bash",
+    "libarchive",
+    "coreutils"
+  ],
+  "makedepends": [],
+  "receive": 199690871,
+  "transmit": 427242,
+  "disk": 91653
+}
