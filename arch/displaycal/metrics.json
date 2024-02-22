@@ -1,0 +1,28 @@
+{
+  "name": "displaycal",
+  "version": "3.9.11-1",
+  "depends": [
+    "argyllcms",
+    "dbus",
+    "dbus-python",
+    "glib2",
+    "python-certifi",
+    "python-distro",
+    "python-numpy",
+    "python-pillow",
+    "python-send2trash",
+    "python-wxpython",
+    "python-zeroconf"
+  ],
+  "makedepends": [
+    "libxrandr",
+    "libxxf86vm",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199814276,
+  "transmit": 495353,
+  "disk": 31884671
+}
