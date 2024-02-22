@@ -1,0 +1,15 @@
+{
+  "name": "source-highlight",
+  "version": "3.1.9-11",
+  "depends": [
+    "bash",
+    "boost-libs"
+  ],
+  "makedepends": [
+    "ctags",
+    "boost"
+  ],
+  "receive": 199799073,
+  "transmit": 443246,
+  "disk": 9725619
+}
