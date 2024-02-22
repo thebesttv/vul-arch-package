@@ -1,0 +1,11 @@
+{
+  "name": "perl-file-rsyncp",
+  "version": "0.76-4",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199486379,
+  "transmit": 251672,
+  "disk": 1058152
+}
