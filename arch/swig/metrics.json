@@ -1,0 +1,12 @@
+{
+  "name": "swig",
+  "version": "4.1.1-2",
+  "depends": [
+    "pcre2",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 208367504,
+  "transmit": 380393,
+  "disk": 38439138
+}
