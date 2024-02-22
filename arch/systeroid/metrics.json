@@ -1,0 +1,16 @@
+{
+  "name": "systeroid",
+  "version": "0.4.4-1",
+  "depends": [
+    "libxcb",
+    "libxkbcommon",
+    "linux-docs"
+  ],
+  "makedepends": [
+    "cargo",
+    "python"
+  ],
+  "receive": 199753565,
+  "transmit": 426084,
+  "disk": 13221031
+}
