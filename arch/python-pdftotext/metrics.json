@@ -1,0 +1,17 @@
+{
+  "name": "python-pdftotext",
+  "version": "2.2.2-4",
+  "depends": [
+    "poppler",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199684026,
+  "transmit": 338529,
+  "disk": 402563
+}
