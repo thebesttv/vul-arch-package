@@ -1,0 +1,11 @@
+{
+  "name": "aqbanking",
+  "version": "6.5.4-1",
+  "depends": [
+    "gwenhywfar"
+  ],
+  "makedepends": [],
+  "receive": 199682796,
+  "transmit": 403608,
+  "disk": 16428571
+}
