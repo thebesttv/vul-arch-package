@@ -1,0 +1,14 @@
+{
+  "name": "libretro-mesen",
+  "version": "2903-2",
+  "depends": [
+    "gcc-libs",
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 226424826,
+  "transmit": 432826,
+  "disk": 204554564
+}
