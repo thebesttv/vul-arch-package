@@ -1,0 +1,17 @@
+{
+  "name": "lib32-flac",
+  "version": "1.4.3-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-libogg",
+    "flac"
+  ],
+  "makedepends": [
+    "nasm",
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199629670,
+  "transmit": 365632,
+  "disk": 13539432
+}
