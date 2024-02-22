@@ -1,0 +1,12 @@
+{
+  "name": "libopusenc",
+  "version": "0.2.1-4",
+  "depends": [
+    "glibc",
+    "opus"
+  ],
+  "makedepends": [],
+  "receive": 199599968,
+  "transmit": 364129,
+  "disk": 2088728
+}
