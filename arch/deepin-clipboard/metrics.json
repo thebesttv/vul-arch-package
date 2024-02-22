@@ -1,0 +1,20 @@
+{
+  "name": "deepin-clipboard",
+  "version": "6.0.7-2",
+  "depends": [
+    "deepin-qt5integration",
+    "gio-qt",
+    "dtkcore",
+    "dwayland"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "gtest",
+    "qt5-tools",
+    "extra-cmake-modules"
+  ],
+  "receive": 199961255,
+  "transmit": 530738,
+  "disk": 17957453
+}
