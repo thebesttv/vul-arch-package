@@ -1,0 +1,12 @@
+{
+  "name": "asciiquarium",
+  "version": "1.1-6",
+  "depends": [
+    "perl",
+    "perl-term-animation"
+  ],
+  "makedepends": [],
+  "receive": 199638816,
+  "transmit": 380480,
+  "disk": 151608
+}
