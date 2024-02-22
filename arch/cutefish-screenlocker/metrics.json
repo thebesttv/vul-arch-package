@@ -1,0 +1,15 @@
+{
+  "name": "cutefish-screenlocker",
+  "version": "0.5-2",
+  "depends": [
+    "fishui",
+    "libcutefish"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools"
+  ],
+  "receive": 199654770,
+  "transmit": 438853,
+  "disk": 366704
+}
