@@ -1,0 +1,16 @@
+{
+  "name": "python-toml",
+  "version": "0.10.2-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199698891,
+  "transmit": 409372,
+  "disk": 230806
+}
