@@ -1,0 +1,17 @@
+{
+  "name": "haskell-lua",
+  "version": "2.3.2-2",
+  "depends": [
+    "ghc-libs",
+    "lua"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199592517,
+  "transmit": 294209,
+  "disk": 1458191
+}
