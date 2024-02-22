@@ -1,0 +1,13 @@
+{
+  "name": "ruby-bump",
+  "version": "0.10.0-2",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199557182,
+  "transmit": 294225,
+  "disk": 662593
+}
