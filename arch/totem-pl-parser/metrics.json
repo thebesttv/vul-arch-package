@@ -1,0 +1,19 @@
+{
+  "name": "totem-pl-parser",
+  "version": "3.26.6-2",
+  "depends": [
+    "glib2",
+    "libxml2",
+    "libarchive",
+    "libgcrypt"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "git",
+    "gtk-doc",
+    "meson"
+  ],
+  "receive": 199676638,
+  "transmit": 403061,
+  "disk": 10096512
+}
