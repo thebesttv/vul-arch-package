@@ -1,0 +1,14 @@
+{
+  "name": "ruby-parslet",
+  "version": "2.0.0-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rspec",
+    "ruby-rdoc"
+  ],
+  "receive": 199563678,
+  "transmit": 274736,
+  "disk": 1039539
+}
