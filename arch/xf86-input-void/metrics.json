@@ -1,0 +1,15 @@
+{
+  "name": "xf86-input-void",
+  "version": "1.4.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-XINPUT_VERSION=24.4",
+    "xorgproto"
+  ],
+  "receive": 199592277,
+  "transmit": 274359,
+  "disk": 2075145
+}
