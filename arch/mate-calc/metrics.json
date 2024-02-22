@@ -1,0 +1,15 @@
+{
+  "name": "mate-calc",
+  "version": "1.26.0-1",
+  "depends": [
+    "gtk3",
+    "gettext",
+    "libmpc"
+  ],
+  "makedepends": [
+    "itstool"
+  ],
+  "receive": 200603346,
+  "transmit": 369521,
+  "disk": 21583703
+}
