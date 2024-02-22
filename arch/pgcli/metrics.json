@@ -1,0 +1,27 @@
+{
+  "name": "pgcli",
+  "version": "4.0.1-2",
+  "depends": [
+    "python",
+    "python-cli_helpers",
+    "python-click",
+    "python-configobj",
+    "python-pendulum",
+    "python-pgspecial",
+    "python-prompt_toolkit",
+    "python-psycopg",
+    "python-pygments",
+    "python-setproctitle",
+    "python-sqlparse"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199646442,
+  "transmit": 367841,
+  "disk": 13748943
+}
