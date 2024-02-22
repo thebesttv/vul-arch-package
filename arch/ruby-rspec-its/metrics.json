@@ -1,0 +1,14 @@
+{
+  "name": "ruby-rspec-its",
+  "version": "1.3.0-5",
+  "depends": [
+    "ruby",
+    "ruby-rspec"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199533940,
+  "transmit": 254231,
+  "disk": 173402
+}
