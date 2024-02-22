@@ -1,0 +1,17 @@
+{
+  "name": "canto-curses",
+  "version": "0.9.9-5",
+  "depends": [
+    "canto-daemon",
+    "glibc",
+    "libncursesw.so",
+    "libreadline.so",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199640418,
+  "transmit": 420679,
+  "disk": 435685
+}
