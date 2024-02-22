@@ -1,0 +1,13 @@
+{
+  "name": "libslirp",
+  "version": "4.7.0-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199566853,
+  "transmit": 287143,
+  "disk": 827979
+}
