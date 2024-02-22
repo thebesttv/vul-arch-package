@@ -1,0 +1,13 @@
+{
+  "name": "perl-parse-recdescent",
+  "version": "1.967015-3",
+  "depends": [
+    "perl>=5.10.0"
+  ],
+  "makedepends": [
+    "perl-module-build"
+  ],
+  "receive": 199542132,
+  "transmit": 280515,
+  "disk": 832240
+}
