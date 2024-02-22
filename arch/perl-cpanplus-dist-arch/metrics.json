@@ -1,0 +1,13 @@
+{
+  "name": "perl-cpanplus-dist-arch",
+  "version": "1.32-9",
+  "depends": [
+    "perl",
+    "perl-cpanplus",
+    "perl-pod-parser"
+  ],
+  "makedepends": [],
+  "receive": 199556570,
+  "transmit": 303524,
+  "disk": 373095
+}
