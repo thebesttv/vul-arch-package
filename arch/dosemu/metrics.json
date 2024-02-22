@@ -1,0 +1,22 @@
+{
+  "name": "dosemu",
+  "version": "1:1.4.0.8+753+g18f6f5cd-3",
+  "depends": [
+    "gpm",
+    "slang",
+    "sdl",
+    "libxxf86vm",
+    "libsndfile",
+    "alsa-lib"
+  ],
+  "makedepends": [
+    "git",
+    "xorg-mkfontdir",
+    "xorg-bdftopcf",
+    "gendesk",
+    "imagemagick"
+  ],
+  "receive": 206851671,
+  "transmit": 440255,
+  "disk": 21286137
+}
