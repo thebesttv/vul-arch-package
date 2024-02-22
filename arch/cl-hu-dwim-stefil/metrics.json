@@ -1,0 +1,15 @@
+{
+  "name": "cl-hu-dwim-stefil",
+  "version": "r257.g7a17248-2",
+  "depends": [
+    "common-lisp",
+    "cl-asdf",
+    "cl-alexandria"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199675151,
+  "transmit": 378659,
+  "disk": 1461226
+}
