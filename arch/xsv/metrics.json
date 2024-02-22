@@ -1,0 +1,14 @@
+{
+  "name": "xsv",
+  "version": "0.13.0-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199606042,
+  "transmit": 329632,
+  "disk": 3588318
+}
