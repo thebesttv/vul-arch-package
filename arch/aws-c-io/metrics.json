@@ -1,0 +1,15 @@
+{
+  "name": "aws-c-io",
+  "version": "0.13.30-1",
+  "depends": [
+    "aws-c-common",
+    "aws-c-cal",
+    "s2n-tls"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199594964,
+  "transmit": 350082,
+  "disk": 3574737
+}
