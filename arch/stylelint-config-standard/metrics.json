@@ -1,0 +1,15 @@
+{
+  "name": "stylelint-config-standard",
+  "version": "36.0.0-1",
+  "depends": [
+    "stylelint",
+    "stylelint-config-recommended"
+  ],
+  "makedepends": [
+    "git",
+    "npm"
+  ],
+  "receive": 199718792,
+  "transmit": 432556,
+  "disk": 4907748
+}
