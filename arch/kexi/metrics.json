@@ -1,0 +1,40 @@
+{
+  "name": "kexi",
+  "version": "3.2.0-5",
+  "depends": [
+    "breeze-icons",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "kcodecs5",
+    "kcompletion5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kcrash5",
+    "kdb",
+    "kguiaddons5",
+    "ki18n5",
+    "kiconthemes5",
+    "kio5",
+    "kitemviews5",
+    "kproperty",
+    "kreport",
+    "ktexteditor5",
+    "ktextwidgets5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "kdoctools5",
+    "mariadb-libs",
+    "postgresql",
+    "qt5-tools"
+  ],
+  "receive": 203406188,
+  "transmit": 470821,
+  "disk": 32610614
+}
