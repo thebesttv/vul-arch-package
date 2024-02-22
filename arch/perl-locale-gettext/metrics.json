@@ -1,0 +1,12 @@
+{
+  "name": "perl-locale-gettext",
+  "version": "1.07-14",
+  "depends": [
+    "gettext",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199536294,
+  "transmit": 238862,
+  "disk": 146393
+}
