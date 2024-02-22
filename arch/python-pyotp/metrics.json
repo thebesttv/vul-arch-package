@@ -1,0 +1,17 @@
+{
+  "name": "python-pyotp",
+  "version": "2.9.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-sphinx",
+    "python-guzzle-sphinx-theme",
+    "python-sphinxext-opengraph"
+  ],
+  "receive": 199524703,
+  "transmit": 263752,
+  "disk": 1478151
+}
