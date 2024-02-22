@@ -1,0 +1,11 @@
+{
+  "name": "lsdvd",
+  "version": "0.17-4",
+  "depends": [
+    "libdvdread"
+  ],
+  "makedepends": [],
+  "receive": 199704156,
+  "transmit": 441021,
+  "disk": 540893
+}
