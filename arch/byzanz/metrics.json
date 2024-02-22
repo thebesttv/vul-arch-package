@@ -1,0 +1,17 @@
+{
+  "name": "byzanz",
+  "version": "0.3.0.1-5",
+  "depends": [
+    "gtk3",
+    "gst-plugins-base",
+    "gst-plugins-good"
+  ],
+  "makedepends": [
+    "gnome-common",
+    "intltool",
+    "git"
+  ],
+  "receive": 199558599,
+  "transmit": 295862,
+  "disk": 1510015
+}
