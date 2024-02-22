@@ -1,0 +1,15 @@
+{
+  "name": "python-webtest",
+  "version": "3.0.0-5",
+  "depends": [
+    "python-webob",
+    "python-beautifulsoup4",
+    "python-waitress"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199545555,
+  "transmit": 274129,
+  "disk": 530793
+}
