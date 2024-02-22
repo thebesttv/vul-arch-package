@@ -1,0 +1,12 @@
+{
+  "name": "pork",
+  "version": "0.99.8.1-22",
+  "depends": [
+    "ncurses",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200158173,
+  "transmit": 400938,
+  "disk": 2942300
+}
