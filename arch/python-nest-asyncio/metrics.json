@@ -1,0 +1,13 @@
+{
+  "name": "python-nest-asyncio",
+  "version": "1.6.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199589053,
+  "transmit": 369153,
+  "disk": 137321
+}
