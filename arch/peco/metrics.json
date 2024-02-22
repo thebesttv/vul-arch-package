@@ -1,0 +1,14 @@
+{
+  "name": "peco",
+  "version": "0.5.11-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199571559,
+  "transmit": 347593,
+  "disk": 2408353
+}
