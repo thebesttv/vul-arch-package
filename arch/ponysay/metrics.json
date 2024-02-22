@@ -1,0 +1,14 @@
+{
+  "name": "ponysay",
+  "version": "3.0.3-4",
+  "depends": [
+    "python",
+    "bash"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199890685,
+  "transmit": 575377,
+  "disk": 17806669
+}
