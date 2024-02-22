@@ -1,0 +1,15 @@
+{
+  "name": "ephoto",
+  "version": "1.6.0-2",
+  "depends": [
+    "efl",
+    "libexif"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja"
+  ],
+  "receive": 199650442,
+  "transmit": 425780,
+  "disk": 1188495
+}
