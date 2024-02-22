@@ -1,0 +1,11 @@
+{
+  "name": "sigrok-firmware-fx2lafw",
+  "version": "0.1.7-1",
+  "depends": [],
+  "makedepends": [
+    "sdcc"
+  ],
+  "receive": 199620508,
+  "transmit": 403418,
+  "disk": 864847
+}
