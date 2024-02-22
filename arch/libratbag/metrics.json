@@ -1,0 +1,25 @@
+{
+  "name": "libratbag",
+  "version": "0.17-1",
+  "depends": [
+    "glib2",
+    "libevdev",
+    "libudev.so",
+    "libunistring",
+    "json-glib",
+    "python",
+    "python-evdev",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "meson",
+    "swig",
+    "git",
+    "python-sphinx",
+    "python-sphinx_rtd_theme",
+    "systemd"
+  ],
+  "receive": 199589113,
+  "transmit": 290821,
+  "disk": 11865647
+}
