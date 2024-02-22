@@ -1,0 +1,13 @@
+{
+  "name": "verdict",
+  "version": "1.4.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199493507,
+  "transmit": 253018,
+  "disk": 5340545
+}
