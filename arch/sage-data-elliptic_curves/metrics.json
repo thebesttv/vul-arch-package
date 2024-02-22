@@ -1,0 +1,12 @@
+{
+  "name": "sage-data-elliptic_curves",
+  "version": "0.8.1-2",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "sqlite"
+  ],
+  "receive": 199562525,
+  "transmit": 325646,
+  "disk": 651755
+}
