@@ -1,0 +1,15 @@
+{
+  "name": "sieve-connect",
+  "version": "0.90-2",
+  "depends": [
+    "perl-authen-sasl",
+    "perl-io-socket-inet6",
+    "perl-io-socket-ssl",
+    "perl-net-dns",
+    "perl-term-readkey"
+  ],
+  "makedepends": [],
+  "receive": 199569229,
+  "transmit": 329237,
+  "disk": 299944
+}
