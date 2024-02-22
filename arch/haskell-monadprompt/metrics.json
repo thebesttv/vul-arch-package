@@ -1,0 +1,13 @@
+{
+  "name": "haskell-monadprompt",
+  "version": "1.0.0.5-6",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199646508,
+  "transmit": 365252,
+  "disk": 122785
+}
