@@ -1,0 +1,14 @@
+{
+  "name": "pianobar",
+  "version": "2022.04.01-2",
+  "depends": [
+    "libao",
+    "ffmpeg",
+    "curl",
+    "json-c"
+  ],
+  "makedepends": [],
+  "receive": 199714775,
+  "transmit": 438703,
+  "disk": 457420
+}
