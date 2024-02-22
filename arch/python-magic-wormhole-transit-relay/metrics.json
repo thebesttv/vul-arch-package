@@ -1,0 +1,17 @@
+{
+  "name": "python-magic-wormhole-transit-relay",
+  "version": "0.2.1-9",
+  "depends": [
+    "python-twisted",
+    "python-autobahn"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199642907,
+  "transmit": 406356,
+  "disk": 367581
+}
