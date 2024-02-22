@@ -1,0 +1,35 @@
+{
+  "name": "subversion",
+  "version": "1.14.2-13",
+  "depends": [
+    "apr",
+    "apr-util",
+    "bash",
+    "dbus",
+    "expat",
+    "file",
+    "gcc-libs",
+    "glibc",
+    "libsasl",
+    "libutf8proc",
+    "lz4",
+    "serf",
+    "sqlite",
+    "zlib"
+  ],
+  "makedepends": [
+    "apache",
+    "python",
+    "python-py3c",
+    "perl",
+    "swig",
+    "java-environment>=8",
+    "libsecret",
+    "kwallet5",
+    "kdelibs4support",
+    "ruby"
+  ],
+  "receive": 208534317,
+  "transmit": 424342,
+  "disk": 84041287
+}
