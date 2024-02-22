@@ -1,0 +1,11 @@
+{
+  "name": "4ti2",
+  "version": "1.6.10-1",
+  "depends": [
+    "glpk"
+  ],
+  "makedepends": [],
+  "receive": 199737822,
+  "transmit": 483956,
+  "disk": 38034759
+}
