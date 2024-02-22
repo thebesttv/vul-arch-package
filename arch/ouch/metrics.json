@@ -1,0 +1,15 @@
+{
+  "name": "ouch",
+  "version": "0.5.1-1",
+  "depends": [
+    "xz",
+    "bzip2",
+    "zlib"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199783007,
+  "transmit": 489674,
+  "disk": 449590
+}
