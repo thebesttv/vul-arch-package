@@ -1,0 +1,12 @@
+{
+  "name": "gloox",
+  "version": "1.0.27-1",
+  "depends": [
+    "libidn",
+    "gnutls"
+  ],
+  "makedepends": [],
+  "receive": 199662741,
+  "transmit": 351994,
+  "disk": 6920797
+}
