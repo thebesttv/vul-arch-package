@@ -1,0 +1,12 @@
+{
+  "name": "whowatch",
+  "version": "1.8.6-2",
+  "depends": [
+    "glibc",
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199607020,
+  "transmit": 370609,
+  "disk": 738197
+}
