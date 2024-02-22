@@ -1,0 +1,18 @@
+{
+  "name": "pyalpm",
+  "version": "0.10.6-5",
+  "depends": [
+    "python",
+    "pacman"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-pytest",
+    "python-pkgconfig",
+    "python-pytest-pacman"
+  ],
+  "receive": 199598198,
+  "transmit": 354764,
+  "disk": 1124833
+}
