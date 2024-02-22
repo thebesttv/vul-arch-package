@@ -1,0 +1,11 @@
+{
+  "name": "perl-cpanel-json-xs",
+  "version": "4.37-2",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199502306,
+  "transmit": 256540,
+  "disk": 1624965
+}
