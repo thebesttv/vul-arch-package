@@ -1,0 +1,13 @@
+{
+  "name": "sysstat",
+  "version": "12.7.5-1",
+  "depends": [
+    "lm_sensors"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199609282,
+  "transmit": 370408,
+  "disk": 17308187
+}
