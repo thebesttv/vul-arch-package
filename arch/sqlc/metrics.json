@@ -1,0 +1,15 @@
+{
+  "name": "sqlc",
+  "version": "1.25.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 223363556,
+  "transmit": 393595,
+  "disk": 51370236
+}
