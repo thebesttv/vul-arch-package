@@ -1,0 +1,14 @@
+{
+  "name": "castget",
+  "version": "2.0.1-1",
+  "depends": [
+    "glib2",
+    "libxml2",
+    "curl",
+    "id3lib"
+  ],
+  "makedepends": [],
+  "receive": 199890646,
+  "transmit": 268349,
+  "disk": 2025503
+}
