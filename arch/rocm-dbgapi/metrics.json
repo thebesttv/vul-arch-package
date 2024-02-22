@@ -1,0 +1,14 @@
+{
+  "name": "rocm-dbgapi",
+  "version": "6.0.0-1",
+  "depends": [
+    "comgr",
+    "hsa-rocr"
+  ],
+  "makedepends": [
+    "rocm-cmake"
+  ],
+  "receive": 199525682,
+  "transmit": 269285,
+  "disk": 1699255
+}
