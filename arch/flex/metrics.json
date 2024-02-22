@@ -1,0 +1,15 @@
+{
+  "name": "flex",
+  "version": "2.6.4-5",
+  "depends": [
+    "glibc",
+    "m4",
+    "sh"
+  ],
+  "makedepends": [
+    "help2man"
+  ],
+  "receive": 199504975,
+  "transmit": 277122,
+  "disk": 7773523
+}
