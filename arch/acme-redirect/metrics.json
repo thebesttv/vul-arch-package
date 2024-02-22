@@ -1,0 +1,15 @@
+{
+  "name": "acme-redirect",
+  "version": "0.6.2-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "cargo",
+    "scdoc"
+  ],
+  "receive": 199518983,
+  "transmit": 267332,
+  "disk": 391763
+}
