@@ -1,0 +1,21 @@
+{
+  "name": "lxqt-powermanagement",
+  "version": "1.4.0-1",
+  "depends": [
+    "qt5-svg",
+    "qt5-x11extras",
+    "upower",
+    "kidletime5",
+    "solid5",
+    "hicolor-icon-theme",
+    "libQt5Xdg.so",
+    "lxqt-globalkeys"
+  ],
+  "makedepends": [
+    "cmake",
+    "lxqt-build-tools"
+  ],
+  "receive": 199778002,
+  "transmit": 389826,
+  "disk": 1464552
+}
