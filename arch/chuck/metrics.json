@@ -1,0 +1,12 @@
+{
+  "name": "chuck",
+  "version": "1.5.2.0-1",
+  "depends": [
+    "jack",
+    "libsndfile"
+  ],
+  "makedepends": [],
+  "receive": 222068307,
+  "transmit": 405759,
+  "disk": 58268990
+}
