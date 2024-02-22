@@ -1,0 +1,12 @@
+{
+  "name": "dejagnu",
+  "version": "1.6.3-8",
+  "depends": [
+    "sh",
+    "expect"
+  ],
+  "makedepends": [],
+  "receive": 199607509,
+  "transmit": 376822,
+  "disk": 3286934
+}
