@@ -1,0 +1,16 @@
+{
+  "name": "lib32-ocl-icd",
+  "version": "2.3.2-1",
+  "depends": [
+    "lib32-glibc"
+  ],
+  "makedepends": [
+    "ruby",
+    "lib32-mesa",
+    "opencl-headers>=2.1",
+    "gcc-multilib"
+  ],
+  "receive": 199662331,
+  "transmit": 387136,
+  "disk": 880717
+}
