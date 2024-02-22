@@ -1,0 +1,12 @@
+{
+  "name": "fcitx5-breeze",
+  "version": "2.0.0-2",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "inkscape"
+  ],
+  "receive": 199616108,
+  "transmit": 383253,
+  "disk": 183406
+}
