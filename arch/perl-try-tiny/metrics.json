@@ -1,0 +1,11 @@
+{
+  "name": "perl-try-tiny",
+  "version": "0.31-3",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199693088,
+  "transmit": 442874,
+  "disk": 323866
+}
