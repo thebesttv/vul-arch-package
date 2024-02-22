@@ -1,0 +1,14 @@
+{
+  "name": "cargo-asm",
+  "version": "0.1.16-1",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199543104,
+  "transmit": 313360,
+  "disk": 1079439
+}
