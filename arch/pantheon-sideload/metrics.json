@@ -1,0 +1,19 @@
+{
+  "name": "pantheon-sideload",
+  "version": "6.2.1-1",
+  "depends": [
+    "flatpak",
+    "gtk4",
+    "libgranite-7.so",
+    "libxml2"
+  ],
+  "makedepends": [
+    "git",
+    "intltool",
+    "meson",
+    "vala"
+  ],
+  "receive": 199513396,
+  "transmit": 284055,
+  "disk": 6433438
+}
