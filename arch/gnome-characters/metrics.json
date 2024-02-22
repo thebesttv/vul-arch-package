@@ -1,0 +1,21 @@
+{
+  "name": "gnome-characters",
+  "version": "45.0-1",
+  "depends": [
+    "emoji-font",
+    "gjs",
+    "gnome-desktop-4",
+    "gtk4",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "gobject-introspection",
+    "gperf",
+    "meson"
+  ],
+  "receive": 199571528,
+  "transmit": 283129,
+  "disk": 10962593
+}
