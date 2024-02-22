@@ -1,0 +1,16 @@
+{
+  "name": "ocaml-base",
+  "version": "0.16.3-2",
+  "depends": [
+    "ocaml>=4.14.0",
+    "ocaml-sexplib0>=0.16.0"
+  ],
+  "makedepends": [
+    "git",
+    "dune",
+    "ocaml-compiler-libs"
+  ],
+  "receive": 199542784,
+  "transmit": 310496,
+  "disk": 7689997
+}
