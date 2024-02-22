@@ -1,0 +1,13 @@
+{
+  "name": "alltray",
+  "version": "0.7.5.1dev-7",
+  "depends": [
+    "libxpm",
+    "libgtop",
+    "libwnck"
+  ],
+  "makedepends": [],
+  "receive": 200049879,
+  "transmit": 332831,
+  "disk": 2747959
+}
