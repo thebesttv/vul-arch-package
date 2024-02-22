@@ -1,0 +1,29 @@
+{
+  "name": "gnome-recipes",
+  "version": "2.0.4-5",
+  "depends": [
+    "cairo",
+    "dconf",
+    "gcc-libs",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gnome-autoar",
+    "gspell",
+    "gtk3",
+    "hicolor-icon-theme",
+    "json-glib",
+    "libcanberra",
+    "libgoa",
+    "libsoup",
+    "pango",
+    "rest"
+  ],
+  "makedepends": [
+    "itstool",
+    "meson"
+  ],
+  "receive": 199546129,
+  "transmit": 269403,
+  "disk": 42612042
+}
