@@ -1,0 +1,12 @@
+{
+  "name": "perl-gdgraph",
+  "version": "1.56-2",
+  "depends": [
+    "perl-gd>=1.18",
+    "perl-gdtextutil>=0.80"
+  ],
+  "makedepends": [],
+  "receive": 199523211,
+  "transmit": 273303,
+  "disk": 766891
+}
