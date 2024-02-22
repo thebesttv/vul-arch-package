@@ -1,0 +1,13 @@
+{
+  "name": "libxcvt",
+  "version": "0.1.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199600968,
+  "transmit": 343912,
+  "disk": 172838
+}
