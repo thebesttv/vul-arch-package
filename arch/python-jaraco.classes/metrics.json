@@ -1,0 +1,16 @@
+{
+  "name": "python-jaraco.classes",
+  "version": "3.3.1-1",
+  "depends": [
+    "python-more-itertools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199525266,
+  "transmit": 263354,
+  "disk": 150522
+}
