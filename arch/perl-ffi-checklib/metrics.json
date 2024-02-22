@@ -1,0 +1,11 @@
+{
+  "name": "perl-ffi-checklib",
+  "version": "0.31-3",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199656052,
+  "transmit": 389585,
+  "disk": 420556
+}
