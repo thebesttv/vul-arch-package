@@ -1,0 +1,19 @@
+{
+  "name": "qspectrumanalyzer",
+  "version": "2.2.0-9",
+  "depends": [
+    "python-qt.py",
+    "python-pyqt5",
+    "python-pyqtgraph",
+    "soapy_power"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199541485,
+  "transmit": 331295,
+  "disk": 432606
+}
