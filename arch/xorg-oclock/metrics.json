@@ -1,0 +1,16 @@
+{
+  "name": "xorg-oclock",
+  "version": "1.0.5-1",
+  "depends": [
+    "libx11",
+    "libxmu",
+    "libxext",
+    "libxkbfile"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199622627,
+  "transmit": 406146,
+  "disk": 996707
+}
