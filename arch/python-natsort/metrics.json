@@ -1,0 +1,17 @@
+{
+  "name": "python-natsort",
+  "version": "8.4.0-1",
+  "depends": [
+    "python",
+    "python-typing-extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199520238,
+  "transmit": 230948,
+  "disk": 520014
+}
