@@ -1,0 +1,17 @@
+{
+  "name": "libgnomekbd",
+  "version": "1:3.28.1-1",
+  "depends": [
+    "libxklavier",
+    "gtk3",
+    "dconf"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "git",
+    "meson"
+  ],
+  "receive": 199715657,
+  "transmit": 407682,
+  "disk": 2802763
+}
