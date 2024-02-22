@@ -1,0 +1,16 @@
+{
+  "name": "innernet",
+  "version": "1.6.1-1",
+  "depends": [
+    "sqlite"
+  ],
+  "makedepends": [
+    "rust",
+    "git",
+    "clang",
+    "llvm"
+  ],
+  "receive": 199554873,
+  "transmit": 282503,
+  "disk": 915732
+}
