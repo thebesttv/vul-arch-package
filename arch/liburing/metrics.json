@@ -1,0 +1,11 @@
+{
+  "name": "liburing",
+  "version": "2.5-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 213597850,
+  "transmit": 2069615,
+  "disk": 13545925
+}
