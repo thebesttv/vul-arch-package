@@ -1,0 +1,12 @@
+{
+  "name": "twolame",
+  "version": "0.4.0-3",
+  "depends": [
+    "glibc",
+    "libsndfile"
+  ],
+  "makedepends": [],
+  "receive": 199605736,
+  "transmit": 386780,
+  "disk": 4069761
+}
