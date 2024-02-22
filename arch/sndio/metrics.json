@@ -1,0 +1,12 @@
+{
+  "name": "sndio",
+  "version": "1.9.0-1",
+  "depends": [
+    "alsa-lib",
+    "libbsd"
+  ],
+  "makedepends": [],
+  "receive": 199703068,
+  "transmit": 422212,
+  "disk": 940694
+}
