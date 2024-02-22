@@ -1,0 +1,19 @@
+{
+  "name": "python-unearth",
+  "version": "0.14.0-1",
+  "depends": [
+    "python",
+    "python-packaging",
+    "python-requests",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-pdm-backend",
+    "python-wheel"
+  ],
+  "receive": 199653131,
+  "transmit": 365613,
+  "disk": 967078
+}
