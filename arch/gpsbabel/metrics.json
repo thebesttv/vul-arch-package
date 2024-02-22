@@ -1,0 +1,19 @@
+{
+  "name": "gpsbabel",
+  "version": "1.9.0-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "libusb",
+    "shapelib",
+    "qt6-serialport",
+    "qt6-5compat"
+  ],
+  "makedepends": [
+    "cmake",
+    "libicns",
+    "qt6-tools"
+  ],
+  "receive": 215209306,
+  "transmit": 785694,
+  "disk": 108409200
+}
