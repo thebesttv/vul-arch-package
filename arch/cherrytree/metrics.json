@@ -1,0 +1,20 @@
+{
+  "name": "cherrytree",
+  "version": "1.0.4-1",
+  "depends": [
+    "fmt",
+    "gspell",
+    "gtksourceviewmm",
+    "libxml++2.6",
+    "uchardet",
+    "vte3"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "spdlog"
+  ],
+  "receive": 199627871,
+  "transmit": 267885,
+  "disk": 28080117
+}
