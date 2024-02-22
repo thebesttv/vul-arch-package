@@ -1,0 +1,17 @@
+{
+  "name": "imake",
+  "version": "1.0.10-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "pkgconfig",
+    "xorgproto",
+    "perl",
+    "xorg-util-macros",
+    "xorg-font-util"
+  ],
+  "receive": 199820952,
+  "transmit": 267660,
+  "disk": 5748973
+}
