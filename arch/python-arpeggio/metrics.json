@@ -1,0 +1,14 @@
+{
+  "name": "python-arpeggio",
+  "version": "2.0.2-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199490012,
+  "transmit": 219171,
+  "disk": 4091248
+}
