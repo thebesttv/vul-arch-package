@@ -1,0 +1,19 @@
+{
+  "name": "vaultwarden",
+  "version": "1.30.3-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "mariadb-libs",
+    "openssl",
+    "postgresql-libs",
+    "sqlite"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199495206,
+  "transmit": 259143,
+  "disk": 15702943
+}
