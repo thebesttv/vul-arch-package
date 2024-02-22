@@ -1,0 +1,12 @@
+{
+  "name": "emovix",
+  "version": "0.9.0-8",
+  "depends": [
+    "perl",
+    "cdrkit"
+  ],
+  "makedepends": [],
+  "receive": 199561502,
+  "transmit": 310684,
+  "disk": 29326888
+}
