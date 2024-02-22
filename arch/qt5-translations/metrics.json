@@ -1,0 +1,12 @@
+{
+  "name": "qt5-translations",
+  "version": "5.15.12-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "qt5-tools"
+  ],
+  "receive": 200060675,
+  "transmit": 572786,
+  "disk": 27521970
+}
