@@ -1,0 +1,11 @@
+{
+  "name": "laszip2",
+  "version": "2.2.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199698234,
+  "transmit": 465999,
+  "disk": 2210247
+}
