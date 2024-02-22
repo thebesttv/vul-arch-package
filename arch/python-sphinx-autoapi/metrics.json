@@ -1,0 +1,21 @@
+{
+  "name": "python-sphinx-autoapi",
+  "version": "3.0.0-1",
+  "depends": [
+    "python-anyascii",
+    "python-astroid",
+    "python-jinja",
+    "python-sphinx",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199561480,
+  "transmit": 271774,
+  "disk": 5724407
+}
