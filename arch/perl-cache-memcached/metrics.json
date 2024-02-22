@@ -1,0 +1,11 @@
+{
+  "name": "perl-cache-memcached",
+  "version": "1.30-5",
+  "depends": [
+    "perl-string-crc32"
+  ],
+  "makedepends": [],
+  "receive": 199693014,
+  "transmit": 431126,
+  "disk": 199130
+}
