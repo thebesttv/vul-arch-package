@@ -1,0 +1,11 @@
+{
+  "name": "libmms",
+  "version": "0.6.4-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199953950,
+  "transmit": 656496,
+  "disk": 1911472
+}
