@@ -1,0 +1,16 @@
+{
+  "name": "gnome-info-collect",
+  "version": "1.0.5-1",
+  "depends": [
+    "python-requests",
+    "python-gobject",
+    "gnome-online-accounts",
+    "accountsservice"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199561179,
+  "transmit": 328204,
+  "disk": 443877
+}
