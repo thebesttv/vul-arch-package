@@ -1,0 +1,23 @@
+{
+  "name": "ams-lv2",
+  "version": "1.2.2-4",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "lv2-host"
+  ],
+  "makedepends": [
+    "atkmm",
+    "cairomm",
+    "fftw",
+    "glibmm",
+    "gtkmm",
+    "libsigc++",
+    "lv2",
+    "lvtk",
+    "waf"
+  ],
+  "receive": 199564931,
+  "transmit": 324989,
+  "disk": 3015454
+}
