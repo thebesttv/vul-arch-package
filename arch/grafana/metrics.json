@@ -1,0 +1,22 @@
+{
+  "name": "grafana",
+  "version": "10.3.1-1",
+  "depends": [
+    "glibc",
+    "freetype2",
+    "fontconfig",
+    "gsfonts"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "npm",
+    "grunt-cli",
+    "python",
+    "nodejs-lts-hydrogen",
+    "yarn"
+  ],
+  "receive": 1887601480,
+  "transmit": 7381785,
+  "disk": 1816632769
+}
