@@ -1,0 +1,14 @@
+{
+  "name": "python-absl",
+  "version": "2.1.0-1",
+  "depends": [],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199555687,
+  "transmit": 321962,
+  "disk": 215801
+}
