@@ -1,0 +1,16 @@
+{
+  "name": "kcron",
+  "version": "23.08.5-1",
+  "depends": [
+    "kio5",
+    "cron"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "kcmutils5"
+  ],
+  "receive": 200378734,
+  "transmit": 691157,
+  "disk": 4638204
+}
