@@ -1,0 +1,16 @@
+{
+  "name": "ruby-net-scp",
+  "version": "4.0.0-1",
+  "depends": [
+    "ruby",
+    "ruby-net-ssh"
+  ],
+  "makedepends": [
+    "ruby-rake",
+    "ruby-bundler",
+    "ruby-rdoc"
+  ],
+  "receive": 199631894,
+  "transmit": 331508,
+  "disk": 238771
+}
