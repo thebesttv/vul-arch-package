@@ -1,0 +1,25 @@
+{
+  "name": "nemo",
+  "version": "6.0.2-1",
+  "depends": [
+    "cinnamon-desktop",
+    "dconf",
+    "gvfs",
+    "exempi",
+    "libexif",
+    "libnotify",
+    "libxml2",
+    "python",
+    "xapp"
+  ],
+  "makedepends": [
+    "meson",
+    "samurai",
+    "gobject-introspection",
+    "intltool",
+    "libgsf"
+  ],
+  "receive": 199752914,
+  "transmit": 375925,
+  "disk": 9718255
+}
