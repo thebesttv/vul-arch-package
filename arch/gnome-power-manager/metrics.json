@@ -1,0 +1,16 @@
+{
+  "name": "gnome-power-manager",
+  "version": "43.0-1",
+  "depends": [
+    "gtk3",
+    "upower",
+    "dconf"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 201636083,
+  "transmit": 463536,
+  "disk": 25302563
+}
