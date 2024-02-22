@@ -1,0 +1,11 @@
+{
+  "name": "perl-string-format",
+  "version": "1.18-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199535086,
+  "transmit": 277632,
+  "disk": 152121
+}
