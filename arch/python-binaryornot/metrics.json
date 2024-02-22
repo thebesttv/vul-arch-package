@@ -1,0 +1,17 @@
+{
+  "name": "python-binaryornot",
+  "version": "0.4.4-9",
+  "depends": [
+    "python",
+    "python-chardet"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199811554,
+  "transmit": 473087,
+  "disk": 1139084
+}
