@@ -1,0 +1,24 @@
+{
+  "name": "gnome-desktop",
+  "version": "1:44.0-1",
+  "depends": [],
+  "makedepends": [
+    "bubblewrap",
+    "git",
+    "gobject-introspection",
+    "gsettings-desktop-schemas",
+    "gtk-doc",
+    "gtk3",
+    "gtk4",
+    "iso-codes",
+    "libseccomp",
+    "libxkbcommon",
+    "meson",
+    "systemd",
+    "xkeyboard-config",
+    "yelp-tools"
+  ],
+  "receive": 224374067,
+  "transmit": 347345,
+  "disk": 33043883
+}
