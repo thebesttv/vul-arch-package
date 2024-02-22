@@ -1,0 +1,18 @@
+{
+  "name": "mailnag",
+  "version": "2.2.0-6",
+  "depends": [
+    "dbus-python",
+    "gst-plugins-base",
+    "gst-python",
+    "gtk3",
+    "libnotify",
+    "libsecret",
+    "python-gobject",
+    "python-pyxdg"
+  ],
+  "makedepends": [],
+  "receive": 199511164,
+  "transmit": 292961,
+  "disk": 982390
+}
