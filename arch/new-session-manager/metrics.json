@@ -1,0 +1,17 @@
+{
+  "name": "new-session-manager",
+  "version": "1.6.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "fltk",
+    "jack",
+    "liblo",
+    "meson"
+  ],
+  "receive": 199691097,
+  "transmit": 444544,
+  "disk": 1018630
+}
