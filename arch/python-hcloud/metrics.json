@@ -1,0 +1,15 @@
+{
+  "name": "python-hcloud",
+  "version": "1.33.2-1",
+  "depends": [
+    "python-requests",
+    "python-dateutil",
+    "python-future"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199542236,
+  "transmit": 276139,
+  "disk": 1241971
+}
