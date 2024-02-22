@@ -1,0 +1,13 @@
+{
+  "name": "nginx-mod-srcache",
+  "version": "0.33-2",
+  "depends": [
+    "nginx"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199957414,
+  "transmit": 437729,
+  "disk": 555392
+}
