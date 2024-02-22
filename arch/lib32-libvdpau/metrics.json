@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libvdpau",
+  "version": "1.5-2",
+  "depends": [
+    "lib32-libxext",
+    "libvdpau"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "xorgproto"
+  ],
+  "receive": 199676659,
+  "transmit": 424712,
+  "disk": 1183999
+}
