@@ -1,0 +1,12 @@
+{
+  "name": "python-pipenv-to-requirements",
+  "version": "0.9.0-8",
+  "depends": [
+    "python-pbr",
+    "python-pipenv"
+  ],
+  "makedepends": [],
+  "receive": 199532844,
+  "transmit": 293811,
+  "disk": 196635
+}
