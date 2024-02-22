@@ -1,0 +1,20 @@
+{
+  "name": "nitrokey-app",
+  "version": "1.4.2-1",
+  "depends": [
+    "qt5-base",
+    "qt5-svg",
+    "hicolor-icon-theme",
+    "libnitrokey",
+    "libnitrokey.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools",
+    "bash-completion",
+    "cppcodec"
+  ],
+  "receive": 200862058,
+  "transmit": 384454,
+  "disk": 4538674
+}
