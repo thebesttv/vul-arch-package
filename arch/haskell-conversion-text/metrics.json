@@ -1,0 +1,17 @@
+{
+  "name": "haskell-conversion-text",
+  "version": "1.0.1.1-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-prelude",
+    "haskell-conversion",
+    "haskell-conversion-bytestring"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199678177,
+  "transmit": 413056,
+  "disk": 129407
+}
