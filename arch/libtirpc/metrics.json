@@ -1,0 +1,12 @@
+{
+  "name": "libtirpc",
+  "version": "1.3.4-1",
+  "depends": [
+    "krb5",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199625775,
+  "transmit": 348849,
+  "disk": 3696187
+}
