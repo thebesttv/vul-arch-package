@@ -1,0 +1,9 @@
+{
+  "name": "virtualbox-guest-iso",
+  "version": "7.0.14-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 199617344,
+  "transmit": 257673,
+  "disk": 53702028
+}
