@@ -1,0 +1,11 @@
+{
+  "name": "perl-xml-regexp",
+  "version": "0.04-5",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199599566,
+  "transmit": 383785,
+  "disk": 115060
+}
