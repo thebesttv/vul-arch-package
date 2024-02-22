@@ -1,0 +1,21 @@
+{
+  "name": "python-flask-babel",
+  "version": "3.1.0-1",
+  "depends": [
+    "python-flask",
+    "python-babel",
+    "python-pytz",
+    "python-speaklater",
+    "python-jinja"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-poetry-core"
+  ],
+  "receive": 199668661,
+  "transmit": 413658,
+  "disk": 156449
+}
