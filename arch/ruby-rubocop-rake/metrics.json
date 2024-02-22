@@ -1,0 +1,12 @@
+{
+  "name": "ruby-rubocop-rake",
+  "version": "0.6.0-2",
+  "depends": [
+    "ruby",
+    "rubocop"
+  ],
+  "makedepends": [],
+  "receive": 199498229,
+  "transmit": 251816,
+  "disk": 184789
+}
