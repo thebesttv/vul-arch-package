@@ -1,0 +1,14 @@
+{
+  "name": "zoxide",
+  "version": "0.9.4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199686583,
+  "transmit": 433430,
+  "disk": 4569311
+}
