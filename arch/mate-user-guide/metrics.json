@@ -1,0 +1,14 @@
+{
+  "name": "mate-user-guide",
+  "version": "1.26.2-1",
+  "depends": [
+    "yelp",
+    "gettext"
+  ],
+  "makedepends": [
+    "itstool"
+  ],
+  "receive": 208907734,
+  "transmit": 301426,
+  "disk": 155101251
+}
