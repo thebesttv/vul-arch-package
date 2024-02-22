@@ -1,0 +1,12 @@
+{
+  "name": "vst3sdk",
+  "version": "3.7.10_build_14-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "rsync"
+  ],
+  "receive": 435518582,
+  "transmit": 2979898,
+  "disk": 385142134
+}
