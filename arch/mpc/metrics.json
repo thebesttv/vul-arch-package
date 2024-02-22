@@ -1,0 +1,16 @@
+{
+  "name": "mpc",
+  "version": "0.35-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "libmpdclient",
+    "meson",
+    "python-sphinx",
+    "rsync"
+  ],
+  "receive": 199772238,
+  "transmit": 390804,
+  "disk": 433846
+}
