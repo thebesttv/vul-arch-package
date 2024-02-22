@@ -1,0 +1,17 @@
+{
+  "name": "python-tox-current-env",
+  "version": "0.0.11-2",
+  "depends": [
+    "python",
+    "python-tox"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199512591,
+  "transmit": 245626,
+  "disk": 211953
+}
