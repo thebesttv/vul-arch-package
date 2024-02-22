@@ -1,0 +1,14 @@
+{
+  "name": "haskell-base-compat-batteries",
+  "version": "0.12.2-75",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199866809,
+  "transmit": 383710,
+  "disk": 1391655
+}
