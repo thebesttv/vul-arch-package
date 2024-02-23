@@ -1,0 +1,23 @@
+{
+  "name": "linux-lts",
+  "version": "6.6.18-1",
+  "depends": [],
+  "makedepends": [
+    "bc",
+    "cpio",
+    "gettext",
+    "libelf",
+    "pahole",
+    "perl",
+    "python",
+    "tar",
+    "xz",
+    "graphviz",
+    "imagemagick",
+    "python-sphinx",
+    "texlive-latexextra"
+  ],
+  "receive": 341518946,
+  "transmit": 499552,
+  "disk": 1518266521
+}
