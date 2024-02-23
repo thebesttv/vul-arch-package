@@ -1,0 +1,16 @@
+{
+  "name": "squashfuse",
+  "version": "0.5.2-1",
+  "depends": [
+    "fuse",
+    "glibc",
+    "lz4",
+    "zlib",
+    "zstd",
+    "xz"
+  ],
+  "makedepends": [],
+  "receive": 199655800,
+  "transmit": 422432,
+  "disk": 543065
+}
