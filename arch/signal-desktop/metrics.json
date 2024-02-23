@@ -1,0 +1,42 @@
+{
+  "name": "signal-desktop",
+  "version": "6.48.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gtk3",
+    "hicolor-icon-theme",
+    "libasound.so",
+    "libatk-bridge-2.0.so",
+    "libcairo.so",
+    "libcups",
+    "libdbus-1.so",
+    "libdrm",
+    "libexpat.so",
+    "libgio-2.0.so",
+    "libpango-1.0.so",
+    "libx11",
+    "libxcb",
+    "libxdamage",
+    "libxext",
+    "libxfixes",
+    "libxkbcommon.so",
+    "libxrandr",
+    "mesa",
+    "nspr",
+    "nss"
+  ],
+  "makedepends": [
+    "git",
+    "git-lfs",
+    "libxcrypt-compat",
+    "node-gyp",
+    "nodejs",
+    "npm",
+    "python",
+    "yarn"
+  ],
+  "receive": 234061870,
+  "transmit": 773405,
+  "disk": 126733820
+}
