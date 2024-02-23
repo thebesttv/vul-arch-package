@@ -1,0 +1,16 @@
+{
+  "name": "gitea",
+  "version": "1.21.6-1",
+  "depends": [
+    "git"
+  ],
+  "makedepends": [
+    "go",
+    "nodejs",
+    "npm",
+    "python-poetry"
+  ],
+  "receive": 995276165,
+  "transmit": 6736195,
+  "disk": 832526905
+}
