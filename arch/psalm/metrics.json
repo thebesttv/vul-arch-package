@@ -1,0 +1,14 @@
+{
+  "name": "psalm",
+  "version": "5.22.2-1",
+  "depends": [
+    "php"
+  ],
+  "makedepends": [
+    "composer",
+    "git"
+  ],
+  "receive": 301811012,
+  "transmit": 1276162,
+  "disk": 120835933
+}
