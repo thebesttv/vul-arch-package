@@ -1,0 +1,17 @@
+{
+  "name": "espflash",
+  "version": "2.1.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libcurl.so",
+    "libudev.so",
+    "libz.so"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199622375,
+  "transmit": 371607,
+  "disk": 1425028
+}
