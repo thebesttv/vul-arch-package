@@ -1,0 +1,17 @@
+{
+  "name": "ibus-chewing",
+  "version": "2.0.0-1",
+  "depends": [
+    "ibus",
+    "libchewing",
+    "gtk4",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "cmake",
+    "minisign"
+  ],
+  "receive": 199683893,
+  "transmit": 423191,
+  "disk": 745380
+}
