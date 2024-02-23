@@ -1,0 +1,17 @@
+{
+  "name": "cargo-outdated",
+  "version": "0.14.0-2",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "glibc",
+    "libcurl.so",
+    "libssh2.so",
+    "libssl.so",
+    "libz.so"
+  ],
+  "makedepends": [],
+  "receive": 199607020,
+  "transmit": 360268,
+  "disk": 378801
+}
