@@ -1,0 +1,30 @@
+{
+  "name": "pidgin",
+  "version": "2.14.13-1",
+  "depends": [],
+  "makedepends": [
+    "startup-notification",
+    "gtkspell",
+    "libxss",
+    "nss",
+    "libsasl",
+    "libsm",
+    "libidn",
+    "libgadu",
+    "python",
+    "hicolor-icon-theme",
+    "farstream",
+    "tk",
+    "libnsl",
+    "avahi",
+    "ca-certificates",
+    "intltool",
+    "libnm",
+    "dbus-glib",
+    "libgnt",
+    "libxcrypt"
+  ],
+  "receive": 208008113,
+  "transmit": 385059,
+  "disk": 57276342
+}
