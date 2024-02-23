@@ -1,0 +1,19 @@
+{
+  "name": "lxqt-archiver",
+  "version": "0.9.1-1",
+  "depends": [
+    "libfm-qt",
+    "qt5-x11extras",
+    "glib2",
+    "json-glib",
+    "libfm-qt.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools",
+    "lxqt-build-tools"
+  ],
+  "receive": 199490954,
+  "transmit": 279351,
+  "disk": 2548201
+}
