@@ -1,0 +1,19 @@
+{
+  "name": "python-cbor2",
+  "version": "5.6.3-1",
+  "depends": [
+    "glibc",
+    "python",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 199648183,
+  "transmit": 393522,
+  "disk": 685113
+}
