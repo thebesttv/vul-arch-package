@@ -1,0 +1,14 @@
+{
+  "name": "qnapi",
+  "version": "0.2.3-7",
+  "depends": [
+    "hicolor-icon-theme",
+    "libmediainfo",
+    "p7zip",
+    "qt5-base"
+  ],
+  "makedepends": [],
+  "receive": 199543203,
+  "transmit": 272028,
+  "disk": 4160189
+}
