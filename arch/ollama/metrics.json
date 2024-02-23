@@ -1,0 +1,13 @@
+{
+  "name": "ollama",
+  "version": "0.1.27-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git",
+    "go"
+  ],
+  "receive": 349589476,
+  "transmit": 571673,
+  "disk": 185939786
+}
