@@ -1,0 +1,25 @@
+{
+  "name": "mat2",
+  "version": "0.13.4-4",
+  "depends": [
+    "gdk-pixbuf2",
+    "hicolor-icon-theme",
+    "librsvg",
+    "mailcap",
+    "perl-image-exiftool",
+    "poppler-glib",
+    "python",
+    "python-cairo",
+    "python-gobject",
+    "python-mutagen"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199566640,
+  "transmit": 287656,
+  "disk": 24552973
+}
