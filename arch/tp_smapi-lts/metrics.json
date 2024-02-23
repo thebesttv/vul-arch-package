@@ -1,0 +1,12 @@
+{
+  "name": "tp_smapi-lts",
+  "version": "0.44-13",
+  "depends": [],
+  "makedepends": [
+    "linux-lts-headers",
+    "git"
+  ],
+  "receive": 199526756,
+  "transmit": 290635,
+  "disk": 976016
+}
