@@ -1,0 +1,13 @@
+{
+  "name": "kube-linter",
+  "version": "0.6.8-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199627581,
+  "transmit": 390542,
+  "disk": 2526385
+}
