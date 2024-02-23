@@ -1,0 +1,17 @@
+{
+  "name": "spirv-tools",
+  "version": "2023.6-1",
+  "depends": [
+    "gcc-libs",
+    "sh"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "ninja",
+    "spirv-headers"
+  ],
+  "receive": 199652942,
+  "transmit": 374936,
+  "disk": 26523203
+}
