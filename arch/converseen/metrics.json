@@ -1,0 +1,16 @@
+{
+  "name": "converseen",
+  "version": "0.12.0.2-2",
+  "depends": [
+    "hicolor-icon-theme",
+    "imagemagick",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt6-tools"
+  ],
+  "receive": 199658941,
+  "transmit": 378129,
+  "disk": 5763822
+}
