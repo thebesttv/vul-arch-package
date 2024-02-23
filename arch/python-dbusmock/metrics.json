@@ -1,0 +1,19 @@
+{
+  "name": "python-dbusmock",
+  "version": "0.31.1-1",
+  "depends": [
+    "python-dbus",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199502370,
+  "transmit": 257423,
+  "disk": 2375298
+}
