@@ -1,0 +1,14 @@
+{
+  "name": "cargo-deny",
+  "version": "0.14.12-1",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 207634611,
+  "transmit": 459592,
+  "disk": 30518832
+}
