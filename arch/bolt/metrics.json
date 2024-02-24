@@ -1,0 +1,17 @@
+{
+  "name": "bolt",
+  "version": "0.9.7-1",
+  "depends": [
+    "polkit",
+    "systemd"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "meson",
+    "python-setuptools",
+    "patch"
+  ],
+  "receive": 199582324,
+  "transmit": 271365,
+  "disk": 1767645
+}
