@@ -1,0 +1,12 @@
+{
+  "name": "libpng",
+  "version": "1.6.43-1",
+  "depends": [
+    "zlib",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199627800,
+  "transmit": 289878,
+  "disk": 7584210
+}
