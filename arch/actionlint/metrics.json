@@ -1,0 +1,12 @@
+{
+  "name": "actionlint",
+  "version": "1.6.27-1",
+  "depends": [],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199643005,
+  "transmit": 378390,
+  "disk": 4966158
+}
