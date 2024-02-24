@@ -1,0 +1,17 @@
+{
+  "name": "lib32-giflib",
+  "version": "5.2.2-1",
+  "depends": [
+    "lib32-glibc",
+    "giflib"
+  ],
+  "makedepends": [
+    "xmlto",
+    "docbook-xsl",
+    "docbook-xml",
+    "imagemagick"
+  ],
+  "receive": 200179571,
+  "transmit": 689341,
+  "disk": 2877882
+}
