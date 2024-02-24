@@ -1,0 +1,26 @@
+{
+  "name": "python-pytest-shell-utilities",
+  "version": "1.9.0-1",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-packaging",
+    "python-pytest",
+    "python-pytest-helpers-namespace",
+    "python-pytest-skip-markers",
+    "python-psutil",
+    "python-typing-extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-declarative-requirements",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 199633273,
+  "transmit": 345658,
+  "disk": 547603
+}
