@@ -1,0 +1,18 @@
+{
+  "name": "cargo-semver-checks",
+  "version": "0.29.1-1",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "glibc",
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 203401684,
+  "transmit": 423295,
+  "disk": 9071468
+}
