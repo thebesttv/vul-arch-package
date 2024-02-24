@@ -1,0 +1,14 @@
+{
+  "name": "netfilter-fullconenat",
+  "version": "r73.0cf3b48-351",
+  "depends": [
+    "linux"
+  ],
+  "makedepends": [
+    "linux-headers",
+    "git"
+  ],
+  "receive": 200255332,
+  "transmit": 574634,
+  "disk": 665970
+}
