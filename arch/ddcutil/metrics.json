@@ -1,0 +1,17 @@
+{
+  "name": "ddcutil",
+  "version": "2.1.4-1",
+  "depends": [
+    "glib2",
+    "i2c-tools",
+    "libusb",
+    "libdrm",
+    "jansson"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199610533,
+  "transmit": 322746,
+  "disk": 5120799
+}
