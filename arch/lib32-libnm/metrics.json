@@ -1,0 +1,25 @@
+{
+  "name": "lib32-libnm",
+  "version": "1.46.0-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-glib2",
+    "lib32-nspr",
+    "lib32-nss",
+    "lib32-systemd",
+    "lib32-util-linux",
+    "libnm"
+  ],
+  "makedepends": [
+    "git",
+    "lib32-dbus",
+    "lib32-libndp",
+    "lib32-libpsl",
+    "lib32-polkit",
+    "libxslt",
+    "meson"
+  ],
+  "receive": 358047114,
+  "transmit": 423231,
+  "disk": 228394387
+}
