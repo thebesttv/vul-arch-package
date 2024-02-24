@@ -1,0 +1,20 @@
+{
+  "name": "libsecret",
+  "version": "0.21.4-1",
+  "depends": [
+    "glib2",
+    "libgcrypt",
+    "tpm2-tss"
+  ],
+  "makedepends": [
+    "bash-completion",
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala"
+  ],
+  "receive": 199733108,
+  "transmit": 385749,
+  "disk": 4019169
+}
