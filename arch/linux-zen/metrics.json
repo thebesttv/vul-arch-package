@@ -1,0 +1,23 @@
+{
+  "name": "linux-zen",
+  "version": "6.7.6.zen1-1",
+  "depends": [],
+  "makedepends": [
+    "bc",
+    "cpio",
+    "gettext",
+    "libelf",
+    "pahole",
+    "perl",
+    "python",
+    "tar",
+    "xz",
+    "graphviz",
+    "imagemagick",
+    "python-sphinx",
+    "texlive-latexextra"
+  ],
+  "receive": 342818129,
+  "transmit": 572716,
+  "disk": 1553839050
+}
