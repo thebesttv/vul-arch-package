@@ -1,0 +1,21 @@
+{
+  "name": "din",
+  "version": "58.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "sdl",
+    "tcl"
+  ],
+  "makedepends": [
+    "boost",
+    "glu",
+    "rtaudio",
+    "rtmidi"
+  ],
+  "receive": 202921438,
+  "transmit": 333005,
+  "disk": 14570958
+}
