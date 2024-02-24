@@ -1,0 +1,12 @@
+{
+  "name": "delve",
+  "version": "1.22.1-1",
+  "depends": [],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 209509142,
+  "transmit": 466510,
+  "disk": 36089975
+}
