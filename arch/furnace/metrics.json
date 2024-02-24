@@ -1,0 +1,26 @@
+{
+  "name": "furnace",
+  "version": "0.6.1-2",
+  "depends": [
+    "fftw",
+    "fmt",
+    "freetype2",
+    "glibc",
+    "gcc-libs",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "libsndfile",
+    "portaudio",
+    "rtmidi",
+    "sdl2",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "jack"
+  ],
+  "receive": 356099227,
+  "transmit": 1656752,
+  "disk": 267233084
+}
