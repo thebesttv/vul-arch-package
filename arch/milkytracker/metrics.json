@@ -1,0 +1,22 @@
+{
+  "name": "milkytracker",
+  "version": "1.04.00-3",
+  "depends": [
+    "alsa-lib",
+    "gcc-libs",
+    "glibc",
+    "lhasa",
+    "rtmidi",
+    "sdl2",
+    "zlib",
+    "zziplib"
+  ],
+  "makedepends": [
+    "cmake",
+    "jack",
+    "ninja"
+  ],
+  "receive": 199784289,
+  "transmit": 440263,
+  "disk": 17427336
+}
