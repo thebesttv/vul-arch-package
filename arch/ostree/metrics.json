@@ -1,0 +1,37 @@
+{
+  "name": "ostree",
+  "version": "2024.4-1",
+  "depends": [
+    "bash",
+    "fuse3",
+    "gcc-libs",
+    "glibc",
+    "libgpg-error",
+    "libsodium",
+    "sh",
+    "util-linux",
+    "which",
+    "zlib"
+  ],
+  "makedepends": [
+    "avahi",
+    "curl",
+    "e2fsprogs",
+    "git",
+    "glib2",
+    "gobject-introspection",
+    "gpgme",
+    "gtk-doc",
+    "libarchive",
+    "libsoup",
+    "libxslt",
+    "mkinitcpio",
+    "openssl",
+    "python",
+    "systemd",
+    "xz"
+  ],
+  "receive": 228011471,
+  "transmit": 393262,
+  "disk": 68814803
+}
