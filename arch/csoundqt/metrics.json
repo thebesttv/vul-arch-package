@@ -1,0 +1,20 @@
+{
+  "name": "csoundqt",
+  "version": "1:1.1.1-2",
+  "depends": [
+    "csound-doc",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-webengine"
+  ],
+  "makedepends": [
+    "csound",
+    "rtmidi"
+  ],
+  "receive": 206618786,
+  "transmit": 313836,
+  "disk": 169243672
+}
