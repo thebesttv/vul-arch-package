@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libpng",
+  "version": "1.6.43-1",
+  "depends": [
+    "lib32-zlib",
+    "libpng"
+  ],
+  "makedepends": [],
+  "receive": 199565528,
+  "transmit": 294260,
+  "disk": 7529222
+}
