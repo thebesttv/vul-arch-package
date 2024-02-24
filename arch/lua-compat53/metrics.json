@@ -1,0 +1,12 @@
+{
+  "name": "lua-compat53",
+  "version": "0.13-1",
+  "depends": [],
+  "makedepends": [
+    "lua51",
+    "lua52"
+  ],
+  "receive": 199732577,
+  "transmit": 436411,
+  "disk": 426846
+}
