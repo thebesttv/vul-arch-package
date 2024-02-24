@@ -1,0 +1,19 @@
+{
+  "name": "nitroshare",
+  "version": "0.3.4-6",
+  "depends": [
+    "hicolor-icon-theme",
+    "python",
+    "qhttpengine",
+    "qmdnsengine",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199574054,
+  "transmit": 288334,
+  "disk": 1537197
+}
