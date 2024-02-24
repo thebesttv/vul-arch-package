@@ -1,0 +1,16 @@
+{
+  "name": "eslint",
+  "version": "8.57.0-1",
+  "depends": [
+    "acorn",
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "rsync"
+  ],
+  "receive": 223057211,
+  "transmit": 665242,
+  "disk": 100338139
+}
