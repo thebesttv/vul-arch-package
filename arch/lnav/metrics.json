@@ -1,0 +1,17 @@
+{
+  "name": "lnav",
+  "version": "0.12.0-1",
+  "depends": [
+    "ncurses",
+    "curl",
+    "pcre2",
+    "sqlite3",
+    "libarchive"
+  ],
+  "makedepends": [
+    "openssh"
+  ],
+  "receive": 218158774,
+  "transmit": 447399,
+  "disk": 51791375
+}
