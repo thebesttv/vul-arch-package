@@ -1,0 +1,17 @@
+{
+  "name": "python-datrie",
+  "version": "0.8.2-4",
+  "depends": [
+    "libdatrie"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-wheel",
+    "python-installer",
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 199782984,
+  "transmit": 442790,
+  "disk": 1138526
+}
