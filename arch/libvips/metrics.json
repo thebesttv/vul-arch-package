@@ -1,0 +1,32 @@
+{
+  "name": "libvips",
+  "version": "8.15.1-4",
+  "depends": [
+    "cfitsio",
+    "fftw",
+    "libexif",
+    "libarchive",
+    "libimagequant",
+    "librsvg",
+    "libwebp",
+    "openexr",
+    "highway",
+    "pango",
+    "libcgif",
+    "python",
+    "cairo"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "libheif",
+    "libjxl",
+    "imagemagick",
+    "openslide",
+    "poppler-glib",
+    "meson",
+    "gtk-doc"
+  ],
+  "receive": 199809579,
+  "transmit": 482383,
+  "disk": 52834796
+}
