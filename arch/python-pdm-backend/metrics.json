@@ -1,0 +1,17 @@
+{
+  "name": "python-pdm-backend",
+  "version": "2.1.8-2",
+  "depends": [
+    "python",
+    "python-packaging",
+    "python-pyproject-metadata",
+    "python-tomli-w"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 199648435,
+  "transmit": 331871,
+  "disk": 1014044
+}
