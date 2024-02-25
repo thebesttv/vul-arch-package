@@ -1,0 +1,15 @@
+{
+  "name": "ssh-tpm-agent",
+  "version": "0.3.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git",
+    "systemd"
+  ],
+  "receive": 199724083,
+  "transmit": 429766,
+  "disk": 276706
+}
