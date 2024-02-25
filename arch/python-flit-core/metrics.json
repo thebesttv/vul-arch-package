@@ -1,0 +1,14 @@
+{
+  "name": "python-flit-core",
+  "version": "3.9.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 199540313,
+  "transmit": 293236,
+  "disk": 1058039
+}
