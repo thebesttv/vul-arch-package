@@ -1,0 +1,30 @@
+{
+  "name": "python-pillow",
+  "version": "10.2.0-2",
+  "depends": [
+    "glibc",
+    "python",
+    "python-packaging",
+    "freetype2",
+    "lcms2",
+    "libraqm",
+    "libtiff",
+    "openjpeg2",
+    "libjpeg-turbo",
+    "libimagequant",
+    "libxcb",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "libwebp",
+    "tk"
+  ],
+  "receive": 444501771,
+  "transmit": 2344422,
+  "disk": 310464169
+}
