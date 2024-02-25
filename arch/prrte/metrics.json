@@ -1,0 +1,15 @@
+{
+  "name": "prrte",
+  "version": "3.0.4-3",
+  "depends": [],
+  "makedepends": [
+    "glibc",
+    "hwloc",
+    "libevent",
+    "openpmix",
+    "perl"
+  ],
+  "receive": 199751204,
+  "transmit": 401762,
+  "disk": 23962594
+}
