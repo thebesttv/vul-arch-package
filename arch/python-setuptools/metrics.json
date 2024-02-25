@@ -1,0 +1,20 @@
+{
+  "name": "python-setuptools",
+  "version": "1:69.0.3-4",
+  "depends": [
+    "python-jaraco.text",
+    "python-more-itertools",
+    "python-ordered-set",
+    "python-packaging",
+    "python-platformdirs",
+    "python-tomli",
+    "python-validate-pyproject"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 211705269,
+  "transmit": 517013,
+  "disk": 59783604
+}
