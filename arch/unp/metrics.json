@@ -1,0 +1,11 @@
+{
+  "name": "unp",
+  "version": "1:2.0-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199616903,
+  "transmit": 367375,
+  "disk": 208441
+}
