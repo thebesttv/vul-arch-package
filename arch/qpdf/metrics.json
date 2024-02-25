@@ -1,0 +1,20 @@
+{
+  "name": "qpdf",
+  "version": "11.9.0-1",
+  "depends": [],
+  "makedepends": [
+    "libjpeg-turbo",
+    "zlib",
+    "gnutls",
+    "cmake",
+    "texlive-bin",
+    "texlive-binextra",
+    "texlive-fontsrecommended",
+    "python-sphinx",
+    "python-sphinx_rtd_theme",
+    "texlive-latexextra"
+  ],
+  "receive": 199622971,
+  "transmit": 264631,
+  "disk": 73338834
+}
