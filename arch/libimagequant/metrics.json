@@ -1,0 +1,14 @@
+{
+  "name": "libimagequant",
+  "version": "4.3.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "cargo-c"
+  ],
+  "receive": 199729623,
+  "transmit": 417625,
+  "disk": 570853
+}
