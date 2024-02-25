@@ -1,0 +1,16 @@
+{
+  "name": "whois",
+  "version": "5.5.21-1",
+  "depends": [
+    "libidn2",
+    "libxcrypt"
+  ],
+  "makedepends": [
+    "perl",
+    "git",
+    "bash-completion"
+  ],
+  "receive": 200084952,
+  "transmit": 655086,
+  "disk": 2312354
+}
