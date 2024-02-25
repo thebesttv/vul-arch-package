@@ -1,0 +1,16 @@
+{
+  "name": "xmrig",
+  "version": "6.21.1-1",
+  "depends": [
+    "glibc",
+    "hwloc",
+    "libssl.so",
+    "libuv"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 202181494,
+  "transmit": 386206,
+  "disk": 16098263
+}
