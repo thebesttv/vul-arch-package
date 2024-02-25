@@ -1,0 +1,12 @@
+{
+  "name": "npth",
+  "version": "1.7-1",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199776422,
+  "transmit": 452047,
+  "disk": 2100217
+}
