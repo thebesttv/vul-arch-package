@@ -116,7 +116,7 @@ jobs:
 
           sleep 10
 
-          ./metrics/get-metrics tmp_work_dir/$TBT_PACKAGE_NAME | \
+          sudo ./metrics/get-metrics tmp_work_dir/$TBT_PACKAGE_NAME | \
               sudo tee arch/$TBT_PACKAGE_NAME/metrics.json
 
           if [ $? -eq 0 ]; then

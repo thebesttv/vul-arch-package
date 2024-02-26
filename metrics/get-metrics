@@ -31,7 +31,7 @@ receive=$(query_prometheus 'container_network_receive_bytes_total')
 transmit=$(query_prometheus 'container_network_transmit_bytes_total')
 disk=$(query_prometheus 'container_fs_usage_bytes')
 
-disk=$(sudo du -sb . | awk '{print $1}')
+disk=$(du -sb . | awk '{print $1}')
 
 jq -n \
    --arg name         "$TBT_PACKAGE_NAME" \
