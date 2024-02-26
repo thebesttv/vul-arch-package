@@ -38,6 +38,7 @@ def remove_old_packages(all_packages, pkg_root_dir):
     for name in os.listdir(pkg_root_dir):
         pkg_dir = os.path.join(pkg_root_dir, name)
         version_file = os.path.join(pkg_dir, 'version')
+        metrics_file = os.path.join(pkg_dir, 'metrics.json')
 
         # non-existent package
         if name not in all_packages:
@@ -63,6 +64,13 @@ def remove_old_packages(all_packages, pkg_root_dir):
             shutil.rmtree(pkg_dir)
             continue
 
+        with open(metrics_file, 'r') as f:
+            try:
+                _ = json.load(f)
+            except json.JSONDecodeError:
+                logger.warning(f'Package {name} has invalid metrics file! removed')
+                shutil.rmtree(pkg_dir)
+                continue
     return
 
 if __name__ == "__main__":
