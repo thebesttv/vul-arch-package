@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# exit on error
+set -e
+
 if [ -n "$1" ]; then
     cd "$1" || { echo "Failed to change directory"; exit 1; }
 fi

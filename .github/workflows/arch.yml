@@ -119,7 +119,12 @@ jobs:
           ./metrics/get-metrics tmp_work_dir/$TBT_PACKAGE_NAME | \
               sudo tee arch/$TBT_PACKAGE_NAME/metrics.json
 
-          ls arch/$TBT_PACKAGE_NAME/metrics.json
+          if [ $? -eq 0 ]; then
+              echo "There were errors when collecting metrics!"
+              sudo rm -rf arch/$TBT_PACKAGE_NAME
+          else
+              ls arch/$TBT_PACKAGE_NAME/metrics.json
+          fi
 
       - name: Remove tmp work dir
         if: success() || failure()
