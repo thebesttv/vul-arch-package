@@ -1,0 +1,24 @@
+{
+  "name": "dblatex",
+  "version": "0.3.12-8",
+  "depends": [
+    "docbook-xsl",
+    "docbook-xml",
+    "libxslt",
+    "python",
+    "texlive-basic",
+    "texlive-formatsextra",
+    "texlive-latexextra",
+    "texlive-pictures",
+    "texlive-mathscience"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 200707596,
+  "transmit": 290302,
+  "disk": 10960678
+}
