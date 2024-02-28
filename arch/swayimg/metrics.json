@@ -1,0 +1,35 @@
+{
+  "name": "swayimg",
+  "version": "2.1-3",
+  "depends": [
+    "cairo",
+    "hicolor-icon-theme",
+    "libavif",
+    "libexif.so",
+    "libfontconfig.so",
+    "libfreetype.so",
+    "libgif.so",
+    "libgobject-2.0.so",
+    "libheif",
+    "libjpeg.so",
+    "libjson-c.so",
+    "libjxl.so",
+    "libpng",
+    "librsvg-2.so",
+    "libtiff.so",
+    "libwayland-client.so",
+    "libwebp.so",
+    "libwebpdemux.so",
+    "libxkbcommon",
+    "openexr"
+  ],
+  "makedepends": [
+    "bash-completion",
+    "meson",
+    "ninja",
+    "wayland-protocols"
+  ],
+  "receive": 199738563,
+  "transmit": 421367,
+  "disk": 1170747
+}
