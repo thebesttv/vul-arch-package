@@ -1,0 +1,14 @@
+{
+  "name": "go-ethereum",
+  "version": "1.13.14-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 1050222766,
+  "transmit": 6540898,
+  "disk": 875401751
+}
