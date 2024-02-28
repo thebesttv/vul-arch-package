@@ -1,0 +1,12 @@
+{
+  "name": "ethtool",
+  "version": "1:6.7-1",
+  "depends": [
+    "glibc",
+    "libmnl"
+  ],
+  "makedepends": [],
+  "receive": 199713770,
+  "transmit": 367264,
+  "disk": 2944570
+}
