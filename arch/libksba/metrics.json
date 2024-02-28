@@ -1,0 +1,13 @@
+{
+  "name": "libksba",
+  "version": "1.6.6-1",
+  "depends": [
+    "bash",
+    "libgpg-error",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199742651,
+  "transmit": 384669,
+  "disk": 4374195
+}
