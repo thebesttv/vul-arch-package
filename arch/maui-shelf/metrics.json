@@ -1,0 +1,17 @@
+{
+  "name": "maui-shelf",
+  "version": "3.1.0-1",
+  "depends": [
+    "mauikit-documents",
+    "mauikit-filebrowsing",
+    "mauikit-texteditor",
+    "poppler-qt5",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199677646,
+  "transmit": 363648,
+  "disk": 918932
+}
