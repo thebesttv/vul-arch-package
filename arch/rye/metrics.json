@@ -1,0 +1,18 @@
+{
+  "name": "rye",
+  "version": "0.27.0-1",
+  "depends": [
+    "zlib",
+    "bzip2",
+    "openssl",
+    "gcc-libs",
+    "libxcrypt-compat"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 199692529,
+  "transmit": 294442,
+  "disk": 6681079
+}
