@@ -120,10 +120,10 @@ jobs:
               sudo tee arch/$TBT_PACKAGE_NAME/metrics.json
 
           if [ $? -eq 0 ]; then
+              ls arch/$TBT_PACKAGE_NAME/metrics.json
+          else
               echo "There were errors when collecting metrics!"
               sudo rm -rf arch/$TBT_PACKAGE_NAME
-          else
-              ls arch/$TBT_PACKAGE_NAME/metrics.json
           fi
 
       - name: Remove tmp work dir
