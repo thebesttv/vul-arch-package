@@ -1,0 +1,17 @@
+{
+  "name": "pkgstats",
+  "version": "3.2.16-1",
+  "depends": [
+    "pacman",
+    "systemd"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "just",
+    "gcc"
+  ],
+  "receive": 201013694,
+  "transmit": 1182498,
+  "disk": 739623
+}
