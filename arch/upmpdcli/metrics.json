@@ -1,0 +1,24 @@
+{
+  "name": "upmpdcli",
+  "version": "1.8.8-1",
+  "depends": [
+    "python",
+    "libmpdclient",
+    "libupnpp",
+    "libmicrohttpd",
+    "jsoncpp"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-requests",
+    "python-bottle",
+    "python-mutagen",
+    "aspell-en",
+    "id3lib",
+    "python-waitress",
+    "sqlite"
+  ],
+  "receive": 199665474,
+  "transmit": 371072,
+  "disk": 3573033
+}
