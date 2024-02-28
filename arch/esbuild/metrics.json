@@ -1,0 +1,13 @@
+{
+  "name": "esbuild",
+  "version": "0.20.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 201721871,
+  "transmit": 480294,
+  "disk": 10729398
+}
