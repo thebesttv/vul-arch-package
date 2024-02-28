@@ -1,0 +1,22 @@
+{
+  "name": "scip",
+  "version": "9.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "mpfr",
+    "readline",
+    "tbb",
+    "zlib"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "papilo",
+    "soplex"
+  ],
+  "receive": 211671111,
+  "transmit": 496854,
+  "disk": 86138306
+}
