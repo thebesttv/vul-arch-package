@@ -1,0 +1,16 @@
+{
+  "name": "mauikit-documents",
+  "version": "3.1.0-1",
+  "depends": [
+    "mauikit",
+    "kio5",
+    "kfilemetadata5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "poppler-qt5"
+  ],
+  "receive": 199933399,
+  "transmit": 500651,
+  "disk": 4601739
+}
