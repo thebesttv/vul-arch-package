@@ -1,0 +1,14 @@
+{
+  "name": "go-yq",
+  "version": "4.42.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199644777,
+  "transmit": 306974,
+  "disk": 14160587
+}
