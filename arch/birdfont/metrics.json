@@ -1,0 +1,29 @@
+{
+  "name": "birdfont",
+  "version": "2.33.4-1",
+  "depends": [
+    "cairo",
+    "glibc",
+    "glib2",
+    "libglib-2.0.so",
+    "libgobject-2.0.so",
+    "gdk-pixbuf2",
+    "gtk3",
+    "libgtk-3.so",
+    "hicolor-icon-theme",
+    "libgee",
+    "libgee-0.8.so",
+    "libnotify",
+    "libnotify.so",
+    "libxmlbird",
+    "webkit2gtk-4.1",
+    "libwebkit2gtk-4.1.so"
+  ],
+  "makedepends": [
+    "python",
+    "vala"
+  ],
+  "receive": 199664562,
+  "transmit": 386712,
+  "disk": 17973858
+}
