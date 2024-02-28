@@ -1,0 +1,31 @@
+{
+  "name": "ogre-next",
+  "version": "2.3.3-3",
+  "depends": [
+    "freeimage",
+    "freetype2",
+    "libxaw",
+    "libxrandr",
+    "rapidjson",
+    "zziplib",
+    "sdl2",
+    "glu",
+    "tinyxml",
+    "zlib",
+    "openvr"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "graphviz",
+    "ttf-dejavu",
+    "mesa",
+    "ninja",
+    "cppunit",
+    "vulkan-headers",
+    "shaderc"
+  ],
+  "receive": 339051725,
+  "transmit": 2129228,
+  "disk": 394214930
+}
