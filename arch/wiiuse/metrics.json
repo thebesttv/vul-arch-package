@@ -1,0 +1,14 @@
+{
+  "name": "wiiuse",
+  "version": "0.15.6-1",
+  "depends": [
+    "bluez-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199743690,
+  "transmit": 413246,
+  "disk": 736091
+}
