@@ -1,0 +1,32 @@
+{
+  "name": "gthumb",
+  "version": "3.12.5-2",
+  "depends": [
+    "clutter-gtk",
+    "dconf",
+    "gsettings-desktop-schemas",
+    "gst-plugin-gtk",
+    "gst-plugins-base-libs",
+    "json-glib",
+    "libheif",
+    "libjxl",
+    "librsvg",
+    "libsecret",
+    "libsoup",
+    "libwebp",
+    "webkit2gtk"
+  ],
+  "makedepends": [
+    "brasero",
+    "docbook-xsl",
+    "exiv2",
+    "git",
+    "liboauth",
+    "libraw",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 238284497,
+  "transmit": 279996,
+  "disk": 68204239
+}
