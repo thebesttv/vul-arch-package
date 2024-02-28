@@ -1,0 +1,16 @@
+{
+  "name": "gnome-dictionary",
+  "version": "40.0-2",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199636379,
+  "transmit": 298902,
+  "disk": 12271620
+}
