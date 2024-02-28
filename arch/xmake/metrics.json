@@ -1,0 +1,12 @@
+{
+  "name": "xmake",
+  "version": "2.8.7-1",
+  "depends": [],
+  "makedepends": [
+    "ncurses",
+    "readline"
+  ],
+  "receive": 199648390,
+  "transmit": 285985,
+  "disk": 21398661
+}
