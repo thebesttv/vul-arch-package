@@ -1,0 +1,42 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=10.06 s (1476.8 files/s 274030.5 lines/s)"
+6049,C++,214284,330044,1253338
+8134,C/C++ Header,204970,255807,286277
+74,SVG,59,139,78414
+54,Markdown,13196,0,37446
+64,Tcl/Tk,2516,2517,15976
+53,XML,127,314,9638
+133,CMake,1450,1216,9457
+22,C#,569,551,5081
+7,C,818,804,3354
+8,F#,633,463,2221
+13,Objective-C++,397,716,2126
+6,Windows Resource File,232,221,1800
+49,DOS Batch,359,211,1718
+6,Java,198,159,1557
+5,MSBuild script,0,14,1486
+36,Bourne Shell,291,307,1473
+11,XAML,144,111,1383
+2,Forth,14,0,1279
+11,XSD,141,19,939
+5,Qt Linguist,0,0,846
+11,JSON,0,0,781
+12,Text,138,0,694
+16,GLSL,82,101,629
+3,yacc,123,149,603
+8,Visual Studio Solution,0,8,462
+9,Qt Project,83,2,329
+3,lex,93,64,306
+4,HTML,15,0,219
+2,Gencat NLS,69,0,145
+1,TeX,12,10,129
+1,Perl,31,42,101
+4,C# Generated,26,64,88
+6,Bourne Again Shell,24,15,60
+20,Snakemake,0,0,58
+3,Gradle,9,1,56
+1,QML,18,19,48
+2,ProGuard,14,19,46
+1,JavaScript,2,4,22
+2,diff,1,15,13
+1,Objective-C,8,22,12
+14852,SUM,441146,594148,1720610

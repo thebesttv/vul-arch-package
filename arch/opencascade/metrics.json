@@ -1,0 +1,34 @@
+{
+  "name": "opencascade",
+  "version": "1:7.7.2-5",
+  "depends": [
+    "freeimage",
+    "gl2ps",
+    "tk",
+    "vtk"
+  ],
+  "makedepends": [
+    "git",
+    "adios2",
+    "boost",
+    "cmake",
+    "eigen",
+    "gdal",
+    "glew",
+    "libharu",
+    "liblas",
+    "openvr",
+    "pdal",
+    "proj",
+    "pugixml",
+    "python",
+    "python-mpi4py",
+    "qt5-base",
+    "rapidjson",
+    "unixodbc",
+    "utf8cpp"
+  ],
+  "receive": 347093653,
+  "transmit": 833321,
+  "disk": 356869349
+}
