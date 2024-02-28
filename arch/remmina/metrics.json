@@ -1,0 +1,32 @@
+{
+  "name": "remmina",
+  "version": "1:1.4.35-1",
+  "depends": [
+    "avahi",
+    "libgcrypt",
+    "libssh",
+    "vte3",
+    "libsodium",
+    "libayatana-appindicator",
+    "libsoup3"
+  ],
+  "makedepends": [
+    "cmake",
+    "freerdp",
+    "libvncserver",
+    "spice-gtk",
+    "spice-protocol",
+    "harfbuzz",
+    "xorgproto",
+    "gobject-introspection",
+    "kwallet5",
+    "webkit2gtk-4.1",
+    "gtk-vnc",
+    "ninja",
+    "curl",
+    "openssl"
+  ],
+  "receive": 199889128,
+  "transmit": 428503,
+  "disk": 19256592
+}
