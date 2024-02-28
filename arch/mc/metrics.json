@@ -1,0 +1,24 @@
+{
+  "name": "mc",
+  "version": "4.8.31-2",
+  "depends": [
+    "e2fsprogs",
+    "glib2",
+    "glibc",
+    "gpm",
+    "libssh2",
+    "sh",
+    "slang",
+    "which"
+  ],
+  "makedepends": [
+    "aspell",
+    "git",
+    "libxt",
+    "libx11",
+    "unzip"
+  ],
+  "receive": 286789325,
+  "transmit": 1393452,
+  "disk": 103764799
+}
