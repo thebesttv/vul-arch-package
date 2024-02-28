@@ -1,0 +1,31 @@
+{
+  "name": "dtkwidget",
+  "version": "5.6.23-1",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "gcc-libs",
+    "glibc",
+    "gsettings-qt",
+    "libx11",
+    "libxcb",
+    "libxext",
+    "libxi",
+    "qt5-base",
+    "qt5-imageformats",
+    "qt5-svg",
+    "qt5-x11extras",
+    "startup-notification",
+    "xcb-util"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools",
+    "gtest",
+    "doxygen"
+  ],
+  "receive": 199637520,
+  "transmit": 315955,
+  "disk": 60477327
+}
