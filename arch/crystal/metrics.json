@@ -1,0 +1,18 @@
+{
+  "name": "crystal",
+  "version": "1.11.2-1",
+  "depends": [
+    "gc",
+    "pcre2",
+    "libevent",
+    "llvm-libs"
+  ],
+  "makedepends": [
+    "libxml2",
+    "llvm",
+    "crystal"
+  ],
+  "receive": 199597729,
+  "transmit": 263894,
+  "disk": 23192471
+}
