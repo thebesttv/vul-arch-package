@@ -1,0 +1,14 @@
+{
+  "name": "python-phonenumbers",
+  "version": "8.13.31-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 280884676,
+  "transmit": 426348,
+  "disk": 118030254
+}
