@@ -1,0 +1,20 @@
+{
+  "name": "python-igraph",
+  "version": "0.11.4-1",
+  "depends": [
+    "glibc",
+    "igraph",
+    "python",
+    "python-numpy",
+    "python-texttable"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199646521,
+  "transmit": 294321,
+  "disk": 27372518
+}
