@@ -1,0 +1,13 @@
+{
+  "name": "appmenu-gtk-module",
+  "version": "24.02-1",
+  "depends": [],
+  "makedepends": [
+    "meson",
+    "gtk3",
+    "gtk2"
+  ],
+  "receive": 200402130,
+  "transmit": 751611,
+  "disk": 1167181
+}
