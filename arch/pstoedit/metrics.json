@@ -1,0 +1,16 @@
+{
+  "name": "pstoedit",
+  "version": "4.00-1",
+  "depends": [
+    "gcc-libs",
+    "plotutils",
+    "gd",
+    "imagemagick"
+  ],
+  "makedepends": [
+    "ghostscript"
+  ],
+  "receive": 201118781,
+  "transmit": 424003,
+  "disk": 6357847
+}
