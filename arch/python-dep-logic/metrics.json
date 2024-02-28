@@ -1,0 +1,17 @@
+{
+  "name": "python-dep-logic",
+  "version": "0.2.0-1",
+  "depends": [
+    "python",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-pdm-backend",
+    "python-wheel"
+  ],
+  "receive": 199609104,
+  "transmit": 304696,
+  "disk": 316922
+}
