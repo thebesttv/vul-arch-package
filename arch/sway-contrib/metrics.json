@@ -1,0 +1,17 @@
+{
+  "name": "sway-contrib",
+  "version": "1.9.0-1",
+  "depends": [
+    "jq",
+    "libnotify",
+    "python",
+    "python-i3ipc",
+    "slurp",
+    "sway",
+    "wl-clipboard"
+  ],
+  "makedepends": [],
+  "receive": 199652193,
+  "transmit": 355712,
+  "disk": 137815
+}
