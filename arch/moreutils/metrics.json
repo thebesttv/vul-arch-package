@@ -1,0 +1,19 @@
+{
+  "name": "moreutils",
+  "version": "0.69-1",
+  "depends": [
+    "perl",
+    "perl-ipc-run",
+    "perl-timedate",
+    "perl-time-duration"
+  ],
+  "makedepends": [
+    "docbook2x",
+    "docbook-xml",
+    "perl-xml-sax",
+    "git"
+  ],
+  "receive": 199617379,
+  "transmit": 263799,
+  "disk": 1938586
+}
