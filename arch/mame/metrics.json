@@ -1,0 +1,26 @@
+{
+  "name": "mame",
+  "version": "0.263-1",
+  "depends": [],
+  "makedepends": [
+    "asio",
+    "flac",
+    "glm",
+    "libpulse",
+    "libutf8proc",
+    "libxi",
+    "libxinerama",
+    "lua",
+    "nasm",
+    "portaudio",
+    "portmidi",
+    "pugixml",
+    "python",
+    "qt6-base",
+    "rapidjson",
+    "sdl2_ttf"
+  ],
+  "receive": 415453567,
+  "transmit": 3613538,
+  "disk": 1069753910
+}
