@@ -1,0 +1,18 @@
+{
+  "name": "libgsf",
+  "version": "1.14.52-1",
+  "depends": [
+    "bzip2",
+    "gdk-pixbuf2",
+    "libxml2"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "git",
+    "gobject-introspection",
+    "gtk-doc"
+  ],
+  "receive": 199593367,
+  "transmit": 221677,
+  "disk": 6332687
+}
