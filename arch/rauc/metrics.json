@@ -1,0 +1,24 @@
+{
+  "name": "rauc",
+  "version": "1.11.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libnl",
+    "openssl",
+    "sh"
+  ],
+  "makedepends": [
+    "curl",
+    "dbus",
+    "glib2",
+    "json-glib",
+    "meson",
+    "python",
+    "systemd",
+    "util-linux"
+  ],
+  "receive": 199680620,
+  "transmit": 378676,
+  "disk": 5994682
+}
