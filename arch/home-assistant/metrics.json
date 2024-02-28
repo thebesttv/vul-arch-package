@@ -1,0 +1,27 @@
+{
+  "name": "home-assistant",
+  "version": "1:2024.2.3-1",
+  "depends": [
+    "bluez-libs",
+    "ffmpeg",
+    "gcc",
+    "lapack",
+    "libffi",
+    "libjpeg-turbo",
+    "libtiff",
+    "openjpeg2",
+    "openssl",
+    "python",
+    "tzdata",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 1439727600,
+  "transmit": 8589892,
+  "disk": 1400236245
+}
