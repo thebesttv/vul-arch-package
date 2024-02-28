@@ -1,0 +1,15 @@
+{
+  "name": "maui-clip",
+  "version": "3.1.0-1",
+  "depends": [
+    "mauikit-filebrowsing",
+    "taglib",
+    "ffmpeg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199630484,
+  "transmit": 300208,
+  "disk": 1242124
+}
