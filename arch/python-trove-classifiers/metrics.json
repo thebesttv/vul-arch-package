@@ -1,0 +1,15 @@
+{
+  "name": "python-trove-classifiers",
+  "version": "2024.2.22-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-calver",
+    "python-setuptools"
+  ],
+  "receive": 199740500,
+  "transmit": 414322,
+  "disk": 720535
+}
