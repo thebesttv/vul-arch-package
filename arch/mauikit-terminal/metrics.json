@@ -1,0 +1,13 @@
+{
+  "name": "mauikit-terminal",
+  "version": "3.1.0-1",
+  "depends": [
+    "mauikit"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199589926,
+  "transmit": 306732,
+  "disk": 1538524
+}
