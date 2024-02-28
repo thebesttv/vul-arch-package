@@ -1,0 +1,25 @@
+{
+  "name": "singular",
+  "version": "4.3.2.p15-2",
+  "depends": [
+    "bash",
+    "cddlib",
+    "flint",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "normaliz",
+    "ntl",
+    "readline"
+  ],
+  "makedepends": [
+    "latex2html",
+    "sharutils",
+    "texlive-basic",
+    "texlive-bin",
+    "texlive-latex"
+  ],
+  "receive": 201383302,
+  "transmit": 364718,
+  "disk": 57406363
+}
