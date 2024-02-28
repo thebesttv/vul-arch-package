@@ -1,0 +1,18 @@
+{
+  "name": "multipath-tools",
+  "version": "0.9.8-1",
+  "depends": [
+    "libaio",
+    "device-mapper",
+    "json-c",
+    "liburcu",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "git",
+    "systemd"
+  ],
+  "receive": 199612080,
+  "transmit": 286546,
+  "disk": 8775041
+}
