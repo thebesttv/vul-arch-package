@@ -1,0 +1,17 @@
+{
+  "name": "python-wsaccel",
+  "version": "0.6.6-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199772366,
+  "transmit": 396969,
+  "disk": 179208
+}
