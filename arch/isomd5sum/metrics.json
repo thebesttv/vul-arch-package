@@ -1,0 +1,12 @@
+{
+  "name": "isomd5sum",
+  "version": "1.2.4-1",
+  "depends": [],
+  "makedepends": [
+    "popt",
+    "python"
+  ],
+  "receive": 199675499,
+  "transmit": 355098,
+  "disk": 200529
+}
