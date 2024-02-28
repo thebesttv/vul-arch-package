@@ -1,0 +1,17 @@
+{
+  "name": "python-betamax-matchers",
+  "version": "0.4.0-10",
+  "depends": [
+    "python-requests-toolbelt",
+    "python-betamax"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199761563,
+  "transmit": 430766,
+  "disk": 131845
+}
