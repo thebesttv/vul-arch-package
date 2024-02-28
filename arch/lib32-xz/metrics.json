@@ -1,0 +1,12 @@
+{
+  "name": "lib32-xz",
+  "version": "5.6.0-1",
+  "depends": [
+    "lib32-glibc",
+    "xz"
+  ],
+  "makedepends": [],
+  "receive": 199786963,
+  "transmit": 412250,
+  "disk": 14098472
+}
