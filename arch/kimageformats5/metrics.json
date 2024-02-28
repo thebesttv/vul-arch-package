@@ -1,0 +1,19 @@
+{
+  "name": "kimageformats5",
+  "version": "5.115.0-2",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "karchive5",
+    "libavif",
+    "openexr",
+    "libheif",
+    "libjxl",
+    "libraw"
+  ],
+  "receive": 199644000,
+  "transmit": 331391,
+  "disk": 51964003
+}
