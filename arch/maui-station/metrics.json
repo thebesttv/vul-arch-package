@@ -1,0 +1,15 @@
+{
+  "name": "maui-station",
+  "version": "3.1.0-1",
+  "depends": [
+    "mauikit-filebrowsing",
+    "mauikit-terminal",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199766947,
+  "transmit": 428729,
+  "disk": 723682
+}
