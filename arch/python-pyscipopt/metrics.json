@@ -1,0 +1,19 @@
+{
+  "name": "python-pyscipopt",
+  "version": "4.4.0-2",
+  "depends": [
+    "glibc",
+    "python",
+    "scip"
+  ],
+  "makedepends": [
+    "cython0",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199605691,
+  "transmit": 286300,
+  "disk": 2012092
+}
