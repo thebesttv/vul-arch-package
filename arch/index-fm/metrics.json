@@ -1,0 +1,14 @@
+{
+  "name": "index-fm",
+  "version": "3.1.0-1",
+  "depends": [
+    "mauikit-filebrowsing",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199583410,
+  "transmit": 294227,
+  "disk": 3353777
+}
