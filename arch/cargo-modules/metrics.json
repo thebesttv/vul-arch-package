@@ -1,0 +1,11 @@
+{
+  "name": "cargo-modules",
+  "version": "0.14.0-1",
+  "depends": [
+    "cargo"
+  ],
+  "makedepends": [],
+  "receive": 199596949,
+  "transmit": 277615,
+  "disk": 2103343
+}
