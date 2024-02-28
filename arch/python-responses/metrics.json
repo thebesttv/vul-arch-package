@@ -1,0 +1,15 @@
+{
+  "name": "python-responses",
+  "version": "0.25.0-1",
+  "depends": [
+    "python-requests",
+    "python-urllib3",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199632004,
+  "transmit": 282272,
+  "disk": 507844
+}
