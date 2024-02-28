@@ -1,0 +1,14 @@
+{
+  "name": "msolve",
+  "version": "0.6.5-1",
+  "depends": [
+    "flint",
+    "gcc-libs",
+    "glibc",
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 199686956,
+  "transmit": 357306,
+  "disk": 4476528
+}
