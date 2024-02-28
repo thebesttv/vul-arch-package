@@ -1,0 +1,25 @@
+{
+  "name": "symengine",
+  "version": "0.11.2-3",
+  "depends": [
+    "flint",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "gmp-ecm",
+    "gperftools",
+    "libmpc",
+    "llvm-libs",
+    "mpfr",
+    "primesieve"
+  ],
+  "makedepends": [
+    "boost",
+    "cereal",
+    "cmake",
+    "llvm"
+  ],
+  "receive": 199748286,
+  "transmit": 406177,
+  "disk": 6504870
+}
