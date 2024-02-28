@@ -1,0 +1,41 @@
+{
+  "name": "polymake",
+  "version": "4.11-7",
+  "depends": [
+    "bliss",
+    "cddlib",
+    "e-antic",
+    "flint",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "lrs",
+    "mpfr",
+    "normaliz",
+    "perl=5.34.0",
+    "perl-json",
+    "perl-term-readkey",
+    "perl-term-readline-gnu",
+    "perl-xml-libxml",
+    "perl-xml-libxslt",
+    "perl-xml-writer",
+    "ppl",
+    "scip",
+    "singular",
+    "sympol",
+    "zlib"
+  ],
+  "makedepends": [
+    "ant",
+    "boost",
+    "jdk-openjdk",
+    "libnsl",
+    "nauty",
+    "ninja",
+    "permlib",
+    "soplex"
+  ],
+  "receive": 207102341,
+  "transmit": 375743,
+  "disk": 38601184
+}
