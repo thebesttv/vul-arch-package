@@ -1,0 +1,13 @@
+{
+  "name": "python-zope-testrunner",
+  "version": "6.4-1",
+  "depends": [
+    "python-setuptools",
+    "python-zope-interface",
+    "python-zope-exceptions"
+  ],
+  "makedepends": [],
+  "receive": 199690992,
+  "transmit": 354596,
+  "disk": 1211660
+}
