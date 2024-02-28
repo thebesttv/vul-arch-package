@@ -1,0 +1,16 @@
+{
+  "name": "cargo-release",
+  "version": "0.25.6-1",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "glibc",
+    "zlib"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199609914,
+  "transmit": 297690,
+  "disk": 1276502
+}
