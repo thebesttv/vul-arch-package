@@ -1,0 +1,13 @@
+{
+  "name": "python-pyftpdlib",
+  "version": "1.5.9-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199783994,
+  "transmit": 442551,
+  "disk": 1201883
+}
