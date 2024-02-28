@@ -1,0 +1,14 @@
+{
+  "name": "openvr",
+  "version": "2.2.3-1",
+  "depends": [
+    "jsoncpp",
+    "libgl"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 354082427,
+  "transmit": 2643810,
+  "disk": 670506770
+}
