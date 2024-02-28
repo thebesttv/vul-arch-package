@@ -1,0 +1,23 @@
+{
+  "name": "jupyter-notebook",
+  "version": "7.1.1-1",
+  "depends": [
+    "jupyter-notebook-shim",
+    "jupyter-server",
+    "jupyterlab",
+    "python",
+    "python-jupyter-client",
+    "python-jupyter-core",
+    "python-jupyterlab-server",
+    "python-tornado",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-jupyter-builder",
+    "python-installer"
+  ],
+  "receive": 199613714,
+  "transmit": 280310,
+  "disk": 19858382
+}
