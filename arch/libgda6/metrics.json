@@ -1,0 +1,23 @@
+{
+  "name": "libgda6",
+  "version": "6.0.0+r73+g94fa90ca2-1",
+  "depends": [],
+  "makedepends": [
+    "postgresql-libs",
+    "sqlcipher",
+    "json-glib",
+    "iso-codes",
+    "libsecret",
+    "gtk3",
+    "graphviz",
+    "intltool",
+    "gobject-introspection",
+    "valgrind",
+    "vala",
+    "meson",
+    "git"
+  ],
+  "receive": 267404817,
+  "transmit": 356708,
+  "disk": 117901950
+}
