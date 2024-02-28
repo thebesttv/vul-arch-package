@@ -1,0 +1,44 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=21.41 s (442.6 files/s 284194.1 lines/s)"
+1016,Qt Linguist,10525,0,3320358
+2196,C++,130445,135577,743279
+1244,Python,68086,114307,536367
+1817,SVG,935,2612,409723
+2010,C/C++ Header,51649,97045,187459
+404,Qt,77,0,108488
+264,XML,486,79,36810
+14,C,4323,7222,22799
+33,JSON,9,0,19193
+196,CMake,2403,1536,16193
+63,Markdown,3761,5,11738
+2,Fortran 77,218,8877,7757
+48,Text,743,0,5140
+36,YAML,135,566,3320
+16,CSV,77,0,2476
+11,HTML,187,39,2353
+29,Bourne Shell,225,340,1074
+4,CSS,103,55,814
+4,diff,184,603,767
+3,Starlark,87,115,728
+3,lex,127,95,477
+1,MSBuild script,0,0,419
+2,JavaScript,76,29,415
+3,yacc,59,76,271
+2,XSD,0,7,254
+8,DOS Batch,23,1,253
+2,make,36,10,170
+2,SCSS,37,3,165
+1,Perl,31,42,101
+22,reStructuredText,143,179,98
+1,Windows Resource File,32,45,89
+2,Objective-C,31,30,85
+3,Visual Studio Solution,3,3,76
+5,Dockerfile,22,0,45
+1,Objective-C++,0,0,40
+1,Bazel,6,2,31
+1,GLSL,11,27,21
+2,ProGuard,8,13,19
+1,PO File,2,6,18
+1,OpenSCAD,4,11,17
+2,Qt Project,3,1,17
+1,Windows Module Definition,1,0,6
+9477,SUM,275313,369558,5439923
