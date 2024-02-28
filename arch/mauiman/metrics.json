@@ -1,0 +1,13 @@
+{
+  "name": "mauiman",
+  "version": "3.1.0-1",
+  "depends": [
+    "qt5-systems"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199575450,
+  "transmit": 256542,
+  "disk": 9880006
+}
