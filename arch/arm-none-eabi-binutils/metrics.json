@@ -1,0 +1,12 @@
+{
+  "name": "arm-none-eabi-binutils",
+  "version": "2.42-1",
+  "depends": [
+    "zlib",
+    "libelf"
+  ],
+  "makedepends": [],
+  "receive": 238560072,
+  "transmit": 722277,
+  "disk": 337566552
+}
