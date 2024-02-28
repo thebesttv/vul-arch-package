@@ -1,0 +1,16 @@
+{
+  "name": "buho",
+  "version": "3.1.0-1",
+  "depends": [
+    "mauikit-accounts",
+    "mauikit-filebrowsing",
+    "mauikit-texteditor",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199579502,
+  "transmit": 293242,
+  "disk": 1397140
+}
