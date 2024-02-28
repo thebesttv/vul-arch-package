@@ -1,0 +1,14 @@
+{
+  "name": "python-pytest-click",
+  "version": "1.1.0-2",
+  "depends": [],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-wheel",
+    "python-installer"
+  ],
+  "receive": 199775249,
+  "transmit": 433086,
+  "disk": 148651
+}
