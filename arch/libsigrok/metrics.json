@@ -1,0 +1,28 @@
+{
+  "name": "libsigrok",
+  "version": "0.5.2-13",
+  "depends": [
+    "libftdi",
+    "libserialport",
+    "glibmm",
+    "libzip",
+    "libieee1284",
+    "bluez-libs",
+    "hidapi"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "ruby",
+    "jdk8-openjdk",
+    "swig",
+    "python",
+    "pygobject-devel",
+    "python-numpy",
+    "python-setuptools",
+    "autoconf-archive"
+  ],
+  "receive": 201455505,
+  "transmit": 340201,
+  "disk": 9834384
+}
