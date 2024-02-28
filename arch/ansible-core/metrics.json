@@ -1,0 +1,25 @@
+{
+  "name": "ansible-core",
+  "version": "2.16.4-1",
+  "depends": [
+    "python",
+    "python-cryptography",
+    "python-jinja",
+    "python-packaging",
+    "python-pyyaml",
+    "python-resolvelib",
+    "python-paramiko",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-docutils",
+    "python-installer",
+    "python-setuptools",
+    "python-straight.plugin",
+    "python-wheel"
+  ],
+  "receive": 203038063,
+  "transmit": 456438,
+  "disk": 26730486
+}
