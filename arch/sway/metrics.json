@@ -1,0 +1,31 @@
+{
+  "name": "sway",
+  "version": "1:1.9-1",
+  "depends": [
+    "cairo",
+    "gdk-pixbuf2",
+    "libevdev.so",
+    "libinput",
+    "libjson-c.so",
+    "libpixman-1.so",
+    "libudev.so",
+    "libwayland-server.so",
+    "libwlroots.so",
+    "libxcb",
+    "libxkbcommon.so",
+    "pango",
+    "pcre2",
+    "ttf-font",
+    "xcb-util-wm"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "scdoc",
+    "setconf",
+    "wayland-protocols"
+  ],
+  "receive": 199739742,
+  "transmit": 391700,
+  "disk": 13032739
+}
