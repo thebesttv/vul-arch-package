@@ -1,0 +1,14 @@
+{
+  "name": "python-hid",
+  "version": "1.0.6-1",
+  "depends": [
+    "hidapi",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199734119,
+  "transmit": 416766,
+  "disk": 125440
+}
