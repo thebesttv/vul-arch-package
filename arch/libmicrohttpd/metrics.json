@@ -1,0 +1,11 @@
+{
+  "name": "libmicrohttpd",
+  "version": "1.0.1-1",
+  "depends": [
+    "gnutls"
+  ],
+  "makedepends": [],
+  "receive": 199640814,
+  "transmit": 284187,
+  "disk": 14979282
+}
