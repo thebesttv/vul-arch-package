@@ -1,0 +1,14 @@
+{
+  "name": "bonsai",
+  "version": "1.1.3-1",
+  "depends": [
+    "mauikit-filebrowsing",
+    "mauikit-terminal"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199544758,
+  "transmit": 255637,
+  "disk": 1011882
+}
