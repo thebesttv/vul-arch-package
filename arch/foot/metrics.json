@@ -1,0 +1,25 @@
+{
+  "name": "foot",
+  "version": "1.16.2-2",
+  "depends": [],
+  "makedepends": [
+    "fcft",
+    "fontconfig",
+    "libutf8proc",
+    "libxkbcommon",
+    "llvm",
+    "meson",
+    "ncurses",
+    "ninja",
+    "pixman",
+    "python",
+    "scdoc",
+    "sway",
+    "tllist",
+    "wayland",
+    "wayland-protocols"
+  ],
+  "receive": 199685863,
+  "transmit": 370147,
+  "disk": 2622153
+}
