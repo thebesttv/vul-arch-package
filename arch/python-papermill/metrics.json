@@ -1,0 +1,24 @@
+{
+  "name": "python-papermill",
+  "version": "2.5.0-1",
+  "depends": [
+    "python",
+    "python-click",
+    "python-pyyaml",
+    "jupyter-nbformat",
+    "jupyter-nbclient",
+    "python-tqdm",
+    "python-requests",
+    "python-entrypoints",
+    "python-tenacity"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199619307,
+  "transmit": 263245,
+  "disk": 2735037
+}
