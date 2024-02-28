@@ -1,0 +1,16 @@
+{
+  "name": "binwalk",
+  "version": "2.3.4-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199755355,
+  "transmit": 427769,
+  "disk": 89877275
+}
