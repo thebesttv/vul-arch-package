@@ -1,0 +1,12 @@
+{
+  "name": "ell",
+  "version": "0.63-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199752277,
+  "transmit": 366501,
+  "disk": 4337946
+}
