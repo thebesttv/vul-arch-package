@@ -1,0 +1,15 @@
+{
+  "name": "qt5-declarative",
+  "version": "5.15.12+kde+r32-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "python",
+    "vulkan-headers",
+    "git"
+  ],
+  "receive": 335724164,
+  "transmit": 1566033,
+  "disk": 247585516
+}
