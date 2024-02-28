@@ -1,0 +1,16 @@
+{
+  "name": "latex2html",
+  "version": "2024-1",
+  "depends": [
+    "ghostscript",
+    "giflib",
+    "libpng",
+    "netpbm",
+    "perl",
+    "texlive-basic"
+  ],
+  "makedepends": [],
+  "receive": 200481786,
+  "transmit": 324938,
+  "disk": 7344374
+}
