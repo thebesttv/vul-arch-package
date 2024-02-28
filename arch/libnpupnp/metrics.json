@@ -1,0 +1,15 @@
+{
+  "name": "libnpupnp",
+  "version": "6.1.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "curl",
+    "expat",
+    "libmicrohttpd"
+  ],
+  "makedepends": [],
+  "receive": 200269872,
+  "transmit": 697948,
+  "disk": 3083706
+}
