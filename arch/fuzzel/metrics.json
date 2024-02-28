@@ -1,0 +1,23 @@
+{
+  "name": "fuzzel",
+  "version": "1.9.2-1",
+  "depends": [
+    "cairo",
+    "fcft",
+    "fontconfig",
+    "libfcft.so",
+    "libpng",
+    "libxkbcommon",
+    "pixman",
+    "wayland"
+  ],
+  "makedepends": [
+    "meson",
+    "scdoc",
+    "tllist",
+    "wayland-protocols"
+  ],
+  "receive": 199654501,
+  "transmit": 326038,
+  "disk": 1510437
+}
