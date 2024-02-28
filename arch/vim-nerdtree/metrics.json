@@ -1,0 +1,11 @@
+{
+  "name": "vim-nerdtree",
+  "version": "7.1.2-1",
+  "depends": [
+    "vim-plugin-runtime"
+  ],
+  "makedepends": [],
+  "receive": 199676909,
+  "transmit": 295176,
+  "disk": 784192
+}
