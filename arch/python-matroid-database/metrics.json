@@ -1,0 +1,16 @@
+{
+  "name": "python-matroid-database",
+  "version": "0.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199609083,
+  "transmit": 293314,
+  "disk": 1606808
+}
