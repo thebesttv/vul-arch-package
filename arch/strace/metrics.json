@@ -1,0 +1,12 @@
+{
+  "name": "strace",
+  "version": "6.7-1",
+  "depends": [
+    "perl",
+    "libunwind"
+  ],
+  "makedepends": [],
+  "receive": 202126488,
+  "transmit": 291110,
+  "disk": 34557569
+}
