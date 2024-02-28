@@ -1,0 +1,30 @@
+{
+  "name": "ansible-lint",
+  "version": "24.2.0-1",
+  "depends": [
+    "python",
+    "ansible-core",
+    "git",
+    "yamllint",
+    "python-ansible-compat",
+    "python-black",
+    "python-enrich",
+    "python-filelock",
+    "python-jsonschema",
+    "python-pyaml",
+    "python-packaging",
+    "python-rich",
+    "python-ruamel-yaml",
+    "python-wcmatch"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 225584058,
+  "transmit": 448094,
+  "disk": 30454797
+}
