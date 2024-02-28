@@ -1,0 +1,15 @@
+{
+  "name": "maui-nota",
+  "version": "3.1.0-1",
+  "depends": [
+    "mauikit-filebrowsing",
+    "mauikit-texteditor",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199763601,
+  "transmit": 440026,
+  "disk": 1690399
+}
