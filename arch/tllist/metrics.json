@@ -1,0 +1,11 @@
+{
+  "name": "tllist",
+  "version": "1.1.0-1",
+  "depends": [],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199583762,
+  "transmit": 285628,
+  "disk": 125284
+}
