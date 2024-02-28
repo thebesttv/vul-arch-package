@@ -1,0 +1,16 @@
+{
+  "name": "nvtop",
+  "version": "3.1.0-1",
+  "depends": [
+    "ncurses",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "libdrm",
+    "systemd"
+  ],
+  "receive": 199662582,
+  "transmit": 337762,
+  "disk": 1286558
+}
