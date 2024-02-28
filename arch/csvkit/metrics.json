@@ -1,0 +1,22 @@
+{
+  "name": "csvkit",
+  "version": "1.4.0-1",
+  "depends": [
+    "python",
+    "python-agate",
+    "python-agate-dbf",
+    "python-agate-excel",
+    "python-agate-sql",
+    "python-setuptools",
+    "python-sphinx-furo"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-sphinx"
+  ],
+  "receive": 199673287,
+  "transmit": 381454,
+  "disk": 44927094
+}
