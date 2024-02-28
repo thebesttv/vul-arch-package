@@ -1,0 +1,15 @@
+{
+  "name": "rofi-emoji",
+  "version": "3.3.0-1",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "rofi"
+  ],
+  "makedepends": [],
+  "receive": 199665890,
+  "transmit": 375890,
+  "disk": 1459584
+}
