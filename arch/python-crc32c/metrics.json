@@ -1,0 +1,17 @@
+{
+  "name": "python-crc32c",
+  "version": "2.4-1",
+  "depends": [
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199657762,
+  "transmit": 310327,
+  "disk": 265944
+}
