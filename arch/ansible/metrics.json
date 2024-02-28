@@ -1,0 +1,17 @@
+{
+  "name": "ansible",
+  "version": "9.3.0-1",
+  "depends": [
+    "python",
+    "ansible-core"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 238341512,
+  "transmit": 476536,
+  "disk": 372481414
+}
