@@ -1,0 +1,14 @@
+{
+  "name": "python-fs",
+  "version": "2.4.16-3",
+  "depends": [
+    "python-appdirs",
+    "python-pytz",
+    "python-setuptools",
+    "python-six"
+  ],
+  "makedepends": [],
+  "receive": 199705507,
+  "transmit": 388250,
+  "disk": 1208663
+}
