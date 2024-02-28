@@ -1,0 +1,25 @@
+{
+  "name": "sigal",
+  "version": "2.4-2",
+  "depends": [
+    "ffmpeg",
+    "python",
+    "python-blinker",
+    "python-click",
+    "python-jinja",
+    "python-markdown",
+    "python-natsort",
+    "python-pillow",
+    "python-pilkit"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 199676674,
+  "transmit": 379494,
+  "disk": 12376250
+}
