@@ -1,0 +1,19 @@
+{
+  "name": "fcft",
+  "version": "3.1.8-1",
+  "depends": [
+    "fontconfig",
+    "freetype2",
+    "harfbuzz",
+    "libutf8proc",
+    "pixman"
+  ],
+  "makedepends": [
+    "meson",
+    "scdoc",
+    "tllist"
+  ],
+  "receive": 199724158,
+  "transmit": 373001,
+  "disk": 3578577
+}
