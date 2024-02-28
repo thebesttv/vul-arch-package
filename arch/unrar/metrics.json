@@ -1,0 +1,12 @@
+{
+  "name": "unrar",
+  "version": "1:7.0.7-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199768899,
+  "transmit": 396145,
+  "disk": 1366950
+}
