@@ -1,0 +1,30 @@
+{
+  "name": "csound-plugins",
+  "version": "1.0.2-8",
+  "depends": [
+    "csound",
+    "gcc-libs",
+    "glibc",
+    "hdf5",
+    "libx11",
+    "python",
+    "stk"
+  ],
+  "makedepends": [
+    "cmake",
+    "eigen",
+    "faust",
+    "fltk",
+    "fluidsynth",
+    "git",
+    "gmm",
+    "jack",
+    "lame",
+    "libpng",
+    "libwebsockets",
+    "wiiuse"
+  ],
+  "receive": 199594952,
+  "transmit": 276648,
+  "disk": 20591614
+}
