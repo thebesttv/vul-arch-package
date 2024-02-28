@@ -1,0 +1,16 @@
+{
+  "name": "vvave",
+  "version": "3.1.0-1",
+  "depends": [
+    "mauikit-filebrowsing",
+    "mauikit-accounts",
+    "hicolor-icon-theme",
+    "taglib"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199621979,
+  "transmit": 301013,
+  "disk": 1977091
+}
