@@ -1,0 +1,17 @@
+{
+  "name": "repro-env",
+  "version": "0.4.0-1",
+  "depends": [
+    "catatonit",
+    "gcc-libs",
+    "glibc",
+    "podman"
+  ],
+  "makedepends": [
+    "cargo",
+    "scdoc"
+  ],
+  "receive": 199810586,
+  "transmit": 493416,
+  "disk": 587644
+}
