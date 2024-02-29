@@ -132,7 +132,7 @@ amsynth 1.13.2-1
 amule 1:2.3.3-7
 analitza 23.08.5-1
 android-file-transfer 4.2-3
-android-tools 34.0.4-3
+android-tools 34.0.4-4
 android-udev 20231124-1
 anewer 0.1.6-1
 angband 4.2.5-2
@@ -390,7 +390,7 @@ bbpager 0.4.7-9
 bbswitch 0.8-654
 bc 1.07.1-4
 bcachefs-tools 3:1.6.4-1
-bcc 0.28.0-2
+bcc 0.29.1-1
 bcg729 1.1.1-1
 bchoppr 1.12.6-1
 bchunk 1.2.2-7
@@ -419,7 +419,7 @@ bibutils 7.2-2
 bigloo 4.5a_1-4
 bigsh0t 2.6-1
 bin86 0.16.21-4
-binaryen 1:116-1
+binaryen 1:117-1
 bind 9.18.24-1
 bingrep 0.11.0-1
 binocle 0.3.2-1
@@ -490,7 +490,7 @@ bovo 23.08.5-1
 bower 1.8.14-1
 box2d 2.4.1-2
 boxxy 0.8.4-1
-bpftrace 0.19.1-1
+bpftrace 0.20.1-1
 bpython 0.24-3
 bpytop 1.0.68-1
 brasero 3.12.3+r24+gd01ba738-1
@@ -584,7 +584,7 @@ calf 0.90.3-6
 calibre 7.5.1-2
 calindori 23.08.5-1
 callaudiod 0.1.9-2
-calligra 3.2.1-55
+calligra 3.2.1-56
 calligra-plan 3.3.0-4
 cameractrls 0.5.15-2
 camlp-streams 5.0.1-4
@@ -707,7 +707,7 @@ certbot-dns-route53 2.8.0-1
 certbot-dns-sakuracloud 2.8.0-1
 certbot-nginx 2.8.0-1
 cervisia 23.08.5-1
-cfitsio 1:4.3.1-1
+cfitsio 1:4.4.0-1
 cfr 0.152-2
 cfssl 1.6.4-1
 cgal 5.6-1
@@ -1005,7 +1005,7 @@ danmaq 0.2.3.2-1
 dante 1.4.3-3
 darcs 2.16.5-241
 dark-reader 4.9.77-1
-darkhttpd 1.15-1
+darkhttpd 1.16-1
 darkman 1.5.4-2
 darkstat 3.0.721-2
 darktable 2:4.6.1-2
@@ -1245,7 +1245,7 @@ dokuwiki 20240206_a-1
 dolphin 23.08.5-1
 dolphin-emu 1:5.0.r20347.dc0814ae46-2
 dolphin-plugins 23.08.5-1
-dolt 1.34.3-1
+dolt 1.35.0-1
 dontpanic 1.02-2
 dool 1.3.1-1
 doomretro 5.2.1-1
@@ -1261,7 +1261,7 @@ dotnet-core 8.0.1.sdk101-1
 dotnet-core-6.0 6.0.26.sdk126-1
 dotnet-core-7.0 7.0.15.sdk115-1
 double-conversion 3.3.0-1
-doublecmd 1.1.10-1
+doublecmd 1.1.10-2
 dovecot 2.3.20-4
 dovecot-fts-elastic 1.1.0-4
 dovecot-fts-xapian 1.5.8-1
@@ -1327,7 +1327,7 @@ dvdstyler 3.2.1-2
 dvgrab 3.5-13
 dvisvgm 3.2-1
 dvtm 0.15-5
-dwarffortress 50.11-1
+dwarffortress 50.11-2
 dwayland 5.25.0-1
 dysk 2.8.2-1
 dzen2 0.9.5.14.488ab66-2
@@ -1375,9 +1375,9 @@ electron22 22.3.27-3
 electron23 23.3.13-3
 electron25 25.9.8-1
 electron26 26.6.10-1
-electron27 27.3.3-1
-electron28 28.2.4-1
-electron29 29.1.0-1
+electron27 27.3.4-1
+electron28 28.2.5-1
+electron29 29.1.1-1
 electrum 4.5.2-1
 element 0.46.6-1
 element.io 1.11.58-1
@@ -1484,7 +1484,7 @@ exploitdb 20240207-1
 ext3grep 0.10.2-6
 ext4magic 0.3.2-4
 extra-cmake-modules 5.115.0-1
-eza 0.18.4-1
+eza 0.18.5-1
 f2fs-tools 1.16.0-2
 f3d 2.3.0-2
 faac 1.30-4
@@ -1557,7 +1557,7 @@ fcitx5-material-color 0.2.1-1
 fcitx5-mozc 2.26.4632.102.g4d2e3bd-2
 fcitx5-nord 0.0.0.20210727-1
 fcitx5-pinyin-zhwiki 1:0.2.4.20240210-1
-fcitx5-qt 5.1.4-4
+fcitx5-qt 5.1.4-5
 fcitx5-rime 5.1.4-1
 fcitx5-sayura 5.1.1-1
 fcitx5-skk 5.1.1-1
@@ -1622,8 +1622,8 @@ firecracker 1.5.0-1
 firefox 123.0-1
 firefox-adblock-plus 3.17.1-1
 firefox-decentraleyes 2.0.18-1
-firefox-developer-edition 124.0b4-1
-firefox-developer-edition-i18n 124.0b4-1
+firefox-developer-edition 124.0b5-1
+firefox-developer-edition-i18n 124.0b5-1
 firefox-extension-mailvelope 5.1.1-1
 firefox-extension-passff 1.16.0-1
 firefox-i18n 123.0-1
@@ -1817,7 +1817,7 @@ genact 1.4.2-1
 gendesk 1.0.9-3
 gengetopt 2.23-2
 gensio 2.6.7-1
-gentium-plus-font 6.200-2
+gentium-plus-font 6.200-5
 genxrdpattern 1.1-3
 geoclue 2.7.1-2
 geocode-glib 3.26.4-4
@@ -1885,7 +1885,7 @@ gitlab 16.9.1-1
 gitlab-exporter 0.5.1-1
 gitlab-gitaly 16.9.1-1
 gitlab-pages 16.9.1-1
-gitlab-runner 16.9.0-1
+gitlab-runner 16.9.1-1
 gitlab-shell 3:14.34.0-1
 gitleaks 8.18.1-1
 gitolite 3.6.13-1
@@ -2000,7 +2000,7 @@ gnome-nibbles 4.0.2-1
 gnome-notes 40.1-4
 gnome-online-accounts 3.48.0-2
 gnome-packagekit 43.0-1
-gnome-panel 3.50.0-3
+gnome-panel 3.50.0-4
 gnome-photos 1:44.0-4
 gnome-pie 0.7.3-1
 gnome-podcasts 0.6.1-1
@@ -3537,7 +3537,7 @@ httptunnel 3.3-8
 httrack 3.49.4-1
 hub 2.14.2-3
 hugin 2023.0.0-1
-hugo 0.123.5-1
+hugo 0.123.6-1
 hunspell 1.7.2-1
 hunspell-de 20161207-8
 hunspell-el 0.9-9
@@ -3629,7 +3629,7 @@ imagescan 3.65.0-10
 imaginary 1.2.4-1
 imake 1.0.10-1
 imapsync 2.264-1
-imath 3.1.10-1
+imath 3.1.11-1
 img2pdf 0.5.1-1
 iml 1.0.5-3
 imlib 1.9.15-18
@@ -3848,7 +3848,7 @@ kactivities5 5.115.0-1
 kactivitymanagerd 5.27.10-1
 kaddressbook 23.08.5-1
 kaffeine 2.0.18-4
-kafka 3.6.1-1
+kafka 3.7.0-1
 kaidan 0.9.1-4
 kajongg 23.08.5-1
 kak-lsp 15.0.1-1
@@ -4239,7 +4239,7 @@ latte-integrale 1.7.6-2
 launchy 2.9.1pre.1-2
 layer-shell-qt 5.27.10-1
 laz-perf 2:3.0.0-1
-lazarus 3.0-2
+lazarus 3.2-1
 lazygit 0.40.2-1
 lbreakout2 2.6.5-3
 lbzip2 2.5-5
@@ -4809,7 +4809,7 @@ liblqr 0.4.2-3
 liblrdf 0.6.1-4
 liblscp 0.9.12-1
 libltc 1.3.2-1
-libluv 1.48.0_0-1
+libluv 1.48.0_1-1
 liblxqt 1.4.0-1
 liblzf 3.6-4
 libmaa 1.4.7-2
@@ -5170,7 +5170,7 @@ libxdmcp 1.1.4-2
 libxext 1.3.6-1
 libxfce4ui 4.18.5-1
 libxfce4util 4.18.2-1
-libxfce4windowing 4.19.2-1
+libxfce4windowing 4.19.3-1
 libxfixes 6.0.1-1
 libxfont2 2.0.6-2
 libxft 2.3.8-1
@@ -5336,7 +5336,7 @@ lua-cliargs 3.0.2-1
 lua-compat53 0.13-1
 lua-cosmo 16.06.04-6
 lua-cqueues 20200726-4
-lua-dkjson 2.6-1
+lua-dkjson 2.7-1
 lua-fifo 0.2-1
 lua-filesystem 1.8.0-4
 lua-fluent 0.2.0-2
@@ -5380,7 +5380,7 @@ luajit 2.1.1702233742-1
 luajson 1.3.4-3
 luakit 2.3.6-1
 luametatex 2.11.01-1
-luarocks 3.10.0-1
+luarocks 3.10.0-2
 luasec 2:1.3.2-1
 luasocket 1:3.1.0-1
 lucene++ 3.0.8-7
@@ -5537,7 +5537,7 @@ mate-user-share 1.26.0-1
 mate-utils 1.26.1-1
 materia-gtk-theme 20210322-2
 materia-kde 20220823-3
-materialx 1.38.8-8
+materialx 1.38.9-1
 mathjax 3.2.2-1
 mathjax2 2.7.9-1
 matrix-appservice-irc 1.0.1-2
@@ -5953,7 +5953,7 @@ nitrocli 0.4.1-2
 nitrogen 1.6.1-4
 nitrokey-app 1.4.2-1
 nitroshare 0.3.4-6
-nix 2.19.1-2
+nix 2.20.3-1
 nix-busybox 1.35.0-1
 njconnect 1.6-3
 nload 0.7.4-7
@@ -5997,7 +5997,7 @@ noto-fonts 1:24.2.1-1
 noto-fonts-cjk 20230817-1
 noto-fonts-emoji 1:2.042-1
 npapi-sdk 0.27.2-4
-npm 10.4.0-2
+npm 10.5.0-1
 npm-check-updates 16.14.15-1
 npth 1.7-1
 nrg2iso 0.4.1-2
@@ -6033,7 +6033,7 @@ nvidia-lts 1:550.54.14-1
 nvidia-open 550.54.14-1
 nvidia-prime 1.0-4
 nvidia-settings 550.54.14-1
-nvidia-utils 550.54.14-1
+nvidia-utils 550.54.14-2
 nvme-cli 2.8-1
 nvmetcli 0.8-2
 nvtop 3.1.0-1
@@ -7145,7 +7145,7 @@ pipewire-media-session 1:0.4.2-2
 piping-server 0.17.0-1
 pitivi 2023.03-2
 pius 3.0.0-5
-pixi 0.15.1-1
+pixi 0.15.2-1
 pixiewps 1.4.2-3
 pixman 0.43.2-1
 pixz 1.0.7-4
@@ -7184,7 +7184,6 @@ plasma-wayland-protocols 1.12.0-1
 plasma-welcome 5.27.10-1
 plasma-workspace 5.27.10-2
 plasma-workspace-wallpapers 5.27.10-1
-plasma5-applets-thermal-monitor 1.3.0-2
 plasma5-applets-window-buttons 0.11.1-2
 plasmatube 23.08.5-1
 platformio-core 6.1.13-1
@@ -7366,7 +7365,7 @@ pyannotate 1.2.0-6
 pyatspi 2.46.1-1
 pybind11 2.11.1-2
 pycdio 2.1.1-4
-pycharm-community-edition 2023.3.3-1
+pycharm-community-edition 2023.3.4-1
 pychess 1.0.4-3
 pycosat 0.6.6-1
 pycups 2.0.1-6
@@ -7487,7 +7486,7 @@ python-assertpy 1.1-1
 python-asteval 0.9.31-1
 python-astor 0.8.1-6
 python-astral 3.2-2
-python-astroid 2.15.6-2
+python-astroid 3.1.0-2
 python-astropy 6.0.0-2
 python-astropy-iers-data 0.2024.02.05.00.30.52-1
 python-asttokens 2.4.1-1
@@ -8014,7 +8013,7 @@ python-husl 4.0.3-11
 python-hvac 2.1.0-1
 python-hyperframe 6.0.1-4
 python-hyperlink 21.0.0-5
-python-hypothesis 6.98.13-1
+python-hypothesis 6.98.15-1
 python-hypothesis-fspaths 0.1.0-9
 python-hypothesmith 0.3.2-1
 python-i3ipc 2.2.1-4
@@ -8033,7 +8032,7 @@ python-importlib-metadata 5.1.0-1
 python-importlib_resources 6.1.2-1
 python-incremental 22.10.0-3
 python-infinity 1.5-6
-python-inflate64 0.3.1-2
+python-inflate64 1.0.0-1
 python-inflect 7.0.0-3
 python-inflection 0.5.1-6
 python-ini2toml 0.13-1
@@ -8349,7 +8348,7 @@ python-olefile 0.46-6
 python-omegaconf 2.3.0-2
 python-omemo-dr 1.0.1-1
 python-onnx 1:1.15.0-3
-python-openai 1.13.2-1
+python-openai 1.13.3-1
 python-openapi-core 0.19.0-1
 python-openapi-schema-validator 0.6.2-1
 python-openapi-spec-validator 0.7.1-1
@@ -8469,8 +8468,8 @@ python-plumbum 1.8.2-1
 python-ply 3.11-12
 python-plyvel 1.5.0-2
 python-podcastparser 0.6.10-2
-python-poetry 1.7.1-1
-python-poetry-core 1.9.0-2
+python-poetry 1.8.1-1
+python-poetry-core 1.9.0-3
 python-poetry-dynamic-versioning 1.2.0-1
 python-poetry-plugin-export 1.5.0-1
 python-poetry-plugin-up 0.7.1-1
@@ -8603,7 +8602,7 @@ python-pylev 1.4.0-7
 python-pyliblo 0.10.0-11
 python-pylibmc 1.6.3-2
 python-pylink-square 1.2.0-1
-python-pylint 2.17.7-1
+python-pylint 3.1.0-1
 python-pylint-venv 3.0.3-1
 python-pylons-sphinx-themes 1.0.13-3
 python-pyls-spyder 0.4.0-4
@@ -8916,7 +8915,7 @@ python-setuptools-declarative-requirements 1.3.0-3
 python-setuptools-gettext 0.1.9-1
 python-setuptools-git 1.2-9
 python-setuptools-markdown 0.4.1-9
-python-setuptools-rust 1.8.1-1
+python-setuptools-rust 1.9.0-1
 python-setuptools-scm 8.0.4-1
 python-sgmllib3k 1.0.0-5
 python-sh 1.14.3-2
@@ -9471,7 +9470,7 @@ range-v3 0.12.0-1
 ranger 1.9.3-9
 rankwidth 0.9-2
 rapid-photo-downloader 0.9.35-1
-rapidcheck r1056.ff6af6f-1
+rapidcheck r1056.ff6af6f-2
 rapidfuzz-cpp 3.0.0-1
 rapidjson 1.1.0-5
 rapidyaml 0.5.0-3
@@ -9537,7 +9536,7 @@ repo 2.41-1
 repod 0.3.0-1
 repose 7.1-7
 reprepro 5.4.3-1
-repro-env 0.3.3-1
+repro-env 0.4.0-1
 repro-get 0.4.1-1
 reprotest 0.7.25-1
 reptyr 0.10.0-1
@@ -10213,7 +10212,7 @@ sequoia-keyring-linter 1.0.0-1
 sequoia-sop 0.31.0-2
 sequoia-sq 0.33.0-1
 sequoia-sqv 1.1.0-1
-sequoia-wot 0.10.0-1
+sequoia-wot 0.11.0-1
 ser2net 4.3.13-1
 serd 0.32.2-1
 serf 1.3.10-1
@@ -10268,7 +10267,7 @@ sieve-connect 0.90-2
 sigal 2.4-2
 sigdigger 0.3.0-3
 sigil 2.0.2-3
-signal-desktop 6.48.1-1
+signal-desktop 7.0.0-1
 signify 31-3
 signing-party 2.11-1
 signon-kwallet-extension 23.08.5-1
@@ -10278,7 +10277,7 @@ signond 8.61-1
 sigrok-cli 0.7.2-1
 sigrok-firmware-fx2lafw 0.1.7-1
 sigutils 0.3.0-3
-sile 0.14.17-1
+sile 0.14.17-2
 silicon 0.5.2-1
 simde 0.7.6-1
 simh 3.12.3-2
@@ -10551,7 +10550,7 @@ surge-xt 1.3.0-1
 suscan 0.3.0-1
 sushi 45.0-1
 suwidgets 0.3.0-1
-svelte-language-server 0.16.3-1
+svelte-language-server 0.16.5-1
 svgcleaner 0.9.5-3
 svgpart 23.08.5-1
 svt-av1 1.8.0-1
@@ -10643,7 +10642,7 @@ tachyon 0.99.5-1
 taffybar 4.0.1-71
 taglib 2.0-1
 taglib1 1.13.1-2
-tailscale 1.60.0-1
+tailscale 1.60.1-1
 tailspin 3.0.0-1
 tailwindcss-language-server 0.0.16-1
 talhelper 2.0.0-1
@@ -10759,7 +10758,7 @@ tint2 17.0.2-3
 tinycdb 0.81-1
 tinycompress 1.2.11-1
 tinyemu 2019_12_21-3
-tinygo 0.31.0-1
+tinygo 0.31.1-1
 tinyionice 1.0.4-2
 tinyprog 1.0.23-4
 tinyproxy 1.11.1-3
@@ -11011,7 +11010,7 @@ uucp 1.07-7
 uudeview 20230502-3
 uusi 0.4.3.0-27
 uutils-coreutils 0.0.24-1
-uv 0.1.11-1
+uv 0.1.12-1
 uvicorn 0.27.0.post1-1
 uwsgi 2.0.24-1
 uwsgitop 0.11-6
@@ -11122,8 +11121,8 @@ visitors 0.7-7
 visualvm 2.1.7-1
 vit 2.3.1-1
 viu 1.5.0-1
-vivaldi 6.5.3206.63-1
-vivaldi-ffmpeg-codecs 120.0.6099.80-1
+vivaldi 6.6.3271.45-1
+vivaldi-ffmpeg-codecs 122.0.6261.84-1
 vivid 0.9.0-1
 vkd3d 1.10-1
 vkmark 20220318-1
@@ -11141,7 +11140,7 @@ volumeicon 0.5.1-5
 vorbis-tools 1.4.2-3
 vorbisgain 0.37-6
 vpnc 1:0.5.3.r526.r213-1
-vscode-languageservers 1.86.0-1
+vscode-languageservers 1.87.0-1
 vsftpd 3.0.5-1
 vsqlite++ 0.3.13-7
 vst3sdk 3.7.10_build_14-1
@@ -11182,7 +11181,7 @@ wasi-libc++ 16.0.6-1
 wasm-bindgen 0.2.91-2
 wasm-pack 0.12.1-1
 wasmer 4.2.3-1
-wasmtime 18.0.1-1
+wasmtime 18.0.2-1
 watchbind 0.2.1-1
 watchexec 1.25.1-1
 wavegain 1.3.1-4
@@ -11295,7 +11294,7 @@ wqy-bitmapfont 1.0.0RC1-5
 wqy-microhei 0.2.0_beta-11
 wqy-microhei-lite 0.2.0_beta-10
 wqy-zenhei 0.9.45-9
-wrangler 3.30.0-1
+wrangler 3.30.1-1
 wt 4.10.3-1
 wtype 0.4-1
 wv 1.2.9-6
@@ -11368,7 +11367,7 @@ xdotool 3.20211022.1-1
 xdp-tools 1.4.2-1
 xed 3.4.5-1
 xerces-c 3.2.5-1
-xf86-input-elographics 1.4.3-1
+xf86-input-elographics 1.4.4-1
 xf86-input-evdev 2.10.6-3
 xf86-input-libinput 1.4.0-1
 xf86-input-synaptics 1.9.2-1
@@ -11390,7 +11389,7 @@ xfburn 0.7.0-1
 xfce4-appfinder 4.18.1-1
 xfce4-artwork 0.1.1a_git20110420-6
 xfce4-battery-plugin 1.1.5-1
-xfce4-clipman-plugin 1.6.5-1
+xfce4-clipman-plugin 1.6.6-1
 xfce4-cpufreq-plugin 1.2.8-1
 xfce4-cpugraph-plugin 1.2.10-1
 xfce4-datetime-plugin 0.8.3-1
@@ -11406,7 +11405,7 @@ xfce4-mpc-plugin 0.5.3-1
 xfce4-netload-plugin 1.4.1-1
 xfce4-notes-plugin 1.11.0-1
 xfce4-notifyd 0.9.4-1
-xfce4-panel 4.18.5-1
+xfce4-panel 4.18.6-1
 xfce4-power-manager 4.18.3-1
 xfce4-pulseaudio-plugin 0.4.8-1
 xfce4-screensaver 4.18.2-1
@@ -11416,8 +11415,8 @@ xfce4-session 4.18.3-1
 xfce4-settings 4.18.4-1
 xfce4-smartbookmark-plugin 0.5.2-2
 xfce4-systemload-plugin 1.3.2-1
-xfce4-taskmanager 1.5.6-2
-xfce4-terminal 1.1.2-2
+xfce4-taskmanager 1.5.7-1
+xfce4-terminal 1.1.3-1
 xfce4-time-out-plugin 1.1.3-1
 xfce4-timer-plugin 1.7.2-1
 xfce4-verve-plugin 2.0.3-1
@@ -11673,7 +11672,7 @@ zlib 1:1.3.1-1
 zlib-ng 2.1.5-1
 zls 0.11.0-1
 zmap 3.0.0-1
-znc 1.9.0-2
+znc 1.9.0-3
 znc-clientbuffer 1.0.48-2
 zola 0.18.0-1
 zopfli 1.0.3-3
@@ -11701,5 +11700,5 @@ zxing-cpp 2.2.1-1
 zycore-c 1.4.1-3
 zydis 4.0.0-3
 zynaddsubfx 3.0.6-6
-zziplib 0.13.72-2
+zziplib 0.13.73-1
 zzuf 0.15-3
