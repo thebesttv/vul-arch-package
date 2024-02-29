@@ -1,0 +1,14 @@
+{
+  "name": "eza",
+  "version": "0.18.5-1",
+  "depends": [
+    "libgit2.so"
+  ],
+  "makedepends": [
+    "cargo",
+    "pandoc"
+  ],
+  "receive": 199768749,
+  "transmit": 397547,
+  "disk": 5544149
+}
