@@ -1,0 +1,24 @@
+{
+  "name": "python-openai",
+  "version": "1.13.3-1",
+  "depends": [
+    "python-anyio",
+    "python-httpx",
+    "python-tqdm",
+    "python-h2",
+    "python-distro",
+    "python-typing_extensions",
+    "python-pydantic",
+    "python-cached-property"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-hatchling"
+  ],
+  "receive": 199834631,
+  "transmit": 389557,
+  "disk": 1897294
+}
