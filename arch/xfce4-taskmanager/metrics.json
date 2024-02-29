@@ -1,0 +1,16 @@
+{
+  "name": "xfce4-taskmanager",
+  "version": "1.5.7-1",
+  "depends": [
+    "libxfce4ui",
+    "xfconf",
+    "libxmu",
+    "libwnck3"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199708746,
+  "transmit": 401164,
+  "disk": 3191011
+}
