@@ -1,0 +1,26 @@
+{
+  "name": "dwarffortress",
+  "version": "50.11-2",
+  "depends": [
+    "libice",
+    "gtk3",
+    "glu",
+    "sdl2",
+    "sdl2_image",
+    "sdl2_mixer",
+    "sdl2_ttf",
+    "libsndfile",
+    "libsm",
+    "openal",
+    "glew",
+    "gcc-libs",
+    "glib2"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 199763691,
+  "transmit": 391129,
+  "disk": 17276293
+}
