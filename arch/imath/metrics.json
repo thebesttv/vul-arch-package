@@ -1,0 +1,16 @@
+{
+  "name": "imath",
+  "version": "3.1.11-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "python"
+  ],
+  "receive": 199704803,
+  "transmit": 361405,
+  "disk": 4316332
+}
