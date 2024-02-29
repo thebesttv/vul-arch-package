@@ -1,0 +1,27 @@
+{
+  "name": "python-pylint",
+  "version": "3.1.0-1",
+  "depends": [
+    "python",
+    "python-astroid",
+    "python-colorama",
+    "python-dill",
+    "python-isort",
+    "python-mccabe",
+    "python-platformdirs",
+    "python-tomli",
+    "python-tomlkit"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-myst-parser",
+    "python-setuptools",
+    "python-sphinx",
+    "python-sphinx-reredirects",
+    "python-wheel"
+  ],
+  "receive": 200100766,
+  "transmit": 571143,
+  "disk": 10226052
+}
