@@ -1,0 +1,16 @@
+{
+  "name": "npm",
+  "version": "10.5.0-1",
+  "depends": [
+    "nodejs",
+    "node-gyp",
+    "nodejs-nopt",
+    "semver"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 401386111,
+  "transmit": 1700379,
+  "disk": 532160877
+}
