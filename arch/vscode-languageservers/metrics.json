@@ -1,0 +1,15 @@
+{
+  "name": "vscode-languageservers",
+  "version": "1.87.0-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "typescript",
+    "yarn"
+  ],
+  "receive": 1443869099,
+  "transmit": 4583934,
+  "disk": 1374665210
+}
