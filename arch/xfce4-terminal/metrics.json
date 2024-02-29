@@ -1,0 +1,16 @@
+{
+  "name": "xfce4-terminal",
+  "version": "1.1.3-1",
+  "depends": [
+    "libxfce4ui",
+    "vte3",
+    "gtk-layer-shell",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199780859,
+  "transmit": 393065,
+  "disk": 8403690
+}
