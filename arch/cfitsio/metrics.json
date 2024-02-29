@@ -1,0 +1,13 @@
+{
+  "name": "cfitsio",
+  "version": "1:4.4.0-1",
+  "depends": [
+    "curl",
+    "glibc",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199670923,
+  "transmit": 292734,
+  "disk": 17136661
+}
