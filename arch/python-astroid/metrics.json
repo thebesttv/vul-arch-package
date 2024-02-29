@@ -1,0 +1,16 @@
+{
+  "name": "python-astroid",
+  "version": "3.1.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199764998,
+  "transmit": 445263,
+  "disk": 3152001
+}
