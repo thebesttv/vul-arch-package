@@ -1,0 +1,15 @@
+{
+  "name": "kafka",
+  "version": "3.7.0-1",
+  "depends": [
+    "bash",
+    "java-runtime=17"
+  ],
+  "makedepends": [
+    "gradle",
+    "java-environment=17"
+  ],
+  "receive": 212431687,
+  "transmit": 676165,
+  "disk": 81821741
+}
