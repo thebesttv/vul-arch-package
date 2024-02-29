@@ -1,0 +1,15 @@
+{
+  "name": "pixi",
+  "version": "0.15.2-1",
+  "depends": [
+    "gcc-libs",
+    "openssl",
+    "bzip2"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199711046,
+  "transmit": 409900,
+  "disk": 12279628
+}
