@@ -1,0 +1,14 @@
+{
+  "name": "doublecmd",
+  "version": "1.1.10-2",
+  "depends": [],
+  "makedepends": [
+    "lazarus",
+    "gtk2",
+    "qt5pas",
+    "qt6pas"
+  ],
+  "receive": 203219313,
+  "transmit": 321491,
+  "disk": 49048312
+}
