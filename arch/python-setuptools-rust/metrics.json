@@ -1,0 +1,19 @@
+{
+  "name": "python-setuptools-rust",
+  "version": "1.9.0-1",
+  "depends": [
+    "rust",
+    "python-setuptools",
+    "python-semantic-version"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199788993,
+  "transmit": 384701,
+  "disk": 4761104
+}
