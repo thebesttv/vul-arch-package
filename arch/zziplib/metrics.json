@@ -1,0 +1,17 @@
+{
+  "name": "zziplib",
+  "version": "0.13.73-1",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [
+    "python",
+    "xmlto",
+    "zip",
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199692637,
+  "transmit": 363272,
+  "disk": 5528826
+}
