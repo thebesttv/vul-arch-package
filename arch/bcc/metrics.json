@@ -1,0 +1,17 @@
+{
+  "name": "bcc",
+  "version": "0.29.1-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "clang",
+    "llvm",
+    "flex",
+    "bison",
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 210162797,
+  "transmit": 414533,
+  "disk": 46787114
+}
