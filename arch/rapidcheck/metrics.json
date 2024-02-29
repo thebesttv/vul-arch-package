@@ -1,0 +1,12 @@
+{
+  "name": "rapidcheck",
+  "version": "r1056.ff6af6f-2",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git"
+  ],
+  "receive": 199679382,
+  "transmit": 320881,
+  "disk": 3829528
+}
