@@ -1,0 +1,21 @@
+{
+  "name": "gitlab-runner",
+  "version": "16.9.1-1",
+  "depends": [
+    "ca-certificates",
+    "curl",
+    "git",
+    "glibc",
+    "tar"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "git",
+    "mercurial",
+    "gox"
+  ],
+  "receive": 849330832,
+  "transmit": 5474548,
+  "disk": 661094835
+}
