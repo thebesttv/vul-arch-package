@@ -1,0 +1,13 @@
+{
+  "name": "binaryen",
+  "version": "1:117-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 199634746,
+  "transmit": 258822,
+  "disk": 41151020
+}
