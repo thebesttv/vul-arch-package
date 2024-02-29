@@ -1,0 +1,15 @@
+{
+  "name": "xf86-input-elographics",
+  "version": "1.4.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-XINPUT_VERSION=24.4",
+    "xorgproto"
+  ],
+  "receive": 199671607,
+  "transmit": 351298,
+  "disk": 2120918
+}
