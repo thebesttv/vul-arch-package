@@ -1,0 +1,19 @@
+{
+  "name": "lib32-pango",
+  "version": "1:1.52.0-1",
+  "depends": [
+    "lib32-cairo",
+    "lib32-fribidi",
+    "lib32-harfbuzz",
+    "lib32-libthai",
+    "lib32-libxft",
+    "pango"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199719437,
+  "transmit": 289115,
+  "disk": 22668239
+}
