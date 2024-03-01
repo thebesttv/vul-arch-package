@@ -1,0 +1,19 @@
+{
+  "name": "ruff-lsp",
+  "version": "0.0.53-1",
+  "depends": [
+    "python-packaging",
+    "python-pygls",
+    "python-typing_extensions",
+    "ruff"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199707027,
+  "transmit": 390360,
+  "disk": 1266410
+}
