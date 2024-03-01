@@ -1,0 +1,16 @@
+{
+  "name": "waycheck",
+  "version": "1.1.1-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "qt6-base>=6.5",
+    "qt6-wayland>=6.5",
+    "wayland"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199705433,
+  "transmit": 355398,
+  "disk": 197503
+}
