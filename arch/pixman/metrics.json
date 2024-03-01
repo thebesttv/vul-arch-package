@@ -1,0 +1,14 @@
+{
+  "name": "pixman",
+  "version": "0.43.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "meson",
+    "libpng"
+  ],
+  "receive": 199704745,
+  "transmit": 372633,
+  "disk": 3726309
+}
