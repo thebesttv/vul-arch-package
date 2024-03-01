@@ -1,0 +1,42 @@
+{
+  "name": "r",
+  "version": "4.3.3-1",
+  "depends": [
+    "bash",
+    "blas",
+    "bzip2",
+    "cairo",
+    "curl",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "icu",
+    "lapack",
+    "libjpeg-turbo",
+    "libpng",
+    "libtiff",
+    "libtirpc",
+    "libx11",
+    "libxmu",
+    "libxt",
+    "pango",
+    "pcre2",
+    "readline",
+    "tk",
+    "unzip",
+    "which",
+    "xz",
+    "zip",
+    "zlib"
+  ],
+  "makedepends": [
+    "gcc-fortran",
+    "jdk-openjdk",
+    "texlive-fontsrecommended",
+    "texlive-latexrecommended",
+    "tk"
+  ],
+  "receive": 228421544,
+  "transmit": 726610,
+  "disk": 127840538
+}
