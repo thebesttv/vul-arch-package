@@ -1,0 +1,29 @@
+{
+  "name": "flatpak-builder",
+  "version": "1.4.2-1",
+  "depends": [
+    "appstream",
+    "binutils",
+    "breezy",
+    "cpio",
+    "debugedit",
+    "elfutils",
+    "flatpak",
+    "fuse3",
+    "git",
+    "patch",
+    "rpmextract",
+    "tar",
+    "unzip"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "xmlto"
+  ],
+  "receive": 199837348,
+  "transmit": 471905,
+  "disk": 12126048
+}
