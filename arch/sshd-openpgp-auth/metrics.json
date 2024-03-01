@@ -1,0 +1,20 @@
+{
+  "name": "sshd-openpgp-auth",
+  "version": "0.3.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "bzip2",
+    "clang",
+    "gmp",
+    "just",
+    "nettle",
+    "rust",
+    "rust-script"
+  ],
+  "receive": 199661050,
+  "transmit": 396898,
+  "disk": 542559
+}
