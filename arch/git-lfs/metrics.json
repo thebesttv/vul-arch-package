@@ -1,0 +1,16 @@
+{
+  "name": "git-lfs",
+  "version": "3.5.0-1",
+  "depends": [
+    "git"
+  ],
+  "makedepends": [
+    "go",
+    "ruby-ronn",
+    "go-tools",
+    "asciidoctor"
+  ],
+  "receive": 199701308,
+  "transmit": 308151,
+  "disk": 40457383
+}
