@@ -1,0 +1,20 @@
+{
+  "name": "dpkg",
+  "version": "1.22.5-1",
+  "depends": [
+    "xz",
+    "zlib",
+    "bzip2",
+    "zstd",
+    "perl",
+    "libmd"
+  ],
+  "makedepends": [
+    "perl-io-string",
+    "perl-timedate",
+    "git"
+  ],
+  "receive": 199702830,
+  "transmit": 385998,
+  "disk": 45177287
+}
