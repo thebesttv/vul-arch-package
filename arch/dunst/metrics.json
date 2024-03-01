@@ -1,0 +1,21 @@
+{
+  "name": "dunst",
+  "version": "1.10.0-1",
+  "depends": [
+    "libxinerama",
+    "dbus",
+    "systemd",
+    "wayland",
+    "libxss",
+    "pango",
+    "gdk-pixbuf2",
+    "libxrandr",
+    "glib2"
+  ],
+  "makedepends": [
+    "libnotify"
+  ],
+  "receive": 199717656,
+  "transmit": 413358,
+  "disk": 10697561
+}
