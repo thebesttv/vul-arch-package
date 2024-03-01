@@ -1,0 +1,16 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.76 s (972.0 files/s 215646.6 lines/s)"
+620,Go,15660,4405,135194
+60,JSON,0,0,4956
+22,Markdown,386,5,899
+14,YAML,68,15,790
+4,Bourne Again Shell,27,7,190
+2,WiX source,24,9,98
+1,make,16,4,75
+3,Protocol Buffers,16,0,50
+4,Bourne Shell,14,27,45
+1,MSBuild script,0,1,33
+1,Text,4,0,22
+1,PowerShell,4,1,12
+1,TOML,0,0,6
+1,DOS Batch,0,0,1
+735,SUM,16219,4474,142371
