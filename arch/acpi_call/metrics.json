@@ -1,0 +1,12 @@
+{
+  "name": "acpi_call",
+  "version": "1.2.2-187",
+  "depends": [],
+  "makedepends": [
+    "linux-headers",
+    "acpi_call-dkms=1.2.2"
+  ],
+  "receive": 199670391,
+  "transmit": 368854,
+  "disk": 545213
+}
