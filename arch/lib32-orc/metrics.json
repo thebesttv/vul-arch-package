@@ -1,0 +1,17 @@
+{
+  "name": "lib32-orc",
+  "version": "0.4.38-1",
+  "depends": [
+    "lib32-glibc",
+    "orc"
+  ],
+  "makedepends": [
+    "git",
+    "gtk-doc",
+    "meson",
+    "valgrind"
+  ],
+  "receive": 199755447,
+  "transmit": 414394,
+  "disk": 5171923
+}
