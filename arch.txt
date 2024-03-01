@@ -31,7 +31,7 @@ acme-user 1.0.1-1
 acme.sh 3.0.7-1
 acorn 1:8.11.0-1
 acpi 1.7-3
-acpi_call 1.2.2-186
+acpi_call 1.2.2-187
 acpi_call-dkms 1.2.2-1
 acpi_call-lts 1.2.2-174
 acpica 20230628-1
@@ -387,7 +387,7 @@ bats-file 0.4.0-1
 bats-support 0.3.0-5
 bazel 7.0.2-1
 bbpager 0.4.7-9
-bbswitch 0.8-654
+bbswitch 0.8-655
 bc 1.07.1-4
 bcachefs-tools 3:1.6.4-1
 bcc 0.29.1-1
@@ -439,7 +439,7 @@ bladerf 2023.02-2
 blanket 0.6.0-2
 blaze 3.8.2-2
 bleachbit 4.6.0-1
-blender 17:4.0.2-14
+blender 17:4.0.2-15
 bless 0.6.3-1
 blinken 23.08.5-1
 blinksocks 3.3.8-3
@@ -504,7 +504,7 @@ brial 1.2.12-2
 bridge-utils 1.7.1-1
 brightnessctl 0.5.1-2
 brltty 6.6-5
-broadcom-wl 6.30.223.271-530
+broadcom-wl 6.30.223.271-531
 broadcom-wl-dkms 6.30.223.271-36
 brook 20221010-1
 broot 1.34.0-1
@@ -539,7 +539,7 @@ buf 1.28.1-1
 bugzilla 5.0.6-5
 buho 3.1.0-1
 build2 0.16.0-2
-buildah 1.34.0-2
+buildah 1.34.1-1
 buildbot 3.11.0-1
 buildkit 0.12.2-1
 bullet 3.25-3
@@ -933,7 +933,7 @@ croc 9.6.13-1
 cronie 1.7.1-1
 cross 0.2.5-1
 crosstool-ng 1.26.0-1
-crun 1.14.3-1
+crun 1.14.4-1
 cryfs 0.11.4-5
 crypto++ 8.9.0-1
 cryptol 3.0.0-44
@@ -1004,7 +1004,7 @@ daktilo 0.5.0-1
 danmaq 0.2.3.2-1
 dante 1.4.3-3
 darcs 2.16.5-241
-dark-reader 4.9.77-1
+dark-reader 4.9.78-1
 darkhttpd 1.16-1
 darkman 1.5.4-2
 darkstat 3.0.721-2
@@ -1055,7 +1055,7 @@ debugedit 5.0-5
 deepin-account-faces 1.0.16-1
 deepin-album 6.0.4-4
 deepin-anything 5.0.18-1
-deepin-anything-arch 6.1.2-52
+deepin-anything-arch 6.1.2-53
 deepin-api 6.0.9-1
 deepin-app-services 1.0.25-1
 deepin-appearance 1.1.25-1
@@ -1229,7 +1229,7 @@ docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
 docbook2x 0.8.8-18
 docbook5-xml 5.1-3
-docker 1:25.0.2-1
+docker 1:25.0.3-1
 docker-buildx 0.12.1-1
 docker-compose 2.24.6-1
 docker-machine 0.16.2-5
@@ -1269,8 +1269,8 @@ dovi-tool 2.1.0-1
 doxygen 1.10.0-2
 dpdk 23.07-1
 dpf-plugins 1.7-1
-dpkg 1.22.0-1
-dqlite 1.16.2-1
+dpkg 1.22.5-1
+dqlite 1.16.4-1
 dra 0.5.2-1
 draco 1.5.6-2
 dracut 059-5
@@ -1316,7 +1316,7 @@ dummyhttp 1.0.3-1
 dump_syms 2.2.2-1
 dune 3.11.1-1
 dunesh 0.1.8-1
-dunst 1.9.2-1
+dunst 1.10.0-1
 duperemove 0.11.3-2
 duplicity 2.1.4-1
 dust 0.9.0-1
@@ -1325,7 +1325,7 @@ dvdauthor 0.7.2-11
 dvdbackup 0.4.2-6
 dvdstyler 3.2.1-2
 dvgrab 3.5-13
-dvisvgm 3.2-1
+dvisvgm 3.2.1-1
 dvtm 0.15-5
 dwarffortress 50.11-2
 dwayland 5.25.0-1
@@ -1430,7 +1430,7 @@ eolie 0.9.101-4
 eom 1.26.1-1
 ephoto 1.6.0-2
 epic4 2.10.10-6
-epiphany 45.2-1
+epiphany 45.3-1
 epubcheck 5.1.0-3
 eq10q 2.2-5
 erdtree 3.1.2-1
@@ -1647,7 +1647,7 @@ flashgbx 3.36-1
 flashrom 1.2-4
 flatbuffers 23.5.26-1
 flatpak 1:1.15.6-2
-flatpak-builder 1.4.0-1
+flatpak-builder 1.4.2-1
 flatpak-kcm 5.27.10-1
 flatpak-xdg-utils 1.0.5-1
 flawfinder 2.0.19-1
@@ -1872,7 +1872,7 @@ git-crypt 0.7.0-2
 git-delta 0.16.5-1
 git-filter-repo 2.38.0-1
 git-grab 2.0.0-1
-git-lfs 3.4.1-1
+git-lfs 3.5.0-1
 git-repair 1.20230814-34
 git-revise 0.7.0-3
 git-sizer 1.5.0-2
@@ -1880,7 +1880,7 @@ git-smash 0.1.0-1
 git-warp-time 0.7.2-2
 gitea 1.21.7-1
 gitg 2:44-1
-github-cli 2.43.1-1
+github-cli 2.44.1-1
 gitlab 16.9.1-1
 gitlab-exporter 0.5.1-1
 gitlab-gitaly 16.9.1-1
@@ -1908,9 +1908,9 @@ glbinding 3.3.0-1
 glew 2.2.0-6
 glew1.10 1.10.0-3
 glewlwyd 2.7.6-2
-glfw 3.3.10-1
+glfw 3.4-2
 glhack 1.2-10
-glib-networking 1:2.78.0-1
+glib-networking 1:2.78.1-1
 glib-perl 1.329.4-1
 glib2 2.78.4-1
 glibc 2.39-1
@@ -1959,7 +1959,7 @@ gnome-bluetooth-3.0 42.8-1
 gnome-boxes 45.0-1
 gnome-break-timer 2.1.0-1
 gnome-browser-connector 42.1-4
-gnome-builder 45.0-3
+gnome-builder 45.0-4
 gnome-calculator 45.0.2-1
 gnome-calendar 45.1-1
 gnome-characters 45.0-1
@@ -1970,7 +1970,7 @@ gnome-color-manager 3.36.0+r51+gcf7ee2b5-1
 gnome-common 3.18.0-4
 gnome-connections 45.0-1
 gnome-console 45.0-1
-gnome-contacts 45.0-1
+gnome-contacts 45.1-1
 gnome-control-center 45.3-1
 gnome-desktop 1:44.0-1
 gnome-devel-docs 40.3-1
@@ -2091,7 +2091,7 @@ gopass 1.15.11-1
 gopass-hibp 1.15.11-1
 gopass-jsonapi 1.15.11-1
 gopass-summon-provider 1.15.11-1
-gopls 0.14.2-1
+gopls 0.15.1-1
 goreleaser 1.22.1-1
 gortr 0.14.8-1
 gost 2.11.5-1
@@ -2134,7 +2134,7 @@ gqrx 2.17.4-1
 gradle 8.6-1
 gradle7 7.6.4-1
 grafana 10.3.1-1
-grafana-agent 0.40.0-1
+grafana-agent 0.40.1-1
 grafana-zabbix 4.4.5-1
 grafx2 2.8-3
 grails 6.0.0-1
@@ -4133,7 +4133,7 @@ kquickimageeditor 0.3.0-2
 krb5 1.21.2-2
 krdc 23.08.5-1
 krecorder 23.08.5-1
-krename 5.0.2-9
+krename 5.0.2-10
 kreport 3.2.0-4
 kresus 0.20.1-2
 kreversi 23.08.5-1
@@ -4310,7 +4310,7 @@ lib32-gettext 0.22.4-1
 lib32-giflib 5.2.2-1
 lib32-glew 2.2.0-4
 lib32-glew1.10 1.10.0-5
-lib32-glib-networking 1:2.78.0-1
+lib32-glib-networking 1:2.78.1-1
 lib32-glib2 2.78.4-1
 lib32-glu 9.0.3-1
 lib32-gmp 6.3.0-1
@@ -4449,7 +4449,7 @@ lib32-llvm 16.0.6-2
 lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
 lib32-lz4 1.9.4-1
 lib32-mangohud 0.7.1-1
-lib32-mesa 1:24.0.1-1
+lib32-mesa 1:24.0.2-1
 lib32-mesa-amber 21.3.9-6
 lib32-mesa-demos 9.0.0-1
 lib32-mpg123 1.32.5-1
@@ -4464,10 +4464,10 @@ lib32-openal 1.23.1-1
 lib32-openssl 1:3.2.1-1
 lib32-openssl-1.1 1.1.1.w-1
 lib32-opus 1.4-1
-lib32-orc 0.4.37-1
+lib32-orc 0.4.38-1
 lib32-p11-kit 0.25.3-1
 lib32-pam 1.6.0-1
-lib32-pango 1:1.51.2-1
+lib32-pango 1:1.52.0-1
 lib32-pcre 8.45-3
 lib32-pcre2 10.42-1
 lib32-pcsclite 2.0.1-1
@@ -5066,7 +5066,7 @@ libspiro 1:20221101-2
 libspnav 1.1-1
 libspng 0.7.4-2
 libsquish 1.15-7
-libsrtp 1:2.5.0-1
+libsrtp 1:2.6.0-1
 libssh 0.10.6-2
 libssh2 1.11.0-1
 libstaroffice 0.0.7-2
@@ -5170,7 +5170,7 @@ libxdmcp 1.1.4-2
 libxext 1.3.6-1
 libxfce4ui 4.18.5-1
 libxfce4util 4.18.2-1
-libxfce4windowing 4.19.3-1
+libxfce4windowing 4.19.3-2
 libxfixes 6.0.1-1
 libxfont2 2.0.6-2
 libxft 2.3.8-1
@@ -5237,7 +5237,7 @@ linenoise-ng 1.0.1-2
 link-grammar 5.12.3-2
 links 2.29-1
 linssid 3.6-10
-linux 6.7.6.arch1-1
+linux 6.7.6.arch1-2
 linux-api-headers 6.7-1
 linux-atm 2.5.2-8
 linux-firmware 20240220.97b693d2-1
@@ -5246,7 +5246,7 @@ linux-lts 6.6.18-1
 linux-rt 6.7.0.6.realtime1-1
 linux-rt-lts 6.6.15.22.realtime1-1
 linux-tools 6.7-1
-linux-zen 6.7.6.zen1-1
+linux-zen 6.7.6.zen1-2
 linuxconsole 1.8.1-1
 linuxdoc-tools 0.9.83-1
 linuxsampler 2.3.0-2
@@ -5484,7 +5484,7 @@ man-pages-l10n 4.21.0-1
 man-pages-zh 1.6.4.0-2
 man2html 3.0.1-9
 manaplus 2.1.3.17-1
-mandoc 1.14.6-2
+mandoc 1.14.6-3
 mandown 0.1.3-1
 mangohud 0.7.1-1
 manuskript 0.16.1-1
@@ -5600,7 +5600,7 @@ megaglest 3.13.0-8
 megaglest-data 3.13.0-3
 megatools 1.11.1+20230212-2
 meilisearch 1.6.2-1
-melange 0.6.4-1
+melange 0.6.5-1
 meld 3.22.1-1
 mellite 3.13.11-1
 memcached 1.6.21-1
@@ -5614,7 +5614,7 @@ mephisto.lv2 0.18.2-3
 mercurial 6.6.3-1
 merkaartor 0.19.0-8
 merkuro 23.08.5-1
-mesa 1:24.0.1-1
+mesa 1:24.0.2-1
 mesa-amber 21.3.9-6
 mesa-demos 9.0.0-3
 meshbird 2.3-6
@@ -5877,7 +5877,7 @@ netcdf-openmpi 4.9.2-4
 netcf 0.2.8-8
 netctl 1.29-1
 netdata 1.44.3-1
-netfilter-fullconenat r73.0cf3b48-351
+netfilter-fullconenat r73.0cf3b48-352
 nethack 3.6.7-5
 nethogs 0.8.7-1
 nethsm-pkcs11 1.3.0-1
@@ -5893,7 +5893,7 @@ netwatch 1.3.1_2-4
 network-manager-applet 1.36.0-1
 network-manager-sstp 1.3.2-1
 networkmanager 1.46.0-2
-networkmanager-l2tp 1.20.10-1
+networkmanager-l2tp 1.20.12-1
 networkmanager-openconnect 1.2.10-1
 networkmanager-openvpn 1.10.2-3
 networkmanager-pptp 1.2.12-3
@@ -6027,10 +6027,10 @@ nushell 0.90.1-1
 nuspell 5.1.4-2
 nut 2.8.1-2
 nvchecker 2.13.1-1
-nvidia 550.54.14-1
+nvidia 550.54.14-2
 nvidia-cg-toolkit 3.1-6
 nvidia-lts 1:550.54.14-1
-nvidia-open 550.54.14-1
+nvidia-open 550.54.14-2
 nvidia-prime 1.0-4
 nvidia-settings 550.54.14-1
 nvidia-utils 550.54.14-2
@@ -6239,11 +6239,11 @@ or1k-elf-gcc 12.2.0-1
 or1k-elf-gdb 12.1-4
 or1k-elf-newlib 4.1.0-1
 orbiton 2.65.10-1
-orc 0.4.37-1
+orc 0.4.38-1
 orca 45.2-1
 orcania 2.3.3-1
 os-prober 1.81-1
-osbuild 109-1
+osbuild 111-1
 osc2midi 0.2.5-2
 oscpack 1.1.0-3
 osdbattery 1.4-8
@@ -6315,7 +6315,7 @@ pan 0.155-1
 pandoc-cli 0.1.1.1-68
 pandoc-crossref 0.3.17.0-1
 pandoc-plot 1.8.0-45
-pango 1:1.51.2-1
+pango 1:1.52.0-1
 pango-perl 1.227-16
 pangomm 2.46.4-1
 pangomm-2.48 2.50.2-1
@@ -7142,12 +7142,12 @@ piper 0.7-2
 pipesocks 2.3-5
 pipewire 1:1.0.3-1
 pipewire-media-session 1:0.4.2-2
-piping-server 0.17.0-1
+piping-server 0.18.0-1
 pitivi 2023.03-2
 pius 3.0.0-5
 pixi 0.15.2-1
 pixiewps 1.4.2-3
-pixman 0.43.2-1
+pixman 0.43.4-1
 pixz 1.0.7-4
 pkcs11-helper 1.30.0-1
 pkgconf 2.1.0-2
@@ -7323,7 +7323,7 @@ proxyboi 0.5.0-2
 proxychains-ng 4.17-1
 proxytunnel 1.12.0-1
 prrte 3.0.4-3
-prusa-slicer 2.7.1-1
+prusa-slicer 2.7.2-1
 psalm 5.22.2-1
 psensor 1.2.1-4
 psi 1.5-3
@@ -7397,7 +7397,7 @@ pyqt6-charts 6.6.0-1
 pyqt6-datavisualization 6.6.0-1
 pyqt6-networkauth 6.6.0-1
 pyqt6-webengine 6.6.0-1
-pyright 1.1.351-1
+pyright 1.1.352-1
 pyside2 5.15.12-1
 pyside6 6.6.2-1
 pysmbc 1.0.25.1-1
@@ -7566,7 +7566,7 @@ python-bsddb 6.2.9-5
 python-btchip 0.1.32-3
 python-btrees 4.11.3-3
 python-btrfs 13-4
-python-build 1.0.3-1
+python-build 1.1.1-1
 python-cachecontrol 1:0.14.0-2
 python-cached-property 1.5.2-6
 python-cachelib 0.12.0-1
@@ -7862,7 +7862,6 @@ python-flask-compress 1.14-1
 python-flask-cors 4.0.0-1
 python-flask-debug 0.4.3-7
 python-flask-gravatar 0.5.0-8
-python-flask-htmlmin 2.2.1-3
 python-flask-httpauth 4.8.0-2
 python-flask-jwt 0.3.2-10
 python-flask-login 0.6.3-1
@@ -9447,10 +9446,10 @@ qxgedit 0.9.12-1
 qxlsx 1.4.7-1
 qxmledit 0.9.18-1
 qxmpp 1.6.0-1
-r 4.3.2-4
+r 4.3.3-1
 r10k 3.16.0-1
 r2ghidra 5.8.8-1
-r8168 8.052.01-29
+r8168 8.052.01-30
 r8168-lts 8.052.01-29
 rabbitmq 3.12.10-1
 racket 8.11.1-1
@@ -9494,7 +9493,7 @@ rcs 5.10.1-2
 rdesktop 1.9.0-2
 rdfind 1.6.0-2
 rdma-core 49.0-1
-re2 1:20240201-1
+re2 1:20240301-1
 re2c 3.1-1
 reactphysics3d 0.9.0-1
 read-edid 3.0.2-4
@@ -10086,8 +10085,8 @@ ruby-yard 0.9.34-1
 ruby-zeitwerk 2.6.13-1
 ruby2.7 2.7.8-1
 rubygems 3.3.25-1
-ruff 0.2.2-1
-ruff-lsp 0.0.52-1
+ruff 0.3.0-2
+ruff-lsp 0.0.53-1
 run-parts 5.5-1
 runc 1.1.12-1
 runst 0.1.5-1
@@ -10450,10 +10449,10 @@ ssdeep 2.14.1-3
 ssfconv 1.1.1-1
 ssh-audit 3.1.0-1
 ssh-key-confirmer 0.1-2
-ssh-openpgp-auth 0.2.1-1
+ssh-openpgp-auth 0.2.2-1
 ssh-tools 1.7-2
 ssh-tpm-agent 0.3.0-1
-sshd-openpgp-auth 0.2.1-1
+sshd-openpgp-auth 0.3.0-1
 sshfs 3.7.3-1
 sshguard 2.4.3-1
 sshpass 1.10-1
@@ -10795,7 +10794,7 @@ toolame 02l-14
 toolbox 0.0.99.5-1
 toot 0.41.1-1
 topcom 1.1.2-1
-tor 0.4.8.10-1
+tor 0.4.8.10-2
 torbrowser-launcher 0.3.7-1
 torchvision 0.17.0-1
 torrential 2.0.1-2
@@ -10806,7 +10805,7 @@ touchegg 2.0.17-1
 towncrier 22.12.0-3
 toxcore 1:0.2.18-4
 toxic 0.11.3-4
-tp_smapi 0.44-37
+tp_smapi 0.44-38
 tp_smapi-lts 0.44-13
 tpacpi-bat 3.2-1
 tpm2-abrmd 3.0.0-1
@@ -10999,7 +10998,7 @@ usbmuxd 1.1.1-3
 usbredir 0.13.0-1
 usbutils 017-1
 usbview 3.0-3
-usd 23.11-12
+usd 23.11-13
 usleep 1.0-6
 usort 1.0.4-3
 utf8cpp 4.0.5-1
@@ -11010,7 +11009,7 @@ uucp 1.07-7
 uudeview 20230502-3
 uusi 0.4.3.0-27
 uutils-coreutils 0.0.24-1
-uv 0.1.12-1
+uv 0.1.13-1
 uvicorn 0.27.0.post1-1
 uwsgi 2.0.24-1
 uwsgitop 0.11-6
@@ -11036,7 +11035,7 @@ vapoursynth-plugin-lsmashsource 1:A.5b-2
 vapoursynth-plugin-mvtools 23-2
 variety 0.8.12-1
 varnish 7.4.2-1
-vault 1.15.5-1
+vault 1.15.6-1
 vaultwarden 1.30.3-1
 vaultwarden-web 2024.1.2-4
 vbam 2.1.9-1
@@ -11057,7 +11056,7 @@ vegeta 12.11.1-1
 veracrypt 1.25.9-4
 verdict 1.4.2-1
 verilator 5.020-1
-vhba-module 20240202-3
+vhba-module 20240202-4
 vhs 0.7.1-1
 vi 1:070224-6
 vice 3.8-1
@@ -11113,7 +11112,7 @@ virt-what 1.25-1
 virtiofsd 1.10.1-1
 virtualbox 7.0.14-2
 virtualbox-guest-iso 7.0.14-1
-virtualbox-host-modules-arch 7.0.14-9
+virtualbox-host-modules-arch 7.0.14-10
 virtualgl 3.1-4
 vis 0.8-2
 visidata 3.0.2-1
@@ -11188,7 +11187,7 @@ wavegain 1.3.1-4
 wavemon 0.9.5-1
 wavpack 5.6.0-1
 waybar 0.9.24-3
-waycheck 1.1.0-1
+waycheck 1.1.1-1
 wayland 1.22.0-1
 wayland-protocols 1.33-1
 wayland-utils 1.2.0-1
