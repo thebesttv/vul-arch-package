@@ -1,0 +1,16 @@
+{
+  "name": "ruff",
+  "version": "0.3.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo",
+    "maturin",
+    "python-installer"
+  ],
+  "receive": 199870384,
+  "transmit": 425676,
+  "disk": 26672690
+}
