@@ -1,0 +1,19 @@
+{
+  "name": "python-cattrs",
+  "version": "23.2.3-1",
+  "depends": [
+    "python",
+    "python-exceptiongroup",
+    "python-attrs"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-hatch-vcs",
+    "python-hatchling"
+  ],
+  "receive": 199907076,
+  "transmit": 433837,
+  "disk": 1936249
+}
