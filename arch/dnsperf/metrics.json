@@ -1,0 +1,13 @@
+{
+  "name": "dnsperf",
+  "version": "2.11.2-2",
+  "depends": [
+    "ldns",
+    "libck",
+    "libnghttp2"
+  ],
+  "makedepends": [],
+  "receive": 199651477,
+  "transmit": 331627,
+  "disk": 2581437
+}
