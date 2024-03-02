@@ -1,0 +1,12 @@
+{
+  "name": "v2ray-domain-list-community",
+  "version": "20240301033006-1",
+  "depends": [],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 200227979,
+  "transmit": 368192,
+  "disk": 20214961
+}
