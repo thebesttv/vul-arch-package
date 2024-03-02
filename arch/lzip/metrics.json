@@ -1,0 +1,11 @@
+{
+  "name": "lzip",
+  "version": "1.24.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199719541,
+  "transmit": 410118,
+  "disk": 669643
+}
