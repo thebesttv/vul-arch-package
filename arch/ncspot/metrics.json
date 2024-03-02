@@ -1,0 +1,21 @@
+{
+  "name": "ncspot",
+  "version": "0.13.3-1",
+  "depends": [
+    "openssl",
+    "libpulse",
+    "libxcb",
+    "dbus",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cargo",
+    "python",
+    "pkgconf",
+    "ueberzug",
+    "pandoc-cli"
+  ],
+  "receive": 200633849,
+  "transmit": 860379,
+  "disk": 1098541
+}
