@@ -1,0 +1,14 @@
+{
+  "name": "hevea",
+  "version": "2.36-2",
+  "depends": [
+    "texlive-bin"
+  ],
+  "makedepends": [
+    "ocaml",
+    "ocamlbuild"
+  ],
+  "receive": 199752342,
+  "transmit": 411772,
+  "disk": 3751762
+}
