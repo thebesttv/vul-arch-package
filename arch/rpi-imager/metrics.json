@@ -1,0 +1,24 @@
+{
+  "name": "rpi-imager",
+  "version": "1.8.5-3",
+  "depends": [
+    "curl",
+    "gcc-libs",
+    "glibc",
+    "gnutls",
+    "hicolor-icon-theme",
+    "libarchive",
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-quickcontrols2",
+    "xz"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools",
+    "qt5-svg"
+  ],
+  "receive": 201388554,
+  "transmit": 405493,
+  "disk": 87355352
+}
