@@ -1,0 +1,14 @@
+{
+  "name": "cxxbridge",
+  "version": "1.0.118-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199621867,
+  "transmit": 298674,
+  "disk": 2754535
+}
