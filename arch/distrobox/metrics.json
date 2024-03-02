@@ -1,0 +1,11 @@
+{
+  "name": "distrobox",
+  "version": "1.7.0-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [],
+  "receive": 199796640,
+  "transmit": 419138,
+  "disk": 14373745
+}
