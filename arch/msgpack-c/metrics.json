@@ -1,0 +1,15 @@
+{
+  "name": "msgpack-c",
+  "version": "5.0.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "graphviz"
+  ],
+  "receive": 199614261,
+  "transmit": 274978,
+  "disk": 564952
+}
