@@ -1,0 +1,17 @@
+{
+  "name": "python-pysmt",
+  "version": "0.9.5-3",
+  "depends": [
+    "python",
+    "python-z3-solver"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199695373,
+  "transmit": 324527,
+  "disk": 4090735
+}
