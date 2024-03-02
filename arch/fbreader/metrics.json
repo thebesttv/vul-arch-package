@@ -1,0 +1,16 @@
+{
+  "name": "fbreader",
+  "version": "0.99.4-14",
+  "depends": [
+    "fribidi",
+    "bzip2",
+    "curl",
+    "qt5-base",
+    "libunibreak",
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 199904302,
+  "transmit": 499523,
+  "disk": 12750874
+}
