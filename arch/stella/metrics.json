@@ -1,0 +1,14 @@
+{
+  "name": "stella",
+  "version": "6.7.1-1",
+  "depends": [
+    "sdl2",
+    "gtk-update-icon-cache"
+  ],
+  "makedepends": [
+    "glu"
+  ],
+  "receive": 199790202,
+  "transmit": 376809,
+  "disk": 77190013
+}
