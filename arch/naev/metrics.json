@@ -1,0 +1,33 @@
+{
+  "name": "naev",
+  "version": "0.11.3-3",
+  "depends": [
+    "glu",
+    "openal",
+    "libvorbis",
+    "sdl2",
+    "sdl2_image",
+    "sdl2_mixer",
+    "libgl",
+    "libxml2",
+    "freetype2",
+    "libpng",
+    "libzip",
+    "luajit",
+    "glpk",
+    "physfs",
+    "libunibreak",
+    "suitesparse",
+    "cblas"
+  ],
+  "makedepends": [
+    "freeglut",
+    "zip",
+    "meson",
+    "git",
+    "python-yaml"
+  ],
+  "receive": 655315361,
+  "transmit": 649417,
+  "disk": 988041587
+}
