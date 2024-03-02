@@ -1,0 +1,11 @@
+{
+  "name": "libck",
+  "version": "0.7.1-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199578629,
+  "transmit": 279152,
+  "disk": 2567156
+}
