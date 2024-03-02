@@ -1,0 +1,19 @@
+{
+  "name": "python-jsonschema-objects",
+  "version": "0.5.3-1",
+  "depends": [
+    "python-inflection",
+    "python-markdown",
+    "python-jsonschema",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199602877,
+  "transmit": 281494,
+  "disk": 503713
+}
