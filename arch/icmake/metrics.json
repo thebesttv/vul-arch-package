@@ -1,0 +1,15 @@
+{
+  "name": "icmake",
+  "version": "10.03.03-2",
+  "depends": [
+    "libbobcat",
+    "libunwind"
+  ],
+  "makedepends": [
+    "icmake",
+    "yodl"
+  ],
+  "receive": 199721260,
+  "transmit": 427695,
+  "disk": 2296858
+}
