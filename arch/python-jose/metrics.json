@@ -1,0 +1,19 @@
+{
+  "name": "python-jose",
+  "version": "3.3.0-5",
+  "depends": [
+    "python-rsa",
+    "python-six",
+    "python-ecdsa",
+    "python-future"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199589810,
+  "transmit": 248551,
+  "disk": 773471
+}
