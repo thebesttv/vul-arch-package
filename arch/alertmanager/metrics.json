@@ -1,0 +1,14 @@
+{
+  "name": "alertmanager",
+  "version": "0.27.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199824900,
+  "transmit": 452928,
+  "disk": 11196972
+}
