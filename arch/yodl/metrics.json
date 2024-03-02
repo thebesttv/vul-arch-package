@@ -1,0 +1,13 @@
+{
+  "name": "yodl",
+  "version": "4.03.03-4",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "icmake"
+  ],
+  "receive": 199706192,
+  "transmit": 398000,
+  "disk": 1673130
+}
