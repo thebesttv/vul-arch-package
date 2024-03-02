@@ -1,0 +1,17 @@
+{
+  "name": "python-clarabel",
+  "version": "0.7.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-maturin",
+    "rust"
+  ],
+  "receive": 199602710,
+  "transmit": 265546,
+  "disk": 973587
+}
