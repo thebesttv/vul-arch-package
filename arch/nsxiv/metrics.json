@@ -1,0 +1,18 @@
+{
+  "name": "nsxiv",
+  "version": "32-4",
+  "depends": [
+    "glibc",
+    "imlib2",
+    "libx11",
+    "libxft",
+    "fontconfig",
+    "freetype2",
+    "libexif",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [],
+  "receive": 199609533,
+  "transmit": 279590,
+  "disk": 440363
+}
