@@ -1,0 +1,13 @@
+{
+  "name": "hepmc2",
+  "version": "2.06.11-4",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 200847079,
+  "transmit": 290236,
+  "disk": 18081859
+}
