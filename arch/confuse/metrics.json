@@ -1,0 +1,11 @@
+{
+  "name": "confuse",
+  "version": "3.3-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199658454,
+  "transmit": 317368,
+  "disk": 4441242
+}
