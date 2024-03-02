@@ -1,0 +1,14 @@
+{
+  "name": "openui5",
+  "version": "1.108.2-2",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "jq",
+    "npm"
+  ],
+  "receive": 249752897,
+  "transmit": 1101792,
+  "disk": 108103067
+}
