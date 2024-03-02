@@ -1,0 +1,32 @@
+{
+  "name": "fastfetch",
+  "version": "2.8.7-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "chafa",
+    "cmake",
+    "dbus",
+    "dconf",
+    "ddcutil",
+    "directx-headers",
+    "imagemagick",
+    "libnm",
+    "libpulse",
+    "libxcb",
+    "libxrandr",
+    "mesa",
+    "ocl-icd",
+    "opencl-headers",
+    "pciutils",
+    "vulkan-headers",
+    "vulkan-icd-loader",
+    "wayland",
+    "xfconf",
+    "zlib"
+  ],
+  "receive": 199666587,
+  "transmit": 264562,
+  "disk": 6006107
+}
