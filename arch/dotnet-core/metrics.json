@@ -1,0 +1,29 @@
+{
+  "name": "dotnet-core",
+  "version": "8.0.2.sdk102-1",
+  "depends": [],
+  "makedepends": [
+    "bash",
+    "clang",
+    "cmake",
+    "dotnet-sdk",
+    "dotnet-source-built-artifacts",
+    "git",
+    "icu",
+    "inetutils",
+    "krb5",
+    "libgit2",
+    "libunwind",
+    "libxml2",
+    "lldb",
+    "llvm",
+    "lttng-ust2.12",
+    "nodejs",
+    "openssl",
+    "systemd",
+    "zlib"
+  ],
+  "receive": 1322450816,
+  "transmit": 629343,
+  "disk": 3515870259
+}
