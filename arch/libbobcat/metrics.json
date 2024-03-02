@@ -1,0 +1,17 @@
+{
+  "name": "libbobcat",
+  "version": "6.02.02-2",
+  "depends": [
+    "openssl",
+    "libx11",
+    "readline"
+  ],
+  "makedepends": [
+    "icmake>=9.03.01",
+    "libmilter",
+    "yodl"
+  ],
+  "receive": 199827574,
+  "transmit": 428413,
+  "disk": 5655832
+}
