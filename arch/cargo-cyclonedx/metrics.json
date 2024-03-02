@@ -1,0 +1,15 @@
+{
+  "name": "cargo-cyclonedx",
+  "version": "0.5.0-1",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199657732,
+  "transmit": 320931,
+  "disk": 2988601
+}
