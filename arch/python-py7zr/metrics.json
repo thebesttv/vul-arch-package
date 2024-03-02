@@ -1,0 +1,26 @@
+{
+  "name": "python-py7zr",
+  "version": "0.21.0-1",
+  "depends": [
+    "python",
+    "python-brotli",
+    "python-brotlicffi",
+    "python-psutil",
+    "python-multivolumefile",
+    "python-pybcj",
+    "python-pycryptodomex",
+    "python-pyppmd",
+    "python-pyzstd",
+    "python-texttable",
+    "python-inflate64"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199624717,
+  "transmit": 252171,
+  "disk": 11515069
+}
