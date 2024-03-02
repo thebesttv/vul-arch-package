@@ -1,0 +1,21 @@
+{
+  "name": "borgmatic",
+  "version": "1.8.8-2",
+  "depends": [
+    "borg",
+    "python-colorama",
+    "python-jsonschema",
+    "python-requests",
+    "python-ruamel-yaml",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199920314,
+  "transmit": 494143,
+  "disk": 5731854
+}
