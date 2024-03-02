@@ -1,0 +1,13 @@
+{
+  "name": "mirro-rs",
+  "version": "0.2.3-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199683272,
+  "transmit": 336338,
+  "disk": 983378
+}
