@@ -1,0 +1,12 @@
+{
+  "name": "radcli",
+  "version": "1.3.0-2",
+  "depends": [
+    "nettle",
+    "gnutls"
+  ],
+  "makedepends": [],
+  "receive": 199614151,
+  "transmit": 282580,
+  "disk": 3274897
+}
