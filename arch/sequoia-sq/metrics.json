@@ -1,0 +1,25 @@
+{
+  "name": "sequoia-sq",
+  "version": "0.34.0-1",
+  "depends": [
+    "bzip2",
+    "libbz2.so",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "nettle",
+    "libnettle.so",
+    "libhogweed.so",
+    "openssl",
+    "sqlite"
+  ],
+  "makedepends": [
+    "capnproto",
+    "cargo",
+    "clang",
+    "git"
+  ],
+  "receive": 199689662,
+  "transmit": 372974,
+  "disk": 3716929
+}
