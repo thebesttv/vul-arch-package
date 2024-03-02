@@ -1,0 +1,19 @@
+{
+  "name": "davix",
+  "version": "0.8.4-3",
+  "depends": [
+    "openssl",
+    "libxml2",
+    "util-linux-libs"
+  ],
+  "makedepends": [
+    "doxygen",
+    "boost",
+    "cmake",
+    "git",
+    "python"
+  ],
+  "receive": 397066313,
+  "transmit": 1631105,
+  "disk": 242804533
+}
