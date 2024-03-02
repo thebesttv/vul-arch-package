@@ -1,0 +1,11 @@
+{
+  "name": "r8168-lts",
+  "version": "8.052.01-30",
+  "depends": [],
+  "makedepends": [
+    "linux-lts-headers"
+  ],
+  "receive": 199740977,
+  "transmit": 392864,
+  "disk": 2152791
+}
