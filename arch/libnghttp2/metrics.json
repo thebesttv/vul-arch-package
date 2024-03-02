@@ -1,0 +1,13 @@
+{
+  "name": "libnghttp2",
+  "version": "1.60.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 273671449,
+  "transmit": 773923,
+  "disk": 88365393
+}
