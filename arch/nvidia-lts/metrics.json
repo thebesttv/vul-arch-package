@@ -1,0 +1,12 @@
+{
+  "name": "nvidia-lts",
+  "version": "1:550.54.14-2",
+  "depends": [],
+  "makedepends": [
+    "linux-lts-headers",
+    "nvidia-dkms=550.54.14"
+  ],
+  "receive": 199625767,
+  "transmit": 271077,
+  "disk": 589275
+}
