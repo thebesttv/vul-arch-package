@@ -1,0 +1,25 @@
+{
+  "name": "openshadinglanguage",
+  "version": "1.13.7.0-1",
+  "depends": [
+    "boost-libs",
+    "openimageio",
+    "imath",
+    "freetype2",
+    "libpng",
+    "libtiff",
+    "zlib",
+    "ncurses",
+    "clang"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "python",
+    "llvm",
+    "ninja"
+  ],
+  "receive": 199737043,
+  "transmit": 319326,
+  "disk": 55697927
+}
