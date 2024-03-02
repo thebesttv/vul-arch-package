@@ -1,0 +1,11 @@
+{
+  "name": "fast_float",
+  "version": "6.1.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199746512,
+  "transmit": 400812,
+  "disk": 644234
+}
