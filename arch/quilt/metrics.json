@@ -1,0 +1,20 @@
+{
+  "name": "quilt",
+  "version": "0.67-2",
+  "depends": [
+    "bash",
+    "bzip2",
+    "diffstat",
+    "diffutils",
+    "findutils",
+    "gawk",
+    "gettext",
+    "gzip",
+    "patch",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199990651,
+  "transmit": 424665,
+  "disk": 1943087
+}
