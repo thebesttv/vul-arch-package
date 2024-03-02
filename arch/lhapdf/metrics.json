@@ -1,0 +1,13 @@
+{
+  "name": "lhapdf",
+  "version": "6.5.4-2",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "cython"
+  ],
+  "receive": 199792617,
+  "transmit": 429789,
+  "disk": 6011974
+}
