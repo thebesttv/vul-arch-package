@@ -1,0 +1,13 @@
+{
+  "name": "gflags",
+  "version": "2.2.2-5",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199754904,
+  "transmit": 370060,
+  "disk": 603885
+}
