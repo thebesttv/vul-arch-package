@@ -1,0 +1,16 @@
+{
+  "name": "perl-date-manip",
+  "version": "6.95-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-file-find-rule",
+    "perl-test-inter",
+    "perl-test-pod",
+    "perl-test-pod-coverage"
+  ],
+  "receive": 199573809,
+  "transmit": 255752,
+  "disk": 14422112
+}
