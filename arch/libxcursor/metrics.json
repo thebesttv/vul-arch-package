@@ -1,0 +1,18 @@
+{
+  "name": "libxcursor",
+  "version": "1.2.2-1",
+  "depends": [
+    "libxfixes",
+    "libxrender",
+    "default-cursors",
+    "libx11",
+    "glibc",
+    "xorgproto"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199652347,
+  "transmit": 297515,
+  "disk": 2301259
+}
