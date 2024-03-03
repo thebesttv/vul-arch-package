@@ -1,0 +1,14 @@
+{
+  "name": "php-igbinary",
+  "version": "3.2.15-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "php-legacy",
+    "php"
+  ],
+  "receive": 199732530,
+  "transmit": 411472,
+  "disk": 1448755
+}
