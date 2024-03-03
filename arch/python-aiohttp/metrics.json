@@ -1,0 +1,24 @@
+{
+  "name": "python-aiohttp",
+  "version": "3.9.3-1",
+  "depends": [
+    "python",
+    "python-aiosignal",
+    "python-attrs",
+    "python-frozenlist",
+    "python-multidict",
+    "python-yarl"
+  ],
+  "makedepends": [
+    "cython",
+    "git",
+    "npm",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199648587,
+  "transmit": 271949,
+  "disk": 61367014
+}
