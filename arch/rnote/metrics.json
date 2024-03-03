@@ -1,0 +1,22 @@
+{
+  "name": "rnote",
+  "version": "0.10.0-1",
+  "depends": [
+    "gtk4",
+    "glib2",
+    "libadwaita",
+    "poppler-glib",
+    "gstreamer",
+    "alsa-lib"
+  ],
+  "makedepends": [
+    "meson",
+    "cargo",
+    "cmake",
+    "clang",
+    "git"
+  ],
+  "receive": 199835951,
+  "transmit": 482384,
+  "disk": 86002179
+}
