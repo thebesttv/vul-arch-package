@@ -1,0 +1,18 @@
+{
+  "name": "openjpeg2",
+  "version": "2.5.2-1",
+  "depends": [
+    "libpng",
+    "libtiff",
+    "lcms2",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "graphviz"
+  ],
+  "receive": 199623359,
+  "transmit": 286306,
+  "disk": 11171788
+}
