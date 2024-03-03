@@ -1,0 +1,15 @@
+{
+  "name": "php-memcached",
+  "version": "3.2.0-5",
+  "depends": [
+    "libmemcached"
+  ],
+  "makedepends": [
+    "php",
+    "php-legacy",
+    "git"
+  ],
+  "receive": 199643668,
+  "transmit": 298321,
+  "disk": 2698539
+}
