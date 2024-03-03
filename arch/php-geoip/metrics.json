@@ -1,0 +1,14 @@
+{
+  "name": "php-geoip",
+  "version": "1.1.1-12",
+  "depends": [
+    "geoip"
+  ],
+  "makedepends": [
+    "php",
+    "php-legacy"
+  ],
+  "receive": 199609015,
+  "transmit": 257212,
+  "disk": 185994
+}
