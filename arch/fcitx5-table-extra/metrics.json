@@ -1,0 +1,14 @@
+{
+  "name": "fcitx5-table-extra",
+  "version": "5.1.4-1",
+  "depends": [
+    "fcitx5-chinese-addons"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "boost"
+  ],
+  "receive": 207529610,
+  "transmit": 602358,
+  "disk": 36940529
+}
