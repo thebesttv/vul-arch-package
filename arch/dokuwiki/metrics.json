@@ -1,0 +1,11 @@
+{
+  "name": "dokuwiki",
+  "version": "20240206_a-2",
+  "depends": [
+    "php-interpreter"
+  ],
+  "makedepends": [],
+  "receive": 199641755,
+  "transmit": 270535,
+  "disk": 24388423
+}
