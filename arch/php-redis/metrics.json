@@ -1,0 +1,15 @@
+{
+  "name": "php-redis",
+  "version": "6.0.2-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "liblzf",
+    "php-igbinary",
+    "php-legacy-igbinary"
+  ],
+  "receive": 199764882,
+  "transmit": 421177,
+  "disk": 2671349
+}
