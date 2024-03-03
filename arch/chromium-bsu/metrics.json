@@ -1,0 +1,17 @@
+{
+  "name": "chromium-bsu",
+  "version": "0.9.16.1-2",
+  "depends": [
+    "freeglut",
+    "glu",
+    "sdl2_image",
+    "openal",
+    "freealut",
+    "ftgl",
+    "fontconfig"
+  ],
+  "makedepends": [],
+  "receive": 199645374,
+  "transmit": 313290,
+  "disk": 5847451
+}
