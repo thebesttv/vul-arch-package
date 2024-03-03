@@ -1,0 +1,17 @@
+{
+  "name": "pahole",
+  "version": "1:1.26-1",
+  "depends": [],
+  "makedepends": [
+    "bash",
+    "cmake",
+    "libelf",
+    "ninja",
+    "python",
+    "python-matplotlib",
+    "zlib"
+  ],
+  "receive": 199789237,
+  "transmit": 409941,
+  "disk": 9269557
+}
