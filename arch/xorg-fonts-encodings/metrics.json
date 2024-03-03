@@ -1,0 +1,14 @@
+{
+  "name": "xorg-fonts-encodings",
+  "version": "1.1.0-1",
+  "depends": [],
+  "makedepends": [
+    "xorg-mkfontscale",
+    "xorg-util-macros",
+    "xorg-font-util",
+    "meson"
+  ],
+  "receive": 199662109,
+  "transmit": 353602,
+  "disk": 2830116
+}
