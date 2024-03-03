@@ -1,0 +1,12 @@
+{
+  "name": "php-memcache",
+  "version": "8.2-4",
+  "depends": [],
+  "makedepends": [
+    "php",
+    "php-legacy"
+  ],
+  "receive": 199882525,
+  "transmit": 436211,
+  "disk": 594402
+}
