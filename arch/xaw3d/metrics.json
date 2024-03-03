@@ -1,0 +1,18 @@
+{
+  "name": "xaw3d",
+  "version": "1.6.6-1",
+  "depends": [
+    "libxmu",
+    "libx11",
+    "libxt",
+    "libxext",
+    "glibc",
+    "xorgproto"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199581947,
+  "transmit": 275722,
+  "disk": 3962059
+}
