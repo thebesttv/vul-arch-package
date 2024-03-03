@@ -1,0 +1,23 @@
+{
+  "name": "gcr-4",
+  "version": "4.2.1-1",
+  "depends": [
+    "glib2",
+    "libgcrypt",
+    "libsecret",
+    "openssh",
+    "p11-kit",
+    "systemd"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "gtk4",
+    "meson",
+    "vala"
+  ],
+  "receive": 199772452,
+  "transmit": 402606,
+  "disk": 12338961
+}
