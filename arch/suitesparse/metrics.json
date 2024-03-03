@@ -1,0 +1,19 @@
+{
+  "name": "suitesparse",
+  "version": "7.6.1-1",
+  "depends": [
+    "blas",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "lapack",
+    "mpfr"
+  ],
+  "makedepends": [
+    "cmake",
+    "gcc-fortran"
+  ],
+  "receive": 287834777,
+  "transmit": 1205971,
+  "disk": 335624330
+}
