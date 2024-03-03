@@ -1,0 +1,15 @@
+{
+  "name": "python-dict2xml",
+  "version": "1.7.5-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling"
+  ],
+  "receive": 199804745,
+  "transmit": 433558,
+  "disk": 197524
+}
