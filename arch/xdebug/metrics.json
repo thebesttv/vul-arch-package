@@ -1,0 +1,11 @@
+{
+  "name": "xdebug",
+  "version": "3.3.1-2",
+  "depends": [
+    "php"
+  ],
+  "makedepends": [],
+  "receive": 199609348,
+  "transmit": 297812,
+  "disk": 1713103
+}
