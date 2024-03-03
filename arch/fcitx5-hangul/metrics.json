@@ -1,0 +1,14 @@
+{
+  "name": "fcitx5-hangul",
+  "version": "5.1.2-1",
+  "depends": [
+    "fcitx5",
+    "libhangul"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199629179,
+  "transmit": 283827,
+  "disk": 340083
+}
