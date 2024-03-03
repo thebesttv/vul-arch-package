@@ -1,0 +1,18 @@
+{
+  "name": "python-libtmux",
+  "version": "0.32.0-1",
+  "depends": [
+    "python",
+    "python-typing_extensions",
+    "tmux"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 199698747,
+  "transmit": 335988,
+  "disk": 1203839
+}
