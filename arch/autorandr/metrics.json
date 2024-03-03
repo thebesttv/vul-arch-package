@@ -1,0 +1,17 @@
+{
+  "name": "autorandr",
+  "version": "1.15-1",
+  "depends": [
+    "python",
+    "xorg-xdpyinfo",
+    "xorg-xrandr"
+  ],
+  "makedepends": [
+    "bash-completion",
+    "desktop-file-utils",
+    "systemd"
+  ],
+  "receive": 199739787,
+  "transmit": 442174,
+  "disk": 379585
+}
