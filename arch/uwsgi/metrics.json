@@ -1,0 +1,29 @@
+{
+  "name": "uwsgi",
+  "version": "2.0.24-2",
+  "depends": [],
+  "makedepends": [
+    "jansson",
+    "libxcrypt",
+    "libxml2",
+    "lua51",
+    "mono",
+    "openssl",
+    "pam",
+    "pcre",
+    "perl",
+    "php-embed",
+    "php-legacy-embed",
+    "pypy",
+    "python",
+    "python-gevent",
+    "python-greenlet",
+    "ruby",
+    "systemd",
+    "util-linux",
+    "zlib"
+  ],
+  "receive": 199782595,
+  "transmit": 306094,
+  "disk": 5448366
+}
