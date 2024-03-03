@@ -1,0 +1,11 @@
+{
+  "name": "php-snuffleupagus",
+  "version": "0.10.0-4",
+  "depends": [
+    "php"
+  ],
+  "makedepends": [],
+  "receive": 212365923,
+  "transmit": 645603,
+  "disk": 25883622
+}
