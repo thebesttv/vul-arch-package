@@ -1,0 +1,15 @@
+{
+  "name": "tpm2-tools",
+  "version": "5.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "curl",
+    "openssl",
+    "tpm2-tss"
+  ],
+  "receive": 199600142,
+  "transmit": 304524,
+  "disk": 8496899
+}
