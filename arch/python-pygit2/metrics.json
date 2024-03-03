@@ -1,0 +1,23 @@
+{
+  "name": "python-pygit2",
+  "version": "1.14.1-2",
+  "depends": [
+    "libgit2.so",
+    "python-cffi",
+    "python-six",
+    "python-cached-property"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-cffi",
+    "python-installer",
+    "python-setuptools",
+    "git",
+    "python-six",
+    "python-wheel"
+  ],
+  "receive": 199597706,
+  "transmit": 239387,
+  "disk": 2967108
+}
