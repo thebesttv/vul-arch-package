@@ -1,0 +1,19 @@
+{
+  "name": "libxcb",
+  "version": "1.16.1-1",
+  "depends": [
+    "xcb-proto",
+    "libxdmcp",
+    "libxau",
+    "glibc"
+  ],
+  "makedepends": [
+    "libxslt",
+    "python",
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199796492,
+  "transmit": 461136,
+  "disk": 3459387
+}
