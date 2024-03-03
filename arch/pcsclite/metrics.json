@@ -1,0 +1,16 @@
+{
+  "name": "pcsclite",
+  "version": "2.0.2-1",
+  "depends": [
+    "libsystemd.so",
+    "libudev.so",
+    "libpolkit-gobject-1.so"
+  ],
+  "makedepends": [
+    "systemd",
+    "polkit"
+  ],
+  "receive": 199741831,
+  "transmit": 403503,
+  "disk": 5616905
+}
