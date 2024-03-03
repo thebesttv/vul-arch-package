@@ -1,0 +1,13 @@
+{
+  "name": "biodiff",
+  "version": "1.1.0-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199655750,
+  "transmit": 341296,
+  "disk": 523461
+}
