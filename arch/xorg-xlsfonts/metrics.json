@@ -1,0 +1,14 @@
+{
+  "name": "xorg-xlsfonts",
+  "version": "1.0.8-1",
+  "depends": [
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199779889,
+  "transmit": 361434,
+  "disk": 1028726
+}
