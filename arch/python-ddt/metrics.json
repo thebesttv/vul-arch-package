@@ -1,0 +1,13 @@
+{
+  "name": "python-ddt",
+  "version": "1.7.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199757749,
+  "transmit": 408477,
+  "disk": 222010
+}
