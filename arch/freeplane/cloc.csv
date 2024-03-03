@@ -1,0 +1,21 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=3.49 s (750.2 files/s 108053.2 lines/s)"
+1727,Java,24896,35440,156138
+67,Properties,193,170,79562
+638,SVG,12,263,28592
+38,Objective-C++,2109,0,26693
+24,Text,1094,0,5303
+34,XSLT,646,827,5104
+28,XML,6,5,2846
+2,JSON,0,0,1821
+29,Gradle,304,102,1686
+2,Groovy,92,58,878
+2,JavaScript,93,65,409
+4,HTML,16,1,318
+4,CSS,44,3,267
+9,INI,17,0,196
+3,Bourne Shell,32,21,189
+1,Markdown,107,0,138
+1,Perl,19,13,138
+3,DOS Batch,0,0,21
+1,Windows Resource File,1,0,2
+2617,SUM,29681,36968,310301
