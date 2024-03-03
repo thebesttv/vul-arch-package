@@ -1,0 +1,20 @@
+{
+  "name": "lighttpd",
+  "version": "1.4.74-1",
+  "depends": [
+    "pcre2",
+    "systemd",
+    "brotli"
+  ],
+  "makedepends": [
+    "mariadb-libs",
+    "lua",
+    "libxml2",
+    "e2fsprogs",
+    "sqlite",
+    "pkgconfig"
+  ],
+  "receive": 199725031,
+  "transmit": 286787,
+  "disk": 8853208
+}
