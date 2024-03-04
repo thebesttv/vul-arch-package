@@ -1,0 +1,19 @@
+{
+  "name": "elfutils",
+  "version": "0.191-1",
+  "depends": [],
+  "makedepends": [
+    "bzip2",
+    "curl",
+    "gcc-libs",
+    "libarchive",
+    "libmicrohttpd",
+    "sqlite",
+    "xz",
+    "zlib",
+    "zstd"
+  ],
+  "receive": 199674223,
+  "transmit": 273959,
+  "disk": 29724725
+}
