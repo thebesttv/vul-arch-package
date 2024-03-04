@@ -1,0 +1,14 @@
+{
+  "name": "mdadm",
+  "version": "4.3-2",
+  "depends": [
+    "glibc",
+    "systemd"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 206177444,
+  "transmit": 446539,
+  "disk": 9453507
+}
