@@ -1,0 +1,21 @@
+{
+  "name": "shadow",
+  "version": "4.14.6-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "acl",
+    "attr",
+    "audit",
+    "docbook-xsl",
+    "itstool",
+    "libcap",
+    "libxcrypt",
+    "libxslt",
+    "pam"
+  ],
+  "receive": 199768169,
+  "transmit": 295942,
+  "disk": 22620398
+}
