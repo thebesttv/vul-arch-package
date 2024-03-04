@@ -1,0 +1,17 @@
+{
+  "name": "xorg-mkfontscale",
+  "version": "1.2.3-1",
+  "depends": [
+    "freetype2",
+    "libfontenc",
+    "zlib",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xorgproto"
+  ],
+  "receive": 199585085,
+  "transmit": 274644,
+  "disk": 1148153
+}
