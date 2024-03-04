@@ -1,0 +1,21 @@
+{
+  "name": "aarch64-linux-gnu-gdb",
+  "version": "14.2-1",
+  "depends": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile",
+    "gdb-common",
+    "mpfr",
+    "libelf",
+    "source-highlight"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 224321931,
+  "transmit": 705983,
+  "disk": 237303867
+}
