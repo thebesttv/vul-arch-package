@@ -1,0 +1,16 @@
+{
+  "name": "verilator",
+  "version": "5.022-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "help2man",
+    "python",
+    "systemc",
+    "lsb-release"
+  ],
+  "receive": 199742828,
+  "transmit": 367461,
+  "disk": 48923613
+}
