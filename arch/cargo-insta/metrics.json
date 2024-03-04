@@ -1,0 +1,12 @@
+{
+  "name": "cargo-insta",
+  "version": "1.36.1-1",
+  "depends": [
+    "gcc-libs",
+    "cargo"
+  ],
+  "makedepends": [],
+  "receive": 199773903,
+  "transmit": 410691,
+  "disk": 247713
+}
