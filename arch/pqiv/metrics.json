@@ -1,0 +1,41 @@
+{
+  "name": "pqiv",
+  "version": "2.13-1",
+  "depends": [
+    "at-spi2-core",
+    "libatk-1.0.so",
+    "cairo",
+    "libcairo.so",
+    "libcairo-gobject.so",
+    "gdk-pixbuf2",
+    "libgdk_pixbuf-2.0.so",
+    "glib2",
+    "libgio-2.0.so",
+    "libglib-2.0.so",
+    "libgobject-2.0.so",
+    "libgmodule-2.0.so",
+    "glibc",
+    "gtk3",
+    "libgdk-3.so",
+    "libgtk-3.so",
+    "harfbuzz",
+    "libharfbuzz.so",
+    "libx11",
+    "pango",
+    "libpango-1.0.so",
+    "libpangocairo-1.0.so",
+    "zlib",
+    "libz.so"
+  ],
+  "makedepends": [
+    "ffmpeg",
+    "imagemagick",
+    "libarchive",
+    "libspectre",
+    "libwebp",
+    "poppler-glib"
+  ],
+  "receive": 199660896,
+  "transmit": 349378,
+  "disk": 830424
+}
