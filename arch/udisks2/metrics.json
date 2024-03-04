@@ -1,0 +1,32 @@
+{
+  "name": "udisks2",
+  "version": "2.10.1-4",
+  "depends": [],
+  "makedepends": [
+    "acl",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "gobject-introspection",
+    "gtk-doc",
+    "libatasmart",
+    "libblockdev",
+    "libblockdev-btrfs",
+    "libblockdev-crypto",
+    "libblockdev-fs",
+    "libblockdev-mdraid",
+    "libblockdev-loop",
+    "libblockdev-lvm",
+    "libblockdev-nvme",
+    "libblockdev-part",
+    "libblockdev-swap",
+    "libgudev",
+    "lvm2",
+    "polkit",
+    "systemd-libs",
+    "util-linux-libs"
+  ],
+  "receive": 201599248,
+  "transmit": 283346,
+  "disk": 25219501
+}
