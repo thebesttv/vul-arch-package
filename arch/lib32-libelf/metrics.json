@@ -1,0 +1,18 @@
+{
+  "name": "lib32-libelf",
+  "version": "0.191-1",
+  "depends": [
+    "lib32-bzip2",
+    "lib32-curl",
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "lib32-xz",
+    "lib32-zlib",
+    "lib32-zstd",
+    "libelf=0.191"
+  ],
+  "makedepends": [],
+  "receive": 209277808,
+  "transmit": 483089,
+  "disk": 29675493
+}
