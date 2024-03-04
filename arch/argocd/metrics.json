@@ -1,0 +1,15 @@
+{
+  "name": "argocd",
+  "version": "2.10.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "python",
+    "yarn"
+  ],
+  "receive": 221260496,
+  "transmit": 752271,
+  "disk": 70670146
+}
