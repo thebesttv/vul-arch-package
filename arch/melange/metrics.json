@@ -1,0 +1,16 @@
+{
+  "name": "melange",
+  "version": "0.6.6-1",
+  "depends": [
+    "alpine-keyring",
+    "apk-tools",
+    "bubblewrap",
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199746953,
+  "transmit": 394522,
+  "disk": 5916984
+}
