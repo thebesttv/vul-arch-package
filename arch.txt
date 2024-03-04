@@ -10,7 +10,7 @@ a52dec 0.8.0-2
 aalib 1.4rc5-17
 aarch64-linux-gnu-binutils 2.42-1
 aarch64-linux-gnu-gcc 13.2.0-1
-aarch64-linux-gnu-gdb 14.1-1
+aarch64-linux-gnu-gdb 14.2-1
 aarch64-linux-gnu-glibc 2.38-1
 aarch64-linux-gnu-linux-api-headers 6.0-1
 aardvark-dns 1.10.0-1
@@ -204,7 +204,7 @@ arduino-ctags 5.8_arduino11-4
 arduino-docs 1.6.6-8
 arduino-language-server 0.7.6-1
 argbash 2.10.0-2
-argocd 2.10.1-1
+argocd 2.10.2-1
 argon2 20190702-5
 argparse 3.0-2
 argtable 2.13-5
@@ -218,7 +218,7 @@ arj 3.10.22-13
 ark 23.08.5-1
 arm-none-eabi-binutils 2.42-1
 arm-none-eabi-gcc 13.2.0-2
-arm-none-eabi-gdb 14.1-1
+arm-none-eabi-gdb 14.2-1
 arm-none-eabi-newlib 4.3.0.20230120-1
 armagetronad 0.2.9.1.1-2
 arp-scan 1.10.0-4
@@ -316,7 +316,7 @@ avogadro-molecules 1.99.0-1
 avogadrolibs 1.99.0-1
 avr-binutils 2.42-2
 avr-gcc 13.2.0-2
-avr-gdb 13.2-1
+avr-gdb 14.2-1
 avr-libc 2.1.0-3
 avrdude 1:7.3-1
 awesome 4.3-3
@@ -627,7 +627,7 @@ cargo-geiger 0.11.7-2
 cargo-generate 0.19.0-2
 cargo-generate-rpm 0.14.0-1
 cargo-hack 0.6.20-1
-cargo-insta 1.35.1-2
+cargo-insta 1.36.1-1
 cargo-license 0.6.1-1
 cargo-llvm-cov 0.6.6-1
 cargo-machete 0.6.1-1
@@ -643,7 +643,7 @@ cargo-release 0.25.6-1
 cargo-run-bin 1.7.2-2
 cargo-semver-checks 0.29.1-1
 cargo-show-asm 0.2.30-1
-cargo-shuttle 0.39.0-1
+cargo-shuttle 0.40.0-1
 cargo-sort 1.0.9-1
 cargo-spellcheck 0.13.2-1
 cargo-supply-chain 0.3.2-1
@@ -939,7 +939,7 @@ cryfs 0.11.4-5
 crypto++ 8.9.0-1
 cryptol 3.0.0-44
 cryptominisat 5.11.21-1
-cryptsetup 2.7.0-1
+cryptsetup 2.7.0-3
 crystal 1.11.2-1
 cscope 15.9-2
 csfml 2.6.0-1
@@ -1357,7 +1357,7 @@ ecryptfs-utils 111-8
 ed 1.20.1-1
 edac-utils 0.18-3
 editline 1.17.1-3
-editorconfig-checker 2.8.0-1
+editorconfig-checker 3.0.0-1
 editorconfig-core-c 0.12.6-1
 edk2 202311-1
 efibootmgr 18-2
@@ -1372,12 +1372,12 @@ eigen 3.4.0-2
 ejabberd 23.10-1
 eksctl 0.167.0-1
 electron 1:28-1
-electron22 22.3.27-4
-electron23 23.3.13-4
-electron25 25.9.8-4
-electron26 26.6.10-2
-electron27 27.3.4-2
-electron28 28.2.5-1
+electron22 22.3.27-5
+electron23 23.3.13-5
+electron25 25.9.8-5
+electron26 26.6.10-3
+electron27 27.3.4-3
+electron28 28.2.5-2
 electron29 29.1.1-1
 electrum 4.5.2-1
 element 0.46.6-1
@@ -1388,7 +1388,7 @@ elephantdsp-roomreverb 1.1.0-1
 elf2nucleus 0.1.0-1
 elf2uf2-rs 2.0.0-1
 elfkickers 3.2-4
-elfutils 0.190-2
+elfutils 0.191-1
 elinks 0.17.0-1
 elisa 23.08.5-1
 elixir 1.16.1-1
@@ -1409,7 +1409,7 @@ emby-theater 3.0.19-3
 emovix 0.9.0-8
 emptyepsilon 2023.06.17-2
 emscripten 3.1.53-1
-enblend-enfuse 4.2.r1526+hc6b17c386f40-1
+enblend-enfuse 4.2.r1546+hb66125418f7d-2
 enca 1.19-5
 encfs 1.9.5-7
 enchant 2.6.5-1
@@ -1623,9 +1623,9 @@ firecracker 1.5.0-1
 firefox 123.0-1
 firefox-adblock-plus 3.17.1-1
 firefox-decentraleyes 2.0.18-1
-firefox-developer-edition 124.0b6-1
+firefox-developer-edition 124.0b7-1
 firefox-developer-edition-i18n 124.0b6-1
-firefox-extension-mailvelope 5.1.1-1
+firefox-extension-mailvelope 5.1.2-1
 firefox-extension-passff 1.16.0-1
 firefox-i18n 123.0-1
 firefox-noscript 11.4.29-1
@@ -1762,7 +1762,7 @@ fx 31.0.0-1
 fzf 0.46.1-1
 fzy 1.0-2
 g2reverb 0.7.1-6
-gajim 1.8.4-1
+gajim 1.8.4-2
 gala 7.1.3-1
 galculator 2.1.4-8
 galera 26.4.16-1
@@ -1793,7 +1793,7 @@ gcr 3.41.2-1
 gcr-4 4.2.1-1
 gd 2.3.3-7
 gdal 3.8.4-1
-gdb 14.1-1
+gdb 14.2-1
 gdb-dashboard 0.17.2-1
 gdbm 1.23-2
 gdk-pixbuf-xlib 2.40.2-2
@@ -1867,7 +1867,7 @@ git-absorb 0.6.12-1
 git-annex 10.20240129-3
 git-branchless 0.8.0-1
 git-bug 0.8.0-1
-git-cliff 2.0.4-2
+git-cliff 2.1.2-1
 git-credential-gopass 1.15.5-1
 git-crypt 0.7.0-2
 git-delta 0.16.5-1
@@ -3640,7 +3640,7 @@ impacket 0.9.24-4
 imv 4.4.0-4
 imvirt 0.9.6-10
 imwheel 1.0.0pre12-6
-in-toto 1.2.0-3
+in-toto 1.2.0-4
 inadyn 2.12.0-1
 incidenceeditor 23.08.5-1
 incron 0.5.12-5
@@ -3964,7 +3964,7 @@ kexi 3.2.0-5
 keybase 6.0.2-4
 keybinder2 0.3.1-4
 keychain 2.8.5-2
-keycloak 23.0.7-1
+keycloak 24.0.0-1
 keycloak-archlinux-theme 1.4.0-1
 keycloak-hcaptcha 1.0.1-2
 keycloak-metrics-spi 4.0.0-1
@@ -4071,7 +4071,7 @@ knotes 23.08.5-1
 knotifications5 5.115.0-1
 knotifyconfig5 5.115.0-1
 ko 0.15.1-1
-kodi 20.4-1
+kodi 20.5-1
 kodi-addon-audioencoder-flac 1:20.2.0-8
 kodi-addon-audioencoder-lame 1:20.3.0-8
 kodi-addon-audioencoder-vorbis 1:20.2.0-8
@@ -4191,7 +4191,7 @@ kubeone 1.7.0-1
 kubernetes 1.29.2-1
 kubeseal 0.24.4-1
 kubie 0.23.0-1
-kubo 0.26.0-1
+kubo 0.27.0-1
 kubrick 23.08.5-1
 kuickshow 0.10.2-2
 kunitconversion5 5.115.0-1
@@ -4246,7 +4246,7 @@ lazygit 0.40.2-1
 lbreakout2 2.6.5-3
 lbzip2 2.5-5
 lcalc 2.0.5-2
-lcdproc 0.5.9-8
+lcdproc 0.5.9-9
 lcms2 2.16-1
 lcov 2.0-3
 ld-lsb 3-8
@@ -4350,7 +4350,7 @@ lib32-libdbusmenu 16.04.0-5
 lib32-libdecor 0.2.2-1
 lib32-libdrm 2.4.119-1
 lib32-libdv 1.0.0-8
-lib32-libelf 0.190-1
+lib32-libelf 0.191-1
 lib32-libepoxy 1.5.10-1
 lib32-libevent 2.1.12-3
 lib32-libffi 3.4.6-1
@@ -4551,7 +4551,7 @@ libb2 0.98.1-2
 libb64 1.2.1-4
 libbf 2020.01.19-1
 libblastrampoline 5.8.0-1
-libblockdev 3.1.0-1
+libblockdev 3.1.0-2
 libbluray 1.3.4-1
 libbobcat 6.02.02-2
 libbpf 1.3.0-1
@@ -5396,7 +5396,7 @@ lutris 0.5.16-1
 lv2 1.18.10-1
 lv2file 0.95-2
 lv2lint 0.16.2-2
-lvm2 2.03.23-1
+lvm2 2.03.23-3
 lvtk 1.2.0-4
 lxappearance 0.6.3-4
 lxappearance-obconf 0.2.3-3
@@ -5579,7 +5579,7 @@ mcpp 2.7.2-8
 mcqd 1.0.0-3
 md4c 0.5.2-1
 mda.lv2 1.2.10-1
-mdadm 4.3-1
+mdadm 4.3-2
 mdbook 0.4.37-1
 mdbook-linkcheck 0.7.7-1
 mdcat 2.1.1-1
@@ -5602,7 +5602,7 @@ megaglest 3.13.0-8
 megaglest-data 3.13.0-3
 megatools 1.11.1+20230212-2
 meilisearch 1.6.2-1
-melange 0.6.5-1
+melange 0.6.6-1
 meld 3.22.1-1
 mellite 3.13.11-1
 memcached 1.6.21-1
@@ -5626,7 +5626,7 @@ meson-python 0.15.0-1
 messagelib 23.08.5-1
 metacity 3.50.0-3
 metalog 20230719-1
-metasploit 6.3.57-1
+metasploit 6.3.58-1
 meterbridge 0.9.3-3
 mfoc 0.10.7+38+gba072f1-1
 mg 20230501-1
@@ -5662,8 +5662,8 @@ minidlna 1.3.3-1
 minieap 0.93-1
 miniflux 2.0.51-1
 minikube 1.32.0-1
-minio 2024.02.26-1
-minio-client 2024.03.03-1
+minio 2024.03.03-2
+minio-client 2024.03.03-2
 minisat 2.2.1.20201216-1
 miniserve 0.26.0-1
 minisign 0.11-2
@@ -5682,7 +5682,7 @@ mixxx 2.4.0-1
 mjpegtools 2.2.1-2
 mk-configure 0.38.3-1
 mkcert 1.4.4-1
-mkinitcpio 37.3-1
+mkinitcpio 38-3
 mkinitcpio-archiso 69-1
 mkinitcpio-busybox 1.36.1-1
 mkinitcpio-dropbear 0.0.3-7
@@ -5955,7 +5955,7 @@ nitrocli 0.4.1-2
 nitrogen 1.6.1-4
 nitrokey-app 1.4.2-1
 nitroshare 0.3.4-6
-nix 2.20.3-1
+nix 2.20.4-2
 nix-busybox 1.35.0-1
 njconnect 1.6-3
 nload 0.7.4-7
@@ -6035,7 +6035,7 @@ nvidia-lts 1:550.54.14-3
 nvidia-open 550.54.14-4
 nvidia-prime 1.0-4
 nvidia-settings 550.54.14-1
-nvidia-utils 550.54.14-2
+nvidia-utils 550.54.14-4
 nvme-cli 2.8-1
 nvmetcli 0.8-2
 nvtop 3.1.0-1
@@ -6139,7 +6139,7 @@ opendmarc 1.4.2-3
 opendoas 6.8.2-1
 openexr 3.2.2-1
 openfec 1.4.2.9-1
-openfire 4.8.0-1
+openfire 4.8.1-1
 openfortivpn 1.21.0-1
 openfpgaloader 0.11.0-1
 opengl-man-pages 20190725-3
@@ -6400,7 +6400,7 @@ pcre 8.45-4
 pcre2 10.42-2
 pcsc-perl 1.4.16-1
 pcsc-tools 1.7.1-1
-pcsclite 2.0.2-1
+pcsclite 2.0.3-1
 pd 0.54.1-1
 pd-gem 0.94-11
 pd-lua 0.11.6-1
@@ -6853,7 +6853,7 @@ perl-package-deprecationmanager 0.18-2
 perl-package-stash 0.40-3
 perl-package-stash-xs 0.30-2
 perl-padwalker 2.5-4
-perl-par 1.019-1
+perl-par 1.020-1
 perl-par-dist 0.52-2
 perl-par-packer 1.061-2
 perl-parallel-forkmanager 2.02-5
@@ -7270,9 +7270,9 @@ pps-tools 1.0.3-1
 ppsspp 1.16.6-1
 pptpclient 1.10.0-3
 pptpd 1.4.0-3
-pqiv 2.12-6
+pqiv 2.13-1
 pragha 1.3.4-6
-pre-commit 3.6.0-1
+pre-commit 3.6.2-1
 premake 5.0beta2-1
 premake3 3.7-5
 presage 0.9.1-2
@@ -7455,7 +7455,6 @@ python-annotated-types 0.6.0-1
 python-ansi2html 1.8.0-4
 python-ansible-compat 4.1.11-1
 python-ansicolor 0.3.2-5
-python-ansicolors 1.1.8-6
 python-antlr4 4.13.1-1
 python-anyascii 0.3.2-1
 python-anyio 4.3.0-1
@@ -7525,7 +7524,7 @@ python-babelfish 0.6.0-3
 python-barectf 3.1.1-3
 python-basemap 1.4.0-1
 python-bcrypt 4.1.2-1
-python-beaker 1.12.0-3
+python-beaker 1.12.0-4
 python-beautifulsoup4 4.12.2-1
 python-behave 1.2.7.dev3-1
 python-beniget 0.4.1-5
@@ -7825,7 +7824,7 @@ python-extension-helpers 1.1.0-1
 python-extras 1.0.0-11
 python-fabulous 0.4.0-4
 python-factory-boy 3.3.0-1
-python-faker 23.2.1-1
+python-faker 23.3.0-1
 python-fakeredis 2.21.1-1
 python-falcon 3.1.3-1
 python-fastapi 0.110.0-1
@@ -7848,7 +7847,7 @@ python-filetype 1.2.0-2
 python-findpython 0.4.1-1
 python-fints 4.0.0-1
 python-fiona 1.9.5-2
-python-fire 0.5.0-2
+python-fire 0.5.0-3
 python-fissix 21.11.13-2
 python-fixtures 4.1.0-2
 python-flake8-black 0.3.6-2
@@ -8103,8 +8102,8 @@ python-json-config 2.0.1-7
 python-json-logger 2.0.7-2
 python-json-rpc 1.13.0-3
 python-json-stream 2.3.2-2
-python-json-stream-rs-tokenizer 0.4.25-1
-python-json5 0.9.18-1
+python-json-stream-rs-tokenizer 0.4.26-1
+python-json5 0.9.19-1
 python-jsondiff 2.0.0-3
 python-jsonlines 4.0.0-1
 python-jsonmerge 1.9.2-1
@@ -8140,7 +8139,7 @@ python-keras-preprocessing 1.1.2-7
 python-keycloak 3.3.0-1
 python-keyring 24.3.0-1
 python-keyrings-alt 1:5.0.0-1
-python-keystoneauth1 5.5.0-1
+python-keystoneauth1 5.6.0-1
 python-keystoneclient 5.3.0-1
 python-keyutils 0.6-9
 python-kikit 1.4.0-1
@@ -8457,7 +8456,7 @@ python-pipenv 2023.12.1-1
 python-pipenv-to-requirements 0.9.0-8
 python-pipreqs 0.4.13-1
 python-pipx 1.4.3-1
-python-pivy 0.6.8-2
+python-pivy 0.6.9.a0-2
 python-pkgconfig 1.5.5-5
 python-pkginfo 1.9.6-2
 python-planout 0.6.0-9
@@ -8886,7 +8885,7 @@ python-sanic-routing 23.12.0-1
 python-sanic-testing 23.12.0-1
 python-sarif-om 1.0.4-5
 python-schedutils 0.6-12
-python-schema 0.7.5-3
+python-schema 0.7.5-4
 python-schemdraw 0.16-2
 python-scikit-build 0.17.6-2
 python-scikit-hep-testdata 0.4.25-2
@@ -9060,7 +9059,7 @@ python-tensorflow-serving-api 2.14.0-1
 python-termcolor 2.4.0-1
 python-terminado 0.18.0-1
 python-termstyle 0.1.11-10
-python-testfixtures 8.0.0-1
+python-testfixtures 8.1.0-1
 python-testflo 1.4.15-1
 python-testing.common.database 2.0.3-9
 python-testing.postgresql 1.3.0-9
@@ -9111,7 +9110,7 @@ python-treq 23.11.0-1
 python-trio 0.24.0-1
 python-trio-asyncio 0.14.0-1
 python-trio-websocket 0.11.1-1
-python-trove-classifiers 2024.2.22-1
+python-trove-classifiers 2024.2.23-1
 python-trustme 1.1.0-1
 python-truststore 0.8.0-2
 python-tubes 0.2.1-5
@@ -9120,7 +9119,7 @@ python-twisted 22.10.0-3
 python-txaio 23.1.1-2
 python-txredisapi 1.4.7-5
 python-txrequests 0.9.6-9
-python-txtorcon 23.11.0-1
+python-txtorcon 23.11.0-2
 python-typed-ast 1.5.5-1
 python-typeguard 4.1.5-1
 python-typer 0.9.0-2
@@ -10093,7 +10092,7 @@ run-parts 5.5-1
 runc 1.1.12-1
 runst 0.1.5-1
 rust 1:1.76.0-1
-rust-analyzer 20240226-1
+rust-analyzer 20240304-1
 rust-bindgen 0.69.4-1
 rust-script 0.34.0-1
 rustscan 2.1.1-1
@@ -10205,7 +10204,7 @@ selene 0.26.1-1
 semi 1.14.6-9
 semver 7.6.0-1
 senpai 0.3.0-2
-sensors-applet 1:3.0.0-1
+sensors-applet 1:3.0.0-2
 sentry-cli 2.20.6-1
 seqdiag 3.0.0-2
 sequoia-chameleon-gnupg 0.5.1-1
@@ -10234,7 +10233,7 @@ sh4-elf-binutils 2.39-1
 sh4d0wup 0.9.2-1
 sha3sum 1.2.3.1-1
 shaderc 2023.8-1
-shadow 4.14.5-1
+shadow 4.14.6-1
 shadowsocks 3.0.0a.20180219-6
 shadowsocks-rust 1.18.1-1
 shadowsocks-v2ray-plugin 5.13.0-1
@@ -10629,7 +10628,7 @@ system76-firmware 1.0.58-1
 system76-scheduler 2.0.1-1
 systembus-notify 1.1-3
 systemc 2.3.4-1
-systemd 255.4-1
+systemd 255.4-2
 systemd-ui 3-5
 systemdgenie 0.99.0-6
 systemsettings 5.27.10-1
@@ -10913,7 +10912,7 @@ ucblogo 6.2.4-2
 uchardet 0.0.8-2
 udftools 2.3-1
 udiskie 2.5.2-1
-udisks2 2.10.1-3
+udisks2 2.10.1-4
 udisks2-qt5 5.0.6-1
 udns 0.4-5
 udp2raw 20230206.0-1
@@ -10973,7 +10972,7 @@ unoconv 0.9-2
 unp 1:2.0-1
 unpaper 7.0.0-2
 unrar 1:7.0.7-1
-unrar-free 1:0.1.3-6
+unrar-free 1:0.2.0-1
 unrealircd 6.1.4-1
 unrtf 0.21.10-2
 unshield 1.5.1-2
@@ -11011,7 +11010,7 @@ uucp 1.07-7
 uudeview 20230502-3
 uusi 0.4.3.0-27
 uutils-coreutils 0.0.24-1
-uv 0.1.13-1
+uv 0.1.14-1
 uvicorn 0.27.0.post1-1
 uwsgi 2.0.24-2
 uwsgitop 0.11-6
@@ -11057,7 +11056,7 @@ vector-blf 2.4.1-1
 vegeta 12.11.1-1
 veracrypt 1.25.9-4
 verdict 1.4.2-1
-verilator 5.020-1
+verilator 5.022-1
 vhba-module 20240202-6
 vhs 0.7.1-1
 vi 1:070224-6
@@ -11179,7 +11178,7 @@ warzone2100 4.4.2-2
 wasi-compiler-rt 16.0.6-2
 wasi-libc 1:0+352+c5264e2b-1
 wasi-libc++ 16.0.6-1
-wasm-bindgen 0.2.91-2
+wasm-bindgen 0.2.92-1
 wasm-pack 0.12.1-1
 wasmer 4.2.3-1
 wasmtime 18.0.2-1
@@ -11283,7 +11282,7 @@ woodpecker 2.2.2-1
 wordpress 6.4.3-1
 words 2.1-8
 worker-build 0.0.10-1
-workerd 1.20240223.0-1
+workerd 1.20240304.0-1
 workrave 1.10.52-3
 wp-cli 2.10.0-1
 wpa_supplicant 2:2.10-8
@@ -11409,7 +11408,7 @@ xfce4-notifyd 0.9.4-1
 xfce4-panel 4.18.6-1
 xfce4-power-manager 4.18.3-1
 xfce4-pulseaudio-plugin 0.4.8-1
-xfce4-screensaver 4.18.2-1
+xfce4-screensaver 4.18.3-1
 xfce4-screenshooter 1.10.5-1
 xfce4-sensors-plugin 1.4.4-1
 xfce4-session 4.18.3-1
@@ -11473,7 +11472,7 @@ xorg-fonts-encodings 1.1.0-1
 xorg-fonts-misc 1.0.4-1
 xorg-fonts-type1 1:1.0.4-1
 xorg-iceauth 1.0.9-1
-xorg-mkfontscale 1.2.2-1
+xorg-mkfontscale 1.2.3-1
 xorg-oclock 1.0.5-1
 xorg-server 21.1.11-1
 xorg-sessreg 1.1.3-1
@@ -11482,7 +11481,7 @@ xorg-smproxy 1.0.7-1
 xorg-twm 1.0.12-1
 xorg-util-macros 1.20.0-2
 xorg-x11perf 1.6.2-1
-xorg-xauth 1.1.2-1
+xorg-xauth 1.1.3-1
 xorg-xbacklight 1.2.3-3
 xorg-xbiff 1.0.5-1
 xorg-xcalc 1.1.2-1
@@ -11495,7 +11494,7 @@ xorg-xdm 1.1.14-1
 xorg-xdpyinfo 1.3.4-1
 xorg-xdriinfo 1.0.7-1
 xorg-xedit 1.2.3-1
-xorg-xev 1.2.5-1
+xorg-xev 1.2.6-1
 xorg-xeyes 1.3.0-1
 xorg-xfd 1.1.4-1
 xorg-xfontsel 1.1.0-1
