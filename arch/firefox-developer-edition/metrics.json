@@ -1,0 +1,41 @@
+{
+  "name": "firefox-developer-edition",
+  "version": "124.0b7-1",
+  "depends": [
+    "dbus",
+    "ffmpeg",
+    "gtk3",
+    "libpulse",
+    "libxss",
+    "libxt",
+    "mime-types",
+    "nss",
+    "ttf-font"
+  ],
+  "makedepends": [
+    "cbindgen",
+    "clang",
+    "diffutils",
+    "imake",
+    "inetutils",
+    "jack",
+    "lld",
+    "llvm",
+    "mesa",
+    "nasm",
+    "nodejs",
+    "python",
+    "rust",
+    "unzip",
+    "wasi-compiler-rt",
+    "wasi-libc",
+    "wasi-libc++",
+    "wasi-libc++abi",
+    "xorg-server-xvfb",
+    "yasm",
+    "zip"
+  ],
+  "receive": 748076607,
+  "transmit": 2336939,
+  "disk": 3306436249
+}
