@@ -1,0 +1,23 @@
+{
+  "name": "python-pivy",
+  "version": "0.6.9.a0-2",
+  "depends": [
+    "coin",
+    "gcc-libs",
+    "glibc",
+    "pyside2",
+    "pyside6",
+    "python",
+    "python-numpy",
+    "qt6-base",
+    "soqt"
+  ],
+  "makedepends": [
+    "cmake",
+    "glu",
+    "swig"
+  ],
+  "receive": 199605898,
+  "transmit": 270538,
+  "disk": 16754781
+}
