@@ -1,0 +1,23 @@
+{
+  "name": "cryptsetup",
+  "version": "2.7.0-3",
+  "depends": [
+    "device-mapper",
+    "libdevmapper.so",
+    "openssl",
+    "popt",
+    "util-linux-libs",
+    "libuuid.so",
+    "json-c",
+    "libjson-c.so",
+    "argon2",
+    "libargon2.so"
+  ],
+  "makedepends": [
+    "util-linux",
+    "asciidoctor"
+  ],
+  "receive": 211508298,
+  "transmit": 402176,
+  "disk": 34220897
+}
