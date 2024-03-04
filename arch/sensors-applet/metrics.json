@@ -1,0 +1,26 @@
+{
+  "name": "sensors-applet",
+  "version": "1:3.0.0-2",
+  "depends": [
+    "cairo",
+    "dconf",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gnome-panel",
+    "gtk3",
+    "hicolor-icon-theme",
+    "libx11",
+    "libxnvctrl",
+    "lm_sensors"
+  ],
+  "makedepends": [
+    "git",
+    "gnome-common",
+    "intltool",
+    "yelp-tools"
+  ],
+  "receive": 199868297,
+  "transmit": 371458,
+  "disk": 1455309
+}
