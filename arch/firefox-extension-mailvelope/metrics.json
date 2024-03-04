@@ -1,0 +1,12 @@
+{
+  "name": "firefox-extension-mailvelope",
+  "version": "5.1.2-1",
+  "depends": [
+    "firefox",
+    "gpgme"
+  ],
+  "makedepends": [],
+  "receive": 199594741,
+  "transmit": 276531,
+  "disk": 3162658
+}
