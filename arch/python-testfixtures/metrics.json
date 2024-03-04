@@ -1,0 +1,14 @@
+{
+  "name": "python-testfixtures",
+  "version": "8.1.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 200614168,
+  "transmit": 864946,
+  "disk": 2966943
+}
