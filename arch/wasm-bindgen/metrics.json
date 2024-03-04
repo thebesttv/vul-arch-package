@@ -1,0 +1,15 @@
+{
+  "name": "wasm-bindgen",
+  "version": "0.2.92-1",
+  "depends": [
+    "rust-wasm",
+    "nodejs",
+    "openssl"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199783645,
+  "transmit": 367385,
+  "disk": 16361438
+}
