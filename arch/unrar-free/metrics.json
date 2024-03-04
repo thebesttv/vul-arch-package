@@ -1,0 +1,12 @@
+{
+  "name": "unrar-free",
+  "version": "1:0.2.0-1",
+  "depends": [
+    "libarchive",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199556303,
+  "transmit": 238264,
+  "disk": 180599
+}
