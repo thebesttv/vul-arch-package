@@ -1,0 +1,21 @@
+{
+  "name": "arm-none-eabi-gdb",
+  "version": "14.2-1",
+  "depends": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile",
+    "gdb-common",
+    "mpfr",
+    "libelf",
+    "source-highlight"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 224370722,
+  "transmit": 689881,
+  "disk": 237315307
+}
