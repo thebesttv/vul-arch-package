@@ -1,0 +1,34 @@
+{
+  "name": "gajim",
+  "version": "1.8.4-2",
+  "depends": [
+    "gtk3",
+    "gtksourceview4",
+    "python-cairo",
+    "python-gobject",
+    "python-keyring",
+    "python-nbxmpp>=4.3.0",
+    "python-cryptography",
+    "python-precis_i18n",
+    "python-css-parser",
+    "python-distro",
+    "hicolor-icon-theme",
+    "python-pillow",
+    "python-gssapi",
+    "python-netifaces",
+    "python-qrcode",
+    "python-omemo-dr",
+    "python-packaging",
+    "pango",
+    "sqlite"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 203456406,
+  "transmit": 362791,
+  "disk": 17144081
+}
