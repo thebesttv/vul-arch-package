@@ -1,0 +1,22 @@
+{
+  "name": "gdb",
+  "version": "14.2-1",
+  "depends": [],
+  "makedepends": [
+    "glibc",
+    "gcc-libs",
+    "texinfo",
+    "python",
+    "guile",
+    "ncurses",
+    "expat",
+    "xz",
+    "mpfr",
+    "source-highlight",
+    "boost",
+    "readline"
+  ],
+  "receive": 224377685,
+  "transmit": 660069,
+  "disk": 237356120
+}
