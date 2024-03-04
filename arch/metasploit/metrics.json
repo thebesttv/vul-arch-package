@@ -1,0 +1,19 @@
+{
+  "name": "metasploit",
+  "version": "6.3.58-1",
+  "depends": [
+    "git",
+    "inetutils",
+    "libpcap",
+    "libxml2",
+    "libxslt",
+    "postgresql-libs",
+    "ruby",
+    "ruby-bundler",
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 1566257971,
+  "transmit": 12981314,
+  "disk": 1530910064
+}
