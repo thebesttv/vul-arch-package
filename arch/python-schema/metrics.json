@@ -1,0 +1,17 @@
+{
+  "name": "python-schema",
+  "version": "0.7.5-4",
+  "depends": [
+    "python",
+    "python-contextlib2"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199709838,
+  "transmit": 390092,
+  "disk": 277891
+}
