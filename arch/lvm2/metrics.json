@@ -1,0 +1,14 @@
+{
+  "name": "lvm2",
+  "version": "2.03.23-3",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "systemd",
+    "libaio",
+    "thin-provisioning-tools"
+  ],
+  "receive": 244312413,
+  "transmit": 657945,
+  "disk": 61648846
+}
