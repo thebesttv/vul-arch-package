@@ -1,0 +1,14 @@
+{
+  "name": "texlab",
+  "version": "5.12.4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "npm"
+  ],
+  "receive": 199621471,
+  "transmit": 273095,
+  "disk": 16336355
+}
