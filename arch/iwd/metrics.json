@@ -1,0 +1,19 @@
+{
+  "name": "iwd",
+  "version": "2.16-1",
+  "depends": [
+    "glibc",
+    "readline",
+    "libreadline.so",
+    "ell",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "python-docutils",
+    "dbus",
+    "systemd"
+  ],
+  "receive": 199616342,
+  "transmit": 272137,
+  "disk": 8250790
+}
