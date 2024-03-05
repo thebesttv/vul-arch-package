@@ -1,0 +1,13 @@
+{
+  "name": "riscv64-linux-gnu-binutils",
+  "version": "2.42-1",
+  "depends": [
+    "libelf"
+  ],
+  "makedepends": [
+    "setconf"
+  ],
+  "receive": 227970172,
+  "transmit": 756869,
+  "disk": 326838898
+}
