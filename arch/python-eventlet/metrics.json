@@ -1,0 +1,20 @@
+{
+  "name": "python-eventlet",
+  "version": "0.35.1-2",
+  "depends": [
+    "python",
+    "python-greenlet",
+    "python-dnspython"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-sphinx",
+    "python-sphinxcontrib-apidoc",
+    "python-hatchling",
+    "python-hatch-vcs"
+  ],
+  "receive": 199612595,
+  "transmit": 295116,
+  "disk": 2493431
+}
