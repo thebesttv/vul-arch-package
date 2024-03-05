@@ -1,0 +1,13 @@
+{
+  "name": "python-transaction",
+  "version": "4.0-1",
+  "depends": [
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199653365,
+  "transmit": 295477,
+  "disk": 483929
+}
