@@ -1,0 +1,24 @@
+{
+  "name": "mkinitcpio",
+  "version": "38-4",
+  "depends": [
+    "awk",
+    "mkinitcpio-busybox>=1.19.4-2",
+    "kmod",
+    "util-linux>=2.23",
+    "libarchive",
+    "coreutils",
+    "bash",
+    "binutils",
+    "diffutils",
+    "findutils",
+    "grep",
+    "filesystem>=2011.10-1",
+    "zstd",
+    "systemd"
+  ],
+  "makedepends": [],
+  "receive": 199797696,
+  "transmit": 445772,
+  "disk": 740396
+}
