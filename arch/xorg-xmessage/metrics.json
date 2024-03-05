@@ -1,0 +1,16 @@
+{
+  "name": "xorg-xmessage",
+  "version": "1.0.7-1",
+  "depends": [
+    "libxaw",
+    "libx11",
+    "libxt",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199828576,
+  "transmit": 459658,
+  "disk": 1020487
+}
