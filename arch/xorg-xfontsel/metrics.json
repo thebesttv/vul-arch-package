@@ -1,0 +1,17 @@
+{
+  "name": "xorg-xfontsel",
+  "version": "1.1.1-1",
+  "depends": [
+    "libxaw",
+    "libxmu",
+    "libxt",
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199794544,
+  "transmit": 425259,
+  "disk": 1100811
+}
