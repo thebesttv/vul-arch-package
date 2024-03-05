@@ -1,0 +1,23 @@
+{
+  "name": "esptool",
+  "version": "4.7.0-2",
+  "depends": [
+    "python",
+    "python-pyserial",
+    "python-ecdsa",
+    "python-bitstring",
+    "python-reedsolo",
+    "python-cryptography",
+    "python-pyyaml",
+    "python-intelhex"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199634686,
+  "transmit": 290144,
+  "disk": 23640423
+}
