@@ -1,0 +1,17 @@
+{
+  "name": "glslang",
+  "version": "14.0.0-2",
+  "depends": [
+    "gcc-libs",
+    "spirv-tools"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "spirv-headers",
+    "python"
+  ],
+  "receive": 203628319,
+  "transmit": 340451,
+  "disk": 42456519
+}
