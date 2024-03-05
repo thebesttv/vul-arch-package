@@ -1,0 +1,15 @@
+{
+  "name": "riscv64-linux-gnu-gcc",
+  "version": "13.2.0-2",
+  "depends": [
+    "riscv64-linux-gnu-binutils",
+    "riscv64-linux-gnu-glibc",
+    "libmpc",
+    "libisl",
+    "zstd"
+  ],
+  "makedepends": [],
+  "receive": 289711052,
+  "transmit": 1497617,
+  "disk": 807588634
+}
