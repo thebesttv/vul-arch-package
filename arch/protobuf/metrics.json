@@ -1,0 +1,21 @@
+{
+  "name": "protobuf",
+  "version": "25.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "zlib",
+    "abseil-cpp"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 205865221,
+  "transmit": 442066,
+  "disk": 45708032
+}
