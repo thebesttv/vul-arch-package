@@ -1,3 +1,11 @@
 #+title: Arch Linux Package 统计
 #+date: <2024-02-01 Thu 19:42>
 #+author: thebesttv
+
+- [[https://archlinux.org/packages/][Arch Linux Package Search]] 包含了 Arch Linux 的所有官方包
+- 每个包是一个 git repo，例如 [[https://gitlab.archlinux.org/archlinux/packaging/packages/aalib][aalib]]，包含 [[https://wiki.archlinux.org/title/PKGBUILD][=PKGBUILD=]] 文件
+- 具体流程
+  - 使用 =pkgctl= 获取 =PKGBUILD= 文件
+  - 根据 =PKGBUILD=，使用 =makepkg= 获取源码
+  - 使用 =cloc= 统计代码量信息
+- 每个包的结果位于 =arch/<name>/cloc.csv= 中
