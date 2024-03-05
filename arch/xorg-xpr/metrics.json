@@ -1,0 +1,16 @@
+{
+  "name": "xorg-xpr",
+  "version": "1.2.0-1",
+  "depends": [
+    "libx11",
+    "libxmu",
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199796848,
+  "transmit": 450405,
+  "disk": 1086430
+}
