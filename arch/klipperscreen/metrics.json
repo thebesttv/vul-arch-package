@@ -1,0 +1,30 @@
+{
+  "name": "klipperscreen",
+  "version": "0.3.9-1",
+  "depends": [
+    "cairo",
+    "dbus-glib",
+    "gnu-free-fonts",
+    "gtk3",
+    "librsvg",
+    "mpv",
+    "openjpeg2",
+    "python-cairo",
+    "python-gobject",
+    "python-jinja",
+    "python-mpv",
+    "python-netifaces",
+    "python-numpy",
+    "python-requests",
+    "python-six",
+    "python-websocket-client",
+    "xorg-xinit",
+    "xorg-server"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199605394,
+  "transmit": 255031,
+  "disk": 20169206
+}
