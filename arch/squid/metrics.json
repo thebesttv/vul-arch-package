@@ -1,0 +1,25 @@
+{
+  "name": "squid",
+  "version": "6.8-1",
+  "depends": [
+    "openssl",
+    "pam",
+    "perl",
+    "libltdl",
+    "libcap",
+    "nettle",
+    "gnutls",
+    "libnsl",
+    "libxml2",
+    "tdb",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "krb5",
+    "libldap",
+    "systemd"
+  ],
+  "receive": 202496285,
+  "transmit": 472178,
+  "disk": 26739639
+}
