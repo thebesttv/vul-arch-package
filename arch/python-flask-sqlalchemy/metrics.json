@@ -1,0 +1,21 @@
+{
+  "name": "python-flask-sqlalchemy",
+  "version": "2.5.1-7",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-sqlalchemy"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-sphinx",
+    "python-pallets-sphinx-themes",
+    "python-sphinx-issues"
+  ],
+  "receive": 199670817,
+  "transmit": 334554,
+  "disk": 650415
+}
