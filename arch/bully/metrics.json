@@ -1,0 +1,13 @@
+{
+  "name": "bully",
+  "version": "1.2-1",
+  "depends": [
+    "aircrack-ng",
+    "glibc",
+    "libpcap"
+  ],
+  "makedepends": [],
+  "receive": 199590071,
+  "transmit": 278056,
+  "disk": 2240497
+}
