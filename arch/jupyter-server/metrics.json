@@ -1,0 +1,31 @@
+{
+  "name": "jupyter-server",
+  "version": "2.13.0-1",
+  "depends": [
+    "jupyter-nbconvert",
+    "jupyter-nbformat",
+    "python",
+    "python-anyio",
+    "python-argon2_cffi",
+    "python-colorama",
+    "python-jinja",
+    "python-jupyter-client",
+    "python-jupyter-core",
+    "python-jupyter-events",
+    "python-overrides",
+    "python-packaging",
+    "python-prometheus_client",
+    "python-send2trash",
+    "python-tornado",
+    "python-traitlets",
+    "python-websocket-client"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-jupyter-builder",
+    "python-installer"
+  ],
+  "receive": 199827813,
+  "transmit": 401231,
+  "disk": 4033947
+}
