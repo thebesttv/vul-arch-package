@@ -1,0 +1,20 @@
+{
+  "name": "haskell-bitvec",
+  "version": "1.1.3.0-88",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck-classes",
+    "haskell-quickcheck-classes-base",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199572585,
+  "transmit": 348166,
+  "disk": 426584
+}
