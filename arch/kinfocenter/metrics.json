@@ -1,0 +1,40 @@
+{
+  "name": "kinfocenter",
+  "version": "6.0.1-1",
+  "depends": [
+    "aha",
+    "clinfo",
+    "dmidecode",
+    "gcc-libs",
+    "glibc",
+    "glu",
+    "kauth",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "kdeclarative",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "kservice",
+    "kwidgetsaddons",
+    "libusb",
+    "mesa-utils",
+    "qt6-base",
+    "qt6-declarative",
+    "sh",
+    "solid",
+    "systemsettings",
+    "vulkan-tools",
+    "wayland-utils",
+    "xorg-xdpyinfo"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "fwupd",
+    "kdoctools"
+  ],
+  "receive": 199595562,
+  "transmit": 294959,
+  "disk": 6918141
+}
