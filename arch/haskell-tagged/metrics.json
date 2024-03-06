@@ -1,0 +1,13 @@
+{
+  "name": "haskell-tagged",
+  "version": "0.8.8-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199792998,
+  "transmit": 479780,
+  "disk": 181624
+}
