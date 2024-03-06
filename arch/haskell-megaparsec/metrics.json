@@ -1,0 +1,16 @@
+{
+  "name": "haskell-megaparsec",
+  "version": "9.5.0-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-parser-combinators",
+    "haskell-scientific"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199575767,
+  "transmit": 302539,
+  "disk": 663096
+}
