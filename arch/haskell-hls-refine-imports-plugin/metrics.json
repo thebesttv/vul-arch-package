@@ -1,0 +1,23 @@
+{
+  "name": "haskell-hls-refine-imports-plugin",
+  "version": "1.0.4.0-151",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-ghc",
+    "haskell-ghcide",
+    "haskell-hls-explicit-imports-plugin",
+    "haskell-hls-graph",
+    "haskell-hls-plugin-api",
+    "haskell-lsp",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 199622403,
+  "transmit": 380706,
+  "disk": 471158
+}
