@@ -1,0 +1,14 @@
+{
+  "name": "haskell-th-lift",
+  "version": "0.8.4-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-th-abstraction"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199559394,
+  "transmit": 252142,
+  "disk": 203736
+}
