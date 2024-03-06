@@ -1,0 +1,35 @@
+{
+  "name": "calendarsupport",
+  "version": "24.02.0-1",
+  "depends": [
+    "akonadi-calendar",
+    "akonadi-notes",
+    "gcc-libs",
+    "glibc",
+    "kcalendarcore",
+    "kcalutils",
+    "kcodecs",
+    "kconfig",
+    "kcoreaddons",
+    "kguiaddons",
+    "kholidays",
+    "ki18n",
+    "kidentitymanagement",
+    "kio",
+    "kmime",
+    "kservice",
+    "ktextaddons",
+    "kwidgetsaddons",
+    "libakonadi",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199657070,
+  "transmit": 303594,
+  "disk": 15018440
+}
