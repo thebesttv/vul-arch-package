@@ -1,0 +1,16 @@
+{
+  "name": "haskell-vector-space",
+  "version": "0.16-44",
+  "depends": [
+    "ghc-libs",
+    "haskell-boolean",
+    "haskell-memotrie",
+    "haskell-numinstances"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199491254,
+  "transmit": 212454,
+  "disk": 228604
+}
