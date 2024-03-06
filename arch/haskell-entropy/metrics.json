@@ -1,0 +1,13 @@
+{
+  "name": "haskell-entropy",
+  "version": "0.4.1.10-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199520892,
+  "transmit": 266392,
+  "disk": 165969
+}
