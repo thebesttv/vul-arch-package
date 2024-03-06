@@ -1,0 +1,28 @@
+{
+  "name": "haskell-typst",
+  "version": "0.3.2.1-21",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-cassava",
+    "haskell-digits",
+    "haskell-ordered-containers",
+    "haskell-regex-tdfa",
+    "haskell-scientific",
+    "haskell-toml-parser",
+    "haskell-typst-symbols",
+    "haskell-vector",
+    "haskell-xml-conduit",
+    "haskell-yaml"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-pretty-show",
+    "haskell-tasty",
+    "haskell-tasty-golden"
+  ],
+  "receive": 199619552,
+  "transmit": 357232,
+  "disk": 16628468
+}
