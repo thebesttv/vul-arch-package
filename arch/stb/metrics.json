@@ -1,0 +1,11 @@
+{
+  "name": "stb",
+  "version": "r2173.ae721c5-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 208375804,
+  "transmit": 321731,
+  "disk": 14558050
+}
