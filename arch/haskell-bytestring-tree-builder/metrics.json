@@ -1,0 +1,20 @@
+{
+  "name": "haskell-bytestring-tree-builder",
+  "version": "0.2.7.10-85",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-base-prelude",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck",
+    "haskell-tasty-hunit",
+    "haskell-quickcheck-instances",
+    "haskell-quickcheck"
+  ],
+  "receive": 199910442,
+  "transmit": 408672,
+  "disk": 443985
+}
