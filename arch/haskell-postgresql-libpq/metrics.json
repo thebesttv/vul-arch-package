@@ -1,0 +1,15 @@
+{
+  "name": "haskell-postgresql-libpq",
+  "version": "0.9.4.3-7",
+  "depends": [
+    "ghc-libs",
+    "postgresql-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199695301,
+  "transmit": 384556,
+  "disk": 285685
+}
