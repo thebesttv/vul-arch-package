@@ -1,0 +1,18 @@
+{
+  "name": "hslua-cli",
+  "version": "1.4.1-41",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslua-core",
+    "haskell-hslua-marshalling",
+    "haskell-hslua-repl",
+    "haskell-lua"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199654809,
+  "transmit": 310185,
+  "disk": 224387
+}
