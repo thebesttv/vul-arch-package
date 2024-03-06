@@ -1,0 +1,14 @@
+{
+  "name": "haskell-sop-core",
+  "version": "0.5.0.2-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199645415,
+  "transmit": 385968,
+  "disk": 264829
+}
