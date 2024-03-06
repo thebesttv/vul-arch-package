@@ -1,0 +1,13 @@
+{
+  "name": "haskell-cereal",
+  "version": "0.5.8.3-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199913393,
+  "transmit": 541794,
+  "disk": 236037
+}
