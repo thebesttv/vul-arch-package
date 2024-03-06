@@ -1,0 +1,13 @@
+{
+  "name": "haskell-mmap",
+  "version": "0.5.9-26",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199688515,
+  "transmit": 436216,
+  "disk": 183345
+}
