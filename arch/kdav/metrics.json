@@ -1,0 +1,21 @@
+{
+  "name": "kdav",
+  "version": "1:6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199812339,
+  "transmit": 440162,
+  "disk": 947801
+}
