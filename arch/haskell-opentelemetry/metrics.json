@@ -1,0 +1,16 @@
+{
+  "name": "haskell-opentelemetry",
+  "version": "0.8.0-46",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc-trace-events",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199676165,
+  "transmit": 295745,
+  "disk": 267340
+}
