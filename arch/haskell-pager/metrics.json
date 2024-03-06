@@ -1,0 +1,17 @@
+{
+  "name": "haskell-pager",
+  "version": "0.1.1.0-48",
+  "depends": [
+    "ghc-libs",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-resourcet",
+    "haskell-safe"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199668836,
+  "transmit": 321975,
+  "disk": 206681
+}
