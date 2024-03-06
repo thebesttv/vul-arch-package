@@ -1,0 +1,19 @@
+{
+  "name": "rocksdb",
+  "version": "8.11.3-1",
+  "depends": [
+    "bzip2",
+    "lz4",
+    "snappy",
+    "zlib",
+    "zstd",
+    "tbb",
+    "liburing"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 213594579,
+  "transmit": 618139,
+  "disk": 53895472
+}
