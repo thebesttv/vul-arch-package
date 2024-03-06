@@ -1,0 +1,13 @@
+{
+  "name": "haskell-xdg-basedir",
+  "version": "0.2.2-13",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199573592,
+  "transmit": 264108,
+  "disk": 121105
+}
