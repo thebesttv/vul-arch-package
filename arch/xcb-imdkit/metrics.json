@@ -1,0 +1,17 @@
+{
+  "name": "xcb-imdkit",
+  "version": "1.0.7-1",
+  "depends": [
+    "xcb-util",
+    "xcb-util-keysyms"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja",
+    "uthash",
+    "xorgproto"
+  ],
+  "receive": 199837945,
+  "transmit": 505448,
+  "disk": 3004516
+}
