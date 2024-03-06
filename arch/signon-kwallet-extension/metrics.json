@@ -1,0 +1,17 @@
+{
+  "name": "signon-kwallet-extension",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kwallet",
+    "qt6-base",
+    "signond"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199753025,
+  "transmit": 340011,
+  "disk": 283562
+}
