@@ -1,0 +1,13 @@
+{
+  "name": "haskell-simple-smt",
+  "version": "0.9.7-3",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199528198,
+  "transmit": 285358,
+  "disk": 153597
+}
