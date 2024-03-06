@@ -1,0 +1,16 @@
+{
+  "name": "haskell-src-exts-util",
+  "version": "0.2.5-310",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default",
+    "haskell-src-exts",
+    "haskell-uniplate"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200009586,
+  "transmit": 449869,
+  "disk": 422643
+}
