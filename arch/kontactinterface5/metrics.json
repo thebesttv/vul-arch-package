@@ -1,0 +1,15 @@
+{
+  "name": "kontactinterface5",
+  "version": "23.08.5-2",
+  "depends": [
+    "kparts5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools"
+  ],
+  "receive": 199579901,
+  "transmit": 286856,
+  "disk": 632764
+}
