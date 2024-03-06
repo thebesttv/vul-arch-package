@@ -1,0 +1,19 @@
+{
+  "name": "haskell-lens-aeson",
+  "version": "1.2.3-39",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-lens",
+    "haskell-scientific",
+    "haskell-text-short",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199772824,
+  "transmit": 304678,
+  "disk": 587425
+}
