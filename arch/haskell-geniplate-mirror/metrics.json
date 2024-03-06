@@ -1,0 +1,13 @@
+{
+  "name": "haskell-geniplate-mirror",
+  "version": "0.7.9-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199561854,
+  "transmit": 297847,
+  "disk": 171445
+}
