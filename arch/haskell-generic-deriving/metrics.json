@@ -1,0 +1,14 @@
+{
+  "name": "haskell-generic-deriving",
+  "version": "1.14.5-19",
+  "depends": [
+    "ghc-libs",
+    "haskell-th-abstraction"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199535347,
+  "transmit": 287776,
+  "disk": 890148
+}
