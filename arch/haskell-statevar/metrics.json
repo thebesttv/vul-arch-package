@@ -1,0 +1,13 @@
+{
+  "name": "haskell-statevar",
+  "version": "1.2.2-3",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199571168,
+  "transmit": 250750,
+  "disk": 142300
+}
