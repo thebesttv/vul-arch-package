@@ -1,0 +1,16 @@
+{
+  "name": "strip-nondeterminism",
+  "version": "1.13.1-1",
+  "depends": [
+    "perl",
+    "perl-archive-zip",
+    "perl-archive-cpio",
+    "perl-sub-override"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199589715,
+  "transmit": 355474,
+  "disk": 1054193
+}
