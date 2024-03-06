@@ -1,0 +1,16 @@
+{
+  "name": "haskell-hashable",
+  "version": "1.4.3.0-41",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-orphans",
+    "haskell-data-array-byte",
+    "haskell-ghc-bignum-orphans"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199698026,
+  "transmit": 391932,
+  "disk": 617950
+}
