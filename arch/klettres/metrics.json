@@ -1,0 +1,26 @@
+{
+  "name": "klettres",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "knewstuff",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "phonon-qt6",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 248820549,
+  "transmit": 966233,
+  "disk": 111745009
+}
