@@ -1,0 +1,20 @@
+{
+  "name": "haskell-monad-dijkstra",
+  "version": "0.1.1.5-18",
+  "depends": [
+    "ghc-libs",
+    "haskell-free",
+    "haskell-psqueues"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "hlint",
+    "haskell-hspec",
+    "haskell-tasty",
+    "haskell-tasty-hspec"
+  ],
+  "receive": 199565072,
+  "transmit": 320198,
+  "disk": 448636
+}
