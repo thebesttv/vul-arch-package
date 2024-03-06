@@ -1,0 +1,14 @@
+{
+  "name": "haskell-parsec-numbers",
+  "version": "0.1.0-19",
+  "depends": [
+    "ghc-libs",
+    "haskell-parsec"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199513922,
+  "transmit": 258969,
+  "disk": 133243
+}
