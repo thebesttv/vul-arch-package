@@ -1,0 +1,15 @@
+{
+  "name": "haskell-tasty-hunit",
+  "version": "0.10.1-32",
+  "depends": [
+    "ghc-libs",
+    "haskell-tasty",
+    "haskell-call-stack"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199580161,
+  "transmit": 285445,
+  "disk": 643621
+}
