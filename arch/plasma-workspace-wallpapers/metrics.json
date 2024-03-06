@@ -1,0 +1,12 @@
+{
+  "name": "plasma-workspace-wallpapers",
+  "version": "6.0.1-1",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-base"
+  ],
+  "receive": 309067674,
+  "transmit": 604213,
+  "disk": 221956758
+}
