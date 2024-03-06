@@ -1,0 +1,27 @@
+{
+  "name": "haskell-tamarin-prover-theory",
+  "version": "1.8.0-39",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-attoparsec",
+    "haskell-dlist",
+    "haskell-fclabels",
+    "haskell-parallel",
+    "haskell-regex-pcre",
+    "haskell-regex-posix",
+    "haskell-safe",
+    "haskell-split",
+    "haskell-uniplate",
+    "haskell-tamarin-prover-utils",
+    "haskell-tamarin-prover-term"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 207721359,
+  "transmit": 547739,
+  "disk": 272897780
+}
