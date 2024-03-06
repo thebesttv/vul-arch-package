@@ -1,0 +1,23 @@
+{
+  "name": "haskell-indexed-traversable-instances",
+  "version": "0.1.1.2-38",
+  "depends": [
+    "ghc-libs",
+    "haskell-indexed-traversable",
+    "haskell-onetuple",
+    "haskell-tagged",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199990767,
+  "transmit": 433482,
+  "disk": 310485
+}
