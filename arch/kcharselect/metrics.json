@@ -1,0 +1,24 @@
+{
+  "name": "kcharselect",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kbookmarks",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199805858,
+  "transmit": 427039,
+  "disk": 1982152
+}
