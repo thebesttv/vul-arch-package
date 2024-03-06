@@ -1,0 +1,15 @@
+{
+  "name": "haskell-openpgp-asciiarmor",
+  "version": "0.1.2-238",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-base64-bytestring"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199600764,
+  "transmit": 351573,
+  "disk": 399526
+}
