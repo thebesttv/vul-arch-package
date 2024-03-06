@@ -1,0 +1,20 @@
+{
+  "name": "kglobalaccel5",
+  "version": "5.115.0-3",
+  "depends": [
+    "kconfig5",
+    "kcoreaddons5",
+    "kwindowsystem5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc",
+    "kcrash5",
+    "kdbusaddons5"
+  ],
+  "receive": 202160167,
+  "transmit": 482890,
+  "disk": 24863239
+}
