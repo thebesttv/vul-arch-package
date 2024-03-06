@@ -1,0 +1,16 @@
+{
+  "name": "haskell-minimorph",
+  "version": "0.3.0.1-44",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199509958,
+  "transmit": 215461,
+  "disk": 193407
+}
