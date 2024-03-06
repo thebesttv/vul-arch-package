@@ -1,0 +1,34 @@
+{
+  "name": "breeze",
+  "version": "6.0.1-2",
+  "depends": [
+    "breeze-icons",
+    "frameworkintegration",
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kcolorscheme",
+    "kconfig",
+    "kcoreaddons",
+    "kdecoration",
+    "kguiaddons",
+    "ki18n",
+    "kiconthemes",
+    "kirigami",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "frameworkintegration5",
+    "kconfigwidgets5",
+    "kiconthemes5",
+    "kirigami2",
+    "kwindowsystem5"
+  ],
+  "receive": 202253085,
+  "transmit": 381234,
+  "disk": 148958679
+}
