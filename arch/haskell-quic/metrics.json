@@ -1,0 +1,35 @@
+{
+  "name": "haskell-quic",
+  "version": "0.1.6-4",
+  "depends": [
+    "ghc-libs",
+    "haskell-base16-bytestring",
+    "haskell-crypto-token",
+    "haskell-crypton",
+    "haskell-crypton-x509",
+    "haskell-crypton-x509-system",
+    "haskell-data-default-class",
+    "haskell-fast-logger",
+    "haskell-iproute",
+    "haskell-memory",
+    "haskell-network",
+    "haskell-network-byte-order",
+    "haskell-network-udp",
+    "haskell-psqueues",
+    "haskell-random",
+    "haskell-tls",
+    "haskell-unix-time",
+    "haskell-unliftio",
+    "haskell-unliftio-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-async",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199585408,
+  "transmit": 317797,
+  "disk": 1487674
+}
