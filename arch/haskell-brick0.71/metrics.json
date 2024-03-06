@@ -1,0 +1,25 @@
+{
+  "name": "haskell-brick0.71",
+  "version": "0.71.1-82",
+  "depends": [
+    "ghc-libs",
+    "haskell-vty",
+    "haskell-data-clist",
+    "haskell-dlist",
+    "haskell-microlens",
+    "haskell-microlens-th",
+    "haskell-microlens-mtl",
+    "haskell-config-ini",
+    "haskell-vector",
+    "haskell-contravariant",
+    "haskell-text-zipper",
+    "haskell-word-wrap"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199865709,
+  "transmit": 537071,
+  "disk": 2509330
+}
