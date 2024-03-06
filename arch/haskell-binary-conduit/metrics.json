@@ -1,0 +1,15 @@
+{
+  "name": "haskell-binary-conduit",
+  "version": "1.3.1-424",
+  "depends": [
+    "ghc-libs",
+    "haskell-conduit",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199864660,
+  "transmit": 309377,
+  "disk": 516886
+}
