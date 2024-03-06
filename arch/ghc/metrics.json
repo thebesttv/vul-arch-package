@@ -1,0 +1,26 @@
+{
+  "name": "ghc",
+  "version": "9.2.8-1",
+  "depends": [],
+  "makedepends": [
+    "ghc-static",
+    "perl",
+    "libxslt",
+    "docbook-xsl",
+    "python-sphinx",
+    "haskell-hadrian",
+    "haskell-hscolour",
+    "texlive-fontsrecommended",
+    "texlive-latexextra",
+    "texlive-xetex",
+    "ttf-dejavu",
+    "alex",
+    "happy",
+    "time",
+    "numactl",
+    "python-sphinx_rtd_theme"
+  ],
+  "receive": 224376823,
+  "transmit": 324477,
+  "disk": 158462905
+}
