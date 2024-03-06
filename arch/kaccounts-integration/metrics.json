@@ -1,0 +1,30 @@
+{
+  "name": "kaccounts-integration",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "kwallet",
+    "libaccounts-qt",
+    "qt6-base",
+    "signon-kwallet-extension",
+    "signon-plugin-oauth2",
+    "signon-ui",
+    "signond"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools",
+    "qcoro-qt6"
+  ],
+  "receive": 199686524,
+  "transmit": 397096,
+  "disk": 1189517
+}
