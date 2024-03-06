@@ -1,0 +1,15 @@
+{
+  "name": "akonadi-notes5",
+  "version": "23.08.5-2",
+  "depends": [
+    "kmime5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "doxygen"
+  ],
+  "receive": 199641414,
+  "transmit": 349976,
+  "disk": 525891
+}
