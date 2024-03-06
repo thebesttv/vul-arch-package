@@ -1,0 +1,18 @@
+{
+  "name": "haskell-x11",
+  "version": "1.10.3-2",
+  "depends": [
+    "ghc-libs",
+    "libx11",
+    "libxinerama",
+    "libxrandr",
+    "libxss",
+    "haskell-data-default-class"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199540328,
+  "transmit": 267468,
+  "disk": 1686957
+}
