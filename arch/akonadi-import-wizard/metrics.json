@@ -1,0 +1,32 @@
+{
+  "name": "akonadi-import-wizard",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcontacts",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kidentitymanagement",
+    "kmailtransport",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libakonadi",
+    "mailcommon",
+    "mailimporter",
+    "messagelib",
+    "pimcommon",
+    "qt6-base",
+    "qtkeychain-qt6"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 200185232,
+  "transmit": 384121,
+  "disk": 2801571
+}
