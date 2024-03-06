@@ -1,0 +1,17 @@
+{
+  "name": "haskell-cairo",
+  "version": "0.13.8.2-51",
+  "depends": [
+    "ghc-libs",
+    "cairo",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "haskell-gtk2hs-buildtools",
+    "mesa",
+    "ghc"
+  ],
+  "receive": 199958375,
+  "transmit": 506948,
+  "disk": 641924
+}
