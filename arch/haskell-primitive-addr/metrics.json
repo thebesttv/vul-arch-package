@@ -1,0 +1,14 @@
+{
+  "name": "haskell-primitive-addr",
+  "version": "0.1.0.2-103",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199751829,
+  "transmit": 399677,
+  "disk": 206054
+}
