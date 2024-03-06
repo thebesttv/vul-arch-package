@@ -1,0 +1,14 @@
+{
+  "name": "haskell-xcb-types",
+  "version": "0.13.0-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-xml"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199912684,
+  "transmit": 551460,
+  "disk": 177706
+}
