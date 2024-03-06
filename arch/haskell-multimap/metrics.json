@@ -1,0 +1,13 @@
+{
+  "name": "haskell-multimap",
+  "version": "1.2.1-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199598644,
+  "transmit": 348124,
+  "disk": 118433
+}
