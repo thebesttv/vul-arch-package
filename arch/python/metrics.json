@@ -1,0 +1,28 @@
+{
+  "name": "python",
+  "version": "3.11.8-1",
+  "depends": [
+    "bzip2",
+    "expat",
+    "gdbm",
+    "libffi",
+    "libnsl",
+    "libxcrypt",
+    "openssl",
+    "zlib",
+    "tzdata"
+  ],
+  "makedepends": [
+    "tk",
+    "sqlite",
+    "bluez-libs",
+    "mpdecimal",
+    "llvm",
+    "gdb",
+    "xorg-server-xvfb",
+    "ttf-font"
+  ],
+  "receive": 220104167,
+  "transmit": 528110,
+  "disk": 118471771
+}
