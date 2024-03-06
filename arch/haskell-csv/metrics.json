@@ -1,0 +1,13 @@
+{
+  "name": "haskell-csv",
+  "version": "0.1.2-26",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199610538,
+  "transmit": 352282,
+  "disk": 121930
+}
