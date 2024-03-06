@@ -1,0 +1,16 @@
+{
+  "name": "haskell-assoc",
+  "version": "1.0.2-254",
+  "depends": [
+    "ghc-libs",
+    "haskell-bifunctors",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199696427,
+  "transmit": 427568,
+  "disk": 375637
+}
