@@ -1,0 +1,30 @@
+{
+  "name": "haskell-http-download",
+  "version": "0.2.1.0-73",
+  "depends": [
+    "ghc-libs",
+    "haskell-base64-bytestring",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-crypton",
+    "haskell-crypton-conduit",
+    "haskell-http-client",
+    "haskell-http-conduit",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-path",
+    "haskell-path-io",
+    "haskell-retry",
+    "haskell-rio",
+    "haskell-rio-prettyprint"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199650813,
+  "transmit": 405124,
+  "disk": 796131
+}
