@@ -1,0 +1,13 @@
+{
+  "name": "haskell-setenv",
+  "version": "0.1.1.3-26",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199588164,
+  "transmit": 278542,
+  "disk": 125714
+}
