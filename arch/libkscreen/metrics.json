@@ -1,0 +1,22 @@
+{
+  "name": "libkscreen",
+  "version": "6.0.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libxcb",
+    "qt6-base",
+    "qt6-wayland",
+    "wayland"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "plasma-wayland-protocols",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199711247,
+  "transmit": 399384,
+  "disk": 1324813
+}
