@@ -1,0 +1,16 @@
+{
+  "name": "haskell-skylighting-format-blaze-html",
+  "version": "0.1.1.1-45",
+  "depends": [
+    "ghc-libs",
+    "haskell-blaze-html",
+    "haskell-skylighting-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199533874,
+  "transmit": 292308,
+  "disk": 270867
+}
