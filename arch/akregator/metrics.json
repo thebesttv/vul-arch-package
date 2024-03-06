@@ -1,0 +1,42 @@
+{
+  "name": "akregator",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "grantleetheme",
+    "kcmutils",
+    "kcodecs",
+    "kcolorscheme",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kio",
+    "knotifications",
+    "knotifyconfig",
+    "kontactinterface",
+    "kparts",
+    "kstatusnotifieritem",
+    "ktextaddons",
+    "ktextwidgets",
+    "kuserfeedback",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdepim",
+    "messagelib",
+    "pimcommon",
+    "qt6-base",
+    "qt6-webengine",
+    "syndication"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199844765,
+  "transmit": 485908,
+  "disk": 12829868
+}
