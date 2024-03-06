@@ -1,0 +1,34 @@
+{
+  "name": "kgpg",
+  "version": "24.02.0-1",
+  "depends": [
+    "akonadi-contacts",
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcodecs",
+    "kconfig",
+    "kconfigwidgets",
+    "kcontacts",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "kservice",
+    "kstatusnotifieritem",
+    "ktextwidgets",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libakonadi",
+    "qt6-5compat",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199788461,
+  "transmit": 380485,
+  "disk": 17609100
+}
