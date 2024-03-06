@@ -1,0 +1,16 @@
+{
+  "name": "haskell-test-framework-hunit",
+  "version": "0.3.0.2-668",
+  "depends": [
+    "ghc-libs",
+    "haskell-hunit",
+    "haskell-extensible-exceptions",
+    "haskell-test-framework"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200027302,
+  "transmit": 325534,
+  "disk": 652010
+}
