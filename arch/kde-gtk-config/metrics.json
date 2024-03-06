@@ -1,0 +1,28 @@
+{
+  "name": "kde-gtk-config",
+  "version": "6.0.1-1",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kdecoration",
+    "kguiaddons",
+    "kwindowsystem",
+    "qt6-base",
+    "qt6-svg",
+    "sh",
+    "xsettingsd"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "gtk3",
+    "sassc"
+  ],
+  "receive": 199646020,
+  "transmit": 362160,
+  "disk": 688738
+}
