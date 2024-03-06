@@ -1,0 +1,15 @@
+{
+  "name": "haskell-dec",
+  "version": "0.0.5-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-boring"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199679547,
+  "transmit": 391237,
+  "disk": 165846
+}
