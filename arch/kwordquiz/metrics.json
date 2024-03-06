@@ -1,0 +1,27 @@
+{
+  "name": "kwordquiz",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "knewstuff",
+    "libkeduvocdocument",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-multimedia"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 203833051,
+  "transmit": 369433,
+  "disk": 12232930
+}
