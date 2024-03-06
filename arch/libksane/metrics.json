@@ -1,0 +1,20 @@
+{
+  "name": "libksane",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "ki18n5",
+    "ksanecore5",
+    "ktextwidgets5",
+    "kwallet5",
+    "kwidgetsaddons5",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199854524,
+  "transmit": 271532,
+  "disk": 1908713
+}
