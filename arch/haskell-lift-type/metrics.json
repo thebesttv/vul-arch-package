@@ -1,0 +1,13 @@
+{
+  "name": "haskell-lift-type",
+  "version": "0.1.1.1-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199645648,
+  "transmit": 370015,
+  "disk": 115418
+}
