@@ -1,0 +1,18 @@
+{
+  "name": "python-dateutil",
+  "version": "2.9.0-2",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm",
+    "python-six",
+    "git"
+  ],
+  "receive": 207167746,
+  "transmit": 385568,
+  "disk": 8982851
+}
