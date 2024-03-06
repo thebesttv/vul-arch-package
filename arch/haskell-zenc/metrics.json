@@ -1,0 +1,17 @@
+{
+  "name": "haskell-zenc",
+  "version": "0.1.2-160",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hedgehog",
+    "haskell-hspec",
+    "haskell-hspec-hedgehog"
+  ],
+  "receive": 199821116,
+  "transmit": 418473,
+  "disk": 263649
+}
