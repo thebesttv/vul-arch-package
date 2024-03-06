@@ -1,0 +1,21 @@
+{
+  "name": "haskell-simple-sendfile",
+  "version": "0.2.32-27",
+  "depends": [
+    "ghc-libs",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-easy-file",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-resourcet"
+  ],
+  "receive": 199579300,
+  "transmit": 301743,
+  "disk": 1948167
+}
