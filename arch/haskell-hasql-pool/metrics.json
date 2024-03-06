@@ -1,0 +1,17 @@
+{
+  "name": "haskell-hasql-pool",
+  "version": "0.5.2.2-209",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-prelude",
+    "haskell-hasql",
+    "haskell-resource-pool"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199533622,
+  "transmit": 308752,
+  "disk": 755560
+}
