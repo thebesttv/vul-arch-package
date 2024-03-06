@@ -1,0 +1,20 @@
+{
+  "name": "c2hs",
+  "version": "0.28.8-195",
+  "depends": [
+    "ghc-libs",
+    "haskell-dlist",
+    "haskell-language-c"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-hunit",
+    "haskell-shelly"
+  ],
+  "receive": 200324284,
+  "transmit": 448067,
+  "disk": 3336609
+}
