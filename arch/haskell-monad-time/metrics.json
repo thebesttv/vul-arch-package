@@ -1,0 +1,13 @@
+{
+  "name": "haskell-monad-time",
+  "version": "0.4.0.0-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199564261,
+  "transmit": 235631,
+  "disk": 132361
+}
