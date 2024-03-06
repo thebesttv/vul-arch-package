@@ -1,0 +1,18 @@
+{
+  "name": "haskell-mueval",
+  "version": "0.9.3-186",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-extensible-exceptions",
+    "haskell-hint",
+    "haskell-show",
+    "haskell-simple-reflect"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199715790,
+  "transmit": 419928,
+  "disk": 303895
+}
