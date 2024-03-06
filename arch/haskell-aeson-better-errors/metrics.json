@@ -1,0 +1,21 @@
+{
+  "name": "haskell-aeson-better-errors",
+  "version": "0.9.1.1-99",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-dlist",
+    "haskell-scientific",
+    "haskell-transformers-compat",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-void"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199575245,
+  "transmit": 333997,
+  "disk": 526937
+}
