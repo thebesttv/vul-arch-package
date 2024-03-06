@@ -1,0 +1,13 @@
+{
+  "name": "haskell-placeholders",
+  "version": "0.1-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 203365180,
+  "transmit": 2918938,
+  "disk": 127439
+}
