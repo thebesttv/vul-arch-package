@@ -1,0 +1,19 @@
+{
+  "name": "haskell-project-template",
+  "version": "0.2.1.0-339",
+  "depends": [
+    "ghc-libs",
+    "haskell-base64-bytestring",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-resourcet"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-quickcheck"
+  ],
+  "receive": 199784344,
+  "transmit": 446201,
+  "disk": 632517
+}
