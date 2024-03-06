@@ -1,0 +1,13 @@
+{
+  "name": "haskell-text-binary",
+  "version": "0.2.1.1-27",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199953500,
+  "transmit": 588411,
+  "disk": 125392
+}
