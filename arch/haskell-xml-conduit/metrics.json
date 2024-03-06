@@ -1,0 +1,25 @@
+{
+  "name": "haskell-xml-conduit",
+  "version": "1.9.1.3-44",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-blaze-markup",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-data-default-class",
+    "haskell-resourcet",
+    "haskell-blaze-html",
+    "haskell-xml-types"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-cabal-doctest",
+    "haskell-doctest",
+    "haskell-hspec",
+    "haskell-hunit"
+  ],
+  "receive": 199531044,
+  "transmit": 274347,
+  "disk": 867533
+}
