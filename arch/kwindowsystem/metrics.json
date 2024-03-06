@@ -1,0 +1,27 @@
+{
+  "name": "kwindowsystem",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "libxcb",
+    "libxfixes",
+    "qt6-base",
+    "qt6-wayland",
+    "wayland",
+    "xcb-util-keysyms"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "plasma-wayland-protocols",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools",
+    "wayland-protocols"
+  ],
+  "receive": 199740159,
+  "transmit": 441936,
+  "disk": 25397757
+}
