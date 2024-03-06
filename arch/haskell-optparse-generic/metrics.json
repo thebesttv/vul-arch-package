@@ -1,0 +1,17 @@
+{
+  "name": "haskell-optparse-generic",
+  "version": "1.5.2-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-only",
+    "haskell-optparse-applicative",
+    "haskell-transformers-compat",
+    "haskell-void"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199638097,
+  "transmit": 373600,
+  "disk": 348204
+}
