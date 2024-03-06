@@ -1,0 +1,20 @@
+{
+  "name": "girara",
+  "version": "0.4.3-2",
+  "depends": [
+    "gtk3",
+    "glib2",
+    "json-glib",
+    "pango",
+    "glibc"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "doxygen",
+    "check"
+  ],
+  "receive": 199564329,
+  "transmit": 261230,
+  "disk": 638709
+}
