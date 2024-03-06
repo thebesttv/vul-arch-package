@@ -1,0 +1,14 @@
+{
+  "name": "haskell-generic-random",
+  "version": "1.5.0.1-84",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199647601,
+  "transmit": 323058,
+  "disk": 370938
+}
