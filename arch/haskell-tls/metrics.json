@@ -1,0 +1,29 @@
+{
+  "name": "haskell-tls",
+  "version": "1.8.0-26",
+  "depends": [
+    "ghc-libs",
+    "haskell-asn1-encoding",
+    "haskell-asn1-types",
+    "haskell-async",
+    "haskell-cereal",
+    "haskell-crypton",
+    "haskell-crypton-x509",
+    "haskell-crypton-x509-store",
+    "haskell-crypton-x509-validation",
+    "haskell-data-default-class",
+    "haskell-memory",
+    "haskell-network",
+    "haskell-unix-time"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-hourglass",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199975475,
+  "transmit": 407867,
+  "disk": 1333802
+}
