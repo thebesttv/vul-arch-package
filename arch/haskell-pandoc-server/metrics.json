@@ -1,0 +1,25 @@
+{
+  "name": "haskell-pandoc-server",
+  "version": "0.1.0.5-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-base64-bytestring",
+    "haskell-data-default",
+    "haskell-doctemplates",
+    "haskell-pandoc",
+    "haskell-pandoc-types",
+    "haskell-servant-server",
+    "haskell-skylighting",
+    "haskell-unicode-collation",
+    "haskell-wai",
+    "haskell-wai-cors"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199916428,
+  "transmit": 341245,
+  "disk": 496206
+}
