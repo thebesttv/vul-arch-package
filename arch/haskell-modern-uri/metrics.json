@@ -1,0 +1,23 @@
+{
+  "name": "haskell-modern-uri",
+  "version": "0.3.6.0-62",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-contravariant",
+    "haskell-hashable",
+    "haskell-megaparsec",
+    "haskell-profunctors",
+    "haskell-reflection",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-megaparsec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199847721,
+  "transmit": 396243,
+  "disk": 467513
+}
