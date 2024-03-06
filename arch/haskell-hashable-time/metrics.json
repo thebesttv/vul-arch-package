@@ -1,0 +1,16 @@
+{
+  "name": "haskell-hashable-time",
+  "version": "0.3-112",
+  "depends": [
+    "ghc-libs",
+    "haskell-time-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hashable"
+  ],
+  "receive": 199747927,
+  "transmit": 401532,
+  "disk": 272517
+}
