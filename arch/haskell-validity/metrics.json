@@ -1,0 +1,15 @@
+{
+  "name": "haskell-validity",
+  "version": "0.12.0.2-14",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec"
+  ],
+  "receive": 199542823,
+  "transmit": 302980,
+  "disk": 310486
+}
