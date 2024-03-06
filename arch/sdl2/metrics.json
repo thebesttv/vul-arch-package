@@ -1,0 +1,35 @@
+{
+  "name": "sdl2",
+  "version": "2.30.1-1",
+  "depends": [
+    "glibc",
+    "libxext",
+    "libxrender",
+    "libx11",
+    "libgl",
+    "libxcursor",
+    "hidapi",
+    "libusb"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "mesa",
+    "libpulse",
+    "libxrandr",
+    "libxinerama",
+    "wayland",
+    "libxkbcommon",
+    "wayland-protocols",
+    "ibus",
+    "fcitx5",
+    "libxss",
+    "cmake",
+    "jack",
+    "ninja",
+    "pipewire",
+    "libdecor"
+  ],
+  "receive": 207186815,
+  "transmit": 366460,
+  "disk": 86781308
+}
