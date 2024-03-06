@@ -1,0 +1,35 @@
+{
+  "name": "hyperkitty",
+  "version": "1.3.9-2",
+  "depends": [
+    "python",
+    "python-dateutil",
+    "python-django",
+    "python-django-allauth",
+    "python-django-compressor",
+    "python-django-extensions",
+    "python-django-gravatar",
+    "python-django-haystack",
+    "python-django-mailman3",
+    "python-django-q",
+    "python-django-rest-framework",
+    "python-flufl-lock",
+    "python-mailmanclient",
+    "python-mistune",
+    "python-networkx",
+    "python-pytz",
+    "python-robot-detection",
+    "python-whoosh",
+    "sassc"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-isort",
+    "python-pdm-backend"
+  ],
+  "receive": 199766844,
+  "transmit": 451063,
+  "disk": 21926385
+}
