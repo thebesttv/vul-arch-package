@@ -1,0 +1,15 @@
+{
+  "name": "haskell-unagi-streams",
+  "version": "0.2.7-45",
+  "depends": [
+    "ghc-libs",
+    "haskell-io-streams",
+    "haskell-unagi-chan"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199655857,
+  "transmit": 287316,
+  "disk": 189017
+}
