@@ -1,0 +1,16 @@
+{
+  "name": "haskell-regex-compat",
+  "version": "0.95.2.1-7",
+  "depends": [
+    "ghc-libs",
+    "haskell-regex-base",
+    "haskell-regex-posix"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199553367,
+  "transmit": 310660,
+  "disk": 140174
+}
