@@ -1,0 +1,14 @@
+{
+  "name": "extra-cmake-modules",
+  "version": "6.0.0-1",
+  "depends": [
+    "cmake"
+  ],
+  "makedepends": [
+    "python-requests",
+    "python-sphinx"
+  ],
+  "receive": 199745391,
+  "transmit": 332773,
+  "disk": 2841257
+}
