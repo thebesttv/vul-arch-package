@@ -1,0 +1,13 @@
+{
+  "name": "haskell-wcwidth",
+  "version": "0.0.2-18",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199544708,
+  "transmit": 290686,
+  "disk": 126775
+}
