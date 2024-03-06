@@ -1,0 +1,20 @@
+{
+  "name": "haskell-bytes",
+  "version": "0.17.3-31",
+  "depends": [
+    "ghc-libs",
+    "haskell-binary-orphans",
+    "haskell-cereal",
+    "haskell-hashable",
+    "haskell-scientific",
+    "haskell-transformers-compat",
+    "haskell-unordered-containers",
+    "haskell-void"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199741966,
+  "transmit": 363401,
+  "disk": 309118
+}
