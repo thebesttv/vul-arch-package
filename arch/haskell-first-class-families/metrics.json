@@ -1,0 +1,14 @@
+{
+  "name": "haskell-first-class-families",
+  "version": "0.8.0.1-8",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199480518,
+  "transmit": 237748,
+  "disk": 253573
+}
