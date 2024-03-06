@@ -1,0 +1,20 @@
+{
+  "name": "haskell-crypton-x509-store",
+  "version": "1.6.9-26",
+  "depends": [
+    "ghc-libs",
+    "haskell-asn1-encoding",
+    "haskell-asn1-types",
+    "haskell-crypton",
+    "haskell-crypton-x509",
+    "haskell-pem"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199567290,
+  "transmit": 301964,
+  "disk": 207167
+}
