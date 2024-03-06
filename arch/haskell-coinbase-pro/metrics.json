@@ -1,0 +1,38 @@
+{
+  "name": "haskell-coinbase-pro",
+  "version": "0.9.3.2-149",
+  "depends": [
+    "ghc-libs",
+    "haskell-hsopenssl",
+    "haskell-aeson",
+    "haskell-aeson-casing",
+    "haskell-async",
+    "haskell-cryptonite",
+    "haskell-http-api-data",
+    "haskell-http-client",
+    "haskell-http-client-tls",
+    "haskell-http-streams",
+    "haskell-http-types",
+    "haskell-io-streams",
+    "haskell-memory",
+    "haskell-network",
+    "haskell-servant",
+    "haskell-servant-client",
+    "haskell-servant-client-core",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-unagi-streams",
+    "haskell-unordered-containers",
+    "haskell-uuid",
+    "haskell-vector",
+    "haskell-websockets",
+    "haskell-wuss"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199698955,
+  "transmit": 394744,
+  "disk": 577741
+}
