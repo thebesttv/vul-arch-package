@@ -1,0 +1,20 @@
+{
+  "name": "haskell-casa-types",
+  "version": "0.0.2-420",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-base16-bytestring",
+    "haskell-hashable",
+    "haskell-path-pieces",
+    "haskell-persistent"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200162997,
+  "transmit": 494451,
+  "disk": 557557
+}
