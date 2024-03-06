@@ -1,0 +1,13 @@
+{
+  "name": "haskell-executable-path",
+  "version": "0.0.3.1-21",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199549797,
+  "transmit": 295980,
+  "disk": 147377
+}
