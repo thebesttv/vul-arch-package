@@ -1,0 +1,25 @@
+{
+  "name": "haskell-gi-dbusmenugtk3",
+  "version": "0.4.14-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-atk",
+    "haskell-gi-dbusmenu",
+    "haskell-gi-gdk3",
+    "haskell-gi-gdkpixbuf",
+    "haskell-gi-glib",
+    "haskell-gi-gobject",
+    "haskell-gi-gtk3",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "libdbusmenu-gtk3"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199643241,
+  "transmit": 389276,
+  "disk": 308332
+}
