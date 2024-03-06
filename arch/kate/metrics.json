@@ -1,0 +1,38 @@
+{
+  "name": "kate",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kbookmarks",
+    "kcolorscheme",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "kguiaddons",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "knewstuff",
+    "kparts",
+    "kservice",
+    "ktexteditor",
+    "ktextwidgets",
+    "kuserfeedback",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "qt6-base",
+    "syntax-highlighting"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 208132745,
+  "transmit": 315376,
+  "disk": 54012879
+}
