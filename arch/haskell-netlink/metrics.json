@@ -1,0 +1,16 @@
+{
+  "name": "haskell-netlink",
+  "version": "1.1.1.0-15",
+  "depends": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-monad-loops",
+    "haskell-pretty-hex"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199895330,
+  "transmit": 609862,
+  "disk": 405969
+}
