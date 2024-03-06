@@ -1,0 +1,18 @@
+{
+  "name": "haskell-binary-parser",
+  "version": "0.5.7.6-3",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-base-prelude",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199853781,
+  "transmit": 314062,
+  "disk": 421478
+}
