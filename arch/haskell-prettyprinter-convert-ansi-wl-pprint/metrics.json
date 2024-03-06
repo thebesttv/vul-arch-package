@@ -1,0 +1,18 @@
+{
+  "name": "haskell-prettyprinter-convert-ansi-wl-pprint",
+  "version": "1.1.2-161",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-ansi-wl-pprint",
+    "haskell-prettyprinter",
+    "haskell-prettyprinter-ansi-terminal"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest"
+  ],
+  "receive": 199574347,
+  "transmit": 314086,
+  "disk": 437607
+}
