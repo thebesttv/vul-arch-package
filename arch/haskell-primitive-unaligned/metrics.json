@@ -1,0 +1,14 @@
+{
+  "name": "haskell-primitive-unaligned",
+  "version": "0.1.1.2-40",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199663518,
+  "transmit": 346223,
+  "disk": 216109
+}
