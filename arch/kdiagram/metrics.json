@@ -1,0 +1,19 @@
+{
+  "name": "kdiagram",
+  "version": "3.0.1-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199632959,
+  "transmit": 373502,
+  "disk": 5448300
+}
