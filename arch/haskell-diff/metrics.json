@@ -1,0 +1,16 @@
+{
+  "name": "haskell-diff",
+  "version": "0.4.1-73",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199566641,
+  "transmit": 270883,
+  "disk": 229729
+}
