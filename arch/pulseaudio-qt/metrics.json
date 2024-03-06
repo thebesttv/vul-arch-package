@@ -1,0 +1,19 @@
+{
+  "name": "pulseaudio-qt",
+  "version": "1.4.0-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libpulse",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199730161,
+  "transmit": 466507,
+  "disk": 363370
+}
