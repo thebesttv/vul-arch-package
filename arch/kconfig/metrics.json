@@ -1,0 +1,19 @@
+{
+  "name": "kconfig",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199750798,
+  "transmit": 408858,
+  "disk": 3593236
+}
