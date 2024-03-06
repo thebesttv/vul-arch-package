@@ -1,0 +1,20 @@
+{
+  "name": "kde-inotify-survey",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kauth",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "knotifications",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199972064,
+  "transmit": 541108,
+  "disk": 986848
+}
