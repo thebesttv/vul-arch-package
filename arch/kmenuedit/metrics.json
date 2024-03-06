@@ -1,0 +1,31 @@
+{
+  "name": "kmenuedit",
+  "version": "6.0.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kglobalaccel",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "kitemviews",
+    "kservice",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "qt6-base",
+    "sonnet"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199681291,
+  "transmit": 260371,
+  "disk": 3920944
+}
