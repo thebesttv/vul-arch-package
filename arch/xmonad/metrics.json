@@ -1,0 +1,20 @@
+{
+  "name": "xmonad",
+  "version": "0.18.0-5",
+  "depends": [
+    "ghc",
+    "haskell-x11",
+    "haskell-data-default-class",
+    "haskell-setlocale"
+  ],
+  "makedepends": [
+    "gendesk",
+    "pandoc",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-quickcheck-classes"
+  ],
+  "receive": 199533004,
+  "transmit": 291476,
+  "disk": 1028415
+}
