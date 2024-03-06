@@ -1,0 +1,14 @@
+{
+  "name": "haskell-data-memocombinators",
+  "version": "0.5.1-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-inttrie"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199564933,
+  "transmit": 270662,
+  "disk": 114776
+}
