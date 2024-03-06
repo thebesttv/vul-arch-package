@@ -1,0 +1,13 @@
+{
+  "name": "haskell-network-byte-order",
+  "version": "0.1.7-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199708066,
+  "transmit": 289848,
+  "disk": 297859
+}
