@@ -1,0 +1,18 @@
+{
+  "name": "nbd",
+  "version": "3.26.1-1",
+  "depends": [
+    "glib2",
+    "gnutls",
+    "libnl"
+  ],
+  "makedepends": [
+    "docbook-utils",
+    "docbook-sgml",
+    "perl-sgmls",
+    "autoconf-archive"
+  ],
+  "receive": 199685216,
+  "transmit": 370765,
+  "disk": 6197436
+}
