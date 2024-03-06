@@ -1,0 +1,16 @@
+{
+  "name": "haskell-sockaddr",
+  "version": "0.0.1-47",
+  "depends": [
+    "ghc-libs",
+    "haskell-byteorder",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199605531,
+  "transmit": 329818,
+  "disk": 162063
+}
