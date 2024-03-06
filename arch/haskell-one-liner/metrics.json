@@ -1,0 +1,19 @@
+{
+  "name": "haskell-one-liner",
+  "version": "2.1-110",
+  "depends": [
+    "ghc-libs",
+    "haskell-bifunctors",
+    "haskell-contravariant",
+    "haskell-linear-base",
+    "haskell-profunctors",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit"
+  ],
+  "receive": 200043331,
+  "transmit": 515801,
+  "disk": 455612
+}
