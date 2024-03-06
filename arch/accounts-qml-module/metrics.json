@@ -1,0 +1,19 @@
+{
+  "name": "accounts-qml-module",
+  "version": "0.7-6",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libaccounts-qt",
+    "qt6-base",
+    "qt6-declarative",
+    "signond"
+  ],
+  "makedepends": [
+    "git",
+    "qt6-tools"
+  ],
+  "receive": 199561889,
+  "transmit": 303343,
+  "disk": 823496
+}
