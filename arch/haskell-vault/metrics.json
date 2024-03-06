@@ -1,0 +1,16 @@
+{
+  "name": "haskell-vault",
+  "version": "0.3.1.5-179",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200018528,
+  "transmit": 514015,
+  "disk": 392032
+}
