@@ -1,0 +1,17 @@
+{
+  "name": "python-flasgger",
+  "version": "0.9.7.1-2",
+  "depends": [
+    "python-flask",
+    "python-yaml",
+    "python-jsonschema",
+    "python-mistune",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199511911,
+  "transmit": 216629,
+  "disk": 18923132
+}
