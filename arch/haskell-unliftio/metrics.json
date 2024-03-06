@@ -1,0 +1,16 @@
+{
+  "name": "haskell-unliftio",
+  "version": "0.2.25.0-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-safe-exceptions",
+    "haskell-unliftio-core"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199690625,
+  "transmit": 358202,
+  "disk": 719148
+}
