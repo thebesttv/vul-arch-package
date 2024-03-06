@@ -1,0 +1,14 @@
+{
+  "name": "haskell-peano",
+  "version": "0.1.0.1-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199586462,
+  "transmit": 298906,
+  "disk": 101789
+}
