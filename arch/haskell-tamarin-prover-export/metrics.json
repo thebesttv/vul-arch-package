@@ -1,0 +1,27 @@
+{
+  "name": "haskell-tamarin-prover-export",
+  "version": "1.8.0-39",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-dlist",
+    "haskell-fclabels",
+    "haskell-hstringtemplate",
+    "haskell-parallel",
+    "haskell-safe",
+    "haskell-uniplate",
+    "haskell-raw-strings-qq",
+    "haskell-tamarin-prover-utils",
+    "haskell-tamarin-prover-term",
+    "haskell-tamarin-prover-theory",
+    "haskell-tamarin-prover-sapic"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199602116,
+  "transmit": 252777,
+  "disk": 272589134
+}
