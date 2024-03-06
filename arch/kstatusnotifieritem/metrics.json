@@ -1,0 +1,19 @@
+{
+  "name": "kstatusnotifieritem",
+  "version": "6.0.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kwindowsystem",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199660948,
+  "transmit": 404145,
+  "disk": 571199
+}
