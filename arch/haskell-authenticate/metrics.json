@@ -1,0 +1,26 @@
+{
+  "name": "haskell-authenticate",
+  "version": "1.3.5.2-11",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-attoparsec-aeson",
+    "haskell-blaze-builder",
+    "haskell-case-insensitive",
+    "haskell-conduit",
+    "haskell-html-conduit",
+    "haskell-http-conduit",
+    "haskell-http-types",
+    "haskell-network-uri",
+    "haskell-resourcet",
+    "haskell-unordered-containers",
+    "haskell-xml-conduit"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199523827,
+  "transmit": 261157,
+  "disk": 1066117
+}
