@@ -1,0 +1,14 @@
+{
+  "name": "haskell-readable",
+  "version": "0.3.1-20",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199606122,
+  "transmit": 358528,
+  "disk": 124101
+}
