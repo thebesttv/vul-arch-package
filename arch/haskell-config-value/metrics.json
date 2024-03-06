@@ -1,0 +1,15 @@
+{
+  "name": "haskell-config-value",
+  "version": "0.8.3-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "alex",
+    "happy"
+  ],
+  "receive": 199577880,
+  "transmit": 293667,
+  "disk": 194687
+}
