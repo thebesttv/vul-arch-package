@@ -1,0 +1,21 @@
+{
+  "name": "kvantum",
+  "version": "1.0.10-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libx11"
+  ],
+  "makedepends": [
+    "cmake",
+    "kwindowsystem5",
+    "qt5-svg",
+    "qt5-tools",
+    "qt5-x11extras",
+    "qt6-svg",
+    "qt6-tools"
+  ],
+  "receive": 201692664,
+  "transmit": 388282,
+  "disk": 15633289
+}
