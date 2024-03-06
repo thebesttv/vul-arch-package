@@ -1,0 +1,19 @@
+{
+  "name": "haskell-crypto-enigma",
+  "version": "0.1.1.6-98",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-optparse-applicative",
+    "haskell-split"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit",
+    "haskell-quickcheck"
+  ],
+  "receive": 199796724,
+  "transmit": 424886,
+  "disk": 900050
+}
