@@ -1,0 +1,26 @@
+{
+  "name": "kdialog",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kguiaddons",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "ktextwidgets",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "libx11",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199772422,
+  "transmit": 403351,
+  "disk": 1961561
+}
