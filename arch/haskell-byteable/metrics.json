@@ -1,0 +1,13 @@
+{
+  "name": "haskell-byteable",
+  "version": "0.1.1-26",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199653538,
+  "transmit": 406514,
+  "disk": 120379
+}
