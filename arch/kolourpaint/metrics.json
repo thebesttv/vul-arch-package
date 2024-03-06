@@ -1,0 +1,27 @@
+{
+  "name": "kolourpaint",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kguiaddons5",
+    "ki18n5",
+    "kio5",
+    "kjobwidgets5",
+    "ktextwidgets5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "libksane",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199659478,
+  "transmit": 256806,
+  "disk": 21333150
+}
