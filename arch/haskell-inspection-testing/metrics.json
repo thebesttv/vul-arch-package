@@ -1,0 +1,14 @@
+{
+  "name": "haskell-inspection-testing",
+  "version": "0.5.0.3-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199517278,
+  "transmit": 227238,
+  "disk": 249871
+}
