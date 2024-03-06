@@ -1,0 +1,18 @@
+{
+  "name": "haskell-concise",
+  "version": "0.1.0.1-501",
+  "depends": [
+    "ghc-libs",
+    "haskell-lens"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199520904,
+  "transmit": 260461,
+  "disk": 512154
+}
