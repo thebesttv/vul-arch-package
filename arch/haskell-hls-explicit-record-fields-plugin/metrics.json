@@ -1,0 +1,23 @@
+{
+  "name": "haskell-hls-explicit-record-fields-plugin",
+  "version": "1.0.0.0-151",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghcide",
+    "haskell-hls-graph",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-syb",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils",
+    "haskell-lsp-test"
+  ],
+  "receive": 199651858,
+  "transmit": 395084,
+  "disk": 418475
+}
