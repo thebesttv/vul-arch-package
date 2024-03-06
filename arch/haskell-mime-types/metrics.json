@@ -1,0 +1,13 @@
+{
+  "name": "haskell-mime-types",
+  "version": "0.1.2.0-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199726796,
+  "transmit": 416988,
+  "disk": 184045
+}
