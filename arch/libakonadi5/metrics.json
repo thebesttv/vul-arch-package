@@ -1,0 +1,16 @@
+{
+  "name": "libakonadi5",
+  "version": "23.08.5-2",
+  "depends": [
+    "kitemmodels5",
+    "kio5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "postgresql",
+    "qt5-tools"
+  ],
+  "receive": 199576392,
+  "transmit": 293976,
+  "disk": 13295266
+}
