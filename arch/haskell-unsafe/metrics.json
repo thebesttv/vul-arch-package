@@ -1,0 +1,13 @@
+{
+  "name": "haskell-unsafe",
+  "version": "0.0-20",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199672471,
+  "transmit": 407392,
+  "disk": 128316
+}
