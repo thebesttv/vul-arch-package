@@ -1,0 +1,25 @@
+{
+  "name": "kiconthemes",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcolorscheme",
+    "kconfig",
+    "kconfigwidgets",
+    "ki18n",
+    "kwidgetsaddons",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199588555,
+  "transmit": 301966,
+  "disk": 12309252
+}
