@@ -1,0 +1,16 @@
+{
+  "name": "haskell-libyaml",
+  "version": "0.1.2-341",
+  "depends": [
+    "ghc-libs",
+    "libyaml",
+    "haskell-conduit",
+    "haskell-resourcet"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199793088,
+  "transmit": 464726,
+  "disk": 915967
+}
