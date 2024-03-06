@@ -1,0 +1,36 @@
+{
+  "name": "haskell-pandoc-lua-engine",
+  "version": "0.2.1-51",
+  "depends": [
+    "ghc-libs",
+    "haskell-sha",
+    "haskell-aeson",
+    "haskell-citeproc",
+    "haskell-data-default",
+    "haskell-doclayout",
+    "haskell-doctemplates",
+    "haskell-hslua",
+    "haskell-hslua-module-doclayout",
+    "haskell-hslua-module-path",
+    "haskell-hslua-module-system",
+    "haskell-hslua-module-text",
+    "haskell-hslua-module-version",
+    "haskell-hslua-module-zip",
+    "haskell-hslua-repl",
+    "haskell-lpeg",
+    "haskell-pandoc",
+    "haskell-pandoc-lua-marshal",
+    "haskell-pandoc-types"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-hunit",
+    "haskell-tasty-lua"
+  ],
+  "receive": 200033932,
+  "transmit": 407336,
+  "disk": 889900
+}
