@@ -1,0 +1,26 @@
+{
+  "name": "ktextwidgets",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "ki18n",
+    "kwidgetsaddons",
+    "qt6-base",
+    "qt6-speech",
+    "sonnet"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199810191,
+  "transmit": 430431,
+  "disk": 27544019
+}
