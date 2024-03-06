@@ -1,0 +1,18 @@
+{
+  "name": "haskell-bz2",
+  "version": "1.0.1.0-218",
+  "depends": [
+    "ghc-libs",
+    "bzip2"
+  ],
+  "makedepends": [
+    "ghc",
+    "c2hs",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199876119,
+  "transmit": 387861,
+  "disk": 1310861
+}
