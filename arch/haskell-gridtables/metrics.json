@@ -1,0 +1,17 @@
+{
+  "name": "haskell-gridtables",
+  "version": "0.1.0.0-46",
+  "depends": [
+    "ghc-libs",
+    "haskell-doclayout"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199478218,
+  "transmit": 248788,
+  "disk": 243596
+}
