@@ -1,0 +1,22 @@
+{
+  "name": "misfortune",
+  "version": "0.1.2.1-51",
+  "depends": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-knob",
+    "haskell-monad-loops",
+    "haskell-random",
+    "haskell-random-fu",
+    "haskell-regex-base",
+    "haskell-regex-pcre",
+    "haskell-utf8-string",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199646661,
+  "transmit": 386411,
+  "disk": 5783142
+}
