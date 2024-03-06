@@ -1,0 +1,18 @@
+{
+  "name": "kapidox",
+  "version": "6.0.0-1",
+  "depends": [
+    "python-jinja",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "qt6-base"
+  ],
+  "receive": 199837884,
+  "transmit": 444682,
+  "disk": 1261285
+}
