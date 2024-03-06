@@ -1,0 +1,22 @@
+{
+  "name": "kguiaddons",
+  "version": "6.0.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "qt6-base",
+    "qt6-wayland",
+    "wayland"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "plasma-wayland-protocols",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199832755,
+  "transmit": 334985,
+  "disk": 791087
+}
