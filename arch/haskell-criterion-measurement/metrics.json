@@ -1,0 +1,16 @@
+{
+  "name": "haskell-criterion-measurement",
+  "version": "0.2.1.0-51",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-base-compat",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199586192,
+  "transmit": 318663,
+  "disk": 510118
+}
