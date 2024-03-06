@@ -1,0 +1,26 @@
+{
+  "name": "katomic",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "knewstuff",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdegames",
+    "perl",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199723633,
+  "transmit": 373270,
+  "disk": 4704558
+}
