@@ -1,0 +1,19 @@
+{
+  "name": "kdesdk-thumbnailers",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "gettext",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kio",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199749388,
+  "transmit": 403286,
+  "disk": 608349
+}
