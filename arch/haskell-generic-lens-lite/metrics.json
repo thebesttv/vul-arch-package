@@ -1,0 +1,14 @@
+{
+  "name": "haskell-generic-lens-lite",
+  "version": "0.1-8",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199667498,
+  "transmit": 405144,
+  "disk": 142364
+}
