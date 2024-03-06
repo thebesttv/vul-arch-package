@@ -1,0 +1,13 @@
+{
+  "name": "haskell-bloomfilter",
+  "version": "2.0.1.2-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199678382,
+  "transmit": 372921,
+  "disk": 249160
+}
