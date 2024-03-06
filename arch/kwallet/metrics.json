@@ -1,0 +1,31 @@
+{
+  "name": "kwallet",
+  "version": "6.0.0-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gpgme",
+    "kcolorscheme",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "knotifications",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "libgcrypt",
+    "qca-qt6",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "kdoctools",
+    "kservice",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199603929,
+  "transmit": 322926,
+  "disk": 4413157
+}
