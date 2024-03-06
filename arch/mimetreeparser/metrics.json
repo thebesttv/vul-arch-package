@@ -1,0 +1,29 @@
+{
+  "name": "mimetreeparser",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gpgme",
+    "kcalendarcore",
+    "ki18n",
+    "kirigami",
+    "kmbox",
+    "kmime",
+    "kwidgetsaddons",
+    "libkleo",
+    "qgpgme-qt6",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-webengine"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199674782,
+  "transmit": 419191,
+  "disk": 2927108
+}
