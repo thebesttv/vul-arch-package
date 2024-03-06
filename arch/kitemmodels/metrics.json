@@ -1,0 +1,19 @@
+{
+  "name": "kitemmodels",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199766261,
+  "transmit": 458674,
+  "disk": 1870817
+}
