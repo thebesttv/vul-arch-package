@@ -1,0 +1,13 @@
+{
+  "name": "poketex",
+  "version": "1.12.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 202635677,
+  "transmit": 423951,
+  "disk": 50862380
+}
