@@ -1,0 +1,26 @@
+{
+  "name": "haskell-rio",
+  "version": "0.1.22.0-108",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-microlens",
+    "haskell-microlens-mtl",
+    "haskell-primitive",
+    "haskell-typed-process",
+    "haskell-unliftio",
+    "haskell-unliftio-core",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-quickcheck"
+  ],
+  "receive": 200073509,
+  "transmit": 492735,
+  "disk": 774945
+}
