@@ -1,0 +1,16 @@
+{
+  "name": "haskell-regex-pcre",
+  "version": "0.95.0.0-14",
+  "depends": [
+    "ghc-libs",
+    "haskell-regex-base",
+    "pcre"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199624675,
+  "transmit": 392786,
+  "disk": 183162
+}
