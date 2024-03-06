@@ -1,0 +1,15 @@
+{
+  "name": "haskell-quickcheck-safe",
+  "version": "0.1.0.6-44",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199745279,
+  "transmit": 417279,
+  "disk": 183113
+}
