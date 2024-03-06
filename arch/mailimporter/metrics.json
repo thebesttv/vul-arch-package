@@ -1,0 +1,26 @@
+{
+  "name": "mailimporter",
+  "version": "24.02.0-1",
+  "depends": [
+    "akonadi-mime",
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kmime",
+    "libakonadi",
+    "pimcommon",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 200120173,
+  "transmit": 637085,
+  "disk": 6087451
+}
