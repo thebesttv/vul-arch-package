@@ -1,0 +1,14 @@
+{
+  "name": "haskell-typst-symbols",
+  "version": "0.1.4-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199631489,
+  "transmit": 362995,
+  "disk": 216058
+}
