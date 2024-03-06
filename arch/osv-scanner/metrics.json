@@ -1,0 +1,13 @@
+{
+  "name": "osv-scanner",
+  "version": "1.7.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199509150,
+  "transmit": 255750,
+  "disk": 30902592
+}
