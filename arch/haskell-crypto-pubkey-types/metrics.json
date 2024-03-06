@@ -1,0 +1,15 @@
+{
+  "name": "haskell-crypto-pubkey-types",
+  "version": "0.4.3-334",
+  "depends": [
+    "ghc-libs",
+    "haskell-asn1-encoding",
+    "haskell-asn1-types"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200083992,
+  "transmit": 413369,
+  "disk": 396149
+}
