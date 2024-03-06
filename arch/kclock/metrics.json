@@ -1,0 +1,29 @@
+{
+  "name": "kclock",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "knotifications",
+    "kstatusnotifieritem",
+    "ksvg",
+    "libplasma",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-multimedia",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199558016,
+  "transmit": 253657,
+  "disk": 2723931
+}
