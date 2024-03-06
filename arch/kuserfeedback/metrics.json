@@ -1,0 +1,20 @@
+{
+  "name": "kuserfeedback",
+  "version": "6.0.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "clang",
+    "extra-cmake-modules",
+    "qt6-charts",
+    "qt6-declarative",
+    "qt6-svg",
+    "qt6-tools"
+  ],
+  "receive": 199484185,
+  "transmit": 232620,
+  "disk": 3273004
+}
