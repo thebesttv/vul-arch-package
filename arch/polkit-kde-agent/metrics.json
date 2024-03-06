@@ -1,0 +1,25 @@
+{
+  "name": "polkit-kde-agent",
+  "version": "6.0.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kirigami",
+    "kwindowsystem",
+    "polkit-qt6",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199680548,
+  "transmit": 337824,
+  "disk": 997233
+}
