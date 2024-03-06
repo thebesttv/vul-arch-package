@@ -1,0 +1,23 @@
+{
+  "name": "sonnet",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "aspell",
+    "doxygen",
+    "extra-cmake-modules",
+    "hspell",
+    "hunspell",
+    "libvoikko",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199741514,
+  "transmit": 451449,
+  "disk": 26165782
+}
