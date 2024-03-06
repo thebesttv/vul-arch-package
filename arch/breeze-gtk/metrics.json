@@ -1,0 +1,14 @@
+{
+  "name": "breeze-gtk",
+  "version": "6.0.1.1-1",
+  "depends": [],
+  "makedepends": [
+    "breeze",
+    "extra-cmake-modules",
+    "python-cairo",
+    "sassc"
+  ],
+  "receive": 200587672,
+  "transmit": 281013,
+  "disk": 1586620
+}
