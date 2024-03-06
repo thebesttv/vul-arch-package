@@ -1,0 +1,22 @@
+{
+  "name": "haskell-incremental-parser",
+  "version": "0.5.1-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-logict",
+    "haskell-input-parsers",
+    "haskell-monoid-subclasses",
+    "haskell-parsers",
+    "haskell-rank2classes"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-checkers",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199903648,
+  "transmit": 346933,
+  "disk": 1797112
+}
