@@ -1,0 +1,30 @@
+{
+  "name": "plasmatube",
+  "version": "24.02.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "kitemmodels",
+    "knotifications",
+    "kwindowsystem",
+    "mpvqt",
+    "purpose",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative",
+    "qtkeychain-qt6",
+    "yt-dlp"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199756129,
+  "transmit": 245473,
+  "disk": 1732798
+}
