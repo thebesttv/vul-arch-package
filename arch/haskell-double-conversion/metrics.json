@@ -1,0 +1,18 @@
+{
+  "name": "haskell-double-conversion",
+  "version": "2.0.5.0-3",
+  "depends": [
+    "ghc-libs",
+    "double-conversion"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199767808,
+  "transmit": 419662,
+  "disk": 26729618
+}
