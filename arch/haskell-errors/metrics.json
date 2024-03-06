@@ -1,0 +1,16 @@
+{
+  "name": "haskell-errors",
+  "version": "2.3.0-72",
+  "depends": [
+    "ghc-libs",
+    "haskell-safe",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199558004,
+  "transmit": 303776,
+  "disk": 214797
+}
