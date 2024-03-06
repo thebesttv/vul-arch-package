@@ -1,0 +1,22 @@
+{
+  "name": "akonadi-calendar-tools",
+  "version": "24.02.0-1",
+  "depends": [
+    "akonadi-calendar",
+    "calendarsupport",
+    "gcc-libs",
+    "glibc",
+    "kcalendarcore",
+    "kcoreaddons",
+    "ki18n",
+    "libakonadi",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199785642,
+  "transmit": 391355,
+  "disk": 3025668
+}
