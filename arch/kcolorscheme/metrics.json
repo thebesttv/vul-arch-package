@@ -1,0 +1,21 @@
+{
+  "name": "kcolorscheme",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kguiaddons",
+    "ki18n",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199564872,
+  "transmit": 288051,
+  "disk": 585309
+}
