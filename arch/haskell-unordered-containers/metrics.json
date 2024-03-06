@@ -1,0 +1,22 @@
+{
+  "name": "haskell-unordered-containers",
+  "version": "0.2.20-12",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-chasingbottoms",
+    "haskell-hunit",
+    "haskell-nothunks",
+    "haskell-quickcheck",
+    "haskell-random",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199522169,
+  "transmit": 284605,
+  "disk": 703129
+}
