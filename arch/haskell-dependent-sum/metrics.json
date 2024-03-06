@@ -1,0 +1,16 @@
+{
+  "name": "haskell-dependent-sum",
+  "version": "0.7.2.0-67",
+  "depends": [
+    "ghc-libs",
+    "haskell-constraints-extras",
+    "haskell-some"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199881980,
+  "transmit": 404403,
+  "disk": 323978
+}
