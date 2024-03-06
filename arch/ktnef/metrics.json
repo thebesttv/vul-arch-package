@@ -1,0 +1,22 @@
+{
+  "name": "ktnef",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcalendarcore",
+    "kcalutils",
+    "kcontacts",
+    "ki18n",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 202439840,
+  "transmit": 2107940,
+  "disk": 1973374
+}
