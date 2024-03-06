@@ -1,0 +1,13 @@
+{
+  "name": "haskell-rfc5051",
+  "version": "0.2-9",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199623342,
+  "transmit": 288575,
+  "disk": 2287363
+}
