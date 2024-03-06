@@ -1,0 +1,13 @@
+{
+  "name": "haskell-byteorder",
+  "version": "1.0.4-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199757017,
+  "transmit": 438705,
+  "disk": 118458
+}
