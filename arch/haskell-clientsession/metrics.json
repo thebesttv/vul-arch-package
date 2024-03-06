@@ -1,0 +1,25 @@
+{
+  "name": "haskell-clientsession",
+  "version": "0.9.2.0-23",
+  "depends": [
+    "ghc-libs",
+    "haskell-base64-bytestring",
+    "haskell-cereal",
+    "haskell-crypto-api",
+    "haskell-cryptonite",
+    "haskell-crypto-random",
+    "haskell-entropy",
+    "haskell-setenv",
+    "haskell-skein",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-hspec"
+  ],
+  "receive": 199832015,
+  "transmit": 298047,
+  "disk": 409337
+}
