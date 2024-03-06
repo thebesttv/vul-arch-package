@@ -1,0 +1,15 @@
+{
+  "name": "haskell-bzlib",
+  "version": "0.5.1.0-9",
+  "depends": [
+    "ghc-libs",
+    "bzip2"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199523813,
+  "transmit": 244105,
+  "disk": 373544
+}
