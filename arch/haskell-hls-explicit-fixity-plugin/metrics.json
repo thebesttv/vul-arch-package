@@ -1,0 +1,21 @@
+{
+  "name": "haskell-hls-explicit-fixity-plugin",
+  "version": "1.1.0.0-151",
+  "depends": [
+    "ghc-libs",
+    "haskell-extra",
+    "haskell-ghc",
+    "haskell-ghcide",
+    "haskell-hashable",
+    "haskell-hls-plugin-api",
+    "haskell-lsp"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 199657280,
+  "transmit": 382098,
+  "disk": 447591
+}
