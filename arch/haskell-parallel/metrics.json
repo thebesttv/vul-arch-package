@@ -1,0 +1,13 @@
+{
+  "name": "haskell-parallel",
+  "version": "3.2.2.0-18",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199658113,
+  "transmit": 388298,
+  "disk": 185600
+}
