@@ -1,0 +1,15 @@
+{
+  "name": "haskell-data-fix",
+  "version": "0.3.2-100",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199568166,
+  "transmit": 309954,
+  "disk": 270803
+}
