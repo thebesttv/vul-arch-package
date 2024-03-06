@@ -1,0 +1,15 @@
+{
+  "name": "haskell-bitwise",
+  "version": "1.0.0.1-190",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck"
+  ],
+  "receive": 199538614,
+  "transmit": 272480,
+  "disk": 353921
+}
