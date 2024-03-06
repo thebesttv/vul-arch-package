@@ -1,0 +1,16 @@
+{
+  "name": "zathura-djvu",
+  "version": "0.2.9-5",
+  "depends": [
+    "djvulibre",
+    "zathura",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja"
+  ],
+  "receive": 199688955,
+  "transmit": 431194,
+  "disk": 170582
+}
