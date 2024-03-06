@@ -1,0 +1,13 @@
+{
+  "name": "haskell-basement",
+  "version": "0.0.16-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199536208,
+  "transmit": 298214,
+  "disk": 991119
+}
