@@ -1,0 +1,20 @@
+{
+  "name": "kcoreaddons",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 202338436,
+  "transmit": 313545,
+  "disk": 28198928
+}
