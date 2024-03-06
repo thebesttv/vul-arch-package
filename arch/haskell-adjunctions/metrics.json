@@ -1,0 +1,25 @@
+{
+  "name": "haskell-adjunctions",
+  "version": "4.4.2-88",
+  "depends": [
+    "ghc-libs",
+    "haskell-comonad",
+    "haskell-contravariant",
+    "haskell-distributive",
+    "haskell-free",
+    "haskell-profunctors",
+    "haskell-semigroupoids",
+    "haskell-tagged",
+    "haskell-transformers-compat",
+    "haskell-void"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-generic-deriving",
+    "haskell-hspec"
+  ],
+  "receive": 199711142,
+  "transmit": 403260,
+  "disk": 583646
+}
