@@ -1,0 +1,13 @@
+{
+  "name": "haskell-cmdargs",
+  "version": "0.10.22-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199646420,
+  "transmit": 368188,
+  "disk": 429718
+}
