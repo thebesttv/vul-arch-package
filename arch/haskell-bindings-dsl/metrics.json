@@ -1,0 +1,13 @@
+{
+  "name": "haskell-bindings-dsl",
+  "version": "1.0.25-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199588573,
+  "transmit": 303938,
+  "disk": 132730
+}
