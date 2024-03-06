@@ -1,0 +1,17 @@
+{
+  "name": "haskell-test-framework-th",
+  "version": "0.2.4-240",
+  "depends": [
+    "ghc-libs",
+    "haskell-test-framework",
+    "haskell-language-haskell-extract",
+    "haskell-src-exts",
+    "haskell-regex-posix"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199609076,
+  "transmit": 333551,
+  "disk": 295408
+}
