@@ -1,0 +1,15 @@
+{
+  "name": "purpose5",
+  "version": "5.115.0-3",
+  "depends": [
+    "kio5",
+    "kirigami2"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "intltool"
+  ],
+  "receive": 199757909,
+  "transmit": 301182,
+  "disk": 1964838
+}
