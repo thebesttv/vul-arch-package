@@ -1,0 +1,13 @@
+{
+  "name": "haskell-data-inttrie",
+  "version": "0.1.4-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199717738,
+  "transmit": 434897,
+  "disk": 108747
+}
