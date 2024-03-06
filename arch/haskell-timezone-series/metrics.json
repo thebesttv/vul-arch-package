@@ -1,0 +1,13 @@
+{
+  "name": "haskell-timezone-series",
+  "version": "0.1.13-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199655648,
+  "transmit": 407022,
+  "disk": 140007
+}
