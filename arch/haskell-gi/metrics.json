@@ -1,0 +1,26 @@
+{
+  "name": "haskell-gi",
+  "version": "0.26.4-62",
+  "depends": [
+    "ghc-libs",
+    "glib2",
+    "gobject-introspection-runtime",
+    "haskell-gi-base",
+    "haskell-ansi-terminal",
+    "haskell-attoparsec",
+    "haskell-pretty-show",
+    "haskell-safe",
+    "haskell-xdg-basedir",
+    "haskell-xml-conduit",
+    "haskell-regex-tdfa"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection",
+    "haskell-cabal-doctest",
+    "haskell-doctest"
+  ],
+  "receive": 199698328,
+  "transmit": 392838,
+  "disk": 1152653
+}
