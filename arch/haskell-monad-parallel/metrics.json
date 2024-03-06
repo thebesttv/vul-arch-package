@@ -1,0 +1,15 @@
+{
+  "name": "haskell-monad-parallel",
+  "version": "0.8-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-parallel",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199709152,
+  "transmit": 398731,
+  "disk": 132162
+}
