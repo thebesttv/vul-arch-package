@@ -1,0 +1,23 @@
+{
+  "name": "hindent",
+  "version": "5.3.4-129",
+  "depends": [
+    "ghc-libs",
+    "haskell-monad-loops",
+    "haskell-optparse-applicative",
+    "haskell-path",
+    "haskell-path-io",
+    "haskell-src-exts",
+    "haskell-unix-compat",
+    "haskell-utf8-string",
+    "haskell-yaml"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-diff",
+    "haskell-hspec"
+  ],
+  "receive": 199785749,
+  "transmit": 450635,
+  "disk": 850602
+}
