@@ -1,0 +1,16 @@
+{
+  "name": "haskell-cryptohash",
+  "version": "0.11.9-341",
+  "depends": [
+    "ghc-libs",
+    "haskell-byteable",
+    "haskell-cryptonite",
+    "haskell-memory"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199528424,
+  "transmit": 243247,
+  "disk": 517965
+}
