@@ -1,0 +1,13 @@
+{
+  "name": "haskell-findbin",
+  "version": "0.0.5-20",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199531454,
+  "transmit": 264259,
+  "disk": 123742
+}
