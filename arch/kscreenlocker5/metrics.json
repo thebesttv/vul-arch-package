@@ -1,0 +1,21 @@
+{
+  "name": "kscreenlocker5",
+  "version": "5.27.11-1",
+  "depends": [
+    "layer-shell-qt5",
+    "kidletime5",
+    "kdeclarative5",
+    "libkscreen5",
+    "kwayland5",
+    "perl"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "kcmutils5",
+    "libxcursor"
+  ],
+  "receive": 199563544,
+  "transmit": 289009,
+  "disk": 1641616
+}
