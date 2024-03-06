@@ -1,0 +1,17 @@
+{
+  "name": "haskell-tasty-inspection-testing",
+  "version": "0.2.1-9",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc",
+    "haskell-inspection-testing",
+    "haskell-tasty"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199635015,
+  "transmit": 373514,
+  "disk": 346522
+}
