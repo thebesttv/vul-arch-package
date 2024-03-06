@@ -1,0 +1,26 @@
+{
+  "name": "kcalutils",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcalendarcore",
+    "kcodecs",
+    "kcoreaddons",
+    "ki18n",
+    "kiconthemes",
+    "kidentitymanagement",
+    "ktexttemplate",
+    "kwidgetsaddons",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 200496157,
+  "transmit": 969302,
+  "disk": 5264737
+}
