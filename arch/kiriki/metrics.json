@@ -1,0 +1,26 @@
+{
+  "name": "kiriki",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kiconthemes",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdegames",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199778832,
+  "transmit": 416754,
+  "disk": 2176790
+}
