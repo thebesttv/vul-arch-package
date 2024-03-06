@@ -1,0 +1,13 @@
+{
+  "name": "haskell-groups",
+  "version": "0.5.3-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199770420,
+  "transmit": 469267,
+  "disk": 111983
+}
