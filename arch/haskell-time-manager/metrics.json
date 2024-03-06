@@ -1,0 +1,16 @@
+{
+  "name": "haskell-time-manager",
+  "version": "0.0.1-31",
+  "depends": [
+    "ghc-libs",
+    "haskell-auto-update",
+    "haskell-unliftio"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199855571,
+  "transmit": 338382,
+  "disk": 366476
+}
