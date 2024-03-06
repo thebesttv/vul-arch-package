@@ -1,0 +1,15 @@
+{
+  "name": "haskell-tabular",
+  "version": "0.2.2.8-7",
+  "depends": [
+    "ghc-libs",
+    "haskell-csv",
+    "haskell-html"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200314831,
+  "transmit": 708169,
+  "disk": 147831
+}
