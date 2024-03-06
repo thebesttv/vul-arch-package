@@ -1,0 +1,27 @@
+{
+  "name": "haskell-servant-client-core",
+  "version": "0.20-6",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-base-compat",
+    "haskell-base64-bytestring",
+    "haskell-constraints",
+    "haskell-free",
+    "haskell-http-media",
+    "haskell-http-types",
+    "haskell-network-uri",
+    "haskell-safe",
+    "haskell-servant",
+    "haskell-sop-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199716609,
+  "transmit": 450456,
+  "disk": 485476
+}
