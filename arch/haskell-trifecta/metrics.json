@@ -1,0 +1,31 @@
+{
+  "name": "haskell-trifecta",
+  "version": "2.1.4-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-blaze-builder",
+    "haskell-blaze-html",
+    "haskell-blaze-markup",
+    "haskell-charset",
+    "haskell-comonad",
+    "haskell-fingertree",
+    "haskell-hashable",
+    "haskell-indexed-traversable",
+    "haskell-lens",
+    "haskell-parsers",
+    "haskell-prettyprinter",
+    "haskell-prettyprinter-ansi-terminal",
+    "haskell-profunctors",
+    "haskell-reducers",
+    "haskell-unordered-containers",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199596509,
+  "transmit": 320314,
+  "disk": 806593
+}
