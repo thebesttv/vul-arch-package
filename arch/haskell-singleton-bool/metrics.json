@@ -1,0 +1,16 @@
+{
+  "name": "haskell-singleton-bool",
+  "version": "0.1.7-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-boring",
+    "haskell-dec",
+    "haskell-some"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199656163,
+  "transmit": 303540,
+  "disk": 178912
+}
