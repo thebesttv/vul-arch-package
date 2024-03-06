@@ -1,0 +1,18 @@
+{
+  "name": "haskell-http-types",
+  "version": "0.12.3-340",
+  "depends": [
+    "ghc-libs",
+    "haskell-case-insensitive"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest",
+    "haskell-hspec",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances"
+  ],
+  "receive": 199685613,
+  "transmit": 395500,
+  "disk": 486781
+}
