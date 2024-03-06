@@ -1,0 +1,28 @@
+{
+  "name": "purpose",
+  "version": "6.0.0-1",
+  "depends": [
+    "accounts-qml-module",
+    "gcc-libs",
+    "glibc",
+    "kaccounts-integration",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "knotifications",
+    "kservice",
+    "libaccounts-qt",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "intltool"
+  ],
+  "receive": 199827786,
+  "transmit": 461113,
+  "disk": 2020722
+}
