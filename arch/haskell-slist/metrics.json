@@ -1,0 +1,19 @@
+{
+  "name": "haskell-slist",
+  "version": "0.2.1.0-34",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-glob",
+    "haskell-doctest",
+    "haskell-hedgehog",
+    "haskell-hspec",
+    "haskell-hspec-hedgehog"
+  ],
+  "receive": 199635687,
+  "transmit": 300141,
+  "disk": 310450
+}
