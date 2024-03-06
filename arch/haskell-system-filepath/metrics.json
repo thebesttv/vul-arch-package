@@ -1,0 +1,15 @@
+{
+  "name": "haskell-system-filepath",
+  "version": "0.4.14-246",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-chell",
+    "haskell-chell-quickcheck"
+  ],
+  "receive": 199752099,
+  "transmit": 361434,
+  "disk": 381709
+}
