@@ -1,0 +1,19 @@
+{
+  "name": "haskell-wide-word",
+  "version": "0.1.6.0-24",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-primitive"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-hedgehog",
+    "haskell-quickcheck-classes",
+    "haskell-semirings"
+  ],
+  "receive": 199697504,
+  "transmit": 314146,
+  "disk": 368389
+}
