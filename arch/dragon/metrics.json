@@ -1,0 +1,30 @@
+{
+  "name": "dragon",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "kparts",
+    "kservice",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "phonon-qt6",
+    "qt6-base",
+    "solid"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 201416995,
+  "transmit": 334524,
+  "disk": 5490642
+}
