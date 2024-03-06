@@ -1,0 +1,13 @@
+{
+  "name": "haskell-prettyclass",
+  "version": "1.0.0.0-19",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199634400,
+  "transmit": 378610,
+  "disk": 121699
+}
