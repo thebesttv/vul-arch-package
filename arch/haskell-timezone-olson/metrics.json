@@ -1,0 +1,15 @@
+{
+  "name": "haskell-timezone-olson",
+  "version": "0.2.1-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-extensible-exceptions",
+    "haskell-timezone-series"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199632967,
+  "transmit": 385860,
+  "disk": 172276
+}
