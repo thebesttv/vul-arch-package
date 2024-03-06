@@ -1,0 +1,24 @@
+{
+  "name": "haskell-tamarin-prover-sapic",
+  "version": "1.8.0-39",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-dlist",
+    "haskell-fclabels",
+    "haskell-parallel",
+    "haskell-safe",
+    "haskell-uniplate",
+    "haskell-raw-strings-qq",
+    "haskell-tamarin-prover-utils",
+    "haskell-tamarin-prover-term",
+    "haskell-tamarin-prover-theory"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200263558,
+  "transmit": 597331,
+  "disk": 272759188
+}
