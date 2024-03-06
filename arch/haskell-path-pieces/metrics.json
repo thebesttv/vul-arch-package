@@ -1,0 +1,13 @@
+{
+  "name": "haskell-path-pieces",
+  "version": "0.2.1-31",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199543541,
+  "transmit": 279505,
+  "disk": 134454
+}
