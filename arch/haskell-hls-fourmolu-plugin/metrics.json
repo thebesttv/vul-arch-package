@@ -1,0 +1,24 @@
+{
+  "name": "haskell-hls-fourmolu-plugin",
+  "version": "1.1.1.0-160",
+  "depends": [
+    "ghc-libs",
+    "haskell-fourmolu",
+    "haskell-ghc",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-process-extras"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-aeson",
+    "haskell-hls-test-utils",
+    "haskell-lsp-test"
+  ],
+  "receive": 200218571,
+  "transmit": 471131,
+  "disk": 711306
+}
