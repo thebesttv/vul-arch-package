@@ -1,0 +1,14 @@
+{
+  "name": "haskell-conversion",
+  "version": "1.2.1-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-prelude"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199519420,
+  "transmit": 231436,
+  "disk": 132731
+}
