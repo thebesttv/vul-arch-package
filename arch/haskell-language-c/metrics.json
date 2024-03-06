@@ -1,0 +1,15 @@
+{
+  "name": "haskell-language-c",
+  "version": "0.9.3-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "alex",
+    "happy",
+    "ghc"
+  ],
+  "receive": 199737170,
+  "transmit": 406052,
+  "disk": 837029
+}
