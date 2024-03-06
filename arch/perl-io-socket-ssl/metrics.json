@@ -1,0 +1,13 @@
+{
+  "name": "perl-io-socket-ssl",
+  "version": "2.085-1",
+  "depends": [
+    "perl-net-ssleay",
+    "perl",
+    "perl-uri"
+  ],
+  "makedepends": [],
+  "receive": 199889984,
+  "transmit": 501147,
+  "disk": 1298037
+}
