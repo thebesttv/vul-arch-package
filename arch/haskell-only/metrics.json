@@ -1,0 +1,13 @@
+{
+  "name": "haskell-only",
+  "version": "0.1-23",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199717682,
+  "transmit": 413846,
+  "disk": 123849
+}
