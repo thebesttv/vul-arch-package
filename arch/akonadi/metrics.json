@@ -1,0 +1,29 @@
+{
+  "name": "akonadi",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "libaccounts-qt",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "postgresql",
+    "qt6-doc",
+    "qt6-tools",
+    "kaccounts-integration",
+    "kconfigwidgets",
+    "kiconthemes",
+    "kio",
+    "kitemmodels",
+    "kxmlgui"
+  ],
+  "receive": 199911742,
+  "transmit": 411149,
+  "disk": 13926153
+}
