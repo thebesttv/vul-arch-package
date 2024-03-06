@@ -1,0 +1,31 @@
+{
+  "name": "print-manager",
+  "version": "1:6.0.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "kirigami",
+    "knotifications",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "libcups",
+    "libplasma",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199662080,
+  "transmit": 266886,
+  "disk": 4667799
+}
