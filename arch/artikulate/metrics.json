@@ -1,0 +1,26 @@
+{
+  "name": "artikulate",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive5",
+    "kconfig5",
+    "kcoreaddons5",
+    "kcrash5",
+    "ki18n5",
+    "kirigami2",
+    "knewstuff5",
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-multimedia",
+    "qt5-xmlpatterns"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199884350,
+  "transmit": 493423,
+  "disk": 4805577
+}
