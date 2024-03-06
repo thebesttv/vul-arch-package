@@ -1,0 +1,15 @@
+{
+  "name": "haskell-src",
+  "version": "1.0.4-62",
+  "depends": [
+    "ghc-libs",
+    "haskell-syb"
+  ],
+  "makedepends": [
+    "ghc",
+    "happy"
+  ],
+  "receive": 199737941,
+  "transmit": 452666,
+  "disk": 330259
+}
