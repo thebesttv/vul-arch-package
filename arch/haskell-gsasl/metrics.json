@@ -1,0 +1,15 @@
+{
+  "name": "haskell-gsasl",
+  "version": "0.3.7-12",
+  "depends": [
+    "ghc-libs",
+    "gsasl",
+    "haskell-monad-loops"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199624013,
+  "transmit": 375890,
+  "disk": 215610
+}
