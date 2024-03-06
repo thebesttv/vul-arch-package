@@ -1,0 +1,16 @@
+{
+  "name": "haskell-random-bytestring",
+  "version": "0.1.4-84",
+  "depends": [
+    "ghc-libs",
+    "haskell-mwc-random",
+    "haskell-pcg-random"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199564054,
+  "transmit": 259846,
+  "disk": 376898
+}
