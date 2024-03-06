@@ -1,0 +1,20 @@
+{
+  "name": "haskell-tasty-lua",
+  "version": "1.1.1-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-file-embed",
+    "haskell-hslua-core",
+    "haskell-hslua-marshalling",
+    "haskell-lua-arbitrary",
+    "haskell-quickcheck",
+    "haskell-tasty"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199880833,
+  "transmit": 370076,
+  "disk": 456284
+}
