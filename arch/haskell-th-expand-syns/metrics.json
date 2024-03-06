@@ -1,0 +1,15 @@
+{
+  "name": "haskell-th-expand-syns",
+  "version": "0.4.11.0-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-syb",
+    "haskell-th-abstraction"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199671675,
+  "transmit": 426640,
+  "disk": 281513
+}
