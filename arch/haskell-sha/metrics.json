@@ -1,0 +1,13 @@
+{
+  "name": "haskell-sha",
+  "version": "1.6.4.4-20",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199736928,
+  "transmit": 428554,
+  "disk": 7663374
+}
