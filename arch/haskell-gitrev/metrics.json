@@ -1,0 +1,14 @@
+{
+  "name": "haskell-gitrev",
+  "version": "1.3.1-32",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199662527,
+  "transmit": 376030,
+  "disk": 137139
+}
