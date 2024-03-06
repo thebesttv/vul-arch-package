@@ -1,0 +1,19 @@
+{
+  "name": "haskell-infinite-list",
+  "version": "0.1.1-9",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-expected-failure",
+    "haskell-tasty-inspection-testing",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199494978,
+  "transmit": 235372,
+  "disk": 279678
+}
