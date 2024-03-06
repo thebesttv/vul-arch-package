@@ -1,0 +1,21 @@
+{
+  "name": "libkgapi",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcalendarcore",
+    "kcontacts",
+    "kwallet",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199722053,
+  "transmit": 340056,
+  "disk": 4106254
+}
