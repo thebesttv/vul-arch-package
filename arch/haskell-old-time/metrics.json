@@ -1,0 +1,14 @@
+{
+  "name": "haskell-old-time",
+  "version": "1.1.0.4-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-old-locale"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199547472,
+  "transmit": 265822,
+  "disk": 469629
+}
