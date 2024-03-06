@@ -1,0 +1,24 @@
+{
+  "name": "kapptemplate",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kwidgetsaddons",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199670591,
+  "transmit": 431645,
+  "disk": 2240794
+}
