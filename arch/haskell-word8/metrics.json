@@ -1,0 +1,13 @@
+{
+  "name": "haskell-word8",
+  "version": "0.1.3-23",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199601159,
+  "transmit": 346161,
+  "disk": 152118
+}
