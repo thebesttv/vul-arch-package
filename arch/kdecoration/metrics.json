@@ -1,0 +1,16 @@
+{
+  "name": "kdecoration",
+  "version": "6.0.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "ki18n",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199802375,
+  "transmit": 462888,
+  "disk": 882765
+}
