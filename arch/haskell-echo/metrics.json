@@ -1,0 +1,13 @@
+{
+  "name": "haskell-echo",
+  "version": "0.1.4-5",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199506530,
+  "transmit": 249727,
+  "disk": 147541
+}
