@@ -1,0 +1,19 @@
+{
+  "name": "haskell-breakpoint",
+  "version": "0.1.2.2-35",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-ghc",
+    "haskell-pretty-simple"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199646316,
+  "transmit": 387282,
+  "disk": 298404
+}
