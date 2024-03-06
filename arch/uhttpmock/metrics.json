@@ -1,0 +1,20 @@
+{
+  "name": "uhttpmock",
+  "version": "0.10.0-1",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "libsoup3"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson",
+    "vala"
+  ],
+  "receive": 199662196,
+  "transmit": 348658,
+  "disk": 737528
+}
