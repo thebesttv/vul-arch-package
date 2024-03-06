@@ -1,0 +1,13 @@
+{
+  "name": "haskell-generic-trie",
+  "version": "0.3.2-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199737096,
+  "transmit": 475242,
+  "disk": 202653
+}
