@@ -1,0 +1,34 @@
+{
+  "name": "akonadi-search",
+  "version": "24.02.0-1",
+  "depends": [
+    "akonadi-mime",
+    "gcc-libs",
+    "glibc",
+    "kcalendarcore",
+    "kcmutils",
+    "kcodecs",
+    "kcompletion",
+    "kconfig",
+    "kcontacts",
+    "kcoreaddons",
+    "ki18n",
+    "kmime",
+    "krunner",
+    "ktextaddons",
+    "kwidgetsaddons",
+    "libakonadi",
+    "qt6-base",
+    "xapian-core"
+  ],
+  "makedepends": [
+    "corrosion",
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199653354,
+  "transmit": 408712,
+  "disk": 1472075
+}
