@@ -1,0 +1,14 @@
+{
+  "name": "haskell-iwlib",
+  "version": "0.1.2-2",
+  "depends": [
+    "ghc-libs",
+    "wireless_tools"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199826734,
+  "transmit": 482433,
+  "disk": 125474
+}
