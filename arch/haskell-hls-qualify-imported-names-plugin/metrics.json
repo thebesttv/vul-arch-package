@@ -1,0 +1,23 @@
+{
+  "name": "haskell-hls-qualify-imported-names-plugin",
+  "version": "1.0.2.0-151",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-dlist",
+    "haskell-ghc",
+    "haskell-ghcide",
+    "haskell-hls-graph",
+    "haskell-hls-plugin-api",
+    "haskell-lsp",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 199883724,
+  "transmit": 321871,
+  "disk": 1025576
+}
