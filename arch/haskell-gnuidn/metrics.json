@@ -1,0 +1,15 @@
+{
+  "name": "haskell-gnuidn",
+  "version": "0.2.2-202",
+  "depends": [
+    "ghc-libs",
+    "libidn"
+  ],
+  "makedepends": [
+    "c2hs",
+    "ghc"
+  ],
+  "receive": 199635012,
+  "transmit": 380174,
+  "disk": 312314
+}
