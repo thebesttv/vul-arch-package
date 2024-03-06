@@ -1,0 +1,14 @@
+{
+  "name": "haskell-configfile",
+  "version": "1.1.4-83",
+  "depends": [
+    "ghc-libs",
+    "haskell-missingh"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199643931,
+  "transmit": 376090,
+  "disk": 334918
+}
