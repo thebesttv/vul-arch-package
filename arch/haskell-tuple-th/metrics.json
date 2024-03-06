@@ -1,0 +1,13 @@
+{
+  "name": "haskell-tuple-th",
+  "version": "0.2.5-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199551156,
+  "transmit": 281231,
+  "disk": 141649
+}
