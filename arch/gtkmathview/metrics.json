@@ -1,0 +1,14 @@
+{
+  "name": "gtkmathview",
+  "version": "0.8.0-10",
+  "depends": [
+    "popt",
+    "t1lib",
+    "libxml2",
+    "glib2"
+  ],
+  "makedepends": [],
+  "receive": 199735335,
+  "transmit": 455025,
+  "disk": 7335184
+}
