@@ -1,0 +1,20 @@
+{
+  "name": "haskell-rank2classes",
+  "version": "1.5.3-13",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-functor-logistic",
+    "haskell-distributive"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-cabal-doctest",
+    "haskell-doctest",
+    "haskell-markdown-unlit",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199539064,
+  "transmit": 238162,
+  "disk": 393105
+}
