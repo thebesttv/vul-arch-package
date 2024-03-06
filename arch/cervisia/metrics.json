@@ -1,0 +1,32 @@
+{
+  "name": "cervisia",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcompletion5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kdbusaddons5",
+    "kdesu5",
+    "ki18n5",
+    "kinit",
+    "kio5",
+    "kitemviews5",
+    "knotifications5",
+    "kparts5",
+    "kservice5",
+    "ktextwidgets5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 201650660,
+  "transmit": 315219,
+  "disk": 9717674
+}
