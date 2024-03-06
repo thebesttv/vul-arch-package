@@ -1,0 +1,28 @@
+{
+  "name": "kturtle",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kio",
+    "knewstuff",
+    "ktextwidgets",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 202136789,
+  "transmit": 472500,
+  "disk": 11655312
+}
