@@ -1,0 +1,14 @@
+{
+  "name": "haskell-knob",
+  "version": "0.2.2-24",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-chell"
+  ],
+  "receive": 199660616,
+  "transmit": 258693,
+  "disk": 252120
+}
