@@ -1,0 +1,15 @@
+{
+  "name": "haskell-monad-journal",
+  "version": "0.8.1-267",
+  "depends": [
+    "ghc-libs",
+    "haskell-monad-control",
+    "haskell-transformers-base"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199758047,
+  "transmit": 464520,
+  "disk": 355638
+}
