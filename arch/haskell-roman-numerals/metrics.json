@@ -1,0 +1,15 @@
+{
+  "name": "haskell-roman-numerals",
+  "version": "0.5.1.5-31",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-unicode-symbols"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199697761,
+  "transmit": 427963,
+  "disk": 136003
+}
