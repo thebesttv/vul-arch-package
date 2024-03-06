@@ -1,0 +1,18 @@
+{
+  "name": "haskell-skylighting",
+  "version": "0.14-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-skylighting-core",
+    "haskell-skylighting-format-ansi",
+    "haskell-skylighting-format-blaze-html",
+    "haskell-skylighting-format-context",
+    "haskell-skylighting-format-latex"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200023717,
+  "transmit": 337705,
+  "disk": 15882788
+}
