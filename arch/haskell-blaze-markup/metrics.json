@@ -1,0 +1,19 @@
+{
+  "name": "haskell-blaze-markup",
+  "version": "0.8.3.0-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-blaze-builder"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199581340,
+  "transmit": 252757,
+  "disk": 420646
+}
