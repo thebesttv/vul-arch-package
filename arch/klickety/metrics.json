@@ -1,0 +1,27 @@
+{
+  "name": "klickety",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdegames",
+    "perl",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199764536,
+  "transmit": 395585,
+  "disk": 5279228
+}
