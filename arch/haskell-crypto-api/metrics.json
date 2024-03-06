@@ -1,0 +1,16 @@
+{
+  "name": "haskell-crypto-api",
+  "version": "0.13.3-39",
+  "depends": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-entropy",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199652851,
+  "transmit": 355809,
+  "disk": 347934
+}
