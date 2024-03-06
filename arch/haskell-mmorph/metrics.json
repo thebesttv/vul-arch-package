@@ -1,0 +1,15 @@
+{
+  "name": "haskell-mmorph",
+  "version": "1.2.0-6",
+  "depends": [
+    "ghc-libs",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199583680,
+  "transmit": 328166,
+  "disk": 165028
+}
