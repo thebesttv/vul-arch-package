@@ -1,0 +1,20 @@
+{
+  "name": "haskell-hasql-notifications",
+  "version": "0.2.0.4-9",
+  "depends": [
+    "ghc-libs",
+    "haskell-hasql",
+    "haskell-hasql-pool",
+    "haskell-postgresql-libpq"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "pifpaf",
+    "postgresql"
+  ],
+  "receive": 199712509,
+  "transmit": 440756,
+  "disk": 396265
+}
