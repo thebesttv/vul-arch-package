@@ -1,0 +1,20 @@
+{
+  "name": "kcrash",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "libx11",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199807417,
+  "transmit": 429551,
+  "disk": 367398
+}
