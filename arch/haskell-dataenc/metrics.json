@@ -1,0 +1,14 @@
+{
+  "name": "haskell-dataenc",
+  "version": "0.14.0.7-31",
+  "depends": [
+    "ghc-libs",
+    "sh"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199591677,
+  "transmit": 300885,
+  "disk": 222699
+}
