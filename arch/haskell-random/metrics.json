@@ -1,0 +1,14 @@
+{
+  "name": "haskell-random",
+  "version": "1.2.1.2-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-splitmix"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199573761,
+  "transmit": 322936,
+  "disk": 800415
+}
