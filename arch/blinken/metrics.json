@@ -1,0 +1,25 @@
+{
+  "name": "blinken",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "kguiaddons",
+    "ki18n",
+    "kxmlgui",
+    "phonon-qt6",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199695172,
+  "transmit": 290755,
+  "disk": 7217626
+}
