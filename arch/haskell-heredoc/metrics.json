@@ -1,0 +1,13 @@
+{
+  "name": "haskell-heredoc",
+  "version": "0.2.0.0-24",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199574886,
+  "transmit": 283695,
+  "disk": 122796
+}
