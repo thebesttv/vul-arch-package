@@ -1,0 +1,14 @@
+{
+  "name": "haskell-polyparse",
+  "version": "1.13-12",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199709810,
+  "transmit": 384341,
+  "disk": 331117
+}
