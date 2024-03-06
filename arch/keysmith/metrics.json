@@ -1,0 +1,24 @@
+{
+  "name": "keysmith",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kdbusaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "kwindowsystem",
+    "libsodium",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "python"
+  ],
+  "receive": 199742956,
+  "transmit": 427211,
+  "disk": 1891646
+}
