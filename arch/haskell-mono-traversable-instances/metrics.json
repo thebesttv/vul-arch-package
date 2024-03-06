@@ -1,0 +1,20 @@
+{
+  "name": "haskell-mono-traversable-instances",
+  "version": "0.1.1.0-214",
+  "depends": [
+    "ghc-libs",
+    "haskell-dlist",
+    "haskell-comonad",
+    "haskell-mono-traversable",
+    "haskell-semigroupoids",
+    "haskell-vector-instances",
+    "haskell-dlist-instances"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199845464,
+  "transmit": 307451,
+  "disk": 399350
+}
