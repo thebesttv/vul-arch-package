@@ -1,0 +1,13 @@
+{
+  "name": "haskell-ghc-bignum-orphans",
+  "version": "0.1.1-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199630227,
+  "transmit": 402838,
+  "disk": 110363
+}
