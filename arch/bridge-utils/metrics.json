@@ -1,0 +1,11 @@
+{
+  "name": "bridge-utils",
+  "version": "1.7.1-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199524292,
+  "transmit": 262848,
+  "disk": 296074
+}
