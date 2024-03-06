@@ -1,0 +1,20 @@
+{
+  "name": "haskell-rsa",
+  "version": "2.4.1-228",
+  "depends": [
+    "ghc-libs",
+    "haskell-crypto-api",
+    "haskell-crypto-pubkey-types",
+    "haskell-sha"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-tagged",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 200903251,
+  "transmit": 1261097,
+  "disk": 413813
+}
