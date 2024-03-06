@@ -1,0 +1,16 @@
+{
+  "name": "haskell-conversion-bytestring",
+  "version": "1.0.1.1-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-prelude",
+    "haskell-conversion"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199516213,
+  "transmit": 246912,
+  "disk": 123742
+}
