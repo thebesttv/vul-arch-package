@@ -1,0 +1,14 @@
+{
+  "name": "haskell-hsopenssl-x509-system",
+  "version": "0.1.0.4-52",
+  "depends": [
+    "ghc-libs",
+    "haskell-hsopenssl"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199637732,
+  "transmit": 332416,
+  "disk": 181848
+}
