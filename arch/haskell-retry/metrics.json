@@ -1,0 +1,21 @@
+{
+  "name": "haskell-retry",
+  "version": "0.9.3.1-34",
+  "depends": [
+    "ghc-libs",
+    "haskell-random",
+    "haskell-unliftio-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hedgehog",
+    "haskell-hunit",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-hedgehog"
+  ],
+  "receive": 199572771,
+  "transmit": 246890,
+  "disk": 559082
+}
