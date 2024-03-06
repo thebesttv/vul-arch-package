@@ -1,0 +1,24 @@
+{
+  "name": "haskell-binary-tagged",
+  "version": "0.3.1-178",
+  "depends": [
+    "ghc-libs",
+    "haskell-base16-bytestring",
+    "haskell-structured",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-binary-instances",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-singleton-bool",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199740317,
+  "transmit": 448576,
+  "disk": 547331
+}
