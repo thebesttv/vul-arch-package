@@ -1,0 +1,39 @@
+{
+  "name": "kget",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gpgme",
+    "qgpgme-qt6",
+    "kcmutils",
+    "kcolorscheme",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kiconthemes",
+    "ki18n",
+    "kio",
+    "kitemviews",
+    "knotifications",
+    "knotifyconfig",
+    "kstatusnotifieritem",
+    "kwallet",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "boost",
+    "extra-cmake-modules",
+    "kdoctools",
+    "libktorrent",
+    "libmms"
+  ],
+  "receive": 200437562,
+  "transmit": 745827,
+  "disk": 24784385
+}
