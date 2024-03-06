@@ -1,0 +1,22 @@
+{
+  "name": "krecorder",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-multimedia",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199648499,
+  "transmit": 355111,
+  "disk": 1057754
+}
