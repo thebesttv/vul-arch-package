@@ -1,0 +1,13 @@
+{
+  "name": "haskell-monadplus",
+  "version": "1.4.3-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199749157,
+  "transmit": 469292,
+  "disk": 140464
+}
