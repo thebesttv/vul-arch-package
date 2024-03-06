@@ -1,0 +1,18 @@
+{
+  "name": "haskell-gi-cairo-render",
+  "version": "0.1.2-37",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-base",
+    "haskell-utf8-string",
+    "cairo"
+  ],
+  "makedepends": [
+    "ghc",
+    "c2hs",
+    "uusi"
+  ],
+  "receive": 200141931,
+  "transmit": 684082,
+  "disk": 356425
+}
