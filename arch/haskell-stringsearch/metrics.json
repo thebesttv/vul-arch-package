@@ -1,0 +1,13 @@
+{
+  "name": "haskell-stringsearch",
+  "version": "0.3.6.6-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199751822,
+  "transmit": 370010,
+  "disk": 360858
+}
