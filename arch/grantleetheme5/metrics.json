@@ -1,0 +1,14 @@
+{
+  "name": "grantleetheme5",
+  "version": "23.08.5-2",
+  "depends": [
+    "grantlee",
+    "knewstuff5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199613961,
+  "transmit": 364236,
+  "disk": 712467
+}
