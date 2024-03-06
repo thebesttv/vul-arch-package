@@ -1,0 +1,23 @@
+{
+  "name": "haskell-text-builder-dev",
+  "version": "0.3.3.2-74",
+  "depends": [
+    "ghc-libs",
+    "haskell-deferred-folds",
+    "haskell-isomorphism-class",
+    "haskell-split"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199534000,
+  "transmit": 255732,
+  "disk": 347466
+}
