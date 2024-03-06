@@ -1,0 +1,18 @@
+{
+  "name": "kcolorchooser",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kxmlgui",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 200133864,
+  "transmit": 738407,
+  "disk": 714368
+}
