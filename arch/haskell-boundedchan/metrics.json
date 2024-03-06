@@ -1,0 +1,13 @@
+{
+  "name": "haskell-boundedchan",
+  "version": "1.0.3.0-3",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199527107,
+  "transmit": 264151,
+  "disk": 112832
+}
