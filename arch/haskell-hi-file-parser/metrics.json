@@ -1,0 +1,16 @@
+{
+  "name": "haskell-hi-file-parser",
+  "version": "0.1.6.0-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-rio",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199858919,
+  "transmit": 402999,
+  "disk": 524525
+}
