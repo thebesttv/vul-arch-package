@@ -1,0 +1,13 @@
+{
+  "name": "haskell-control-monad-free",
+  "version": "0.6.2-18",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199627160,
+  "transmit": 339898,
+  "disk": 134475
+}
