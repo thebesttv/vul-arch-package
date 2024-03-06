@@ -1,0 +1,30 @@
+{
+  "name": "kfilemetadata",
+  "version": "6.0.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "ebook-tools",
+    "exiv2",
+    "ffmpeg",
+    "karchive",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "poppler-qt6",
+    "qt6-base",
+    "taglib"
+  ],
+  "makedepends": [
+    "catdoc",
+    "doxygen",
+    "extra-cmake-modules",
+    "kdegraphics-mobipocket",
+    "libappimage",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199733970,
+  "transmit": 345705,
+  "disk": 3813247
+}
