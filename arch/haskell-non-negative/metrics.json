@@ -1,0 +1,15 @@
+{
+  "name": "haskell-non-negative",
+  "version": "0.1.2-240",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-utility-ht"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199613146,
+  "transmit": 345914,
+  "disk": 380317
+}
