@@ -1,0 +1,29 @@
+{
+  "name": "kpimtextedit",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcodecs",
+    "kcolorscheme",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "ktextaddons",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-base",
+    "sonnet",
+    "syntax-highlighting"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199732016,
+  "transmit": 338544,
+  "disk": 2207177
+}
