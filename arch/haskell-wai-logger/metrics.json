@@ -1,0 +1,20 @@
+{
+  "name": "haskell-wai-logger",
+  "version": "2.4.0-413",
+  "depends": [
+    "ghc-libs",
+    "haskell-byteorder",
+    "haskell-fast-logger",
+    "haskell-http-types",
+    "haskell-network",
+    "haskell-wai"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-cabal-doctest",
+    "haskell-doctest"
+  ],
+  "receive": 200644219,
+  "transmit": 486531,
+  "disk": 1167177
+}
