@@ -1,0 +1,13 @@
+{
+  "name": "haskell-fmlist",
+  "version": "0.9.4-8",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199551701,
+  "transmit": 281791,
+  "disk": 129435
+}
