@@ -1,0 +1,20 @@
+{
+  "name": "kio-zeroconf",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kdnssd",
+    "ki18n",
+    "kio",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199737600,
+  "transmit": 399105,
+  "disk": 741041
+}
