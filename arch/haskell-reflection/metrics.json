@@ -1,0 +1,15 @@
+{
+  "name": "haskell-reflection",
+  "version": "2.1.7-22",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-quickcheck"
+  ],
+  "receive": 199875262,
+  "transmit": 505002,
+  "disk": 369257
+}
