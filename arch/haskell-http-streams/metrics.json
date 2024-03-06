@@ -1,0 +1,26 @@
+{
+  "name": "haskell-http-streams",
+  "version": "0.8.9.9-28",
+  "depends": [
+    "ghc-libs",
+    "haskell-hsopenssl",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-attoparsec-aeson",
+    "haskell-base64-bytestring",
+    "haskell-blaze-builder",
+    "haskell-case-insensitive",
+    "haskell-http-common",
+    "haskell-io-streams",
+    "haskell-network",
+    "haskell-network-uri",
+    "haskell-openssl-streams",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199621163,
+  "transmit": 369270,
+  "disk": 954837
+}
