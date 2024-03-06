@@ -1,0 +1,27 @@
+{
+  "name": "haskell-turtle",
+  "version": "1.6.2-4",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-wl-pprint",
+    "haskell-async",
+    "haskell-clock",
+    "haskell-foldl",
+    "haskell-hostname",
+    "haskell-managed",
+    "haskell-optparse-applicative",
+    "haskell-optional-args",
+    "haskell-streaming-commons",
+    "haskell-temporary",
+    "haskell-unix-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199599311,
+  "transmit": 344298,
+  "disk": 841279
+}
