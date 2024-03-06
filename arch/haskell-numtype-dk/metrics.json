@@ -1,0 +1,13 @@
+{
+  "name": "haskell-numtype-dk",
+  "version": "0.5.0.3-3",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199656837,
+  "transmit": 411616,
+  "disk": 143927
+}
