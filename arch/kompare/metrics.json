@@ -1,0 +1,29 @@
+{
+  "name": "kompare",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcodecs5",
+    "kcompletion5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "ki18n5",
+    "kio5",
+    "kjobwidgets5",
+    "kparts5",
+    "ktexteditor5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "libkomparediff2",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199840218,
+  "transmit": 408097,
+  "disk": 6434284
+}
