@@ -1,0 +1,21 @@
+{
+  "name": "haskell-keys",
+  "version": "3.12.3-301",
+  "depends": [
+    "ghc-libs",
+    "haskell-comonad",
+    "haskell-free",
+    "haskell-hashable",
+    "haskell-semigroupoids",
+    "haskell-tagged",
+    "haskell-transformers-compat",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200125481,
+  "transmit": 529216,
+  "disk": 529131
+}
