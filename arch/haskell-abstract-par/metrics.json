@@ -1,0 +1,13 @@
+{
+  "name": "haskell-abstract-par",
+  "version": "0.3.3-26",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199536776,
+  "transmit": 287144,
+  "disk": 136716
+}
