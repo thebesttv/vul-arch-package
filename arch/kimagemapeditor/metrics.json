@@ -1,0 +1,25 @@
+{
+  "name": "kimagemapeditor",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "ki18n5",
+    "kio5",
+    "kparts5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "qt5-base",
+    "qt5-webengine"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 199521960,
+  "transmit": 235297,
+  "disk": 4365416
+}
