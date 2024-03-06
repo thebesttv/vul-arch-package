@@ -1,0 +1,34 @@
+{
+  "name": "onionshare",
+  "version": "2.6.1-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "pyside6",
+    "python",
+    "python-colorama",
+    "python-flask",
+    "python-flask-compress",
+    "python-flask-socketio",
+    "python-packaging",
+    "python-psutil",
+    "python-pynacl",
+    "python-pysocks",
+    "python-qrcode",
+    "python-requests",
+    "python-setuptools",
+    "python-unidecode",
+    "python-waitress",
+    "python-werkzeug",
+    "stem",
+    "tor"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry",
+    "python-wheel"
+  ],
+  "receive": 199676462,
+  "transmit": 382533,
+  "disk": 24770541
+}
