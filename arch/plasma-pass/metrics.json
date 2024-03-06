@@ -1,0 +1,25 @@
+{
+  "name": "plasma-pass",
+  "version": "1.2.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gpgme",
+    "kcoreaddons",
+    "ki18n",
+    "kitemmodels",
+    "libplasma",
+    "oath-toolkit",
+    "plasma-workspace",
+    "plasma5support",
+    "qgpgme-qt6",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199724663,
+  "transmit": 392188,
+  "disk": 579614
+}
