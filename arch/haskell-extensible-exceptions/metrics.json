@@ -1,0 +1,14 @@
+{
+  "name": "haskell-extensible-exceptions",
+  "version": "0.1.1.4-37",
+  "depends": [
+    "ghc-libs",
+    "sh"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199674018,
+  "transmit": 401066,
+  "disk": 165629
+}
