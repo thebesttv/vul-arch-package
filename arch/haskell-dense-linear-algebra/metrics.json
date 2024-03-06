@@ -1,0 +1,21 @@
+{
+  "name": "haskell-dense-linear-algebra",
+  "version": "0.1.0.0-289",
+  "depends": [
+    "ghc-libs",
+    "haskell-math-functions",
+    "haskell-primitive",
+    "haskell-vector",
+    "haskell-vector-algorithms",
+    "haskell-vector-th-unbox",
+    "haskell-vector-binary-instances"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-quickcheck"
+  ],
+  "receive": 199850625,
+  "transmit": 339337,
+  "disk": 370879
+}
