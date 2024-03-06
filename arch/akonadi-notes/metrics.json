@@ -1,0 +1,20 @@
+{
+  "name": "akonadi-notes",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "ki18n",
+    "kmime",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199528420,
+  "transmit": 270759,
+  "disk": 622260
+}
