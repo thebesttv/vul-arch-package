@@ -1,0 +1,13 @@
+{
+  "name": "haskell-edisonapi",
+  "version": "1.3.3-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199562000,
+  "transmit": 298012,
+  "disk": 313132
+}
