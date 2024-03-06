@@ -1,0 +1,18 @@
+{
+  "name": "haskell-cryptohash-md5",
+  "version": "0.11.101.0-99",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-base16-bytestring",
+    "haskell-puremd5",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199626887,
+  "transmit": 361496,
+  "disk": 277277
+}
