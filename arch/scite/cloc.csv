@@ -1,0 +1,53 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.30 s (363.3 files/s 152780.5 lines/s)"
+251,C++,17984,14050,137827
+40,HTML,2010,242,63302
+156,C/C++ Header,6528,4163,34343
+143,Properties,3626,3484,18061
+35,C,2689,2404,13965
+48,Python,1175,916,6923
+5,Objective-C++,1420,1511,5202
+23,XML,0,5,2401
+11,make,252,120,844
+13,Text,144,0,634
+3,Windows Resource File,71,30,617
+16,DOS Batch,54,81,417
+4,Perl,94,141,252
+3,SQL,82,51,222
+3,ProGuard,30,11,214
+6,Bourne Shell,48,71,196
+12,Ruby,51,69,191
+5,F#,30,98,121
+6,Markdown,40,0,94
+4,PHP,13,8,67
+5,PowerShell,23,41,52
+4,Lua,28,40,51
+1,VHDL,6,0,51
+1,AsciiDoc,0,4,50
+2,ASP.NET,0,2,41
+1,Raku,11,5,39
+1,CSS,25,27,37
+1,D,2,8,37
+1,Bourne Again Shell,9,9,34
+2,GDScript,33,21,34
+2,TeX,13,15,29
+1,JSON,15,0,28
+2,R,13,20,28
+2,diff,17,8,26
+1,Qt Project,9,2,23
+1,Erlang,27,32,19
+1,zsh,15,17,19
+2,Modula3,4,2,17
+1,Nim,4,9,15
+1,Assembly,17,21,14
+1,CMake,3,9,13
+1,ASP,0,0,12
+1,Fortran 77,15,20,12
+1,Julia,6,6,12
+1,Visual Basic .NET,0,4,12
+1,OCaml,15,23,11
+2,Windows Module Definition,0,0,11
+3,Rust,0,9,10
+1,Tcl/Tk,4,3,6
+2,YAML,7,3,6
+1,Objective-C,2,8,5
+835,SUM,36664,27823,286647
