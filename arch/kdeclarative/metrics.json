@@ -1,0 +1,26 @@
+{
+  "name": "kdeclarative",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kguiaddons",
+    "kglobalaccel",
+    "kguiaddons",
+    "ki18n",
+    "kwidgetsaddons",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-shadertools",
+    "qt6-tools"
+  ],
+  "receive": 199738660,
+  "transmit": 374393,
+  "disk": 26345082
+}
