@@ -1,0 +1,16 @@
+{
+  "name": "haskell-co-log-core",
+  "version": "0.3.2.1-14",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-glob",
+    "haskell-doctest"
+  ],
+  "receive": 200131568,
+  "transmit": 709790,
+  "disk": 234687
+}
