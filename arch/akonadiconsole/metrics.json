@@ -1,0 +1,38 @@
+{
+  "name": "akonadiconsole",
+  "version": "24.02.0-1",
+  "depends": [
+    "akonadi-contacts",
+    "akonadi-search",
+    "calendarsupport",
+    "gcc-libs",
+    "glibc",
+    "kcalendarcore",
+    "kcolorscheme",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcontacts",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kitemmodels",
+    "kmime",
+    "ktextwidgets",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libakonadi",
+    "libkdepim",
+    "messagelib",
+    "qt6-base",
+    "xapian-core"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199823560,
+  "transmit": 468992,
+  "disk": 2593579
+}
