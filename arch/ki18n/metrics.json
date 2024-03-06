@@ -1,0 +1,21 @@
+{
+  "name": "ki18n",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "iso-codes",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "python",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199819136,
+  "transmit": 396773,
+  "disk": 39676209
+}
