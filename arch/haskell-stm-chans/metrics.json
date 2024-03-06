@@ -1,0 +1,13 @@
+{
+  "name": "haskell-stm-chans",
+  "version": "3.0.0.9-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199489741,
+  "transmit": 233142,
+  "disk": 195854
+}
