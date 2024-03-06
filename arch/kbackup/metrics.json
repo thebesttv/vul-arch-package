@@ -1,0 +1,31 @@
+{
+  "name": "kbackup",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kguiaddons",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "kservice",
+    "kstatusnotifieritem",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libarchive",
+    "qt6-5compat",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199673039,
+  "transmit": 403340,
+  "disk": 2353336
+}
