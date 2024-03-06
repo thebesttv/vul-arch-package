@@ -1,0 +1,13 @@
+{
+  "name": "haskell-monads-tf",
+  "version": "0.1.0.3-24",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199552287,
+  "transmit": 311737,
+  "disk": 223195
+}
