@@ -1,0 +1,29 @@
+{
+  "name": "haskell-parameterized-utils",
+  "version": "2.1.8.0-9",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-orphans",
+    "haskell-constraints",
+    "haskell-hashable",
+    "haskell-hashtables",
+    "haskell-indexed-traversable",
+    "haskell-lens",
+    "haskell-profunctors",
+    "haskell-th-abstraction",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hedgehog",
+    "haskell-hedgehog-classes",
+    "haskell-tasty",
+    "haskell-tasty-ant-xml",
+    "haskell-tasty-hunit",
+    "haskell-tasty-hedgehog"
+  ],
+  "receive": 200106631,
+  "transmit": 625072,
+  "disk": 975153
+}
