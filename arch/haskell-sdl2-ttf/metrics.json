@@ -1,0 +1,17 @@
+{
+  "name": "haskell-sdl2-ttf",
+  "version": "2.1.3-105",
+  "depends": [
+    "ghc-libs",
+    "sdl2",
+    "sdl2_ttf",
+    "haskell-sdl2",
+    "haskell-th-abstraction"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 201654974,
+  "transmit": 1590360,
+  "disk": 294012
+}
