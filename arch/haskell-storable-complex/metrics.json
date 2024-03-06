@@ -1,0 +1,14 @@
+{
+  "name": "haskell-storable-complex",
+  "version": "0.2.3.0-239",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-orphans"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199544833,
+  "transmit": 291625,
+  "disk": 299368
+}
