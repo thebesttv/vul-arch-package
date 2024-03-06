@@ -1,0 +1,14 @@
+{
+  "name": "haskell-wl-pprint-text",
+  "version": "1.2.0.2-6",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199570918,
+  "transmit": 261330,
+  "disk": 214732
+}
