@@ -1,0 +1,13 @@
+{
+  "name": "haskell-erf",
+  "version": "2.0.0.0-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199599250,
+  "transmit": 319178,
+  "disk": 126374
+}
