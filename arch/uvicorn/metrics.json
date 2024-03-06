@@ -1,0 +1,22 @@
+{
+  "name": "uvicorn",
+  "version": "0.27.1-1",
+  "depends": [
+    "python",
+    "python-asgiref",
+    "python-click",
+    "python-h11",
+    "python-httptools",
+    "python-uvloop",
+    "python-websockets"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199774159,
+  "transmit": 402442,
+  "disk": 9143592
+}
