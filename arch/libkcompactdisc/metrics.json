@@ -1,0 +1,19 @@
+{
+  "name": "libkcompactdisc",
+  "version": "24.02.0-1",
+  "depends": [
+    "alsa-lib",
+    "gcc-libs",
+    "glibc",
+    "ki18n",
+    "phonon-qt6",
+    "qt6-base",
+    "solid"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199539988,
+  "transmit": 270529,
+  "disk": 1208775
+}
