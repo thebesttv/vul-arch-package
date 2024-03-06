@@ -1,0 +1,16 @@
+{
+  "name": "haskell-microlens-th",
+  "version": "0.4.3.14-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-microlens",
+    "haskell-th-abstraction"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tagged"
+  ],
+  "receive": 199697118,
+  "transmit": 405622,
+  "disk": 264472
+}
