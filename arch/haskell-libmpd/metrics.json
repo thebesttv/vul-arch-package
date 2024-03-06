@@ -1,0 +1,21 @@
+{
+  "name": "haskell-libmpd",
+  "version": "0.10.0.0-152",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-data-default-class",
+    "haskell-network",
+    "haskell-safe-exceptions",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199886612,
+  "transmit": 379721,
+  "disk": 581727
+}
