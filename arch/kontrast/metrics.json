@@ -1,0 +1,24 @@
+{
+  "name": "kontrast",
+  "version": "24.02.0-1",
+  "depends": [
+    "futuresql-qt6",
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools",
+    "python",
+    "qcoro-qt6"
+  ],
+  "receive": 199712998,
+  "transmit": 401167,
+  "disk": 1309774
+}
