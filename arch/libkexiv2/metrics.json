@@ -1,0 +1,17 @@
+{
+  "name": "libkexiv2",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "exiv2"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-base",
+    "qt6-base"
+  ],
+  "receive": 199713690,
+  "transmit": 272524,
+  "disk": 741395
+}
