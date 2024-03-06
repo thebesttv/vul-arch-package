@@ -1,0 +1,15 @@
+{
+  "name": "haskell-easy-file",
+  "version": "0.2.5-19",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199711583,
+  "transmit": 383002,
+  "disk": 225007
+}
