@@ -1,0 +1,14 @@
+{
+  "name": "haskell-data-accessor-transformers",
+  "version": "0.2.1.8-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-accessor"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199896589,
+  "transmit": 558424,
+  "disk": 142159
+}
