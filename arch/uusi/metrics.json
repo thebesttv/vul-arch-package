@@ -1,0 +1,13 @@
+{
+  "name": "uusi",
+  "version": "0.4.3.0-31",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199629247,
+  "transmit": 328568,
+  "disk": 376383
+}
