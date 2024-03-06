@@ -1,0 +1,13 @@
+{
+  "name": "haskell-uglymemo",
+  "version": "0.1.0.1-23",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199570894,
+  "transmit": 339934,
+  "disk": 113086
+}
