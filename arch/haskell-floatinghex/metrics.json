@@ -1,0 +1,13 @@
+{
+  "name": "haskell-floatinghex",
+  "version": "0.5-7",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199554914,
+  "transmit": 283702,
+  "disk": 132333
+}
