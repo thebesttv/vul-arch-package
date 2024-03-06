@@ -1,0 +1,14 @@
+{
+  "name": "breeze-plymouth",
+  "version": "6.0.1.1-1",
+  "depends": [
+    "glibc",
+    "plymouth"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199597985,
+  "transmit": 247166,
+  "disk": 567930
+}
