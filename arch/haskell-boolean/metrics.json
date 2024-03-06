@@ -1,0 +1,13 @@
+{
+  "name": "haskell-boolean",
+  "version": "0.2.4-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199540992,
+  "transmit": 274758,
+  "disk": 130217
+}
