@@ -1,0 +1,35 @@
+{
+  "name": "haskell-hls-hlint-plugin",
+  "version": "1.1.2.0-40",
+  "depends": [
+    "ghc-libs",
+    "haskell-diff",
+    "haskell-aeson",
+    "haskell-apply-refact",
+    "haskell-data-default",
+    "haskell-extra",
+    "haskell-ghc",
+    "haskell-ghc-exactprint",
+    "haskell-ghc-lib-parser-ex",
+    "haskell-ghcide",
+    "haskell-hashable",
+    "hlint",
+    "haskell-hls-plugin-api",
+    "haskell-hslogger",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-refact",
+    "haskell-regex-tdfa",
+    "haskell-temporary",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils",
+    "haskell-lsp-types"
+  ],
+  "receive": 199628069,
+  "transmit": 310076,
+  "disk": 806554
+}
