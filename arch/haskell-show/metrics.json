@@ -1,0 +1,14 @@
+{
+  "name": "haskell-show",
+  "version": "0.6-145",
+  "depends": [
+    "ghc-libs",
+    "haskell-syb"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199769980,
+  "transmit": 412050,
+  "disk": 234080
+}
