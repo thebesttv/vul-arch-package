@@ -1,0 +1,13 @@
+{
+  "name": "haskell-patience",
+  "version": "0.3-10",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199638377,
+  "transmit": 382877,
+  "disk": 141949
+}
