@@ -1,0 +1,12 @@
+{
+  "name": "go",
+  "version": "2:1.22.1-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 227823801,
+  "transmit": 585444,
+  "disk": 150907116
+}
