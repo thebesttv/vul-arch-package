@@ -1,0 +1,12 @@
+{
+  "name": "mpdecimal",
+  "version": "4.0.0-2",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199748948,
+  "transmit": 472817,
+  "disk": 2242920
+}
