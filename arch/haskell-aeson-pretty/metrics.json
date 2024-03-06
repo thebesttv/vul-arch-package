@@ -1,0 +1,21 @@
+{
+  "name": "haskell-aeson-pretty",
+  "version": "0.8.10-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-attoparsec-aeson",
+    "haskell-base-compat",
+    "haskell-cmdargs",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199955662,
+  "transmit": 316695,
+  "disk": 531003
+}
