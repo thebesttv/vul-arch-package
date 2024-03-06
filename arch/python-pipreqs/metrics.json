@@ -1,0 +1,17 @@
+{
+  "name": "python-pipreqs",
+  "version": "0.4.13-2",
+  "depends": [
+    "python-docopt",
+    "python-yarg"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199636086,
+  "transmit": 387667,
+  "disk": 344515
+}
