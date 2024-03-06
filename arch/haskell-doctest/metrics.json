@@ -1,0 +1,18 @@
+{
+  "name": "haskell-doctest",
+  "version": "0.20.1-74",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-ghc",
+    "haskell-syb",
+    "haskell-code-page",
+    "haskell-ghc-paths"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200314845,
+  "transmit": 473175,
+  "disk": 934910
+}
