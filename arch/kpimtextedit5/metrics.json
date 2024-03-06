@@ -1,0 +1,17 @@
+{
+  "name": "kpimtextedit5",
+  "version": "23.08.5-2",
+  "depends": [
+    "kio5",
+    "syntax-highlighting5",
+    "ktextaddons5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "doxygen"
+  ],
+  "receive": 199583307,
+  "transmit": 304872,
+  "disk": 4642280
+}
