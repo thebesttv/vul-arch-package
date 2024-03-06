@@ -1,0 +1,17 @@
+{
+  "name": "haskell-optics-th",
+  "version": "0.4.1-37",
+  "depends": [
+    "ghc-libs",
+    "haskell-optics-core",
+    "haskell-th-abstraction"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tagged"
+  ],
+  "receive": 199523984,
+  "transmit": 247804,
+  "disk": 381813
+}
