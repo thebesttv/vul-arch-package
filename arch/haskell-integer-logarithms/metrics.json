@@ -1,0 +1,14 @@
+{
+  "name": "haskell-integer-logarithms",
+  "version": "1.0.3.1-7",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199511194,
+  "transmit": 219888,
+  "disk": 195893
+}
