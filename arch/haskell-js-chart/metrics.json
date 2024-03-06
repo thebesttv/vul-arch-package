@@ -1,0 +1,13 @@
+{
+  "name": "haskell-js-chart",
+  "version": "2.9.4.1-7",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199608736,
+  "transmit": 344586,
+  "disk": 1393308
+}
