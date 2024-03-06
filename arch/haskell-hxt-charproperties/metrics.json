@@ -1,0 +1,13 @@
+{
+  "name": "haskell-hxt-charproperties",
+  "version": "9.5.0.0-5",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199703675,
+  "transmit": 406164,
+  "disk": 2533651
+}
