@@ -1,0 +1,13 @@
+{
+  "name": "nitrogen",
+  "version": "1.6.1-5",
+  "depends": [
+    "gtkmm",
+    "hicolor-icon-theme",
+    "librsvg"
+  ],
+  "makedepends": [],
+  "receive": 199741346,
+  "transmit": 429290,
+  "disk": 1649758
+}
