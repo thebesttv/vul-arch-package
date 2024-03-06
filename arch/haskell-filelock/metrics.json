@@ -1,0 +1,14 @@
+{
+  "name": "haskell-filelock",
+  "version": "0.1.1.7-10",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-async"
+  ],
+  "receive": 199603127,
+  "transmit": 334000,
+  "disk": 305444
+}
