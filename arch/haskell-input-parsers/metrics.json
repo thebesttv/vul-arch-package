@@ -1,0 +1,16 @@
+{
+  "name": "haskell-input-parsers",
+  "version": "0.3.0.2-16",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-monoid-subclasses",
+    "haskell-parsers"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199967560,
+  "transmit": 469541,
+  "disk": 418902
+}
