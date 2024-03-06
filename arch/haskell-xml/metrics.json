@@ -1,0 +1,13 @@
+{
+  "name": "haskell-xml",
+  "version": "1.3.14-31",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199536060,
+  "transmit": 283642,
+  "disk": 182998
+}
