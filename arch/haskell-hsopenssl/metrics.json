@@ -1,0 +1,15 @@
+{
+  "name": "haskell-hsopenssl",
+  "version": "0.11.7.6-20",
+  "depends": [
+    "ghc-libs",
+    "haskell-network",
+    "openssl"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199581890,
+  "transmit": 311150,
+  "disk": 782042
+}
