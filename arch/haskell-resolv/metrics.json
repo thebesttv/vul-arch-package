@@ -1,0 +1,16 @@
+{
+  "name": "haskell-resolv",
+  "version": "0.2.0.2-199",
+  "depends": [
+    "ghc-libs",
+    "haskell-base16-bytestring"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199578821,
+  "transmit": 299680,
+  "disk": 980961
+}
