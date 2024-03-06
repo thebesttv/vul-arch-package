@@ -1,0 +1,16 @@
+{
+  "name": "haskell-mime-mail",
+  "version": "0.5.1-135",
+  "depends": [
+    "ghc-libs",
+    "haskell-base64-bytestring",
+    "haskell-blaze-builder",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 202015515,
+  "transmit": 1978585,
+  "disk": 354166
+}
