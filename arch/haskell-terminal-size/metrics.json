@@ -1,0 +1,13 @@
+{
+  "name": "haskell-terminal-size",
+  "version": "0.3.4-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199647996,
+  "transmit": 385923,
+  "disk": 144529
+}
