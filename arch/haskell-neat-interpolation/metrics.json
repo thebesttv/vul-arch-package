@@ -1,0 +1,18 @@
+{
+  "name": "haskell-neat-interpolation",
+  "version": "0.5.1.4-31",
+  "depends": [
+    "ghc-libs",
+    "haskell-megaparsec"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199549164,
+  "transmit": 253066,
+  "disk": 481484
+}
