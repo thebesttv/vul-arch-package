@@ -1,0 +1,21 @@
+{
+  "name": "haskell-network-protocol-xmpp",
+  "version": "0.4.10-97",
+  "depends": [
+    "ghc-libs",
+    "haskell-gnuidn",
+    "haskell-gnutls",
+    "haskell-gsasl",
+    "haskell-libxml-sax",
+    "haskell-monads-tf",
+    "haskell-network",
+    "haskell-network-simple",
+    "haskell-xml-types"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199637550,
+  "transmit": 364939,
+  "disk": 426476
+}
