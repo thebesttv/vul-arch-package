@@ -1,0 +1,14 @@
+{
+  "name": "haskell-assert-failure",
+  "version": "0.1.3.0-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-pretty-show"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199728724,
+  "transmit": 418753,
+  "disk": 120220
+}
