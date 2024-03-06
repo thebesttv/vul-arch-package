@@ -1,0 +1,14 @@
+{
+  "name": "haskell-isocline",
+  "version": "1.0.9-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199677422,
+  "transmit": 415423,
+  "disk": 652424
+}
