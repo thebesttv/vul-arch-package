@@ -1,0 +1,32 @@
+{
+  "name": "kitinerary",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcalendarcore",
+    "kcodecs",
+    "kcontacts",
+    "ki18n",
+    "kmime",
+    "kpkpass",
+    "libphonenumber",
+    "libxml2",
+    "openssl",
+    "poppler",
+    "qt6-base",
+    "qt6-declarative",
+    "zlib",
+    "zxing-cpp"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199836789,
+  "transmit": 471047,
+  "disk": 17422776
+}
