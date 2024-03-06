@@ -1,0 +1,31 @@
+{
+  "name": "libkdegames",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcolorscheme",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kdnssd",
+    "kguiaddons",
+    "ki18n",
+    "knewstuff",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libsndfile",
+    "openal",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199548410,
+  "transmit": 275509,
+  "disk": 44572619
+}
