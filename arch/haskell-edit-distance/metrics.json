@@ -1,0 +1,14 @@
+{
+  "name": "haskell-edit-distance",
+  "version": "0.2.2.1-205",
+  "depends": [
+    "ghc-libs",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199682249,
+  "transmit": 296928,
+  "disk": 331023
+}
