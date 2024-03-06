@@ -1,0 +1,15 @@
+{
+  "name": "haskell-network-multicast",
+  "version": "0.3.2-210",
+  "depends": [
+    "ghc-libs",
+    "haskell-network",
+    "haskell-network-bsd"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199796979,
+  "transmit": 387621,
+  "disk": 340253
+}
