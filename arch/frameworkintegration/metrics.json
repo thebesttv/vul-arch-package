@@ -1,0 +1,24 @@
+{
+  "name": "frameworkintegration",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "ki18n",
+    "kiconthemes",
+    "knewstuff",
+    "knotifications",
+    "kwidgetsaddons",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "appstream-qt",
+    "extra-cmake-modules",
+    "packagekit-qt6"
+  ],
+  "receive": 199823079,
+  "transmit": 388700,
+  "disk": 560800
+}
