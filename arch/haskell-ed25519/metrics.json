@@ -1,0 +1,14 @@
+{
+  "name": "haskell-ed25519",
+  "version": "0.0.5.0-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199664473,
+  "transmit": 408935,
+  "disk": 463221
+}
