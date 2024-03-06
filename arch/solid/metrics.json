@@ -1,0 +1,26 @@
+{
+  "name": "solid",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libimobiledevice",
+    "libplist",
+    "media-player-info",
+    "qt6-base",
+    "systemd-libs",
+    "udisks2",
+    "upower",
+    "util-linux-libs"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199673939,
+  "transmit": 380600,
+  "disk": 4967731
+}
