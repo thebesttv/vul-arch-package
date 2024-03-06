@@ -1,0 +1,21 @@
+{
+  "name": "plasma-framework5",
+  "version": "5.115.0-3",
+  "depends": [
+    "kactivities5",
+    "kdeclarative5",
+    "kglobalaccel5",
+    "kwayland5",
+    "kirigami2"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools",
+    "qt5-doc",
+    "kdoctools5",
+    "doxygen"
+  ],
+  "receive": 199969092,
+  "transmit": 553823,
+  "disk": 21132605
+}
