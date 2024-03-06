@@ -1,0 +1,20 @@
+{
+  "name": "haskell-filestore",
+  "version": "0.6.5-47",
+  "depends": [
+    "ghc-libs",
+    "haskell-diff",
+    "haskell-old-locale",
+    "haskell-split",
+    "haskell-utf8-string",
+    "haskell-xml"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit"
+  ],
+  "receive": 199529881,
+  "transmit": 280360,
+  "disk": 316982
+}
