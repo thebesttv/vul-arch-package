@@ -1,0 +1,20 @@
+{
+  "name": "haskell-monoid-subclasses",
+  "version": "1.2.4.1-29",
+  "depends": [
+    "ghc-libs",
+    "haskell-commutative-semigroups",
+    "haskell-primes",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 200251765,
+  "transmit": 573376,
+  "disk": 798918
+}
