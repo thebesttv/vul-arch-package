@@ -1,0 +1,25 @@
+{
+  "name": "ghostwriter",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hunspell",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "qt5-base",
+    "qt5-webchannel",
+    "qt5-webengine",
+    "sonnet5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "qt5-tools"
+  ],
+  "receive": 203396132,
+  "transmit": 435367,
+  "disk": 39459032
+}
