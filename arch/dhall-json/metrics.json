@@ -1,0 +1,26 @@
+{
+  "name": "dhall-json",
+  "version": "1.7.11-161",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-aeson-yaml",
+    "dhall",
+    "haskell-lens-family-core",
+    "haskell-optparse-applicative",
+    "haskell-prettyprinter",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-prettyprinter-ansi-terminal"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-silver"
+  ],
+  "receive": 200773495,
+  "transmit": 1347406,
+  "disk": 888870
+}
