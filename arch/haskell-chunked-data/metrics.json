@@ -1,0 +1,14 @@
+{
+  "name": "haskell-chunked-data",
+  "version": "0.3.1-249",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199545686,
+  "transmit": 256774,
+  "disk": 331491
+}
