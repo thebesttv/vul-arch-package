@@ -1,0 +1,43 @@
+{
+  "name": "ktextaddons",
+  "version": "1.5.3-4",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "karchive",
+    "kconfig",
+    "kconfigwidgets",
+    "ki18n",
+    "kio",
+    "ktextaddons",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-base",
+    "qt6-doc",
+    "qt6-speech",
+    "qt6-tools",
+    "qtkeychain-qt6",
+    "sonnet",
+    "syntax-highlighting",
+    "karchive5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "ki18n5",
+    "kio5",
+    "kwidgetsaddons5",
+    "qt5-base",
+    "qt5-doc",
+    "qt5-speech",
+    "qt5-tools",
+    "qtkeychain-qt5",
+    "sonnet5",
+    "syntax-highlighting5"
+  ],
+  "receive": 199710516,
+  "transmit": 392341,
+  "disk": 5928541
+}
