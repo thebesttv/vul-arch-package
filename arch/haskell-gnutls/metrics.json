@@ -1,0 +1,15 @@
+{
+  "name": "haskell-gnutls",
+  "version": "0.2-26",
+  "depends": [
+    "ghc-libs",
+    "gnutls",
+    "haskell-monads-tf"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199518322,
+  "transmit": 246880,
+  "disk": 201368
+}
