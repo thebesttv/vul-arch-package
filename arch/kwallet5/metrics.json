@@ -1,0 +1,22 @@
+{
+  "name": "kwallet5",
+  "version": "5.115.0-2",
+  "depends": [
+    "knotifications5",
+    "kservice5",
+    "kconfigwidgets5",
+    "gpgme",
+    "qca-qt5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "boost",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 199692790,
+  "transmit": 388866,
+  "disk": 4278603
+}
