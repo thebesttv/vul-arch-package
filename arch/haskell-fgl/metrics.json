@@ -1,0 +1,15 @@
+{
+  "name": "haskell-fgl",
+  "version": "5.8.2.0-6",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-quickcheck"
+  ],
+  "receive": 199553912,
+  "transmit": 288666,
+  "disk": 594792
+}
