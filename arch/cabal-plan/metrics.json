@@ -1,0 +1,29 @@
+{
+  "name": "cabal-plan",
+  "version": "0.7.2.1-4",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-ansi-terminal",
+    "haskell-async",
+    "haskell-base-compat",
+    "haskell-base16-bytestring",
+    "haskell-cabal-install-parsers",
+    "haskell-optics-core",
+    "haskell-optparse-applicative",
+    "haskell-semialign",
+    "haskell-singleton-bool",
+    "haskell-tar",
+    "haskell-these",
+    "haskell-topograph",
+    "haskell-vector",
+    "haskell-zlib"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200125891,
+  "transmit": 535025,
+  "disk": 637445
+}
