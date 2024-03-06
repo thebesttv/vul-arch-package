@@ -1,0 +1,26 @@
+{
+  "name": "khangman",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "knewstuff",
+    "libkeduvocdocument",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-multimedia"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 201558698,
+  "transmit": 376586,
+  "disk": 20671899
+}
