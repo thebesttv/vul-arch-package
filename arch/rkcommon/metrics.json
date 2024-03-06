@@ -1,0 +1,15 @@
+{
+  "name": "rkcommon",
+  "version": "1.13.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "onetbb"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199728194,
+  "transmit": 435311,
+  "disk": 2139951
+}
