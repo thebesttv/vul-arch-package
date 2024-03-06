@@ -1,0 +1,13 @@
+{
+  "name": "haskell-data-endian",
+  "version": "0.1.1-24",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199495734,
+  "transmit": 245494,
+  "disk": 127595
+}
