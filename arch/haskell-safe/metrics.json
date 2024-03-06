@@ -1,0 +1,14 @@
+{
+  "name": "haskell-safe",
+  "version": "0.3.21-3",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199606936,
+  "transmit": 355041,
+  "disk": 190100
+}
