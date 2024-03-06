@@ -1,0 +1,14 @@
+{
+  "name": "haskell-cookie",
+  "version": "0.4.6-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default-class"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199577475,
+  "transmit": 339154,
+  "disk": 154690
+}
