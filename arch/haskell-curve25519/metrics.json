@@ -1,0 +1,20 @@
+{
+  "name": "haskell-curve25519",
+  "version": "0.2.8-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-crypto-api"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-tagged",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199596586,
+  "transmit": 247647,
+  "disk": 240675
+}
