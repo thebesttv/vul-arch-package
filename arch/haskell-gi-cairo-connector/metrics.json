@@ -1,0 +1,17 @@
+{
+  "name": "haskell-gi-cairo-connector",
+  "version": "0.1.1-119",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-cairo",
+    "haskell-gi-cairo-render",
+    "haskell-gi-base"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199644031,
+  "transmit": 367153,
+  "disk": 294608
+}
