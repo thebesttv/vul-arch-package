@@ -1,0 +1,33 @@
+{
+  "name": "elisa",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "kfilemetadata",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "kirigami",
+    "kitemviews",
+    "kxmlgui",
+    "qqc2-desktop-style",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-multimedia",
+    "vlc"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199585784,
+  "transmit": 295575,
+  "disk": 10136683
+}
