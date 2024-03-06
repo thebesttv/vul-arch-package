@@ -1,0 +1,17 @@
+{
+  "name": "python-marshmallow-sqlalchemy",
+  "version": "1.0.0-1",
+  "depends": [
+    "python-marshmallow",
+    "python-sqlalchemy"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199723215,
+  "transmit": 455222,
+  "disk": 1939950
+}
