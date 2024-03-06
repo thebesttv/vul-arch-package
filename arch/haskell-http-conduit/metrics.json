@@ -1,0 +1,40 @@
+{
+  "name": "haskell-http-conduit",
+  "version": "2.3.8.3-41",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-attoparsec-aeson",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-http-client",
+    "haskell-http-client-tls",
+    "haskell-http-types",
+    "haskell-resourcet",
+    "haskell-unliftio-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-blaze-builder",
+    "haskell-case-insensitive",
+    "haskell-cookie",
+    "haskell-crypton-connection",
+    "haskell-data-default-class",
+    "haskell-hunit",
+    "haskell-hspec",
+    "haskell-lifted-base",
+    "haskell-network",
+    "haskell-streaming-commons",
+    "haskell-temporary",
+    "haskell-unliftio",
+    "haskell-utf8-string",
+    "haskell-wai",
+    "haskell-wai-conduit",
+    "haskell-warp",
+    "haskell-warp-tls"
+  ],
+  "receive": 199672595,
+  "transmit": 300633,
+  "disk": 1151287
+}
