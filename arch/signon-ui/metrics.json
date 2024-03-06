@@ -1,0 +1,20 @@
+{
+  "name": "signon-ui",
+  "version": "0.17+20231016-2",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "libaccounts-qt",
+    "libnotify",
+    "libproxy",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-webengine",
+    "signond"
+  ],
+  "makedepends": [],
+  "receive": 199558280,
+  "transmit": 266436,
+  "disk": 445119
+}
