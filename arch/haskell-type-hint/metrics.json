@@ -1,0 +1,14 @@
+{
+  "name": "haskell-type-hint",
+  "version": "0.1-29",
+  "depends": [
+    "ghc-libs",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199561990,
+  "transmit": 344605,
+  "disk": 132020
+}
