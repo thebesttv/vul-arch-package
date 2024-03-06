@@ -1,0 +1,26 @@
+{
+  "name": "kmousetool",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kstatusnotifieritem",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libx11",
+    "libxtst",
+    "qt6-base",
+    "qt6-multimedia"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199888318,
+  "transmit": 446277,
+  "disk": 1521787
+}
