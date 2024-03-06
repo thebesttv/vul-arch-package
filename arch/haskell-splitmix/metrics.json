@@ -1,0 +1,13 @@
+{
+  "name": "haskell-splitmix",
+  "version": "0.1.0.5-18",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200433438,
+  "transmit": 793332,
+  "disk": 570278
+}
