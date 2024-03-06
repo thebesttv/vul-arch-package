@@ -1,0 +1,21 @@
+{
+  "name": "haskell-blaze-html",
+  "version": "0.9.1.2-224",
+  "depends": [
+    "ghc-libs",
+    "haskell-blaze-builder",
+    "haskell-blaze-markup"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199561076,
+  "transmit": 307553,
+  "disk": 1236933
+}
