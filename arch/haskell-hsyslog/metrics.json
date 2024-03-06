@@ -1,0 +1,14 @@
+{
+  "name": "haskell-hsyslog",
+  "version": "5.0.2-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hsc2hs"
+  ],
+  "receive": 199565124,
+  "transmit": 250383,
+  "disk": 148356
+}
