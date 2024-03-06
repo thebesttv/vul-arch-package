@@ -1,0 +1,15 @@
+{
+  "name": "haskell-broadcast-chan",
+  "version": "0.2.1.2-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-unliftio-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199641078,
+  "transmit": 344174,
+  "disk": 186664
+}
