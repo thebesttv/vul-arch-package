@@ -1,0 +1,25 @@
+{
+  "name": "kweather",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "kweathercore",
+    "libplasma",
+    "qt6-base",
+    "qt6-charts",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "python"
+  ],
+  "receive": 199673422,
+  "transmit": 432142,
+  "disk": 3201646
+}
