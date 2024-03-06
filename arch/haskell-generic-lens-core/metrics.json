@@ -1,0 +1,14 @@
+{
+  "name": "haskell-generic-lens-core",
+  "version": "2.2.1.0-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-indexed-profunctors"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199544400,
+  "transmit": 289099,
+  "disk": 272197
+}
