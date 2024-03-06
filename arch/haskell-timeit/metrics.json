@@ -1,0 +1,13 @@
+{
+  "name": "haskell-timeit",
+  "version": "2.0-20",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199668009,
+  "transmit": 381368,
+  "disk": 114755
+}
