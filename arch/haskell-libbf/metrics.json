@@ -1,0 +1,15 @@
+{
+  "name": "haskell-libbf",
+  "version": "0.6.5.1-41",
+  "depends": [
+    "ghc-libs",
+    "libbf",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199560651,
+  "transmit": 297338,
+  "disk": 615166
+}
