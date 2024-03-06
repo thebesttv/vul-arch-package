@@ -1,0 +1,13 @@
+{
+  "name": "haskell-ifelse",
+  "version": "0.85-27",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199540200,
+  "transmit": 288950,
+  "disk": 127264
+}
