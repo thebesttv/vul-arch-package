@@ -1,0 +1,23 @@
+{
+  "name": "ksystemstats",
+  "version": "6.0.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "libksysguard",
+    "lm_sensors",
+    "qt6-base",
+    "solid"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "libnl",
+    "networkmanager-qt"
+  ],
+  "receive": 199555814,
+  "transmit": 295699,
+  "disk": 1834319
+}
