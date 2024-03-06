@@ -1,0 +1,16 @@
+{
+  "name": "haskell-cipher-aes",
+  "version": "0.2.11-324",
+  "depends": [
+    "ghc-libs",
+    "haskell-byteable",
+    "haskell-crypto-cipher-types",
+    "haskell-securemem"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199580683,
+  "transmit": 261161,
+  "disk": 557590
+}
