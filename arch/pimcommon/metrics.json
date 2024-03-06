@@ -1,0 +1,40 @@
+{
+  "name": "pimcommon",
+  "version": "24.02.0-1",
+  "depends": [
+    "akonadi-contacts",
+    "akonadi-search",
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kcodecs",
+    "kcolorscheme",
+    "kcompletion",
+    "kconfig",
+    "kcontacts",
+    "kcoreaddons",
+    "ki18n",
+    "kimap",
+    "kio",
+    "kitemmodels",
+    "kitemviews",
+    "kldap",
+    "knewstuff",
+    "ktextaddons",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libakonadi",
+    "libkdepim",
+    "purpose",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 200233147,
+  "transmit": 501563,
+  "disk": 4333315
+}
