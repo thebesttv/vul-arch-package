@@ -1,0 +1,19 @@
+{
+  "name": "haskell-markdown-unlit",
+  "version": "0.5.1-157",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-silently",
+    "haskell-stringbuilder",
+    "haskell-temporary"
+  ],
+  "receive": 199526177,
+  "transmit": 292090,
+  "disk": 314999
+}
