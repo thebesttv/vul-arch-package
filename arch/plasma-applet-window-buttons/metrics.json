@@ -1,0 +1,26 @@
+{
+  "name": "plasma-applet-window-buttons",
+  "version": "0.11.1-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "kcoreaddons",
+    "kdecoration",
+    "ki18n",
+    "kirigami",
+    "kitemmodels",
+    "ksvg",
+    "libplasma",
+    "plasma-workspace",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199590573,
+  "transmit": 341535,
+  "disk": 550593
+}
