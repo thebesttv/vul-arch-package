@@ -1,0 +1,19 @@
+{
+  "name": "kdesdk-kio",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "qt6-base",
+    "perl"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199909695,
+  "transmit": 502377,
+  "disk": 637912
+}
