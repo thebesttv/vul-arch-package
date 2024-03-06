@@ -1,0 +1,18 @@
+{
+  "name": "kio-fuse",
+  "version": "5.1.0-3",
+  "depends": [
+    "fuse3",
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "kio",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199677702,
+  "transmit": 378595,
+  "disk": 387476
+}
