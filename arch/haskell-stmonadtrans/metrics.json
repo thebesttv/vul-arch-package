@@ -1,0 +1,16 @@
+{
+  "name": "haskell-stmonadtrans",
+  "version": "0.4.8-3",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199567731,
+  "transmit": 274528,
+  "disk": 339093
+}
