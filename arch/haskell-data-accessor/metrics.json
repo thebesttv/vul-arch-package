@@ -1,0 +1,13 @@
+{
+  "name": "haskell-data-accessor",
+  "version": "0.2.3.1-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200061627,
+  "transmit": 589120,
+  "disk": 215305
+}
