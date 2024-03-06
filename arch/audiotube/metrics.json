@@ -1,0 +1,32 @@
+{
+  "name": "audiotube",
+  "version": "24.02.0-1",
+  "depends": [
+    "futuresql-qt6",
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kirigami-addons",
+    "kwindowsystem",
+    "purpose",
+    "python",
+    "python-ytmusicapi",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-imageformats",
+    "qt6-multimedia",
+    "qt6-svg",
+    "yt-dlp"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "pybind11",
+    "qcoro-qt6"
+  ],
+  "receive": 199720122,
+  "transmit": 395936,
+  "disk": 1833199
+}
