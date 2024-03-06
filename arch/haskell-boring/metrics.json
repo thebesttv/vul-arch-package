@@ -1,0 +1,15 @@
+{
+  "name": "haskell-boring",
+  "version": "0.2.1-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199557894,
+  "transmit": 287863,
+  "disk": 128549
+}
