@@ -1,0 +1,13 @@
+{
+  "name": "haskell-graphscc",
+  "version": "1.0.4-26",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199596821,
+  "transmit": 334750,
+  "disk": 134954
+}
