@@ -1,0 +1,14 @@
+{
+  "name": "haskell-system-fileio",
+  "version": "0.3.16.4-241",
+  "depends": [
+    "ghc-libs",
+    "haskell-system-filepath"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199555787,
+  "transmit": 276601,
+  "disk": 375469
+}
