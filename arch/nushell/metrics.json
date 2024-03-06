@@ -1,0 +1,18 @@
+{
+  "name": "nushell",
+  "version": "0.91.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "libcrypto.so",
+    "libssl.so",
+    "zlib"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 274943796,
+  "transmit": 1022358,
+  "disk": 91855437
+}
