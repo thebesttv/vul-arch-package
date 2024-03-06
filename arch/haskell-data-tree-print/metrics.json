@@ -1,0 +1,15 @@
+{
+  "name": "haskell-data-tree-print",
+  "version": "0.1.0.2-145",
+  "depends": [
+    "ghc-libs",
+    "haskell-syb"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199581215,
+  "transmit": 338013,
+  "disk": 225041
+}
