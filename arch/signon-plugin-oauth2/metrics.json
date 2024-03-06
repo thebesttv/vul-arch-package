@@ -1,0 +1,16 @@
+{
+  "name": "signon-plugin-oauth2",
+  "version": "0.25-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "signond"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199561872,
+  "transmit": 254422,
+  "disk": 789864
+}
