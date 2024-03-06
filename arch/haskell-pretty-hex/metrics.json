@@ -1,0 +1,13 @@
+{
+  "name": "haskell-pretty-hex",
+  "version": "1.1-10",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199728867,
+  "transmit": 436300,
+  "disk": 107354
+}
