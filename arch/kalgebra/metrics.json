@@ -1,0 +1,29 @@
+{
+  "name": "kalgebra",
+  "version": "24.02.0-1",
+  "depends": [
+    "analitza",
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-webengine",
+    "readline"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools",
+    "libplasma"
+  ],
+  "receive": 199732601,
+  "transmit": 333907,
+  "disk": 4676461
+}
