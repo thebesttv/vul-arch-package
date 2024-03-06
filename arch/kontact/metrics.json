@@ -1,0 +1,35 @@
+{
+  "name": "kontact",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "grantleetheme",
+    "kcmutils",
+    "kcolorscheme",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kio",
+    "kjobwidgets",
+    "kontactinterface",
+    "kmail-account-wizard",
+    "kparts",
+    "kservice",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdepim",
+    "pimcommon",
+    "qt6-base",
+    "qt6-webengine"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199715030,
+  "transmit": 375885,
+  "disk": 6068366
+}
