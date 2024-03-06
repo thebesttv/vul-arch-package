@@ -1,0 +1,13 @@
+{
+  "name": "haskell-time-locale-compat",
+  "version": "0.1.1.5-18",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199612462,
+  "transmit": 370713,
+  "disk": 134275
+}
