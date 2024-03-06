@@ -1,0 +1,20 @@
+{
+  "name": "haskell-irc-core",
+  "version": "2.11-47",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-base64-bytestring",
+    "haskell-hashable",
+    "haskell-primitive",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit"
+  ],
+  "receive": 199593999,
+  "transmit": 354975,
+  "disk": 303083
+}
