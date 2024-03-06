@@ -1,0 +1,29 @@
+{
+  "name": "kanagram",
+  "version": "24.02.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "knewstuff",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkeduvocdocument",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-multimedia",
+    "qt6-speech",
+    "sonnet"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 207819792,
+  "transmit": 362392,
+  "disk": 19026762
+}
