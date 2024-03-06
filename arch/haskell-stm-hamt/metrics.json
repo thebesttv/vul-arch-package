@@ -1,0 +1,26 @@
+{
+  "name": "haskell-stm-hamt",
+  "version": "1.2.0.14-29",
+  "depends": [
+    "ghc-libs",
+    "haskell-deferred-folds",
+    "haskell-focus",
+    "haskell-hashable",
+    "haskell-list-t",
+    "haskell-primitive",
+    "haskell-primitive-extras"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199582870,
+  "transmit": 341432,
+  "disk": 315892
+}
