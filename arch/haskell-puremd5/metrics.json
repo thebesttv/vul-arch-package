@@ -1,0 +1,16 @@
+{
+  "name": "haskell-puremd5",
+  "version": "2.1.4-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-crypto-api",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199734228,
+  "transmit": 418157,
+  "disk": 164087
+}
