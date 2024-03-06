@@ -1,0 +1,17 @@
+{
+  "name": "django",
+  "version": "4.2.11-1",
+  "depends": [
+    "python",
+    "python-pytz",
+    "python-sqlparse",
+    "python-asgiref"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 210378529,
+  "transmit": 500882,
+  "disk": 66419638
+}
