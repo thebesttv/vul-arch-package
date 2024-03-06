@@ -1,0 +1,16 @@
+{
+  "name": "haskell-colourista",
+  "version": "0.1.0.2-36",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec"
+  ],
+  "receive": 199642563,
+  "transmit": 339974,
+  "disk": 309113
+}
