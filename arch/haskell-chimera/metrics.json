@@ -1,0 +1,24 @@
+{
+  "name": "haskell-chimera",
+  "version": "0.4.0.0-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-adjunctions",
+    "haskell-distributive",
+    "haskell-infinite-list",
+    "haskell-primitive",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "haskell-tasty-smallcheck"
+  ],
+  "receive": 199556123,
+  "transmit": 258652,
+  "disk": 393018
+}
