@@ -1,0 +1,13 @@
+{
+  "name": "haskell-lexer",
+  "version": "1.1.1-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199660818,
+  "transmit": 407768,
+  "disk": 322992
+}
