@@ -1,0 +1,22 @@
+{
+  "name": "marble",
+  "version": "24.02.0-2",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules",
+    "gpsd",
+    "kdoctools5",
+    "knewstuff5",
+    "kparts5",
+    "libwlocate",
+    "phonon-qt5",
+    "protobuf",
+    "qt5-serialport",
+    "qt5-tools",
+    "qt5-webengine",
+    "shapelib"
+  ],
+  "receive": 255062110,
+  "transmit": 1174792,
+  "disk": 192339656
+}
