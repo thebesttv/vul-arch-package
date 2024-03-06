@@ -1,0 +1,15 @@
+{
+  "name": "grafana-agent",
+  "version": "0.40.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "systemd",
+    "yarn"
+  ],
+  "receive": 199651504,
+  "transmit": 314138,
+  "disk": 52730318
+}
