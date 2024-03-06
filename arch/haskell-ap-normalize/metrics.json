@@ -1,0 +1,14 @@
+{
+  "name": "haskell-ap-normalize",
+  "version": "0.1.0.1-11",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-inspection-testing"
+  ],
+  "receive": 199519959,
+  "transmit": 283288,
+  "disk": 144691
+}
