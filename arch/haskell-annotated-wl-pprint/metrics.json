@@ -1,0 +1,13 @@
+{
+  "name": "haskell-annotated-wl-pprint",
+  "version": "0.7.0-26",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199739503,
+  "transmit": 436522,
+  "disk": 168149
+}
