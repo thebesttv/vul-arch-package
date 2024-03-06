@@ -1,0 +1,30 @@
+{
+  "name": "haskell-hls-splice-plugin",
+  "version": "1.0.3.0-151",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-dlist",
+    "haskell-extra",
+    "haskell-foldl",
+    "haskell-ghc",
+    "haskell-ghc-exactprint",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-hls-refactor-plugin",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-retrie",
+    "haskell-syb",
+    "haskell-unliftio-core",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 200002401,
+  "transmit": 607538,
+  "disk": 532968
+}
