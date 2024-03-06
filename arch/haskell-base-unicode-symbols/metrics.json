@@ -1,0 +1,13 @@
+{
+  "name": "haskell-base-unicode-symbols",
+  "version": "0.2.4.2-14",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199620552,
+  "transmit": 353596,
+  "disk": 215233
+}
