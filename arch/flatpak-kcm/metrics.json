@@ -1,0 +1,24 @@
+{
+  "name": "flatpak-kcm",
+  "version": "6.0.1-1",
+  "depends": [
+    "flatpak",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "kitemmodels",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199902699,
+  "transmit": 606703,
+  "disk": 1385205
+}
