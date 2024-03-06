@@ -1,0 +1,37 @@
+{
+  "name": "glirc",
+  "version": "2.39.0.1-190",
+  "depends": [
+    "ghc-libs",
+    "haskell-hsopenssl",
+    "haskell-async",
+    "haskell-attoparsec",
+    "haskell-base64-bytestring",
+    "haskell-config-schema",
+    "haskell-config-value",
+    "haskell-curve25519",
+    "haskell-free",
+    "haskell-githash",
+    "haskell-hashable",
+    "haskell-hookup",
+    "haskell-irc-core",
+    "haskell-kan-extensions",
+    "haskell-lens",
+    "haskell-network",
+    "haskell-psqueues",
+    "haskell-random",
+    "haskell-regex-tdfa",
+    "haskell-split",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-vty"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit"
+  ],
+  "receive": 199899017,
+  "transmit": 453925,
+  "disk": 1304145
+}
