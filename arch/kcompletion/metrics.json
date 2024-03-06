@@ -1,0 +1,21 @@
+{
+  "name": "kcompletion",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcodecs",
+    "kconfig",
+    "kwidgetsaddons",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199767263,
+  "transmit": 387661,
+  "disk": 24753222
+}
