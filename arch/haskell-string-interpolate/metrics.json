@@ -1,0 +1,25 @@
+{
+  "name": "haskell-string-interpolate",
+  "version": "0.3.3.0-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-src-exts",
+    "haskell-src-meta",
+    "haskell-split",
+    "haskell-text-conversions",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "haskell-hspec-core",
+    "haskell-quickcheck-instances",
+    "haskell-quickcheck-text",
+    "haskell-quickcheck-unicode",
+    "haskell-unordered-containers"
+  ],
+  "receive": 199585025,
+  "transmit": 317508,
+  "disk": 255361
+}
