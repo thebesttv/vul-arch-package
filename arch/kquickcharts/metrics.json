@@ -1,0 +1,18 @@
+{
+  "name": "kquickcharts",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kirigami",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt6-shadertools"
+  ],
+  "receive": 199551326,
+  "transmit": 280697,
+  "disk": 735202
+}
