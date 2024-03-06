@@ -1,0 +1,14 @@
+{
+  "name": "haskell-bimap",
+  "version": "0.5.0-56",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199686459,
+  "transmit": 378779,
+  "disk": 300610
+}
