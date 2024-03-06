@@ -1,0 +1,22 @@
+{
+  "name": "haskell-summoner-tui",
+  "version": "2.0.1.1-542",
+  "depends": [
+    "ghc-libs",
+    "haskell-brick0.71",
+    "haskell-colourista",
+    "haskell-microlens",
+    "haskell-microlens-th",
+    "haskell-relude",
+    "haskell-summoner",
+    "haskell-validation-selective",
+    "haskell-vty"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200011776,
+  "transmit": 356136,
+  "disk": 705728
+}
