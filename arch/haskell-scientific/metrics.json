@@ -1,0 +1,23 @@
+{
+  "name": "haskell-scientific",
+  "version": "0.3.7.0-111",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-integer-logarithms",
+    "haskell-primitive"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-smallcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "haskell-tasty-smallcheck"
+  ],
+  "receive": 199556726,
+  "transmit": 306777,
+  "disk": 445226
+}
