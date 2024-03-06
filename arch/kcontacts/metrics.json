@@ -1,0 +1,22 @@
+{
+  "name": "kcontacts",
+  "version": "1:6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcodecs",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199517166,
+  "transmit": 248586,
+  "disk": 2446830
+}
