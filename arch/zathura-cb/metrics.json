@@ -1,0 +1,16 @@
+{
+  "name": "zathura-cb",
+  "version": "0.1.10-5",
+  "depends": [
+    "zathura",
+    "libarchive",
+    "desktop-file-utils"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja"
+  ],
+  "receive": 199560737,
+  "transmit": 343589,
+  "disk": 138884
+}
