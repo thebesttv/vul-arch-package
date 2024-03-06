@@ -1,0 +1,17 @@
+{
+  "name": "haskell-chell",
+  "version": "0.5.0.1-73",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-options",
+    "haskell-patience",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199505614,
+  "transmit": 233780,
+  "disk": 348295
+}
