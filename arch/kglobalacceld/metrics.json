@@ -1,0 +1,27 @@
+{
+  "name": "kglobalacceld",
+  "version": "6.0.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "kglobalaccel",
+    "kio",
+    "kjobwidgets",
+    "kservice",
+    "kwindowsystem",
+    "libx11",
+    "libxcb",
+    "qt6-base",
+    "xcb-util-keysyms"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199612343,
+  "transmit": 356592,
+  "disk": 495497
+}
