@@ -1,0 +1,23 @@
+{
+  "name": "haskell-hashtables",
+  "version": "1.3.1-36",
+  "depends": [
+    "ghc-libs",
+    "sh",
+    "haskell-hashable",
+    "haskell-primitive",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-mwc-random",
+    "haskell-quickcheck",
+    "haskell-hunit",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199758166,
+  "transmit": 402485,
+  "disk": 733068
+}
