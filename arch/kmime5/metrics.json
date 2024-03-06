@@ -1,0 +1,16 @@
+{
+  "name": "kmime5",
+  "version": "23.08.5-2",
+  "depends": [
+    "ki18n5",
+    "kcodecs5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "doxygen",
+    "qt5-tools"
+  ],
+  "receive": 199739715,
+  "transmit": 423269,
+  "disk": 1575708
+}
