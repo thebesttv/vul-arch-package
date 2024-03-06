@@ -1,0 +1,17 @@
+{
+  "name": "haskell-comonad",
+  "version": "5.0.8-249",
+  "depends": [
+    "ghc-libs",
+    "haskell-distributive",
+    "haskell-indexed-traversable",
+    "haskell-tagged",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199591863,
+  "transmit": 302193,
+  "disk": 578057
+}
