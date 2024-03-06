@@ -1,0 +1,23 @@
+{
+  "name": "haskell-kan-extensions",
+  "version": "5.2.5-99",
+  "depends": [
+    "ghc-libs",
+    "haskell-adjunctions",
+    "haskell-comonad",
+    "haskell-contravariant",
+    "haskell-distributive",
+    "haskell-free",
+    "haskell-invariant",
+    "haskell-profunctors",
+    "haskell-semigroupoids",
+    "haskell-tagged",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199637218,
+  "transmit": 383817,
+  "disk": 611796
+}
