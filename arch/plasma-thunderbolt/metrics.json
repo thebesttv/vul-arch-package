@@ -1,0 +1,23 @@
+{
+  "name": "plasma-thunderbolt",
+  "version": "6.0.1-1",
+  "depends": [
+    "bolt",
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kirigami",
+    "knotifications",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199572912,
+  "transmit": 306254,
+  "disk": 979386
+}
