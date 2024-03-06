@@ -1,0 +1,19 @@
+{
+  "name": "haskell-cassava-megaparsec",
+  "version": "2.1.1-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-cassava",
+    "haskell-megaparsec",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-megaparsec"
+  ],
+  "receive": 199516783,
+  "transmit": 234117,
+  "disk": 448109
+}
