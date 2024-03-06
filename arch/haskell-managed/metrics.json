@@ -1,0 +1,13 @@
+{
+  "name": "haskell-managed",
+  "version": "1.0.10-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199592774,
+  "transmit": 346036,
+  "disk": 146789
+}
