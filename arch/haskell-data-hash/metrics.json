@@ -1,0 +1,13 @@
+{
+  "name": "haskell-data-hash",
+  "version": "0.2.0.1-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199615905,
+  "transmit": 359417,
+  "disk": 153414
+}
