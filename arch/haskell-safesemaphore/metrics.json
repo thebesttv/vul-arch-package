@@ -1,0 +1,13 @@
+{
+  "name": "haskell-safesemaphore",
+  "version": "0.10.1-28",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199733847,
+  "transmit": 311792,
+  "disk": 254361
+}
