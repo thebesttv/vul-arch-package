@@ -1,0 +1,20 @@
+{
+  "name": "bluez-qt",
+  "version": "6.0.0-1",
+  "depends": [
+    "bluez",
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199721815,
+  "transmit": 362716,
+  "disk": 1337793
+}
