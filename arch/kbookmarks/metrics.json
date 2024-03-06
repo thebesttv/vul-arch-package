@@ -1,0 +1,22 @@
+{
+  "name": "kbookmarks",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kwidgetsaddons",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199707201,
+  "transmit": 320823,
+  "disk": 11320134
+}
