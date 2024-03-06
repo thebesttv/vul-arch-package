@@ -1,0 +1,13 @@
+{
+  "name": "haskell-natural-transformation",
+  "version": "0.4-23",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199529117,
+  "transmit": 259886,
+  "disk": 138481
+}
