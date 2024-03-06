@@ -1,0 +1,14 @@
+{
+  "name": "haskell-ghc-tcplugins-extra",
+  "version": "0.4.5-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199621549,
+  "transmit": 336825,
+  "disk": 355721
+}
