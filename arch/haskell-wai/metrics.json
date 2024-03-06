@@ -1,0 +1,16 @@
+{
+  "name": "haskell-wai",
+  "version": "3.2.4-12",
+  "depends": [
+    "ghc-libs",
+    "haskell-http-types",
+    "haskell-network",
+    "haskell-vault"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199694758,
+  "transmit": 410428,
+  "disk": 534421
+}
