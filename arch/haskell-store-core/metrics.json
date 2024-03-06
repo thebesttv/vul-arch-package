@@ -1,0 +1,14 @@
+{
+  "name": "haskell-store-core",
+  "version": "0.4.4.7-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199636453,
+  "transmit": 377098,
+  "disk": 314361
+}
