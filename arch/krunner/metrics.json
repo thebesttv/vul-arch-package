@@ -1,0 +1,23 @@
+{
+  "name": "krunner",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kitemmodels",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "kdoctools",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199683695,
+  "transmit": 304290,
+  "disk": 858433
+}
