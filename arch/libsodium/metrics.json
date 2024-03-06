@@ -1,0 +1,13 @@
+{
+  "name": "libsodium",
+  "version": "1.0.19-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 213512886,
+  "transmit": 470379,
+  "disk": 24115862
+}
