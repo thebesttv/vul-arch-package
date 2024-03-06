@@ -1,0 +1,16 @@
+{
+  "name": "haskell-concurrent-output",
+  "version": "1.10.20-6",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-async",
+    "haskell-terminal-size"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199575581,
+  "transmit": 281347,
+  "disk": 432263
+}
