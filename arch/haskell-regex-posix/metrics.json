@@ -1,0 +1,14 @@
+{
+  "name": "haskell-regex-posix",
+  "version": "0.96.0.1-4",
+  "depends": [
+    "ghc-libs",
+    "haskell-regex-base"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199561937,
+  "transmit": 292484,
+  "disk": 214701
+}
