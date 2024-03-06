@@ -1,0 +1,28 @@
+{
+  "name": "colord-kde",
+  "version": "24.02.0-1",
+  "depends": [
+    "colord",
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kirigami",
+    "kitemmodels",
+    "kwidgetsaddons",
+    "lcms2",
+    "libx11",
+    "libxrandr",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kwindowsystem"
+  ],
+  "receive": 199706635,
+  "transmit": 386496,
+  "disk": 1502643
+}
