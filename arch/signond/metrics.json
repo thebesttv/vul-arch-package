@@ -1,0 +1,19 @@
+{
+  "name": "signond",
+  "version": "8.61-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "git",
+    "graphviz",
+    "qt6-tools",
+    "ttf-font"
+  ],
+  "receive": 199639413,
+  "transmit": 286130,
+  "disk": 3933284
+}
