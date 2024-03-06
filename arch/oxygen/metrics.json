@@ -1,0 +1,35 @@
+{
+  "name": "oxygen",
+  "version": "6.0.1-2",
+  "depends": [
+    "frameworkintegration",
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kcolorscheme",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kdecoration",
+    "kguiaddons",
+    "ki18n",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "libxcb",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "frameworkintegration5",
+    "kconfigwidgets5",
+    "kiconthemes5",
+    "kirigami2",
+    "kwindowsystem5",
+    "libplasma"
+  ],
+  "receive": 199825406,
+  "transmit": 400767,
+  "disk": 26878201
+}
