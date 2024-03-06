@@ -1,0 +1,18 @@
+{
+  "name": "tomcat9",
+  "version": "9.0.86-1",
+  "depends": [
+    "java-runtime>=8",
+    "java-jsvc",
+    "java-commons-daemon",
+    "eclipse-ecj"
+  ],
+  "makedepends": [
+    "ant",
+    "git",
+    "java-environment=17"
+  ],
+  "receive": 367050297,
+  "transmit": 2374936,
+  "disk": 214708973
+}
