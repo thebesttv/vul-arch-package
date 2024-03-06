@@ -1,0 +1,13 @@
+{
+  "name": "kdeedu-data",
+  "version": "24.02.0-1",
+  "depends": [
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199644726,
+  "transmit": 358019,
+  "disk": 5095916
+}
