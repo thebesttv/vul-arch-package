@@ -1,0 +1,13 @@
+{
+  "name": "haskell-dotgen",
+  "version": "0.4.3-9",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199549352,
+  "transmit": 265035,
+  "disk": 124422
+}
