@@ -1,0 +1,13 @@
+{
+  "name": "haskell-optional-args",
+  "version": "1.0.2-20",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199660370,
+  "transmit": 398968,
+  "disk": 126360
+}
