@@ -1,0 +1,30 @@
+{
+  "name": "libkleo",
+  "version": "24.02.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gpgme",
+    "kcolorscheme",
+    "kcodecs",
+    "kcompletion",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kitemmodels",
+    "ktextaddons",
+    "kwidgetsaddons",
+    "qgpgme-qt6",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "boost",
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199614219,
+  "transmit": 236119,
+  "disk": 7916136
+}
