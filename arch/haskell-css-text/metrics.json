@@ -1,0 +1,14 @@
+{
+  "name": "haskell-css-text",
+  "version": "0.1.3.0-282",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199876450,
+  "transmit": 434040,
+  "disk": 353189
+}
