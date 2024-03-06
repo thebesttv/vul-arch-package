@@ -1,0 +1,32 @@
+{
+  "name": "haskell-rebase",
+  "version": "1.18-45",
+  "depends": [
+    "ghc-libs",
+    "haskell-bifunctors",
+    "haskell-contravariant",
+    "haskell-comonad",
+    "haskell-dlist",
+    "haskell-either",
+    "haskell-groups",
+    "haskell-hashable",
+    "haskell-invariant",
+    "haskell-profunctors",
+    "haskell-scientific",
+    "haskell-selective",
+    "haskell-semigroupoids",
+    "haskell-time-compat",
+    "haskell-unordered-containers",
+    "haskell-uuid-types",
+    "haskell-vector",
+    "haskell-vector-instances",
+    "haskell-void"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199737464,
+  "transmit": 377224,
+  "disk": 946740
+}
