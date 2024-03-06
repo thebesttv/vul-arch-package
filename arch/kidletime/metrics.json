@@ -1,0 +1,22 @@
+{
+  "name": "kidletime",
+  "version": "6.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "libxss",
+    "plasma-wayland-protocols",
+    "qt6-doc",
+    "qt6-tools",
+    "qt6-wayland",
+    "wayland-protocols"
+  ],
+  "receive": 199804295,
+  "transmit": 400677,
+  "disk": 426342
+}
