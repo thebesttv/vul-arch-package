@@ -1,0 +1,16 @@
+{
+  "name": "lib32-keyutils",
+  "version": "1.6.3-2",
+  "depends": [
+    "lib32-glibc",
+    "lib32-krb5",
+    "keyutils"
+  ],
+  "makedepends": [
+    "git",
+    "gcc-multilib"
+  ],
+  "receive": 199895039,
+  "transmit": 474773,
+  "disk": 2051053
+}
