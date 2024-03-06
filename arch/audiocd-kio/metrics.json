@@ -1,0 +1,30 @@
+{
+  "name": "audiocd-kio",
+  "version": "24.02.0-1",
+  "depends": [
+    "cdparanoia",
+    "flac",
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "lame",
+    "libkcddb",
+    "libkcompactdisc",
+    "libogg",
+    "libvorbis",
+    "qt6-5compat",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199547075,
+  "transmit": 269354,
+  "disk": 6157404
+}
