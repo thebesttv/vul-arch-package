@@ -1,0 +1,13 @@
+{
+  "name": "ibus-m17n",
+  "version": "1.4.28-1",
+  "depends": [
+    "ibus",
+    "m17n-db",
+    "m17n-lib"
+  ],
+  "makedepends": [],
+  "receive": 199712056,
+  "transmit": 449082,
+  "disk": 1682913
+}
