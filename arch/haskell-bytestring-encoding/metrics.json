@@ -1,0 +1,18 @@
+{
+  "name": "haskell-bytestring-encoding",
+  "version": "0.1.2.0-78",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "haskell-tasty-th"
+  ],
+  "receive": 199619367,
+  "transmit": 244304,
+  "disk": 265731
+}
