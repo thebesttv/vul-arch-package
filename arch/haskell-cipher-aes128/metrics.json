@@ -1,0 +1,16 @@
+{
+  "name": "haskell-cipher-aes128",
+  "version": "0.7.0.6-9",
+  "depends": [
+    "ghc-libs",
+    "haskell-crypto-api",
+    "haskell-tagged",
+    "haskell-cereal"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199504440,
+  "transmit": 230496,
+  "disk": 305044
+}
