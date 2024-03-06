@@ -1,0 +1,29 @@
+{
+  "name": "sddm",
+  "version": "0.21.0-4",
+  "depends": [
+    "bash",
+    "gcc-libs",
+    "glibc",
+    "libxau",
+    "libxcb",
+    "pam",
+    "qt6-base",
+    "qt6-declarative",
+    "systemd-libs",
+    "ttf-font",
+    "xorg-server",
+    "xorg-xauth"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "python-docutils",
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-tools",
+    "qt6-tools"
+  ],
+  "receive": 199751925,
+  "transmit": 426865,
+  "disk": 8257447
+}
