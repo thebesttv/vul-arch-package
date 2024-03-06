@@ -1,0 +1,18 @@
+{
+  "name": "libquotient",
+  "version": "0.8.1.2-5",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libolm",
+    "openssl",
+    "qt6-base",
+    "qtkeychain-qt6"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199800324,
+  "transmit": 471367,
+  "disk": 4822730
+}
