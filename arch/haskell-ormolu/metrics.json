@@ -1,0 +1,31 @@
+{
+  "name": "haskell-ormolu",
+  "version": "0.5.0.1-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-ansi-terminal",
+    "haskell-diff",
+    "haskell-dlist",
+    "haskell-ghc-lib-parser",
+    "haskell-gitrev",
+    "haskell-megaparsec",
+    "haskell-memotrie",
+    "haskell-optparse-applicative",
+    "haskell-syb",
+    "haskell-th-lift-instances"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "haskell-hspec-megaparsec",
+    "haskell-path",
+    "haskell-path-io",
+    "haskell-temporary"
+  ],
+  "receive": 199549561,
+  "transmit": 247827,
+  "disk": 3163230
+}
