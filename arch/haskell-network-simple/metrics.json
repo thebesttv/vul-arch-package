@@ -1,0 +1,17 @@
+{
+  "name": "haskell-network-simple",
+  "version": "0.4.5-97",
+  "depends": [
+    "ghc-libs",
+    "haskell-network",
+    "haskell-network-bsd",
+    "haskell-safe-exceptions",
+    "haskell-socks"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199693179,
+  "transmit": 437588,
+  "disk": 242739
+}
