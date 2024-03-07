@@ -1,0 +1,18 @@
+{
+  "name": "haskell-path-io",
+  "version": "1.8.1-53",
+  "depends": [
+    "ghc-libs",
+    "haskell-dlist",
+    "haskell-path",
+    "haskell-temporary",
+    "haskell-unix-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 200069947,
+  "transmit": 409251,
+  "disk": 635888
+}
