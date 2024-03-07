@@ -1,0 +1,16 @@
+{
+  "name": "haskell-checkers",
+  "version": "0.6.0-114",
+  "depends": [
+    "ghc-libs",
+    "haskell-random",
+    "haskell-quickcheck",
+    "haskell-semigroupoids"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200021345,
+  "transmit": 457103,
+  "disk": 518319
+}
