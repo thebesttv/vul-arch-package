@@ -1,0 +1,14 @@
+{
+  "name": "haskell-http-date",
+  "version": "0.0.11-135",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199700916,
+  "transmit": 343978,
+  "disk": 360743
+}
