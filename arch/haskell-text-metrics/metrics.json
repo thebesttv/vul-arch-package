@@ -1,0 +1,17 @@
+{
+  "name": "haskell-text-metrics",
+  "version": "0.3.2-81",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-hspec"
+  ],
+  "receive": 199546666,
+  "transmit": 282917,
+  "disk": 340566
+}
