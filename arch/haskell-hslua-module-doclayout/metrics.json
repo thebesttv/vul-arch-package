@@ -1,0 +1,19 @@
+{
+  "name": "haskell-hslua-module-doclayout",
+  "version": "1.1.0-50",
+  "depends": [
+    "ghc-libs",
+    "haskell-doclayout",
+    "haskell-hslua"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-lua"
+  ],
+  "receive": 199672739,
+  "transmit": 276640,
+  "disk": 325022
+}
