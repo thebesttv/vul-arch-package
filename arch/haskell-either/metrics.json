@@ -1,0 +1,19 @@
+{
+  "name": "haskell-either",
+  "version": "5.0.2-112",
+  "depends": [
+    "ghc-libs",
+    "haskell-bifunctors",
+    "haskell-profunctors",
+    "haskell-semigroupoids"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199531826,
+  "transmit": 259727,
+  "disk": 508726
+}
