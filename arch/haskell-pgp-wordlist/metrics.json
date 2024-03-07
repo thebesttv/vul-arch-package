@@ -1,0 +1,19 @@
+{
+  "name": "haskell-pgp-wordlist",
+  "version": "0.1.0.3-233",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest",
+    "haskell-hunit",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199786875,
+  "transmit": 375881,
+  "disk": 356749
+}
