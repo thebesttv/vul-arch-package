@@ -1,0 +1,19 @@
+{
+  "name": "haskell-microspec",
+  "version": "0.2.1.3-217",
+  "depends": [
+    "bash",
+    "ghc-libs",
+    "glibc",
+    "gmp",
+    "haskell-quickcheck",
+    "haskell-random",
+    "haskell-splitmix"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199649361,
+  "transmit": 262513,
+  "disk": 283750
+}
