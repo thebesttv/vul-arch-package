@@ -1,0 +1,17 @@
+{
+  "name": "haskell-weigh",
+  "version": "0.0.17-38",
+  "depends": [
+    "ghc-libs",
+    "haskell-criterion-measurement",
+    "haskell-ghc",
+    "haskell-split",
+    "haskell-temporary"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199994030,
+  "transmit": 534711,
+  "disk": 345985
+}
