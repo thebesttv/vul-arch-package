@@ -1,0 +1,18 @@
+{
+  "name": "haskell-hspec",
+  "version": "2.10.9-105",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-hspec-core",
+    "haskell-hspec-discover",
+    "haskell-hspec-expectations"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199547583,
+  "transmit": 282749,
+  "disk": 950477
+}
