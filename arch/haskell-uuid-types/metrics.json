@@ -1,0 +1,19 @@
+{
+  "name": "haskell-uuid-types",
+  "version": "1.0.5.1-15",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 200525018,
+  "transmit": 899631,
+  "disk": 341703
+}
