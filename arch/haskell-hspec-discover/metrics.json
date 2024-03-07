@@ -1,0 +1,13 @@
+{
+  "name": "haskell-hspec-discover",
+  "version": "2.10.9-49",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199682092,
+  "transmit": 422176,
+  "disk": 509207
+}
