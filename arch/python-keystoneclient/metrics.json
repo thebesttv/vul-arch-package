@@ -1,0 +1,22 @@
+{
+  "name": "python-keystoneclient",
+  "version": "5.4.0-1",
+  "depends": [
+    "python-pbr",
+    "python-debtcollector",
+    "python-oslo-config",
+    "python-oslo-i18n",
+    "python-oslo-serialization",
+    "python-oslo-utils",
+    "python-requests",
+    "python-stevedore",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199620352,
+  "transmit": 274853,
+  "disk": 8308836
+}
