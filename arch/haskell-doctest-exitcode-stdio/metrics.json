@@ -1,0 +1,15 @@
+{
+  "name": "haskell-doctest-exitcode-stdio",
+  "version": "0.0-134",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-doctest-lib"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199504474,
+  "transmit": 226227,
+  "disk": 234120
+}
