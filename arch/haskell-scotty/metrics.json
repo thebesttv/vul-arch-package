@@ -1,0 +1,35 @@
+{
+  "name": "haskell-scotty",
+  "version": "0.21-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-blaze-builder",
+    "haskell-case-insensitive",
+    "haskell-cookie",
+    "haskell-data-default-class",
+    "haskell-http-types",
+    "haskell-monad-control",
+    "haskell-network",
+    "haskell-regex-compat",
+    "haskell-transformers-base",
+    "haskell-transformers-compat",
+    "haskell-unliftio",
+    "haskell-wai",
+    "haskell-wai-extra",
+    "haskell-warp"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-async",
+    "haskell-doctest",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-hspec-wai",
+    "haskell-http-client",
+    "haskell-lifted-base"
+  ],
+  "receive": 199628533,
+  "transmit": 350410,
+  "disk": 882218
+}
