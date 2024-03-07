@@ -1,0 +1,16 @@
+{
+  "name": "haskell-atomic-write",
+  "version": "0.2.0.7-258",
+  "depends": [
+    "ghc-libs",
+    "haskell-temporary",
+    "haskell-unix-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199535407,
+  "transmit": 274085,
+  "disk": 480922
+}
