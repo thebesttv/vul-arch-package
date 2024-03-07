@@ -1,0 +1,15 @@
+{
+  "name": "haskell-crypto-token",
+  "version": "0.0.2-11",
+  "depends": [
+    "ghc-libs",
+    "haskell-crypton",
+    "haskell-memory"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199869561,
+  "transmit": 548146,
+  "disk": 173929
+}
