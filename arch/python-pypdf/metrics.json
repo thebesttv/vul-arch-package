@@ -1,0 +1,16 @@
+{
+  "name": "python-pypdf",
+  "version": "4.1.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-flit-core"
+  ],
+  "receive": 199695104,
+  "transmit": 381428,
+  "disk": 25094691
+}
