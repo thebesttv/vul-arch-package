@@ -1,0 +1,14 @@
+{
+  "name": "haskell-ansi-wl-pprint",
+  "version": "0.6.9-416",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199650957,
+  "transmit": 375882,
+  "disk": 529671
+}
