@@ -1,0 +1,16 @@
+{
+  "name": "haskell-text-manipulate",
+  "version": "0.3.1.0-64",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199781416,
+  "transmit": 434964,
+  "disk": 344240
+}
