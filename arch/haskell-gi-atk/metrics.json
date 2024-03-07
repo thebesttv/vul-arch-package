@@ -1,0 +1,20 @@
+{
+  "name": "haskell-gi-atk",
+  "version": "2.0.27-62",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-glib",
+    "haskell-gi-gobject",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "at-spi2-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199950681,
+  "transmit": 494309,
+  "disk": 298081
+}
