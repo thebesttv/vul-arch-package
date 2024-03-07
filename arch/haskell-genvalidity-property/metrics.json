@@ -1,0 +1,19 @@
+{
+  "name": "haskell-genvalidity-property",
+  "version": "1.0.0.0-90",
+  "depends": [
+    "ghc-libs",
+    "haskell-genvalidity",
+    "haskell-hspec",
+    "haskell-pretty-show",
+    "haskell-quickcheck",
+    "haskell-validity"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199693468,
+  "transmit": 303470,
+  "disk": 375539
+}
