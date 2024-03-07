@@ -1,0 +1,17 @@
+{
+  "name": "lib32-clang",
+  "version": "17.0.6-1",
+  "depends": [
+    "lib32-llvm-libs",
+    "gcc-multilib"
+  ],
+  "makedepends": [
+    "lib32-llvm",
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 281396798,
+  "transmit": 427689,
+  "disk": 1268085110
+}
