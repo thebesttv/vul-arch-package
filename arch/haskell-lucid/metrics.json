@@ -1,0 +1,19 @@
+{
+  "name": "haskell-lucid",
+  "version": "2.11.20230408-43",
+  "depends": [
+    "ghc-libs",
+    "haskell-blaze-builder",
+    "haskell-hashable",
+    "haskell-mmorph"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-bifunctors",
+    "haskell-hspec",
+    "haskell-hunit"
+  ],
+  "receive": 199636940,
+  "transmit": 373732,
+  "disk": 490372
+}
