@@ -1,0 +1,16 @@
+{
+  "name": "haskell-process-extras",
+  "version": "0.7.4-310",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default",
+    "haskell-generic-deriving",
+    "haskell-listlike"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199542330,
+  "transmit": 272342,
+  "disk": 421101
+}
