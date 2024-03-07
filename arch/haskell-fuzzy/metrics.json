@@ -1,0 +1,15 @@
+{
+  "name": "haskell-fuzzy",
+  "version": "0.1.1.0-16",
+  "depends": [
+    "ghc-libs",
+    "haskell-monoid-subclasses"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit"
+  ],
+  "receive": 200203209,
+  "transmit": 722827,
+  "disk": 333950
+}
