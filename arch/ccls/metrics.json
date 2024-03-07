@@ -1,0 +1,19 @@
+{
+  "name": "ccls",
+  "version": "0.20230717-2",
+  "depends": [
+    "clang",
+    "gcc-libs",
+    "glibc",
+    "llvm-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "llvm",
+    "rapidjson"
+  ],
+  "receive": 199678966,
+  "transmit": 407653,
+  "disk": 1143189
+}
