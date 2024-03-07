@@ -1,0 +1,22 @@
+{
+  "name": "haskell-semialign",
+  "version": "1.2.0.1-155",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-indexed-traversable",
+    "haskell-indexed-traversable-instances",
+    "haskell-semigroupoids",
+    "haskell-tagged",
+    "haskell-these",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200515852,
+  "transmit": 919973,
+  "disk": 342313
+}
