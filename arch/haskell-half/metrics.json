@@ -1,0 +1,17 @@
+{
+  "name": "haskell-half",
+  "version": "0.3.1-150",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199851471,
+  "transmit": 532644,
+  "disk": 325781
+}
