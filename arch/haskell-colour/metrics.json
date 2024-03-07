@@ -1,0 +1,14 @@
+{
+  "name": "haskell-colour",
+  "version": "2.3.6-208",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200340851,
+  "transmit": 646159,
+  "disk": 552924
+}
