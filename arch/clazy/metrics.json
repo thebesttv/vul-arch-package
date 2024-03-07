@@ -1,0 +1,18 @@
+{
+  "name": "clazy",
+  "version": "1.11-5",
+  "depends": [
+    "clang",
+    "gcc-libs",
+    "glibc",
+    "llvm-libs",
+    "sh"
+  ],
+  "makedepends": [
+    "cmake",
+    "llvm"
+  ],
+  "receive": 199560464,
+  "transmit": 253489,
+  "disk": 3011275
+}
