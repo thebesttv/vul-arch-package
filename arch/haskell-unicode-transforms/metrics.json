@@ -1,0 +1,19 @@
+{
+  "name": "haskell-unicode-transforms",
+  "version": "0.4.0.1-72",
+  "depends": [
+    "ghc-libs",
+    "haskell-unicode-data"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec",
+    "haskell-quickcheck",
+    "haskell-split",
+    "haskell-text-icu"
+  ],
+  "receive": 199634413,
+  "transmit": 353952,
+  "disk": 4211147
+}
