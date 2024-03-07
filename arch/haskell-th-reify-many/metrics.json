@@ -1,0 +1,15 @@
+{
+  "name": "haskell-th-reify-many",
+  "version": "0.1.10-105",
+  "depends": [
+    "ghc-libs",
+    "haskell-safe",
+    "haskell-th-expand-syns"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200051445,
+  "transmit": 571738,
+  "disk": 291306
+}
