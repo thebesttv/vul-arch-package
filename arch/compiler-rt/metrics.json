@@ -1,0 +1,16 @@
+{
+  "name": "compiler-rt",
+  "version": "17.0.6-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "llvm",
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 202060103,
+  "transmit": 284893,
+  "disk": 41916895
+}
