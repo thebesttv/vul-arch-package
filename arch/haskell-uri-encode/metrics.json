@@ -1,0 +1,16 @@
+{
+  "name": "haskell-uri-encode",
+  "version": "1.5.0.7-211",
+  "depends": [
+    "ghc-libs",
+    "haskell-network-uri",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199621239,
+  "transmit": 314891,
+  "disk": 380586
+}
