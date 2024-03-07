@@ -1,0 +1,17 @@
+{
+  "name": "haskell-terminal-progress-bar",
+  "version": "0.4.2-21",
+  "depends": [
+    "ghc-libs",
+    "haskell-terminal-size"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199543532,
+  "transmit": 271096,
+  "disk": 211424
+}
