@@ -1,0 +1,14 @@
+{
+  "name": "haskell-doctest-lib",
+  "version": "0.1.1-15",
+  "depends": [
+    "ghc-libs",
+    "haskell-utility-ht"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199604069,
+  "transmit": 345220,
+  "disk": 151236
+}
