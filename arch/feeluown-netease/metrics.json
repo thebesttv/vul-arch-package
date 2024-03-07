@@ -1,0 +1,18 @@
+{
+  "name": "feeluown-netease",
+  "version": "1.0.1-1",
+  "depends": [
+    "feeluown",
+    "python-beautifulsoup4",
+    "python-pycryptodome",
+    "python-marshmallow",
+    "python-requests",
+    "python-mutagen"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199634029,
+  "transmit": 335954,
+  "disk": 2559383
+}
