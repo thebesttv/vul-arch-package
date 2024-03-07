@@ -1,0 +1,16 @@
+{
+  "name": "haskell-tasty-hedgehog",
+  "version": "1.4.0.1-4",
+  "depends": [
+    "ghc-libs",
+    "haskell-hedgehog",
+    "haskell-tagged",
+    "haskell-tasty"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199699789,
+  "transmit": 412086,
+  "disk": 621492
+}
