@@ -1,0 +1,16 @@
+{
+  "name": "haskell-tasty-th",
+  "version": "0.1.7-322",
+  "depends": [
+    "ghc-libs",
+    "haskell-src-exts",
+    "haskell-tasty"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199602573,
+  "transmit": 318513,
+  "disk": 359276
+}
