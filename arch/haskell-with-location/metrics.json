@@ -1,0 +1,14 @@
+{
+  "name": "haskell-with-location",
+  "version": "0.1.0-263",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199828416,
+  "transmit": 441449,
+  "disk": 305894
+}
