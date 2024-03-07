@@ -1,0 +1,16 @@
+{
+  "name": "haskell-mockery",
+  "version": "0.3.5-608",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-temporary",
+    "haskell-logging-facade"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 201150464,
+  "transmit": 1134122,
+  "disk": 605644
+}
