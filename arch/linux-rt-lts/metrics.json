@@ -1,0 +1,23 @@
+{
+  "name": "linux-rt-lts",
+  "version": "6.6.20.25.realtime1-1",
+  "depends": [],
+  "makedepends": [
+    "bc",
+    "cpio",
+    "gettext",
+    "git",
+    "graphviz",
+    "imagemagick",
+    "libelf",
+    "pahole",
+    "perl",
+    "python-sphinx",
+    "tar",
+    "texlive-latexextra",
+    "xz"
+  ],
+  "receive": 3191616577,
+  "transmit": 17909429,
+  "disk": 4779768474
+}
