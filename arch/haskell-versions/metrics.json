@@ -1,0 +1,22 @@
+{
+  "name": "haskell-versions",
+  "version": "5.0.5-26",
+  "depends": [
+    "ghc-libs",
+    "haskell-megaparsec",
+    "haskell-hashable",
+    "haskell-parser-combinators"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-microlens",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199831172,
+  "transmit": 463555,
+  "disk": 342392
+}
