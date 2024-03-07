@@ -1,0 +1,15 @@
+{
+  "name": "haskell-securemem",
+  "version": "0.1.10-287",
+  "depends": [
+    "ghc-libs",
+    "haskell-byteable",
+    "haskell-memory"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199615860,
+  "transmit": 364597,
+  "disk": 351021
+}
