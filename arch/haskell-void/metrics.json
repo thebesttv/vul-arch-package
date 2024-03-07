@@ -1,0 +1,14 @@
+{
+  "name": "haskell-void",
+  "version": "0.7.3-202",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199602578,
+  "transmit": 336582,
+  "disk": 311891
+}
