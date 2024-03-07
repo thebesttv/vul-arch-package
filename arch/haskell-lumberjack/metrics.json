@@ -1,0 +1,16 @@
+{
+  "name": "haskell-lumberjack",
+  "version": "1.0.3.0-37",
+  "depends": [
+    "ghc-libs",
+    "haskell-contravariant",
+    "haskell-prettyprinter",
+    "haskell-prettyprinter-ansi-terminal"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199794795,
+  "transmit": 365657,
+  "disk": 320321
+}
