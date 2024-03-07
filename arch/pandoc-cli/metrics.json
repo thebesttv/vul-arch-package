@@ -1,0 +1,22 @@
+{
+  "name": "pandoc-cli",
+  "version": "0.1.1.1-76",
+  "depends": [
+    "ghc-libs",
+    "hslua-cli",
+    "haskell-pandoc",
+    "haskell-pandoc-lua-engine",
+    "haskell-pandoc-server",
+    "haskell-safe",
+    "haskell-temporary",
+    "haskell-wai-extra",
+    "haskell-warp"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200020487,
+  "transmit": 393383,
+  "disk": 540825
+}
