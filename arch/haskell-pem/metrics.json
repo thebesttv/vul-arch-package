@@ -1,0 +1,20 @@
+{
+  "name": "haskell-pem",
+  "version": "0.2.4-285",
+  "depends": [
+    "ghc-libs",
+    "haskell-basement",
+    "haskell-memory"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199743943,
+  "transmit": 438804,
+  "disk": 342685
+}
