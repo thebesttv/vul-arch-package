@@ -1,0 +1,18 @@
+{
+  "name": "haskell-http-media",
+  "version": "0.8.1.1-13",
+  "depends": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 200192351,
+  "transmit": 636391,
+  "disk": 435560
+}
