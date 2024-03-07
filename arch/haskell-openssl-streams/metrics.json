@@ -1,0 +1,20 @@
+{
+  "name": "haskell-openssl-streams",
+  "version": "1.2.3.0-212",
+  "depends": [
+    "ghc-libs",
+    "haskell-hsopenssl",
+    "haskell-io-streams",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 200656465,
+  "transmit": 994736,
+  "disk": 376173
+}
