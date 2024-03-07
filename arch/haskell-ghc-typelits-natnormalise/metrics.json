@@ -1,0 +1,17 @@
+{
+  "name": "haskell-ghc-typelits-natnormalise",
+  "version": "0.7.8-4",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc",
+    "haskell-ghc-tcplugins-extra"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199882739,
+  "transmit": 459947,
+  "disk": 510067
+}
