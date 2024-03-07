@@ -1,0 +1,16 @@
+{
+  "name": "haskell-ini",
+  "version": "0.4.2-81",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199573715,
+  "transmit": 325618,
+  "disk": 395281
+}
