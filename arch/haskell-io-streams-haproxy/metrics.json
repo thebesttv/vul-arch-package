@@ -1,0 +1,20 @@
+{
+  "name": "haskell-io-streams-haproxy",
+  "version": "1.0.1.0-273",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-io-streams",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199749938,
+  "transmit": 436927,
+  "disk": 429595
+}
