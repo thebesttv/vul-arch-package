@@ -1,0 +1,20 @@
+{
+  "name": "haskell-crypto-api-tests",
+  "version": "0.3-254",
+  "depends": [
+    "ghc-libs",
+    "haskell-test-framework-quickcheck2",
+    "haskell-crypto-api",
+    "haskell-cereal",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit",
+    "haskell-hunit",
+    "haskell-quickcheck"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199886945,
+  "transmit": 491870,
+  "disk": 12273337
+}
