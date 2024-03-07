@@ -1,0 +1,14 @@
+{
+  "name": "haskell-concurrent-supply",
+  "version": "0.1.8-207",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199715277,
+  "transmit": 283324,
+  "disk": 278935
+}
