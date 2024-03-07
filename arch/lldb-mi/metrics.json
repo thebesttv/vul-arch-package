@@ -1,0 +1,17 @@
+{
+  "name": "lldb-mi",
+  "version": "0.0.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "lldb",
+    "llvm-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "llvm"
+  ],
+  "receive": 199599318,
+  "transmit": 370164,
+  "disk": 1572277
+}
