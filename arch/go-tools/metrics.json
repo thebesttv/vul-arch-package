@@ -1,0 +1,14 @@
+{
+  "name": "go-tools",
+  "version": "4:0.19.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 541048896,
+  "transmit": 4435805,
+  "disk": 367159302
+}
