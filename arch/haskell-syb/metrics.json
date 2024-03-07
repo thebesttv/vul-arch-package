@@ -1,0 +1,13 @@
+{
+  "name": "haskell-syb",
+  "version": "0.7.2.4-7",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199499481,
+  "transmit": 236086,
+  "disk": 539956
+}
