@@ -1,0 +1,16 @@
+{
+  "name": "haskell-tasty",
+  "version": "1.4.3-70",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-optparse-applicative",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200069768,
+  "transmit": 377385,
+  "disk": 848336
+}
