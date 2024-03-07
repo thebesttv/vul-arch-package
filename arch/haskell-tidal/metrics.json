@@ -1,0 +1,23 @@
+{
+  "name": "haskell-tidal",
+  "version": "1.9.4-27",
+  "depends": [
+    "ghc",
+    "ghc-libs",
+    "glibc",
+    "haskell-clock",
+    "haskell-colour",
+    "haskell-hosc",
+    "haskell-mwc-random",
+    "haskell-network",
+    "haskell-primitive",
+    "haskell-random",
+    "haskell-tidal-link",
+    "haskell-vector",
+    "supercollider"
+  ],
+  "makedepends": [],
+  "receive": 199691031,
+  "transmit": 409116,
+  "disk": 1124549
+}
