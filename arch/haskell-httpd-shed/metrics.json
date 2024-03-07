@@ -1,0 +1,16 @@
+{
+  "name": "haskell-httpd-shed",
+  "version": "0.4.1.1-456",
+  "depends": [
+    "ghc-libs",
+    "haskell-network",
+    "haskell-network-bsd",
+    "haskell-network-uri"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199911536,
+  "transmit": 551635,
+  "disk": 474466
+}
