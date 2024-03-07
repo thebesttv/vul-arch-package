@@ -1,0 +1,15 @@
+{
+  "name": "haskell-onetuple",
+  "version": "0.3.1-74",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-orphans"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hashable"
+  ],
+  "receive": 199638451,
+  "transmit": 395574,
+  "disk": 204330
+}
