@@ -1,0 +1,22 @@
+{
+  "name": "haskell-hspec-meta",
+  "version": "2.10.5-126",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-call-stack",
+    "haskell-clock",
+    "haskell-ghc",
+    "haskell-quickcheck",
+    "haskell-quickcheck-io",
+    "haskell-random",
+    "haskell-setenv"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199629504,
+  "transmit": 269782,
+  "disk": 1202194
+}
