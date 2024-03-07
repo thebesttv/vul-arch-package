@@ -1,0 +1,13 @@
+{
+  "name": "haskell-clock",
+  "version": "0.8.4-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199661763,
+  "transmit": 405568,
+  "disk": 397464
+}
