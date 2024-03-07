@@ -1,0 +1,21 @@
+{
+  "name": "haskell-xcffib",
+  "version": "1.4.0-33",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-either",
+    "haskell-filemanip",
+    "haskell-language-python",
+    "haskell-optparse-applicative",
+    "haskell-split",
+    "haskell-xcb-types"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199700497,
+  "transmit": 384968,
+  "disk": 670136
+}
