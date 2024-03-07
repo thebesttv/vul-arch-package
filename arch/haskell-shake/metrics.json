@@ -1,0 +1,25 @@
+{
+  "name": "haskell-shake",
+  "version": "0.19.6-167",
+  "depends": [
+    "ghc-libs",
+    "haskell-extra",
+    "haskell-filepattern",
+    "haskell-hashable",
+    "haskell-heaps",
+    "haskell-js-dgtable",
+    "haskell-js-flot",
+    "haskell-js-jquery",
+    "haskell-primitive",
+    "haskell-random",
+    "haskell-unordered-containers",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199592136,
+  "transmit": 272654,
+  "disk": 2119743
+}
