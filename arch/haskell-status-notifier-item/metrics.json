@@ -1,0 +1,21 @@
+{
+  "name": "haskell-status-notifier-item",
+  "version": "0.3.1.0-123",
+  "depends": [
+    "ghc-libs",
+    "haskell-byte-order",
+    "haskell-bytestring-to-vector",
+    "haskell-dbus",
+    "haskell-dbus-hslogger",
+    "haskell-hslogger",
+    "haskell-lens",
+    "haskell-optparse-applicative",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199602515,
+  "transmit": 371944,
+  "disk": 344349
+}
