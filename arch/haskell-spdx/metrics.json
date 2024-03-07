@@ -1,0 +1,16 @@
+{
+  "name": "haskell-spdx",
+  "version": "1.0.0.3-57",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-base-compat",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199747683,
+  "transmit": 279951,
+  "disk": 334879
+}
