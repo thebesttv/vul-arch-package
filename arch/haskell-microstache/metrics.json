@@ -1,0 +1,19 @@
+{
+  "name": "haskell-microstache",
+  "version": "1.0.2.3-63",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-base-orphans",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199580701,
+  "transmit": 269890,
+  "disk": 606797
+}
