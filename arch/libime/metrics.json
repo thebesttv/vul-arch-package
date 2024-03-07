@@ -1,0 +1,17 @@
+{
+  "name": "libime",
+  "version": "1.1.6-1",
+  "depends": [
+    "boost-libs",
+    "fcitx5"
+  ],
+  "makedepends": [
+    "boost",
+    "extra-cmake-modules",
+    "ninja",
+    "python"
+  ],
+  "receive": 236730442,
+  "transmit": 681536,
+  "disk": 75235481
+}
