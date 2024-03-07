@@ -1,0 +1,21 @@
+{
+  "name": "python-oslo-config",
+  "version": "9.4.0-1",
+  "depends": [
+    "python-debtcollector",
+    "python-netaddr",
+    "python-stevedore",
+    "python-oslo-i18n",
+    "python-rfc3986",
+    "python-yaml",
+    "python-requests"
+  ],
+  "makedepends": [
+    "git",
+    "python-pbr",
+    "python-setuptools"
+  ],
+  "receive": 199722882,
+  "transmit": 401504,
+  "disk": 4014501
+}
