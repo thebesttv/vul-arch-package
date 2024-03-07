@@ -1,0 +1,19 @@
+{
+  "name": "haskell-recursion-schemes",
+  "version": "5.2.2.5-26",
+  "depends": [
+    "ghc-libs",
+    "haskell-comonad",
+    "haskell-data-fix",
+    "haskell-free",
+    "haskell-th-abstraction"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit"
+  ],
+  "receive": 200899342,
+  "transmit": 1129274,
+  "disk": 524955
+}
