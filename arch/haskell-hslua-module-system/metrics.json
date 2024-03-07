@@ -1,0 +1,21 @@
+{
+  "name": "haskell-hslua-module-system",
+  "version": "1.1.0.1-19",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslua-core",
+    "haskell-hslua-marshalling",
+    "haskell-hslua-packaging",
+    "haskell-temporary"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-lua"
+  ],
+  "receive": 200017100,
+  "transmit": 405787,
+  "disk": 454902
+}
