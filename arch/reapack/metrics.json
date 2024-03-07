@@ -1,0 +1,25 @@
+{
+  "name": "reapack",
+  "version": "1.2.4.5-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "openssl",
+    "zlib",
+    "reaper",
+    "libxml2",
+    "curl",
+    "sqlite"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "boost",
+    "ruby",
+    "php",
+    "catch2"
+  ],
+  "receive": 199684534,
+  "transmit": 391947,
+  "disk": 32365256
+}
