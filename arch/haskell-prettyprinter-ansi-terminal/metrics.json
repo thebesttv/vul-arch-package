@@ -1,0 +1,16 @@
+{
+  "name": "haskell-prettyprinter-ansi-terminal",
+  "version": "1.1.3-163",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-prettyprinter"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest"
+  ],
+  "receive": 199787055,
+  "transmit": 305594,
+  "disk": 481301
+}
