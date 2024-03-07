@@ -1,0 +1,17 @@
+{
+  "name": "haskell-pipes-http",
+  "version": "1.0.6-584",
+  "depends": [
+    "ghc-libs",
+    "haskell-http-client",
+    "haskell-http-client-tls",
+    "haskell-pipes"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200307614,
+  "transmit": 454985,
+  "disk": 705907
+}
