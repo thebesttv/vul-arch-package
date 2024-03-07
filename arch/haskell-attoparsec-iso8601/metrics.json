@@ -1,0 +1,17 @@
+{
+  "name": "haskell-attoparsec-iso8601",
+  "version": "1.1.0.0-49",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-base-compat-batteries",
+    "haskell-time-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199557826,
+  "transmit": 279045,
+  "disk": 351022
+}
