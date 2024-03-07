@@ -1,0 +1,16 @@
+{
+  "name": "haskell-resourcet",
+  "version": "1.2.6-50",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive",
+    "haskell-unliftio-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199540404,
+  "transmit": 253414,
+  "disk": 433428
+}
