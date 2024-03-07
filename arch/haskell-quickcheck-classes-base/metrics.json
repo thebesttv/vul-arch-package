@@ -1,0 +1,15 @@
+{
+  "name": "haskell-quickcheck-classes-base",
+  "version": "0.6.2.0-288",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199923774,
+  "transmit": 289447,
+  "disk": 651598
+}
