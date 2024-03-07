@@ -1,0 +1,17 @@
+{
+  "name": "haskell-strict",
+  "version": "0.4.0.1-230",
+  "depends": [
+    "ghc-libs",
+    "haskell-assoc",
+    "haskell-hashable",
+    "haskell-these"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199665386,
+  "transmit": 406552,
+  "disk": 450426
+}
