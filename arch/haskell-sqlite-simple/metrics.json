@@ -1,0 +1,20 @@
+{
+  "name": "haskell-sqlite-simple",
+  "version": "0.4.19.0-4",
+  "depends": [
+    "ghc-libs",
+    "haskell-only",
+    "haskell-attoparsec",
+    "haskell-blaze-builder",
+    "haskell-blaze-textual",
+    "haskell-direct-sqlite"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-base16-bytestring"
+  ],
+  "receive": 199532392,
+  "transmit": 250735,
+  "disk": 422692
+}
