@@ -1,0 +1,17 @@
+{
+  "name": "haskell-dependent-sum-template",
+  "version": "0.1.1.1-141",
+  "depends": [
+    "ghc-libs",
+    "haskell-dependent-sum",
+    "haskell-th-abstraction",
+    "haskell-th-extras"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-constraints-extras"
+  ],
+  "receive": 199613668,
+  "transmit": 341407,
+  "disk": 360148
+}
