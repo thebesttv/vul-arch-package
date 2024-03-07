@@ -1,0 +1,16 @@
+{
+  "name": "haskell-linear-generics",
+  "version": "0.2.1-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-th-abstraction"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 200179435,
+  "transmit": 812698,
+  "disk": 462144
+}
