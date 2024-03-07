@@ -1,0 +1,20 @@
+{
+  "name": "haskell-graphviz",
+  "version": "2999.20.1.0-197",
+  "depends": [
+    "ghc-libs",
+    "haskell-colour",
+    "haskell-dlist",
+    "haskell-fgl",
+    "haskell-polyparse",
+    "haskell-temporary",
+    "haskell-wl-pprint-text"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199776892,
+  "transmit": 405825,
+  "disk": 1964322
+}
