@@ -1,0 +1,16 @@
+{
+  "name": "haskell-math-functions",
+  "version": "0.3.4.3-38",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default-class",
+    "haskell-primitive",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 201783398,
+  "transmit": 1442700,
+  "disk": 1949407
+}
