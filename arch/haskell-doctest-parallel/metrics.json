@@ -1,0 +1,31 @@
+{
+  "name": "haskell-doctest-parallel",
+  "version": "0.3.1-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-glob",
+    "haskell-base-compat",
+    "haskell-code-page",
+    "haskell-ghc",
+    "haskell-ghc-paths",
+    "haskell-random",
+    "haskell-syb",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "expac",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "haskell-hspec-core",
+    "haskell-mockery",
+    "haskell-setenv",
+    "haskell-silently",
+    "haskell-stringbuilder"
+  ],
+  "receive": 199635515,
+  "transmit": 327730,
+  "disk": 762210
+}
