@@ -1,0 +1,16 @@
+{
+  "name": "python-setuptools-git",
+  "version": "1.2-10",
+  "depends": [
+    "python-setuptools",
+    "git"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199553076,
+  "transmit": 269980,
+  "disk": 137769
+}
