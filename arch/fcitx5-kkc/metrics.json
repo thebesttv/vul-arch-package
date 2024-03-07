@@ -1,0 +1,15 @@
+{
+  "name": "fcitx5-kkc",
+  "version": "5.1.2-1",
+  "depends": [
+    "fcitx5-qt",
+    "libkkc",
+    "libkkc-data"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199678082,
+  "transmit": 393522,
+  "disk": 419347
+}
