@@ -1,0 +1,26 @@
+{
+  "name": "haskell-pandoc-lua-marshal",
+  "version": "0.2.2-58",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-hslua",
+    "haskell-hslua-list",
+    "haskell-hslua-marshalling",
+    "haskell-lua",
+    "haskell-pandoc-types",
+    "haskell-safe"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-lua",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 200353379,
+  "transmit": 814988,
+  "disk": 526479
+}
