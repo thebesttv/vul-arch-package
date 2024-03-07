@@ -1,0 +1,16 @@
+{
+  "name": "haskell-witch",
+  "version": "1.2.0.0-9",
+  "depends": [
+    "ghc-libs",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit"
+  ],
+  "receive": 200245425,
+  "transmit": 733590,
+  "disk": 370860
+}
