@@ -1,0 +1,16 @@
+{
+  "name": "haskell-data-textual",
+  "version": "0.3.0.3-322",
+  "depends": [
+    "ghc-libs",
+    "haskell-parsers",
+    "haskell-text-latin1",
+    "haskell-text-printer"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199861091,
+  "transmit": 523675,
+  "disk": 606003
+}
