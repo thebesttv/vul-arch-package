@@ -1,0 +1,16 @@
+{
+  "name": "haskell-bytestring-to-vector",
+  "version": "0.3.0.1-41",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-byteorder"
+  ],
+  "receive": 199564318,
+  "transmit": 294619,
+  "disk": 178009
+}
