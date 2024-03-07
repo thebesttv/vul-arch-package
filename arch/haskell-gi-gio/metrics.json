@@ -1,0 +1,20 @@
+{
+  "name": "haskell-gi-gio",
+  "version": "2.0.32-58",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-glib",
+    "haskell-gi-gobject",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "glib2"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199764620,
+  "transmit": 331159,
+  "disk": 460920
+}
