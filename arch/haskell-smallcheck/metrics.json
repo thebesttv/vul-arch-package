@@ -1,0 +1,14 @@
+{
+  "name": "haskell-smallcheck",
+  "version": "1.2.1.1-40",
+  "depends": [
+    "ghc-libs",
+    "haskell-logict"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199901277,
+  "transmit": 292317,
+  "disk": 477080
+}
