@@ -1,0 +1,15 @@
+{
+  "name": "haskell-indexed-list-literals",
+  "version": "0.2.1.3-104",
+  "depends": [
+    "ghc-libs",
+    "haskell-only"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199623278,
+  "transmit": 365568,
+  "disk": 214045
+}
