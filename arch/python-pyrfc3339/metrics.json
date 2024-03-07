@@ -1,0 +1,16 @@
+{
+  "name": "python-pyrfc3339",
+  "version": "1.1-11",
+  "depends": [
+    "python-pytz"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199661782,
+  "transmit": 285215,
+  "disk": 135202
+}
