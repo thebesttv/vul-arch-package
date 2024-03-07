@@ -1,0 +1,14 @@
+{
+  "name": "libid3tag",
+  "version": "0.16.3-2",
+  "depends": [
+    "glibc",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199564337,
+  "transmit": 285738,
+  "disk": 432766
+}
