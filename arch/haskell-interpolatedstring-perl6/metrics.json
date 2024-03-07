@@ -1,0 +1,14 @@
+{
+  "name": "haskell-interpolatedstring-perl6",
+  "version": "1.0.2-284",
+  "depends": [
+    "ghc-libs",
+    "haskell-src-meta"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199609696,
+  "transmit": 345987,
+  "disk": 427099
+}
