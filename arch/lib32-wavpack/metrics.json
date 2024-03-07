@@ -1,0 +1,12 @@
+{
+  "name": "lib32-wavpack",
+  "version": "5.7.0-1",
+  "depends": [
+    "lib32-glibc",
+    "wavpack"
+  ],
+  "makedepends": [],
+  "receive": 199664110,
+  "transmit": 442335,
+  "disk": 5130028
+}
