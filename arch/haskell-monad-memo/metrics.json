@@ -1,0 +1,19 @@
+{
+  "name": "haskell-monad-memo",
+  "version": "0.5.4-79",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-random",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199759252,
+  "transmit": 366158,
+  "disk": 440452
+}
