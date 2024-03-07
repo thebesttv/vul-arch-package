@@ -1,0 +1,15 @@
+{
+  "name": "haskell-distributive",
+  "version": "0.6.2.1-208",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-orphans",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199671924,
+  "transmit": 386272,
+  "disk": 412570
+}
