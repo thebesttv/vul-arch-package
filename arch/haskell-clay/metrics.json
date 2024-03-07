@@ -1,0 +1,15 @@
+{
+  "name": "haskell-clay",
+  "version": "0.15.0-7",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199529328,
+  "transmit": 232589,
+  "disk": 357024
+}
