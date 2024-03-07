@@ -1,0 +1,17 @@
+{
+  "name": "haskell-json-ast",
+  "version": "0.3.2-61",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector",
+    "haskell-scientific",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199502680,
+  "transmit": 254943,
+  "disk": 349156
+}
