@@ -1,0 +1,14 @@
+{
+  "name": "haskell-digits",
+  "version": "0.3.1-20",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199662250,
+  "transmit": 383276,
+  "disk": 150078
+}
