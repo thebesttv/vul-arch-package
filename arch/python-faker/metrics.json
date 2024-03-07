@@ -1,0 +1,15 @@
+{
+  "name": "python-faker",
+  "version": "24.0.0-1",
+  "depends": [
+    "python-dateutil"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-pytest"
+  ],
+  "receive": 215176080,
+  "transmit": 506155,
+  "disk": 27826640
+}
