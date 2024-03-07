@@ -1,0 +1,17 @@
+{
+  "name": "haskell-config-schema",
+  "version": "1.3.0.0-84",
+  "depends": [
+    "ghc-libs",
+    "haskell-config-value",
+    "haskell-free",
+    "haskell-kan-extensions",
+    "haskell-semigroupoids"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200943934,
+  "transmit": 1214122,
+  "disk": 298994
+}
