@@ -1,0 +1,16 @@
+{
+  "name": "haskell-glib",
+  "version": "0.13.10.0-12",
+  "depends": [
+    "ghc-libs",
+    "glib2",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-gtk2hs-buildtools"
+  ],
+  "receive": 199610521,
+  "transmit": 278977,
+  "disk": 541433
+}
