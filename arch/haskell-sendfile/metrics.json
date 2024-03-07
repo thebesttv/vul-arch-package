@@ -1,0 +1,14 @@
+{
+  "name": "haskell-sendfile",
+  "version": "0.7.11.5-9",
+  "depends": [
+    "ghc-libs",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199777813,
+  "transmit": 492804,
+  "disk": 228949
+}
