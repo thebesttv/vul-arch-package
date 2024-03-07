@@ -1,0 +1,16 @@
+{
+  "name": "haskell-extra",
+  "version": "1.7.14-33",
+  "depends": [
+    "ghc-libs",
+    "haskell-clock"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances"
+  ],
+  "receive": 199936686,
+  "transmit": 587440,
+  "disk": 709168
+}
