@@ -1,0 +1,15 @@
+{
+  "name": "haskell-wl-pprint-terminfo",
+  "version": "3.7.1.4-417",
+  "depends": [
+    "ghc-libs",
+    "haskell-wl-pprint-extras"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200067195,
+  "transmit": 610474,
+  "disk": 640657
+}
