@@ -1,0 +1,16 @@
+{
+  "name": "haskell-lua-arbitrary",
+  "version": "1.0.1.1-26",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-lua"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200150328,
+  "transmit": 496382,
+  "disk": 196432
+}
