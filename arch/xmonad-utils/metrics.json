@@ -1,0 +1,22 @@
+{
+  "name": "xmonad-utils",
+  "version": "0.1.3.3-248",
+  "depends": [
+    "glibc",
+    "ghc-libs",
+    "gmp",
+    "libffi",
+    "libxrandr",
+    "haskell-x11",
+    "haskell-random",
+    "libxcrypt",
+    "libcrypt.so",
+    "libx11"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199846808,
+  "transmit": 415253,
+  "disk": 302566
+}
