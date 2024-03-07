@@ -1,0 +1,17 @@
+{
+  "name": "haskell-hslogger",
+  "version": "1.3.1.0-229",
+  "depends": [
+    "ghc-libs",
+    "haskell-network",
+    "haskell-network-bsd",
+    "haskell-old-locale"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199764403,
+  "transmit": 452735,
+  "disk": 524469
+}
