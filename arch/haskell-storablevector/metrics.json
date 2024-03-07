@@ -1,0 +1,19 @@
+{
+  "name": "haskell-storablevector",
+  "version": "0.2.13.2-17",
+  "depends": [
+    "ghc-libs",
+    "haskell-non-negative",
+    "haskell-utility-ht",
+    "haskell-unsafe",
+    "haskell-quickcheck",
+    "haskell-syb"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-random"
+  ],
+  "receive": 201374231,
+  "transmit": 1215184,
+  "disk": 642051
+}
