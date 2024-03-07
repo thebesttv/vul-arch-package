@@ -1,0 +1,15 @@
+{
+  "name": "haskell-test-framework-smallcheck",
+  "version": "0.2-255",
+  "depends": [
+    "ghc-libs",
+    "haskell-test-framework",
+    "haskell-smallcheck"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200181448,
+  "transmit": 728797,
+  "disk": 299761
+}
