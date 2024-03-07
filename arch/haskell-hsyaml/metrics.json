@@ -1,0 +1,16 @@
+{
+  "name": "haskell-hsyaml",
+  "version": "0.2.1.3-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199735541,
+  "transmit": 308882,
+  "disk": 718184
+}
