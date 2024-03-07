@@ -1,0 +1,24 @@
+{
+  "name": "haskell-brick",
+  "version": "1.7-11",
+  "depends": [
+    "ghc-libs",
+    "haskell-bimap",
+    "haskell-config-ini",
+    "haskell-data-clist",
+    "haskell-microlens",
+    "haskell-microlens-mtl",
+    "haskell-microlens-th",
+    "haskell-text-zipper",
+    "haskell-vector",
+    "haskell-vty",
+    "haskell-word-wrap"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 200205957,
+  "transmit": 434529,
+  "disk": 2994656
+}
