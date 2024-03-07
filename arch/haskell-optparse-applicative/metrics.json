@@ -1,0 +1,15 @@
+{
+  "name": "haskell-optparse-applicative",
+  "version": "0.17.1.0-27",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-wl-pprint",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199521297,
+  "transmit": 239404,
+  "disk": 780809
+}
