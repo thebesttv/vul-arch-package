@@ -1,0 +1,16 @@
+{
+  "name": "haskell-tasty-expected-failure",
+  "version": "0.12.3-353",
+  "depends": [
+    "ghc-libs",
+    "haskell-tagged",
+    "haskell-tasty",
+    "haskell-unbounded-delays"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200536085,
+  "transmit": 885211,
+  "disk": 569659
+}
