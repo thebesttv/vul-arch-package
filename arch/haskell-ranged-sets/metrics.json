@@ -1,0 +1,15 @@
+{
+  "name": "haskell-ranged-sets",
+  "version": "0.4.0-227",
+  "depends": [
+    "ghc-libs",
+    "haskell-hunit",
+    "haskell-quickcheck"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200104636,
+  "transmit": 634940,
+  "disk": 355833
+}
