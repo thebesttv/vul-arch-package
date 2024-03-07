@@ -1,0 +1,17 @@
+{
+  "name": "haskell-vector-algorithms",
+  "version": "0.9.0.1-89",
+  "depends": [
+    "ghc-libs",
+    "haskell-bitvec",
+    "haskell-primitive",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199735289,
+  "transmit": 391089,
+  "disk": 548105
+}
