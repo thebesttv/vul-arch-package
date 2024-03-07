@@ -1,0 +1,17 @@
+{
+  "name": "haskell-unixutils",
+  "version": "1.54.3-13",
+  "depends": [
+    "ghc-libs",
+    "haskell-process-extras",
+    "haskell-puremd5",
+    "haskell-regex-tdfa",
+    "haskell-zlib"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199614466,
+  "transmit": 360904,
+  "disk": 470458
+}
