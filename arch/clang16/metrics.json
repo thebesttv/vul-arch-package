@@ -1,0 +1,18 @@
+{
+  "name": "clang16",
+  "version": "16.0.6-1",
+  "depends": [
+    "llvm16-libs",
+    "gcc",
+    "compiler-rt16"
+  ],
+  "makedepends": [
+    "llvm16",
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 277227672,
+  "transmit": 652600,
+  "disk": 1140722692
+}
