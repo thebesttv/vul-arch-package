@@ -1,0 +1,16 @@
+{
+  "name": "libc++",
+  "version": "17.0.6-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "clang",
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 328568899,
+  "transmit": 862167,
+  "disk": 1667583855
+}
