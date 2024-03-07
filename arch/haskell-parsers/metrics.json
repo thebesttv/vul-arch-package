@@ -1,0 +1,20 @@
+{
+  "name": "haskell-parsers",
+  "version": "0.12.11-114",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-base-orphans",
+    "haskell-charset",
+    "haskell-scientific",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances"
+  ],
+  "receive": 199943825,
+  "transmit": 537662,
+  "disk": 590480
+}
