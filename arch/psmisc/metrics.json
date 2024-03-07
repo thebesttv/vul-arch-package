@@ -1,0 +1,14 @@
+{
+  "name": "psmisc",
+  "version": "23.7-1",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [
+    "git",
+    "po4a"
+  ],
+  "receive": 199609376,
+  "transmit": 324514,
+  "disk": 6892199
+}
