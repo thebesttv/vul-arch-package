@@ -1,0 +1,23 @@
+{
+  "name": "haskell-hw-prim",
+  "version": "0.6.3.2-65",
+  "depends": [
+    "ghc-libs",
+    "haskell-mmap",
+    "haskell-unliftio-core",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-doctest",
+    "haskell-doctest-discover",
+    "haskell-hedgehog",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-hw-hspec-hedgehog"
+  ],
+  "receive": 199569739,
+  "transmit": 306961,
+  "disk": 396696
+}
