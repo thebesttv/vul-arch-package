@@ -1,0 +1,21 @@
+{
+  "name": "fcitx5-chinese-addons",
+  "version": "5.1.4-1",
+  "depends": [
+    "curl",
+    "fcitx5-qt",
+    "libime",
+    "opencc",
+    "qt6-webengine"
+  ],
+  "makedepends": [
+    "boost",
+    "extra-cmake-modules",
+    "fcitx5-lua",
+    "fmt",
+    "ninja"
+  ],
+  "receive": 200002711,
+  "transmit": 431738,
+  "disk": 3147114
+}
