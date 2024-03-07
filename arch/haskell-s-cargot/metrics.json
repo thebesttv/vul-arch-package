@@ -1,0 +1,15 @@
+{
+  "name": "haskell-s-cargot",
+  "version": "0.1.5.0-25",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck"
+  ],
+  "receive": 199528385,
+  "transmit": 230026,
+  "disk": 365719
+}
