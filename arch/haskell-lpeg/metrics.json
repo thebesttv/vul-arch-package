@@ -1,0 +1,18 @@
+{
+  "name": "haskell-lpeg",
+  "version": "1.0.4-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-lua",
+    "lua-lpeg"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199708001,
+  "transmit": 395106,
+  "disk": 410876
+}
