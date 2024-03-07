@@ -1,0 +1,14 @@
+{
+  "name": "lib32-fakeroot",
+  "version": "1.34-1",
+  "depends": [
+    "lib32-glibc",
+    "fakeroot"
+  ],
+  "makedepends": [
+    "po4a"
+  ],
+  "receive": 199740499,
+  "transmit": 490646,
+  "disk": 3025508
+}
