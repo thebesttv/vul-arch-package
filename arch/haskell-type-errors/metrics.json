@@ -1,0 +1,17 @@
+{
+  "name": "haskell-type-errors",
+  "version": "0.2.0.2-22",
+  "depends": [
+    "ghc-libs",
+    "haskell-first-class-families",
+    "haskell-syb",
+    "haskell-th-abstraction"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest"
+  ],
+  "receive": 199506928,
+  "transmit": 247300,
+  "disk": 301138
+}
