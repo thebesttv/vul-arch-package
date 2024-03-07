@@ -1,0 +1,18 @@
+{
+  "name": "openmp",
+  "version": "17.0.6-1",
+  "depends": [
+    "llvm-libs",
+    "libelf",
+    "libffi"
+  ],
+  "makedepends": [
+    "llvm",
+    "clang",
+    "cmake",
+    "ninja"
+  ],
+  "receive": 201095948,
+  "transmit": 471993,
+  "disk": 10008855
+}
