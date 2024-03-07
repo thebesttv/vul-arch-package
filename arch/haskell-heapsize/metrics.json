@@ -1,0 +1,17 @@
+{
+  "name": "haskell-heapsize",
+  "version": "0.3.0.1-214",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-hashtables",
+    "haskell-primitive",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199742078,
+  "transmit": 419044,
+  "disk": 303045
+}
