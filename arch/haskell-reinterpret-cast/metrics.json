@@ -1,0 +1,16 @@
+{
+  "name": "haskell-reinterpret-cast",
+  "version": "0.1.0-245",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-data-binary-ieee754",
+    "haskell-hspec",
+    "haskell-loop"
+  ],
+  "receive": 200183545,
+  "transmit": 583278,
+  "disk": 308648
+}
