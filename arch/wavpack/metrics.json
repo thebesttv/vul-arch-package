@@ -1,0 +1,11 @@
+{
+  "name": "wavpack",
+  "version": "5.7.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199692137,
+  "transmit": 404027,
+  "disk": 5137813
+}
