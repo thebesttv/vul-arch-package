@@ -1,0 +1,20 @@
+{
+  "name": "haskell-base64",
+  "version": "0.4.2.4-68",
+  "depends": [
+    "ghc-libs",
+    "haskell-text-short"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-base64-bytestring",
+    "haskell-random-bytestring",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199674210,
+  "transmit": 389928,
+  "disk": 440728
+}
