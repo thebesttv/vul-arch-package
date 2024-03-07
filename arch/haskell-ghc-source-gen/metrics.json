@@ -1,0 +1,19 @@
+{
+  "name": "haskell-ghc-source-gen",
+  "version": "0.4.4.0-7",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-ghc-paths",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199604579,
+  "transmit": 295646,
+  "disk": 480962
+}
