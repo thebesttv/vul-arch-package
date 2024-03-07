@@ -1,0 +1,16 @@
+{
+  "name": "haskell-crypton-x509-system",
+  "version": "1.6.7-27",
+  "depends": [
+    "ghc-libs",
+    "haskell-crypton-x509",
+    "haskell-crypton-x509-store",
+    "haskell-pem"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199599099,
+  "transmit": 337160,
+  "disk": 164054
+}
