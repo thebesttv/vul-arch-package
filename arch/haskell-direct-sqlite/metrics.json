@@ -1,0 +1,17 @@
+{
+  "name": "haskell-direct-sqlite",
+  "version": "2.3.29-6",
+  "depends": [
+    "ghc-libs",
+    "sqlite"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-base16-bytestring",
+    "haskell-temporary"
+  ],
+  "receive": 200357985,
+  "transmit": 885694,
+  "disk": 12622306
+}
