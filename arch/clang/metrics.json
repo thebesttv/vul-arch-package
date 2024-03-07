@@ -1,0 +1,19 @@
+{
+  "name": "clang",
+  "version": "17.0.6-1",
+  "depends": [
+    "llvm-libs",
+    "gcc",
+    "compiler-rt"
+  ],
+  "makedepends": [
+    "llvm",
+    "cmake",
+    "ninja",
+    "python-sphinx",
+    "python-recommonmark"
+  ],
+  "receive": 284698760,
+  "transmit": 388822,
+  "disk": 1313762049
+}
