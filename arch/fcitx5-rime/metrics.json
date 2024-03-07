@@ -1,0 +1,15 @@
+{
+  "name": "fcitx5-rime",
+  "version": "5.1.5-1",
+  "depends": [
+    "fcitx5",
+    "librime"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ninja"
+  ],
+  "receive": 199619363,
+  "transmit": 362950,
+  "disk": 413182
+}
