@@ -1,0 +1,17 @@
+{
+  "name": "haskell-language-javascript",
+  "version": "0.7.1.0-158",
+  "depends": [
+    "ghc-libs",
+    "haskell-blaze-builder",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "alex",
+    "happy",
+    "ghc"
+  ],
+  "receive": 200160760,
+  "transmit": 678061,
+  "disk": 680132
+}
