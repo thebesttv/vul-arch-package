@@ -1,0 +1,18 @@
+{
+  "name": "haskell-aeson-casing",
+  "version": "0.2.0.0-85",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "haskell-tasty-th"
+  ],
+  "receive": 199653254,
+  "transmit": 383160,
+  "disk": 248567
+}
