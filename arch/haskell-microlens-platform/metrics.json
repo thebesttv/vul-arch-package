@@ -1,0 +1,20 @@
+{
+  "name": "haskell-microlens-platform",
+  "version": "0.4.3.5-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-microlens",
+    "haskell-microlens-ghc",
+    "haskell-microlens-mtl",
+    "haskell-microlens-th",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199823118,
+  "transmit": 479979,
+  "disk": 426883
+}
