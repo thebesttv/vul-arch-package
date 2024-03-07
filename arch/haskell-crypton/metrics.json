@@ -1,0 +1,19 @@
+{
+  "name": "haskell-crypton",
+  "version": "0.34-10",
+  "depends": [
+    "ghc-libs",
+    "haskell-basement",
+    "haskell-memory"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-kat",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199711707,
+  "transmit": 452536,
+  "disk": 3534644
+}
