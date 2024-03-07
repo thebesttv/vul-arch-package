@@ -1,0 +1,16 @@
+{
+  "name": "haskell-monadrandom",
+  "version": "0.6-35",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive",
+    "haskell-random",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199750991,
+  "transmit": 411919,
+  "disk": 353170
+}
