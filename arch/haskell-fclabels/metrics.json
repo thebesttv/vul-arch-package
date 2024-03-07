@@ -1,0 +1,16 @@
+{
+  "name": "haskell-fclabels",
+  "version": "2.0.5.1-111",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-orphans"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit"
+  ],
+  "receive": 199846498,
+  "transmit": 399651,
+  "disk": 414911
+}
