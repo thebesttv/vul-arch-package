@@ -1,0 +1,23 @@
+{
+  "name": "haskell-hslua-classes",
+  "version": "2.3.0-46",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslua-core",
+    "haskell-hslua-marshalling"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-lua-arbitrary",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-hslua",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199777884,
+  "transmit": 383750,
+  "disk": 319328
+}
