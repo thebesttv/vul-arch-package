@@ -1,0 +1,16 @@
+{
+  "name": "haskell-iproute",
+  "version": "1.7.12-81",
+  "depends": [
+    "ghc-libs",
+    "haskell-appar",
+    "haskell-byteorder",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 202063282,
+  "transmit": 1701010,
+  "disk": 425071
+}
