@@ -1,0 +1,14 @@
+{
+  "name": "haskell-flexible-defaults",
+  "version": "0.0.3-152",
+  "depends": [
+    "ghc-libs",
+    "haskell-th-extras"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199962826,
+  "transmit": 670069,
+  "disk": 261584
+}
