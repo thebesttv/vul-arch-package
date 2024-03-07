@@ -1,0 +1,13 @@
+{
+  "name": "haskell-loch-th",
+  "version": "0.2.2-20",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199556605,
+  "transmit": 271550,
+  "disk": 128493
+}
