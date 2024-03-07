@@ -1,0 +1,26 @@
+{
+  "name": "haskell-apply-refact",
+  "version": "0.11.0.0-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-extra",
+    "haskell-filemanip",
+    "haskell-ghc-exactprint",
+    "haskell-ghc-paths",
+    "haskell-optparse-applicative",
+    "haskell-refact",
+    "haskell-syb",
+    "haskell-uniplate",
+    "haskell-unix-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-silently",
+    "haskell-tasty",
+    "haskell-tasty-expected-failure",
+    "haskell-tasty-golden"
+  ],
+  "receive": 199529991,
+  "transmit": 214887,
+  "disk": 700534
+}
