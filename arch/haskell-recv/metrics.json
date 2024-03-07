@@ -1,0 +1,17 @@
+{
+  "name": "haskell-recv",
+  "version": "0.1.0-29",
+  "depends": [
+    "ghc-libs",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199672108,
+  "transmit": 384231,
+  "disk": 184904
+}
