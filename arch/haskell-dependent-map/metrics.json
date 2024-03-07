@@ -1,0 +1,16 @@
+{
+  "name": "haskell-dependent-map",
+  "version": "0.4.0.0-225",
+  "depends": [
+    "ghc-libs",
+    "haskell-constraints-extras",
+    "haskell-dependent-sum"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200325341,
+  "transmit": 881581,
+  "disk": 402729
+}
