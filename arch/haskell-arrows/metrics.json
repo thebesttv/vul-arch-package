@@ -1,0 +1,14 @@
+{
+  "name": "haskell-arrows",
+  "version": "0.4.4.2-125",
+  "depends": [
+    "ghc-libs",
+    "haskell-stream"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199735318,
+  "transmit": 368047,
+  "disk": 285960
+}
