@@ -1,0 +1,17 @@
+{
+  "name": "wasi-compiler-rt",
+  "version": "17.0.6-1",
+  "depends": [
+    "wasi-libc"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "llvm",
+    "clang",
+    "lld"
+  ],
+  "receive": 199634149,
+  "transmit": 345433,
+  "disk": 41906759
+}
