@@ -1,0 +1,16 @@
+{
+  "name": "polly",
+  "version": "17.0.6-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "llvm",
+    "cmake",
+    "ninja",
+    "python-sphinx"
+  ],
+  "receive": 268507724,
+  "transmit": 369519,
+  "disk": 889291721
+}
