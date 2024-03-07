@@ -1,0 +1,26 @@
+{
+  "name": "haskell-hslua-aeson",
+  "version": "2.3.0.1-27",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-hashable",
+    "haskell-hslua-core",
+    "haskell-hslua-marshalling",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 200370910,
+  "transmit": 726787,
+  "disk": 287004
+}
