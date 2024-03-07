@@ -1,0 +1,17 @@
+{
+  "name": "haskell-tasty-rerun",
+  "version": "1.1.19-17",
+  "depends": [
+    "ghc-libs",
+    "haskell-optparse-applicative",
+    "haskell-split",
+    "haskell-tagged",
+    "haskell-tasty"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199757309,
+  "transmit": 411844,
+  "disk": 428614
+}
