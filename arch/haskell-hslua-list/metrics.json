@@ -1,0 +1,17 @@
+{
+  "name": "haskell-hslua-list",
+  "version": "1.1.1-53",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslua-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-lua"
+  ],
+  "receive": 199559127,
+  "transmit": 301210,
+  "disk": 243404
+}
