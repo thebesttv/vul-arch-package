@@ -1,0 +1,19 @@
+{
+  "name": "fcitx5-gtk",
+  "version": "5.1.2-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "gobject-introspection",
+    "gtk2",
+    "gtk3",
+    "gtk4",
+    "ninja",
+    "vulkan-headers"
+  ],
+  "receive": 199623481,
+  "transmit": 351670,
+  "disk": 610107
+}
