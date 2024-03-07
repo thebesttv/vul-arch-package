@@ -1,0 +1,15 @@
+{
+  "name": "haskell-primitive-unlifted",
+  "version": "0.1.3.1-34",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive",
+    "haskell-text-short"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 201032959,
+  "transmit": 1320610,
+  "disk": 197652
+}
