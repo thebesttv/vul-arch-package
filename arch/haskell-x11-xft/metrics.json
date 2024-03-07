@@ -1,0 +1,17 @@
+{
+  "name": "haskell-x11-xft",
+  "version": "0.3.4-67",
+  "depends": [
+    "ghc-libs",
+    "haskell-x11",
+    "haskell-utf8-string",
+    "libxft"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199615804,
+  "transmit": 373575,
+  "disk": 354323
+}
