@@ -1,0 +1,17 @@
+{
+  "name": "haskell-configurator",
+  "version": "0.3.0.0-391",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-hashable",
+    "haskell-unix-compat",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 201056239,
+  "transmit": 1054945,
+  "disk": 483615
+}
