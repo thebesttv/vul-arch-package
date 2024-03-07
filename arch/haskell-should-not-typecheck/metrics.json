@@ -1,0 +1,16 @@
+{
+  "name": "haskell-should-not-typecheck",
+  "version": "2.1.0-261",
+  "depends": [
+    "ghc-libs",
+    "haskell-hunit"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-expectations"
+  ],
+  "receive": 199500703,
+  "transmit": 271592,
+  "disk": 313625
+}
