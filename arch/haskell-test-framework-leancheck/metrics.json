@@ -1,0 +1,15 @@
+{
+  "name": "haskell-test-framework-leancheck",
+  "version": "0.0.4-108",
+  "depends": [
+    "ghc-libs",
+    "haskell-leancheck",
+    "haskell-test-framework"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199545487,
+  "transmit": 246682,
+  "disk": 320091
+}
