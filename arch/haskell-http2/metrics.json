@@ -1,0 +1,33 @@
+{
+  "name": "haskell-http2",
+  "version": "4.1.0-13",
+  "depends": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-case-insensitive",
+    "haskell-http-types",
+    "haskell-network",
+    "haskell-network-byte-order",
+    "haskell-psqueues",
+    "haskell-time-manager",
+    "haskell-unix-time",
+    "haskell-unliftio"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-base16-bytestring",
+    "haskell-cryptonite",
+    "haskell-glob",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-network-run",
+    "haskell-typed-process",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "receive": 200039352,
+  "transmit": 297141,
+  "disk": 61431598
+}
