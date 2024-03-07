@@ -1,0 +1,25 @@
+{
+  "name": "python-magnumclient",
+  "version": "4.4.0-1",
+  "depends": [
+    "python-pbr",
+    "python-keystoneauth1",
+    "python-stevedore",
+    "python-requests",
+    "python-oslo-i18n",
+    "python-oslo-log",
+    "python-oslo-serialization",
+    "python-oslo-utils",
+    "python-os-client-config",
+    "python-osc-lib",
+    "python-prettytable",
+    "python-cryptography",
+    "python-decorator"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199946431,
+  "transmit": 583938,
+  "disk": 2399287
+}
