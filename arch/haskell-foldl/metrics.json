@@ -1,0 +1,22 @@
+{
+  "name": "haskell-foldl",
+  "version": "1.4.15-38",
+  "depends": [
+    "ghc-libs",
+    "haskell-comonad",
+    "haskell-contravariant",
+    "haskell-random",
+    "haskell-primitive",
+    "haskell-profunctors",
+    "haskell-semigroupoids",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest"
+  ],
+  "receive": 200033367,
+  "transmit": 640170,
+  "disk": 598940
+}
