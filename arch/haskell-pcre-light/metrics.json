@@ -1,0 +1,14 @@
+{
+  "name": "haskell-pcre-light",
+  "version": "0.4.1.2-26",
+  "depends": [
+    "ghc-libs",
+    "pcre"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199973063,
+  "transmit": 446392,
+  "disk": 517298
+}
