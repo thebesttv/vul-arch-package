@@ -1,0 +1,21 @@
+{
+  "name": "haskell-mysql-simple",
+  "version": "0.4.9-38",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-base16-bytestring",
+    "haskell-blaze-builder",
+    "haskell-blaze-textual",
+    "haskell-mysql",
+    "haskell-old-locale",
+    "haskell-pcre-light"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199734097,
+  "transmit": 327073,
+  "disk": 400347
+}
