@@ -1,0 +1,20 @@
+{
+  "name": "haskell-vty",
+  "version": "5.38-30",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-blaze-builder",
+    "haskell-microlens",
+    "haskell-microlens-mtl",
+    "haskell-microlens-th",
+    "haskell-utf8-string",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199811084,
+  "transmit": 434668,
+  "disk": 830174
+}
