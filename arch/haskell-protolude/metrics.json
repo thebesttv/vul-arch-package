@@ -1,0 +1,17 @@
+{
+  "name": "haskell-protolude",
+  "version": "0.3.4-4",
+  "depends": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-hashable",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199579138,
+  "transmit": 353268,
+  "disk": 366915
+}
