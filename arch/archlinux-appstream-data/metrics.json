@@ -1,0 +1,9 @@
+{
+  "name": "archlinux-appstream-data",
+  "version": "20240306-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 220372218,
+  "transmit": 517640,
+  "disk": 40756590
+}
