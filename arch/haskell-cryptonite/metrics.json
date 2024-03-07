@@ -1,0 +1,19 @@
+{
+  "name": "haskell-cryptonite",
+  "version": "0.30-72",
+  "depends": [
+    "ghc-libs",
+    "haskell-basement",
+    "haskell-memory"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-kat",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199579142,
+  "transmit": 304825,
+  "disk": 3728561
+}
