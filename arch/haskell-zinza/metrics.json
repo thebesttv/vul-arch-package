@@ -1,0 +1,20 @@
+{
+  "name": "haskell-zinza",
+  "version": "0.2-177",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199521506,
+  "transmit": 251997,
+  "disk": 466449
+}
