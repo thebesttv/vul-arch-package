@@ -1,0 +1,14 @@
+{
+  "name": "haskell-finite-typelits",
+  "version": "0.1.6.0-43",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199746011,
+  "transmit": 477359,
+  "disk": 210423
+}
