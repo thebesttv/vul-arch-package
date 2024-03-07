@@ -1,0 +1,16 @@
+{
+  "name": "haskell-equivalence",
+  "version": "0.4.1-48",
+  "depends": [
+    "ghc-libs",
+    "haskell-stmonadtrans",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199701401,
+  "transmit": 396151,
+  "disk": 361887
+}
