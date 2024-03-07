@@ -1,0 +1,15 @@
+{
+  "name": "haskell-quickcheck-io",
+  "version": "0.2.0-687",
+  "depends": [
+    "ghc-libs",
+    "haskell-hunit",
+    "haskell-quickcheck"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199724707,
+  "transmit": 458542,
+  "disk": 641689
+}
