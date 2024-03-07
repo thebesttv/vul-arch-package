@@ -1,0 +1,18 @@
+{
+  "name": "haskell-hsini",
+  "version": "0.5.2.2-10",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "haskell-tasty-th"
+  ],
+  "receive": 200318078,
+  "transmit": 810957,
+  "disk": 210265
+}
