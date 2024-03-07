@@ -1,0 +1,21 @@
+{
+  "name": "haskell-mod",
+  "version": "0.2.0.1-46",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive",
+    "haskell-semirings",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck-classes",
+    "haskell-quickcheck-classes-base",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199534134,
+  "transmit": 280956,
+  "disk": 385930
+}
