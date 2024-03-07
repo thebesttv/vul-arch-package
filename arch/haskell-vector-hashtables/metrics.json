@@ -1,0 +1,20 @@
+{
+  "name": "haskell-vector-hashtables",
+  "version": "0.1.1.4-16",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-primitive",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-quickcheck-instances"
+  ],
+  "receive": 199805117,
+  "transmit": 537209,
+  "disk": 358477
+}
