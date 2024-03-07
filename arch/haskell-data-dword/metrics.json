@@ -1,0 +1,17 @@
+{
+  "name": "haskell-data-dword",
+  "version": "0.3.2.1-83",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-bword",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 200914150,
+  "transmit": 1214572,
+  "disk": 413865
+}
