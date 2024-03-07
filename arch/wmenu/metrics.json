@@ -1,0 +1,19 @@
+{
+  "name": "wmenu",
+  "version": "0.1.7-1",
+  "depends": [
+    "libcairo.so",
+    "libxkbcommon.so",
+    "libpango-1.0.so",
+    "libwayland-client.so"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "scdoc",
+    "wayland-protocols"
+  ],
+  "receive": 199593891,
+  "transmit": 364221,
+  "disk": 183216
+}
