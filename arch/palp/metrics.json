@@ -1,0 +1,11 @@
+{
+  "name": "palp",
+  "version": "1:2.21-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199609187,
+  "transmit": 286921,
+  "disk": 1275784
+}
