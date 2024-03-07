@@ -1,0 +1,15 @@
+{
+  "name": "xmonad-dbus",
+  "version": "0.1.0.2-46",
+  "depends": [
+    "glibc",
+    "ghc-libs",
+    "haskell-dbus"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200600393,
+  "transmit": 992065,
+  "disk": 217356
+}
