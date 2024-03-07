@@ -1,0 +1,24 @@
+{
+  "name": "fcitx5-configtool",
+  "version": "5.1.4-1",
+  "depends": [
+    "fcitx5",
+    "fcitx5-qt",
+    "kdbusaddons",
+    "kwidgetsaddons",
+    "kitemviews"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kcmutils",
+    "kdeclarative",
+    "kirigami",
+    "ksvg",
+    "libplasma",
+    "ninja",
+    "python"
+  ],
+  "receive": 199533137,
+  "transmit": 293095,
+  "disk": 1353302
+}
