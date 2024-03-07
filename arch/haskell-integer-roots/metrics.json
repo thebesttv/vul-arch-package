@@ -1,0 +1,20 @@
+{
+  "name": "haskell-integer-roots",
+  "version": "1.0.2.0-71",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-doctest",
+    "haskell-smallcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "haskell-tasty-smallcheck"
+  ],
+  "receive": 199558638,
+  "transmit": 281070,
+  "disk": 458023
+}
