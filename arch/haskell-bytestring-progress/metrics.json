@@ -1,0 +1,14 @@
+{
+  "name": "haskell-bytestring-progress",
+  "version": "1.4-47",
+  "depends": [
+    "ghc-libs",
+    "haskell-terminal-progress-bar"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199509496,
+  "transmit": 238231,
+  "disk": 193347
+}
