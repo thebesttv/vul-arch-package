@@ -1,0 +1,40 @@
+{
+  "name": "nominatim",
+  "version": "4.4.0-1",
+  "depends": [
+    "expat",
+    "proj",
+    "boost",
+    "boost-libs",
+    "libosmium",
+    "osm2pgsql",
+    "postgresql",
+    "postgis",
+    "python-asyncpg",
+    "python-psycopg2",
+    "python-dotenv",
+    "python-psutil",
+    "python-jinja",
+    "python-pyicu",
+    "python-yaml",
+    "python-requests",
+    "python-osmium",
+    "python-ujson",
+    "python-falcon",
+    "python-sqlalchemy",
+    "python-datrie",
+    "uvicorn",
+    "gunicorn",
+    "libdatrie",
+    "perl"
+  ],
+  "makedepends": [
+    "clang",
+    "cmake",
+    "git",
+    "php"
+  ],
+  "receive": 248385634,
+  "transmit": 937268,
+  "disk": 154144269
+}
