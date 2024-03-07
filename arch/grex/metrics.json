@@ -1,0 +1,13 @@
+{
+  "name": "grex",
+  "version": "1.4.5-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199620443,
+  "transmit": 319052,
+  "disk": 2029835
+}
