@@ -1,0 +1,17 @@
+{
+  "name": "haskell-nonce",
+  "version": "1.0.7-304",
+  "depends": [
+    "ghc-libs",
+    "haskell-base64-bytestring",
+    "haskell-entropy",
+    "haskell-unliftio",
+    "haskell-unliftio-core"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199683768,
+  "transmit": 417552,
+  "disk": 356918
+}
