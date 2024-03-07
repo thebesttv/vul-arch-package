@@ -1,0 +1,20 @@
+{
+  "name": "haskell-cborg-json",
+  "version": "0.2.5.0-84",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-cborg",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199688020,
+  "transmit": 348430,
+  "disk": 406383
+}
