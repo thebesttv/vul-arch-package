@@ -1,0 +1,24 @@
+{
+  "name": "haskell-doctemplates",
+  "version": "0.11-66",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-doclayout",
+    "haskell-safe",
+    "haskell-scientific",
+    "haskell-text-conversions",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-glob",
+    "haskell-tasty",
+    "haskell-tasty-golden",
+    "haskell-tasty-hunit",
+    "haskell-temporary"
+  ],
+  "receive": 199533723,
+  "transmit": 272841,
+  "disk": 630955
+}
