@@ -1,0 +1,20 @@
+{
+  "name": "pocl",
+  "version": "5.0-1",
+  "depends": [
+    "clang",
+    "hwloc",
+    "opencl-icd-loader"
+  ],
+  "makedepends": [
+    "llvm",
+    "cmake",
+    "opencl-headers",
+    "ocl-icd",
+    "ninja",
+    "python"
+  ],
+  "receive": 202137490,
+  "transmit": 418465,
+  "disk": 21671370
+}
