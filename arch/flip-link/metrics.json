@@ -1,0 +1,11 @@
+{
+  "name": "flip-link",
+  "version": "0.1.8-1",
+  "depends": [],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199978165,
+  "transmit": 640940,
+  "disk": 270568
+}
