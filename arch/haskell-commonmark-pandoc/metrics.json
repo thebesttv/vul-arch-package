@@ -1,0 +1,16 @@
+{
+  "name": "haskell-commonmark-pandoc",
+  "version": "0.2.1.3-71",
+  "depends": [
+    "ghc-libs",
+    "haskell-commonmark",
+    "haskell-commonmark-extensions",
+    "haskell-pandoc-types"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200159209,
+  "transmit": 404102,
+  "disk": 408141
+}
