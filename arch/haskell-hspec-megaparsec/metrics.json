@@ -1,0 +1,16 @@
+{
+  "name": "haskell-hspec-megaparsec",
+  "version": "2.2.0-174",
+  "depends": [
+    "ghc-libs",
+    "haskell-hspec-expectations",
+    "haskell-megaparsec"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199637668,
+  "transmit": 335109,
+  "disk": 326230
+}
