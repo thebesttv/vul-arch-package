@@ -1,0 +1,17 @@
+{
+  "name": "haskell-fgl-arbitrary",
+  "version": "0.2.0.6-129",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-fgl"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec"
+  ],
+  "receive": 199770442,
+  "transmit": 365171,
+  "disk": 241860
+}
