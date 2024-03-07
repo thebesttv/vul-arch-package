@@ -1,0 +1,17 @@
+{
+  "name": "haskell-filtrable",
+  "version": "0.1.6.0-182",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-smallcheck",
+    "haskell-tasty",
+    "haskell-tasty-smallcheck"
+  ],
+  "receive": 199758203,
+  "transmit": 324958,
+  "disk": 282415
+}
