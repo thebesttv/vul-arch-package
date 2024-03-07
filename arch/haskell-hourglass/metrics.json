@@ -1,0 +1,17 @@
+{
+  "name": "haskell-hourglass",
+  "version": "0.2.12-245",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-old-locale",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 200712619,
+  "transmit": 881583,
+  "disk": 446265
+}
