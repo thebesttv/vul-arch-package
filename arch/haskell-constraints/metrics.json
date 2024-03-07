@@ -1,0 +1,17 @@
+{
+  "name": "haskell-constraints",
+  "version": "0.13.4-48",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-transformers-compat",
+    "haskell-type-equality"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199569585,
+  "transmit": 299672,
+  "disk": 437067
+}
