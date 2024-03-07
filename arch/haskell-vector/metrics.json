@@ -1,0 +1,16 @@
+{
+  "name": "haskell-vector",
+  "version": "0.13.1.0-28",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive",
+    "haskell-vector-stream"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199708582,
+  "transmit": 378550,
+  "disk": 1513756
+}
