@@ -1,0 +1,17 @@
+{
+  "name": "haskell-wuss",
+  "version": "2.0.1.1-46",
+  "depends": [
+    "ghc-libs",
+    "haskell-crypton-connection",
+    "haskell-network",
+    "haskell-websockets"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199858676,
+  "transmit": 449929,
+  "disk": 209838
+}
