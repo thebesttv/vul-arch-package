@@ -1,0 +1,14 @@
+{
+  "name": "haskell-quickcheck-unicode",
+  "version": "1.0.1.0-237",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199780648,
+  "transmit": 308852,
+  "disk": 288772
+}
