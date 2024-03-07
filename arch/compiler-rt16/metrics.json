@@ -1,0 +1,16 @@
+{
+  "name": "compiler-rt16",
+  "version": "16.0.6-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "llvm16",
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 202040880,
+  "transmit": 310795,
+  "disk": 41363243
+}
