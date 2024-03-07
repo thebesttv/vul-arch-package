@@ -1,0 +1,20 @@
+{
+  "name": "haskell-blaze-textual",
+  "version": "0.2.3.1-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-blaze-builder",
+    "haskell-old-locale",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-double-conversion",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199521264,
+  "transmit": 254842,
+  "disk": 278388
+}
