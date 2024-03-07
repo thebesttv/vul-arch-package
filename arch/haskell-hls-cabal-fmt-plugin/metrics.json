@@ -1,0 +1,20 @@
+{
+  "name": "haskell-hls-cabal-fmt-plugin",
+  "version": "0.1.0.0-152",
+  "depends": [
+    "ghc-libs",
+    "cabal-fmt",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp-types"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 199772159,
+  "transmit": 243394,
+  "disk": 414586
+}
