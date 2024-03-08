@@ -1,0 +1,15 @@
+{
+  "name": "bitwarden-cli",
+  "version": "2024.2.1-1",
+  "depends": [
+    "nodejs-lts-hydrogen"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "modclean"
+  ],
+  "receive": 1157682705,
+  "transmit": 1017617,
+  "disk": 1011542592
+}
