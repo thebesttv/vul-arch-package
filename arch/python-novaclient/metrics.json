@@ -1,0 +1,23 @@
+{
+  "name": "python-novaclient",
+  "version": "18.5.0-1",
+  "depends": [
+    "python-six",
+    "python-pbr",
+    "python-babel",
+    "python-prettytable",
+    "python-keystoneauth1",
+    "python-requests",
+    "python-iso8601",
+    "python-oslo-utils",
+    "python-oslo-i18n",
+    "python-oslo-serialization"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199682283,
+  "transmit": 415063,
+  "disk": 12027867
+}
