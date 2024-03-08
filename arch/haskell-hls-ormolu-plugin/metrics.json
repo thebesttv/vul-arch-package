@@ -1,0 +1,22 @@
+{
+  "name": "haskell-hls-ormolu-plugin",
+  "version": "1.0.4.0-44",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-ormolu"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils",
+    "haskell-lsp-types"
+  ],
+  "receive": 199562134,
+  "transmit": 252226,
+  "disk": 702085
+}
