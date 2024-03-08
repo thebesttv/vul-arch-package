@@ -1,0 +1,33 @@
+{
+  "name": "hlint",
+  "version": "3.4.1-6",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-ansi-terminal",
+    "haskell-cmdargs",
+    "haskell-cpphs",
+    "haskell-data-default",
+    "haskell-deriving-aeson",
+    "haskell-extra",
+    "haskell-file-embed",
+    "haskell-filepattern",
+    "haskell-ghc",
+    "haskell-ghc-lib-parser-ex",
+    "haskell-hscolour",
+    "haskell-refact",
+    "haskell-syb",
+    "haskell-uniplate",
+    "haskell-unordered-containers",
+    "haskell-utf8-string",
+    "haskell-vector",
+    "haskell-yaml"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199734838,
+  "transmit": 415546,
+  "disk": 1548634
+}
