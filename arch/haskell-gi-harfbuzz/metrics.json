@@ -1,0 +1,21 @@
+{
+  "name": "haskell-gi-harfbuzz",
+  "version": "0.0.9-45",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-freetype2",
+    "haskell-gi-glib",
+    "haskell-gi-gobject",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "harfbuzz"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199647166,
+  "transmit": 371767,
+  "disk": 297346
+}
