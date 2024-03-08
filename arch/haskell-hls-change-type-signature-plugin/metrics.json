@@ -1,0 +1,23 @@
+{
+  "name": "haskell-hls-change-type-signature-plugin",
+  "version": "1.1.0.0-153",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-lsp-types",
+    "haskell-regex-tdfa",
+    "haskell-syb",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-hls-test-utils",
+    "haskell-lsp"
+  ],
+  "receive": 200281783,
+  "transmit": 577639,
+  "disk": 471770
+}
