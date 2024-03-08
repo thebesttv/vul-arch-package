@@ -1,0 +1,19 @@
+{
+  "name": "veracrypt",
+  "version": "1.26.7-1",
+  "depends": [
+    "device-mapper",
+    "fuse2>=2.8.0",
+    "gcc-libs",
+    "glibc",
+    "libsm",
+    "wxwidgets-gtk3>=3.2"
+  ],
+  "makedepends": [
+    "pcsclite",
+    "yasm"
+  ],
+  "receive": 228419715,
+  "transmit": 423012,
+  "disk": 90378591
+}
