@@ -1,0 +1,38 @@
+{
+  "name": "haskell-persistent",
+  "version": "2.14.5.1-6",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-base64-bytestring",
+    "haskell-blaze-html",
+    "haskell-conduit",
+    "haskell-fast-logger",
+    "haskell-http-api-data",
+    "haskell-lift-type",
+    "haskell-monad-logger",
+    "haskell-path-pieces",
+    "haskell-resource-pool",
+    "haskell-resourcet",
+    "haskell-scientific",
+    "haskell-silently",
+    "haskell-th-lift-instances",
+    "haskell-unordered-containers",
+    "haskell-unliftio",
+    "haskell-unliftio-core",
+    "haskell-vault",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-shakespeare"
+  ],
+  "receive": 201981398,
+  "transmit": 1556121,
+  "disk": 1941189
+}
