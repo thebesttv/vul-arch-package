@@ -1,0 +1,18 @@
+{
+  "name": "haskell-sandi",
+  "version": "0.5-435",
+  "depends": [
+    "ghc-libs",
+    "haskell-conduit"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "haskell-tasty-th"
+  ],
+  "receive": 200074347,
+  "transmit": 501483,
+  "disk": 750466
+}
