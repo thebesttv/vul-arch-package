@@ -1,0 +1,17 @@
+{
+  "name": "python-pybox2d",
+  "version": "1:2.3.10-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "swig"
+  ],
+  "receive": 199557576,
+  "transmit": 278216,
+  "disk": 3295670
+}
