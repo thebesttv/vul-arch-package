@@ -1,0 +1,18 @@
+{
+  "name": "haskell-warp-quic",
+  "version": "0.0.0-180",
+  "depends": [
+    "ghc-libs",
+    "haskell-http3",
+    "haskell-quic",
+    "haskell-tls",
+    "haskell-wai",
+    "haskell-warp"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200608278,
+  "transmit": 1055994,
+  "disk": 346995
+}
