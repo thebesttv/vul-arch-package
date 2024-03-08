@@ -1,0 +1,16 @@
+{
+  "name": "haskell-wai-conduit",
+  "version": "3.0.0.4-550",
+  "depends": [
+    "ghc-libs",
+    "haskell-conduit",
+    "haskell-http-types",
+    "haskell-wai"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199664476,
+  "transmit": 399910,
+  "disk": 535310
+}
