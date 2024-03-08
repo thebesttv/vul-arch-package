@@ -1,0 +1,17 @@
+{
+  "name": "haskell-cracknum",
+  "version": "3.2-241",
+  "depends": [
+    "ghc-libs",
+    "haskell-libbf",
+    "haskell-sbv",
+    "haskell-tasty",
+    "haskell-tasty-golden"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199638805,
+  "transmit": 389924,
+  "disk": 390012
+}
