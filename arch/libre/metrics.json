@@ -1,0 +1,14 @@
+{
+  "name": "libre",
+  "version": "3.10.0-1",
+  "depends": [
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199590184,
+  "transmit": 289718,
+  "disk": 3769410
+}
