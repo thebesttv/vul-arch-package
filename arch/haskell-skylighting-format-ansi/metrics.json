@@ -1,0 +1,17 @@
+{
+  "name": "haskell-skylighting-format-ansi",
+  "version": "0.1-114",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-colour",
+    "haskell-skylighting-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199687202,
+  "transmit": 337549,
+  "disk": 285241
+}
