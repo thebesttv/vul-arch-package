@@ -1,0 +1,18 @@
+{
+  "name": "haskell-gi-freetype2",
+  "version": "2.0.4-47",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "freetype2"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 199701587,
+  "transmit": 281566,
+  "disk": 286543
+}
