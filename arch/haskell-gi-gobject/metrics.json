@@ -1,0 +1,19 @@
+{
+  "name": "haskell-gi-gobject",
+  "version": "2.0.30-63",
+  "depends": [
+    "ghc-libs",
+    "haskell-gi-glib",
+    "haskell-gi",
+    "haskell-gi-base",
+    "haskell-gi-overloading",
+    "glib2"
+  ],
+  "makedepends": [
+    "ghc",
+    "gobject-introspection"
+  ],
+  "receive": 201211692,
+  "transmit": 1469275,
+  "disk": 321197
+}
