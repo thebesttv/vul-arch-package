@@ -1,0 +1,15 @@
+{
+  "name": "haskell-skylighting-format-latex",
+  "version": "0.1-114",
+  "depends": [
+    "ghc-libs",
+    "haskell-skylighting-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199799912,
+  "transmit": 406109,
+  "disk": 266015
+}
