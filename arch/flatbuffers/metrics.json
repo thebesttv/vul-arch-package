@@ -1,0 +1,15 @@
+{
+  "name": "flatbuffers",
+  "version": "24.3.7-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "python-setuptools",
+    "python-numpy"
+  ],
+  "receive": 199625067,
+  "transmit": 312801,
+  "disk": 16557482
+}
