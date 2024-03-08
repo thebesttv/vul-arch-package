@@ -1,0 +1,22 @@
+{
+  "name": "haskell-warp-tls",
+  "version": "3.4.4-11",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default-class",
+    "haskell-network",
+    "haskell-recv",
+    "haskell-streaming-commons",
+    "haskell-tls",
+    "haskell-tls-session-manager",
+    "haskell-unliftio",
+    "haskell-wai",
+    "haskell-warp"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199595234,
+  "transmit": 345242,
+  "disk": 979485
+}
