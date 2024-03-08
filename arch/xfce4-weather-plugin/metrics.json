@@ -1,0 +1,16 @@
+{
+  "name": "xfce4-weather-plugin",
+  "version": "0.11.2-1",
+  "depends": [
+    "xfce4-panel",
+    "libxml2",
+    "libsoup",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 200945288,
+  "transmit": 759714,
+  "disk": 12436806
+}
