@@ -1,0 +1,17 @@
+{
+  "name": "python-phonenumbers",
+  "version": "8.13.31-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 281340043,
+  "transmit": 382898,
+  "disk": 118030147
+}
