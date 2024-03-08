@@ -1,0 +1,17 @@
+{
+  "name": "python-pyicu",
+  "version": "2.12-3",
+  "depends": [
+    "python",
+    "icu"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199624938,
+  "transmit": 368452,
+  "disk": 2112357
+}
