@@ -1,0 +1,21 @@
+{
+  "name": "pango",
+  "version": "1:1.52.1-1",
+  "depends": [
+    "cairo",
+    "fribidi",
+    "harfbuzz",
+    "libthai",
+    "libxft"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "help2man",
+    "meson"
+  ],
+  "receive": 199680407,
+  "transmit": 316160,
+  "disk": 22734566
+}
