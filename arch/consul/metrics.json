@@ -1,0 +1,21 @@
+{
+  "name": "consul",
+  "version": "1.18.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "gox",
+    "go-tools",
+    "procps-ng",
+    "zip",
+    "yarn",
+    "nodejs-lts-hydrogen",
+    "npm"
+  ],
+  "receive": 904390226,
+  "transmit": 1245416,
+  "disk": 810256407
+}
