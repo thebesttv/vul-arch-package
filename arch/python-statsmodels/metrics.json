@@ -1,0 +1,18 @@
+{
+  "name": "python-statsmodels",
+  "version": "0.14.1-1",
+  "depends": [
+    "python-numpy",
+    "python-scipy",
+    "python-pandas",
+    "python-patsy"
+  ],
+  "makedepends": [
+    "python-setuptools-scm",
+    "cython0",
+    "git"
+  ],
+  "receive": 280789430,
+  "transmit": 651126,
+  "disk": 129895373
+}
