@@ -1,0 +1,25 @@
+{
+  "name": "sopel",
+  "version": "7.1.9-3",
+  "depends": [
+    "python-setuptools",
+    "sqlite",
+    "python-xmltodict",
+    "python-pytz",
+    "python-praw",
+    "python-geoip2",
+    "python-requests",
+    "python-dnspython",
+    "python-sqlalchemy"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-sphinx",
+    "python-sphinxcontrib-autoprogram"
+  ],
+  "receive": 199826436,
+  "transmit": 336228,
+  "disk": 2504702
+}
