@@ -1,0 +1,24 @@
+{
+  "name": "knot",
+  "version": "3.3.5-1",
+  "depends": [
+    "libedit",
+    "gnutls",
+    "liburcu",
+    "lmdb",
+    "libidn2",
+    "systemd",
+    "libcap-ng",
+    "fstrm",
+    "protobuf-c",
+    "libmaxminddb",
+    "libbpf",
+    "libxdp",
+    "libnghttp2",
+    "libmnl"
+  ],
+  "makedepends": [],
+  "receive": 201237884,
+  "transmit": 284802,
+  "disk": 14904740
+}
