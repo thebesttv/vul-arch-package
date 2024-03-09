@@ -1,0 +1,13 @@
+{
+  "name": "python-pytest-order",
+  "version": "1.2.0-1",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199694416,
+  "transmit": 396929,
+  "disk": 417277
+}
