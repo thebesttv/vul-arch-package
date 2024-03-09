@@ -1,0 +1,14 @@
+{
+  "name": "cm256cc",
+  "version": "1.1.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199507735,
+  "transmit": 239221,
+  "disk": 433492
+}
