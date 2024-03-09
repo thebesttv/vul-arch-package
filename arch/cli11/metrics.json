@@ -1,0 +1,11 @@
+{
+  "name": "cli11",
+  "version": "2.4.1-1",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199560269,
+  "transmit": 311656,
+  "disk": 2095324
+}
