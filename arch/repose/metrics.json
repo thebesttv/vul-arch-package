@@ -1,0 +1,15 @@
+{
+  "name": "repose",
+  "version": "7.1-9",
+  "depends": [
+    "pacman",
+    "libarchive",
+    "gnupg"
+  ],
+  "makedepends": [
+    "ragel"
+  ],
+  "receive": 199654600,
+  "transmit": 245745,
+  "disk": 267424
+}
