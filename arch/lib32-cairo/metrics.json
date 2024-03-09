@@ -1,0 +1,25 @@
+{
+  "name": "lib32-cairo",
+  "version": "1.18.0-2",
+  "depends": [
+    "cairo",
+    "lib32-fontconfig",
+    "lib32-freetype2",
+    "lib32-glib2",
+    "lib32-libpng",
+    "lib32-libx11",
+    "lib32-libxcb",
+    "lib32-libxext",
+    "lib32-libxrender",
+    "lib32-pixman",
+    "lib32-zlib"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "valgrind"
+  ],
+  "receive": 309576928,
+  "transmit": 449092,
+  "disk": 171818848
+}
