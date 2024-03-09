@@ -1,0 +1,20 @@
+{
+  "name": "yosys",
+  "version": "0.38-1",
+  "depends": [
+    "abc",
+    "bash",
+    "boost-libs",
+    "tcl",
+    "libffi",
+    "python",
+    "protobuf"
+  ],
+  "makedepends": [
+    "boost",
+    "git"
+  ],
+  "receive": 229056793,
+  "transmit": 543470,
+  "disk": 46869523
+}
