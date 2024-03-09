@@ -1,0 +1,15 @@
+{
+  "name": "lib32-readline",
+  "version": "8.2.010-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-ncurses",
+    "readline"
+  ],
+  "makedepends": [
+    "gcc-multilib"
+  ],
+  "receive": 202878140,
+  "transmit": 477920,
+  "disk": 10657866
+}
