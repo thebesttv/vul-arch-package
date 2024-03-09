@@ -1,0 +1,17 @@
+{
+  "name": "featherpad",
+  "version": "1.5.0-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "hunspell",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-tools"
+  ],
+  "receive": 199603913,
+  "transmit": 360354,
+  "disk": 6329092
+}
