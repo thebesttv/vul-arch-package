@@ -1,0 +1,13 @@
+{
+  "name": "python-numexpr",
+  "version": "2.9.0-1",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199642084,
+  "transmit": 349431,
+  "disk": 721339
+}
