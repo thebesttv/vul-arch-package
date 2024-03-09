@@ -1,0 +1,13 @@
+{
+  "name": "clinfo",
+  "version": "3.0.23.01.25-1",
+  "depends": [
+    "opencl-icd-loader"
+  ],
+  "makedepends": [
+    "opencl-headers"
+  ],
+  "receive": 199533353,
+  "transmit": 271037,
+  "disk": 387694
+}
