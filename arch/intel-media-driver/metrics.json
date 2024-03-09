@@ -1,0 +1,15 @@
+{
+  "name": "intel-media-driver",
+  "version": "24.1.4-1",
+  "depends": [
+    "gcc-libs",
+    "intel-gmmlib",
+    "libva"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 226324338,
+  "transmit": 616664,
+  "disk": 243772855
+}
