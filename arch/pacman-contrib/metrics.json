@@ -1,0 +1,16 @@
+{
+  "name": "pacman-contrib",
+  "version": "1.10.4-3",
+  "depends": [
+    "fakeroot",
+    "pacman",
+    "perl"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "git"
+  ],
+  "receive": 199752558,
+  "transmit": 431878,
+  "disk": 1047683
+}
