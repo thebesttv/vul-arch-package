@@ -1,0 +1,17 @@
+{
+  "name": "python-sphinx-autobuild",
+  "version": "2024.02.04-1",
+  "depends": [
+    "python",
+    "python-sphinx",
+    "python-livereload"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 199559459,
+  "transmit": 261770,
+  "disk": 563316
+}
