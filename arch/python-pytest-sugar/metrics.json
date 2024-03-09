@@ -1,0 +1,15 @@
+{
+  "name": "python-pytest-sugar",
+  "version": "1.0.0-1",
+  "depends": [
+    "python-pytest",
+    "python-termcolor",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199668069,
+  "transmit": 404672,
+  "disk": 217807
+}
