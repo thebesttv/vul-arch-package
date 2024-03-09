@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libxvmc",
+  "version": "1.0.14-1",
+  "depends": [
+    "lib32-libxv>=1.0.5",
+    "libxvmc"
+  ],
+  "makedepends": [],
+  "receive": 199541956,
+  "transmit": 253525,
+  "disk": 2326694
+}
