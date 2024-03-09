@@ -1,0 +1,20 @@
+{
+  "name": "openvkl",
+  "version": "2.0.1-1",
+  "depends": [
+    "embree",
+    "gcc-libs",
+    "glibc",
+    "onetbb",
+    "openvdb",
+    "rkcommon"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "ispc"
+  ],
+  "receive": 199668823,
+  "transmit": 387248,
+  "disk": 14930675
+}
