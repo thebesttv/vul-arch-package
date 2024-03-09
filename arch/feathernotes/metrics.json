@@ -1,0 +1,17 @@
+{
+  "name": "feathernotes",
+  "version": "1.2.0-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "hunspell",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-tools"
+  ],
+  "receive": 199656081,
+  "transmit": 372626,
+  "disk": 4668087
+}
