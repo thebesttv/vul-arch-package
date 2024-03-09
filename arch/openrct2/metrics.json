@@ -1,0 +1,26 @@
+{
+  "name": "openrct2",
+  "version": "0.4.9-1",
+  "depends": [
+    "hicolor-icon-theme",
+    "sdl2",
+    "curl",
+    "speexdsp",
+    "fontconfig",
+    "libpng",
+    "openssl",
+    "libzip",
+    "icu",
+    "benchmark",
+    "flac",
+    "libvorbis"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest",
+    "nlohmann-json"
+  ],
+  "receive": 202978446,
+  "transmit": 453080,
+  "disk": 90689845
+}
