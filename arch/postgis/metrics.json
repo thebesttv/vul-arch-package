@@ -1,0 +1,21 @@
+{
+  "name": "postgis",
+  "version": "3.4.2-1",
+  "depends": [
+    "postgresql",
+    "gdal",
+    "geos",
+    "json-c",
+    "libxml2",
+    "proj",
+    "protobuf-c",
+    "pcre2"
+  ],
+  "makedepends": [
+    "clang",
+    "llvm"
+  ],
+  "receive": 214870701,
+  "transmit": 434237,
+  "disk": 80685809
+}
