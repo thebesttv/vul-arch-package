@@ -1,0 +1,17 @@
+{
+  "name": "python-textdistance",
+  "version": "4.6.1-1",
+  "depends": [
+    "python-abydos",
+    "python-jellyfish",
+    "python-numpy",
+    "python-levenshtein",
+    "python-pyxdameraulevenshtein"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199937505,
+  "transmit": 500601,
+  "disk": 349417
+}
