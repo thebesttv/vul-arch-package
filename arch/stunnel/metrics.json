@@ -1,0 +1,16 @@
+{
+  "name": "stunnel",
+  "version": "5.72-1",
+  "depends": [
+    "openssl",
+    "perl",
+    "libnsl",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199658303,
+  "transmit": 284657,
+  "disk": 4654339
+}
