@@ -1,0 +1,16 @@
+{
+  "name": "kanshi",
+  "version": "1.6.0-1",
+  "depends": [
+    "libscfg.so",
+    "libvarlink",
+    "wayland"
+  ],
+  "makedepends": [
+    "meson",
+    "scdoc"
+  ],
+  "receive": 199650440,
+  "transmit": 379001,
+  "disk": 237021
+}
