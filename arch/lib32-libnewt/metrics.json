@@ -1,0 +1,18 @@
+{
+  "name": "lib32-libnewt",
+  "version": "0.52.24-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-gpm",
+    "lib32-popt",
+    "lib32-slang",
+    "libnewt"
+  ],
+  "makedepends": [
+    "git",
+    "lib32-tcl"
+  ],
+  "receive": 199596027,
+  "transmit": 364507,
+  "disk": 1542682
+}
