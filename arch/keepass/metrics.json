@@ -1,0 +1,17 @@
+{
+  "name": "keepass",
+  "version": "2.56-1",
+  "depends": [
+    "mono",
+    "desktop-file-utils",
+    "xdg-utils",
+    "shared-mime-info",
+    "gtk-update-icon-cache"
+  ],
+  "makedepends": [
+    "icoutils"
+  ],
+  "receive": 199681689,
+  "transmit": 351915,
+  "disk": 17373299
+}
