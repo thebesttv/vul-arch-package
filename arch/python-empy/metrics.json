@@ -1,0 +1,13 @@
+{
+  "name": "python-empy",
+  "version": "4.0.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199523296,
+  "transmit": 279888,
+  "disk": 781932
+}
