@@ -1,0 +1,13 @@
+{
+  "name": "lib32-tcl",
+  "version": "8.6.14-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-zlib",
+    "tcl"
+  ],
+  "makedepends": [],
+  "receive": 211520837,
+  "transmit": 526812,
+  "disk": 62239405
+}
