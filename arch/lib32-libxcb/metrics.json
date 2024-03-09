@@ -1,0 +1,22 @@
+{
+  "name": "lib32-libxcb",
+  "version": "1.16.1-1",
+  "depends": [
+    "lib32-libxdmcp",
+    "lib32-libxau",
+    "lib32-glibc",
+    "libxcb"
+  ],
+  "makedepends": [
+    "pkgconfig",
+    "libxslt",
+    "python",
+    "xorg-util-macros",
+    "gcc-multilib",
+    "autoconf",
+    "xorgproto"
+  ],
+  "receive": 199647994,
+  "transmit": 329807,
+  "disk": 3453322
+}
