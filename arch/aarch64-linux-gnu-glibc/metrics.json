@@ -1,0 +1,14 @@
+{
+  "name": "aarch64-linux-gnu-glibc",
+  "version": "2.39-1",
+  "depends": [
+    "aarch64-linux-gnu-gcc",
+    "aarch64-linux-gnu-linux-api-headers"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 218385759,
+  "transmit": 468425,
+  "disk": 257130281
+}
