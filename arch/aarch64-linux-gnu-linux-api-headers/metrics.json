@@ -1,0 +1,11 @@
+{
+  "name": "aarch64-linux-gnu-linux-api-headers",
+  "version": "6.7-1",
+  "depends": [],
+  "makedepends": [
+    "rsync"
+  ],
+  "receive": 341413820,
+  "transmit": 336993,
+  "disk": 1551532423
+}
