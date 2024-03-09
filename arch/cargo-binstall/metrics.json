@@ -1,0 +1,12 @@
+{
+  "name": "cargo-binstall",
+  "version": "1.6.4-1",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199696873,
+  "transmit": 369868,
+  "disk": 1548497
+}
