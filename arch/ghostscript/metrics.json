@@ -1,0 +1,34 @@
+{
+  "name": "ghostscript",
+  "version": "10.03.0-1",
+  "depends": [
+    "libxt",
+    "libcups",
+    "fontconfig",
+    "zlib",
+    "libpng",
+    "libjpeg",
+    "jbig2dec",
+    "libtiff",
+    "lcms2",
+    "libpaper",
+    "ijs",
+    "openjpeg2",
+    "libidn",
+    "poppler-data",
+    "cairo",
+    "glibc",
+    "libx11",
+    "gdk-pixbuf2",
+    "glib2"
+  ],
+  "makedepends": [
+    "gtk3",
+    "gnutls",
+    "glu",
+    "freeglut"
+  ],
+  "receive": 274062284,
+  "transmit": 700099,
+  "disk": 297044517
+}
