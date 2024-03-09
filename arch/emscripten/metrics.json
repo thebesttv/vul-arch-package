@@ -1,0 +1,20 @@
+{
+  "name": "emscripten",
+  "version": "3.1.55-1",
+  "depends": [
+    "nodejs",
+    "python",
+    "which",
+    "acorn"
+  ],
+  "makedepends": [
+    "cmake",
+    "libxml2",
+    "git",
+    "ninja",
+    "npm"
+  ],
+  "receive": 4200820290,
+  "transmit": 2771413,
+  "disk": 5996645040
+}
