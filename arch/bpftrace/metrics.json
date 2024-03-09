@@ -1,0 +1,31 @@
+{
+  "name": "bpftrace",
+  "version": "0.20.2-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "libelf",
+    "zlib",
+    "llvm-libs",
+    "clang",
+    "bcc",
+    "libbpf",
+    "libpcap",
+    "zstd"
+  ],
+  "makedepends": [
+    "binutils",
+    "cmake",
+    "llvm",
+    "git",
+    "linux-headers",
+    "ninja",
+    "gtest",
+    "cereal",
+    "asciidoctor",
+    "xxd"
+  ],
+  "receive": 200967400,
+  "transmit": 374149,
+  "disk": 5470942
+}
