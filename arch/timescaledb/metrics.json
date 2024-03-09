@@ -1,0 +1,19 @@
+{
+  "name": "timescaledb",
+  "version": "2.14.2-1",
+  "depends": [
+    "openssl",
+    "postgresql-libs<17",
+    "postgresql-libs>=16",
+    "postgresql<17",
+    "postgresql>=16"
+  ],
+  "makedepends": [
+    "gcc",
+    "cmake",
+    "git"
+  ],
+  "receive": 264394208,
+  "transmit": 633579,
+  "disk": 109072919
+}
