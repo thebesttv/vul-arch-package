@@ -1,0 +1,17 @@
+{
+  "name": "proj",
+  "version": "9.4.0-1",
+  "depends": [
+    "curl",
+    "libtiff",
+    "sqlite"
+  ],
+  "makedepends": [
+    "cmake",
+    "gmock",
+    "gtest"
+  ],
+  "receive": 199698698,
+  "transmit": 431766,
+  "disk": 33350014
+}
