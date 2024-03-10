@@ -1,0 +1,20 @@
+{
+  "name": "python-parsel",
+  "version": "1.8.1-2",
+  "depends": [
+    "python-cssselect",
+    "python-jmespath",
+    "python-lxml",
+    "python-packaging",
+    "python-w3lib"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199665912,
+  "transmit": 365017,
+  "disk": 862434
+}
