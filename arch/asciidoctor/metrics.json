@@ -1,0 +1,13 @@
+{
+  "name": "asciidoctor",
+  "version": "2.0.21-1",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199554068,
+  "transmit": 280870,
+  "disk": 387933
+}
