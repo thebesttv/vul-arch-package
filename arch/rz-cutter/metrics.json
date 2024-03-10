@@ -1,0 +1,26 @@
+{
+  "name": "rz-cutter",
+  "version": "2.3.4-1",
+  "depends": [
+    "rizin",
+    "capstone",
+    "qt6-base",
+    "qt6-svg",
+    "qt6-5compat",
+    "python",
+    "pyside6",
+    "graphviz",
+    "gcc-libs",
+    "syntax-highlighting"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "ninja",
+    "shiboken6",
+    "qt6-tools"
+  ],
+  "receive": 230390698,
+  "transmit": 436501,
+  "disk": 52083323
+}
