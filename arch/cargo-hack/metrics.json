@@ -1,0 +1,14 @@
+{
+  "name": "cargo-hack",
+  "version": "0.6.22-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 199599348,
+  "transmit": 347878,
+  "disk": 2218009
+}
