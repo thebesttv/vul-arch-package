@@ -1,0 +1,14 @@
+{
+  "name": "hcxtools",
+  "version": "6.3.4-1",
+  "depends": [
+    "curl",
+    "libcurl.so",
+    "zlib",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199523699,
+  "transmit": 259186,
+  "disk": 1081547
+}
