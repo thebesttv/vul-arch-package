@@ -1,0 +1,15 @@
+{
+  "name": "ocaml-augeas",
+  "version": "0.6-4",
+  "depends": [
+    "augeas",
+    "glibc"
+  ],
+  "makedepends": [
+    "ocaml",
+    "ocaml-findlib"
+  ],
+  "receive": 199588294,
+  "transmit": 325006,
+  "disk": 442948
+}
