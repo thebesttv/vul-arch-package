@@ -1,0 +1,15 @@
+{
+  "name": "ocaml-zarith",
+  "version": "1.13-2",
+  "depends": [
+    "ocaml",
+    "ocaml-compiler-libs",
+    "gmp"
+  ],
+  "makedepends": [
+    "ocaml-findlib"
+  ],
+  "receive": 199594103,
+  "transmit": 325314,
+  "disk": 576696
+}
