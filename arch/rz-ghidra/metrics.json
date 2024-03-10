@@ -1,0 +1,16 @@
+{
+  "name": "rz-ghidra",
+  "version": "0.7.0-1",
+  "depends": [
+    "rizin",
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "rz-cutter"
+  ],
+  "receive": 540593481,
+  "transmit": 1663169,
+  "disk": 545027969
+}
