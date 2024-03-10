@@ -1,0 +1,16 @@
+{
+  "name": "libstrophe",
+  "version": "1:0.13.1-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "expat",
+    "zlib"
+  ],
+  "makedepends": [
+    "doxygen"
+  ],
+  "receive": 199625693,
+  "transmit": 338074,
+  "disk": 1334373
+}
