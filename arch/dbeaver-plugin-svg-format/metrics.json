@@ -1,0 +1,14 @@
+{
+  "name": "dbeaver-plugin-svg-format",
+  "version": "1.0.162.202403031740-1",
+  "depends": [
+    "dbeaver>=4.2.5",
+    "dbeaver-plugin-batik"
+  ],
+  "makedepends": [
+    "unzip"
+  ],
+  "receive": 199563978,
+  "transmit": 332799,
+  "disk": 187151
+}
