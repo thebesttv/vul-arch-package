@@ -1,0 +1,13 @@
+{
+  "name": "just",
+  "version": "1.25.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199648198,
+  "transmit": 368959,
+  "disk": 2408588
+}
