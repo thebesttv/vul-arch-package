@@ -1,0 +1,13 @@
+{
+  "name": "ocaml-hashcons",
+  "version": "1.3-8",
+  "depends": [
+    "ocaml"
+  ],
+  "makedepends": [
+    "ocaml-findlib"
+  ],
+  "receive": 199616150,
+  "transmit": 327578,
+  "disk": 179510
+}
