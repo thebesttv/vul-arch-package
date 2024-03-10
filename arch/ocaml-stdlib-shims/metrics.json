@@ -1,0 +1,14 @@
+{
+  "name": "ocaml-stdlib-shims",
+  "version": "0.3.0-8",
+  "depends": [
+    "ocaml",
+    "ocaml-compiler-libs"
+  ],
+  "makedepends": [
+    "dune"
+  ],
+  "receive": 199817239,
+  "transmit": 500646,
+  "disk": 146331
+}
