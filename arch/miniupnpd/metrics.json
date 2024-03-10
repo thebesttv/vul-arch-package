@@ -1,0 +1,19 @@
+{
+  "name": "miniupnpd",
+  "version": "2.3.5-1",
+  "depends": [
+    "iptables",
+    "util-linux",
+    "util-linux-libs",
+    "libuuid.so",
+    "libcap-ng",
+    "libcap-ng.so"
+  ],
+  "makedepends": [
+    "lsb-release",
+    "procps-ng"
+  ],
+  "receive": 199539709,
+  "transmit": 283748,
+  "disk": 1531157
+}
