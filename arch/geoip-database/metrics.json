@@ -1,0 +1,11 @@
+{
+  "name": "geoip-database",
+  "version": "20240309-1",
+  "depends": [],
+  "makedepends": [
+    "util-linux"
+  ],
+  "receive": 239268121,
+  "transmit": 1174900,
+  "disk": 122691056
+}
