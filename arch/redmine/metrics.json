@@ -1,0 +1,19 @@
+{
+  "name": "redmine",
+  "version": "5.1.2-1",
+  "depends": [
+    "ruby",
+    "imagemagick",
+    "libxml2",
+    "libxslt"
+  ],
+  "makedepends": [
+    "mariadb-libs",
+    "postgresql-libs",
+    "sqlite",
+    "systemd"
+  ],
+  "receive": 199566933,
+  "transmit": 307512,
+  "disk": 18898306
+}
