@@ -1,0 +1,16 @@
+{
+  "name": "python-calver",
+  "version": "2022.06.26-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199622231,
+  "transmit": 390514,
+  "disk": 141070
+}
