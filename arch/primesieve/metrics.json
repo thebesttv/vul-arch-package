@@ -1,0 +1,14 @@
+{
+  "name": "primesieve",
+  "version": "12.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199698953,
+  "transmit": 407189,
+  "disk": 897108
+}
