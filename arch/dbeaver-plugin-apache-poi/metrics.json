@@ -1,0 +1,13 @@
+{
+  "name": "dbeaver-plugin-apache-poi",
+  "version": "5.2.5-1",
+  "depends": [
+    "dbeaver>=4.2.5"
+  ],
+  "makedepends": [
+    "unzip"
+  ],
+  "receive": 199586555,
+  "transmit": 337588,
+  "disk": 16472430
+}
