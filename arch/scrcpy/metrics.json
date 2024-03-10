@@ -1,0 +1,16 @@
+{
+  "name": "scrcpy",
+  "version": "2.4-1",
+  "depends": [
+    "android-tools",
+    "ffmpeg",
+    "sdl2"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199632603,
+  "transmit": 364396,
+  "disk": 30540747
+}
