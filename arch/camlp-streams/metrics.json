@@ -1,0 +1,14 @@
+{
+  "name": "camlp-streams",
+  "version": "5.0.1-5",
+  "depends": [
+    "ocaml",
+    "ocaml-compiler-libs"
+  ],
+  "makedepends": [
+    "dune"
+  ],
+  "receive": 199606048,
+  "transmit": 363990,
+  "disk": 177057
+}
