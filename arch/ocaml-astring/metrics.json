@@ -1,0 +1,16 @@
+{
+  "name": "ocaml-astring",
+  "version": "0.8.5-3",
+  "depends": [
+    "ocaml"
+  ],
+  "makedepends": [
+    "ocaml-findlib",
+    "ocamlbuild",
+    "ocaml-topkg",
+    "opam"
+  ],
+  "receive": 199599504,
+  "transmit": 344657,
+  "disk": 405171
+}
