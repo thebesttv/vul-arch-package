@@ -1,0 +1,24 @@
+{
+  "name": "bigloo",
+  "version": "4.5b-4",
+  "depends": [
+    "gmp",
+    "openssl",
+    "libunistring",
+    "libnsl",
+    "gc",
+    "libuv"
+  ],
+  "makedepends": [
+    "emacs",
+    "zip",
+    "sqlite",
+    "alsa-lib",
+    "flac",
+    "avahi",
+    "libpulse"
+  ],
+  "receive": 259666655,
+  "transmit": 905488,
+  "disk": 238235920
+}
