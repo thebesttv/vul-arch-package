@@ -1,0 +1,17 @@
+{
+  "name": "freeciv",
+  "version": "3.1.0-1",
+  "depends": [
+    "gtk3",
+    "sdl_mixer",
+    "lua",
+    "sqlite",
+    "curl"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 245070960,
+  "transmit": 765728,
+  "disk": 284990441
+}
