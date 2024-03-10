@@ -1,0 +1,18 @@
+{
+  "name": "python-logbook",
+  "version": "1.7.0-1",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython",
+    "python-six",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199557254,
+  "transmit": 310512,
+  "disk": 1234646
+}
