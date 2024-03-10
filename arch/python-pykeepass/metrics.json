@@ -1,0 +1,19 @@
+{
+  "name": "python-pykeepass",
+  "version": "4.0.7-2",
+  "depends": [
+    "python-argon2_cffi",
+    "python-construct",
+    "python-lxml",
+    "python-pycryptodomex",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199511055,
+  "transmit": 236635,
+  "disk": 524151
+}
