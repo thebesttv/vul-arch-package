@@ -1,0 +1,26 @@
+{
+  "name": "streamlink",
+  "version": "6.7.0-1",
+  "depends": [
+    "python-certifi",
+    "python-isodate",
+    "python-lxml",
+    "python-pycountry",
+    "python-pycryptodome",
+    "python-pysocks",
+    "python-requests",
+    "python-trio",
+    "python-trio-websocket",
+    "python-typing_extensions",
+    "python-websocket-client"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199769849,
+  "transmit": 404569,
+  "disk": 4372348
+}
