@@ -1,0 +1,14 @@
+{
+  "name": "eksctl",
+  "version": "0.173.0-1",
+  "depends": [
+    "kubectl",
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 211016577,
+  "transmit": 396633,
+  "disk": 35451128
+}
