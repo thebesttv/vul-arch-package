@@ -1,0 +1,16 @@
+{
+  "name": "ocaml-csexp",
+  "version": "1.5.2-4",
+  "depends": [
+    "glibc",
+    "ocaml",
+    "ocaml-findlib",
+    "ocaml-result"
+  ],
+  "makedepends": [
+    "dune"
+  ],
+  "receive": 199537714,
+  "transmit": 268511,
+  "disk": 165417
+}
