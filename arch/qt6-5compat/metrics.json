@@ -1,0 +1,20 @@
+{
+  "name": "qt6-5compat",
+  "version": "6.6.2-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "icu",
+    "qt6-base",
+    "qt6-shadertools"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-declarative",
+    "qt6-shadertools"
+  ],
+  "receive": 214342143,
+  "transmit": 579377,
+  "disk": 36946582
+}
