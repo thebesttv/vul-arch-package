@@ -1,0 +1,14 @@
+{
+  "name": "minio",
+  "version": "2024.03.10-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 361523367,
+  "transmit": 992980,
+  "disk": 190521016
+}
