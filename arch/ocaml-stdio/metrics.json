@@ -1,0 +1,15 @@
+{
+  "name": "ocaml-stdio",
+  "version": "0.16.0-2",
+  "depends": [
+    "glibc",
+    "ocaml",
+    "ocaml-base"
+  ],
+  "makedepends": [
+    "dune"
+  ],
+  "receive": 199742260,
+  "transmit": 458310,
+  "disk": 131859
+}
