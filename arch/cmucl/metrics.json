@@ -1,0 +1,13 @@
+{
+  "name": "cmucl",
+  "version": "21e-1",
+  "depends": [],
+  "makedepends": [
+    "sed",
+    "bc",
+    "lib32-gcc-libs"
+  ],
+  "receive": 207853300,
+  "transmit": 446339,
+  "disk": 94632357
+}
