@@ -1,0 +1,18 @@
+{
+  "name": "ocaml-integers",
+  "version": "0.7.0-5",
+  "depends": [
+    "ocaml-stdlib-shims"
+  ],
+  "makedepends": [
+    "dune",
+    "ocaml-topkg",
+    "ocaml-findlib",
+    "ocaml-compiler-libs",
+    "ocamlbuild",
+    "opam"
+  ],
+  "receive": 199641300,
+  "transmit": 290365,
+  "disk": 201322
+}
