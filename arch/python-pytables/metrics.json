@@ -1,0 +1,19 @@
+{
+  "name": "python-pytables",
+  "version": "3.9.2-1",
+  "depends": [
+    "blosc",
+    "blosc2",
+    "lzo",
+    "hdf5",
+    "python-numexpr",
+    "python-blosc2"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 199723543,
+  "transmit": 421435,
+  "disk": 14454847
+}
