@@ -1,0 +1,28 @@
+{
+  "name": "monero",
+  "version": "0.18.3.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libboost_program_options.so",
+    "libhidapi-libusb.so",
+    "libreadline.so",
+    "libsodium.so",
+    "libssl.so",
+    "libunbound.so",
+    "libunwind",
+    "libusb",
+    "libzmq.so",
+    "pcsclite",
+    "protobuf"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "git",
+    "python"
+  ],
+  "receive": 687221738,
+  "transmit": 833400,
+  "disk": 540883491
+}
