@@ -1,0 +1,14 @@
+{
+  "name": "dbeaver-plugin-office",
+  "version": "1.1.164.202403031740-1",
+  "depends": [
+    "dbeaver>=4.2.5",
+    "dbeaver-plugin-apache-poi"
+  ],
+  "makedepends": [
+    "unzip"
+  ],
+  "receive": 199624414,
+  "transmit": 388034,
+  "disk": 267969
+}
