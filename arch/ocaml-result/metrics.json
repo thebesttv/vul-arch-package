@@ -1,0 +1,14 @@
+{
+  "name": "ocaml-result",
+  "version": "1.5-10",
+  "depends": [
+    "ocaml"
+  ],
+  "makedepends": [
+    "ocaml-findlib",
+    "dune"
+  ],
+  "receive": 199639328,
+  "transmit": 399715,
+  "disk": 106628
+}
