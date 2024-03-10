@@ -1,0 +1,13 @@
+{
+  "name": "ocaml-re",
+  "version": "1.11.0-3",
+  "depends": [
+    "ocaml"
+  ],
+  "makedepends": [
+    "dune"
+  ],
+  "receive": 199635670,
+  "transmit": 380395,
+  "disk": 579443
+}
