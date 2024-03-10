@@ -1,0 +1,12 @@
+{
+  "name": "hcxdumptool",
+  "version": "6.3.4-1",
+  "depends": [
+    "glibc",
+    "libpcap"
+  ],
+  "makedepends": [],
+  "receive": 199588656,
+  "transmit": 347460,
+  "disk": 692235
+}
