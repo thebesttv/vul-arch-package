@@ -1,0 +1,13 @@
+{
+  "name": "ocaml-ppx_derivers",
+  "version": "1.2.1-13",
+  "depends": [
+    "ocaml"
+  ],
+  "makedepends": [
+    "dune"
+  ],
+  "receive": 199626818,
+  "transmit": 367343,
+  "disk": 109831
+}
