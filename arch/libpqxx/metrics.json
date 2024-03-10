@@ -1,0 +1,13 @@
+{
+  "name": "libpqxx",
+  "version": "7.9.0-1",
+  "depends": [
+    "postgresql-libs>=9.1"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199590232,
+  "transmit": 296690,
+  "disk": 4168850
+}
