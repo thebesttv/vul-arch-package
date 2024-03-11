@@ -1,0 +1,27 @@
+{
+  "name": "dracut",
+  "version": "059-6",
+  "depends": [
+    "bash",
+    "coreutils",
+    "cpio",
+    "filesystem",
+    "findutils",
+    "gawk",
+    "grep",
+    "kmod",
+    "pkgconf",
+    "procps-ng",
+    "sed",
+    "systemd",
+    "util-linux"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "bash-completion",
+    "git"
+  ],
+  "receive": 213211466,
+  "transmit": 570020,
+  "disk": 17942320
+}
