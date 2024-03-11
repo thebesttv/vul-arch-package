@@ -1,0 +1,15 @@
+{
+  "name": "cargo-udeps",
+  "version": "0.1.47-1",
+  "depends": [
+    "curl",
+    "libgit2"
+  ],
+  "makedepends": [
+    "cargo",
+    "libssh2"
+  ],
+  "receive": 199670683,
+  "transmit": 372937,
+  "disk": 357759
+}
