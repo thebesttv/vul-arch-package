@@ -1,0 +1,18 @@
+{
+  "name": "flashgbx",
+  "version": "3.37-1",
+  "depends": [
+    "pyside6",
+    "python-dateutil",
+    "python-pillow",
+    "python-pyserial",
+    "python-requests",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199726897,
+  "transmit": 460216,
+  "disk": 11730775
+}
