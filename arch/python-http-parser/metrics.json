@@ -1,0 +1,17 @@
+{
+  "name": "python-http-parser",
+  "version": "0.9.0-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "cython"
+  ],
+  "receive": 199590103,
+  "transmit": 392897,
+  "disk": 853895
+}
