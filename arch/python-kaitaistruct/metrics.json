@@ -1,0 +1,16 @@
+{
+  "name": "python-kaitaistruct",
+  "version": "0.10-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199526905,
+  "transmit": 232677,
+  "disk": 139452
+}
