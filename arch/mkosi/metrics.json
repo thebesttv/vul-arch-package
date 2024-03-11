@@ -1,0 +1,22 @@
+{
+  "name": "mkosi",
+  "version": "21-1",
+  "depends": [
+    "bubblewrap",
+    "python",
+    "python-argcomplete",
+    "sh",
+    "systemd"
+  ],
+  "makedepends": [
+    "pandoc-cli",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199558599,
+  "transmit": 274716,
+  "disk": 1673035
+}
