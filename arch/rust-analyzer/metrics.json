@@ -1,0 +1,14 @@
+{
+  "name": "rust-analyzer",
+  "version": "20240311-1",
+  "depends": [
+    "gcc-libs",
+    "rust-src"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 288992018,
+  "transmit": 742670,
+  "disk": 112321723
+}
