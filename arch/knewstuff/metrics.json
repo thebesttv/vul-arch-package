@@ -1,0 +1,27 @@
+{
+  "name": "knewstuff",
+  "version": "6.0.0-4",
+  "depends": [
+    "attica",
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kpackage",
+    "kwidgetsaddons",
+    "qt6-base",
+    "syndication"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199661932,
+  "transmit": 299582,
+  "disk": 30467017
+}
