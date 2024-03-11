@@ -1,0 +1,17 @@
+{
+  "name": "python-incremental",
+  "version": "22.10.0-4",
+  "depends": [
+    "python-click",
+    "python-setuptools",
+    "python-twisted"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199703446,
+  "transmit": 392633,
+  "disk": 243692
+}
