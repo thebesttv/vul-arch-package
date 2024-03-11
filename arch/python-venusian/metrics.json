@@ -1,0 +1,16 @@
+{
+  "name": "python-venusian",
+  "version": "3.1.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199680277,
+  "transmit": 404967,
+  "disk": 373047
+}
