@@ -1,0 +1,20 @@
+{
+  "name": "uv",
+  "version": "0.1.17-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "zlib",
+    "libz.so"
+  ],
+  "makedepends": [
+    "cargo",
+    "maturin",
+    "python-installer",
+    "cmake",
+    "git"
+  ],
+  "receive": 199730111,
+  "transmit": 405511,
+  "disk": 36393931
+}
