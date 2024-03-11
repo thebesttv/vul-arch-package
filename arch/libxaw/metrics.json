@@ -1,0 +1,19 @@
+{
+  "name": "libxaw",
+  "version": "1.0.16-1",
+  "depends": [
+    "libxmu",
+    "libxpm",
+    "libx11",
+    "libxt",
+    "libxext",
+    "xorgproto",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199750559,
+  "transmit": 448522,
+  "disk": 5118324
+}
