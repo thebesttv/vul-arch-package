@@ -1,0 +1,17 @@
+{
+  "name": "tuna",
+  "version": "1:0.19-3",
+  "depends": [
+    "python",
+    "python-linux-procfs"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199569633,
+  "transmit": 286207,
+  "disk": 993003
+}
