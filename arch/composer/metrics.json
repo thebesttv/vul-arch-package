@@ -1,0 +1,14 @@
+{
+  "name": "composer",
+  "version": "2.7.2-1",
+  "depends": [
+    "php",
+    "unzip"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 239874207,
+  "transmit": 839672,
+  "disk": 52634526
+}
