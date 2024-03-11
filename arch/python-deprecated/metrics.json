@@ -1,0 +1,16 @@
+{
+  "name": "python-deprecated",
+  "version": "1.2.14-2",
+  "depends": [
+    "python-wrapt"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199763022,
+  "transmit": 466025,
+  "disk": 6254196
+}
