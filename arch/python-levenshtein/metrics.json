@@ -1,0 +1,21 @@
+{
+  "name": "python-levenshtein",
+  "version": "0.25.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "python",
+    "python-rapidfuzz"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-scikit-build",
+    "cython",
+    "rapidfuzz-cpp"
+  ],
+  "receive": 199537269,
+  "transmit": 267986,
+  "disk": 333128
+}
