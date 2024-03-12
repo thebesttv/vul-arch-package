@@ -1,0 +1,26 @@
+{
+  "name": "python-cfn-lint",
+  "version": "0.86.0-1",
+  "depends": [
+    "python",
+    "python-yaml",
+    "python-aws-sam-translator",
+    "python-jsonpatch",
+    "python-jsonschema",
+    "python-networkx",
+    "python-junit-xml",
+    "python-jschema-to-python",
+    "python-sarif-om",
+    "python-sympy",
+    "python-regex"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199775727,
+  "transmit": 373494,
+  "disk": 46379229
+}
