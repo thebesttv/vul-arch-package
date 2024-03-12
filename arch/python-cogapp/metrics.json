@@ -1,0 +1,16 @@
+{
+  "name": "python-cogapp",
+  "version": "3.3.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 200727963,
+  "transmit": 1101680,
+  "disk": 274482
+}
