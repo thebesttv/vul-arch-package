@@ -1,0 +1,14 @@
+{
+  "name": "global",
+  "version": "6.6.12-1",
+  "depends": [
+    "libltdl",
+    "perl",
+    "python",
+    "sqlite"
+  ],
+  "makedepends": [],
+  "receive": 202812112,
+  "transmit": 472197,
+  "disk": 14774675
+}
