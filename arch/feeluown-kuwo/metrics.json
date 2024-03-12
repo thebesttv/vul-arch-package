@@ -1,0 +1,17 @@
+{
+  "name": "feeluown-kuwo",
+  "version": "0.2.2-2",
+  "depends": [
+    "feeluown",
+    "python-marshmallow",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199762194,
+  "transmit": 466938,
+  "disk": 891602
+}
