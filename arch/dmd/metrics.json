@@ -1,0 +1,12 @@
+{
+  "name": "dmd",
+  "version": "1:2.107.1-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "ldc"
+  ],
+  "receive": 531231737,
+  "transmit": 2099734,
+  "disk": 385899107
+}
