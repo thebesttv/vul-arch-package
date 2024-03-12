@@ -1,0 +1,22 @@
+{
+  "name": "deno",
+  "version": "1.41.2-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "python",
+    "rust",
+    "nodejs",
+    "gn",
+    "ninja",
+    "clang",
+    "lld",
+    "cmake",
+    "protobuf"
+  ],
+  "receive": 459342188,
+  "transmit": 925897,
+  "disk": 335641593
+}
