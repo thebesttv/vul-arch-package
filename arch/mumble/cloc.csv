@@ -1,0 +1,50 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=3.94 s (680.4 files/s 343478.3 lines/s)"
+49,Qt Linguist,634,0,440096
+815,C++,38782,23544,408576
+618,C/C++ Header,31841,49523,183569
+83,C,6549,6893,55606
+287,Markdown,8215,3,20850
+37,Qt,3,0,14742
+345,SVG,37,84,9987
+37,XML,27,52,6563
+149,CMake,1404,1282,6360
+14,MSBuild script,0,0,5675
+59,Text,1357,0,5674
+3,TeX,1249,4,3227
+32,Python,1016,1102,3148
+7,Objective-C++,427,142,1949
+7,SCSS,214,87,1289
+16,Visual Studio Solution,14,15,1150
+47,make,271,176,838
+4,m4,131,73,690
+3,YAML,23,7,476
+4,HLSL,49,42,386
+3,Protocol Buffers,61,342,362
+1,Assembly,87,158,331
+3,C#,54,21,314
+2,Objective-C,78,55,282
+5,Windows Module Definition,15,30,281
+4,HTML,39,0,272
+1,Slice,110,588,243
+1,SQL,3,3,228
+6,DOS Batch,37,7,188
+2,Meson,41,0,173
+7,Bourne Shell,28,27,123
+2,Perl,22,26,82
+1,PowerShell,16,6,69
+1,MATLAB,8,7,57
+5,JSON,0,0,56
+2,Starlark,0,0,54
+2,Bourne Again Shell,17,34,42
+1,Jinja Template,4,0,36
+2,Windows Resource File,0,0,33
+2,INI,59,354,25
+1,Swift,2,2,18
+1,Ruby,3,0,16
+2,diff,3,21,14
+1,TNSDL,10,26,13
+1,CUDA,3,8,8
+1,Standard ML,1,0,6
+1,TOML,0,0,4
+1,CSS,0,1,3
+2678,SUM,92944,84745,1174184
