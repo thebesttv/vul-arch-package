@@ -1,0 +1,17 @@
+{
+  "name": "qalculate-qt",
+  "version": "5.0.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libqalculate",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "qt6-tools"
+  ],
+  "receive": 200371779,
+  "transmit": 801523,
+  "disk": 9611264
+}
