@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-neural-search-plugin",
+  "version": "2.12.0.0-1",
+  "depends": [
+    "opensearch=2.12.0"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 201775717,
+  "transmit": 1834232,
+  "disk": 1863426
+}
