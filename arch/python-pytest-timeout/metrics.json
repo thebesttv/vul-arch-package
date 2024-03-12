@@ -1,0 +1,16 @@
+{
+  "name": "python-pytest-timeout",
+  "version": "2.3.0-1",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 202565031,
+  "transmit": 2361884,
+  "disk": 200008
+}
