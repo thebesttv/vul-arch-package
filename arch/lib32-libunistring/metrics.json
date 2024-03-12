@@ -1,0 +1,12 @@
+{
+  "name": "lib32-libunistring",
+  "version": "1.2-1",
+  "depends": [
+    "libunistring",
+    "lib32-glibc"
+  ],
+  "makedepends": [],
+  "receive": 199599528,
+  "transmit": 330609,
+  "disk": 32379460
+}
