@@ -1,0 +1,19 @@
+{
+  "name": "jc",
+  "version": "1.25.1-1",
+  "depends": [
+    "python",
+    "python-pygments",
+    "python-ruamel-yaml",
+    "python-xmltodict"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 213646866,
+  "transmit": 549615,
+  "disk": 102924191
+}
