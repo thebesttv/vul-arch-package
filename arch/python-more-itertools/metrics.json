@@ -1,0 +1,16 @@
+{
+  "name": "python-more-itertools",
+  "version": "10.2.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-flit-core"
+  ],
+  "receive": 199659907,
+  "transmit": 345238,
+  "disk": 790060
+}
