@@ -1,0 +1,13 @@
+{
+  "name": "mustache-d",
+  "version": "0.1.5-15",
+  "depends": [],
+  "makedepends": [
+    "meson",
+    "ldc",
+    "liblphobos"
+  ],
+  "receive": 200188022,
+  "transmit": 743514,
+  "disk": 218843
+}
