@@ -1,0 +1,16 @@
+{
+  "name": "blosc2",
+  "version": "2.13.2-1",
+  "depends": [
+    "glibc",
+    "lz4",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 202906246,
+  "transmit": 411174,
+  "disk": 14541869
+}
