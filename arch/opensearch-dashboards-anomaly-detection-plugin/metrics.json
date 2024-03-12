@@ -1,0 +1,16 @@
+{
+  "name": "opensearch-dashboards-anomaly-detection-plugin",
+  "version": "2.12.0.0-1",
+  "depends": [
+    "opensearch-dashboards=2.12.0"
+  ],
+  "makedepends": [
+    "yarn",
+    "npm",
+    "python",
+    "git"
+  ],
+  "receive": 3399661050,
+  "transmit": 4989480,
+  "disk": 4007945508
+}
