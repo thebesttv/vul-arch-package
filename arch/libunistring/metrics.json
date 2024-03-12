@@ -1,0 +1,11 @@
+{
+  "name": "libunistring",
+  "version": "1.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 203192371,
+  "transmit": 1043473,
+  "disk": 32389073
+}
