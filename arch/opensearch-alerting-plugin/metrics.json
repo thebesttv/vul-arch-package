@@ -1,0 +1,15 @@
+{
+  "name": "opensearch-alerting-plugin",
+  "version": "2.12.0.0-1",
+  "depends": [
+    "opensearch=2.12.0",
+    "opensearch-notifications-plugin"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 199637638,
+  "transmit": 334319,
+  "disk": 3460178
+}
