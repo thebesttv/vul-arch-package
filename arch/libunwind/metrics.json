@@ -1,0 +1,15 @@
+{
+  "name": "libunwind",
+  "version": "1.8.1-1",
+  "depends": [
+    "glibc",
+    "xz",
+    "zlib"
+  ],
+  "makedepends": [
+    "texlive-binextra"
+  ],
+  "receive": 199587758,
+  "transmit": 295777,
+  "disk": 6053520
+}
