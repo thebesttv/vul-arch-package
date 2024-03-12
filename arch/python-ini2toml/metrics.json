@@ -1,0 +1,20 @@
+{
+  "name": "python-ini2toml",
+  "version": "0.13-2",
+  "depends": [
+    "python-packaging",
+    "python-setuptools",
+    "python-configupdater",
+    "python-tomlkit"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 201266274,
+  "transmit": 1443872,
+  "disk": 1374929
+}
