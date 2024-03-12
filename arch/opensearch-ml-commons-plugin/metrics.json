@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-ml-commons-plugin",
+  "version": "2.12.0.0-1",
+  "depends": [
+    "opensearch=2.12.0"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 552275795,
+  "transmit": 5911869,
+  "disk": 713795698
+}
