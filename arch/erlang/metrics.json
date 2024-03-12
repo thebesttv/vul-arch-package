@@ -1,0 +1,20 @@
+{
+  "name": "erlang",
+  "version": "26.2.3-1",
+  "depends": [],
+  "makedepends": [
+    "fop",
+    "git",
+    "glu",
+    "java-environment",
+    "libxslt",
+    "lksctp-tools",
+    "mesa",
+    "perl",
+    "unixodbc",
+    "wxwidgets-gtk3"
+  ],
+  "receive": 791828479,
+  "transmit": 8927721,
+  "disk": 808591436
+}
