@@ -1,0 +1,13 @@
+{
+  "name": "vultr-cli",
+  "version": "3.0.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 201165529,
+  "transmit": 1385737,
+  "disk": 1026800
+}
