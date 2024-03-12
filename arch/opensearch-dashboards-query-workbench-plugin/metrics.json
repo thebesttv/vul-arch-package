@@ -1,0 +1,16 @@
+{
+  "name": "opensearch-dashboards-query-workbench-plugin",
+  "version": "2.12.0.0-1",
+  "depends": [
+    "opensearch-dashboards=2.12.0"
+  ],
+  "makedepends": [
+    "yarn",
+    "npm",
+    "python",
+    "git"
+  ],
+  "receive": 3402766439,
+  "transmit": 6949055,
+  "disk": 4022219537
+}
