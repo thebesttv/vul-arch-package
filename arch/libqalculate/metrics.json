@@ -1,0 +1,21 @@
+{
+  "name": "libqalculate",
+  "version": "5.0.0-2",
+  "depends": [
+    "curl",
+    "icu",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "libxml2",
+    "mpfr",
+    "readline"
+  ],
+  "makedepends": [
+    "doxygen",
+    "intltool"
+  ],
+  "receive": 202736755,
+  "transmit": 2429617,
+  "disk": 16281134
+}
