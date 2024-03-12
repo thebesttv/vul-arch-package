@@ -1,0 +1,18 @@
+{
+  "name": "opensearch-dashboards-alerting-plugin",
+  "version": "2.12.0.0-1",
+  "depends": [
+    "opensearch-dashboards=2.12.0",
+    "opensearch-dashboards-notifications-plugin",
+    "coffeescript"
+  ],
+  "makedepends": [
+    "yarn",
+    "npm",
+    "python",
+    "git"
+  ],
+  "receive": 3405093958,
+  "transmit": 4419032,
+  "disk": 4026535619
+}
