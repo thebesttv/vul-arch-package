@@ -1,0 +1,17 @@
+{
+  "name": "opensearch-dashboards-index-management-plugin",
+  "version": "2.12.0.0-1",
+  "depends": [
+    "opensearch-dashboards=2.12.0",
+    "opensearch-dashboards-notifications-plugin"
+  ],
+  "makedepends": [
+    "yarn",
+    "npm",
+    "python",
+    "git"
+  ],
+  "receive": 3418139342,
+  "transmit": 2824740,
+  "disk": 4032001457
+}
