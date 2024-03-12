@@ -1,0 +1,14 @@
+{
+  "name": "the_silver_searcher",
+  "version": "2.2.0-3",
+  "depends": [
+    "pcre2",
+    "xz"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199642833,
+  "transmit": 377098,
+  "disk": 3865481
+}
