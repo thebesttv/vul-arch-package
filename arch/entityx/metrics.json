@@ -1,0 +1,14 @@
+{
+  "name": "entityx",
+  "version": "1.3.0-4",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja",
+    "catch2-v2"
+  ],
+  "receive": 202787135,
+  "transmit": 257608,
+  "disk": 4221927
+}
