@@ -1,0 +1,13 @@
+{
+  "name": "python-flaky",
+  "version": "3.8.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 200205420,
+  "transmit": 774681,
+  "disk": 306218
+}
