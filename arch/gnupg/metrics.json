@@ -1,0 +1,32 @@
+{
+  "name": "gnupg",
+  "version": "2.4.5-1",
+  "depends": [
+    "bzip2",
+    "libbz2.so",
+    "glibc",
+    "gnutls",
+    "libgcrypt",
+    "libgpg-error",
+    "libksba",
+    "libassuan",
+    "libassuan.so",
+    "libldap",
+    "libusb",
+    "npth",
+    "libnpth.so",
+    "pinentry",
+    "readline",
+    "libreadline.so",
+    "sh",
+    "sqlite",
+    "tpm2-tss",
+    "zlib"
+  ],
+  "makedepends": [
+    "pcsclite"
+  ],
+  "receive": 210409615,
+  "transmit": 2221301,
+  "disk": 46969044
+}
