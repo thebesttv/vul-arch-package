@@ -1,0 +1,13 @@
+{
+  "name": "topcom",
+  "version": "1.1.2-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gmp"
+  ],
+  "makedepends": [],
+  "receive": 210013891,
+  "transmit": 1880189,
+  "disk": 44036019
+}
