@@ -1,0 +1,14 @@
+{
+  "name": "python-elementpath",
+  "version": "4.4.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 199587922,
+  "transmit": 319462,
+  "disk": 5141153
+}
