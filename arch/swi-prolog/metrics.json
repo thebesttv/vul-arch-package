@@ -1,0 +1,28 @@
+{
+  "name": "swi-prolog",
+  "version": "9.2.2-1",
+  "depends": [
+    "db5.3",
+    "gperftools",
+    "libarchive",
+    "libxcrypt",
+    "libyaml",
+    "qt5-base",
+    "util-linux-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "jdk-openjdk",
+    "junit",
+    "libjpeg",
+    "libxft",
+    "libxinerama",
+    "libxpm",
+    "ninja",
+    "python-protobuf",
+    "unixodbc"
+  ],
+  "receive": 201455050,
+  "transmit": 1539535,
+  "disk": 85219764
+}
