@@ -1,0 +1,17 @@
+{
+  "name": "python-pytest-benchmark",
+  "version": "4.0.0-5",
+  "depends": [
+    "python-pytest",
+    "python-py-cpuinfo"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199617972,
+  "transmit": 321006,
+  "disk": 1186446
+}
