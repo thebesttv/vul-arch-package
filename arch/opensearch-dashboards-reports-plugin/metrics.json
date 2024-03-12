@@ -1,0 +1,17 @@
+{
+  "name": "opensearch-dashboards-reports-plugin",
+  "version": "2.12.0.0-1",
+  "depends": [
+    "opensearch-dashboards=2.12.0",
+    "coffeescript"
+  ],
+  "makedepends": [
+    "yarn",
+    "npm",
+    "python",
+    "git"
+  ],
+  "receive": 3490851535,
+  "transmit": 41286075,
+  "disk": 4056850112
+}
