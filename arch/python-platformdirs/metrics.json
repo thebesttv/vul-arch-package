@@ -1,0 +1,16 @@
+{
+  "name": "python-platformdirs",
+  "version": "4.2.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs"
+  ],
+  "receive": 199676311,
+  "transmit": 400289,
+  "disk": 290852
+}
