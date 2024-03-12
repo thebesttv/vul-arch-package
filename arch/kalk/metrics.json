@@ -1,0 +1,24 @@
+{
+  "name": "kalk",
+  "version": "24.02.0-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "kunitconversion",
+    "libqalculate",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 203322641,
+  "transmit": 2856577,
+  "disk": 831518
+}
