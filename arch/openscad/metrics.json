@@ -1,0 +1,41 @@
+{
+  "name": "openscad",
+  "version": "2021.01-11",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "glib2",
+    "freetype2",
+    "fontconfig",
+    "harfbuzz",
+    "libx11",
+    "libglvnd",
+    "glu",
+    "gmp",
+    "double-conversion",
+    "glew",
+    "libxml2",
+    "cairo",
+    "qt5-base",
+    "qscintilla-qt5",
+    "opencsg",
+    "boost-libs",
+    "libzip",
+    "qt5-multimedia",
+    "libspnav",
+    "lib3mf",
+    "nettle",
+    "mpfr",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "git",
+    "cgal",
+    "eigen",
+    "boost",
+    "imagemagick"
+  ],
+  "receive": 326625549,
+  "transmit": 428033,
+  "disk": 156948370
+}
