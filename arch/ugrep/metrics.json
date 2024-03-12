@@ -1,0 +1,16 @@
+{
+  "name": "ugrep",
+  "version": "5.1.1-1",
+  "depends": [
+    "bzip2",
+    "lz4",
+    "pcre2",
+    "xz",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [],
+  "receive": 199773986,
+  "transmit": 387751,
+  "disk": 28988308
+}
