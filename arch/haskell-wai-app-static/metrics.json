@@ -1,0 +1,32 @@
+{
+  "name": "haskell-wai-app-static",
+  "version": "3.1.9-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-blaze-html",
+    "haskell-blaze-markup",
+    "haskell-crypton",
+    "haskell-file-embed",
+    "haskell-http-date",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-mime-types",
+    "haskell-old-locale",
+    "haskell-optparse-applicative",
+    "haskell-unix-compat",
+    "haskell-unordered-containers",
+    "haskell-wai",
+    "haskell-wai-extra",
+    "haskell-warp",
+    "haskell-zlib"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-mockery",
+    "haskell-temporary"
+  ],
+  "receive": 199866713,
+  "transmit": 524574,
+  "disk": 1136631
+}
