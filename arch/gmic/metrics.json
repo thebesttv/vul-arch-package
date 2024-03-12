@@ -1,0 +1,19 @@
+{
+  "name": "gmic",
+  "version": "3.3.5-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "eigen",
+    "fftw",
+    "gimp",
+    "graphicsmagick",
+    "opencv",
+    "openexr",
+    "qt5-base",
+    "qt5-tools"
+  ],
+  "receive": 200290546,
+  "transmit": 724334,
+  "disk": 49722458
+}
