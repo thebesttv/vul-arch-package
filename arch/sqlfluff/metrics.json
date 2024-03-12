@@ -1,0 +1,31 @@
+{
+  "name": "sqlfluff",
+  "version": "2.3.5-1",
+  "depends": [
+    "python",
+    "python-appdirs",
+    "python-chardet",
+    "python-click",
+    "python-colorama",
+    "python-diff-cover",
+    "python-jinja",
+    "python-pathspec",
+    "python-pytest",
+    "python-pyyaml",
+    "python-regex",
+    "python-tblib",
+    "python-toml",
+    "python-tqdm",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-wheel",
+    "python-installer",
+    "python-setuptools"
+  ],
+  "receive": 199696297,
+  "transmit": 406762,
+  "disk": 14851793
+}
