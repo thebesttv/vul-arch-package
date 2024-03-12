@@ -1,0 +1,27 @@
+{
+  "name": "vice",
+  "version": "3.8-2",
+  "depends": [
+    "alsa-lib",
+    "giflib",
+    "glew",
+    "gtk3",
+    "libjpeg-turbo",
+    "libpng",
+    "libpulse",
+    "python",
+    "sdl2",
+    "sdl2_image"
+  ],
+  "makedepends": [
+    "dos2unix",
+    "libpcap",
+    "libxaw",
+    "xa",
+    "xorg-bdftopcf",
+    "xorg-mkfontdir"
+  ],
+  "receive": 214466345,
+  "transmit": 1238599,
+  "disk": 58931892
+}
