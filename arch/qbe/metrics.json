@@ -1,0 +1,13 @@
+{
+  "name": "qbe",
+  "version": "1.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 200742506,
+  "transmit": 1106952,
+  "disk": 3431612
+}
