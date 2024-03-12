@@ -1,0 +1,16 @@
+{
+  "name": "opensearch-dashboards-maps-plugin",
+  "version": "2.12.0.0-1",
+  "depends": [
+    "opensearch-dashboards=2.12.0",
+    "coffeescript"
+  ],
+  "makedepends": [
+    "yarn",
+    "npm",
+    "git"
+  ],
+  "receive": 3417092876,
+  "transmit": 6630947,
+  "disk": 4000883312
+}
