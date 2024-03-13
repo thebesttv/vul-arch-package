@@ -1,0 +1,20 @@
+{
+  "name": "python-jupyter-server-terminals",
+  "version": "0.5.3-1",
+  "depends": [
+    "jupyter-server",
+    "python",
+    "python-jupyter-core",
+    "python-terminado",
+    "python-tornado",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199882308,
+  "transmit": 407974,
+  "disk": 285744
+}
