@@ -1,0 +1,19 @@
+{
+  "name": "erlang-nox",
+  "version": "26.2.3-1",
+  "depends": [
+    "ncurses",
+    "openssl"
+  ],
+  "makedepends": [
+    "fop",
+    "git",
+    "java-environment",
+    "libxslt",
+    "lksctp-tools",
+    "unixodbc"
+  ],
+  "receive": 783342927,
+  "transmit": 956158,
+  "disk": 809830137
+}
