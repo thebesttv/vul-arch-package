@@ -1,0 +1,15 @@
+{
+  "name": "protege",
+  "version": "5.6.3-1",
+  "depends": [
+    "java-runtime>=8",
+    "graphviz"
+  ],
+  "makedepends": [
+    "maven",
+    "jdk8-openjdk"
+  ],
+  "receive": 199730721,
+  "transmit": 387825,
+  "disk": 9146605
+}
