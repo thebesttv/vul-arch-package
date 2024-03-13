@@ -1,0 +1,12 @@
+{
+  "name": "docker-buildx",
+  "version": "0.13.1-1",
+  "depends": [],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 238411222,
+  "transmit": 1475313,
+  "disk": 106525642
+}
