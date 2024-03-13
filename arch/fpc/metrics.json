@@ -1,0 +1,17 @@
+{
+  "name": "fpc",
+  "version": "3.2.2-10",
+  "depends": [
+    "ncurses",
+    "zlib",
+    "expat",
+    "binutils",
+    "make"
+  ],
+  "makedepends": [
+    "fpc"
+  ],
+  "receive": 285032223,
+  "transmit": 1136920,
+  "disk": 477770619
+}
