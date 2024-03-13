@@ -1,0 +1,16 @@
+{
+  "name": "python-google-api-core",
+  "version": "2.17.1-1",
+  "depends": [
+    "python-pytz",
+    "python-requests",
+    "python-googleapis-common-protos",
+    "python-google-auth"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199576958,
+  "transmit": 309115,
+  "disk": 1201501
+}
