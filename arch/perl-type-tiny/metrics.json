@@ -1,0 +1,12 @@
+{
+  "name": "perl-type-tiny",
+  "version": "2.004000-1",
+  "depends": [
+    "perl",
+    "perl-exporter-tiny"
+  ],
+  "makedepends": [],
+  "receive": 199738788,
+  "transmit": 428576,
+  "disk": 3456861
+}
