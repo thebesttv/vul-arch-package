@@ -1,0 +1,13 @@
+{
+  "name": "popeye",
+  "version": "0.21.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199725049,
+  "transmit": 391952,
+  "disk": 6872234
+}
