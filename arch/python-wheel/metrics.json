@@ -1,0 +1,15 @@
+{
+  "name": "python-wheel",
+  "version": "0.43.0-1",
+  "depends": [
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199573623,
+  "transmit": 299702,
+  "disk": 812012
+}
