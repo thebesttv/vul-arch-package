@@ -1,0 +1,17 @@
+{
+  "name": "python-sqlparse",
+  "version": "0.4.4-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-flit-core",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199680139,
+  "transmit": 388958,
+  "disk": 521432
+}
