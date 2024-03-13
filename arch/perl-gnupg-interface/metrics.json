@@ -1,0 +1,17 @@
+{
+  "name": "perl-gnupg-interface",
+  "version": "1.04-1",
+  "depends": [
+    "gnupg",
+    "perl-math-bigint",
+    "perl-moo",
+    "perl-moox-handlesvia",
+    "perl-moox-late"
+  ],
+  "makedepends": [
+    "perl-module-install"
+  ],
+  "receive": 199588779,
+  "transmit": 309168,
+  "disk": 466907
+}
