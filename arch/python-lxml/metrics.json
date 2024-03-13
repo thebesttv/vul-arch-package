@@ -1,0 +1,18 @@
+{
+  "name": "python-lxml",
+  "version": "5.1.0-1",
+  "depends": [
+    "python",
+    "libxslt"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-pygments",
+    "python-sphinx",
+    "python-sphinx_rtd_theme",
+    "cython"
+  ],
+  "receive": 199728816,
+  "transmit": 381342,
+  "disk": 4756313
+}
