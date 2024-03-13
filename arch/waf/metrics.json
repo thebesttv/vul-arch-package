@@ -1,0 +1,13 @@
+{
+  "name": "waf",
+  "version": "2.0.27-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "unzip"
+  ],
+  "receive": 200436201,
+  "transmit": 394577,
+  "disk": 5056455
+}
