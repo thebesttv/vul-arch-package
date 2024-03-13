@@ -1,0 +1,17 @@
+{
+  "name": "rclone",
+  "version": "1.66.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "python",
+    "pandoc",
+    "go",
+    "git",
+    "fuse3"
+  ],
+  "receive": 208811346,
+  "transmit": 476490,
+  "disk": 55441375
+}
