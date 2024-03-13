@@ -1,0 +1,11 @@
+{
+  "name": "zssh",
+  "version": "1.5c-14",
+  "depends": [
+    "readline"
+  ],
+  "makedepends": [],
+  "receive": 199612004,
+  "transmit": 342910,
+  "disk": 1736988
+}
