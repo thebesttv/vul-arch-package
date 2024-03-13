@@ -1,0 +1,17 @@
+{
+  "name": "maxima",
+  "version": "5.47.0-10",
+  "depends": [
+    "texinfo",
+    "shared-mime-info"
+  ],
+  "makedepends": [
+    "python",
+    "emacs",
+    "ecl",
+    "sbcl"
+  ],
+  "receive": 249698734,
+  "transmit": 1619431,
+  "disk": 226163831
+}
