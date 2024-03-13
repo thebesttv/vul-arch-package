@@ -1,0 +1,26 @@
+{
+  "name": "buildah",
+  "version": "1.35.0-1",
+  "depends": [
+    "crun",
+    "skopeo",
+    "slirp4netns"
+  ],
+  "makedepends": [
+    "go",
+    "git",
+    "bats",
+    "btrfs-progs",
+    "device-mapper",
+    "gpgme",
+    "libassuan",
+    "bzip2",
+    "go-md2man",
+    "runc",
+    "skopeo",
+    "systemd"
+  ],
+  "receive": 279844253,
+  "transmit": 517869,
+  "disk": 174668255
+}
