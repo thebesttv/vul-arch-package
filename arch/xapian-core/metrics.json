@@ -1,0 +1,12 @@
+{
+  "name": "xapian-core",
+  "version": "1:1.4.25-1",
+  "depends": [],
+  "makedepends": [
+    "util-linux",
+    "zlib"
+  ],
+  "receive": 199533986,
+  "transmit": 255108,
+  "disk": 23539205
+}
