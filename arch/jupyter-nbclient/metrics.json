@@ -1,0 +1,19 @@
+{
+  "name": "jupyter-nbclient",
+  "version": "0.10.0-1",
+  "depends": [
+    "jupyter-nbformat",
+    "python",
+    "python-jupyter-client",
+    "python-jupyter-core",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199625171,
+  "transmit": 364974,
+  "disk": 548506
+}
