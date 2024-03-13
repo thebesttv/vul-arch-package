@@ -1,0 +1,16 @@
+{
+  "name": "python-milc",
+  "version": "1.8.0-1",
+  "depends": [
+    "python-appdirs",
+    "python-argcomplete",
+    "python-colorama",
+    "python-halo"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199560024,
+  "transmit": 262261,
+  "disk": 858770
+}
