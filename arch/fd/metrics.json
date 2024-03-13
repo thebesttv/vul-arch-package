@@ -1,0 +1,13 @@
+{
+  "name": "fd",
+  "version": "9.0.0-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199587570,
+  "transmit": 275530,
+  "disk": 792771
+}
