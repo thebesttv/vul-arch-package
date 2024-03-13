@@ -1,0 +1,16 @@
+{
+  "name": "nomad",
+  "version": "1.7.6-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "iptables"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 837716392,
+  "transmit": 1233703,
+  "disk": 711500735
+}
