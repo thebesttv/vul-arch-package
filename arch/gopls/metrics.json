@@ -1,0 +1,13 @@
+{
+  "name": "gopls",
+  "version": "0.15.2-1",
+  "depends": [
+    "go"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199711129,
+  "transmit": 415711,
+  "disk": 19523168
+}
