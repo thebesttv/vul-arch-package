@@ -1,0 +1,12 @@
+{
+  "name": "polyml",
+  "version": "5.9.1-2",
+  "depends": [
+    "gmp",
+    "libffi"
+  ],
+  "makedepends": [],
+  "receive": 199865638,
+  "transmit": 460495,
+  "disk": 20853011
+}
