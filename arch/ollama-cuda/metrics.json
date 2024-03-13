@@ -1,0 +1,14 @@
+{
+  "name": "ollama-cuda",
+  "version": "0.1.29-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "cuda",
+    "git",
+    "go"
+  ],
+  "receive": 358172015,
+  "transmit": 677721,
+  "disk": 195219589
+}
