@@ -1,0 +1,18 @@
+{
+  "name": "python-ptrace",
+  "version": "0.9.8-5",
+  "depends": [
+    "python",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 199862211,
+  "transmit": 440980,
+  "disk": 664709
+}
