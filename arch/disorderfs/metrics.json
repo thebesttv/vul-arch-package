@@ -1,0 +1,15 @@
+{
+  "name": "disorderfs",
+  "version": "0.5.11-2",
+  "depends": [
+    "fuse",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "git"
+  ],
+  "receive": 199622541,
+  "transmit": 366126,
+  "disk": 224982
+}
