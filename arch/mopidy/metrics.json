@@ -1,0 +1,28 @@
+{
+  "name": "mopidy",
+  "version": "3.4.2-1",
+  "depends": [
+    "python",
+    "python-pykka",
+    "python-requests",
+    "gstreamer",
+    "python-setuptools",
+    "gst-python",
+    "gst-plugins-good",
+    "gst-plugins-ugly",
+    "python-tornado",
+    "gst-plugins-base",
+    "python-dbus"
+  ],
+  "makedepends": [
+    "python-sphinx",
+    "python-sphinx_rtd_theme",
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199726262,
+  "transmit": 409063,
+  "disk": 2401250
+}
