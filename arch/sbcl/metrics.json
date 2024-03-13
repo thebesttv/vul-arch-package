@@ -1,0 +1,13 @@
+{
+  "name": "sbcl",
+  "version": "2.4.1-1",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [
+    "sbcl"
+  ],
+  "receive": 207550413,
+  "transmit": 347399,
+  "disk": 53300764
+}
