@@ -1,0 +1,16 @@
+{
+  "name": "python-hjson",
+  "version": "3.1.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199799732,
+  "transmit": 459879,
+  "disk": 329697
+}
