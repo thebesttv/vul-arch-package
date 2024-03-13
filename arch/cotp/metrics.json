@@ -1,0 +1,12 @@
+{
+  "name": "cotp",
+  "version": "1.5.0-1",
+  "depends": [],
+  "makedepends": [
+    "cargo",
+    "python"
+  ],
+  "receive": 199567697,
+  "transmit": 295324,
+  "disk": 532045
+}
