@@ -1,0 +1,37 @@
+{
+  "name": "qmk",
+  "version": "1.1.5-1",
+  "depends": [
+    "python-appdirs",
+    "python-argcomplete",
+    "python-colorama",
+    "python-milc",
+    "python-dotty-dict",
+    "python-jsonschema",
+    "git",
+    "avr-gcc",
+    "arm-none-eabi-gcc",
+    "avr-libc",
+    "arm-none-eabi-binutils",
+    "arm-none-eabi-newlib",
+    "avr-binutils",
+    "dfu-programmer",
+    "dfu-util",
+    "avrdude",
+    "python-hjson",
+    "python-pygments",
+    "python-hid",
+    "python-pyusb",
+    "python-pyserial",
+    "python-pillow"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199738655,
+  "transmit": 438155,
+  "disk": 216393
+}
