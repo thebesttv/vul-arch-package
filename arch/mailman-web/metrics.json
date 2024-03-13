@@ -1,0 +1,21 @@
+{
+  "name": "mailman-web",
+  "version": "0.0.9-1",
+  "depends": [
+    "hyperkitty",
+    "postorius",
+    "python",
+    "python-django",
+    "python-whoosh"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-pdm-backend",
+    "python-wheel"
+  ],
+  "receive": 199742501,
+  "transmit": 410329,
+  "disk": 648172
+}
