@@ -1,0 +1,23 @@
+{
+  "name": "awxkit",
+  "version": "24.0.0-1",
+  "depends": [
+    "python",
+    "python-pytest",
+    "python-pyyaml",
+    "python-requests",
+    "python-setuptools",
+    "python-websocket-client"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 607165527,
+  "transmit": 5879310,
+  "disk": 526151532
+}
