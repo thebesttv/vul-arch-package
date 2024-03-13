@@ -1,0 +1,32 @@
+{
+  "name": "mkvtoolnix",
+  "version": "83.0-1",
+  "depends": [
+    "boost-libs",
+    "gcc-libs",
+    "glibc",
+    "libebml.so",
+    "libfmt.so",
+    "libmatroska.so",
+    "pugixml",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "boost",
+    "cmark",
+    "docbook-xsl",
+    "flac",
+    "git",
+    "libdvdread",
+    "libvorbis",
+    "po4a",
+    "qt6-multimedia",
+    "qt6-svg",
+    "qt6-tools",
+    "ruby-rake",
+    "zlib"
+  ],
+  "receive": 546560963,
+  "transmit": 523414,
+  "disk": 396417600
+}
