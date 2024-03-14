@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-utils",
+  "version": "550.54.14-5",
+  "depends": [],
+  "makedepends": [
+    "patchelf"
+  ],
+  "receive": 255135828,
+  "transmit": 604802,
+  "disk": 307231212
+}
