@@ -1,0 +1,22 @@
+{
+  "name": "python-ansible-compat",
+  "version": "4.1.12-1",
+  "depends": [
+    "ansible-core",
+    "python",
+    "python-jsonschema",
+    "python-packaging",
+    "python-pyyaml",
+    "python-subprocess-tee"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199634663,
+  "transmit": 353651,
+  "disk": 546588
+}
