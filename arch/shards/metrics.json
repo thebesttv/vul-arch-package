@@ -1,0 +1,17 @@
+{
+  "name": "shards",
+  "version": "0.17.4-1",
+  "depends": [
+    "libyaml",
+    "git",
+    "libevent",
+    "gc",
+    "pcre2"
+  ],
+  "makedepends": [
+    "crystal"
+  ],
+  "receive": 199623469,
+  "transmit": 343276,
+  "disk": 621167
+}
