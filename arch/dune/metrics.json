@@ -1,0 +1,17 @@
+{
+  "name": "dune",
+  "version": "3.14.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "ocaml",
+    "ocaml-compiler-libs",
+    "ocaml-csexp",
+    "ocaml-pp",
+    "ocaml-findlib"
+  ],
+  "receive": 200012802,
+  "transmit": 470497,
+  "disk": 20300564
+}
