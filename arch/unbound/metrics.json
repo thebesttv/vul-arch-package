@@ -1,0 +1,25 @@
+{
+  "name": "unbound",
+  "version": "1.19.3-1",
+  "depends": [
+    "dnssec-anchors",
+    "fstrm",
+    "glibc",
+    "hiredis",
+    "ldns",
+    "libnghttp2",
+    "libsodium"
+  ],
+  "makedepends": [
+    "expat",
+    "libevent",
+    "openssl",
+    "protobuf-c",
+    "python",
+    "swig",
+    "systemd"
+  ],
+  "receive": 206115683,
+  "transmit": 319061,
+  "disk": 30209599
+}
