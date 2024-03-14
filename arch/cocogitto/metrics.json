@@ -1,0 +1,16 @@
+{
+  "name": "cocogitto",
+  "version": "6.1.0-1",
+  "depends": [
+    "git",
+    "gcc-libs",
+    "libgit2.so",
+    "zlib"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199494035,
+  "transmit": 253480,
+  "disk": 5322666
+}
