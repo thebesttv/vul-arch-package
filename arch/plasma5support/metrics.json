@@ -1,0 +1,21 @@
+{
+  "name": "plasma5support",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-tools"
+  ],
+  "receive": 199551489,
+  "transmit": 245663,
+  "disk": 669099
+}
