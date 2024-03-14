@@ -1,0 +1,12 @@
+{
+  "name": "lib32-pcre2",
+  "version": "10.43-1",
+  "depends": [
+    "lib32-glibc",
+    "pcre2=10.43"
+  ],
+  "makedepends": [],
+  "receive": 199654831,
+  "transmit": 323447,
+  "disk": 14026477
+}
