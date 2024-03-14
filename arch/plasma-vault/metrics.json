@@ -1,0 +1,30 @@
+{
+  "name": "plasma-vault",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "plasma-activities",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "kitemmodels",
+    "kservice",
+    "kwidgetsaddons",
+    "libksysguard",
+    "networkmanager-qt",
+    "libplasma",
+    "plasma-workspace",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199896085,
+  "transmit": 463799,
+  "disk": 2467494
+}
