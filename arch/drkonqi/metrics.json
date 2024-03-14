@@ -1,0 +1,39 @@
+{
+  "name": "drkonqi",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "gdb",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kidletime",
+    "kio",
+    "kirigami",
+    "kitemmodels",
+    "knotifications",
+    "kservice",
+    "kstatusnotifieritem",
+    "kwallet",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "polkit-qt6",
+    "python",
+    "python-psutil",
+    "python-pygdbmi",
+    "python-sentry_sdk",
+    "qt6-base",
+    "qt6-declarative",
+    "syntax-highlighting",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199648954,
+  "transmit": 407092,
+  "disk": 10861410
+}
