@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "5.4.2-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "rsync"
+  ],
+  "receive": 4213586181,
+  "transmit": 2151929,
+  "disk": 4293596383
+}
