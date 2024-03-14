@@ -1,0 +1,22 @@
+{
+  "name": "kgamma",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "libx11",
+    "libxxf86vm",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199634343,
+  "transmit": 318377,
+  "disk": 1207618
+}
