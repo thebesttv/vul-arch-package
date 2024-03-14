@@ -1,0 +1,12 @@
+{
+  "name": "ocean-sound-theme",
+  "version": "6.0.2-3",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt6-base"
+  ],
+  "receive": 199589315,
+  "transmit": 278279,
+  "disk": 2757186
+}
