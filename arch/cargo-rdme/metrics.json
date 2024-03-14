@@ -1,0 +1,11 @@
+{
+  "name": "cargo-rdme",
+  "version": "1.4.3-1",
+  "depends": [
+    "cargo"
+  ],
+  "makedepends": [],
+  "receive": 199598095,
+  "transmit": 347242,
+  "disk": 943213
+}
