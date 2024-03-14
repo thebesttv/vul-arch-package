@@ -1,0 +1,32 @@
+{
+  "name": "plasma-systemmonitor",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kglobalaccel",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "kirigami",
+    "kirigami-addons",
+    "kitemmodels",
+    "knewstuff",
+    "kquickcharts",
+    "kservice",
+    "ksystemstats",
+    "kwindowsystem",
+    "libksysguard",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199716161,
+  "transmit": 369789,
+  "disk": 2363219
+}
