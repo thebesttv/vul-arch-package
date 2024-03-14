@@ -1,0 +1,37 @@
+{
+  "name": "wacomtablet",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kglobalaccel",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "knotifications",
+    "kservice",
+    "ksvg",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "libwacom",
+    "libxcb",
+    "libxi",
+    "libplasma",
+    "plasma5support",
+    "qt6-base",
+    "qt6-declarative",
+    "xf86-input-wacom"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199538266,
+  "transmit": 230032,
+  "disk": 6188656
+}
