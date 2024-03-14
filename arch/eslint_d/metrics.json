@@ -1,0 +1,13 @@
+{
+  "name": "eslint_d",
+  "version": "13.1.2-1",
+  "depends": [
+    "nodejs"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199629447,
+  "transmit": 375688,
+  "disk": 98621
+}
