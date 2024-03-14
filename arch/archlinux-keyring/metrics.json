@@ -1,0 +1,17 @@
+{
+  "name": "archlinux-keyring",
+  "version": "20240313-1",
+  "depends": [
+    "pacman"
+  ],
+  "makedepends": [
+    "git",
+    "python",
+    "sequoia-sq",
+    "pkgconf",
+    "systemd"
+  ],
+  "receive": 219465114,
+  "transmit": 402371,
+  "disk": 32803037
+}
