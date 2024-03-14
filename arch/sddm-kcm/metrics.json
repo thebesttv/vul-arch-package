@@ -1,0 +1,30 @@
+{
+  "name": "sddm-kcm",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kauth",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "knewstuff",
+    "kservice",
+    "kwidgetsaddons",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative",
+    "sddm"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199698208,
+  "transmit": 397132,
+  "disk": 1262151
+}
