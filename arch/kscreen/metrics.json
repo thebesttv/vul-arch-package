@@ -1,0 +1,33 @@
+{
+  "name": "kscreen",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kdeclarative",
+    "ki18n",
+    "kirigami",
+    "ksvg",
+    "kwindowsystem",
+    "layer-shell-qt",
+    "libkscreen",
+    "libx11",
+    "libxcb",
+    "libxi",
+    "libplasma",
+    "plasma5support",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-sensors"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199520486,
+  "transmit": 230115,
+  "disk": 2368356
+}
