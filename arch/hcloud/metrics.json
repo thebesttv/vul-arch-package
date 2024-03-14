@@ -1,0 +1,13 @@
+{
+  "name": "hcloud",
+  "version": "1.42.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go-pie"
+  ],
+  "receive": 199578038,
+  "transmit": 280179,
+  "disk": 1489259
+}
