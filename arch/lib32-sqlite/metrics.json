@@ -1,0 +1,13 @@
+{
+  "name": "lib32-sqlite",
+  "version": "3.45.2-1",
+  "depends": [],
+  "makedepends": [
+    "tcl",
+    "lib32-readline",
+    "sqlite"
+  ],
+  "receive": 199582410,
+  "transmit": 279705,
+  "disk": 124973879
+}
