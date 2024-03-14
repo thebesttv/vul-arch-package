@@ -1,0 +1,23 @@
+{
+  "name": "python-aioquic",
+  "version": "1.0.0-1",
+  "depends": [
+    "glibc",
+    "openssl",
+    "python",
+    "python-certifi",
+    "python-cryptography",
+    "python-pylsqpack",
+    "python-pyopenssl",
+    "python-service-identity"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199631803,
+  "transmit": 385686,
+  "disk": 1313219
+}
