@@ -1,0 +1,14 @@
+{
+  "name": "lib32-expat",
+  "version": "2.6.2-1",
+  "depends": [
+    "expat=2.6.2",
+    "lib32-glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199813371,
+  "transmit": 421902,
+  "disk": 4355794
+}
