@@ -1,0 +1,12 @@
+{
+  "name": "linux-firmware",
+  "version": "20240312.3b128b60-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "rdfind"
+  ],
+  "receive": 1147953385,
+  "transmit": 833714,
+  "disk": 2115141188
+}
