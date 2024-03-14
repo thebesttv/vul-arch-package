@@ -1,0 +1,22 @@
+{
+  "name": "plasma-activities",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "boost",
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199521203,
+  "transmit": 243484,
+  "disk": 648964
+}
