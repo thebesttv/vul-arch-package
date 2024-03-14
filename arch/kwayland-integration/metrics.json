@@ -1,0 +1,21 @@
+{
+  "name": "kwayland-integration",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kwayland5",
+    "kwindowsystem5",
+    "qt5-base",
+    "qt5-wayland",
+    "wayland"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "plasma-wayland-protocols",
+    "wayland-protocols"
+  ],
+  "receive": 199678219,
+  "transmit": 365652,
+  "disk": 445566
+}
