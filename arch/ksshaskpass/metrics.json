@@ -1,0 +1,20 @@
+{
+  "name": "ksshaskpass",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kwallet",
+    "kwidgetsaddons",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199750543,
+  "transmit": 309947,
+  "disk": 703966
+}
