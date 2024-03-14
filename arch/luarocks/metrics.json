@@ -1,0 +1,15 @@
+{
+  "name": "luarocks",
+  "version": "3.11.0-1",
+  "depends": [
+    "coreutils",
+    "curl",
+    "lua",
+    "unzip",
+    "zip"
+  ],
+  "makedepends": [],
+  "receive": 199691776,
+  "transmit": 421820,
+  "disk": 1868656
+}
