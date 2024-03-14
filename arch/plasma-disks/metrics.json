@@ -1,0 +1,29 @@
+{
+  "name": "plasma-disks",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kauth",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kinfocenter",
+    "kio",
+    "kirigami",
+    "knotifications",
+    "kservice",
+    "qt6-base",
+    "qt6-declarative",
+    "smartmontools",
+    "solid"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199733541,
+  "transmit": 407552,
+  "disk": 1084568
+}
