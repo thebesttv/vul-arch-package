@@ -1,0 +1,30 @@
+{
+  "name": "kde-cli-tools",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kcompletion",
+    "kconfig",
+    "kcoreaddons",
+    "kdesu",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "kparts",
+    "kservice",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "qt6-base",
+    "qt6-svg",
+    "sh"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199675332,
+  "transmit": 230546,
+  "disk": 7167511
+}
