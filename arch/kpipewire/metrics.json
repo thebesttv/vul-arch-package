@@ -1,0 +1,25 @@
+{
+  "name": "kpipewire",
+  "version": "6.0.2-3",
+  "depends": [
+    "ffmpeg",
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "libdrm",
+    "libepoxy",
+    "libpipewire",
+    "libva",
+    "mesa",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "plasma-wayland-protocols"
+  ],
+  "receive": 199733888,
+  "transmit": 412731,
+  "disk": 982992
+}
