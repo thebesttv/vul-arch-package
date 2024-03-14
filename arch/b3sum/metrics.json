@@ -1,0 +1,14 @@
+{
+  "name": "b3sum",
+  "version": "1.5.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "rust"
+  ],
+  "receive": 199566307,
+  "transmit": 302956,
+  "disk": 4592291
+}
