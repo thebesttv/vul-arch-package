@@ -1,0 +1,22 @@
+{
+  "name": "kwayland",
+  "version": "6.0.2-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-wayland",
+    "wayland"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "plasma-wayland-protocols",
+    "qt6-doc",
+    "qt6-tools",
+    "wayland-protocols"
+  ],
+  "receive": 199639936,
+  "transmit": 385212,
+  "disk": 1518934
+}
