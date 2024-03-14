@@ -1,0 +1,12 @@
+{
+  "name": "dark-reader",
+  "version": "4.9.80-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "npm"
+  ],
+  "receive": 308006740,
+  "transmit": 662061,
+  "disk": 114776561
+}
