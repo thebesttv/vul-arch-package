@@ -1,0 +1,15 @@
+{
+  "name": "ipp-usb",
+  "version": "0.9.25-1",
+  "depends": [
+    "avahi",
+    "libusb",
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199629211,
+  "transmit": 348085,
+  "disk": 507436
+}
