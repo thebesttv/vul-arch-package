@@ -1,0 +1,17 @@
+{
+  "name": "gotosocial",
+  "version": "0.14.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "yarn",
+    "nodejs",
+    "go-swagger"
+  ],
+  "receive": 427079245,
+  "transmit": 480553,
+  "disk": 486251230
+}
