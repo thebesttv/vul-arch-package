@@ -1,0 +1,31 @@
+{
+  "name": "freeradius",
+  "version": "3.2.3-6",
+  "depends": [
+    "krb5",
+    "net-snmp",
+    "postgresql-libs",
+    "mariadb-libs",
+    "talloc",
+    "libpcap",
+    "libxcrypt",
+    "libcrypt.so",
+    "smbclient"
+  ],
+  "makedepends": [
+    "curl",
+    "freetds",
+    "hiredis",
+    "json-c",
+    "libmemcached",
+    "perl",
+    "python",
+    "samba",
+    "sqlite",
+    "unixodbc",
+    "yubico-c-client"
+  ],
+  "receive": 204667490,
+  "transmit": 1206631,
+  "disk": 25978369
+}
