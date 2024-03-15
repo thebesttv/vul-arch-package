@@ -1,0 +1,19 @@
+{
+  "name": "pacredir",
+  "version": "0.4.7-2",
+  "depends": [
+    "systemd-libs",
+    "avahi",
+    "curl",
+    "iniparser",
+    "darkhttpd",
+    "libmicrohttpd"
+  ],
+  "makedepends": [
+    "systemd",
+    "discount"
+  ],
+  "receive": 200077068,
+  "transmit": 624131,
+  "disk": 334463
+}
