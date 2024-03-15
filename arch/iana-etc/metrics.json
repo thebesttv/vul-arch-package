@@ -1,0 +1,9 @@
+{
+  "name": "iana-etc",
+  "version": "20240222-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 203368832,
+  "transmit": 358855,
+  "disk": 4030277
+}
