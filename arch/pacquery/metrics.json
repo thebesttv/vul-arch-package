@@ -1,0 +1,15 @@
+{
+  "name": "pacquery",
+  "version": "0.0.2-1",
+  "depends": [
+    "glibc",
+    "libalpm.so"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 199515316,
+  "transmit": 233925,
+  "disk": 349709
+}
