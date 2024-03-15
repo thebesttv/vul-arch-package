@@ -1,0 +1,19 @@
+{
+  "name": "skopeo",
+  "version": "1.15.0-1",
+  "depends": [
+    "gpgme",
+    "device-mapper",
+    "containers-common"
+  ],
+  "makedepends": [
+    "go",
+    "go-md2man",
+    "btrfs-progs",
+    "git",
+    "systemd"
+  ],
+  "receive": 271586271,
+  "transmit": 407742,
+  "disk": 121665031
+}
