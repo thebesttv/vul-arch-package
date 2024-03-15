@@ -1,0 +1,13 @@
+{
+  "name": "paccat",
+  "version": "1.2.0-1",
+  "depends": [
+    "libalpm.so"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199605662,
+  "transmit": 318507,
+  "disk": 214059
+}
