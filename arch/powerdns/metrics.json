@@ -1,0 +1,31 @@
+{
+  "name": "powerdns",
+  "version": "4.9.0-1",
+  "depends": [
+    "boost-libs",
+    "gnutls",
+    "libcurl.so",
+    "libsodium",
+    "lmdb",
+    "luajit",
+    "openssl",
+    "sqlite",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "boost",
+    "geoip",
+    "libldap",
+    "mariadb-libs",
+    "curl",
+    "libmaxminddb",
+    "postgresql-libs",
+    "systemd",
+    "tinycdb",
+    "unixodbc",
+    "yaml-cpp"
+  ],
+  "receive": 199776176,
+  "transmit": 381839,
+  "disk": 9633222
+}
