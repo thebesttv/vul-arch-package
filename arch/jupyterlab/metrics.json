@@ -1,0 +1,26 @@
+{
+  "name": "jupyterlab",
+  "version": "4.1.5-1",
+  "depends": [
+    "jupyter-notebook-shim",
+    "jupyter-server",
+    "python",
+    "python-async-lru",
+    "python-httpx",
+    "python-importlib-metadata",
+    "python-ipykernel",
+    "python-jupyter-core",
+    "python-jupyterlab-server",
+    "python-packaging",
+    "python-tornado",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-jupyter-builder",
+    "python-installer"
+  ],
+  "receive": 199506867,
+  "transmit": 253216,
+  "disk": 60076251
+}
