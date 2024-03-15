@@ -1,0 +1,15 @@
+{
+  "name": "pacutils",
+  "version": "0.11.1-2",
+  "depends": [
+    "glibc",
+    "libarchive",
+    "pacman"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199586561,
+  "transmit": 320014,
+  "disk": 1835131
+}
