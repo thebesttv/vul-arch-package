@@ -1,0 +1,25 @@
+{
+  "name": "pacman",
+  "version": "6.1.0-3",
+  "depends": [
+    "bash",
+    "glibc",
+    "libarchive",
+    "curl",
+    "gpgme",
+    "pacman-mirrorlist",
+    "gettext",
+    "gawk",
+    "coreutils",
+    "gnupg",
+    "grep"
+  ],
+  "makedepends": [
+    "meson",
+    "asciidoc",
+    "doxygen"
+  ],
+  "receive": 200781318,
+  "transmit": 396875,
+  "disk": 9507668
+}
