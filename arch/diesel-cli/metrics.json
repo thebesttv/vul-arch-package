@@ -1,0 +1,17 @@
+{
+  "name": "diesel-cli",
+  "version": "2.1.5-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libmariadb.so",
+    "libpq.so",
+    "libsqlite3.so"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199588542,
+  "transmit": 349623,
+  "disk": 7383937
+}
