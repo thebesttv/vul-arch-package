@@ -1,0 +1,13 @@
+{
+  "name": "kakoune-lsp",
+  "version": "16.0.0-1",
+  "depends": [
+    "kakoune"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199687444,
+  "transmit": 397742,
+  "disk": 962297
+}
