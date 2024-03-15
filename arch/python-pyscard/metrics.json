@@ -1,0 +1,15 @@
+{
+  "name": "python-pyscard",
+  "version": "2.0.8-1",
+  "depends": [
+    "python",
+    "pcsclite"
+  ],
+  "makedepends": [
+    "swig",
+    "python-setuptools"
+  ],
+  "receive": 199757096,
+  "transmit": 304588,
+  "disk": 1207035
+}

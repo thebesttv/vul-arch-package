@@ -1,0 +1,12 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.13 s (1155.3 files/s 158569.7 lines/s)"
+130,Python,3081,4011,7640
+3,SWIG,360,276,2345
+2,C,242,224,1627
+5,C/C++ Header,105,112,443
+7,Text,24,0,255
+2,Markdown,61,0,139
+1,make,7,3,27
+1,Windows Resource File,3,0,7
+1,Windows Module Definition,1,0,4
+1,TOML,0,0,3
+153,SUM,3884,4626,12490
