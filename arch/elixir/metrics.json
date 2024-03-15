@@ -1,0 +1,11 @@
+{
+  "name": "elixir",
+  "version": "1.16.2-1",
+  "depends": [
+    "erlang-nox"
+  ],
+  "makedepends": [],
+  "receive": 199661964,
+  "transmit": 330654,
+  "disk": 16827186
+}
