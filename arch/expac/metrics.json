@@ -1,0 +1,15 @@
+{
+  "name": "expac",
+  "version": "10-9",
+  "depends": [
+    "pacman"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "perl"
+  ],
+  "receive": 199533837,
+  "transmit": 278938,
+  "disk": 519273
+}
