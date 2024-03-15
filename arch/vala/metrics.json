@@ -1,0 +1,24 @@
+{
+  "name": "vala",
+  "version": "0.56.16-1",
+  "depends": [
+    "bash",
+    "gcc",
+    "glib2",
+    "glibc",
+    "graphviz",
+    "gtk-doc",
+    "pkg-config",
+    "ttf-font"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "git",
+    "help2man",
+    "libxslt",
+    "vala"
+  ],
+  "receive": 240752689,
+  "transmit": 413354,
+  "disk": 71778411
+}
