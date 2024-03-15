@@ -1,0 +1,13 @@
+{
+  "name": "run-parts",
+  "version": "5.17-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "po4a"
+  ],
+  "receive": 199667574,
+  "transmit": 357611,
+  "disk": 745407
+}
