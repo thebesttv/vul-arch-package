@@ -1,0 +1,12 @@
+{
+  "name": "kicad-library",
+  "version": "8.0.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 2272731223,
+  "transmit": 1455968,
+  "disk": 8342185375
+}
