@@ -1,0 +1,30 @@
+{
+  "name": "kitty",
+  "version": "0.33.0-1",
+  "depends": [
+    "python3",
+    "freetype2",
+    "fontconfig",
+    "wayland",
+    "libx11",
+    "libxkbcommon-x11",
+    "libxcursor",
+    "libxi",
+    "hicolor-icon-theme",
+    "libgl",
+    "dbus",
+    "lcms2",
+    "librsync",
+    "xxhash"
+  ],
+  "makedepends": [
+    "libxinerama",
+    "libxrandr",
+    "wayland-protocols",
+    "go",
+    "simde"
+  ],
+  "receive": 199708692,
+  "transmit": 377617,
+  "disk": 52697752
+}
