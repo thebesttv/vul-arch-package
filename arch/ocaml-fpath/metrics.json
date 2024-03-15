@@ -1,0 +1,17 @@
+{
+  "name": "ocaml-fpath",
+  "version": "0.7.3-4",
+  "depends": [
+    "ocaml",
+    "ocaml-astring"
+  ],
+  "makedepends": [
+    "ocaml-findlib",
+    "ocamlbuild",
+    "ocaml-topkg",
+    "opam"
+  ],
+  "receive": 199553783,
+  "transmit": 286240,
+  "disk": 271603
+}
