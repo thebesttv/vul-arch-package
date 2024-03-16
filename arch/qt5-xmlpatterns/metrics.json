@@ -1,0 +1,14 @@
+{
+  "name": "qt5-xmlpatterns",
+  "version": "5.15.13-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "git"
+  ],
+  "receive": 199764437,
+  "transmit": 406288,
+  "disk": 25264426
+}
