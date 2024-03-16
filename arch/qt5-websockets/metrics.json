@@ -1,0 +1,14 @@
+{
+  "name": "qt5-websockets",
+  "version": "5.15.13+kde+r2-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "git"
+  ],
+  "receive": 199603151,
+  "transmit": 334941,
+  "disk": 6282796
+}
