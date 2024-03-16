@@ -1,0 +1,15 @@
+{
+  "name": "qt5-wayland",
+  "version": "5.15.13+kde+r60-1",
+  "depends": [
+    "qt5-declarative",
+    "libxcomposite"
+  ],
+  "makedepends": [
+    "vulkan-headers",
+    "git"
+  ],
+  "receive": 199566855,
+  "transmit": 287897,
+  "disk": 16554850
+}
