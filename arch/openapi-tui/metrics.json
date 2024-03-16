@@ -1,0 +1,13 @@
+{
+  "name": "openapi-tui",
+  "version": "0.5.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199700984,
+  "transmit": 402297,
+  "disk": 13445747
+}
