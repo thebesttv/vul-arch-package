@@ -1,0 +1,36 @@
+{
+  "name": "syslog-ng",
+  "version": "4.4.0-7",
+  "depends": [
+    "awk",
+    "bash",
+    "curl",
+    "glib2",
+    "glibc",
+    "grpc",
+    "json-c",
+    "libcap",
+    "libnet",
+    "libnsl",
+    "openssl",
+    "pcre2",
+    "protobuf",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "libxslt",
+    "mongo-c-driver",
+    "librabbitmq-c",
+    "python",
+    "libesmtp",
+    "hiredis",
+    "libdbi",
+    "libmaxminddb",
+    "net-snmp",
+    "librdkafka",
+    "systemd"
+  ],
+  "receive": 199813547,
+  "transmit": 266033,
+  "disk": 43451154
+}
