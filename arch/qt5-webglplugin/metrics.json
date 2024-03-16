@@ -1,0 +1,14 @@
+{
+  "name": "qt5-webglplugin",
+  "version": "5.15.13-1",
+  "depends": [
+    "qt5-websockets",
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199605730,
+  "transmit": 331118,
+  "disk": 975639
+}
