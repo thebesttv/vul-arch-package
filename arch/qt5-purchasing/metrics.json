@@ -1,0 +1,14 @@
+{
+  "name": "qt5-purchasing",
+  "version": "5.15.13-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "git"
+  ],
+  "receive": 199655783,
+  "transmit": 409147,
+  "disk": 2286443
+}
