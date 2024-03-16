@@ -1,0 +1,13 @@
+{
+  "name": "qt5-mqtt",
+  "version": "5.15.2-13",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199534351,
+  "transmit": 264439,
+  "disk": 2791594
+}
