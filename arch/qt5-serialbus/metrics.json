@@ -1,0 +1,13 @@
+{
+  "name": "qt5-serialbus",
+  "version": "5.15.13-1",
+  "depends": [
+    "qt5-serialport"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199900573,
+  "transmit": 247710,
+  "disk": 7640211
+}
