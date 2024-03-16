@@ -1,0 +1,19 @@
+{
+  "name": "kubernetes",
+  "version": "1.29.3-1",
+  "depends": [],
+  "makedepends": [
+    "cni-plugins",
+    "conntrack-tools",
+    "ethtool",
+    "git",
+    "go",
+    "go-md2man",
+    "iptables-nft",
+    "socat",
+    "rsync"
+  ],
+  "receive": 242493844,
+  "transmit": 999053,
+  "disk": 339771859
+}
