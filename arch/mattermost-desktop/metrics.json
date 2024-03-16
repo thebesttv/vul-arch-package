@@ -1,0 +1,19 @@
+{
+  "name": "mattermost-desktop",
+  "version": "5.7.0-1",
+  "depends": [
+    "electron27",
+    "libxcrypt-compat"
+  ],
+  "makedepends": [
+    "git",
+    "jq",
+    "moreutils",
+    "nodejs-lts-iron",
+    "node-gyp",
+    "npm"
+  ],
+  "receive": 199593842,
+  "transmit": 335948,
+  "disk": 15369046
+}
