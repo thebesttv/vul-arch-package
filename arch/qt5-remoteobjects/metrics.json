@@ -1,0 +1,14 @@
+{
+  "name": "qt5-remoteobjects",
+  "version": "5.15.13-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "git"
+  ],
+  "receive": 199557884,
+  "transmit": 324260,
+  "disk": 7402578
+}
