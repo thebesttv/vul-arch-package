@@ -1,0 +1,18 @@
+{
+  "name": "qt5-tools",
+  "version": "5.15.13+kde+r4-1",
+  "depends": [
+    "qt5-base",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "vulkan-headers",
+    "llvm",
+    "clang",
+    "git"
+  ],
+  "receive": 200427089,
+  "transmit": 388412,
+  "disk": 88047908
+}
