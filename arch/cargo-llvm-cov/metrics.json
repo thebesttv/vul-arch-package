@@ -1,0 +1,12 @@
+{
+  "name": "cargo-llvm-cov",
+  "version": "0.6.8-1",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199666427,
+  "transmit": 271934,
+  "disk": 1184211
+}
