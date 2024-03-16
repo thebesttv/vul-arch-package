@@ -1,0 +1,17 @@
+{
+  "name": "libqtxdg",
+  "version": "3.12.0-3",
+  "depends": [
+    "libsm",
+    "libxkbcommon-x11",
+    "qt5-base",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "lxqt-build-tools"
+  ],
+  "receive": 199506265,
+  "transmit": 244592,
+  "disk": 670681
+}
