@@ -1,0 +1,13 @@
+{
+  "name": "qt5-script",
+  "version": "5.15.16-4",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199860150,
+  "transmit": 457495,
+  "disk": 38658053
+}
