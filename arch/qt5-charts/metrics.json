@@ -1,0 +1,14 @@
+{
+  "name": "qt5-charts",
+  "version": "5.15.13-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "git"
+  ],
+  "receive": 222006209,
+  "transmit": 580431,
+  "disk": 33965741
+}
