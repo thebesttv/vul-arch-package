@@ -1,0 +1,16 @@
+{
+  "name": "cargo-tauri",
+  "version": "1.5.11-1",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "openssl",
+    "bzip2",
+    "libcroco",
+    "libffi"
+  ],
+  "makedepends": [],
+  "receive": 199523812,
+  "transmit": 288535,
+  "disk": 29830672
+}
