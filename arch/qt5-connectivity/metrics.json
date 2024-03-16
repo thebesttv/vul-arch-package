@@ -1,0 +1,15 @@
+{
+  "name": "qt5-connectivity",
+  "version": "5.15.13+kde+r4-1",
+  "depends": [
+    "qt5-base",
+    "bluez-libs"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "git"
+  ],
+  "receive": 199912779,
+  "transmit": 451490,
+  "disk": 24524467
+}
