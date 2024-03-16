@@ -1,0 +1,11 @@
+{
+  "name": "deepin-menu",
+  "version": "5.0.1-15",
+  "depends": [
+    "deepin-qt5integration"
+  ],
+  "makedepends": [],
+  "receive": 199720642,
+  "transmit": 426905,
+  "disk": 350264
+}
