@@ -1,0 +1,32 @@
+{
+  "name": "sane",
+  "version": "1.3.0-2",
+  "depends": [
+    "bash",
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libpng",
+    "libieee1284",
+    "net-snmp",
+    "v4l-utils"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "avahi",
+    "curl",
+    "glib2",
+    "libgphoto2",
+    "libjpeg-turbo",
+    "libtiff",
+    "libusb",
+    "libxml2",
+    "poppler-glib",
+    "python",
+    "systemd",
+    "texlive-latexextra"
+  ],
+  "receive": 199591398,
+  "transmit": 358694,
+  "disk": 37898665
+}
