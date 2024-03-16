@@ -1,0 +1,14 @@
+{
+  "name": "qt5-quick3d",
+  "version": "5.15.13+kde+r1-1",
+  "depends": [
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "git",
+    "assimp"
+  ],
+  "receive": 296116412,
+  "transmit": 1456442,
+  "disk": 127060659
+}
