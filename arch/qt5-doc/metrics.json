@@ -1,0 +1,23 @@
+{
+  "name": "qt5-doc",
+  "version": "5.15.13-1",
+  "depends": [],
+  "makedepends": [
+    "qt5-tools",
+    "python",
+    "pciutils",
+    "libxtst",
+    "libxcursor",
+    "libxrandr",
+    "libxss",
+    "libxcomposite",
+    "libxkbfile",
+    "gperf",
+    "nss",
+    "clang",
+    "nodejs"
+  ],
+  "receive": 865389289,
+  "transmit": 3189623,
+  "disk": 4051102269
+}
