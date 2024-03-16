@@ -1,0 +1,15 @@
+{
+  "name": "qt5-speech",
+  "version": "5.15.13+kde+r1-1",
+  "depends": [
+    "qt5-multimedia"
+  ],
+  "makedepends": [
+    "git",
+    "flite",
+    "speech-dispatcher"
+  ],
+  "receive": 199629510,
+  "transmit": 350408,
+  "disk": 2353236
+}
