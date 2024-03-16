@@ -1,0 +1,14 @@
+{
+  "name": "miniserve",
+  "version": "0.27.1-1",
+  "depends": [
+    "gcc-libs",
+    "bzip2"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199532097,
+  "transmit": 244667,
+  "disk": 733006
+}
