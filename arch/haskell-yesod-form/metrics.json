@@ -1,0 +1,30 @@
+{
+  "name": "haskell-yesod-form",
+  "version": "1.7.6-73",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-blaze-builder",
+    "haskell-blaze-html",
+    "haskell-blaze-markup",
+    "haskell-byteable",
+    "haskell-data-default",
+    "haskell-email-validate",
+    "haskell-network-uri",
+    "haskell-persistent",
+    "haskell-resourcet",
+    "haskell-shakespeare",
+    "haskell-wai",
+    "haskell-xss-sanitize",
+    "haskell-yesod-core",
+    "haskell-yesod-persistent"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199642616,
+  "transmit": 299815,
+  "disk": 1425889
+}
