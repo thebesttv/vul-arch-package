@@ -1,0 +1,13 @@
+{
+  "name": "qt5-svg",
+  "version": "5.15.13+kde+r6-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199694384,
+  "transmit": 385047,
+  "disk": 20451583
+}
