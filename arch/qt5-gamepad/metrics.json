@@ -1,0 +1,15 @@
+{
+  "name": "qt5-gamepad",
+  "version": "5.15.13-1",
+  "depends": [
+    "qt5-base",
+    "sdl2"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "git"
+  ],
+  "receive": 199549949,
+  "transmit": 316813,
+  "disk": 2126651
+}
