@@ -1,0 +1,14 @@
+{
+  "name": "qt5-datavis3d",
+  "version": "5.15.13-1",
+  "depends": [
+    "qt5-base"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "git"
+  ],
+  "receive": 205718807,
+  "transmit": 371074,
+  "disk": 66627413
+}
