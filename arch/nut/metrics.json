@@ -1,0 +1,23 @@
+{
+  "name": "nut",
+  "version": "2.8.1-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libtool",
+    "libusb-compat",
+    "neon",
+    "net-snmp",
+    "openssl"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "gd",
+    "git",
+    "python",
+    "systemd"
+  ],
+  "receive": 290221479,
+  "transmit": 368370,
+  "disk": 103657550
+}
