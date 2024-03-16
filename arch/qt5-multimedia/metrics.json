@@ -1,0 +1,18 @@
+{
+  "name": "qt5-multimedia",
+  "version": "5.15.13+kde+r2-1",
+  "depends": [
+    "qt5-base",
+    "gst-plugins-base",
+    "libpulse",
+    "openal"
+  ],
+  "makedepends": [
+    "qt5-declarative",
+    "gst-plugins-bad",
+    "git"
+  ],
+  "receive": 223926149,
+  "transmit": 726745,
+  "disk": 68366609
+}
