@@ -1,0 +1,27 @@
+{
+  "name": "kid3",
+  "version": "3.9.5-3",
+  "depends": [
+    "chromaprint",
+    "flac",
+    "id3lib",
+    "kxmlgui",
+    "libmp4v2",
+    "qt6-declarative",
+    "qt6-multimedia",
+    "taglib",
+    "kio"
+  ],
+  "makedepends": [
+    "cmake",
+    "docbook-xsl",
+    "extra-cmake-modules",
+    "kdoctools",
+    "python",
+    "qt6-tools",
+    "clang"
+  ],
+  "receive": 202788659,
+  "transmit": 419373,
+  "disk": 18061306
+}
