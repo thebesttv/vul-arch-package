@@ -1,0 +1,16 @@
+{
+  "name": "qt5-imageformats",
+  "version": "5.15.13+kde+r7-1",
+  "depends": [
+    "qt5-base",
+    "jasper",
+    "libmng",
+    "libwebp"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199494910,
+  "transmit": 242222,
+  "disk": 17134137
+}
