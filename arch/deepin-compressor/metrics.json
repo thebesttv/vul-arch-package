@@ -1,0 +1,28 @@
+{
+  "name": "deepin-compressor",
+  "version": "5.12.23-3",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "glibc",
+    "gcc-libs",
+    "qt5-base",
+    "glib2",
+    "karchive5",
+    "kcodecs5",
+    "libarchive",
+    "libzip",
+    "minizip",
+    "util-linux-libs",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199687829,
+  "transmit": 419715,
+  "disk": 10517696
+}
