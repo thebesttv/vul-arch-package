@@ -1,0 +1,19 @@
+{
+  "name": "pangomm-2.48",
+  "version": "2.52.0-1",
+  "depends": [
+    "cairomm-1.16",
+    "glibmm-2.68",
+    "pango"
+  ],
+  "makedepends": [
+    "cairomm-1.16-docs",
+    "git",
+    "glibmm-2.68-docs",
+    "meson",
+    "mm-common"
+  ],
+  "receive": 199546208,
+  "transmit": 271427,
+  "disk": 3426424
+}
