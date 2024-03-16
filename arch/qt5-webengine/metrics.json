@@ -1,0 +1,36 @@
+{
+  "name": "qt5-webengine",
+  "version": "5.15.16-5",
+  "depends": [
+    "qt5-webchannel",
+    "qt5-location",
+    "libxcomposite",
+    "libxrandr",
+    "pciutils",
+    "libxss",
+    "libxkbfile",
+    "libevent",
+    "snappy",
+    "nss",
+    "libxslt",
+    "minizip",
+    "ffmpeg",
+    "libvpx",
+    "libxtst",
+    "ttf-font"
+  ],
+  "makedepends": [
+    "git",
+    "python",
+    "gperf",
+    "jsoncpp",
+    "ninja",
+    "qt5-tools",
+    "poppler",
+    "pipewire",
+    "nodejs"
+  ],
+  "receive": 3612783915,
+  "transmit": 3967462,
+  "disk": 4351309961
+}
