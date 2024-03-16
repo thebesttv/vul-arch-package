@@ -1,0 +1,18 @@
+{
+  "name": "dhall-bash",
+  "version": "1.0.40-256",
+  "depends": [
+    "ghc-libs",
+    "dhall",
+    "haskell-neat-interpolation",
+    "haskell-shell-escape",
+    "haskell-optparse-generic"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199721913,
+  "transmit": 458973,
+  "disk": 720692
+}
