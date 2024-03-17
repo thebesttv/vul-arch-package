@@ -1,0 +1,27 @@
+{
+  "name": "grub",
+  "version": "2:2.12-2",
+  "depends": [
+    "sh",
+    "xz",
+    "gettext",
+    "device-mapper"
+  ],
+  "makedepends": [
+    "git",
+    "rsync",
+    "xz",
+    "freetype2",
+    "ttf-dejavu",
+    "python",
+    "autogen",
+    "texinfo",
+    "help2man",
+    "gettext",
+    "device-mapper",
+    "fuse3"
+  ],
+  "receive": 353762411,
+  "transmit": 921326,
+  "disk": 240720302
+}
