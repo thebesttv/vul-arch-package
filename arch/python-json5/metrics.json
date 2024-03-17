@@ -1,0 +1,16 @@
+{
+  "name": "python-json5",
+  "version": "0.9.24-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199500528,
+  "transmit": 244563,
+  "disk": 3163530
+}
