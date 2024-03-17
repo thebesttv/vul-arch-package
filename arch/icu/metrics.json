@@ -1,0 +1,15 @@
+{
+  "name": "icu",
+  "version": "74.2-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 226323896,
+  "transmit": 325068,
+  "disk": 140508816
+}
