@@ -1,0 +1,13 @@
+{
+  "name": "gopass-hibp",
+  "version": "1.15.12-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199637839,
+  "transmit": 403260,
+  "disk": 251764
+}
