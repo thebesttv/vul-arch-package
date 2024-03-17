@@ -1,0 +1,13 @@
+{
+  "name": "fclones",
+  "version": "0.34.0-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199675361,
+  "transmit": 407622,
+  "disk": 746728
+}
