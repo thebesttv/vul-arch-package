@@ -1,0 +1,17 @@
+{
+  "name": "munge",
+  "version": "0.5.16-1",
+  "depends": [
+    "bzip2",
+    "gcc-libs",
+    "glibc",
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199491986,
+  "transmit": 246874,
+  "disk": 1762118
+}
