@@ -1,0 +1,27 @@
+{
+  "name": "dtk6declarative",
+  "version": "6.0.8-1",
+  "depends": [
+    "dtk6core",
+    "dtk6gui",
+    "qt6-declarative",
+    "qt6-quickcontrols2",
+    "qt6-base",
+    "qt6-5compat",
+    "qt6-shadertools",
+    "libgl",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-tools",
+    "qt6-shadertools",
+    "doxygen",
+    "gtest",
+    "gmock"
+  ],
+  "receive": 208135116,
+  "transmit": 416472,
+  "disk": 47125904
+}
