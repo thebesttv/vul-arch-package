@@ -1,0 +1,13 @@
+{
+  "name": "gopass-jsonapi",
+  "version": "1.15.12-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199541902,
+  "transmit": 321975,
+  "disk": 284703
+}
