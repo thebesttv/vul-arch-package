@@ -1,0 +1,22 @@
+{
+  "name": "urlwatch",
+  "version": "2.28-2",
+  "depends": [
+    "python-appdirs",
+    "python-cssselect",
+    "python-keyring",
+    "python-lxml",
+    "python-minidb",
+    "python-requests",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 200023524,
+  "transmit": 422839,
+  "disk": 1591897
+}
