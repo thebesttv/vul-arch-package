@@ -1,0 +1,14 @@
+{
+  "name": "elvish",
+  "version": "0.20.1-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199645363,
+  "transmit": 406267,
+  "disk": 22248640
+}
