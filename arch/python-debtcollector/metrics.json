@@ -1,0 +1,13 @@
+{
+  "name": "python-debtcollector",
+  "version": "3.0.0-1",
+  "depends": [
+    "python-wrapt"
+  ],
+  "makedepends": [
+    "python-pbr"
+  ],
+  "receive": 199564687,
+  "transmit": 331348,
+  "disk": 302138
+}
