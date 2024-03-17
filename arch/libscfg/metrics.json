@@ -1,0 +1,11 @@
+{
+  "name": "libscfg",
+  "version": "0.1.1-2",
+  "depends": [],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199533801,
+  "transmit": 276913,
+  "disk": 132233
+}
