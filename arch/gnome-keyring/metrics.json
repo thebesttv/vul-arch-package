@@ -1,0 +1,23 @@
+{
+  "name": "gnome-keyring",
+  "version": "1:46.1-2",
+  "depends": [
+    "dconf",
+    "gcr",
+    "gcr-4",
+    "glib2",
+    "glibc",
+    "libgcrypt",
+    "pam",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "git",
+    "p11-kit",
+    "python"
+  ],
+  "receive": 200051871,
+  "transmit": 640150,
+  "disk": 18127770
+}
