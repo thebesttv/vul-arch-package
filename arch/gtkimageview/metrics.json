@@ -1,0 +1,15 @@
+{
+  "name": "gtkimageview",
+  "version": "1.6.4-8",
+  "depends": [
+    "gtk2"
+  ],
+  "makedepends": [
+    "pkg-config",
+    "python",
+    "gnome-common"
+  ],
+  "receive": 199682637,
+  "transmit": 464787,
+  "disk": 4125765
+}
