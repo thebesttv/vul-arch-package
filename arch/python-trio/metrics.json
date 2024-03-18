@@ -1,0 +1,24 @@
+{
+  "name": "python-trio",
+  "version": "0.25.0-1",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-exceptiongroup",
+    "python-idna",
+    "python-outcome",
+    "python-sniffio",
+    "python-sortedcontainers",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-setuptools",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199680625,
+  "transmit": 384587,
+  "disk": 16844756
+}
