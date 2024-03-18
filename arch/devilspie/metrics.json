@@ -1,0 +1,13 @@
+{
+  "name": "devilspie",
+  "version": "0.23-5",
+  "depends": [
+    "libwnck3"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199708657,
+  "transmit": 411255,
+  "disk": 1013360
+}
