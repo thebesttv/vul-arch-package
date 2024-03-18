@@ -1,0 +1,14 @@
+{
+  "name": "yubico-pam",
+  "version": "2.27-3",
+  "depends": [
+    "pam",
+    "yubico-c-client",
+    "yubikey-personalization",
+    "json-c"
+  ],
+  "makedepends": [],
+  "receive": 199577863,
+  "transmit": 320749,
+  "disk": 2460491
+}
