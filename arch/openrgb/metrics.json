@@ -1,0 +1,17 @@
+{
+  "name": "openrgb",
+  "version": "0.9-3",
+  "depends": [
+    "qt5-base",
+    "libusb",
+    "hidapi",
+    "mbedtls2"
+  ],
+  "makedepends": [
+    "pkgconf",
+    "qt5-tools"
+  ],
+  "receive": 222213879,
+  "transmit": 511828,
+  "disk": 91022877
+}
