@@ -1,0 +1,19 @@
+{
+  "name": "pyalpm",
+  "version": "0.10.9-1",
+  "depends": [
+    "python",
+    "pacman"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-pkgconfig",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199632076,
+  "transmit": 306225,
+  "disk": 1148058
+}
