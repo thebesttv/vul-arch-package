@@ -1,0 +1,15 @@
+{
+  "name": "xplr",
+  "version": "0.21.7-1",
+  "depends": [
+    "gcc-libs",
+    "hicolor-icon-theme",
+    "luajit"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 200093379,
+  "transmit": 297853,
+  "disk": 3599776
+}
