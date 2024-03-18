@@ -1,0 +1,14 @@
+{
+  "name": "udftools",
+  "version": "2.3-2",
+  "depends": [
+    "ncurses",
+    "readline"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199568000,
+  "transmit": 339057,
+  "disk": 3116320
+}
