@@ -1,0 +1,11 @@
+{
+  "name": "http-parser",
+  "version": "2.9.4-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199561956,
+  "transmit": 269832,
+  "disk": 397548
+}
