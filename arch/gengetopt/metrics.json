@@ -1,0 +1,11 @@
+{
+  "name": "gengetopt",
+  "version": "2.23-3",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199636215,
+  "transmit": 344074,
+  "disk": 5033945
+}
