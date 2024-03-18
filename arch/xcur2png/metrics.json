@@ -1,0 +1,12 @@
+{
+  "name": "xcur2png",
+  "version": "0.7.1-8",
+  "depends": [
+    "libpng",
+    "libxcursor"
+  ],
+  "makedepends": [],
+  "receive": 200004560,
+  "transmit": 668287,
+  "disk": 568508
+}
