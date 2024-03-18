@@ -1,0 +1,15 @@
+{
+  "name": "tmate",
+  "version": "2.4.0-4",
+  "depends": [
+    "libevent",
+    "libssh",
+    "libutempter",
+    "msgpack-c",
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 199566632,
+  "transmit": 251492,
+  "disk": 2666937
+}
