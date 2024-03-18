@@ -1,0 +1,11 @@
+{
+  "name": "gpart",
+  "version": "0.3-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199634836,
+  "transmit": 347546,
+  "disk": 344195
+}
