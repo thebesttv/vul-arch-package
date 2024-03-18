@@ -1,0 +1,13 @@
+{
+  "name": "ogmtools",
+  "version": "1.5-10",
+  "depends": [
+    "libvorbis",
+    "libdvdread",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199725553,
+  "transmit": 406528,
+  "disk": 1477891
+}
