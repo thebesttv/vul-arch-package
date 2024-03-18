@@ -1,0 +1,15 @@
+{
+  "name": "yubikey-personalization-gui",
+  "version": "3.1.25-3",
+  "depends": [
+    "yubikey-personalization",
+    "qt5-base",
+    "libxkbcommon-x11"
+  ],
+  "makedepends": [
+    "imagemagick"
+  ],
+  "receive": 199574286,
+  "transmit": 280929,
+  "disk": 3063699
+}
