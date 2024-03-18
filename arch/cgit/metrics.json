@@ -1,0 +1,16 @@
+{
+  "name": "cgit",
+  "version": "1.2.3-4",
+  "depends": [
+    "openssl",
+    "luajit"
+  ],
+  "makedepends": [
+    "zlib",
+    "curl",
+    "asciidoc"
+  ],
+  "receive": 199634421,
+  "transmit": 335401,
+  "disk": 684645
+}
