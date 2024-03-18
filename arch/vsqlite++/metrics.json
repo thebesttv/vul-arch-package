@@ -1,0 +1,13 @@
+{
+  "name": "vsqlite++",
+  "version": "0.3.13-8",
+  "depends": [
+    "sqlite"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 199536835,
+  "transmit": 285473,
+  "disk": 1852608
+}
