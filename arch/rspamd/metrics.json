@@ -1,0 +1,31 @@
+{
+  "name": "rspamd",
+  "version": "3.8.4-1",
+  "depends": [
+    "file",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "hyperscan",
+    "icu",
+    "jemalloc",
+    "libelf",
+    "libsodium",
+    "luajit",
+    "openblas",
+    "openssl",
+    "pcre2",
+    "sqlite",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja",
+    "perl",
+    "ragel"
+  ],
+  "receive": 379345642,
+  "transmit": 474947,
+  "disk": 205338363
+}
