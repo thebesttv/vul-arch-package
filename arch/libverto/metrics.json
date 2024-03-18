@@ -1,0 +1,12 @@
+{
+  "name": "libverto",
+  "version": "0.3.2-5",
+  "depends": [
+    "glibc",
+    "libevent"
+  ],
+  "makedepends": [],
+  "receive": 199657681,
+  "transmit": 347680,
+  "disk": 2054188
+}
