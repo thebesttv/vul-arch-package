@@ -1,0 +1,16 @@
+{
+  "name": "gpg-tui",
+  "version": "0.11.0-1",
+  "depends": [
+    "libxcb",
+    "libxkbcommon",
+    "gpgme"
+  ],
+  "makedepends": [
+    "cargo",
+    "python"
+  ],
+  "receive": 199585638,
+  "transmit": 302413,
+  "disk": 25008968
+}
