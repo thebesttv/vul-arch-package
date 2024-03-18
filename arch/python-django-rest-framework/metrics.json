@@ -1,0 +1,18 @@
+{
+  "name": "python-django-rest-framework",
+  "version": "3.15.0-1",
+  "depends": [
+    "python",
+    "python-django",
+    "python-pytz"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 200570827,
+  "transmit": 942558,
+  "disk": 24558074
+}
