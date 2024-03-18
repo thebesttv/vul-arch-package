@@ -1,0 +1,15 @@
+{
+  "name": "rpcbind",
+  "version": "1.2.6-4",
+  "depends": [
+    "glibc",
+    "libtirpc",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199614314,
+  "transmit": 330872,
+  "disk": 838249
+}
