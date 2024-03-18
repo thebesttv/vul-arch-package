@@ -1,0 +1,11 @@
+{
+  "name": "libmpd",
+  "version": "11.8.17-6",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [],
+  "receive": 199548506,
+  "transmit": 274996,
+  "disk": 2008024
+}
