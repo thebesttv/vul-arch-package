@@ -1,0 +1,13 @@
+{
+  "name": "ruby-network_interface",
+  "version": "0.0.2-6",
+  "depends": [
+    "ruby"
+  ],
+  "makedepends": [
+    "ruby-rdoc"
+  ],
+  "receive": 199493666,
+  "transmit": 274307,
+  "disk": 180183
+}
