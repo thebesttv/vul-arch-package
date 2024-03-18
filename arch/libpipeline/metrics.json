@@ -1,0 +1,11 @@
+{
+  "name": "libpipeline",
+  "version": "1.5.7-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199656811,
+  "transmit": 354562,
+  "disk": 5786117
+}
