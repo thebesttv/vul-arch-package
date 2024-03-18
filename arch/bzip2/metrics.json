@@ -1,0 +1,12 @@
+{
+  "name": "bzip2",
+  "version": "1.0.8-6",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199512450,
+  "transmit": 230452,
+  "disk": 4041710
+}
