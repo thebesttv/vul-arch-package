@@ -1,0 +1,20 @@
+{
+  "name": "nss",
+  "version": "3.99-1",
+  "depends": [
+    "nspr>=4.35",
+    "p11-kit>=0.23.19",
+    "sqlite",
+    "zlib",
+    "sh"
+  ],
+  "makedepends": [
+    "gyp",
+    "mercurial",
+    "perl",
+    "python"
+  ],
+  "receive": 315816163,
+  "transmit": 875599,
+  "disk": 352885746
+}
