@@ -1,0 +1,17 @@
+{
+  "name": "flint",
+  "version": "3.1.2-1",
+  "depends": [
+    "cblas",
+    "glibc",
+    "gmp",
+    "mpfr"
+  ],
+  "makedepends": [
+    "cmake",
+    "python"
+  ],
+  "receive": 205301851,
+  "transmit": 280593,
+  "disk": 50438231
+}
