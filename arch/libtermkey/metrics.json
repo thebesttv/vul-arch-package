@@ -1,0 +1,12 @@
+{
+  "name": "libtermkey",
+  "version": "0.22-3",
+  "depends": [
+    "unibilium",
+    "libunibilium.so"
+  ],
+  "makedepends": [],
+  "receive": 199570359,
+  "transmit": 303798,
+  "disk": 351168
+}
