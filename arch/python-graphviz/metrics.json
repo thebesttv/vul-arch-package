@@ -1,0 +1,17 @@
+{
+  "name": "python-graphviz",
+  "version": "0.20.2-1",
+  "depends": [
+    "graphviz",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199611629,
+  "transmit": 382835,
+  "disk": 1020988
+}
