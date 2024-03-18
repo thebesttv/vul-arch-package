@@ -1,0 +1,13 @@
+{
+  "name": "darkstat",
+  "version": "3.0.721-3",
+  "depends": [
+    "libpcap",
+    "zlib",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199550717,
+  "transmit": 311905,
+  "disk": 591955
+}
