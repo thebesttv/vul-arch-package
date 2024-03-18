@@ -1,0 +1,11 @@
+{
+  "name": "bin86",
+  "version": "0.16.21-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 200134829,
+  "transmit": 708766,
+  "disk": 812492
+}
