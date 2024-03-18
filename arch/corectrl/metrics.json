@@ -1,0 +1,31 @@
+{
+  "name": "corectrl",
+  "version": "1.4.0-2",
+  "depends": [
+    "procps-ng",
+    "hwdata",
+    "quazip-qt5",
+    "qt5-charts",
+    "qt5-quickcontrols2",
+    "qt5-base",
+    "botan",
+    "qt5-svg",
+    "qt5-xmlpatterns",
+    "qt5-base",
+    "dbus",
+    "polkit",
+    "fmt",
+    "pugixml",
+    "hicolor-icon-theme",
+    "spdlog"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools",
+    "extra-cmake-modules",
+    "ninja"
+  ],
+  "receive": 199519862,
+  "transmit": 263805,
+  "disk": 3103833
+}
