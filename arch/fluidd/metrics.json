@@ -1,0 +1,13 @@
+{
+  "name": "fluidd",
+  "version": "1.29.0-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "nodejs-lts-iron",
+    "npm"
+  ],
+  "receive": 199710452,
+  "transmit": 301799,
+  "disk": 34804436
+}
