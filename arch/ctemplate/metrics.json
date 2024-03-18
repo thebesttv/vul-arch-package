@@ -1,0 +1,14 @@
+{
+  "name": "ctemplate",
+  "version": "2.4-3",
+  "depends": [
+    "gcc-libs",
+    "perl"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199886154,
+  "transmit": 521007,
+  "disk": 2374959
+}
