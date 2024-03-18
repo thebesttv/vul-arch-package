@@ -1,0 +1,18 @@
+{
+  "name": "tcplay",
+  "version": "3.3-3",
+  "depends": [
+    "glibc",
+    "device-mapper",
+    "util-linux-libs",
+    "libgcrypt",
+    "libuuid.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "udev"
+  ],
+  "receive": 199555000,
+  "transmit": 303265,
+  "disk": 32025181
+}
