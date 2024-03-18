@@ -1,0 +1,21 @@
+{
+  "name": "tmuxp",
+  "version": "1.43.0-1",
+  "depends": [
+    "python",
+    "python-colorama",
+    "python-libtmux",
+    "python-pyyaml",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-shtab",
+    "python-wheel"
+  ],
+  "receive": 200627349,
+  "transmit": 500412,
+  "disk": 2684504
+}
