@@ -1,0 +1,16 @@
+{
+  "name": "cargo-shuttle",
+  "version": "0.42.0-1",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "zlib",
+    "curl"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 327984938,
+  "transmit": 1527993,
+  "disk": 144951349
+}
