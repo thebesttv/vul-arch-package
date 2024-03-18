@@ -1,0 +1,12 @@
+{
+  "name": "yubico-c",
+  "version": "1.13-7",
+  "depends": [
+    "curl",
+    "libusb"
+  ],
+  "makedepends": [],
+  "receive": 199604811,
+  "transmit": 335952,
+  "disk": 1874545
+}
