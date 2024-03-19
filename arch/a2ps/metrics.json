@@ -1,0 +1,15 @@
+{
+  "name": "a2ps",
+  "version": "4.15.6-1",
+  "depends": [
+    "imagemagick",
+    "perl",
+    "psutils"
+  ],
+  "makedepends": [
+    "gperf"
+  ],
+  "receive": 199581244,
+  "transmit": 334508,
+  "disk": 19657182
+}
