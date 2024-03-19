@@ -1,0 +1,13 @@
+{
+  "name": "libngtcp2",
+  "version": "1.4.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "brotli"
+  ],
+  "receive": 199519085,
+  "transmit": 271363,
+  "disk": 4532927
+}
