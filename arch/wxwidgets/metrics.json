@@ -1,0 +1,18 @@
+{
+  "name": "wxwidgets",
+  "version": "3.2.4-4",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "glu",
+    "gst-plugins-base",
+    "libmspack",
+    "libnotify",
+    "qt5-base",
+    "sdl2",
+    "webkit2gtk"
+  ],
+  "receive": 227343094,
+  "transmit": 432579,
+  "disk": 214436557
+}
