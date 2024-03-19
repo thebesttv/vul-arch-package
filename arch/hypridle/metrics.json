@@ -1,0 +1,21 @@
+{
+  "name": "hypridle",
+  "version": "0.1.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hyprlang",
+    "libhyprlang.so",
+    "sdbus-cpp",
+    "libsdbus-c++.so",
+    "wayland",
+    "libwayland-client.so",
+    "wayland-protocols"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199576210,
+  "transmit": 320584,
+  "disk": 173289
+}
