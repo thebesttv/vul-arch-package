@@ -1,0 +1,11 @@
+{
+  "name": "libmnl",
+  "version": "1.0.5-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199559792,
+  "transmit": 312770,
+  "disk": 2199054
+}
