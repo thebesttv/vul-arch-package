@@ -1,0 +1,13 @@
+{
+  "name": "potrace",
+  "version": "1.16-3",
+  "depends": [
+    "glibc",
+    "zlib",
+    "libz.so"
+  ],
+  "makedepends": [],
+  "receive": 199961803,
+  "transmit": 503149,
+  "disk": 4888887
+}
