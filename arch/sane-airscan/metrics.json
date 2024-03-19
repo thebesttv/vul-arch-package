@@ -1,0 +1,18 @@
+{
+  "name": "sane-airscan",
+  "version": "0.99.29-1",
+  "depends": [
+    "sane",
+    "avahi",
+    "gnutls",
+    "libxml2",
+    "libjpeg-turbo",
+    "libpng",
+    "libtiff",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199604305,
+  "transmit": 329612,
+  "disk": 1230280
+}
