@@ -1,0 +1,27 @@
+{
+  "name": "gap",
+  "version": "4.13.0-2",
+  "depends": [],
+  "makedepends": [
+    "bliss",
+    "boost",
+    "c-xsc",
+    "cddlib",
+    "chrpath",
+    "eigen",
+    "fmt",
+    "fplll",
+    "givaro",
+    "jq",
+    "libsemigroups",
+    "libxaw",
+    "mpfi",
+    "normaliz",
+    "planarity",
+    "wget",
+    "zeromq"
+  ],
+  "receive": 742445424,
+  "transmit": 683361,
+  "disk": 1641850732
+}
