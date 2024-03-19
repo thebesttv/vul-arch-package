@@ -1,0 +1,36 @@
+{
+  "name": "hyprlock",
+  "version": "0.2.0-2",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glib2",
+    "libgobject-2.0.so",
+    "libglib-2.0.so",
+    "glibc",
+    "hyprlang",
+    "libhyprlang.so",
+    "libdrm",
+    "libglvnd",
+    "libOpenGL.so",
+    "libEGL.so",
+    "libxkbcommon",
+    "libxkbcommon.so",
+    "mesa",
+    "pam",
+    "libpam.so",
+    "pango",
+    "libpango-1.0.so",
+    "libpangocairo-1.0.so",
+    "wayland",
+    "libwayland-client.so",
+    "libwayland-egl.so",
+    "wayland-protocols"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199529861,
+  "transmit": 264008,
+  "disk": 431607
+}
