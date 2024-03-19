@@ -1,0 +1,19 @@
+{
+  "name": "prometheus",
+  "version": "2.51.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git",
+    "npm",
+    "nodejs",
+    "yamllint",
+    "typescript",
+    "yarn"
+  ],
+  "receive": 206072443,
+  "transmit": 421361,
+  "disk": 34116261
+}
