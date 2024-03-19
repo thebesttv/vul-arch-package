@@ -1,0 +1,13 @@
+{
+  "name": "handlr-regex",
+  "version": "0.10.0-2",
+  "depends": [
+    "shared-mime-info"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199533281,
+  "transmit": 252570,
+  "disk": 317163
+}
