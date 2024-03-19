@@ -1,0 +1,13 @@
+{
+  "name": "tk",
+  "version": "8.6.14-2",
+  "depends": [
+    "tcl",
+    "libxss",
+    "libxft"
+  ],
+  "makedepends": [],
+  "receive": 199536602,
+  "transmit": 217686,
+  "disk": 24279154
+}
