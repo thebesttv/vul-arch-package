@@ -1,0 +1,11 @@
+{
+  "name": "tcl",
+  "version": "8.6.14-2",
+  "depends": [
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199557466,
+  "transmit": 265990,
+  "disk": 62261812
+}
