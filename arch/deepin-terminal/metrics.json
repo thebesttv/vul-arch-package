@@ -1,0 +1,27 @@
+{
+  "name": "deepin-terminal",
+  "version": "6.0.12-1",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "glib2",
+    "qt5-base",
+    "qt5-x11extras",
+    "libsecret",
+    "glibc",
+    "gcc-libs",
+    "libxcb",
+    "fontconfig",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cmake",
+    "lxqt-build-tools",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199705282,
+  "transmit": 369977,
+  "disk": 12700313
+}
