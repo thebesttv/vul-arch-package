@@ -1,0 +1,14 @@
+{
+  "name": "lib32-libunwind",
+  "version": "1.8.1-1",
+  "depends": [
+    "lib32-glibc",
+    "lib32-xz",
+    "lib32-zlib",
+    "libunwind"
+  ],
+  "makedepends": [],
+  "receive": 199521526,
+  "transmit": 269101,
+  "disk": 6049785
+}
