@@ -1,0 +1,16 @@
+{
+  "name": "scons",
+  "version": "4.7.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 209250259,
+  "transmit": 645611,
+  "disk": 68337850
+}
