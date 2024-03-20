@@ -1,0 +1,20 @@
+{
+  "name": "deepin-application-manager",
+  "version": "1.1.9-1",
+  "depends": [
+    "qt6-base",
+    "glibc",
+    "gcc-libs",
+    "systemd-libs",
+    "deepin-wloutput-daemon",
+    "startdde"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "gtest"
+  ],
+  "receive": 199491781,
+  "transmit": 349265,
+  "disk": 875127
+}
