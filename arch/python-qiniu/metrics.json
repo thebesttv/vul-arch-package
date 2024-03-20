@@ -1,0 +1,13 @@
+{
+  "name": "python-qiniu",
+  "version": "7.13.1-1",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199845402,
+  "transmit": 528526,
+  "disk": 641999
+}
