@@ -1,0 +1,14 @@
+{
+  "name": "git-branchless",
+  "version": "0.8.0-2",
+  "depends": [
+    "git",
+    "libgit2"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199446643,
+  "transmit": 269673,
+  "disk": 3436827
+}
