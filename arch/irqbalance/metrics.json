@@ -1,0 +1,20 @@
+{
+  "name": "irqbalance",
+  "version": "1.9.4-1",
+  "depends": [
+    "glibc",
+    "libnl"
+  ],
+  "makedepends": [
+    "glib2",
+    "libcap-ng",
+    "meson",
+    "ncurses",
+    "numactl",
+    "systemd",
+    "systemd-libs"
+  ],
+  "receive": 199767933,
+  "transmit": 416469,
+  "disk": 456192
+}
