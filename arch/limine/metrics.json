@@ -1,0 +1,17 @@
+{
+  "name": "limine",
+  "version": "7.1.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "nasm",
+    "mtools",
+    "llvm",
+    "lld",
+    "clang"
+  ],
+  "receive": 199692713,
+  "transmit": 410528,
+  "disk": 3012914
+}
