@@ -1,0 +1,12 @@
+{
+  "name": "lsix",
+  "version": "1.8.2-3",
+  "depends": [
+    "imagemagick",
+    "ttf-dejavu"
+  ],
+  "makedepends": [],
+  "receive": 199565132,
+  "transmit": 347643,
+  "disk": 1249414
+}
