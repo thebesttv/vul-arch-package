@@ -1,0 +1,23 @@
+{
+  "name": "deepin-font-manager",
+  "version": "6.0.4-1",
+  "depends": [
+    "deepin-qt5integration",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "qt5-base",
+    "fontconfig",
+    "freetype2",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "deepin-file-manager",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199482261,
+  "transmit": 259749,
+  "disk": 7959837
+}
