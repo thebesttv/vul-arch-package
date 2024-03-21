@@ -1,0 +1,19 @@
+{
+  "name": "rocrand",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "hip",
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rocm-cmake",
+    "gcc-fortran",
+    "python",
+    "git"
+  ],
+  "receive": 214647989,
+  "transmit": 490032,
+  "disk": 104838965
+}
