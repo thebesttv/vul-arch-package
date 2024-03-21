@@ -1,0 +1,23 @@
+{
+  "name": "cmake",
+  "version": "3.28.4-1",
+  "depends": [
+    "curl",
+    "libarchive",
+    "hicolor-icon-theme",
+    "jsoncpp",
+    "libjsoncpp.so",
+    "libuv",
+    "rhash",
+    "cppdap"
+  ],
+  "makedepends": [
+    "qt6-base",
+    "python-sphinx",
+    "emacs",
+    "nlohmann-json"
+  ],
+  "receive": 211112207,
+  "transmit": 472795,
+  "disk": 70352643
+}
