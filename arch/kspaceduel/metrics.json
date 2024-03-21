@@ -1,0 +1,25 @@
+{
+  "name": "kspaceduel",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kxmlgui",
+    "libkdegames",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199722762,
+  "transmit": 367143,
+  "disk": 3409540
+}
