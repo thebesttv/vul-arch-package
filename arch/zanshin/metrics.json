@@ -1,0 +1,30 @@
+{
+  "name": "zanshin",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcalendarcore",
+    "kconfig",
+    "kcoreaddons",
+    "kdepim-runtime",
+    "ki18n",
+    "kitemmodels",
+    "kontactinterface",
+    "kparts",
+    "krunner",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "libakonadi",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "boost",
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199462974,
+  "transmit": 283290,
+  "disk": 4148774
+}
