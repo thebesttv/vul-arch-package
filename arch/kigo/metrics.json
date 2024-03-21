@@ -1,0 +1,30 @@
+{
+  "name": "kigo",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gnugo",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "knewstuff",
+    "ktextwidgets",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdegames",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199498826,
+  "transmit": 353400,
+  "disk": 13850940
+}
