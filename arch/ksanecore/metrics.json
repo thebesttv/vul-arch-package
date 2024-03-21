@@ -1,0 +1,17 @@
+{
+  "name": "ksanecore",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "sane"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "ki18n",
+    "ki18n5"
+  ],
+  "receive": 199523334,
+  "transmit": 349770,
+  "disk": 649597
+}
