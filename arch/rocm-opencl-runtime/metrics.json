@@ -1,0 +1,22 @@
+{
+  "name": "rocm-opencl-runtime",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "hsakmt-roct",
+    "hsa-rocr",
+    "comgr",
+    "mesa",
+    "glibc",
+    "gcc-libs",
+    "numactl",
+    "opencl-icd-loader",
+    "opencl-headers"
+  ],
+  "makedepends": [
+    "rocm-cmake"
+  ],
+  "receive": 199904660,
+  "transmit": 605879,
+  "disk": 15061020
+}
