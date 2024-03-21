@@ -1,0 +1,21 @@
+{
+  "name": "kirigami-gallery",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kirigami2",
+    "kitemmodels5",
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-quickcontrols2",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-tools"
+  ],
+  "receive": 199953903,
+  "transmit": 316461,
+  "disk": 2248572
+}
