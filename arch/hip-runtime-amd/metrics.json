@@ -1,0 +1,25 @@
+{
+  "name": "hip-runtime-amd",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "bash",
+    "perl",
+    "glibc",
+    "gcc-libs",
+    "numactl",
+    "mesa",
+    "comgr",
+    "rocminfo",
+    "rocm-llvm",
+    "libelf"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "python-cppheaderparser"
+  ],
+  "receive": 199773256,
+  "transmit": 495540,
+  "disk": 16712227
+}
