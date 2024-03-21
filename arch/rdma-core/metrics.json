@@ -1,0 +1,25 @@
+{
+  "name": "rdma-core",
+  "version": "50.0-1",
+  "depends": [
+    "libnl",
+    "ethtool",
+    "perl",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "systemd",
+    "ninja",
+    "pandoc",
+    "libdrm",
+    "cython0",
+    "python",
+    "python-docutils",
+    "valgrind"
+  ],
+  "receive": 201387055,
+  "transmit": 224948,
+  "disk": 11149774
+}
