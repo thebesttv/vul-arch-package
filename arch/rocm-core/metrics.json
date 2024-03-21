@@ -1,0 +1,9 @@
+{
+  "name": "rocm-core",
+  "version": "6.0.2-2",
+  "depends": [],
+  "makedepends": [],
+  "receive": 199547064,
+  "transmit": 385721,
+  "disk": 101313
+}
