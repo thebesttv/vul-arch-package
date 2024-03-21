@@ -1,0 +1,27 @@
+{
+  "name": "libkcddb",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kwidgetsaddons",
+    "libmusicbrainz5",
+    "qt6-5compat",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools",
+    "kcmutils5",
+    "kdoctools5",
+    "kio5"
+  ],
+  "receive": 200089081,
+  "transmit": 302303,
+  "disk": 3715506
+}
