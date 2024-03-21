@@ -1,0 +1,25 @@
+{
+  "name": "kosmindoormap",
+  "version": "24.02.1-1",
+  "depends": [
+    "abseil-cpp",
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "kopeninghours",
+    "kpublictransport",
+    "kservice",
+    "protobuf",
+    "qt6-base",
+    "zlib"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "python"
+  ],
+  "receive": 199635658,
+  "transmit": 336044,
+  "disk": 5267607
+}
