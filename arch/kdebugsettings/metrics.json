@@ -1,0 +1,22 @@
+{
+  "name": "kdebugsettings",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcompletion",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199458764,
+  "transmit": 287696,
+  "disk": 1517880
+}
