@@ -1,0 +1,20 @@
+{
+  "name": "hipsolver",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "glibc",
+    "gcc-libs",
+    "hip",
+    "rocsolver",
+    "rocblas"
+  ],
+  "makedepends": [
+    "cmake",
+    "rocm-cmake",
+    "gcc-fortran"
+  ],
+  "receive": 199513153,
+  "transmit": 365931,
+  "disk": 8670465
+}
