@@ -1,0 +1,17 @@
+{
+  "name": "rocfft",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "hip",
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "rocm-cmake"
+  ],
+  "receive": 199493455,
+  "transmit": 336640,
+  "disk": 6200773
+}
