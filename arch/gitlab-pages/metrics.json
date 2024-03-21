@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-pages",
+  "version": "16.10.0-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199498571,
+  "transmit": 266733,
+  "disk": 2100304
+}
