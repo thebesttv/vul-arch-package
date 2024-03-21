@@ -1,0 +1,18 @@
+{
+  "name": "turbo",
+  "version": "1.13.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "zlib",
+    "libz.so"
+  ],
+  "makedepends": [
+    "capnproto",
+    "cargo",
+    "protobuf"
+  ],
+  "receive": 207269094,
+  "transmit": 476185,
+  "disk": 45606744
+}
