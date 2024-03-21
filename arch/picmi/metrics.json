@@ -1,0 +1,25 @@
+{
+  "name": "picmi",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdegames",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 200564467,
+  "transmit": 356107,
+  "disk": 4954569
+}
