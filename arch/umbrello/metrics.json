@@ -1,0 +1,34 @@
+{
+  "name": "umbrello",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive5",
+    "kcompletion5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kcrash5",
+    "ki18n5",
+    "kiconthemes5",
+    "kio5",
+    "kjobwidgets5",
+    "ktexteditor5",
+    "ktextwidgets5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "libxml2",
+    "libxslt",
+    "qt5-base",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 205481212,
+  "transmit": 396802,
+  "disk": 48801607
+}
