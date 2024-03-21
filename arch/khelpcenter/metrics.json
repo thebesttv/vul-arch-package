@@ -1,0 +1,34 @@
+{
+  "name": "khelpcenter",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kbookmarks",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kdoctools",
+    "ki18n",
+    "kio",
+    "kservice",
+    "ktexttemplate",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "libxml2",
+    "perl",
+    "qt6-base",
+    "qt6-webengine",
+    "xapian-core"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199693411,
+  "transmit": 406858,
+  "disk": 23099581
+}
