@@ -1,0 +1,36 @@
+{
+  "name": "koko",
+  "version": "24.02.1-1",
+  "depends": [
+    "exiv2",
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kdeclarative",
+    "kfilemetadata",
+    "kguiaddons",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "kirigami-addons",
+    "knotifications",
+    "kquickimageeditor",
+    "kwindowsystem",
+    "libxcb",
+    "purpose",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-multimedia",
+    "qt6-positioning",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 219242130,
+  "transmit": 674341,
+  "disk": 54947078
+}
