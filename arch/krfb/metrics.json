@@ -1,0 +1,38 @@
+{
+  "name": "krfb",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kdbusaddons",
+    "kdnssd",
+    "ki18n",
+    "knotifications",
+    "kpipewire",
+    "kstatusnotifieritem",
+    "kwallet",
+    "kwayland",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "libvncserver",
+    "libx11",
+    "libxcb",
+    "libxtst",
+    "qt6-base",
+    "wayland",
+    "xcb-util-image",
+    "xdg-desktop-portal"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools",
+    "plasma-wayland-protocols"
+  ],
+  "receive": 199709257,
+  "transmit": 405553,
+  "disk": 6041031
+}
