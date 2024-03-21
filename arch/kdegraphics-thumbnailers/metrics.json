@@ -1,0 +1,22 @@
+{
+  "name": "kdegraphics-thumbnailers",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "ghostscript",
+    "glibc",
+    "karchive",
+    "kcoreaddons",
+    "kdegraphics-mobipocket",
+    "kio",
+    "libkdcraw",
+    "libkexiv2",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199720357,
+  "transmit": 417071,
+  "disk": 561454
+}
