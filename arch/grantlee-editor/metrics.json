@@ -1,0 +1,36 @@
+{
+  "name": "grantlee-editor",
+  "version": "24.02.1-1",
+  "depends": [
+    "akonadi-contacts",
+    "gcc-libs",
+    "glibc",
+    "grantleetheme",
+    "karchive",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcontacts",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "kmime",
+    "ktextaddons",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "messagelib",
+    "pimcommon",
+    "qt6-base",
+    "qt6-webengine",
+    "syntax-highlighting"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199614632,
+  "transmit": 359197,
+  "disk": 1959047
+}
