@@ -1,0 +1,27 @@
+{
+  "name": "ksudoku",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kguiaddons",
+    "ki18n",
+    "kio",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdegames",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199543468,
+  "transmit": 256966,
+  "disk": 9553843
+}
