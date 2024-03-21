@@ -1,0 +1,29 @@
+{
+  "name": "kcalc",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "kcolorscheme",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kguiaddons",
+    "ki18n",
+    "knotifications",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "mpfr",
+    "qt6-5compat",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199472549,
+  "transmit": 272991,
+  "disk": 6856322
+}
