@@ -1,0 +1,21 @@
+{
+  "name": "libkmahjongg",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "ki18n",
+    "kwidgetsaddons",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199862079,
+  "transmit": 506578,
+  "disk": 9941493
+}
