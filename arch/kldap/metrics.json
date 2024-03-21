@@ -1,0 +1,27 @@
+{
+  "name": "kldap",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kwidgetsaddons",
+    "libldap",
+    "libsasl",
+    "qt6-base",
+    "qtkeychain-qt6"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "kdoctools",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199602745,
+  "transmit": 310813,
+  "disk": 2209490
+}
