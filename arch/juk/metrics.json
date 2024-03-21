@@ -1,0 +1,36 @@
+{
+  "name": "juk",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "kglobalaccel",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "knotifications",
+    "kstatusnotifieritem",
+    "ktextwidgets",
+    "kwallet",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "phonon-qt6",
+    "qt6-base",
+    "qt6-svg",
+    "taglib"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199650104,
+  "transmit": 384338,
+  "disk": 9720004
+}
