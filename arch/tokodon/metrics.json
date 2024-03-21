@@ -1,0 +1,35 @@
+{
+  "name": "tokodon",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "kirigami-addons",
+    "kitemmodels",
+    "knotifications",
+    "kservice",
+    "kwindowsystem",
+    "mpvqt",
+    "purpose",
+    "qqc2-desktop-style",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-websockets",
+    "qt6-webview",
+    "qtkeychain-qt6"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199495180,
+  "transmit": 321579,
+  "disk": 6905650
+}
