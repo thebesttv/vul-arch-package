@@ -1,0 +1,15 @@
+{
+  "name": "opencsg",
+  "version": "1.6.0-1",
+  "depends": [
+    "glew",
+    "glut",
+    "libgl"
+  ],
+  "makedepends": [
+    "qt5-base"
+  ],
+  "receive": 199529280,
+  "transmit": 357329,
+  "disk": 1305056
+}
