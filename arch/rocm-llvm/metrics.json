@@ -1,0 +1,23 @@
+{
+  "name": "rocm-llvm",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "perl",
+    "gcc-libs",
+    "zlib",
+    "zstd",
+    "libffi",
+    "libedit",
+    "ncurses",
+    "libxml2"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "ninja"
+  ],
+  "receive": 388496262,
+  "transmit": 2390255,
+  "disk": 1598903130
+}
