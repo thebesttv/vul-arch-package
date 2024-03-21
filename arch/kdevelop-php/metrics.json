@@ -1,0 +1,28 @@
+{
+  "name": "kdevelop-php",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcmutils5",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "kdevelop",
+    "ki18n5",
+    "kio5",
+    "ktexteditor5",
+    "kwidgetsaddons5",
+    "kxmlgui5",
+    "qt5-base",
+    "threadweaver5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdevelop-pg-qt",
+    "kdoctools"
+  ],
+  "receive": 199639430,
+  "transmit": 366893,
+  "disk": 9656982
+}
