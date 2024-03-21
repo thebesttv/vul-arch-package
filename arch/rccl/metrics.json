@@ -1,0 +1,20 @@
+{
+  "name": "rccl",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "glibc",
+    "gcc-libs",
+    "hip",
+    "rocm-smi-lib"
+  ],
+  "makedepends": [
+    "cmake",
+    "rocm-cmake",
+    "hipify-clang",
+    "python"
+  ],
+  "receive": 199586298,
+  "transmit": 423668,
+  "disk": 16270261
+}
