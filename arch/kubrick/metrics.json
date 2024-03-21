@@ -1,0 +1,27 @@
+{
+  "name": "kubrick",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "glu",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libglvnd",
+    "libkdegames",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199485480,
+  "transmit": 308366,
+  "disk": 3192034
+}
