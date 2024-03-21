@@ -1,0 +1,30 @@
+{
+  "name": "angelfish",
+  "version": "24.02.1-1",
+  "depends": [
+    "futuresql-qt6",
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "knotifications",
+    "kwindowsystem",
+    "purpose",
+    "qcoro-qt6",
+    "qqc2-desktop-style",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-webengine"
+  ],
+  "makedepends": [
+    "corrosion",
+    "extra-cmake-modules"
+  ],
+  "receive": 199544595,
+  "transmit": 367240,
+  "disk": 2411548
+}
