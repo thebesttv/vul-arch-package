@@ -1,0 +1,27 @@
+{
+  "name": "kjumpingcube",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdegames",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199586452,
+  "transmit": 374877,
+  "disk": 2942540
+}
