@@ -1,0 +1,23 @@
+{
+  "name": "kbruch",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199701484,
+  "transmit": 426195,
+  "disk": 15437444
+}
