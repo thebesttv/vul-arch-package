@@ -1,0 +1,28 @@
+{
+  "name": "falkon",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "libxcb",
+    "openssl",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-webchannel",
+    "qt6-webengine"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kio",
+    "libgnome-keyring",
+    "purpose",
+    "pyside6",
+    "qt6-tools",
+    "shiboken6"
+  ],
+  "receive": 199762135,
+  "transmit": 424048,
+  "disk": 21489320
+}
