@@ -1,0 +1,23 @@
+{
+  "name": "alligator",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "qt6-base",
+    "qt6-declarative",
+    "syndication"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "python"
+  ],
+  "receive": 199593412,
+  "transmit": 383026,
+  "disk": 1265825
+}
