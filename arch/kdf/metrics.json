@@ -1,0 +1,29 @@
+{
+  "name": "kdf",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcmutils",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "kjobwidgets",
+    "kstatusnotifieritem",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-5compat",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199636682,
+  "transmit": 396788,
+  "disk": 2874104
+}
