@@ -1,0 +1,26 @@
+{
+  "name": "sweeper",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kbookmarks",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "ktextwidgets",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "plasma-activities-stats",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199982616,
+  "transmit": 308396,
+  "disk": 2255382
+}
