@@ -1,0 +1,25 @@
+{
+  "name": "rocprofiler",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "hip",
+    "python",
+    "python-lxml",
+    "hsa-amd-aqlprofile"
+  ],
+  "makedepends": [
+    "cmake",
+    "rocm-llvm",
+    "hsa-rocr",
+    "rocm-dbgapi",
+    "gtest",
+    "rocm-smi-lib",
+    "python-cppheaderparser",
+    "python-yaml",
+    "python-barectf"
+  ],
+  "receive": 199587840,
+  "transmit": 337615,
+  "disk": 27332172
+}
