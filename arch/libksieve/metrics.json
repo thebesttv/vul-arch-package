@@ -1,0 +1,38 @@
+{
+  "name": "libksieve",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "ki18n",
+    "kiconthemes",
+    "kidentitymanagement",
+    "kio",
+    "kmime",
+    "ktextaddons",
+    "kwidgetsaddons",
+    "libkdepim",
+    "libsasl",
+    "pimcommon",
+    "qt6-base",
+    "qt6-webengine",
+    "sonnet",
+    "syntax-highlighting"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "kdoctools",
+    "kmailtransport",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199591647,
+  "transmit": 413558,
+  "disk": 9384204
+}
