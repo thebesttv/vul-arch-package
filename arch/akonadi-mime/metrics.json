@@ -1,0 +1,27 @@
+{
+  "name": "akonadi-mime",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kmime",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libakonadi",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "kdoctools5",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199923936,
+  "transmit": 426924,
+  "disk": 2293011
+}
