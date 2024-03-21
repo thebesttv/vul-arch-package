@@ -1,0 +1,31 @@
+{
+  "name": "palapeli",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kio",
+    "kitemviews",
+    "knotifications",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdegames",
+    "qhull",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199554575,
+  "transmit": 387953,
+  "disk": 7974976
+}
