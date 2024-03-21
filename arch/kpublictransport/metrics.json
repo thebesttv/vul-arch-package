@@ -1,0 +1,22 @@
+{
+  "name": "kpublictransport",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "ki18n",
+    "networkmanager-qt",
+    "qt6-base",
+    "qt6-declarative",
+    "zlib"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "protobuf",
+    "qt6-tools"
+  ],
+  "receive": 199507478,
+  "transmit": 338884,
+  "disk": 6301357
+}
