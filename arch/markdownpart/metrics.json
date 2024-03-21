@@ -1,0 +1,21 @@
+{
+  "name": "markdownpart",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kparts",
+    "kxmlgui",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199622026,
+  "transmit": 377859,
+  "disk": 557762
+}
