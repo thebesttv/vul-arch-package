@@ -1,0 +1,21 @@
+{
+  "name": "libkomparediff2",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig5",
+    "kconfigwidgets5",
+    "kcoreaddons5",
+    "ki18n5",
+    "kio5",
+    "kxmlgui5",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199547101,
+  "transmit": 380656,
+  "disk": 2101945
+}
