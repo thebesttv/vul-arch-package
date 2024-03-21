@@ -1,0 +1,15 @@
+{
+  "name": "kcachegrind",
+  "version": "24.02.1-1",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools",
+    "kio",
+    "kxmlgui",
+    "qt6-tools"
+  ],
+  "receive": 199705754,
+  "transmit": 432849,
+  "disk": 10379152
+}
