@@ -1,0 +1,20 @@
+{
+  "name": "hipblas",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "glibc",
+    "gcc-libs",
+    "hip",
+    "rocblas",
+    "rocsolver"
+  ],
+  "makedepends": [
+    "rocm-cmake",
+    "cmake",
+    "gcc-fortran"
+  ],
+  "receive": 199538880,
+  "transmit": 363704,
+  "disk": 12581734
+}
