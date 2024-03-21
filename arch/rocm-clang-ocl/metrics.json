@@ -1,0 +1,16 @@
+{
+  "name": "rocm-clang-ocl",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "bash",
+    "rocm-llvm",
+    "rocm-opencl-runtime"
+  ],
+  "makedepends": [
+    "rocm-cmake"
+  ],
+  "receive": 199552805,
+  "transmit": 373642,
+  "disk": 146636
+}
