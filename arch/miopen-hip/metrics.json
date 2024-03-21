@@ -1,0 +1,32 @@
+{
+  "name": "miopen-hip",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "glibc",
+    "gcc-libs",
+    "rocblas",
+    "rocm-clang-ocl",
+    "hip",
+    "comgr",
+    "bzip2",
+    "composable-kernel",
+    "roctracer",
+    "sqlite"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "rocm-cmake",
+    "boost",
+    "lbzip2",
+    "nlohmann-json",
+    "eigen",
+    "half",
+    "functional-plus",
+    "frugally-deep"
+  ],
+  "receive": 505139065,
+  "transmit": 4101147,
+  "disk": 2213586983
+}
