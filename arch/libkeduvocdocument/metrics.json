@@ -1,0 +1,21 @@
+{
+  "name": "libkeduvocdocument",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kdeedu-data",
+    "karchive",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199580062,
+  "transmit": 425212,
+  "disk": 2873302
+}
