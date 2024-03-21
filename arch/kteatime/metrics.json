@@ -1,0 +1,26 @@
+{
+  "name": "kteatime",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kguiaddons",
+    "ki18n",
+    "knotifications",
+    "knotifyconfig",
+    "ktextwidgets",
+    "kxmlgui",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199649203,
+  "transmit": 365053,
+  "disk": 2124182
+}
