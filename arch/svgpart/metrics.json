@@ -1,0 +1,20 @@
+{
+  "name": "svgpart",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kparts",
+    "kxmlgui",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199578921,
+  "transmit": 335252,
+  "disk": 654798
+}
