@@ -1,0 +1,21 @@
+{
+  "name": "hipify-clang",
+  "version": "6.0.2-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "ncurses",
+    "bash",
+    "perl",
+    "zstd",
+    "zlib",
+    "rocm-llvm",
+    "cuda"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199471793,
+  "transmit": 291493,
+  "disk": 7684482
+}
