@@ -1,0 +1,19 @@
+{
+  "name": "hipfft",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "glibc",
+    "gcc-libs",
+    "hip",
+    "rocfft"
+  ],
+  "makedepends": [
+    "cmake",
+    "rocm-cmake",
+    "git"
+  ],
+  "receive": 199484860,
+  "transmit": 318408,
+  "disk": 1398979
+}
