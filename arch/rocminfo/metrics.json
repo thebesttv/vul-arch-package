@@ -1,0 +1,19 @@
+{
+  "name": "rocminfo",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "glibc",
+    "gcc-libs",
+    "pciutils",
+    "python",
+    "hsa-rocr"
+  ],
+  "makedepends": [
+    "cmake",
+    "rocm-cmake"
+  ],
+  "receive": 199409915,
+  "transmit": 197327,
+  "disk": 195791
+}
