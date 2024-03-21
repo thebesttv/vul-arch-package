@@ -1,0 +1,42 @@
+{
+  "name": "waybar",
+  "version": "0.10.0-2",
+  "depends": [
+    "fmt",
+    "gtk-layer-shell",
+    "gtkmm3",
+    "jack",
+    "libjack.so",
+    "libatkmm-1.6.so",
+    "libcairomm-1.0.so",
+    "libdbusmenu-gtk3",
+    "libevdev",
+    "libgtk-3.so",
+    "libinput",
+    "libjsoncpp.so",
+    "libmpdclient",
+    "libnl",
+    "libpipewire-0.3.so",
+    "libpulse",
+    "libsigc++",
+    "libsndio.so",
+    "libspdlog.so",
+    "libudev.so",
+    "libupower-glib.so",
+    "libwireplumber",
+    "libxkbcommon",
+    "playerctl",
+    "upower",
+    "wayland"
+  ],
+  "makedepends": [
+    "cmake",
+    "catch2",
+    "meson",
+    "scdoc",
+    "wayland-protocols"
+  ],
+  "receive": 199629448,
+  "transmit": 449896,
+  "disk": 1788831
+}
