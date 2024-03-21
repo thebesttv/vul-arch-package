@@ -1,0 +1,24 @@
+{
+  "name": "kdenetwork-filesharing",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kauth",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "kwidgetsaddons",
+    "qt6-base",
+    "qt6-declarative",
+    "samba"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qcoro-qt6"
+  ],
+  "receive": 199462024,
+  "transmit": 305818,
+  "disk": 5575974
+}
