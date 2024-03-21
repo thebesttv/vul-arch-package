@@ -1,0 +1,19 @@
+{
+  "name": "gcc12",
+  "version": "12.3.0-5",
+  "depends": [],
+  "makedepends": [
+    "binutils",
+    "doxygen",
+    "gcc-ada",
+    "gcc-d",
+    "git",
+    "libisl",
+    "libmpc",
+    "python",
+    "zstd"
+  ],
+  "receive": 2186236017,
+  "transmit": 1372693,
+  "disk": 2734089828
+}
