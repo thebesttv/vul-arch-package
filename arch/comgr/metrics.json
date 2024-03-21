@@ -1,0 +1,20 @@
+{
+  "name": "comgr",
+  "version": "6.0.2-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "zstd",
+    "zlib",
+    "ncurses",
+    "rocm-core",
+    "rocm-device-libs"
+  ],
+  "makedepends": [
+    "rocm-cmake",
+    "rocm-llvm"
+  ],
+  "receive": 200743560,
+  "transmit": 891907,
+  "disk": 1226176
+}
