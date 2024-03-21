@@ -1,0 +1,23 @@
+{
+  "name": "rocalution",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "hip",
+    "glibc",
+    "gcc-libs",
+    "rocsparse",
+    "rocblas",
+    "rocsolver",
+    "rocprim",
+    "rocrand"
+  ],
+  "makedepends": [
+    "rocm-cmake",
+    "openmp",
+    "openmpi"
+  ],
+  "receive": 199648580,
+  "transmit": 285622,
+  "disk": 8014857
+}
