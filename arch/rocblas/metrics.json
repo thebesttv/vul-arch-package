@@ -1,0 +1,26 @@
+{
+  "name": "rocblas",
+  "version": "6.0.2-1",
+  "depends": [
+    "rocm-core",
+    "hip",
+    "glibc",
+    "gcc-libs",
+    "openmp"
+  ],
+  "makedepends": [
+    "rocm-cmake",
+    "python",
+    "python-virtualenv",
+    "python-pyaml",
+    "python-wheel",
+    "python-msgpack",
+    "python-joblib",
+    "perl-file-which",
+    "msgpack-cxx",
+    "gcc-fortran"
+  ],
+  "receive": 280294536,
+  "transmit": 1875228,
+  "disk": 1085194338
+}
