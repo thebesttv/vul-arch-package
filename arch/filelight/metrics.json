@@ -1,0 +1,27 @@
+{
+  "name": "filelight",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "kirigami-addons",
+    "kquickcharts",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qqc2-desktop-style",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199434705,
+  "transmit": 259363,
+  "disk": 3292297
+}
