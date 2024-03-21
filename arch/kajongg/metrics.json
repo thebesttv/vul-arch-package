@@ -1,0 +1,19 @@
+{
+  "name": "kajongg",
+  "version": "24.02.1-1",
+  "depends": [
+    "libkmahjongg",
+    "python",
+    "python-qtpy",
+    "python-twisted",
+    "python-zope-interface",
+    "qt6-python-bindings"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199573596,
+  "transmit": 303226,
+  "disk": 15559430
+}
