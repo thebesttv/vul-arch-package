@@ -1,0 +1,21 @@
+{
+  "name": "analitza",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "eigen",
+    "extra-cmake-modules",
+    "kdoctools",
+    "qt6-tools"
+  ],
+  "receive": 199970962,
+  "transmit": 402623,
+  "disk": 4304402
+}
