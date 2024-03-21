@@ -1,0 +1,40 @@
+{
+  "name": "pim-data-exporter",
+  "version": "24.02.1-1",
+  "depends": [
+    "akonadi-mime",
+    "akonadi-notes",
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcalendarcore",
+    "kconfig",
+    "kconfigwidgets",
+    "kcontacts",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kidentitymanagement",
+    "kio",
+    "kitemviews",
+    "kmailtransport",
+    "kmime",
+    "kstatusnotifieritem",
+    "ktextaddons",
+    "kuserfeedback",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libakonadi",
+    "mailcommon",
+    "pimcommon",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199632377,
+  "transmit": 375035,
+  "disk": 7493931
+}
