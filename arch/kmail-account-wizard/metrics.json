@@ -1,0 +1,27 @@
+{
+  "name": "kmail-account-wizard",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kidentitymanagement",
+    "kirigami",
+    "kmailtransport",
+    "kmime",
+    "libakonadi",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199824942,
+  "transmit": 454704,
+  "disk": 2130723
+}
