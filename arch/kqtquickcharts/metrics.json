@@ -1,0 +1,16 @@
+{
+  "name": "kqtquickcharts",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt5-base",
+    "qt5-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 200116765,
+  "transmit": 606988,
+  "disk": 466397
+}
