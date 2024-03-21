@@ -1,0 +1,17 @@
+{
+  "name": "hsakmt-roct",
+  "version": "6.0.0-2",
+  "depends": [
+    "rocm-core",
+    "glibc",
+    "numactl",
+    "pciutils",
+    "libdrm"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199508085,
+  "transmit": 323623,
+  "disk": 5024736
+}
