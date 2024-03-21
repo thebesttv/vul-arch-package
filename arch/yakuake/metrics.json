@@ -1,0 +1,37 @@
+{
+  "name": "yakuake",
+  "version": "24.02.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcolorscheme",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "kglobalaccel",
+    "ki18n",
+    "kiconthemes",
+    "kio",
+    "knewstuff",
+    "knotifications",
+    "knotifyconfig",
+    "konsole",
+    "kparts",
+    "kstatusnotifieritem",
+    "kwayland",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "libx11",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199661920,
+  "transmit": 283739,
+  "disk": 5000707
+}
