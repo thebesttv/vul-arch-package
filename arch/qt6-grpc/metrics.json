@@ -1,0 +1,19 @@
+{
+  "name": "qt6-grpc",
+  "version": "6.6.2-3",
+  "depends": [
+    "abseil-cpp",
+    "gcc-libs",
+    "glibc",
+    "grpc",
+    "protobuf",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199520007,
+  "transmit": 308260,
+  "disk": 5362369
+}
