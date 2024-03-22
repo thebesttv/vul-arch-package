@@ -1,0 +1,28 @@
+{
+  "name": "bear",
+  "version": "3.1.3-10",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "grpc",
+    "libgrpc++.so",
+    "fmt",
+    "spdlog",
+    "nlohmann-json",
+    "abseil-cpp",
+    "protobuf",
+    "openssl",
+    "c-ares",
+    "re2"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "gtest",
+    "python",
+    "llvm"
+  ],
+  "receive": 199565304,
+  "transmit": 391969,
+  "disk": 5077722
+}
