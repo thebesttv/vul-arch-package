@@ -1,0 +1,14 @@
+{
+  "name": "riscv64-linux-gnu-glibc",
+  "version": "2.39-3",
+  "depends": [
+    "riscv64-linux-gnu-gcc",
+    "riscv64-linux-gnu-linux-api-headers"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 218545822,
+  "transmit": 647293,
+  "disk": 257128575
+}
