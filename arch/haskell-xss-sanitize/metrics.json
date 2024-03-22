@@ -1,0 +1,18 @@
+{
+  "name": "haskell-xss-sanitize",
+  "version": "0.3.7.2-23",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-css-text",
+    "haskell-network-uri",
+    "haskell-tagsoup",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199631289,
+  "transmit": 425392,
+  "disk": 494222
+}
