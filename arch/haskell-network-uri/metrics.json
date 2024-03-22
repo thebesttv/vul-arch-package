@@ -1,0 +1,14 @@
+{
+  "name": "haskell-network-uri",
+  "version": "2.6.4.2-30",
+  "depends": [
+    "ghc-libs",
+    "haskell-th-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199898073,
+  "transmit": 472622,
+  "disk": 557379
+}
