@@ -1,0 +1,18 @@
+{
+  "name": "haskell-prettyprinter-interp",
+  "version": "0.2.0.0-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-prettyprinter",
+    "haskell-string-interpolate"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199570077,
+  "transmit": 370210,
+  "disk": 130861
+}
