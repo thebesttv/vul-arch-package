@@ -1,0 +1,18 @@
+{
+  "name": "haskell-xmlgen",
+  "version": "0.6.2.2-79",
+  "depends": [
+    "ghc-libs",
+    "haskell-blaze-builder"
+  ],
+  "makedepends": [
+    "ghc",
+    "git",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-hxt"
+  ],
+  "receive": 199592042,
+  "transmit": 278860,
+  "disk": 520306
+}
