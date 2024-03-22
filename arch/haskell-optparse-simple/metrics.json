@@ -1,0 +1,16 @@
+{
+  "name": "haskell-optparse-simple",
+  "version": "0.1.1.4-313",
+  "depends": [
+    "ghc-libs",
+    "haskell-githash",
+    "haskell-optparse-applicative",
+    "haskell-th-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200126174,
+  "transmit": 297225,
+  "disk": 773970
+}
