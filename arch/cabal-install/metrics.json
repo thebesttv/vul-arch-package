@@ -1,0 +1,30 @@
+{
+  "name": "cabal-install",
+  "version": "3.6.2.0-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-base16-bytestring",
+    "haskell-cryptohash-sha256",
+    "haskell-echo",
+    "haskell-edit-distance",
+    "haskell-hackage-security",
+    "haskell-hashable",
+    "haskell-http",
+    "haskell-network-uri",
+    "haskell-random",
+    "haskell-regex-base",
+    "haskell-regex-posix",
+    "haskell-resolv",
+    "haskell-tar",
+    "haskell-zlib",
+    "haskell-lukko"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 200169787,
+  "transmit": 321740,
+  "disk": 4188660
+}
