@@ -1,0 +1,17 @@
+{
+  "name": "mbedtls",
+  "version": "3.5.2-1",
+  "depends": [
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja",
+    "python"
+  ],
+  "receive": 361306983,
+  "transmit": 564482,
+  "disk": 211765208
+}
