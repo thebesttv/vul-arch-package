@@ -1,0 +1,18 @@
+{
+  "name": "keycloak",
+  "version": "24.0.1-2",
+  "depends": [
+    "java-runtime-headless=17",
+    "grep",
+    "bash",
+    "coreutils",
+    "util-linux"
+  ],
+  "makedepends": [
+    "maven",
+    "java-environment=17"
+  ],
+  "receive": 239177951,
+  "transmit": 749443,
+  "disk": 140714661
+}
