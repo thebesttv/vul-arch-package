@@ -1,0 +1,16 @@
+{
+  "name": "hefur",
+  "version": "1.0-12",
+  "depends": [
+    "gnutls",
+    "xz",
+    "protobuf"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 199488541,
+  "transmit": 269261,
+  "disk": 5825269
+}
