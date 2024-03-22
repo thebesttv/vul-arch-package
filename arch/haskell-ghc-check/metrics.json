@@ -1,0 +1,17 @@
+{
+  "name": "haskell-ghc-check",
+  "version": "0.5.0.8-43",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc",
+    "haskell-ghc-paths",
+    "haskell-safe-exceptions",
+    "haskell-th-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199630363,
+  "transmit": 297667,
+  "disk": 263356
+}
