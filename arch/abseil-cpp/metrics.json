@@ -1,0 +1,14 @@
+{
+  "name": "abseil-cpp",
+  "version": "20240116.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest"
+  ],
+  "receive": 199606770,
+  "transmit": 374392,
+  "disk": 12677974
+}
