@@ -1,0 +1,19 @@
+{
+  "name": "xlockmore",
+  "version": "5.76-1",
+  "depends": [
+    "freetype2",
+    "gtk2",
+    "libxpm",
+    "openmotif",
+    "pam",
+    "libxmu",
+    "glu"
+  ],
+  "makedepends": [
+    "mesa"
+  ],
+  "receive": 199502134,
+  "transmit": 270236,
+  "disk": 16156064
+}
