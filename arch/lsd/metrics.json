@@ -1,0 +1,15 @@
+{
+  "name": "lsd",
+  "version": "1.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "zlib"
+  ],
+  "makedepends": [
+    "cargo",
+    "pandoc"
+  ],
+  "receive": 199461776,
+  "transmit": 285424,
+  "disk": 841190
+}
