@@ -1,0 +1,25 @@
+{
+  "name": "libheif",
+  "version": "1.17.6-5",
+  "depends": [
+    "aom",
+    "gcc-libs",
+    "glibc",
+    "libde265",
+    "libwebp",
+    "x265"
+  ],
+  "makedepends": [
+    "cmake",
+    "dav1d",
+    "ffmpeg",
+    "gdk-pixbuf2",
+    "libjpeg",
+    "libpng",
+    "rav1e",
+    "svt-av1"
+  ],
+  "receive": 199568222,
+  "transmit": 367478,
+  "disk": 5530760
+}
