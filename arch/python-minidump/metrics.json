@@ -1,0 +1,16 @@
+{
+  "name": "python-minidump",
+  "version": "0.0.23-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199575386,
+  "transmit": 393881,
+  "disk": 461948
+}
