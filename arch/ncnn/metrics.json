@@ -1,0 +1,17 @@
+{
+  "name": "ncnn",
+  "version": "20240102-2",
+  "depends": [
+    "vulkan-icd-loader"
+  ],
+  "makedepends": [
+    "cmake",
+    "glslang",
+    "ninja",
+    "protobuf",
+    "vulkan-headers"
+  ],
+  "receive": 207577447,
+  "transmit": 370640,
+  "disk": 56086328
+}
