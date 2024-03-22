@@ -1,0 +1,23 @@
+{
+  "name": "python-pysequoia",
+  "version": "0.1.23-1",
+  "depends": [
+    "bzip2",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "nettle",
+    "pcsclite",
+    "python"
+  ],
+  "makedepends": [
+    "clang",
+    "python-build",
+    "python-installer",
+    "python-maturin",
+    "python-wheel"
+  ],
+  "receive": 199529696,
+  "transmit": 326935,
+  "disk": 820938
+}
