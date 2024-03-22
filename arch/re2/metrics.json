@@ -1,0 +1,12 @@
+{
+  "name": "re2",
+  "version": "1:20240301-2",
+  "depends": [
+    "gcc-libs",
+    "abseil-cpp"
+  ],
+  "makedepends": [],
+  "receive": 199685864,
+  "transmit": 416216,
+  "disk": 2219240
+}
