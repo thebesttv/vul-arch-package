@@ -1,0 +1,25 @@
+{
+  "name": "sysdig",
+  "version": "0.35.4-2",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "pandoc",
+    "gtest",
+    "jsoncpp",
+    "libjsoncpp.so",
+    "luajit",
+    "curl",
+    "libcurl.so",
+    "jq",
+    "libb64",
+    "intel-tbb",
+    "grpc",
+    "yaml-cpp",
+    "re2",
+    "uthash"
+  ],
+  "receive": 269319447,
+  "transmit": 1239018,
+  "disk": 357938518
+}
