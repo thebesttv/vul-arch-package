@@ -1,0 +1,16 @@
+{
+  "name": "python-pyelftools",
+  "version": "0.31-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 206878454,
+  "transmit": 648427,
+  "disk": 79778550
+}
