@@ -1,0 +1,26 @@
+{
+  "name": "percona-server",
+  "version": "8.1.0_1-3",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "zlib",
+    "lz4",
+    "zstd",
+    "libaio",
+    "systemd-tools",
+    "pam",
+    "numactl",
+    "jemalloc",
+    "openssl",
+    "rpcsvc-proto",
+    "doxygen",
+    "graphviz",
+    "libevent",
+    "protobuf",
+    "libfido2"
+  ],
+  "receive": 814125085,
+  "transmit": 2545015,
+  "disk": 2387594116
+}
