@@ -1,0 +1,18 @@
+{
+  "name": "python-multidict",
+  "version": "6.0.5-1",
+  "depends": [
+    "python",
+    "glibc"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199452216,
+  "transmit": 247110,
+  "disk": 560678
+}
