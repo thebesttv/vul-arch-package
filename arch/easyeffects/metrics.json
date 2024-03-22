@@ -1,0 +1,35 @@
+{
+  "name": "easyeffects",
+  "version": "7.1.5-1",
+  "depends": [
+    "fftw",
+    "libfmt.so",
+    "gsl",
+    "gtk4",
+    "ladspa",
+    "libadwaita-1.so",
+    "libbs2b.so",
+    "libebur128",
+    "libsamplerate.so",
+    "libsigc-3.0.so",
+    "libsndfile.so",
+    "liblilv-0.so",
+    "pipewire",
+    "rnnoise",
+    "soundtouch",
+    "speexdsp",
+    "tbb",
+    "zita-convolver"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "itstool",
+    "meson",
+    "nlohmann-json",
+    "speex",
+    "lv2"
+  ],
+  "receive": 199441454,
+  "transmit": 265311,
+  "disk": 16986491
+}
