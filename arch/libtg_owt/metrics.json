@@ -1,0 +1,29 @@
+{
+  "name": "libtg_owt",
+  "version": "0.git24.592b14d-2",
+  "depends": [
+    "libdrm"
+  ],
+  "makedepends": [
+    "git",
+    "ninja",
+    "unzip",
+    "cmake",
+    "protobuf",
+    "libxrandr",
+    "libxcomposite",
+    "openssl",
+    "glibc",
+    "ffmpeg",
+    "libva",
+    "opus",
+    "yasm",
+    "libjpeg-turbo",
+    "pipewire",
+    "libxtst",
+    "libepoxy"
+  ],
+  "receive": 803058492,
+  "transmit": 7724696,
+  "disk": 728641149
+}
