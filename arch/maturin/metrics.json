@@ -1,0 +1,20 @@
+{
+  "name": "maturin",
+  "version": "1.5.1-1",
+  "depends": [],
+  "makedepends": [
+    "bzip2",
+    "gcc-libs",
+    "git",
+    "glibc",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-rust",
+    "python-wheel",
+    "rust"
+  ],
+  "receive": 200108602,
+  "transmit": 374322,
+  "disk": 3344338
+}
