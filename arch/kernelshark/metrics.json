@@ -1,0 +1,25 @@
+{
+  "name": "kernelshark",
+  "version": "2.3.1-1",
+  "depends": [
+    "freeglut",
+    "gcc-libs",
+    "glibc",
+    "glu",
+    "qt6-base",
+    "qt6-scxml",
+    "ttf-fira-sans"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "json-c",
+    "libglvnd",
+    "libtracefs",
+    "libtraceevent",
+    "trace-cmd"
+  ],
+  "receive": 199482694,
+  "transmit": 277893,
+  "disk": 9642440
+}
