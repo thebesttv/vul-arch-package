@@ -1,0 +1,17 @@
+{
+  "name": "python-sh",
+  "version": "2.0.6-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 199576137,
+  "transmit": 374412,
+  "disk": 1001468
+}
