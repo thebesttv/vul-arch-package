@@ -1,0 +1,34 @@
+{
+  "name": "haskell-wai-app-file-cgi",
+  "version": "3.1.10-178",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-case-insensitive",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-data-default-class",
+    "haskell-http-client",
+    "haskell-http-conduit",
+    "haskell-http-date",
+    "haskell-http-types",
+    "haskell-mime-types",
+    "haskell-network",
+    "haskell-sockaddr",
+    "haskell-static-hash",
+    "haskell-wai",
+    "haskell-wai-conduit",
+    "haskell-warp",
+    "haskell-word8"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-http",
+    "haskell-doctest",
+    "haskell-hspec"
+  ],
+  "receive": 199766782,
+  "transmit": 354352,
+  "disk": 433032
+}
