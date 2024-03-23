@@ -1,0 +1,13 @@
+{
+  "name": "containers-common",
+  "version": "1:0.58.0-1",
+  "depends": [
+    "container-network-stack>1"
+  ],
+  "makedepends": [
+    "go-md2man"
+  ],
+  "receive": 252221238,
+  "transmit": 905106,
+  "disk": 293145829
+}
