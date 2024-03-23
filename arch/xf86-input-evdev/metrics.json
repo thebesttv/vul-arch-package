@@ -1,0 +1,18 @@
+{
+  "name": "xf86-input-evdev",
+  "version": "2.10.6-4",
+  "depends": [
+    "systemd-libs",
+    "mtdev",
+    "libevdev",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-XINPUT_VERSION=24.4",
+    "xorgproto"
+  ],
+  "receive": 199643564,
+  "transmit": 304084,
+  "disk": 2685776
+}
