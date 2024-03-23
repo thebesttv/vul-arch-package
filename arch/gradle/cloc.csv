@@ -1,0 +1,46 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=34.67 s (919.3 files/s 156554.6 lines/s)"
+11067,HTML,164005,104227,2964795
+5954,Groovy,160261,99147,754529
+10273,Java,112386,243197,506811
+760,Kotlin,17024,16848,70212
+238,AsciiDoc,15160,2807,40904
+2544,Gradle,6998,7904,38988
+487,XML,329,3171,21288
+36,JavaScript,3709,5598,16614
+51,C/C++ Header,2275,6500,14268
+64,Text,120,0,8569
+23,CSS,1467,512,8057
+44,Maven,113,182,1726
+17,Markdown,463,43,1347
+4,JSON,1,0,754
+4,XSLT,75,84,630
+4,XSD,3,60,569
+47,TOML,60,35,248
+31,SVG,19,77,245
+25,C++,40,2,237
+4,Bourne Shell,58,232,230
+115,Properties,28,376,216
+29,Scala,63,51,212
+2,CSV,4,0,147
+2,DOS Batch,42,4,138
+15,C,36,22,113
+4,Ant,15,4,74
+2,PlantUML,16,0,56
+7,Swift,8,0,48
+5,JSP,0,0,38
+1,DTD,54,164,33
+2,Objective-C++,7,0,18
+2,Assembly,1,0,17
+1,ANTLR Grammar,7,0,16
+1,IDL,2,0,14
+1,SQL,4,15,14
+1,Snakemake,0,2,14
+1,Objective-C,3,0,7
+1,YAML,0,0,7
+1,Cucumber,1,0,6
+1,Windows Resource File,1,0,5
+1,diff,3,11,5
+2,ProGuard,4,20,2
+1,Ruby,0,0,1
+1,Visual Studio Solution,0,1,1
+31876,SUM,484865,491296,4452223
