@@ -1,0 +1,37 @@
+{
+  "name": "f3d",
+  "version": "2.3.0-4",
+  "depends": [
+    "vtk",
+    "glew",
+    "pugixml",
+    "netcdf",
+    "ospray",
+    "assimp",
+    "opencascade",
+    "alembic",
+    "fmt",
+    "nlohmann-json",
+    "draco",
+    "libxcursor",
+    "verdict",
+    "boost",
+    "openexr",
+    "usd"
+  ],
+  "makedepends": [
+    "cmake",
+    "help2man",
+    "openmp",
+    "pybind11",
+    "ninja",
+    "eigen",
+    "utf8cpp",
+    "python",
+    "jdk-openjdk",
+    "fast_float"
+  ],
+  "receive": 205263049,
+  "transmit": 496833,
+  "disk": 100719274
+}
