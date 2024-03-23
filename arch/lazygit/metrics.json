@@ -1,0 +1,14 @@
+{
+  "name": "lazygit",
+  "version": "0.41.0-1",
+  "depends": [
+    "git",
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 204425265,
+  "transmit": 396055,
+  "disk": 28782473
+}
