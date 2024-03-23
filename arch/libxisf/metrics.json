@@ -1,0 +1,18 @@
+{
+  "name": "libxisf",
+  "version": "0.2.12-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "lz4",
+    "pugixml",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199588397,
+  "transmit": 373266,
+  "disk": 5965405
+}
