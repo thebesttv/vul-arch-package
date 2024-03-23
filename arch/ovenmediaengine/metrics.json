@@ -1,0 +1,25 @@
+{
+  "name": "ovenmediaengine",
+  "version": "0.16.5-2",
+  "depends": [
+    "openssl>=3",
+    "libsrtp",
+    "srt",
+    "opus",
+    "ffmpeg",
+    "jemalloc",
+    "pcre2",
+    "hiredis"
+  ],
+  "makedepends": [
+    "bc",
+    "nasm",
+    "x264",
+    "x265",
+    "libvpx",
+    "fdkaac"
+  ],
+  "receive": 199590627,
+  "transmit": 353524,
+  "disk": 38106935
+}
