@@ -1,0 +1,32 @@
+{
+  "name": "libopenshot",
+  "version": "0.3.2-9",
+  "depends": [
+    "babl",
+    "gcc-libs",
+    "glibc",
+    "libmagick",
+    "opencv",
+    "python",
+    "qt5-base",
+    "qt5-multimedia",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "catch2",
+    "cmake",
+    "cppzmq",
+    "doxygen",
+    "ffmpeg",
+    "jsoncpp",
+    "libopenshot-audio",
+    "protobuf",
+    "swig",
+    "unittestpp",
+    "xorg-server-xvfb",
+    "zeromq"
+  ],
+  "receive": 199740497,
+  "transmit": 432007,
+  "disk": 55844461
+}
