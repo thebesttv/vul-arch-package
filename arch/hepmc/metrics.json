@@ -1,0 +1,20 @@
+{
+  "name": "hepmc",
+  "version": "3.2.6-7",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "gcc-fortran",
+    "graphviz",
+    "hepmc2",
+    "pythia8",
+    "python",
+    "root",
+    "protobuf",
+    "cern-vdt"
+  ],
+  "receive": 199479943,
+  "transmit": 286379,
+  "disk": 36451724
+}
