@@ -1,0 +1,32 @@
+{
+  "name": "neomutt",
+  "version": "20240323-1",
+  "depends": [
+    "glibc",
+    "gpgme",
+    "lua53",
+    "notmuch-runtime",
+    "krb5",
+    "gnutls",
+    "sqlite",
+    "libsasl",
+    "ncurses",
+    "libidn2",
+    "lmdb",
+    "gdbm",
+    "kyotocabinet",
+    "lz4",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "git",
+    "gnupg",
+    "libxslt",
+    "docbook-xsl",
+    "w3m"
+  ],
+  "receive": 199674566,
+  "transmit": 379463,
+  "disk": 21952404
+}
