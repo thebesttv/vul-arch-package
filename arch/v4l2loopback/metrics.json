@@ -1,0 +1,11 @@
+{
+  "name": "v4l2loopback",
+  "version": "0.13.1-1",
+  "depends": [],
+  "makedepends": [
+    "help2man"
+  ],
+  "receive": 199595339,
+  "transmit": 386940,
+  "disk": 514256
+}
