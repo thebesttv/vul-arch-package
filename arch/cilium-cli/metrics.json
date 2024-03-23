@@ -1,0 +1,13 @@
+{
+  "name": "cilium-cli",
+  "version": "0.16.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 232702181,
+  "transmit": 706613,
+  "disk": 154463934
+}
