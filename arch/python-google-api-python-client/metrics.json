@@ -1,0 +1,15 @@
+{
+  "name": "python-google-api-python-client",
+  "version": "2.123.0-1",
+  "depends": [
+    "python-google-auth-httplib2",
+    "python-uritemplate",
+    "python-google-api-core"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 251654162,
+  "transmit": 688978,
+  "disk": 466929648
+}
