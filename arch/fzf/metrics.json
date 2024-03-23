@@ -1,0 +1,14 @@
+{
+  "name": "fzf",
+  "version": "0.48.1-1",
+  "depends": [
+    "bash"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199686059,
+  "transmit": 409094,
+  "disk": 12316198
+}
