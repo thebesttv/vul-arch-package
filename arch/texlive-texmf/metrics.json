@@ -1,0 +1,13 @@
+{
+  "name": "texlive-texmf",
+  "version": "2024.0-3",
+  "depends": [
+    "texlive-bin"
+  ],
+  "makedepends": [
+    "subversion"
+  ],
+  "receive": 6746715339,
+  "transmit": 12442037,
+  "disk": 34208990029
+}
