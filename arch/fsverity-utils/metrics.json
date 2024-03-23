@@ -1,0 +1,13 @@
+{
+  "name": "fsverity-utils",
+  "version": "1.6-1",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "pandoc"
+  ],
+  "receive": 199485459,
+  "transmit": 245766,
+  "disk": 326324
+}
