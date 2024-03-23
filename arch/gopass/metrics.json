@@ -1,0 +1,11 @@
+{
+  "name": "gopass",
+  "version": "1.15.12-2",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199583244,
+  "transmit": 390701,
+  "disk": 6666389
+}
