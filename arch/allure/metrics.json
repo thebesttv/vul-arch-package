@@ -1,0 +1,24 @@
+{
+  "name": "allure",
+  "version": "0.11.0.0-137",
+  "depends": [
+    "ghc-libs",
+    "haskell-lambdahack",
+    "haskell-async",
+    "haskell-enummapset",
+    "haskell-file-embed",
+    "haskell-hsini",
+    "haskell-optparse-applicative",
+    "haskell-primitive",
+    "haskell-splitmix",
+    "haskell-th-lift-instances"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 200067797,
+  "transmit": 624128,
+  "disk": 3268185
+}
