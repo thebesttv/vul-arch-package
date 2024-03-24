@@ -1,0 +1,19 @@
+{
+  "name": "gnome-chess",
+  "version": "46.0-1",
+  "depends": [
+    "gtk4",
+    "libadwaita",
+    "librsvg"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199912147,
+  "transmit": 581912,
+  "disk": 21293563
+}
