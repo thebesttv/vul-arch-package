@@ -1,0 +1,18 @@
+{
+  "name": "haskell-lens-action",
+  "version": "0.2.6-171",
+  "depends": [
+    "ghc-libs",
+    "haskell-comonad",
+    "haskell-contravariant",
+    "haskell-lens",
+    "haskell-profunctors",
+    "haskell-semigroupoids"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200183870,
+  "transmit": 621892,
+  "disk": 420372
+}
