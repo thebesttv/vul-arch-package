@@ -1,0 +1,11 @@
+{
+  "name": "gnome-shell-extension-dash-to-panel",
+  "version": "61-1",
+  "depends": [
+    "gnome-shell"
+  ],
+  "makedepends": [],
+  "receive": 199688363,
+  "transmit": 514512,
+  "disk": 44661824
+}
