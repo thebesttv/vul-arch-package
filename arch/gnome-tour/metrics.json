@@ -1,0 +1,21 @@
+{
+  "name": "gnome-tour",
+  "version": "46.0-1",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "gtk4",
+    "hicolor-icon-theme",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "meson",
+    "rust"
+  ],
+  "receive": 199426290,
+  "transmit": 220675,
+  "disk": 4489722
+}
