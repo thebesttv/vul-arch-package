@@ -1,0 +1,34 @@
+{
+  "name": "gnome-maps",
+  "version": "46.0-1",
+  "depends": [
+    "cairo",
+    "dconf",
+    "hicolor-icon-theme",
+    "gcc-libs",
+    "geoclue",
+    "geocode-glib-2",
+    "gjs",
+    "glib2",
+    "glibc",
+    "gtk4",
+    "json-glib",
+    "libadwaita",
+    "libgweather-4",
+    "libportal",
+    "librest",
+    "librsvg",
+    "libshumate",
+    "libxml2",
+    "pango"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199803555,
+  "transmit": 481899,
+  "disk": 41845785
+}
