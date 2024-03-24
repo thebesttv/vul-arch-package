@@ -1,0 +1,41 @@
+{
+  "name": "freerdp2",
+  "version": "2.11.5-1",
+  "depends": [
+    "glibc",
+    "libcups",
+    "libx11",
+    "libxcursor",
+    "libxext",
+    "libxdamage",
+    "libxfixes",
+    "libxkbcommon",
+    "libxi",
+    "libxinerama",
+    "libxkbfile",
+    "libxrandr",
+    "libxrender",
+    "libxtst",
+    "pcsclite",
+    "wayland"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "docbook-xsl",
+    "ffmpeg",
+    "icu",
+    "krb5",
+    "libjpeg-turbo",
+    "libpulse",
+    "libusb",
+    "openssl",
+    "pam",
+    "systemd",
+    "xmlto",
+    "xorgproto"
+  ],
+  "receive": 207346449,
+  "transmit": 559217,
+  "disk": 34563657
+}
