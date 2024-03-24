@@ -1,0 +1,17 @@
+{
+  "name": "almanah",
+  "version": "0.12.3-6",
+  "depends": [
+    "evolution-data-server",
+    "libcryptui",
+    "gtkspell3",
+    "gtksourceview3"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "meson"
+  ],
+  "receive": 199592200,
+  "transmit": 366333,
+  "disk": 3180240
+}
