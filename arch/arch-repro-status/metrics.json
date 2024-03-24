@@ -1,0 +1,16 @@
+{
+  "name": "arch-repro-status",
+  "version": "1.4.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libalpm.so",
+    "libssl.so"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199722569,
+  "transmit": 404449,
+  "disk": 5324885
+}
