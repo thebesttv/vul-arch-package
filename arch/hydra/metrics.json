@@ -1,0 +1,29 @@
+{
+  "name": "hydra",
+  "version": "9.5-2",
+  "depends": [
+    "afpfs-ng",
+    "apr",
+    "bash",
+    "glibc",
+    "libfbclient",
+    "libgcrypt",
+    "libidn",
+    "libmemcached",
+    "mongo-c-driver",
+    "openssl",
+    "pcre2",
+    "subversion",
+    "zlib"
+  ],
+  "makedepends": [
+    "freerdp2",
+    "libssh",
+    "mariadb-libs",
+    "ncurses",
+    "postgresql-libs"
+  ],
+  "receive": 199562924,
+  "transmit": 382794,
+  "disk": 4002679
+}
