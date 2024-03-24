@@ -1,0 +1,19 @@
+{
+  "name": "git-delta",
+  "version": "0.17.0-2",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "libgit2",
+    "libgit2.so",
+    "oniguruma",
+    "zlib"
+  ],
+  "makedepends": [
+    "cargo",
+    "mdbook"
+  ],
+  "receive": 199729990,
+  "transmit": 542198,
+  "disk": 5215974
+}
