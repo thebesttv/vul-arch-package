@@ -1,0 +1,15 @@
+{
+  "name": "gnome-shell-extensions",
+  "version": "46.0-1",
+  "depends": [
+    "dconf",
+    "gnome-shell"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199685494,
+  "transmit": 423754,
+  "disk": 5446758
+}
