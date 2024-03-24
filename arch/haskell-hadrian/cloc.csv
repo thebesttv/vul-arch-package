@@ -1,0 +1,53 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=4.49 s (1419.9 files/s 355650.9 lines/s)"
+4162,Haskell,156897,288638,632817
+283,C,13140,20200,69098
+80,Bourne Shell,14339,23915,60271
+64,JSON,0,0,56479
+217,HTML,200,6,47988
+195,reStructuredText,16895,18248,27705
+42,TeX,3367,788,18399
+289,C/C++ Header,4912,9809,16735
+9,C++,1137,2027,11185
+136,Markdown,4256,32,10309
+73,YAML,370,569,9303
+424,make,2375,4067,7629
+101,m4,637,312,5435
+6,SVG,5,3,5282
+8,Fortran 77,672,1049,3548
+24,Python,940,922,2839
+12,CSS,645,152,2659
+1,Pascal,663,672,2581
+29,Assembly,226,270,2145
+1,yacc,358,0,1571
+5,TypeScript,128,121,816
+38,Text,156,0,744
+9,JavaScript,93,136,605
+9,Objective-C,110,0,537
+4,Scheme,4,0,525
+2,vim script,59,65,510
+7,Windows Module Definition,27,0,489
+9,Dockerfile,72,166,482
+83,XML,80,1,468
+1,Puppet,106,0,445
+4,MATLAB,69,0,278
+17,Bourne Again Shell,99,174,250
+4,diff,80,323,244
+1,Logos,41,11,235
+2,Nix,35,28,214
+2,PL/M,24,0,206
+1,Racket,16,34,197
+9,DOS Batch,23,6,94
+1,Clean,17,0,77
+1,D,16,42,60
+2,Perl,12,4,52
+2,Linker Script,0,10,42
+1,PowerShell,0,0,31
+1,INI,3,0,11
+1,dhall,0,0,9
+1,TOML,0,3,8
+1,Lisp,2,4,7
+1,C Shell,0,0,3
+2,TNSDL,0,0,2
+1,COBOL,0,0,1
+1,Windows Resource File,0,0,1
+6379,SUM,223306,372807,1001621
