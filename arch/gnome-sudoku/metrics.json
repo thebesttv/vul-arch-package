@@ -1,0 +1,20 @@
+{
+  "name": "gnome-sudoku",
+  "version": "46.0-1",
+  "depends": [
+    "gtk4",
+    "json-glib",
+    "libadwaita",
+    "libgee",
+    "qqwing"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199661775,
+  "transmit": 401129,
+  "disk": 15306391
+}
