@@ -1,0 +1,17 @@
+{
+  "name": "lightsoff",
+  "version": "46.0-1",
+  "depends": [
+    "gtk3",
+    "librsvg"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199708732,
+  "transmit": 394513,
+  "disk": 9353317
+}
