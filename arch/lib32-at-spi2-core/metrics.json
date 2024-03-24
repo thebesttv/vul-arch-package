@@ -1,0 +1,22 @@
+{
+  "name": "lib32-at-spi2-core",
+  "version": "2.52.0-1",
+  "depends": [
+    "at-spi2-core",
+    "lib32-dbus",
+    "lib32-glib2",
+    "lib32-glibc",
+    "lib32-libx11",
+    "lib32-libxi",
+    "lib32-libxml2",
+    "lib32-libxtst"
+  ],
+  "makedepends": [
+    "dbus-broker",
+    "git",
+    "meson"
+  ],
+  "receive": 199519621,
+  "transmit": 257204,
+  "disk": 14587157
+}
