@@ -1,0 +1,21 @@
+{
+  "name": "gtranslator",
+  "version": "46.0-1",
+  "depends": [
+    "gettext",
+    "gtksourceview5",
+    "hicolor-icon-theme",
+    "iso-codes",
+    "libadwaita",
+    "libgda6",
+    "libspelling"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199526273,
+  "transmit": 372866,
+  "disk": 8652350
+}
