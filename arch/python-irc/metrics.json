@@ -1,0 +1,23 @@
+{
+  "name": "python-irc",
+  "version": "20.3.1-1",
+  "depends": [
+    "python-jaraco.collections",
+    "python-jaraco.functools",
+    "python-jaraco.logging",
+    "python-jaraco.stream",
+    "python-jaraco.text",
+    "python-more-itertools",
+    "python-pytz",
+    "python-tempora"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199525779,
+  "transmit": 350677,
+  "disk": 567350
+}
