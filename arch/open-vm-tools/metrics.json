@@ -1,0 +1,32 @@
+{
+  "name": "open-vm-tools",
+  "version": "6:12.4.0-1",
+  "depends": [
+    "fuse3",
+    "icu",
+    "iproute2",
+    "libdnet",
+    "libmspack",
+    "libsigc++",
+    "libxcrypt",
+    "libcrypt.so",
+    "libxss",
+    "lsb-release",
+    "procps-ng",
+    "uriparser",
+    "gdk-pixbuf-xlib",
+    "which",
+    "xmlsec"
+  ],
+  "makedepends": [
+    "chrpath",
+    "doxygen",
+    "gtkmm3",
+    "libxtst",
+    "python",
+    "rpcsvc-proto"
+  ],
+  "receive": 199713297,
+  "transmit": 412727,
+  "disk": 17755344
+}
