@@ -1,0 +1,22 @@
+{
+  "name": "libgedit-gtksourceview",
+  "version": "299.1.0-1",
+  "depends": [
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gtk3",
+    "libxml2",
+    "pango"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "meson"
+  ],
+  "receive": 199763407,
+  "transmit": 425595,
+  "disk": 23774649
+}
