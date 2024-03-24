@@ -1,0 +1,19 @@
+{
+  "name": "evolution-ews",
+  "version": "3.52.0-1",
+  "depends": [
+    "evolution",
+    "libmspack"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "intltool",
+    "ninja",
+    "python",
+    "systemd"
+  ],
+  "receive": 199556856,
+  "transmit": 258117,
+  "disk": 21253906
+}
