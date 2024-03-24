@@ -1,0 +1,19 @@
+{
+  "name": "haskell-strict-list",
+  "version": "0.1.7.4-19",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-semigroupoids"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199539181,
+  "transmit": 367326,
+  "disk": 415699
+}
