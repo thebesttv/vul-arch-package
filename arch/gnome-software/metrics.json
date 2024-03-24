@@ -1,0 +1,29 @@
+{
+  "name": "gnome-software",
+  "version": "46.0-1",
+  "depends": [
+    "appstream",
+    "gsettings-desktop-schemas",
+    "gtk4",
+    "libadwaita",
+    "libsoup3",
+    "libsysprof-capture",
+    "libxmlb",
+    "polkit"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "flatpak",
+    "fwupd",
+    "git",
+    "gobject-introspection",
+    "gtk-doc",
+    "libglib-testing",
+    "malcontent",
+    "meson",
+    "python-packaging"
+  ],
+  "receive": 274777537,
+  "transmit": 311399,
+  "disk": 98141609
+}
