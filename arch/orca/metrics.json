@@ -1,0 +1,36 @@
+{
+  "name": "orca",
+  "version": "46.0-1",
+  "depends": [
+    "at-spi2-core",
+    "brltty",
+    "glib2",
+    "gobject-introspection-runtime",
+    "gsettings-desktop-schemas",
+    "gstreamer",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gtk3",
+    "hicolor-icon-theme",
+    "liblouis",
+    "libwnck3",
+    "pango",
+    "python",
+    "python-cairo",
+    "python-gobject",
+    "python-psutil",
+    "python-setproctitle",
+    "speech-dispatcher",
+    "xorg-xkbcomp",
+    "xorg-xmodmap"
+  ],
+  "makedepends": [
+    "git",
+    "itstool",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 271940576,
+  "transmit": 389999,
+  "disk": 127171426
+}
