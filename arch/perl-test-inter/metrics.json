@@ -1,0 +1,11 @@
+{
+  "name": "perl-test-inter",
+  "version": "1.11-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199452762,
+  "transmit": 245428,
+  "disk": 322438
+}
