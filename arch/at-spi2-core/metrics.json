@@ -1,0 +1,31 @@
+{
+  "name": "at-spi2-core",
+  "version": "2.52.0-1",
+  "depends": [
+    "bash",
+    "dbus",
+    "glib2",
+    "glibc",
+    "gsettings-desktop-schemas",
+    "libei",
+    "libx11",
+    "libxi",
+    "libxkbcommon",
+    "libxml2",
+    "libxtst",
+    "systemd",
+    "systemd-libs",
+    "xorg-xprop"
+  ],
+  "makedepends": [
+    "dbus-broker",
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson",
+    "python-sphinx"
+  ],
+  "receive": 199695245,
+  "transmit": 382881,
+  "disk": 14635761
+}
