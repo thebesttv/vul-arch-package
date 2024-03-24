@@ -1,0 +1,25 @@
+{
+  "name": "haskell-safecopy",
+  "version": "0.10.4.2-264",
+  "depends": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-generic-data",
+    "haskell-old-time",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit",
+    "haskell-lens",
+    "haskell-lens-action",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 200082637,
+  "transmit": 496197,
+  "disk": 596979
+}
