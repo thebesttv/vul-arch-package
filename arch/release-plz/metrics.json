@@ -1,0 +1,17 @@
+{
+  "name": "release-plz",
+  "version": "0.3.56-1",
+  "depends": [
+    "gcc-libs",
+    "curl",
+    "libgit2",
+    "openssl"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 199591385,
+  "transmit": 286665,
+  "disk": 22929905
+}
