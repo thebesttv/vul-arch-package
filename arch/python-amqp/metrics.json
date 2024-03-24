@@ -1,0 +1,11 @@
+{
+  "name": "python-amqp",
+  "version": "5.2.0-1",
+  "depends": [
+    "python-vine"
+  ],
+  "makedepends": [],
+  "receive": 199560318,
+  "transmit": 348334,
+  "disk": 807595
+}
