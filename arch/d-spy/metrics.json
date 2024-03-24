@@ -1,0 +1,20 @@
+{
+  "name": "d-spy",
+  "version": "1.10.0-1",
+  "depends": [
+    "dconf",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "gtk4",
+    "hicolor-icon-theme",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199470377,
+  "transmit": 240572,
+  "disk": 2132633
+}
