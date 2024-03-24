@@ -1,0 +1,19 @@
+{
+  "name": "haskell-vector-instances",
+  "version": "3.4.2-40",
+  "depends": [
+    "ghc-libs",
+    "haskell-comonad",
+    "haskell-hashable",
+    "haskell-keys",
+    "haskell-pointed",
+    "haskell-semigroupoids",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199552305,
+  "transmit": 345672,
+  "disk": 498072
+}
