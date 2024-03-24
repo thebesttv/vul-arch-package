@@ -1,0 +1,24 @@
+{
+  "name": "msgraph",
+  "version": "0.2.1-1",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "gobject-introspection-runtime",
+    "json-glib",
+    "libgoa",
+    "librest",
+    "libsoup3",
+    "uhttpmock"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gobject-introspection",
+    "meson"
+  ],
+  "receive": 199659679,
+  "transmit": 451308,
+  "disk": 954063
+}
