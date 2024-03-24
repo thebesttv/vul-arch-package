@@ -1,0 +1,14 @@
+{
+  "name": "cargo-public-api",
+  "version": "0.34.0-1",
+  "depends": [
+    "gcc-libs",
+    "libgit2"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199526428,
+  "transmit": 342556,
+  "disk": 1594904
+}
