@@ -1,0 +1,19 @@
+{
+  "name": "gobject-introspection",
+  "version": "1.80.0-1",
+  "depends": [],
+  "makedepends": [
+    "cairo",
+    "git",
+    "glib2=2.80.0",
+    "gtk-doc",
+    "libffi",
+    "meson",
+    "python-mako",
+    "python-markdown",
+    "python-sphinx"
+  ],
+  "receive": 314956849,
+  "transmit": 372823,
+  "disk": 184700691
+}
