@@ -1,0 +1,13 @@
+{
+  "name": "fwupd-efi",
+  "version": "1.5-2",
+  "depends": [],
+  "makedepends": [
+    "meson",
+    "gnu-efi",
+    "python-pefile"
+  ],
+  "receive": 199538350,
+  "transmit": 361397,
+  "disk": 363066
+}
