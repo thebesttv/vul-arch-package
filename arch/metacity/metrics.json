@@ -1,0 +1,38 @@
+{
+  "name": "metacity",
+  "version": "3.52.0-1",
+  "depends": [
+    "at-spi2-core",
+    "cairo",
+    "dconf",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "gsettings-desktop-schemas",
+    "gtk3",
+    "libcanberra",
+    "libice",
+    "libgtop",
+    "libsm",
+    "libx11",
+    "libxcomposite",
+    "libxcursor",
+    "libxdamage",
+    "libxext",
+    "libxfixes",
+    "libxinerama",
+    "libxpresent",
+    "libxrandr",
+    "libxres",
+    "libxrender",
+    "pango",
+    "startup-notification",
+    "zenity"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199518396,
+  "transmit": 332590,
+  "disk": 22986684
+}
