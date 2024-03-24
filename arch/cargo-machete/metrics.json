@@ -1,0 +1,11 @@
+{
+  "name": "cargo-machete",
+  "version": "0.6.2-1",
+  "depends": [
+    "cargo"
+  ],
+  "makedepends": [],
+  "receive": 199664066,
+  "transmit": 406086,
+  "disk": 424484
+}
