@@ -1,0 +1,25 @@
+{
+  "name": "openmpi",
+  "version": "5.0.2-7",
+  "depends": [],
+  "makedepends": [
+    "cuda",
+    "gcc-fortran",
+    "gcc-libs",
+    "glibc",
+    "hip-runtime-amd",
+    "hwloc",
+    "libevent",
+    "libfabric",
+    "libnl",
+    "openpmix",
+    "openucc",
+    "openucx",
+    "prrte",
+    "valgrind",
+    "zlib"
+  ],
+  "receive": 229562161,
+  "transmit": 397899,
+  "disk": 211915855
+}
