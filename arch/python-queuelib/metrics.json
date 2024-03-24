@@ -1,0 +1,16 @@
+{
+  "name": "python-queuelib",
+  "version": "1.6.2-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 200056960,
+  "transmit": 415522,
+  "disk": 183331
+}
