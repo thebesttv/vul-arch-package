@@ -1,0 +1,26 @@
+{
+  "name": "swell-foop",
+  "version": "46.0-1",
+  "depends": [
+    "cairo",
+    "dconf",
+    "glib2",
+    "glibc",
+    "gtk4",
+    "hicolor-icon-theme",
+    "libgee",
+    "libgnome-games-support-2",
+    "librsvg",
+    "pango"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "meson",
+    "vala",
+    "yelp-tools"
+  ],
+  "receive": 199639930,
+  "transmit": 362519,
+  "disk": 13103972
+}
