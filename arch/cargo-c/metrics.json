@@ -1,0 +1,14 @@
+{
+  "name": "cargo-c",
+  "version": "0.9.31-1",
+  "depends": [
+    "cargo",
+    "libcurl.so",
+    "libssl.so",
+    "libz.so"
+  ],
+  "makedepends": [],
+  "receive": 199547959,
+  "transmit": 356338,
+  "disk": 442432
+}
