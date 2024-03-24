@@ -1,0 +1,20 @@
+{
+  "name": "util-linux",
+  "version": "2.40rc2-1",
+  "depends": [],
+  "makedepends": [
+    "asciidoctor",
+    "bash-completion",
+    "git",
+    "libcap-ng",
+    "libutempter",
+    "libxcrypt",
+    "meson",
+    "python",
+    "sqlite",
+    "systemd"
+  ],
+  "receive": 414770024,
+  "transmit": 528779,
+  "disk": 277707102
+}
