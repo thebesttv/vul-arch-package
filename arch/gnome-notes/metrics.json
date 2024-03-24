@@ -1,0 +1,24 @@
+{
+  "name": "gnome-notes",
+  "version": "40.1-5",
+  "depends": [
+    "curl",
+    "evolution-data-server",
+    "glib2",
+    "gnome-online-accounts",
+    "gtk3",
+    "json-glib",
+    "libhandy",
+    "libxml2",
+    "tracker3",
+    "webkit2gtk-4.1"
+  ],
+  "makedepends": [
+    "git",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 199520513,
+  "transmit": 317439,
+  "disk": 10980488
+}
