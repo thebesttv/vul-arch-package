@@ -1,0 +1,14 @@
+{
+  "name": "gitu",
+  "version": "0.10.0-1",
+  "depends": [
+    "gcc-libs",
+    "libgit2"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199498937,
+  "transmit": 331945,
+  "disk": 4703972
+}
