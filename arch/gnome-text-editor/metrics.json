@@ -1,0 +1,28 @@
+{
+  "name": "gnome-text-editor",
+  "version": "46.0-1",
+  "depends": [
+    "cairo",
+    "dconf",
+    "editorconfig-core-c",
+    "enchant",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "gtk4",
+    "gtksourceview5",
+    "hicolor-icon-theme",
+    "icu",
+    "libadwaita",
+    "pango"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "meson",
+    "yelp-tools"
+  ],
+  "receive": 201372336,
+  "transmit": 429373,
+  "disk": 11252096
+}
