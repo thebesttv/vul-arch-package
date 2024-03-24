@@ -1,0 +1,23 @@
+{
+  "name": "python-softlayer-zeep",
+  "version": "5.0.0-3",
+  "depends": [
+    "python-attrs",
+    "python-isodate",
+    "python-lxml",
+    "python-platformdirs",
+    "python-requests",
+    "python-requests-toolbelt",
+    "python-requests-file",
+    "python-pytz"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-wheel",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 199588498,
+  "transmit": 378119,
+  "disk": 1528079
+}
