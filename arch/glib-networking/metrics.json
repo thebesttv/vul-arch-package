@@ -1,0 +1,18 @@
+{
+  "name": "glib-networking",
+  "version": "1:2.80.0-1",
+  "depends": [
+    "glib2",
+    "glibc",
+    "gnutls",
+    "gsettings-desktop-schemas",
+    "libproxy"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199566969,
+  "transmit": 268248,
+  "disk": 6765372
+}
