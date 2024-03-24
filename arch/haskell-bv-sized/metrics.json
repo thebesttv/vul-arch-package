@@ -1,0 +1,23 @@
+{
+  "name": "haskell-bv-sized",
+  "version": "1.0.5-73",
+  "depends": [
+    "ghc-libs",
+    "haskell-bitwise",
+    "haskell-panic",
+    "haskell-parameterized-utils",
+    "haskell-random",
+    "haskell-th-lift"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hedgehog",
+    "haskell-monadrandom",
+    "haskell-tasty",
+    "haskell-tasty-hedgehog"
+  ],
+  "receive": 199518129,
+  "transmit": 355260,
+  "disk": 525743
+}
