@@ -204,7 +204,7 @@ arduino-ctags 5.8_arduino11-4
 arduino-docs 1.6.6-8
 arduino-language-server 0.7.6-1
 argbash 2.10.0-2
-argocd 2.10.2-1
+argocd 2.10.4-1
 argon2 20190702-5
 argparse 3.0-2
 argtable 2.13-5
@@ -382,7 +382,7 @@ bass 1.2-13
 bat 0.24.0-1
 bat-extras 2023.09.19-1
 batctl 2023.1-1
-bats 1.10.0-3
+bats 1.11.0-1
 bats-assert 2.1.0-2
 bats-file 0.4.0-1
 bats-support 0.3.0-5
@@ -468,7 +468,7 @@ bmkdep 20140112-4
 bmon 4.0-4
 bmusb 0.7.8-1
 bnfc 2.9.5-1
-bob 2.8.1-1
+bob 2.8.2-1
 bogofilter 1.2.5-8
 boinc 7.24.1-1
 boinctui 2.7.0-2
@@ -617,7 +617,7 @@ cargo-deny 0.14.20-1
 cargo-depgraph 1.6.0-2
 cargo-dist 0.12.0-1
 cargo-edit 0.12.2-1
-cargo-expand 1.0.79-1
+cargo-expand 1.0.80-1
 cargo-feature 0.7.0-1
 cargo-flamegraph 0.6.5-3
 cargo-fuzz 0.12.0-1
@@ -649,7 +649,7 @@ cargo-supply-chain 0.3.2-1
 cargo-tarpaulin 0.27.3-1
 cargo-tauri 1.5.11-1
 cargo-udeps 0.1.47-1
-cargo-update 13.3.0-2
+cargo-update 13.4.0-1
 cargo-watch 8.5.2-1
 cargo-zigbuild 0.18.3-1
 cargo2junit 0.1.13-1
@@ -946,7 +946,7 @@ csound 6.18.1-3
 csound-plugins 1.0.2-8
 csoundqt 1:1.1.1-2
 csvkit 1.4.0-1
-csvlens 0.8.0-1
+csvlens 0.8.1-1
 ct 0.9.4-1
 ctags 1:6.1.0-2
 ctemplate 2.4-3
@@ -1228,9 +1228,9 @@ docbook-xml 4.5-9
 docbook-xsl 1.79.2-7
 docbook2x 0.8.8-18
 docbook5-xml 5.1-3
-docker 1:25.0.4-1
+docker 1:26.0.0-1
 docker-buildx 0.13.1-1
-docker-compose 2.24.7-1
+docker-compose 2.26.0-1
 docker-machine 0.16.2-5
 docker-scan 0.26.0-1
 docopt 0.6.3-4
@@ -1498,7 +1498,7 @@ fasd 1.0.2-1
 fasm 1.73.32-1
 fast_float 6.1.0-2
 fastd 22-4
-fastfetch 2.8.9-1
+fastfetch 2.8.10-1
 fastjar 0.98-6
 fastjet 3.4.2-1
 fatresize 1.1.0-1
@@ -1597,7 +1597,7 @@ fig2dev 3.2.9-1
 figlet 2.2.5-5
 fil-plugins 0.3.0-7
 file 5.45-1
-file-roller 44beta-1
+file-roller 44-1
 filebin 4.0.0-1
 filelight 24.02.1-1
 filemanager-actions 3.4-6
@@ -2084,7 +2084,7 @@ gotosocial 0.14.2-1
 gotraceui 0.4.0-2
 gottengeography 2.5-13
 gource 0.54-2
-goverlay 1.0-1
+goverlay 1.1.1-1
 gox 1.0.1-6
 goxel 0.14.0-1
 gpac 1:2.2.1-2
@@ -3410,6 +3410,7 @@ haskell-zlib-bindings 0.1.1.5-157
 hasktags 0.73.0-11
 hatari 2.4.1-2
 haveged 1.9.18-1
+hawkeye 5.2.1-1
 haxe 4.3.3-1
 hblock 3.4.4-1
 hck 0.9.2-1
@@ -3787,7 +3788,7 @@ judy 1.0.5-7
 jujutsu 0.15.1-2
 juk 24.02.1-1
 julia 2:1.10.2-1
-jumpy 0.10.1-1
+jumpy 0.11.0-1
 junicode-font 2.206-1
 junit 4.13.2-1
 jupymake 0.9-19
@@ -3954,7 +3955,7 @@ kexi 3.2.0-5
 keybase 6.0.2-4
 keybinder2 0.3.1-4
 keychain 2.8.5-2
-keycloak 24.0.1-2
+keycloak 24.0.2-1
 keycloak-archlinux-theme 1.4.0-1
 keycloak-hcaptcha 1.0.1-2
 keycloak-metrics-spi 4.0.0-1
@@ -4920,6 +4921,7 @@ libnsl 2.0.1-1
 libnss_nis 3.2-1
 libnsutils 0.1.1-1
 libnumbertext 1.0.11-1
+libnvidia-container 1.14.6-3
 libnvme 1.8-1
 liboauth 1:1.0.3+r16+gc26f038-1
 libodfgen 0.1.8-2
@@ -4954,7 +4956,7 @@ libpano13 2.9.22-1
 libpaper 2.2.5-1
 libparserutils 0.2.5-1
 libpcap 1.10.4-1
-libpciaccess 0.18-1
+libpciaccess 0.18.1-1
 libpeas 1.36.0-4
 libpeas-2 2.0.1-1
 libpg_query 15.4.2.3-1
@@ -5219,7 +5221,7 @@ libxml2 2.12.6-1
 libxmlb 0.3.15-1
 libxmlbird 1.2.15-1
 libxmlrpc 1:1.59.02-1
-libxmu 1.1.4-1
+libxmu 1.2.0-1
 libxp 1.0.4-2
 libxpm 3.5.17-1
 libxpresent 1.0.1-1
@@ -5261,7 +5263,7 @@ lighttpd 1.4.74-1
 lilv 0.24.24-1
 lilypond 2.24.3-2
 limesuite 23.11.0-1
-limine 7.1.0-1
+limine 7.2.0-1
 linbox 1.7.0-1
 lincity-ng 2.0-10
 linenoise-ng 1.0.1-2
@@ -5926,7 +5928,7 @@ networkmanager-qt5 5.115.0-1
 networkmanager-strongswan 1.6.0-1
 networkmanager-vpnc 1.2.8-3
 new-session-manager 1.6.1-1
-newsboat 2.34-1
+newsboat 2.35-1
 newsflash 2.3.1-2
 nextcloud 28.0.3-1
 nextcloud-app-bookmarks 1:13.1.3-1
@@ -6050,10 +6052,11 @@ nut 2.8.1-3
 nvchecker 2.13.1-1
 nvidia 550.67-1
 nvidia-cg-toolkit 3.1-6
+nvidia-container-toolkit 1.14.6-3
 nvidia-lts 1:550.67-1
 nvidia-open 550.67-1
 nvidia-prime 1.0-4
-nvidia-settings 550.54.14-1
+nvidia-settings 550.67-1
 nvidia-utils 550.67-1
 nvme-cli 2.8-1
 nvmetcli 0.8-2
@@ -7156,7 +7159,7 @@ pingus 0.7.6-28
 pint 0.45.0-1
 pinta 2.1.1-1
 pinyin-data 0.14.0-1
-pioneer 20240314-2
+pioneer 20240314-4
 pipe-rename 1.6.5-2
 pipectl 0.4.2-1
 piper 0.7-2
@@ -7733,7 +7736,7 @@ python-debugpy 1.8.1-1
 python-decorator 5.1.1-3
 python-deepdiff 6.3.1-1
 python-deepmerge 1.1.1-1
-python-defcon 0.10.3-1
+python-defcon 0.10.3-2
 python-defusedxml 0.7.1-5
 python-dep-logic 0.2.0-1
 python-deprecated 1.2.14-2
@@ -7903,7 +7906,7 @@ python-flufl.i18n 5.0.2-1
 python-fluidity 0.2.1-4
 python-flup 1.0.3-9
 python-fnvhash 0.1.0-4
-python-fontmath 0.9.3-3
+python-fontmath 0.9.3-4
 python-fontparts 0.12.1-1
 python-fontpens 0.2.4-7
 python-fonttools 4.50.0-1
@@ -8211,7 +8214,7 @@ python-lsp-black 2.0.0-1
 python-lsp-jsonrpc 1.1.2-1
 python-lsp-server 1.10.0-1
 python-lsprotocol 2023.0.1-1
-python-lupa 2.0-2
+python-lupa 2.1-2
 python-lxml 5.1.0-1
 python-ly 0.9.7-4
 python-lz4 4.3.3-1
@@ -8788,7 +8791,7 @@ python-pyxattr 0.8.1-1
 python-pyxbe 1.0.1-3
 python-pyxdameraulevenshtein 1.7.1-2
 python-pyzmq 25.1.2-1
-python-pyzstd 0.15.9-2
+python-pyzstd 0.15.10-1
 python-qasync 0.24.0-1
 python-qdarkstyle 3.2.3-1
 python-qdldl 0.1.7.post0-1
@@ -9492,7 +9495,7 @@ reapack 1.2.4.5-1
 reaper 7.11-1
 reaver 1.6.6-1
 rebar 1:2.6.4-3
-rebuild-detector 4.4.2-1
+rebuild-detector 4.4.3-1
 rebuilderd 0.20.0-1
 rebuilderd-website 0.6.1-1
 recode 3.7.14-1
@@ -9519,7 +9522,7 @@ remmina 1:1.4.35-2
 renameutils 0.12.0-7
 renderdoc 1.31-1
 repgrep 0.15.0-1
-repo 2.44-1
+repo 2.45-1
 repod 0.3.0-1
 repose 7.1-10
 reprepro 5.4.3-1
@@ -10079,7 +10082,7 @@ run-parts 5.17-1
 runc 1.1.12-1
 runst 0.1.5-1
 rust 1:1.77.0-1
-rust-analyzer 20240318-1
+rust-analyzer 20240325-1
 rust-bindgen 0.69.4-1
 rust-script 0.34.0-1
 rustscan 2.1.1-1
@@ -10298,7 +10301,7 @@ sloccount 2.26-10
 slock 1.5-1
 slop 7.6-4
 slowhttptest 1.9.0-1
-slumber 0.14.0-1
+slumber 0.15.0-1
 slurm-llnl 23.11.3.1-2
 slurp 1.5.0-1
 smali 2.5.2-2
@@ -10992,7 +10995,7 @@ utox 0.18.1-4
 uucp 1.07-7
 uudeview 20230502-3
 uusi 0.4.3.0-33
-uutils-coreutils 0.0.25-1
+uutils-coreutils 0.0.25-2
 uv 0.1.24-1
 uvicorn 0.28.0-1
 uwsgi 2.0.24-2
@@ -11165,7 +11168,7 @@ watchexec 1.25.1-1
 wavegain 1.3.1-4
 wavemon 0.9.5-1
 wavpack 5.7.0-1
-waybar 0.10.0-2
+waybar 0.10.0-3
 waycheck 1.1.1-1
 wayland 1.22.0-1
 wayland-protocols 1.34-1
@@ -11187,7 +11190,7 @@ websocat 1.12.0-1
 websocketpp 0.8.2-1
 websvn 2.8.4-1
 weechat 4.2.1-1
-wesnoth 1:1.18.0-1
+wesnoth 1:1.18.0-3
 weston 13.0.0-2
 wev 1.0.0-13
 wezterm 20240203.110809.5046fc22-1
@@ -11227,7 +11230,7 @@ wingpanel-indicator-power 6.2.1-1
 wingpanel-indicator-session 2.3.1-2
 wingpanel-indicator-sound 7.0.0-1
 wipe 2.3.1-5
-wire-desktop 3.32.3079-1
+wire-desktop 3.34.3307-1
 wireguard-tools 1.0.20210914-2
 wireless-regdb 2024.01.23-1
 wireless_tools 30.pre9-3
@@ -11271,7 +11274,7 @@ wqy-microhei 0.2.0_beta-11
 wqy-microhei-lite 0.2.0_beta-10
 wqy-zenhei 0.9.45-9
 wrangler 3.37.0-1
-wt 4.10.3-1
+wt 4.10.4-1
 wtype 0.4-1
 wv 1.2.9-6
 wvdial 1.61-9
@@ -11438,7 +11441,7 @@ xonotic-data 0.8.6-2
 xonsh 0.15.1-1
 xorg-appres 1.0.6-1
 xorg-bdftopcf 1.1.1-1
-xorg-docs 1.7.2-2
+xorg-docs 1.7.3-1
 xorg-font-util 1.4.1-1
 xorg-fonts-100dpi 1.0.4-2
 xorg-fonts-75dpi 1.0.4-1
@@ -11469,7 +11472,7 @@ xorg-xcursorgen 1.0.8-1
 xorg-xdm 1.1.14-1
 xorg-xdpyinfo 1.3.4-1
 xorg-xdriinfo 1.0.7-1
-xorg-xedit 1.2.3-1
+xorg-xedit 1.2.4-1
 xorg-xev 1.2.6-1
 xorg-xeyes 1.3.0-1
 xorg-xfd 1.1.4-1
@@ -11483,13 +11486,13 @@ xorg-xkbevd 1.1.5-1
 xorg-xkbprint 1.0.6-1
 xorg-xkbutils 1.0.6-1
 xorg-xkill 1.0.6-1
-xorg-xload 1.1.4-1
+xorg-xload 1.2.0-1
 xorg-xlogo 1.0.6-1
 xorg-xlsatoms 1.1.4-1
 xorg-xlsclients 1.1.5-1
 xorg-xlsfonts 1.0.8-1
 xorg-xmag 1.0.7-1
-xorg-xman 1.1.6-1
+xorg-xman 1.2.0-1
 xorg-xmessage 1.0.7-1
 xorg-xmodmap 1.0.11-1
 xorg-xpr 1.2.0-1
