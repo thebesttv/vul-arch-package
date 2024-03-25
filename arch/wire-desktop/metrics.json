@@ -1,0 +1,17 @@
+{
+  "name": "wire-desktop",
+  "version": "3.34.3307-1",
+  "depends": [
+    "electron27",
+    "xdg-utils"
+  ],
+  "makedepends": [
+    "git",
+    "npm",
+    "yarn",
+    "nodejs-lts-hydrogen"
+  ],
+  "receive": 199984561,
+  "transmit": 653548,
+  "disk": 6657301
+}
