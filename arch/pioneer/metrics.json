@@ -1,0 +1,22 @@
+{
+  "name": "pioneer",
+  "version": "20240314-4",
+  "depends": [
+    "assimp",
+    "freetype2",
+    "glew",
+    "hicolor-icon-theme",
+    "libsigc++",
+    "libvorbis",
+    "lua52",
+    "mesa",
+    "sdl2_image"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 794217062,
+  "transmit": 6771851,
+  "disk": 1823434141
+}
