@@ -1,0 +1,17 @@
+{
+  "name": "xorg-xload",
+  "version": "1.2.0-1",
+  "depends": [
+    "libxaw",
+    "libxmu",
+    "libxt",
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199477970,
+  "transmit": 332407,
+  "disk": 1062569
+}
