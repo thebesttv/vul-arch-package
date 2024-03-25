@@ -1,0 +1,17 @@
+{
+  "name": "nvidia-settings",
+  "version": "550.67-1",
+  "depends": [],
+  "makedepends": [
+    "inetutils",
+    "jansson",
+    "gtk3",
+    "libxv",
+    "libvdpau",
+    "nvidia-utils",
+    "libxext"
+  ],
+  "receive": 199442165,
+  "transmit": 279534,
+  "disk": 6897730
+}
