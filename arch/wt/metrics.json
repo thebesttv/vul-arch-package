@@ -1,0 +1,30 @@
+{
+  "name": "wt",
+  "version": "4.10.4-1",
+  "depends": [
+    "boost-libs",
+    "libharu",
+    "graphicsmagick",
+    "pango",
+    "zlib",
+    "libgl",
+    "harfbuzz",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "postgresql-libs",
+    "fcgi",
+    "sqlite",
+    "mysql++",
+    "doxygen",
+    "graphviz",
+    "mesa",
+    "glu",
+    "ninja"
+  ],
+  "receive": 199536138,
+  "transmit": 247770,
+  "disk": 50883621
+}
