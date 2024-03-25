@@ -1,0 +1,19 @@
+{
+  "name": "python-lupa",
+  "version": "2.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199556551,
+  "transmit": 428092,
+  "disk": 40748853
+}
