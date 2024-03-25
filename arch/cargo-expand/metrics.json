@@ -1,0 +1,12 @@
+{
+  "name": "cargo-expand",
+  "version": "1.0.80-1",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199407443,
+  "transmit": 286378,
+  "disk": 293824
+}
