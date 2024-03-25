@@ -1,0 +1,14 @@
+{
+  "name": "cargo-update",
+  "version": "13.4.0-1",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "zlib",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199700089,
+  "transmit": 449633,
+  "disk": 473590
+}
