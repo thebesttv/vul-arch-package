@@ -1,0 +1,17 @@
+{
+  "name": "libxmu",
+  "version": "1.2.0-1",
+  "depends": [
+    "libxext",
+    "libxt",
+    "libx11",
+    "xorgproto",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199622844,
+  "transmit": 437443,
+  "disk": 3011491
+}
