@@ -1,0 +1,16 @@
+{
+  "name": "python-fontmath",
+  "version": "0.9.3-4",
+  "depends": [
+    "python-fonttools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 199394298,
+  "transmit": 239070,
+  "disk": 329121
+}
