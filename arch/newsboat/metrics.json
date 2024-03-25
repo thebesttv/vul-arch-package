@@ -1,0 +1,20 @@
+{
+  "name": "newsboat",
+  "version": "2.35-1",
+  "depends": [
+    "curl",
+    "hicolor-icon-theme",
+    "json-c",
+    "libxml2",
+    "sqlite",
+    "stfl"
+  ],
+  "makedepends": [
+    "asciidoctor",
+    "rust",
+    "swig"
+  ],
+  "receive": 200473854,
+  "transmit": 448744,
+  "disk": 6794201
+}
