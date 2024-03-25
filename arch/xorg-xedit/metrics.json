@@ -1,0 +1,17 @@
+{
+  "name": "xorg-xedit",
+  "version": "1.2.4-1",
+  "depends": [
+    "libxaw",
+    "libxmu",
+    "libxt",
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 199442778,
+  "transmit": 275384,
+  "disk": 3713749
+}
