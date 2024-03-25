@@ -1,0 +1,11 @@
+{
+  "name": "xorg-docs",
+  "version": "1.7.3-1",
+  "depends": [
+    "man"
+  ],
+  "makedepends": [],
+  "receive": 199526150,
+  "transmit": 393330,
+  "disk": 2296898
+}
