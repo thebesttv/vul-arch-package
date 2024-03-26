@@ -1,0 +1,19 @@
+{
+  "name": "haskell-hspec-wai-json",
+  "version": "0.11.0-473",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-qq",
+    "haskell-case-insensitive",
+    "haskell-hspec-wai"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec"
+  ],
+  "receive": 200149507,
+  "transmit": 493223,
+  "disk": 798680
+}
