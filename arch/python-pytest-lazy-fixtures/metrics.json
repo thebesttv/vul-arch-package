@@ -1,0 +1,16 @@
+{
+  "name": "python-pytest-lazy-fixtures",
+  "version": "1.0.7-1",
+  "depends": [
+    "python",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199401895,
+  "transmit": 339311,
+  "disk": 185321
+}
