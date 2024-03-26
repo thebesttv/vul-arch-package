@@ -1,0 +1,32 @@
+{
+  "name": "neovim",
+  "version": "0.9.5-4",
+  "depends": [
+    "libluv",
+    "libtermkey",
+    "libuv",
+    "libvterm>0.1.4",
+    "luajit",
+    "msgpack-c",
+    "tree-sitter",
+    "tree-sitter-bash",
+    "tree-sitter-c",
+    "tree-sitter-lua",
+    "tree-sitter-markdown",
+    "tree-sitter-python",
+    "tree-sitter-query",
+    "tree-sitter-vimdoc",
+    "unibilium"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "ninja",
+    "lua51-mpack",
+    "lua51-lpeg",
+    "unzip"
+  ],
+  "receive": 211457478,
+  "transmit": 500155,
+  "disk": 62978759
+}
