@@ -1,0 +1,29 @@
+{
+  "name": "haskell-hls-rename-plugin",
+  "version": "1.0.2.0-157",
+  "depends": [
+    "ghc-libs",
+    "haskell-extra",
+    "haskell-ghc",
+    "haskell-ghc-exactprint",
+    "haskell-ghcide",
+    "haskell-hashable",
+    "haskell-hiedb",
+    "haskell-hls-plugin-api",
+    "haskell-hls-refactor-plugin",
+    "haskell-lsp",
+    "haskell-lsp-types",
+    "haskell-mod",
+    "haskell-syb",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-aeson",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 199360571,
+  "transmit": 289844,
+  "disk": 481371
+}
