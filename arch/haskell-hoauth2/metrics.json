@@ -1,0 +1,26 @@
+{
+  "name": "haskell-hoauth2",
+  "version": "2.7.0-10",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-base64",
+    "haskell-cryptonite",
+    "haskell-data-default",
+    "haskell-http-conduit",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-microlens",
+    "haskell-uri-bytestring",
+    "haskell-uri-bytestring-aeson"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199497732,
+  "transmit": 383966,
+  "disk": 466103
+}
