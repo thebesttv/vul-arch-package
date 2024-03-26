@@ -1,0 +1,18 @@
+{
+  "name": "haskell-wai-cors",
+  "version": "0.2.7-350",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-base-unicode-symbols",
+    "haskell-case-insensitive",
+    "haskell-http-types",
+    "haskell-wai"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199348533,
+  "transmit": 320451,
+  "disk": 534093
+}
