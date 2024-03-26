@@ -1,0 +1,18 @@
+{
+  "name": "py3status",
+  "version": "3.57-1",
+  "depends": [
+    "python",
+    "python-setuptools",
+    "glib2"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-hatch"
+  ],
+  "receive": 199485563,
+  "transmit": 402511,
+  "disk": 2133575
+}
