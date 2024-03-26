@@ -1,0 +1,20 @@
+{
+  "name": "haskell-hls-module-name-plugin",
+  "version": "1.1.1.0-157",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-lsp",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils"
+  ],
+  "receive": 199315166,
+  "transmit": 270028,
+  "disk": 712155
+}
