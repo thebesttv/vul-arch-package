@@ -1,0 +1,18 @@
+{
+  "name": "jumpy",
+  "version": "0.11.2-1",
+  "depends": [
+    "pkg-config",
+    "mesa-libgl",
+    "alsa-lib",
+    "systemd-libs",
+    "libudev.so"
+  ],
+  "makedepends": [
+    "cargo",
+    "systemd"
+  ],
+  "receive": 199505285,
+  "transmit": 320141,
+  "disk": 94083225
+}
