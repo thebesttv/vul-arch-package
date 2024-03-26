@@ -1,0 +1,11 @@
+{
+  "name": "gnome-shell-extension-caffeine",
+  "version": "53-1",
+  "depends": [
+    "gnome-shell"
+  ],
+  "makedepends": [],
+  "receive": 199382526,
+  "transmit": 367310,
+  "disk": 1307928
+}
