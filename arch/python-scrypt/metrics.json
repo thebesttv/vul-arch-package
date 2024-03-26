@@ -1,0 +1,18 @@
+{
+  "name": "python-scrypt",
+  "version": "0.8.24-1",
+  "depends": [
+    "python",
+    "glibc",
+    "openssl"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199325428,
+  "transmit": 279765,
+  "disk": 488159
+}
