@@ -1,0 +1,11 @@
+{
+  "name": "nilfs-utils",
+  "version": "2.2.10-1",
+  "depends": [
+    "util-linux"
+  ],
+  "makedepends": [],
+  "receive": 199315476,
+  "transmit": 273554,
+  "disk": 3179507
+}
