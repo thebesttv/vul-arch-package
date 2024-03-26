@@ -1,0 +1,23 @@
+{
+  "name": "haskell-ghcide-test-utils",
+  "version": "1.8.0.0-198",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-data-default",
+    "haskell-extra",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-lens",
+    "haskell-lsp-test",
+    "haskell-lsp-types",
+    "haskell-tasty-hunit"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199428599,
+  "transmit": 381759,
+  "disk": 461725
+}
