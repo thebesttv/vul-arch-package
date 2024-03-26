@@ -1,0 +1,43 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.67 s (997.2 files/s 399322.8 lines/s)"
+448,C++,34689,53512,260699
+876,C,43968,80932,193598
+688,C/C++ Header,33009,85071,187784
+81,Python,2856,1669,9561
+58,reStructuredText,4510,5427,7618
+49,Text,738,0,5949
+157,CMake,1560,1421,5868
+32,GLSL,1787,1894,5085
+42,XML,23,30,4553
+5,Objective-C,730,334,3179
+9,TeX,542,16,2993
+32,Markdown,862,0,2954
+6,Objective-C++,451,376,2047
+6,Perl,472,759,1905
+18,Lua,286,75,1895
+3,SVG,1,1,1729
+8,HTML,278,35,1609
+33,Bourne Shell,262,280,1160
+22,make,452,448,1023
+22,RobotFramework,298,275,722
+4,Fortran 90,73,123,698
+1,yacc,98,51,521
+8,Fortran 77,214,163,473
+10,YAML,41,54,390
+1,SCSS,91,28,330
+2,Pascal,64,22,260
+18,DOS Batch,23,10,161
+1,JavaScript,10,25,149
+1,Visual Studio Solution,1,1,149
+6,Solidity,18,0,68
+3,Gradle,10,0,61
+1,CUDA,17,19,59
+1,lex,30,98,54
+3,CSS,14,1,52
+2,INI,4,0,43
+2,TOML,4,2,38
+1,Kotlin,7,3,30
+2,Windows Module Definition,0,0,26
+1,JSON,0,0,20
+1,Dockerfile,0,0,9
+1,Windows Resource File,2,0,1
+2665,SUM,128495,233155,705523
