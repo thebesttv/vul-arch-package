@@ -1,0 +1,30 @@
+{
+  "name": "rqbit",
+  "version": "5.5.3-1",
+  "depends": [],
+  "makedepends": [
+    "cairo",
+    "libcairo.so",
+    "cargo",
+    "cargo-tauri",
+    "gdk-pixbuf2",
+    "libgdk_pixbuf-2.0.so",
+    "glib2",
+    "libglib-2.0.so",
+    "gtk3",
+    "libgtk-3.so",
+    "libsoup",
+    "libsoup-2.4.so",
+    "npm",
+    "openssl",
+    "libssl.so",
+    "pango",
+    "libpango-1.0.so",
+    "typescript",
+    "webkit2gtk",
+    "libwebkit2gtk-4.0.so"
+  ],
+  "receive": 199370704,
+  "transmit": 296588,
+  "disk": 6010642
+}
