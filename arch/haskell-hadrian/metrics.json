@@ -1,0 +1,17 @@
+{
+  "name": "haskell-hadrian",
+  "version": "0.1.0.0+9.4.8-7",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-extra",
+    "haskell-shake",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 228327882,
+  "transmit": 317331,
+  "disk": 158684034
+}
