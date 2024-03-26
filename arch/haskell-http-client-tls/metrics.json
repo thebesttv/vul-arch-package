@@ -1,0 +1,25 @@
+{
+  "name": "haskell-http-client-tls",
+  "version": "0.3.6.3-52",
+  "depends": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-crypton",
+    "haskell-crypton-connection",
+    "haskell-data-default-class",
+    "haskell-http-client",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-network",
+    "haskell-network-uri",
+    "haskell-tls"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec"
+  ],
+  "receive": 199440255,
+  "transmit": 405872,
+  "disk": 759842
+}
