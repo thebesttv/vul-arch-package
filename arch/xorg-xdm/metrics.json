@@ -1,0 +1,32 @@
+{
+  "name": "xorg-xdm",
+  "version": "1.1.15-1",
+  "depends": [
+    "pam",
+    "libxaw",
+    "libxinerama",
+    "xorg-xrdb",
+    "xorg-sessreg",
+    "libxft",
+    "systemd-libs",
+    "libxcrypt",
+    "libxt",
+    "libxpm",
+    "libxrender",
+    "libxau",
+    "libx11",
+    "libxext",
+    "libxmu",
+    "libxdmcp",
+    "sh",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xtrans",
+    "systemd"
+  ],
+  "receive": 199441387,
+  "transmit": 345485,
+  "disk": 3357001
+}
