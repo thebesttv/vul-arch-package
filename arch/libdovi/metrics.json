@@ -1,0 +1,16 @@
+{
+  "name": "libdovi",
+  "version": "3.3.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo-c",
+    "git",
+    "rust"
+  ],
+  "receive": 199327855,
+  "transmit": 322158,
+  "disk": 6336676
+}
