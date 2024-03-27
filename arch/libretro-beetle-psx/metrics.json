@@ -1,0 +1,17 @@
+{
+  "name": "libretro-beetle-psx",
+  "version": "2708-1",
+  "depends": [
+    "libretro-core-info",
+    "zlib"
+  ],
+  "makedepends": [
+    "git",
+    "libglvnd",
+    "mesa",
+    "vulkan-icd-loader"
+  ],
+  "receive": 291105868,
+  "transmit": 822824,
+  "disk": 106133600
+}
