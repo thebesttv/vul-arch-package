@@ -1,0 +1,22 @@
+{
+  "name": "libretro-play",
+  "version": "8218-1",
+  "depends": [
+    "bzip2",
+    "glew",
+    "glibc",
+    "glu",
+    "icu",
+    "libgl",
+    "libretro-core-info",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "libglvnd"
+  ],
+  "receive": 325481994,
+  "transmit": 586147,
+  "disk": 212891318
+}
