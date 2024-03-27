@@ -1,0 +1,13 @@
+{
+  "name": "libretro-nestopia",
+  "version": "1:116-1",
+  "depends": [
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 201514934,
+  "transmit": 355267,
+  "disk": 14151688
+}
