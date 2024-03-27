@@ -1,0 +1,24 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.73 s (1526.7 files/s 138083.1 lines/s)"
+1410,Python,45062,63340,143363
+1971,YAML,9322,3477,72505
+126,PowerShell,2554,1837,14283
+224,Bourne Shell,1847,1099,4720
+13,C#,650,285,4274
+147,JSON,3,0,3855
+95,Text,126,0,1281
+99,Jinja Template,267,3,1273
+30,Markdown,264,0,517
+1,reStructuredText,58,1,371
+26,INI,126,0,330
+1,Fish Shell,11,21,74
+9,diff,0,23,65
+3,Bourne Again Shell,21,16,63
+1,Go,14,14,61
+1,XML,2,0,34
+6,TOML,1,0,26
+5,CSV,0,0,18
+1,Windows Resource File,3,0,13
+1,make,2,3,10
+2,Properties,0,1,7
+3,DOS Batch,0,0,5
+4175,SUM,60333,70120,247148
