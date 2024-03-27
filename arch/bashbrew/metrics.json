@@ -1,0 +1,15 @@
+{
+  "name": "bashbrew",
+  "version": "0.1.12-1",
+  "depends": [
+    "docker",
+    "git"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199349557,
+  "transmit": 380658,
+  "disk": 3301443
+}
