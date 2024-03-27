@@ -1,0 +1,19 @@
+{
+  "name": "vapoursynth-plugin-bestsource",
+  "version": "1:R1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "jansson",
+    "libavcodec.so",
+    "libavformat.so",
+    "vapoursynth"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 199278672,
+  "transmit": 287497,
+  "disk": 1029632
+}
