@@ -1,0 +1,12 @@
+{
+  "name": "distrobox",
+  "version": "1.7.1.0-1",
+  "depends": [
+    "bash",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [],
+  "receive": 199445476,
+  "transmit": 418366,
+  "disk": 14744828
+}
