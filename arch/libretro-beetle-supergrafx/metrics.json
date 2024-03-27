@@ -1,0 +1,16 @@
+{
+  "name": "libretro-beetle-supergrafx",
+  "version": "1008-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libretro-core-info",
+    "zlib"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199374382,
+  "transmit": 356652,
+  "disk": 31602740
+}
