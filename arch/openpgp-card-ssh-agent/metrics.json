@@ -1,0 +1,16 @@
+{
+  "name": "openpgp-card-ssh-agent",
+  "version": "0.3.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "org.freedesktop.secrets"
+  ],
+  "makedepends": [
+    "pcsclite",
+    "rust"
+  ],
+  "receive": 199320607,
+  "transmit": 317209,
+  "disk": 290668
+}
