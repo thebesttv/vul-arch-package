@@ -1,0 +1,12 @@
+{
+  "name": "acpi_call-lts",
+  "version": "1.2.2-179",
+  "depends": [],
+  "makedepends": [
+    "linux-lts-headers",
+    "acpi_call-dkms=1.2.2"
+  ],
+  "receive": 199385191,
+  "transmit": 373757,
+  "disk": 418938
+}
