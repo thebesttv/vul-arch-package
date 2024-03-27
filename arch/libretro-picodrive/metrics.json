@@ -1,0 +1,14 @@
+{
+  "name": "libretro-picodrive",
+  "version": "2492-1",
+  "depends": [
+    "glibc",
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 224957442,
+  "transmit": 389550,
+  "disk": 44300258
+}
