@@ -1,0 +1,23 @@
+{
+  "name": "intellij-idea-community-edition",
+  "version": "4:2023.3.6-1",
+  "depends": [
+    "giflib",
+    "java-runtime=17",
+    "python",
+    "sh",
+    "ttf-font",
+    "libdbusmenu-glib",
+    "fontconfig",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "ant",
+    "git",
+    "java-environment-openjdk=17",
+    "maven"
+  ],
+  "receive": 6738828520,
+  "transmit": 13870894,
+  "disk": 8334129215
+}
