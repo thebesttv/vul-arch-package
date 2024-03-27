@@ -1,0 +1,11 @@
+{
+  "name": "libretro-shaders-slang",
+  "version": "1457-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 263163841,
+  "transmit": 654847,
+  "disk": 197032992
+}
