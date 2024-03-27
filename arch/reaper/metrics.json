@@ -1,0 +1,23 @@
+{
+  "name": "reaper",
+  "version": "7.12-1",
+  "depends": [
+    "aribb24",
+    "alsa-lib",
+    "libasound.so",
+    "fontconfig",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "libx11",
+    "libxi"
+  ],
+  "makedepends": [
+    "kservice5",
+    "xdg-utils"
+  ],
+  "receive": 200377423,
+  "transmit": 854654,
+  "disk": 135356251
+}
