@@ -1,0 +1,15 @@
+{
+  "name": "cargo-generate",
+  "version": "0.20.0-1",
+  "depends": [
+    "cargo",
+    "curl",
+    "libgit2",
+    "libssh2",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199294669,
+  "transmit": 327552,
+  "disk": 1291181
+}
