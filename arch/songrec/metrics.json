@@ -1,0 +1,20 @@
+{
+  "name": "songrec",
+  "version": "0.4.2-2",
+  "depends": [
+    "gtk3",
+    "alsa-lib",
+    "openssl",
+    "ffmpeg",
+    "libpulse",
+    "pulseaudio-alsa"
+  ],
+  "makedepends": [
+    "cargo",
+    "pkgconf",
+    "git"
+  ],
+  "receive": 199220812,
+  "transmit": 268782,
+  "disk": 2440399
+}
