@@ -1,0 +1,14 @@
+{
+  "name": "container-diff",
+  "version": "0.19.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199434861,
+  "transmit": 443387,
+  "disk": 27884492
+}
