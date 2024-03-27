@@ -1,0 +1,17 @@
+{
+  "name": "python-flask-marshmallow",
+  "version": "1.2.1-1",
+  "depends": [
+    "python-flask",
+    "python-marshmallow"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 199415087,
+  "transmit": 416124,
+  "disk": 1074198
+}
