@@ -1,0 +1,11 @@
+{
+  "name": "libretro-core-info",
+  "version": "1.18.0-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199424536,
+  "transmit": 413082,
+  "disk": 1524032
+}
