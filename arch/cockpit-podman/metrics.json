@@ -1,0 +1,12 @@
+{
+  "name": "cockpit-podman",
+  "version": "86-1",
+  "depends": [
+    "cockpit",
+    "podman"
+  ],
+  "makedepends": [],
+  "receive": 199451651,
+  "transmit": 373397,
+  "disk": 6683895
+}
