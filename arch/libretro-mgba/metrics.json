@@ -1,0 +1,13 @@
+{
+  "name": "libretro-mgba",
+  "version": "9298-1",
+  "depends": [
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 247017262,
+  "transmit": 417602,
+  "disk": 124635329
+}
