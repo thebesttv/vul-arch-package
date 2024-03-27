@@ -1,0 +1,22 @@
+{
+  "name": "pycharm-community-edition",
+  "version": "2023.3.5-1",
+  "depends": [
+    "giflib",
+    "glib2",
+    "java-runtime=17",
+    "python",
+    "sh",
+    "ttf-font",
+    "fontconfig",
+    "libdbusmenu-glib"
+  ],
+  "makedepends": [
+    "git",
+    "java-environment-openjdk=17",
+    "python-setuptools"
+  ],
+  "receive": 6747154099,
+  "transmit": 17768934,
+  "disk": 8335016201
+}
