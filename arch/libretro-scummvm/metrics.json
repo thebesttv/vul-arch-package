@@ -1,0 +1,13 @@
+{
+  "name": "libretro-scummvm",
+  "version": "150021-1",
+  "depends": [
+    "libretro-core-info"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 1894408771,
+  "transmit": 746992,
+  "disk": 2162588606
+}
