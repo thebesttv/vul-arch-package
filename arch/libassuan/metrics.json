@@ -1,0 +1,13 @@
+{
+  "name": "libassuan",
+  "version": "2.5.7-1",
+  "depends": [
+    "glibc",
+    "libgpg-error",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 199317783,
+  "transmit": 274818,
+  "disk": 3694373
+}
