@@ -1,0 +1,16 @@
+{
+  "name": "libretro-genesis-plus-gx",
+  "version": "2145-1",
+  "depends": [
+    "libretro-core-info",
+    "libvorbis",
+    "zlib"
+  ],
+  "makedepends": [
+    "clang",
+    "git"
+  ],
+  "receive": 410098049,
+  "transmit": 691728,
+  "disk": 238933168
+}
