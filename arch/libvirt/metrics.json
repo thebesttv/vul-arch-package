@@ -1,0 +1,33 @@
+{
+  "name": "libvirt",
+  "version": "1:10.1.0-2",
+  "depends": [
+    "libpciaccess",
+    "yajl",
+    "fuse3",
+    "gnutls",
+    "parted",
+    "libssh",
+    "libxml2",
+    "numactl",
+    "polkit",
+    "libnbd",
+    "libnl"
+  ],
+  "makedepends": [
+    "meson",
+    "libxslt",
+    "python-docutils",
+    "lvm2",
+    "open-iscsi",
+    "libiscsi",
+    "glusterfs",
+    "bash-completion",
+    "dnsmasq",
+    "iproute2",
+    "qemu-base"
+  ],
+  "receive": 209598097,
+  "transmit": 674105,
+  "disk": 148079040
+}
