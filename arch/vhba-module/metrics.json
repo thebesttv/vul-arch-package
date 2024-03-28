@@ -1,0 +1,11 @@
+{
+  "name": "vhba-module",
+  "version": "20240202-10",
+  "depends": [],
+  "makedepends": [
+    "linux-headers"
+  ],
+  "receive": 199942925,
+  "transmit": 484131,
+  "disk": 741207
+}
