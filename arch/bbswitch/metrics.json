@@ -1,0 +1,11 @@
+{
+  "name": "bbswitch",
+  "version": "0.8-661",
+  "depends": [],
+  "makedepends": [
+    "linux-headers"
+  ],
+  "receive": 199313369,
+  "transmit": 364484,
+  "disk": 633870
+}
