@@ -1,0 +1,12 @@
+{
+  "name": "xorgproto",
+  "version": "2024.1-1",
+  "depends": [],
+  "makedepends": [
+    "xorg-util-macros",
+    "meson"
+  ],
+  "receive": 199634617,
+  "transmit": 579514,
+  "disk": 8398480
+}
