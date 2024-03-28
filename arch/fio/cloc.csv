@@ -1,0 +1,17 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.38 s (1131.1 files/s 352108.0 lines/s)"
+183,C,14144,7176,71472
+182,C/C++ Header,2409,1870,10532
+23,Python,1348,1742,6846
+10,Bourne Shell,309,585,3289
+4,Bourne Again Shell,387,270,2454
+5,reStructuredText,1573,3020,1062
+3,make,131,14,821
+3,WiX source,24,9,405
+2,DOS Batch,46,2,288
+1,yacc,23,20,204
+3,YAML,8,0,151
+1,lex,16,18,150
+5,Markdown,22,8,50
+1,Protocol Buffers,2,4,9
+1,WiX string localization,3,3,6
+427,SUM,20445,14741,97739

@@ -1,0 +1,19 @@
+{
+  "name": "fio",
+  "version": "3.37-1",
+  "depends": [
+    "bash",
+    "libaio",
+    "python",
+    "numactl",
+    "glusterfs",
+    "gperftools"
+  ],
+  "makedepends": [
+    "gtk2",
+    "curl"
+  ],
+  "receive": 199586205,
+  "transmit": 505013,
+  "disk": 19535297
+}
