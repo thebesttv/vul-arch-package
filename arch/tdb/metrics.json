@@ -1,0 +1,15 @@
+{
+  "name": "tdb",
+  "version": "1.4.10-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "python",
+    "libxslt",
+    "docbook-xsl"
+  ],
+  "receive": 200133422,
+  "transmit": 402097,
+  "disk": 3950125
+}
