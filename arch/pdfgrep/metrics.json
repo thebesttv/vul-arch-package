@@ -1,0 +1,12 @@
+{
+  "name": "pdfgrep",
+  "version": "2.2.0-2",
+  "depends": [
+    "pcre2",
+    "poppler"
+  ],
+  "makedepends": [],
+  "receive": 199347338,
+  "transmit": 382720,
+  "disk": 1152863
+}
