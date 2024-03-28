@@ -1,0 +1,19 @@
+{
+  "name": "workerd",
+  "version": "1.20240327.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "bazel",
+    "clang",
+    "git",
+    "libc++",
+    "python",
+    "rust",
+    "tcl"
+  ],
+  "receive": 199307865,
+  "transmit": 372183,
+  "disk": 12180696
+}
