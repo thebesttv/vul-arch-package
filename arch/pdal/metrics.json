@@ -1,0 +1,19 @@
+{
+  "name": "pdal",
+  "version": "2.7.1-1",
+  "depends": [
+    "gdal",
+    "libgeotiff",
+    "jsoncpp"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "python-numpy",
+    "ninja",
+    "postgresql-libs"
+  ],
+  "receive": 286997132,
+  "transmit": 452682,
+  "disk": 286717418
+}
