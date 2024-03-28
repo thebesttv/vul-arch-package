@@ -31,7 +31,7 @@ acme-user 1.0.1-1
 acme.sh 3.0.7-1
 acorn 1:8.11.0-1
 acpi 1.7-3
-acpi_call 1.2.2-192
+acpi_call 1.2.2-193
 acpi_call-dkms 1.2.2-2
 acpi_call-lts 1.2.2-179
 acpica 20230628-1
@@ -124,7 +124,7 @@ amavisd-new 2.12.2-1
 amb-plugins 0.8.1-7
 ambdec 0.7.1-2
 ambix 0.2.10-4
-amdvlk 2024.Q1.2-1
+amdvlk 2024.Q1.3-1
 amf-headers 1.4.33-1
 amfora 1.10.0-1
 aml 0.3.0-1
@@ -389,7 +389,7 @@ bats-file 0.4.0-1
 bats-support 0.3.0-5
 bazel 7.1.1-1
 bbpager 0.4.7-9
-bbswitch 0.8-660
+bbswitch 0.8-661
 bc 1.07.1-4
 bcachefs-tools 3:1.6.4-2
 bcc 0.30.0-1
@@ -441,7 +441,7 @@ bladerf 2023.02-2
 blanket 0.6.0-2
 blaze 3.8.2-2
 bleachbit 4.6.0-1
-blender 17:4.0.2-22
+blender 17:4.1.0-1
 bless 0.6.3-1
 blinken 24.02.1-1
 blinksocks 3.3.8-3
@@ -506,7 +506,7 @@ brial 1.2.12-2
 bridge-utils 1.7.1-2
 brightnessctl 0.5.1-2
 brltty 6.6-6
-broadcom-wl 6.30.223.271-536
+broadcom-wl 6.30.223.271-537
 broadcom-wl-dkms 6.30.223.271-36
 brook 20221010-1
 broot 1.36.1-1
@@ -626,7 +626,7 @@ cargo-geiger 0.11.7-2
 cargo-generate 0.20.0-1
 cargo-generate-rpm 0.14.0-1
 cargo-hack 0.6.23-1
-cargo-insta 1.37.0-1
+cargo-insta 1.38.0-1
 cargo-license 0.6.1-1
 cargo-llvm-cov 0.6.8-1
 cargo-machete 0.6.2-1
@@ -946,7 +946,7 @@ csfml 2.6.0-1
 csound 6.18.1-3
 csound-plugins 1.0.2-8
 csoundqt 1:1.1.1-2
-csvkit 1.4.0-1
+csvkit 1.5.0-1
 csvlens 0.8.1-1
 ct 0.9.4-1
 ctags 1:6.1.0-2
@@ -1058,7 +1058,7 @@ debugedit 5.0-5
 deepin-account-faces 1.0.16-1
 deepin-album 6.0.4-5
 deepin-anything 5.0.18-1
-deepin-anything-arch 6.1.2-58
+deepin-anything-arch 6.1.2-59
 deepin-api 6.0.9-1
 deepin-app-services 1.0.25-1
 deepin-appearance 1.1.26-1
@@ -1231,7 +1231,7 @@ docbook2x 0.8.8-18
 docbook5-xml 5.1-3
 docker 1:26.0.0-1
 docker-buildx 0.13.1-1
-docker-compose 2.26.0-1
+docker-compose 2.26.0-2
 docker-machine 0.16.2-5
 docker-scan 0.26.0-1
 docopt 0.6.3-4
@@ -1245,7 +1245,7 @@ dokuwiki 20240206_a-2
 dolphin 24.02.1-1
 dolphin-emu 1:5.0.r21264.1efda863e4-1
 dolphin-plugins 24.02.1-1
-dolt 1.35.4-1
+dolt 1.35.6-1
 dontpanic 1.02-2
 dool 1.3.1-1
 doomretro 5.2.1-1
@@ -1372,10 +1372,10 @@ eksctl 0.173.0-1
 electron 1:29-1
 electron22 22.3.27-5
 electron23 23.3.13-5
-electron27 27.3.7-2
-electron28 28.2.8-1
-electron29 29.1.5-1
-electrum 4.5.3-1
+electron27 27.3.8-1
+electron28 28.2.9-1
+electron29 29.1.6-1
+electrum 4.5.4-1
 element 0.46.6-1
 element.io 1.11.60-1
 elementary-icon-theme 7.3.1-1
@@ -1610,16 +1610,16 @@ findnewest 0.3-3
 findomain 9.0.4-1
 findutils 4.9.0-3
 fingerterm 1.4.7-1
-fio 3.36-1
+fio 3.37-1
 fira-code 6.2-2
 fira-mono 2:3.206-4
 fira-sans 1:4.301-2
 firecracker 1.5.0-1
 firefox 124.0.1-1
 firefox-adblock-plus 3.17.1-1
-firefox-decentraleyes 2.0.18-1
-firefox-developer-edition 125.0b4-1
-firefox-developer-edition-i18n 125.0b4-1
+firefox-decentraleyes 2.0.19-1
+firefox-developer-edition 125.0b5-1
+firefox-developer-edition-i18n 125.0b5-1
 firefox-extension-mailvelope 5.1.2-1
 firefox-extension-passff 1.16.0-1
 firefox-i18n 124.0.1-1
@@ -1752,7 +1752,7 @@ fwbuilder 5.3.7-16
 fwknop 2.6.10-2
 fwupd 1.9.15-1
 fwupd-efi 1.5-2
-fx 33.0.0-1
+fx 34.0.0-1
 fzf 0.48.1-1
 fzy 1.0-2
 g2reverb 0.7.1-6
@@ -1760,7 +1760,7 @@ gajim 1.8.4-2
 gala 7.1.3-2
 galculator 2.1.4-8
 galera 26.4.16-1
-gambas3 3.19.0-2
+gambas3 3.19.1-1
 gamemode 1.8.1-2
 gamescope 3.14.2-1
 gammaray 3.0.0-6
@@ -1885,7 +1885,7 @@ gitolite 3.6.13-1
 gitoxide 0.33.0-1
 gitprompt-rs 0.3.0-1
 gitsign 0.8.0-1
-gitu 0.10.0-1
+gitu 0.11.0-1
 gitui 0.25.2-1
 givaro 4.2.0-1
 gjs 2:1.80.2-1
@@ -3411,7 +3411,7 @@ haskell-zlib-bindings 0.1.1.5-157
 hasktags 0.73.0-11
 hatari 2.4.1-2
 haveged 1.9.18-1
-hawkeye 5.2.1-1
+hawkeye 5.3.1-1
 haxe 4.3.3-1
 hblock 3.4.4-1
 hck 0.9.2-1
@@ -3544,7 +3544,7 @@ hyphen-it 20071127-6
 hyphen-nl 20050617-6
 hyprcursor 0.1.5-1
 hypridle 0.1.1-2
-hyprland 0.37.1-1
+hyprland 0.37.1-2
 hyprlang 0.5.0-1
 hyprlock 0.2.0-2
 hyprpaper 0.6.0-4
@@ -3733,11 +3733,12 @@ java-commons-lang 3.14.0-1
 java-commons-logging 1.3.0-1
 java-hamcrest 1.3-5
 java-jline 1.0-7
-java-openjdk 21.0.2.u13-3
+java-openjdk 22.u36-1
 java-rxtx 2.2pre2-9
 java-xmlgraphics-commons 2.9-1
 java11-openjdk 11.0.22.u7-1
 java17-openjdk 17.0.10.u7-1
+java21-openjdk 21.0.2.u13-2
 java8-openjdk 8.402.u06-1
 jbig2dec 0.20-1
 jbigkit 2.1-7
@@ -4278,7 +4279,7 @@ lcdproc 0.5.9-9
 lcms2 2.16-1
 lcov 2.0-3
 ld-lsb 3-8
-ldb 2:2.8.0-1
+ldb 2:2.9.0-1
 ldc 3:1.37.0-1
 ldns 1.8.3-2
 ldoc 1.5.0-1
@@ -4307,7 +4308,7 @@ lib32-acl 2.3.2-1
 lib32-alsa-lib 1.2.11-1
 lib32-alsa-oss 1.1.8-4
 lib32-alsa-plugins 1.2.7.1-2
-lib32-amdvlk 2024.Q1.2-1
+lib32-amdvlk 2024.Q1.3-1
 lib32-apitrace 11.1-1
 lib32-at-spi2-core 2.52.0-1
 lib32-attr 2.5.2-1
@@ -4533,7 +4534,7 @@ lib32-taglib 2.0-2
 lib32-tcl 8.6.14-1
 lib32-tdb 1.4.9-1
 lib32-twolame 0.4.0-2
-lib32-util-linux 2.40rc2-1
+lib32-util-linux 2.40-1
 lib32-v4l-utils 1.26.1-1
 lib32-virtualgl 3.1.1-1
 lib32-vkd3d 1.10-1
@@ -4788,7 +4789,7 @@ libiodbc 3.52.16-1
 libiptcdata 1.0.5-2
 libircclient 1.10-5
 libirman 0.5.2-4
-libiscsi 1.19.0-2
+libiscsi 1.20.0-1
 libisl 0.26-1
 libisoburn 1.5.6-1
 libisofs 1.5.6-1
@@ -5010,7 +5011,7 @@ libreoffice-still 7.6.5-2
 libreoffice-still-i18n 7.6.5-1
 libreplaygain 475-4
 librepo 1.17.0-1
-libressl 3.8.3-1
+libressl 3.9.1-1
 librest 0.9.1-2
 libretls 3.8.1-1
 libretro-beetle-pce 1214-1
@@ -5159,7 +5160,7 @@ libvdpau 1.5-2
 libvdpau-va-gl 0.4.2-3
 libverto 0.3.2-5
 libvips 8.15.1-5
-libvirt 1:10.1.0-1
+libvirt 1:10.1.0-2
 libvirt-dbus 1.4.1-3
 libvirt-glib 5.0.0-1
 libvirt-python 1:10.1.0-1
@@ -5188,7 +5189,7 @@ libwpe 1.16.0-1
 libwpg 0.3.4-1
 libwps 0.4.14-1
 libwslay 1.1.1-5
-libx11 1.8.8-1
+libx11 1.8.8-2
 libx86 1.1-8
 libx86emu 3.5-3
 libxau 1.0.11-2
@@ -5271,7 +5272,7 @@ linenoise-ng 1.0.1-2
 link-grammar 5.12.3-2
 links 2.29-1
 linssid 3.6-10
-linux 6.8.1.arch1-1
+linux 6.8.2.arch1-1
 linux-api-headers 6.7-1
 linux-atm 2.5.2-8
 linux-firmware 20240312.3b128b60-1
@@ -5280,7 +5281,7 @@ linux-lts 6.6.23-1
 linux-rt 6.7.0.6.realtime1-1
 linux-rt-lts 6.6.21.26.realtime1-1
 linux-tools 6.7-2
-linux-zen 6.8.1.zen1-1
+linux-zen 6.8.2.zen1-1
 linuxconsole 1.8.1-1
 linuxdoc-tools 0.9.83-1
 linuxsampler 2.3.0-2
@@ -5414,7 +5415,7 @@ luarocks 3.11.0-1
 luasec 2:1.3.2-1
 luasocket 1:3.1.0-1
 lucene++ 3.0.8-7
-lucky-commit 2.2.2-1
+lucky-commit 2.2.3-1
 luit 20240102-1
 luksmeta 9-6
 luminancehdr 2.6.1-17
@@ -5627,7 +5628,7 @@ megaglest 3.13.0-8
 megaglest-data 3.13.0-3
 megatools 1.11.1+20230212-2
 meilisearch 1.6.2-1
-melange 0.6.9-1
+melange 0.6.10-1
 meld 3.22.2-1
 mellite 3.13.11-1
 memcached 1.6.21-1
@@ -5904,7 +5905,7 @@ netcdf-openmpi 4.9.2-4
 netcf 0.2.8-8
 netctl 1.29-1
 netdata 1.44.3-2
-netfilter-fullconenat r73.0cf3b48-357
+netfilter-fullconenat r73.0cf3b48-358
 nethack 3.6.7-5
 nethogs 0.8.7-1
 nethsm-pkcs11 1.3.0-1
@@ -5942,7 +5943,7 @@ nextcloud-app-notes 4.9.2-1
 nextcloud-app-notify_push 0.6.10-1
 nextcloud-app-spreed 1:18.0.5-1
 nextcloud-app-tasks 0.15.0-1
-nextcloud-client 2:3.12.2-1
+nextcloud-client 2:3.12.3-1
 nfacct 1.0.2-3
 nfoview 1.99-2
 nfs-utils 2.6.4-1
@@ -6051,11 +6052,11 @@ nushell 0.91.0-2
 nuspell 5.1.4-2
 nut 2.8.1-3
 nvchecker 2.13.1-1
-nvidia 550.67-1
+nvidia 550.67-2
 nvidia-cg-toolkit 3.1-6
 nvidia-container-toolkit 1.14.6-3
 nvidia-lts 1:550.67-2
-nvidia-open 550.67-1
+nvidia-open 550.67-2
 nvidia-prime 1.0-4
 nvidia-settings 550.67-1
 nvidia-utils 550.67-1
@@ -6272,7 +6273,7 @@ orc 0.4.38-1
 orca 46.0-1
 orcania 2.3.3-1
 os-prober 1.81-1
-osbuild 112-1
+osbuild 113-1
 osc2midi 0.2.5-2
 oscpack 1.1.0-3
 osdbattery 1.4-8
@@ -6427,12 +6428,12 @@ pcsclite 2.0.3-1
 pd 0.54.1-1
 pd-gem 0.94-11
 pd-lua 0.11.6-1
-pdal 2.7.0-1
+pdal 2.7.1-1
 pdcurses 3.9-2
 pdf2svg 0.2.3-5
 pdfarranger 1.10.1-1
 pdfcrack 0.20-1
-pdfgrep 2.2.0-1
+pdfgrep 2.2.0-2
 pdfjs 4.0.379-1
 pdfjs-legacy 4.0.379-1
 pdfmixtool 1.1.1-1
@@ -7166,7 +7167,7 @@ pipe-rename 1.6.5-2
 pipectl 0.4.2-1
 piper 0.7-2
 pipesocks 2.3-5
-pipewire 1:1.0.4-2
+pipewire 1:1.0.4-3
 pipewire-media-session 1:0.4.2-2
 piping-server 0.18.0-1
 pitivi 2023.03-2
@@ -7370,7 +7371,7 @@ pulseaudio-equalizer-ladspa 3.0.2-6
 pulseaudio-qt 1.4.0-3
 pulsemixer 1.5.1-5
 pulseview 0.4.2-10
-pulumi 3.111.1-1
+pulumi 3.112.0-1
 puppet 7.27.0-3
 purple-plugin-pack 2.8.0-1
 purple-skypeweb 1.7-4
@@ -7897,7 +7898,7 @@ python-flask-sqlalchemy 2.5.1-7
 python-flask-talisman 1.1.0-1
 python-flask-wtf 1.2.1-1
 python-flex 6.14.1-10
-python-flexmock 0.11.3-2
+python-flexmock 0.12.0-1
 python-flickrapi 2.4.0-7
 python-flit 3.9.0-1
 python-flit-core 3.9.0-2
@@ -8904,7 +8905,7 @@ python-semantic-version 2.10.0-3
 python-semver 3.0.2-1
 python-send2trash 1.8.2-1
 python-sentinels 1.0.0-10
-python-sentry_sdk 1.43.0-1
+python-sentry_sdk 1.44.0-1
 python-sepaxml 2.6.1-1
 python-serpent 1.41-3
 python-service-identity 23.1.0-1
@@ -9284,7 +9285,7 @@ qconf 2.5-3
 qcoro 0.10.0-1
 qcustomplot 2.1.1-1
 qd 2.3.24-1
-qemu 8.2.2-1
+qemu 8.2.2-2
 qgis 3.36.0-2
 qgit 2.10-3
 qgo 2.1.1-1
@@ -9443,7 +9444,7 @@ qxmpp 1.6.0-1
 r 4.3.3-2
 r10k 3.16.0-1
 r2ghidra 5.8.8-1
-r8168 8.052.01-35
+r8168 8.052.01-36
 r8168-lts 8.052.01-34
 rabbitmq 3.12.10-1
 racket 8.11.1-1
@@ -9605,7 +9606,7 @@ roc-toolkit 0.3.0-1
 rocalution 6.0.2-1
 rocblas 6.0.2-1
 rocfft 6.0.2-1
-rocksdb 8.11.3-1
+rocksdb 9.0.0-1
 rocksndiamonds 4.3.7.1-1
 rocksndiamonds-contrib 5-3
 rocksndiamonds-data 4.3.7.1-1
@@ -9628,7 +9629,7 @@ rocsparse 6.0.2-2
 rocthrust 6.0.2-1
 roctracer 6.0.2-1
 rofi 1.7.5-2
-rofi-calc 2.2.0-1
+rofi-calc 2.2.1-1
 rofi-emoji 3.3.0-1
 rofi-pass 2.0.2-2
 rofi-rbw 1.3.0-3
@@ -9659,7 +9660,7 @@ rrdtool 1.8.0-3
 rshijack 0.5.1-1
 rsibreak 0.12.15-2
 rsnapshot 1.4.5-1
-rsop 0.2.0-1
+rsop 0.2.1-1
 rspamd 3.8.4-1
 rss2email 3.14-5
 rssguard 4.6.6-1
@@ -10089,8 +10090,8 @@ rust-bindgen 0.69.4-1
 rust-script 0.34.0-1
 rustscan 2.1.1-1
 rustup 1.27.0-1
-rustypaste 0.14.4-1
-rustypaste-cli 0.8.0-1
+rustypaste 0.15.0-1
+rustypaste-cli 0.9.0-1
 rx_tools 1.0.3-4
 rxvt-unicode 9.31-4
 rye 0.31.0-1
@@ -10114,7 +10115,7 @@ sagemath 10.3-1
 sagemath-doc 10.3-1
 sagetex 3.6.1-4
 salt 3007.0-1
-samba 4.19.5-1
+samba 4.20.0-1
 samplv1 0.9.34-1
 samply 0.11.0-3
 samurai 1.2-2
@@ -10451,7 +10452,7 @@ sslh 2.0.1-1
 sslscan 2.1.2-1
 sslsplit 0.5.5-3
 ssr 0.6.0-1
-sssd 2.9.4-1
+sssd 2.9.4-2
 sstp-client 1:1.0.19-1
 stack 2.9.1-14
 stalonetray 0.8.5-1
@@ -10633,13 +10634,13 @@ tachyon 0.99.5-1
 taffybar 4.0.1-81
 taglib 2.0-1
 taglib1 1.13.1-2
-tailscale 1.62.1-1
+tailscale 1.62.1-2
 tailspin 3.0.0-1
 tailwindcss-language-server 0.0.16-1
 talhelper 2.0.0-1
 tali 40.9-1
 talkfilters 2.3.8-7
-talloc 2.4.1-1
+talloc 2.4.2-1
 talosctl 1.6.6-1
 tamarin-prover 1.8.0-77
 tang 14-1
@@ -10661,7 +10662,7 @@ tcpflow 1.6.1-2
 tcplay 3.3-3
 tcpreplay 4.4.3-1
 tcsh 6.24.10-1
-tdb 1.4.9-1
+tdb 1.4.10-1
 tdlib 0.9.2-2
 tea 0.9.2-1
 tealdeer 1.6.1-1
@@ -10702,7 +10703,7 @@ testdisk 7.2-1
 testssl.sh 3.0.8-2
 testu01 1.2.3-4
 tetrinet 0.11-9
-tevent 1:0.15.0-1
+tevent 1:0.16.1-1
 tex-gyre-fonts 2.501-2
 texi2html 5.0-7
 texinfo 7.1-2
@@ -10797,7 +10798,7 @@ touchegg 2.0.17-1
 towncrier 22.12.0-3
 toxcore 1:0.2.18-4
 toxic 0.11.3-4
-tp_smapi 0.44-43
+tp_smapi 0.44-44
 tp_smapi-lts 0.44-18
 tpm2-abrmd 3.0.0-1
 tpm2-openssl 1.2.0-1
@@ -10809,8 +10810,8 @@ tpm2-tss-engine 1.1.0-2
 trace-cmd 3.2-1
 tracer 0.7.11-1
 traceroute 2.1.5-1
-tracker3 3.7.0-1
-tracker3-miners 3.7.0-1
+tracker3 3.7.1-1
+tracker3-miners 3.7.1-1
 traefik 2.10.5-1
 translate-shell 0.9.7.1-1
 translate-toolkit 3.12.2-1
@@ -11000,13 +11001,13 @@ usleep 1.0-6
 usort 1.0.4-3
 utf8cpp 4.0.5-1
 uthash 2.3.0-2
-util-linux 2.40rc2-1
+util-linux 2.40-1
 utox 0.18.1-4
 uucp 1.07-7
 uudeview 20230502-3
 uusi 0.4.3.0-33
 uutils-coreutils 0.0.25-2
-uv 0.1.24-1
+uv 0.1.25-1
 uvicorn 0.29.0-1
 uwsgi 2.0.24-2
 uwsgitop 0.11-6
@@ -11053,7 +11054,7 @@ vegeta 12.11.1-1
 veracrypt 1.26.7-1
 verdict 1.4.2-1
 verilator 5.022-1
-vhba-module 20240202-9
+vhba-module 20240202-10
 vhs 0.7.1-1
 vi 1:070224-6
 vice 3.8-2
@@ -11105,7 +11106,7 @@ virt-what 1.25-1
 virtiofsd 1.10.1-1
 virtualbox 7.0.14-2
 virtualbox-guest-iso 7.0.14-1
-virtualbox-host-modules-arch 7.0.14-15
+virtualbox-host-modules-arch 7.0.14-16
 virtualgl 3.1.1-1
 vis 0.8-2
 visidata 3.0.2-2
@@ -11246,7 +11247,7 @@ wireless-regdb 2024.01.23-1
 wireless_tools 30.pre9-3
 wireplumber 0.5.0-2
 wireproxy 1.0.7-1
-wireshark 4.2.3-1
+wireshark 4.2.4-1
 wishbone-utils 0.7.8-1
 wit 3.05a-1
 wiznote 2.8.5-1
@@ -11271,7 +11272,7 @@ woodpecker 2.3.0-1
 wordpress 6.4.3-1
 words 2.1-8
 worker-build 0.0.10-1
-workerd 1.20240325.0-1
+workerd 1.20240327.0-1
 workrave 1.10.52-3
 wp-cli 2.10.0-1
 wpa_supplicant 2:2.10-8
@@ -11283,7 +11284,7 @@ wqy-bitmapfont 1.0.0RC1-5
 wqy-microhei 0.2.0_beta-11
 wqy-microhei-lite 0.2.0_beta-10
 wqy-zenhei 0.9.45-9
-wrangler 3.38.0-1
+wrangler 3.39.0-1
 wt 4.10.4-1
 wtype 0.4-1
 wv 1.2.9-6
@@ -11518,7 +11519,7 @@ xorg-xwayland 23.2.4-2
 xorg-xwd 1.0.9-1
 xorg-xwininfo 1.1.6-1
 xorg-xwud 1.0.6-1
-xorgproto 2023.2-1
+xorgproto 2024.1-1
 xortool 1.0.0-1
 xosd 2.2.14-11
 xournalpp 1.2.2-1
