@@ -1,0 +1,14 @@
+{
+  "name": "rustypaste",
+  "version": "0.15.0-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199178256,
+  "transmit": 206033,
+  "disk": 1089726
+}
