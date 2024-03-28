@@ -1,0 +1,12 @@
+{
+  "name": "rofi-calc",
+  "version": "2.2.1-1",
+  "depends": [
+    "rofi",
+    "libqalculate"
+  ],
+  "makedepends": [],
+  "receive": 199301271,
+  "transmit": 375172,
+  "disk": 3571310
+}
