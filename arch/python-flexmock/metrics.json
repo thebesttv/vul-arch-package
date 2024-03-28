@@ -1,0 +1,15 @@
+{
+  "name": "python-flexmock",
+  "version": "0.12.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199301323,
+  "transmit": 405912,
+  "disk": 664873
+}
