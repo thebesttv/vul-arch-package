@@ -1,0 +1,19 @@
+{
+  "name": "sslh",
+  "version": "2.1.1-1",
+  "depends": [
+    "glibc",
+    "libcap",
+    "libconfig",
+    "pcre2",
+    "systemd-libs",
+    "libev",
+    "libbsd"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199246463,
+  "transmit": 397038,
+  "disk": 1258819
+}
