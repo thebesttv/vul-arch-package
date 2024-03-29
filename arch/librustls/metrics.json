@@ -1,0 +1,15 @@
+{
+  "name": "librustls",
+  "version": "0.12.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo-c",
+    "rust"
+  ],
+  "receive": 199219261,
+  "transmit": 381789,
+  "disk": 699332
+}
