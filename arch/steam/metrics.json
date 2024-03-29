@@ -1,0 +1,33 @@
+{
+  "name": "steam",
+  "version": "1.0.0.79-1",
+  "depends": [
+    "bash",
+    "desktop-file-utils",
+    "diffutils",
+    "hicolor-icon-theme",
+    "curl",
+    "dbus",
+    "freetype2",
+    "gdk-pixbuf2",
+    "ttf-font",
+    "zenity",
+    "lsb-release",
+    "nss",
+    "usbutils",
+    "xorg-xrandr",
+    "vulkan-driver",
+    "vulkan-icd-loader",
+    "lsof",
+    "python",
+    "xdg-user-dirs",
+    "glibc",
+    "libxcrypt",
+    "libxcrypt-compat",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199324501,
+  "transmit": 404435,
+  "disk": 8316130
+}
