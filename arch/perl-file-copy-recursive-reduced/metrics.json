@@ -1,0 +1,14 @@
+{
+  "name": "perl-file-copy-recursive-reduced",
+  "version": "0.008-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "perl-capture-tiny",
+    "perl-path-tiny"
+  ],
+  "receive": 199084347,
+  "transmit": 230371,
+  "disk": 256368
+}
