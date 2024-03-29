@@ -1,0 +1,16 @@
+{
+  "name": "coreutils",
+  "version": "9.5-1",
+  "depends": [
+    "glibc",
+    "acl",
+    "attr",
+    "gmp",
+    "libcap",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 199262133,
+  "transmit": 257338,
+  "disk": 65222019
+}
