@@ -1,0 +1,14 @@
+{
+  "name": "uncrustify",
+  "version": "0.78.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "python"
+  ],
+  "receive": 199335778,
+  "transmit": 440696,
+  "disk": 10370729
+}
