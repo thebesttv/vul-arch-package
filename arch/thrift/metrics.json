@@ -1,0 +1,17 @@
+{
+  "name": "thrift",
+  "version": "0.20.0-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "qt5-base",
+    "boost",
+    "libevent",
+    "emacs-nox"
+  ],
+  "receive": 203742525,
+  "transmit": 341514,
+  "disk": 28627292
+}
