@@ -1,0 +1,13 @@
+{
+  "name": "deepin-shortcut-viewer",
+  "version": "5.0.8-1",
+  "depends": [
+    "deepin-qt5integration"
+  ],
+  "makedepends": [
+    "qt5-tools"
+  ],
+  "receive": 199083492,
+  "transmit": 247399,
+  "disk": 594892
+}
