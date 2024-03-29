@@ -1,0 +1,16 @@
+{
+  "name": "deepin-gettext-tools",
+  "version": "1.0.11-1",
+  "depends": [
+    "gettext",
+    "python",
+    "perl-config-tiny",
+    "perl-xml-libxml"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199218166,
+  "transmit": 401601,
+  "disk": 284684
+}
