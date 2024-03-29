@@ -1,0 +1,15 @@
+{
+  "name": "npm-check-updates",
+  "version": "16.14.18-1",
+  "depends": [
+    "nodejs-nopt",
+    "npm",
+    "semver"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199476824,
+  "transmit": 387659,
+  "disk": 522043
+}
