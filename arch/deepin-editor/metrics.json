@@ -1,0 +1,30 @@
+{
+  "name": "deepin-editor",
+  "version": "6.0.17-1",
+  "depends": [
+    "deepin-qt5integration",
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "deepin-qt-dbus-factory",
+    "gcc-libs",
+    "icu",
+    "qt5-base",
+    "qt5-svg",
+    "kcodecs5",
+    "syntax-highlighting5",
+    "libchardet",
+    "uchardet"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "gmock",
+    "gtest",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199229864,
+  "transmit": 431944,
+  "disk": 70979834
+}
