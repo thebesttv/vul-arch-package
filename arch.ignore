@@ -573,3 +573,4 @@ rime-emoji 0.0.0.20240306-1
 aliyun-cli 3.0.201-1
 python-pytest-enabler 3.1.0-1
 uv 0.1.26-1
+gunicorn 21.2.0-1
