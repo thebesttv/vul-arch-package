@@ -1,0 +1,12 @@
+{
+  "name": "nvidia",
+  "version": "550.67-3",
+  "depends": [],
+  "makedepends": [
+    "linux-headers",
+    "nvidia-dkms=550.67"
+  ],
+  "receive": 199316407,
+  "transmit": 401810,
+  "disk": 846546
+}
