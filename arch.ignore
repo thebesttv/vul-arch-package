@@ -577,3 +577,4 @@ gunicorn 21.2.0-1
 dark-reader 4.9.81-1
 lib32-xz 5.6.1-2
 curl-rustls 8.7.1-2
+rye 0.32.0-1
