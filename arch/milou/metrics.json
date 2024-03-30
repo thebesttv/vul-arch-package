@@ -1,0 +1,21 @@
+{
+  "name": "milou",
+  "version": "6.0.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kirigami",
+    "krunner",
+    "ksvg",
+    "libplasma",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199880872,
+  "transmit": 809738,
+  "disk": 895657
+}
