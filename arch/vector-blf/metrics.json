@@ -1,0 +1,16 @@
+{
+  "name": "vector-blf",
+  "version": "2.4.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen"
+  ],
+  "receive": 199374017,
+  "transmit": 386645,
+  "disk": 2093556
+}
