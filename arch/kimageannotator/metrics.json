@@ -1,0 +1,21 @@
+{
+  "name": "kimageannotator",
+  "version": "0.7.1-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libx11"
+  ],
+  "makedepends": [
+    "cmake",
+    "kcolorpicker",
+    "kcolorpicker-qt5",
+    "qt5-svg",
+    "qt5-tools",
+    "qt6-svg",
+    "qt6-tools"
+  ],
+  "receive": 199502447,
+  "transmit": 528902,
+  "disk": 2982714
+}
