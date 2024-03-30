@@ -1,0 +1,21 @@
+{
+  "name": "qbittorrent",
+  "version": "4.6.4-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libtorrent-rasterbar",
+    "openssl",
+    "qt6-base",
+    "zlib"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "qt6-svg",
+    "qt6-tools"
+  ],
+  "receive": 203911224,
+  "transmit": 300929,
+  "disk": 55610777
+}
