@@ -1,0 +1,17 @@
+{
+  "name": "haskell-sourcemap",
+  "version": "0.1.7-152",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-unordered-containers",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199343233,
+  "transmit": 416468,
+  "disk": 514033
+}
