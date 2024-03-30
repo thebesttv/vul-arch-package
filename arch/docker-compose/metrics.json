@@ -1,0 +1,11 @@
+{
+  "name": "docker-compose",
+  "version": "2.26.1-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199209932,
+  "transmit": 288249,
+  "disk": 2509988
+}
