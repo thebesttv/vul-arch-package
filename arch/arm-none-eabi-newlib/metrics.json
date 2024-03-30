@@ -1,0 +1,11 @@
+{
+  "name": "arm-none-eabi-newlib",
+  "version": "4.4.0.20231231-1",
+  "depends": [],
+  "makedepends": [
+    "arm-none-eabi-gcc"
+  ],
+  "receive": 208435777,
+  "transmit": 386960,
+  "disk": 64133168
+}
