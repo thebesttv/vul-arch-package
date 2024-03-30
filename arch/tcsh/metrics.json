@@ -1,0 +1,13 @@
+{
+  "name": "tcsh",
+  "version": "6.24.11-1",
+  "depends": [
+    "glibc",
+    "ncurses",
+    "libxcrypt"
+  ],
+  "makedepends": [],
+  "receive": 199302496,
+  "transmit": 357999,
+  "disk": 4782121
+}
