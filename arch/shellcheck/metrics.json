@@ -1,0 +1,20 @@
+{
+  "name": "shellcheck",
+  "version": "0.10.0-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-diff",
+    "haskell-fgl",
+    "haskell-quickcheck",
+    "haskell-regex-tdfa"
+  ],
+  "makedepends": [
+    "ghc",
+    "pandoc",
+    "uusi"
+  ],
+  "receive": 200189356,
+  "transmit": 530170,
+  "disk": 2800290
+}
