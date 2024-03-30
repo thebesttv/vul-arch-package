@@ -1,0 +1,20 @@
+{
+  "name": "haskell-gi-gtk-hs",
+  "version": "0.3.16-15",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-gi-gdk3",
+    "haskell-gi-gdkpixbuf",
+    "haskell-gi-glib",
+    "haskell-gi-gobject",
+    "haskell-gi-gtk3",
+    "haskell-gi-base"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199552856,
+  "transmit": 473633,
+  "disk": 528374
+}
