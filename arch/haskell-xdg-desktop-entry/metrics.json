@@ -1,0 +1,17 @@
+{
+  "name": "haskell-xdg-desktop-entry",
+  "version": "0.1.1.1-86",
+  "depends": [
+    "ghc-libs",
+    "haskell-configfile",
+    "haskell-either",
+    "haskell-multimap",
+    "haskell-safe"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199248840,
+  "transmit": 371764,
+  "disk": 240660
+}
