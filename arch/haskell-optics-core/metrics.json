@@ -1,0 +1,15 @@
+{
+  "name": "haskell-optics-core",
+  "version": "0.4.1.1-33",
+  "depends": [
+    "ghc-libs",
+    "haskell-indexed-profunctors",
+    "haskell-indexed-traversable"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 201009549,
+  "transmit": 1646289,
+  "disk": 1453135
+}
