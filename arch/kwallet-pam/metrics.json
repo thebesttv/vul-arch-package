@@ -1,0 +1,18 @@
+{
+  "name": "kwallet-pam",
+  "version": "6.0.3-1",
+  "depends": [
+    "glibc",
+    "kwallet",
+    "libgcrypt",
+    "pam",
+    "sh",
+    "socat"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199497562,
+  "transmit": 499126,
+  "disk": 377979
+}
