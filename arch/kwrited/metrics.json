@@ -1,0 +1,20 @@
+{
+  "name": "kwrited",
+  "version": "6.0.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "kdbusaddons",
+    "knotifications",
+    "kpty",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 200077277,
+  "transmit": 865965,
+  "disk": 374314
+}
