@@ -1,0 +1,21 @@
+{
+  "name": "haskell-hslua-core",
+  "version": "2.3.1-41",
+  "depends": [
+    "ghc-libs",
+    "haskell-lua"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-lua-arbitrary",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199360247,
+  "transmit": 442042,
+  "disk": 478550
+}
