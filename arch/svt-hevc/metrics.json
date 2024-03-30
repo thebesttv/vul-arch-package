@@ -1,0 +1,16 @@
+{
+  "name": "svt-hevc",
+  "version": "1.5.1-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "nasm",
+    "ninja"
+  ],
+  "receive": 199177511,
+  "transmit": 253797,
+  "disk": 32650369
+}
