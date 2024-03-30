@@ -1,0 +1,15 @@
+{
+  "name": "haskell-mutable-containers",
+  "version": "0.3.4.1-83",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector",
+    "haskell-mono-traversable"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199465146,
+  "transmit": 240457,
+  "disk": 442448
+}
