@@ -1,0 +1,21 @@
+{
+  "name": "haskell-vector-builder",
+  "version": "0.3.8.5-19",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-attoparsec",
+    "haskell-quickcheck-instances",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199598411,
+  "transmit": 624531,
+  "disk": 447509
+}
