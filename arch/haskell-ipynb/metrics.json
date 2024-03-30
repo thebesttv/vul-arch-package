@@ -1,0 +1,20 @@
+{
+  "name": "haskell-ipynb",
+  "version": "0.2-135",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-base64-bytestring",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-microlens",
+    "haskell-microlens-aeson",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199388314,
+  "transmit": 484208,
+  "disk": 2262191
+}
