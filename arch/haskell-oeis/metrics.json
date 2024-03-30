@@ -1,0 +1,20 @@
+{
+  "name": "haskell-oeis",
+  "version": "0.3.10-169",
+  "depends": [
+    "ghc-libs",
+    "haskell-http",
+    "haskell-network",
+    "haskell-network-uri"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199859519,
+  "transmit": 745306,
+  "disk": 465220
+}
