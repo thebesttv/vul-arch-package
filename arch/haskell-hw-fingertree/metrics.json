@@ -1,0 +1,21 @@
+{
+  "name": "haskell-hw-fingertree",
+  "version": "0.1.2.1-47",
+  "depends": [
+    "ghc-libs",
+    "haskell-hw-prim"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-doctest",
+    "haskell-doctest-discover",
+    "haskell-hedgehog",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-hw-hspec-hedgehog"
+  ],
+  "receive": 199161199,
+  "transmit": 225166,
+  "disk": 303599
+}
