@@ -1,0 +1,15 @@
+{
+  "name": "git-cliff",
+  "version": "2.2.0-1",
+  "depends": [
+    "gcc-libs",
+    "zlib",
+    "libgit2.so"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199219866,
+  "transmit": 287100,
+  "disk": 25087091
+}
