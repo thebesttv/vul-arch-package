@@ -1,0 +1,15 @@
+{
+  "name": "onevpl-intel-gpu",
+  "version": "24.2.0-1",
+  "depends": [
+    "intel-media-driver",
+    "libdrm",
+    "libva"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 202409846,
+  "transmit": 374361,
+  "disk": 66798989
+}
