@@ -1,0 +1,26 @@
+{
+  "name": "plymouth-kcm",
+  "version": "6.0.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kauth",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "knewstuff",
+    "plymouth",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199190928,
+  "transmit": 246398,
+  "disk": 714689
+}
