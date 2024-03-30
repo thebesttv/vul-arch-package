@@ -1,0 +1,19 @@
+{
+  "name": "haskell-nothunks",
+  "version": "0.2.0-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hedgehog",
+    "haskell-random",
+    "haskell-tasty",
+    "haskell-tasty-hedgehog"
+  ],
+  "receive": 199269326,
+  "transmit": 350660,
+  "disk": 325783
+}
