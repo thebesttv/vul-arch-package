@@ -1,0 +1,25 @@
+{
+  "name": "haskell-vec",
+  "version": "0.5-46",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-adjunctions",
+    "haskell-boring",
+    "haskell-distributive",
+    "haskell-fin",
+    "haskell-hashable",
+    "haskell-indexed-traversable",
+    "haskell-semigroupoids"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-base-compat",
+    "haskell-inspection-testing",
+    "haskell-tagged"
+  ],
+  "receive": 199152145,
+  "transmit": 213724,
+  "disk": 480235
+}
