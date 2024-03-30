@@ -1,0 +1,13 @@
+{
+  "name": "intel-gmmlib",
+  "version": "22.3.18-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199179649,
+  "transmit": 265870,
+  "disk": 6491535
+}
