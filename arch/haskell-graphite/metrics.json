@@ -1,0 +1,21 @@
+{
+  "name": "haskell-graphite",
+  "version": "0.10.0.1-209",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-cassava",
+    "haskell-graphviz",
+    "haskell-hashable",
+    "haskell-random",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199178907,
+  "transmit": 265670,
+  "disk": 398932
+}
