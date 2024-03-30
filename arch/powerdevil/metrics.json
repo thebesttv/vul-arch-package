@@ -1,0 +1,41 @@
+{
+  "name": "powerdevil",
+  "version": "6.0.3-1",
+  "depends": [
+    "ddcutil",
+    "gcc-libs",
+    "glibc",
+    "plasma-activities",
+    "kauth",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "kglobalaccel",
+    "ki18n",
+    "kidletime",
+    "kirigami",
+    "kitemmodels",
+    "knotifications",
+    "ksvg",
+    "kwindowsystem",
+    "kxmlgui",
+    "layer-shell-qt",
+    "libkscreen",
+    "libplasma",
+    "libxcb",
+    "plasma-workspace",
+    "qt6-base",
+    "qt6-declarative",
+    "solid",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199579047,
+  "transmit": 423530,
+  "disk": 6291910
+}
