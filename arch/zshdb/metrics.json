@@ -1,0 +1,12 @@
+{
+  "name": "zshdb",
+  "version": "1.1.4-1",
+  "depends": [
+    "zsh",
+    "coreutils"
+  ],
+  "makedepends": [],
+  "receive": 199320096,
+  "transmit": 353153,
+  "disk": 1322220
+}
