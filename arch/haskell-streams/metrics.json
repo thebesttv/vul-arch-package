@@ -1,0 +1,18 @@
+{
+  "name": "haskell-streams",
+  "version": "3.3.2-49",
+  "depends": [
+    "ghc-libs",
+    "haskell-adjunctions",
+    "haskell-boring",
+    "haskell-comonad",
+    "haskell-distributive",
+    "haskell-semigroupoids"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199291455,
+  "transmit": 381961,
+  "disk": 389259
+}
