@@ -1,0 +1,16 @@
+{
+  "name": "haskell-lambdabot-trusted",
+  "version": "5.3.1.2-46",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-quickcheck-safe",
+    "haskell-oeis"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199406349,
+  "transmit": 278214,
+  "disk": 321059
+}
