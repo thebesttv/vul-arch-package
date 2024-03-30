@@ -1,0 +1,33 @@
+{
+  "name": "plasma-pa",
+  "version": "6.0.3-1",
+  "depends": [
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "kdeclarative",
+    "kglobalaccel",
+    "ki18n",
+    "kirigami",
+    "kitemmodels",
+    "kstatusnotifieritem",
+    "ksvg",
+    "libcanberra",
+    "libplasma",
+    "libpulse",
+    "plasma-workspace",
+    "pulse-native-provider",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199439831,
+  "transmit": 416042,
+  "disk": 2294575
+}
