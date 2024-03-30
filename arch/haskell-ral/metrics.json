@@ -1,0 +1,23 @@
+{
+  "name": "haskell-ral",
+  "version": "0.2.1-151",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-adjunctions",
+    "haskell-bin",
+    "haskell-boring",
+    "haskell-distributive",
+    "haskell-fin",
+    "haskell-hashable",
+    "haskell-indexed-traversable",
+    "haskell-semigroupoids"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199254023,
+  "transmit": 320254,
+  "disk": 452488
+}
