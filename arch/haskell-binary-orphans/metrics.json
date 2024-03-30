@@ -1,0 +1,21 @@
+{
+  "name": "haskell-binary-orphans",
+  "version": "1.0.4.1-37",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-array-byte",
+    "haskell-onetuple"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck",
+    "haskell-tagged"
+  ],
+  "receive": 199299116,
+  "transmit": 371290,
+  "disk": 465967
+}
