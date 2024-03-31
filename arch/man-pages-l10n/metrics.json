@@ -1,0 +1,13 @@
+{
+  "name": "man-pages-l10n",
+  "version": "4.22.0-1",
+  "depends": [
+    "man"
+  ],
+  "makedepends": [
+    "po4a"
+  ],
+  "receive": 315589169,
+  "transmit": 1257673,
+  "disk": 879390695
+}
