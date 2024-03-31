@@ -1,0 +1,21 @@
+{
+  "name": "engrampa",
+  "version": "1.28.1-1",
+  "depends": [
+    "gtk3",
+    "gzip",
+    "gettext",
+    "libarchive",
+    "tar",
+    "unzip",
+    "zip"
+  ],
+  "makedepends": [
+    "caja",
+    "itstool",
+    "python"
+  ],
+  "receive": 199223807,
+  "transmit": 326484,
+  "disk": 34450072
+}
