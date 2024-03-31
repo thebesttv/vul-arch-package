@@ -1,0 +1,21 @@
+{
+  "name": "linuxsampler",
+  "version": "2.3.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "sqlite"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "dssi",
+    "jack",
+    "ladspa",
+    "libgig",
+    "libsndfile",
+    "lv2"
+  ],
+  "receive": 199261496,
+  "transmit": 329634,
+  "disk": 10444164
+}
