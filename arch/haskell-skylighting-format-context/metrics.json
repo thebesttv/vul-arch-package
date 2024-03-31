@@ -1,0 +1,15 @@
+{
+  "name": "haskell-skylighting-format-context",
+  "version": "0.1.0.2-81",
+  "depends": [
+    "ghc-libs",
+    "haskell-skylighting-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199172614,
+  "transmit": 252712,
+  "disk": 254277
+}
