@@ -1,0 +1,19 @@
+{
+  "name": "qt6-virtualkeyboard",
+  "version": "6.6.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hunspell",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 203208065,
+  "transmit": 505651,
+  "disk": 23599312
+}
