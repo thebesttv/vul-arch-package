@@ -1,0 +1,19 @@
+{
+  "name": "mate-sensors-applet",
+  "version": "1.28.0-1",
+  "depends": [
+    "udisks2",
+    "libnotify",
+    "libxnvctrl",
+    "lm_sensors",
+    "mate-panel",
+    "gettext"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "itstool"
+  ],
+  "receive": 199970805,
+  "transmit": 390009,
+  "disk": 12800598
+}
