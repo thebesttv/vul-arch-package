@@ -1,0 +1,14 @@
+{
+  "name": "libva-utils",
+  "version": "2.21.0-1",
+  "depends": [
+    "libva"
+  ],
+  "makedepends": [
+    "mesa",
+    "meson"
+  ],
+  "receive": 199261031,
+  "transmit": 370254,
+  "disk": 7787565
+}
