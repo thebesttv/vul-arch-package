@@ -1,0 +1,13 @@
+{
+  "name": "hawkeye",
+  "version": "5.4.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo-nightly"
+  ],
+  "receive": 199210478,
+  "transmit": 272892,
+  "disk": 418602
+}
