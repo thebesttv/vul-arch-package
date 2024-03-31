@@ -1,0 +1,24 @@
+{
+  "name": "mate-applets",
+  "version": "1.28.0-1",
+  "depends": [
+    "cpupower",
+    "gtksourceview4",
+    "libgtop",
+    "libnotify",
+    "mate-panel",
+    "polkit",
+    "upower",
+    "wireless_tools",
+    "libnl"
+  ],
+  "makedepends": [
+    "intltool",
+    "itstool",
+    "gucharmap",
+    "yelp-tools"
+  ],
+  "receive": 207949801,
+  "transmit": 449674,
+  "disk": 102590853
+}
