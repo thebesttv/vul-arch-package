@@ -1,0 +1,16 @@
+{
+  "name": "qt6-languageserver",
+  "version": "6.6.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199197990,
+  "transmit": 221093,
+  "disk": 1303892
+}
