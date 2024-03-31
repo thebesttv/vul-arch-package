@@ -1,0 +1,14 @@
+{
+  "name": "python-caja",
+  "version": "1.28.0-1",
+  "depends": [
+    "caja",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "intltool"
+  ],
+  "receive": 199182336,
+  "transmit": 288838,
+  "disk": 2648274
+}
