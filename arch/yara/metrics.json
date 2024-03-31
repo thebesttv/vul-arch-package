@@ -1,0 +1,13 @@
+{
+  "name": "yara",
+  "version": "4.5.0-1",
+  "depends": [
+    "openssl",
+    "file",
+    "libmagic.so"
+  ],
+  "makedepends": [],
+  "receive": 199223577,
+  "transmit": 324344,
+  "disk": 15676686
+}
