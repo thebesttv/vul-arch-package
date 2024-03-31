@@ -1,0 +1,21 @@
+{
+  "name": "qt6-quick3d",
+  "version": "6.6.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-quicktimeline",
+    "qt6-shadertools",
+    "zlib"
+  ],
+  "makedepends": [
+    "assimp",
+    "cmake",
+    "ninja"
+  ],
+  "receive": 265358645,
+  "transmit": 508975,
+  "disk": 185309397
+}
