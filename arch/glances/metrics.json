@@ -1,0 +1,20 @@
+{
+  "name": "glances",
+  "version": "3.4.0.5-2",
+  "depends": [
+    "python",
+    "python-psutil",
+    "python-future",
+    "python-defusedxml",
+    "python-ujson"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199248095,
+  "transmit": 293677,
+  "disk": 15550043
+}
