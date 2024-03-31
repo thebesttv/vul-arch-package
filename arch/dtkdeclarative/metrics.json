@@ -1,0 +1,24 @@
+{
+  "name": "dtkdeclarative",
+  "version": "5.6.26-1",
+  "depends": [
+    "dtkgui",
+    "dtkcore",
+    "qt5-declarative",
+    "qt5-quickcontrols2",
+    "qt5-base",
+    "libgl",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools",
+    "doxygen",
+    "gtest",
+    "gmock"
+  ],
+  "receive": 199220693,
+  "transmit": 292706,
+  "disk": 47166241
+}
