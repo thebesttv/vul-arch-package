@@ -1,0 +1,25 @@
+{
+  "name": "python-zita-jacktools",
+  "version": "1.7.2-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-zita-audiotools"
+  ],
+  "makedepends": [
+    "fftw",
+    "jack",
+    "libsndfile",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "zita-convolver",
+    "zita-jclient",
+    "zita-resampler"
+  ],
+  "receive": 199409487,
+  "transmit": 465947,
+  "disk": 907253
+}
