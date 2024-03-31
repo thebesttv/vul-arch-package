@@ -1,0 +1,20 @@
+{
+  "name": "mate-screensaver",
+  "version": "1.28.0-1",
+  "depends": [
+    "mate-panel",
+    "libmatekbd",
+    "gettext",
+    "libnotify",
+    "libxss",
+    "mate-desktop",
+    "mate-menus",
+    "mate-session-manager"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199589725,
+  "transmit": 511103,
+  "disk": 17342806
+}
