@@ -1,0 +1,14 @@
+{
+  "name": "acpica",
+  "version": "20240321-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "flex",
+    "bison"
+  ],
+  "receive": 199304670,
+  "transmit": 369883,
+  "disk": 14378033
+}
