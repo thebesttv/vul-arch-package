@@ -1,0 +1,19 @@
+{
+  "name": "mate-user-share",
+  "version": "1.28.0-1",
+  "depends": [
+    "gtk3",
+    "mod_dnssd",
+    "gettext"
+  ],
+  "makedepends": [
+    "caja",
+    "dbus-glib",
+    "itstool",
+    "libcanberra",
+    "libnotify"
+  ],
+  "receive": 199201740,
+  "transmit": 296893,
+  "disk": 9102772
+}
