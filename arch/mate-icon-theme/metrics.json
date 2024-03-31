@@ -1,0 +1,13 @@
+{
+  "name": "mate-icon-theme",
+  "version": "1.28.0-1",
+  "depends": [
+    "gettext"
+  ],
+  "makedepends": [
+    "icon-naming-utils"
+  ],
+  "receive": 222560531,
+  "transmit": 797123,
+  "disk": 108563155
+}
