@@ -1,0 +1,14 @@
+{
+  "name": "zbus_xmlgen",
+  "version": "4.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199345160,
+  "transmit": 412527,
+  "disk": 11473787
+}
