@@ -1,0 +1,12 @@
+{
+  "name": "libimobiledevice-glue",
+  "version": "1.2.0-1",
+  "depends": [
+    "glibc",
+    "libplist"
+  ],
+  "makedepends": [],
+  "receive": 200321982,
+  "transmit": 845342,
+  "disk": 2122047
+}
