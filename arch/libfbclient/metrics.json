@@ -1,0 +1,17 @@
+{
+  "name": "libfbclient",
+  "version": "4.0.4.3010-1",
+  "depends": [
+    "gcc-libs",
+    "libtommath"
+  ],
+  "makedepends": [
+    "editline",
+    "libtomcrypt",
+    "re2",
+    "unzip"
+  ],
+  "receive": 230595793,
+  "transmit": 685106,
+  "disk": 124520637
+}
