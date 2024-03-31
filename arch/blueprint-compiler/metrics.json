@@ -1,0 +1,13 @@
+{
+  "name": "blueprint-compiler",
+  "version": "0.12.0-1",
+  "depends": [
+    "python-gobject"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199260824,
+  "transmit": 333676,
+  "disk": 734206
+}
