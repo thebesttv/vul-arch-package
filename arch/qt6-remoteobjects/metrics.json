@@ -1,0 +1,17 @@
+{
+  "name": "qt6-remoteobjects",
+  "version": "6.6.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-declarative"
+  ],
+  "receive": 199253441,
+  "transmit": 336154,
+  "disk": 3419516
+}
