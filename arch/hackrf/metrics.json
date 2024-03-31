@@ -1,0 +1,14 @@
+{
+  "name": "hackrf",
+  "version": "2024.02.1-1",
+  "depends": [
+    "libusb",
+    "fftw"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199195406,
+  "transmit": 280529,
+  "disk": 76987712
+}
