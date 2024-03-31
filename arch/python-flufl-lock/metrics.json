@@ -1,0 +1,17 @@
+{
+  "name": "python-flufl-lock",
+  "version": "8.1.0-1",
+  "depends": [
+    "python",
+    "python-atpublic",
+    "python-psutil"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199168153,
+  "transmit": 271429,
+  "disk": 265634
+}
