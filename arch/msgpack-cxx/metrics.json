@@ -1,0 +1,15 @@
+{
+  "name": "msgpack-cxx",
+  "version": "6.1.0-1",
+  "depends": [
+    "boost"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "graphviz"
+  ],
+  "receive": 199559861,
+  "transmit": 546953,
+  "disk": 7153791
+}
