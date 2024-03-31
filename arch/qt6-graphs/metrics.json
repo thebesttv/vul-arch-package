@@ -1,0 +1,19 @@
+{
+  "name": "qt6-graphs",
+  "version": "6.6.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-quick3d"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-shadertools"
+  ],
+  "receive": 199312475,
+  "transmit": 377551,
+  "disk": 11804184
+}
