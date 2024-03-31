@@ -1,0 +1,13 @@
+{
+  "name": "libfabric",
+  "version": "1.21.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "numactl"
+  ],
+  "makedepends": [],
+  "receive": 199498316,
+  "transmit": 456033,
+  "disk": 22478673
+}
