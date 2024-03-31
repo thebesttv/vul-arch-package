@@ -1,0 +1,14 @@
+{
+  "name": "libusbmuxd",
+  "version": "2.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libimobiledevice-glue",
+    "libplist"
+  ],
+  "makedepends": [],
+  "receive": 199262421,
+  "transmit": 353730,
+  "disk": 2086390
+}
