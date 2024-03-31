@@ -1,0 +1,26 @@
+{
+  "name": "pluma",
+  "version": "1.28.0-2",
+  "depends": [
+    "iso-codes",
+    "mate-desktop",
+    "zenity",
+    "gtksourceview4",
+    "libpeas",
+    "python",
+    "gettext",
+    "enchant",
+    "libsm"
+  ],
+  "makedepends": [
+    "itstool",
+    "gobject-introspection",
+    "python",
+    "mate-common",
+    "yelp-tools",
+    "autoconf-archive"
+  ],
+  "receive": 199178555,
+  "transmit": 282879,
+  "disk": 68964760
+}
