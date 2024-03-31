@@ -1,0 +1,15 @@
+{
+  "name": "tig",
+  "version": "2.5.9-1",
+  "depends": [
+    "git",
+    "ncurses"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "xmlto"
+  ],
+  "receive": 199294213,
+  "transmit": 379862,
+  "disk": 6619109
+}
