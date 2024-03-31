@@ -1,0 +1,17 @@
+{
+  "name": "python-click-command-tree",
+  "version": "1.2.0-1",
+  "depends": [
+    "python",
+    "python-click"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199352664,
+  "transmit": 422859,
+  "disk": 119798
+}
