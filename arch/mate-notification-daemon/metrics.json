@@ -1,0 +1,17 @@
+{
+  "name": "mate-notification-daemon",
+  "version": "1.28.0-1",
+  "depends": [
+    "libcanberra",
+    "libwnck3",
+    "libnotify",
+    "gettext",
+    "mate-panel"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 199170860,
+  "transmit": 251063,
+  "disk": 4212360
+}
