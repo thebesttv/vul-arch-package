@@ -1,0 +1,21 @@
+{
+  "name": "mate-power-manager",
+  "version": "1.28.1-1",
+  "depends": [
+    "dbus-glib",
+    "gettext",
+    "libcanberra",
+    "libnotify",
+    "upower",
+    "polkit",
+    "libsecret"
+  ],
+  "makedepends": [
+    "itstool",
+    "mate-panel",
+    "python"
+  ],
+  "receive": 199409856,
+  "transmit": 453168,
+  "disk": 36156725
+}
