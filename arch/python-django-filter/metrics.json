@@ -1,0 +1,17 @@
+{
+  "name": "python-django-filter",
+  "version": "24.2-1",
+  "depends": [
+    "python",
+    "python-django"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199208345,
+  "transmit": 286735,
+  "disk": 1133663
+}
