@@ -1,0 +1,22 @@
+{
+  "name": "eom",
+  "version": "1.28.0-1",
+  "depends": [
+    "dbus-glib",
+    "gobject-introspection-runtime",
+    "gettext",
+    "exempi",
+    "lcms2",
+    "libexif",
+    "libjpeg-turbo",
+    "mate-desktop",
+    "libpeas"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "itstool"
+  ],
+  "receive": 199184671,
+  "transmit": 262518,
+  "disk": 24608590
+}
