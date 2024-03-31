@@ -1,0 +1,14 @@
+{
+  "name": "editorconfig-core-c",
+  "version": "0.12.7-1",
+  "depends": [
+    "pcre2"
+  ],
+  "makedepends": [
+    "cmake",
+    "doxygen"
+  ],
+  "receive": 199199059,
+  "transmit": 287311,
+  "disk": 509707
+}
