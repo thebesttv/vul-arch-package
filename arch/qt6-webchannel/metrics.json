@@ -1,0 +1,17 @@
+{
+  "name": "qt6-webchannel",
+  "version": "6.6.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199217824,
+  "transmit": 295367,
+  "disk": 2877602
+}
