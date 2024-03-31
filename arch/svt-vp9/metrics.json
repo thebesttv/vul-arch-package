@@ -1,0 +1,16 @@
+{
+  "name": "svt-vp9",
+  "version": "0.3.0-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "nasm",
+    "ninja"
+  ],
+  "receive": 199269973,
+  "transmit": 355162,
+  "disk": 9036253
+}
