@@ -1,0 +1,16 @@
+{
+  "name": "mate-polkit",
+  "version": "1.28.1-1",
+  "depends": [
+    "gtk3",
+    "polkit",
+    "gettext"
+  ],
+  "makedepends": [
+    "accountsservice",
+    "gobject-introspection"
+  ],
+  "receive": 199188961,
+  "transmit": 254536,
+  "disk": 3049665
+}
