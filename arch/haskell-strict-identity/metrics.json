@@ -1,0 +1,14 @@
+{
+  "name": "haskell-strict-identity",
+  "version": "0.1.0.0-1",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199199286,
+  "transmit": 264269,
+  "disk": 114973
+}
