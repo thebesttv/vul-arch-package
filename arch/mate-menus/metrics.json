@@ -1,0 +1,13 @@
+{
+  "name": "mate-menus",
+  "version": "1.28.0-1",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "gobject-introspection"
+  ],
+  "receive": 199892112,
+  "transmit": 808363,
+  "disk": 3872686
+}
