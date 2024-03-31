@@ -1,0 +1,19 @@
+{
+  "name": "gnome-firmware",
+  "version": "46.0-1",
+  "depends": [
+    "gtk4",
+    "glib2",
+    "fwupd",
+    "libadwaita",
+    "libxmlb",
+    "systemd"
+  ],
+  "makedepends": [
+    "meson",
+    "help2man"
+  ],
+  "receive": 199336010,
+  "transmit": 421360,
+  "disk": 1999340
+}
