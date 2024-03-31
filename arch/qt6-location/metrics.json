@@ -1,0 +1,18 @@
+{
+  "name": "qt6-location",
+  "version": "6.6.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-positioning"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199322960,
+  "transmit": 374047,
+  "disk": 18460621
+}
