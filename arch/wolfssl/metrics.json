@@ -1,0 +1,13 @@
+{
+  "name": "wolfssl",
+  "version": "5.7.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 222911629,
+  "transmit": 506984,
+  "disk": 117178030
+}
