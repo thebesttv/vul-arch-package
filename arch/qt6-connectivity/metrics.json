@@ -1,0 +1,18 @@
+{
+  "name": "qt6-connectivity",
+  "version": "6.6.3-1",
+  "depends": [
+    "bluez-libs",
+    "gcc-libs",
+    "glibc",
+    "pcsclite",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199208197,
+  "transmit": 250190,
+  "disk": 9694538
+}
