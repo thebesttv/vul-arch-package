@@ -1,0 +1,19 @@
+{
+  "name": "python-readme-renderer",
+  "version": "43.0-1",
+  "depends": [
+    "python-docutils",
+    "python-pygments",
+    "python-nh3"
+  ],
+  "makedepends": [
+    "python-cmarkgfm",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199351330,
+  "transmit": 390965,
+  "disk": 258316
+}
