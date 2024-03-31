@@ -1,0 +1,21 @@
+{
+  "name": "mate-utils",
+  "version": "1.28.0-1",
+  "depends": [
+    "mate-desktop",
+    "gettext",
+    "libcanberra",
+    "libgtop",
+    "libsm",
+    "udisks2"
+  ],
+  "makedepends": [
+    "inkscape",
+    "itstool",
+    "mate-panel",
+    "python"
+  ],
+  "receive": 206751493,
+  "transmit": 328009,
+  "disk": 67574367
+}
