@@ -1,0 +1,21 @@
+{
+  "name": "wrangler",
+  "version": "3.41.0-1",
+  "depends": [
+    "glibc",
+    "nodejs",
+    "worker-build",
+    "workerd"
+  ],
+  "makedepends": [
+    "go",
+    "jq",
+    "npm",
+    "pnpm",
+    "turbo",
+    "typescript"
+  ],
+  "receive": 206640390,
+  "transmit": 459120,
+  "disk": 32440362
+}
