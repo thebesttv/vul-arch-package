@@ -1,0 +1,23 @@
+{
+  "name": "mate-control-center",
+  "version": "1.28.0-1",
+  "depends": [
+    "mate-menus",
+    "mate-settings-daemon",
+    "marco",
+    "libxss",
+    "mate-desktop",
+    "gettext",
+    "accountsservice",
+    "mate-panel",
+    "libcanberra",
+    "udisks2",
+    "libayatana-appindicator"
+  ],
+  "makedepends": [
+    "itstool"
+  ],
+  "receive": 199873515,
+  "transmit": 454155,
+  "disk": 50260680
+}
