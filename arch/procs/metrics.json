@@ -1,0 +1,15 @@
+{
+  "name": "procs",
+  "version": "0.14.5-3",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo",
+    "asciidoctor"
+  ],
+  "receive": 199256920,
+  "transmit": 288507,
+  "disk": 2814069
+}
