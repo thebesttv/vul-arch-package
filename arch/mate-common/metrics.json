@@ -1,0 +1,16 @@
+{
+  "name": "mate-common",
+  "version": "1.28.0-1",
+  "depends": [
+    "autoconf",
+    "automake",
+    "gettext",
+    "gtk-doc",
+    "libtool",
+    "pkg-config"
+  ],
+  "makedepends": [],
+  "receive": 199193949,
+  "transmit": 311379,
+  "disk": 508269
+}
