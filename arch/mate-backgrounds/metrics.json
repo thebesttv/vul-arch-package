@@ -1,0 +1,11 @@
+{
+  "name": "mate-backgrounds",
+  "version": "1.28.0-1",
+  "depends": [
+    "gettext"
+  ],
+  "makedepends": [],
+  "receive": 215539120,
+  "transmit": 483125,
+  "disk": 95196823
+}
