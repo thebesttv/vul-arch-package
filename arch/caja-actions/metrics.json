@@ -1,0 +1,14 @@
+{
+  "name": "caja-actions",
+  "version": "1.28.0-1",
+  "depends": [
+    "caja",
+    "libgtop"
+  ],
+  "makedepends": [
+    "itstool"
+  ],
+  "receive": 210620026,
+  "transmit": 409121,
+  "disk": 78155300
+}
