@@ -1,0 +1,16 @@
+{
+  "name": "rebuild-detector",
+  "version": "4.4.3-2",
+  "depends": [
+    "binutils",
+    "parallel",
+    "pacutils",
+    "pacman-contrib"
+  ],
+  "makedepends": [
+    "marked-man"
+  ],
+  "receive": 199355716,
+  "transmit": 357123,
+  "disk": 121610
+}
