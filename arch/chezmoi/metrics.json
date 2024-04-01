@@ -1,0 +1,14 @@
+{
+  "name": "chezmoi",
+  "version": "2.47.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199397838,
+  "transmit": 306276,
+  "disk": 7824022
+}
