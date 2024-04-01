@@ -1,0 +1,21 @@
+{
+  "name": "hsa-rocr",
+  "version": "6.0.2-2",
+  "depends": [
+    "rocm-core",
+    "glibc",
+    "gcc-libs",
+    "libelf",
+    "libdrm",
+    "hsakmt-roct",
+    "rocm-device-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "rocm-llvm",
+    "xxd"
+  ],
+  "receive": 199223965,
+  "transmit": 261920,
+  "disk": 6580675
+}
