@@ -1,0 +1,14 @@
+{
+  "name": "xf86-video-vesa",
+  "version": "2.6.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-VIDEODRV_VERSION=25.2"
+  ],
+  "receive": 199298419,
+  "transmit": 356294,
+  "disk": 2209910
+}
