@@ -1,0 +1,13 @@
+{
+  "name": "highlight",
+  "version": "4.11-2",
+  "depends": [],
+  "makedepends": [
+    "qt5-base",
+    "lua",
+    "boost"
+  ],
+  "receive": 199284579,
+  "transmit": 258759,
+  "disk": 7363685
+}
