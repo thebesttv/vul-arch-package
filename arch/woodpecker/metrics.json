@@ -1,0 +1,15 @@
+{
+  "name": "woodpecker",
+  "version": "2.4.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "yarn"
+  ],
+  "receive": 329154447,
+  "transmit": 668686,
+  "disk": 200321585
+}
