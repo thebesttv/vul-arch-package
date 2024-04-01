@@ -1,0 +1,25 @@
+{
+  "name": "python-openai",
+  "version": "1.15.0-1",
+  "depends": [
+    "python-anyio",
+    "python-httpx",
+    "python-tqdm",
+    "python-h2",
+    "python-distro",
+    "python-typing_extensions",
+    "python-pydantic",
+    "python-cached-property"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-hatchling",
+    "python-hatch-fancy-pypi-readme"
+  ],
+  "receive": 199211220,
+  "transmit": 270891,
+  "disk": 2151851
+}
