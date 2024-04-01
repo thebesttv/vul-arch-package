@@ -1,0 +1,21 @@
+{
+  "name": "amdvlk",
+  "version": "2024.Q1.3-2",
+  "depends": [],
+  "makedepends": [
+    "perl-xml-xpath",
+    "python",
+    "wayland",
+    "libxrandr",
+    "xorg-server-devel",
+    "directx-shader-compiler",
+    "glslang",
+    "python-jinja",
+    "cmake",
+    "ninja",
+    "git"
+  ],
+  "receive": 199331649,
+  "transmit": 426663,
+  "disk": 247642
+}
