@@ -1,0 +1,17 @@
+{
+  "name": "pt2-clone",
+  "version": "1.67-1",
+  "depends": [
+    "glibc",
+    "alsa-lib",
+    "sdl2",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "git",
+    "cmake"
+  ],
+  "receive": 204887154,
+  "transmit": 279955,
+  "disk": 65652860
+}
