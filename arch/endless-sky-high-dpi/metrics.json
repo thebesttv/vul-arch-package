@@ -1,0 +1,13 @@
+{
+  "name": "endless-sky-high-dpi",
+  "version": "0.10.6-1",
+  "depends": [
+    "endless-sky"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 1365578492,
+  "transmit": 3391236,
+  "disk": 1826048618
+}
