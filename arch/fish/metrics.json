@@ -1,0 +1,17 @@
+{
+  "name": "fish",
+  "version": "3.7.1-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "ncurses",
+    "pcre2"
+  ],
+  "makedepends": [
+    "cmake",
+    "python-sphinx"
+  ],
+  "receive": 202358536,
+  "transmit": 365553,
+  "disk": 41380885
+}
