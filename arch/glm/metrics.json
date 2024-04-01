@@ -1,0 +1,12 @@
+{
+  "name": "glm",
+  "version": "1.0.0-2",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199768359,
+  "transmit": 377016,
+  "disk": 26011028
+}
