@@ -1,0 +1,31 @@
+{
+  "name": "gnome-online-accounts",
+  "version": "3.50.0-3",
+  "depends": [
+    "dbus",
+    "dconf",
+    "gcc-libs",
+    "gcr-4",
+    "glib2",
+    "glibc",
+    "gtk4",
+    "hicolor-icon-theme",
+    "json-glib",
+    "krb5",
+    "libadwaita",
+    "librest",
+    "libsecret",
+    "libsoup3",
+    "libxml2"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson",
+    "python-packaging",
+    "vala"
+  ],
+  "receive": 199413274,
+  "transmit": 413586,
+  "disk": 12375097
+}
