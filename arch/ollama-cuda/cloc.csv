@@ -1,0 +1,45 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=0.99 s (720.6 files/s 373618.9 lines/s)"
+46,C/C++ Header,11720,12069,116861
+74,C++,13177,4767,69673
+10,C,6758,2033,28942
+13,JSON,0,0,18409
+111,Go,2500,770,14995
+55,Python,2757,3079,10352
+1,CUDA,2168,317,9223
+1,Metal,998,129,6013
+81,Markdown,2317,3,5962
+69,Bourne Shell,868,733,3407
+2,Objective-C,421,120,2402
+26,YAML,233,306,2365
+45,CMake,276,164,1665
+33,GLSL,322,45,1213
+10,Swift,228,47,1052
+2,HTML,148,0,902
+8,JavaScript,121,74,820
+16,TypeScript,130,21,815
+3,make,170,78,745
+31,Text,140,0,625
+7,Kotlin,95,38,531
+9,Nix,59,179,439
+7,Cucumber,43,22,383
+3,PowerShell,45,31,362
+14,Dockerfile,139,53,354
+11,XML,6,24,271
+1,Zig,13,4,124
+2,vim script,17,34,112
+1,CSV,0,0,103
+1,Perl,31,42,101
+3,Gradle,8,3,99
+1,Protocol Buffers,57,178,98
+4,DOS Batch,27,26,68
+2,TOML,6,0,55
+2,diff,4,20,33
+1,CSS,5,0,29
+3,INI,7,0,29
+1,Jupyter Notebook,0,74,28
+1,Windows Resource File,2,0,27
+2,Properties,0,20,9
+1,SVG,0,0,9
+1,D,0,0,1
+1,ProGuard,3,18,0
+716,SUM,46019,25521,299706
