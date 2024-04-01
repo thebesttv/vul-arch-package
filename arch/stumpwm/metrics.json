@@ -1,0 +1,20 @@
+{
+  "name": "stumpwm",
+  "version": "23.11-1",
+  "depends": [
+    "glibc",
+    "zstd",
+    "sbcl",
+    "cl-ppcre",
+    "cl-clx",
+    "cl-alexandria"
+  ],
+  "makedepends": [
+    "git",
+    "texlive-bin",
+    "texlive-plaingeneric"
+  ],
+  "receive": 199225358,
+  "transmit": 268490,
+  "disk": 7944537
+}
