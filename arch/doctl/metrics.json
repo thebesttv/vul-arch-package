@@ -1,0 +1,13 @@
+{
+  "name": "doctl",
+  "version": "1.105.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 207684046,
+  "transmit": 348170,
+  "disk": 54712428
+}
