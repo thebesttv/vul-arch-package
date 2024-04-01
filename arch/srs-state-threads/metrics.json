@@ -1,0 +1,13 @@
+{
+  "name": "srs-state-threads",
+  "version": "1.9.5-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199283734,
+  "transmit": 301874,
+  "disk": 3060376
+}
