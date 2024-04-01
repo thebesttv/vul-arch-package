@@ -1,0 +1,14 @@
+{
+  "name": "git-grab",
+  "version": "2.1.0-1",
+  "depends": [
+    "git",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199406266,
+  "transmit": 424811,
+  "disk": 391073
+}
