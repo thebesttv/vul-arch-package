@@ -1,0 +1,21 @@
+{
+  "name": "apptainer",
+  "version": "1.3.0-1",
+  "depends": [
+    "fakeroot",
+    "fuse2fs",
+    "fuse-overlayfs",
+    "squashfs-tools",
+    "squashfuse",
+    "libseccomp",
+    "e2fsprogs"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "cryptsetup"
+  ],
+  "receive": 234936444,
+  "transmit": 397729,
+  "disk": 57507620
+}
