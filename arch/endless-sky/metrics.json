@@ -1,0 +1,24 @@
+{
+  "name": "endless-sky",
+  "version": "0.10.6-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "openal",
+    "libpng",
+    "glew",
+    "hicolor-icon-theme",
+    "libjpeg-turbo",
+    "sdl2",
+    "libmad",
+    "util-linux-libs",
+    "libglvnd"
+  ],
+  "makedepends": [
+    "git",
+    "scons"
+  ],
+  "receive": 1711127986,
+  "transmit": 5296423,
+  "disk": 1779946609
+}
