@@ -1,0 +1,18 @@
+{
+  "name": "git-warp-time",
+  "version": "0.7.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libgit2",
+    "libgit2.so"
+  ],
+  "makedepends": [
+    "cargo",
+    "git",
+    "jq"
+  ],
+  "receive": 199388414,
+  "transmit": 481611,
+  "disk": 627454
+}
