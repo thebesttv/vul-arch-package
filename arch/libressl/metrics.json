@@ -1,0 +1,11 @@
+{
+  "name": "libressl",
+  "version": "3.9.1-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199493474,
+  "transmit": 347048,
+  "disk": 27543738
+}
