@@ -1,0 +1,11 @@
+{
+  "name": "immich-go",
+  "version": "0.13.2-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199772463,
+  "transmit": 598276,
+  "disk": 9849341
+}
