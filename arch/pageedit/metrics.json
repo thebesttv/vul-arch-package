@@ -1,0 +1,16 @@
+{
+  "name": "pageedit",
+  "version": "2.1.0-1",
+  "depends": [
+    "qt6-5compat",
+    "qt6-svg",
+    "qt6-webengine"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt6-tools"
+  ],
+  "receive": 199451635,
+  "transmit": 392784,
+  "disk": 36528135
+}
