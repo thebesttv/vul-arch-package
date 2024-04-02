@@ -1,0 +1,15 @@
+{
+  "name": "freetds",
+  "version": "1.4.12-1",
+  "depends": [
+    "glibc",
+    "krb5",
+    "openssl",
+    "readline",
+    "unixodbc"
+  ],
+  "makedepends": [],
+  "receive": 199343593,
+  "transmit": 302303,
+  "disk": 23203491
+}
