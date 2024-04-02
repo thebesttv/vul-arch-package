@@ -1,0 +1,13 @@
+{
+  "name": "fx",
+  "version": "34.0.0-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199428186,
+  "transmit": 426005,
+  "disk": 5749004
+}
