@@ -1,0 +1,16 @@
+{
+  "name": "python-database-knotinfo",
+  "version": "2024.4.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199362294,
+  "transmit": 333773,
+  "disk": 115064697
+}
