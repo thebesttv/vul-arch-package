@@ -1,0 +1,15 @@
+{
+  "name": "lib32-glm",
+  "version": "1.0.0-3",
+  "depends": [
+    "glm"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "lib32-gcc-libs"
+  ],
+  "receive": 199304858,
+  "transmit": 321624,
+  "disk": 25967158
+}
