@@ -1,0 +1,16 @@
+{
+  "name": "python-zipstream-ng",
+  "version": "1.7.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 200241882,
+  "transmit": 871074,
+  "disk": 388771
+}
