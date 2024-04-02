@@ -1,0 +1,25 @@
+{
+  "name": "sh4d0wup",
+  "version": "0.9.3-1",
+  "depends": [
+    "gcc",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "libbz2.so",
+    "liblzma.so",
+    "libnettle.so",
+    "libpcsclite.so",
+    "libssl.so",
+    "libzstd.so",
+    "podman",
+    "shared-mime-info"
+  ],
+  "makedepends": [
+    "cargo",
+    "clang"
+  ],
+  "receive": 199229763,
+  "transmit": 273173,
+  "disk": 1034513
+}
