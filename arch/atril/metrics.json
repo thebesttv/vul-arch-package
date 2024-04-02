@@ -1,0 +1,26 @@
+{
+  "name": "atril",
+  "version": "1.28.0-2",
+  "depends": [
+    "djvulibre",
+    "libspectre",
+    "libgxps",
+    "mathjax2",
+    "gettext",
+    "poppler-glib",
+    "cairo>=1.14.0",
+    "webkit2gtk>=2.6.0",
+    "libsynctex",
+    "mate-desktop"
+  ],
+  "makedepends": [
+    "caja",
+    "gobject-introspection",
+    "itstool",
+    "texlive-bin",
+    "python-packaging"
+  ],
+  "receive": 199670799,
+  "transmit": 436417,
+  "disk": 37812538
+}
