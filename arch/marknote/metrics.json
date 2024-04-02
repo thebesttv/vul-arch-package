@@ -1,0 +1,26 @@
+{
+  "name": "marknote",
+  "version": "1.1.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "ki18n",
+    "kiconthemes",
+    "kirigami",
+    "kirigami-addons",
+    "kxmlgui",
+    "md4c",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199214035,
+  "transmit": 264793,
+  "disk": 1045922
+}
