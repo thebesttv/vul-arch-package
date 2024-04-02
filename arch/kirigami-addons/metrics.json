@@ -1,0 +1,21 @@
+{
+  "name": "kirigami-addons",
+  "version": "1.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "kirigami",
+    "kitemmodels",
+    "ksvg",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-multimedia"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 200448411,
+  "transmit": 391313,
+  "disk": 3451184
+}
