@@ -1,0 +1,28 @@
+{
+  "name": "btrfs-progs",
+  "version": "6.8-2",
+  "depends": [
+    "glibc",
+    "util-linux-libs",
+    "lzo",
+    "zlib",
+    "zstd",
+    "libgcrypt",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "git",
+    "asciidoc",
+    "xmlto",
+    "systemd",
+    "python",
+    "python-setuptools",
+    "e2fsprogs",
+    "reiserfsprogs",
+    "python-sphinx",
+    "python-sphinx_rtd_theme"
+  ],
+  "receive": 199497294,
+  "transmit": 373850,
+  "disk": 20549644
+}
