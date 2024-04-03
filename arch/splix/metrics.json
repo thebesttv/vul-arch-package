@@ -1,0 +1,16 @@
+{
+  "name": "splix",
+  "version": "2.0.1-1",
+  "depends": [
+    "libcups",
+    "gcc-libs",
+    "ghostscript",
+    "jbigkit"
+  ],
+  "makedepends": [
+    "krb5"
+  ],
+  "receive": 199332617,
+  "transmit": 326404,
+  "disk": 3804857
+}
