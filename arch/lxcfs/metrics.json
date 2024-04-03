@@ -1,0 +1,19 @@
+{
+  "name": "lxcfs",
+  "version": "6.0.0-1",
+  "depends": [
+    "lxc",
+    "libnih",
+    "fuse3",
+    "dbus-glib"
+  ],
+  "makedepends": [
+    "help2man",
+    "meson",
+    "python-jinja",
+    "systemd"
+  ],
+  "receive": 199300913,
+  "transmit": 303512,
+  "disk": 717572
+}
