@@ -1,0 +1,9 @@
+{
+  "name": "sof-bin",
+  "version": "2024.03-1",
+  "depends": [],
+  "makedepends": [],
+  "receive": 199205680,
+  "transmit": 261177,
+  "disk": 36489456
+}
