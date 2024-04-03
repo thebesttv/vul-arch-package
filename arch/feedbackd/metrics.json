@@ -1,0 +1,22 @@
+{
+  "name": "feedbackd",
+  "version": "0.2.1-2",
+  "depends": [
+    "dconf",
+    "gsound",
+    "json-glib",
+    "libgudev",
+    "gsettings-desktop-schemas"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "meson",
+    "vala",
+    "git",
+    "python-docutils",
+    "python-packaging"
+  ],
+  "receive": 199223971,
+  "transmit": 270873,
+  "disk": 1333236
+}
