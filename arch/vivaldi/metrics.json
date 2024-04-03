@@ -1,0 +1,20 @@
+{
+  "name": "vivaldi",
+  "version": "6.6.3271.55-2",
+  "depends": [
+    "libcups",
+    "nss",
+    "alsa-lib",
+    "libxss",
+    "ttf-font",
+    "desktop-file-utils",
+    "shared-mime-info",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "w3m"
+  ],
+  "receive": 308631397,
+  "transmit": 542786,
+  "disk": 490375879
+}
