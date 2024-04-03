@@ -1,0 +1,17 @@
+{
+  "name": "arti",
+  "version": "1.2.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "liblzma.so",
+    "libsqlite3.so",
+    "libssl.so"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199264418,
+  "transmit": 306490,
+  "disk": 25098227
+}
