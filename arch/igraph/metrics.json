@@ -1,0 +1,21 @@
+{
+  "name": "igraph",
+  "version": "0.10.11-1",
+  "depends": [
+    "arpack",
+    "blas",
+    "gcc-libs",
+    "glibc",
+    "glpk",
+    "gmp",
+    "lapack",
+    "libxml2",
+    "plfit"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199324199,
+  "transmit": 376328,
+  "disk": 28815847
+}
