@@ -1,0 +1,14 @@
+{
+  "name": "step-ca",
+  "version": "0.26.0-1",
+  "depends": [
+    "glibc",
+    "pcsclite"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199358496,
+  "transmit": 395263,
+  "disk": 5654055
+}
