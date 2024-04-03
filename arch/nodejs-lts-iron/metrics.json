@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-lts-iron",
+  "version": "20.12.0-1",
+  "depends": [
+    "openssl",
+    "zlib",
+    "icu",
+    "libuv",
+    "c-ares",
+    "brotli",
+    "libnghttp2"
+  ],
+  "makedepends": [
+    "python",
+    "procps-ng"
+  ],
+  "receive": 241408188,
+  "transmit": 409354,
+  "disk": 486577772
+}
