@@ -1,0 +1,36 @@
+{
+  "name": "xorg-xwayland",
+  "version": "23.2.5-1",
+  "depends": [
+    "nettle",
+    "libepoxy",
+    "systemd-libs",
+    "libxfont2",
+    "pixman",
+    "xorg-server-common",
+    "libxcvt",
+    "mesa",
+    "libglvnd",
+    "libxau",
+    "wayland",
+    "libdrm",
+    "libtirpc",
+    "libxshmfence",
+    "glibc"
+  ],
+  "makedepends": [
+    "meson",
+    "xorgproto",
+    "xtrans",
+    "libxkbfile",
+    "dbus",
+    "xorg-font-util",
+    "wayland-protocols",
+    "mesa-libgl",
+    "systemd",
+    "egl-wayland"
+  ],
+  "receive": 199415159,
+  "transmit": 330837,
+  "disk": 11522938
+}
