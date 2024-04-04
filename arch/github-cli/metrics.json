@@ -1,0 +1,15 @@
+{
+  "name": "github-cli",
+  "version": "2.47.0-1",
+  "depends": [
+    "glibc",
+    "mailcap"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199354896,
+  "transmit": 356829,
+  "disk": 7051490
+}
