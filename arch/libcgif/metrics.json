@@ -1,0 +1,13 @@
+{
+  "name": "libcgif",
+  "version": "0.4.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199266910,
+  "transmit": 325459,
+  "disk": 365359
+}
