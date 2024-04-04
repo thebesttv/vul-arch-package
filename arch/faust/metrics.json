@@ -1,0 +1,20 @@
+{
+  "name": "faust",
+  "version": "2.72.14-1",
+  "depends": [
+    "bash",
+    "gcc-libs",
+    "glibc",
+    "libmicrohttpd",
+    "llvm-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "libsndfile",
+    "llvm",
+    "xxd"
+  ],
+  "receive": 278211908,
+  "transmit": 359752,
+  "disk": 497083997
+}
