@@ -1,0 +1,14 @@
+{
+  "name": "pcre2",
+  "version": "10.43-2",
+  "depends": [
+    "bzip2",
+    "glibc",
+    "readline",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199283828,
+  "transmit": 244337,
+  "disk": 14040059
+}
