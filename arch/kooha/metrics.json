@@ -1,0 +1,24 @@
+{
+  "name": "kooha",
+  "version": "2.3.0-5",
+  "depends": [
+    "gst-plugin-pipewire",
+    "glib2>=2.80",
+    "gst-plugins-base",
+    "gst-plugins-ugly",
+    "gstreamer-vaapi",
+    "gtk4",
+    "libadwaita>=1:1.5.0",
+    "libpulse",
+    "x264",
+    "xdg-desktop-portal"
+  ],
+  "makedepends": [
+    "cargo",
+    "meson",
+    "pango"
+  ],
+  "receive": 199295488,
+  "transmit": 337591,
+  "disk": 2154549
+}
