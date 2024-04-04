@@ -1,0 +1,19 @@
+{
+  "name": "stardict",
+  "version": "3.0.7-2",
+  "depends": [
+    "gtk3",
+    "libsigc++",
+    "libcanberra"
+  ],
+  "makedepends": [
+    "enchant",
+    "espeak-ng",
+    "mariadb-libs",
+    "yelp-tools",
+    "gnome-common"
+  ],
+  "receive": 202996528,
+  "transmit": 338452,
+  "disk": 28664604
+}
