@@ -1,0 +1,13 @@
+{
+  "name": "git-absorb",
+  "version": "0.6.13-1",
+  "depends": [
+    "libgit2"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199533437,
+  "transmit": 484619,
+  "disk": 262327
+}
