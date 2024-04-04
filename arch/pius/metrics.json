@@ -1,0 +1,16 @@
+{
+  "name": "pius",
+  "version": "3.0.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199407983,
+  "transmit": 346529,
+  "disk": 364544
+}
