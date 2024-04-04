@@ -1,0 +1,21 @@
+{
+  "name": "iaito",
+  "version": "5.9.0-1",
+  "depends": [
+    "radare2",
+    "capstone",
+    "qt6-base",
+    "qt6-svg",
+    "python",
+    "pyside6",
+    "graphviz",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "git",
+    "qt6-tools"
+  ],
+  "receive": 199286234,
+  "transmit": 292902,
+  "disk": 31236212
+}
