@@ -1,0 +1,14 @@
+{
+  "name": "screen",
+  "version": "4.9.1-2",
+  "depends": [
+    "libcrypt.so",
+    "libncursesw.so",
+    "libpam.so",
+    "libutempter"
+  ],
+  "makedepends": [],
+  "receive": 199359282,
+  "transmit": 382194,
+  "disk": 4638091
+}
