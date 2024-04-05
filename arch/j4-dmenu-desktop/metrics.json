@@ -1,0 +1,12 @@
+{
+  "name": "j4-dmenu-desktop",
+  "version": "2.18-5",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "git"
+  ],
+  "receive": 199264681,
+  "transmit": 262614,
+  "disk": 289070
+}
