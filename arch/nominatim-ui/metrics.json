@@ -1,0 +1,11 @@
+{
+  "name": "nominatim-ui",
+  "version": "3.5.2-1",
+  "depends": [],
+  "makedepends": [
+    "yarn"
+  ],
+  "receive": 199261804,
+  "transmit": 254829,
+  "disk": 7046110
+}
