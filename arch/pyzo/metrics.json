@@ -1,0 +1,13 @@
+{
+  "name": "pyzo",
+  "version": "4.13.3-2",
+  "depends": [
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199246951,
+  "transmit": 262043,
+  "disk": 8180909
+}
