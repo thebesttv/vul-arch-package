@@ -1,0 +1,15 @@
+{
+  "name": "opensc",
+  "version": "0.25.1-1",
+  "depends": [
+    "pcsclite",
+    "glib2",
+    "libltdl"
+  ],
+  "makedepends": [
+    "docbook-xsl"
+  ],
+  "receive": 199247854,
+  "transmit": 275327,
+  "disk": 14144686
+}
