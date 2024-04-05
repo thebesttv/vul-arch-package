@@ -1,0 +1,17 @@
+{
+  "name": "prusa-slicer",
+  "version": "2.7.4-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "cmake",
+    "systemd",
+    "glu",
+    "ninja",
+    "git"
+  ],
+  "receive": 267006338,
+  "transmit": 979615,
+  "disk": 241712480
+}
