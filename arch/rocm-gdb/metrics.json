@@ -1,0 +1,27 @@
+{
+  "name": "rocm-gdb",
+  "version": "6.0.2-3",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "rocm-dbgapi",
+    "bash",
+    "python",
+    "guile",
+    "ncurses",
+    "expat",
+    "xz",
+    "zlib",
+    "zstd",
+    "mpfr",
+    "gmp",
+    "libelf",
+    "readline"
+  ],
+  "makedepends": [
+    "texinfo"
+  ],
+  "receive": 264820818,
+  "transmit": 1006193,
+  "disk": 433622801
+}
