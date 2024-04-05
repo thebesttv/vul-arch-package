@@ -1,0 +1,16 @@
+{
+  "name": "python-fasteners",
+  "version": "0.19-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199263262,
+  "transmit": 281626,
+  "disk": 311383
+}
