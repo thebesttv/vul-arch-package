@@ -1,0 +1,19 @@
+{
+  "name": "python-osqp",
+  "version": "0.6.5-1",
+  "depends": [
+    "python",
+    "python-qdldl",
+    "python-scipy"
+  ],
+  "makedepends": [
+    "cmake",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199308803,
+  "transmit": 355608,
+  "disk": 1464427
+}
