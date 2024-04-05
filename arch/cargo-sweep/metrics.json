@@ -1,0 +1,13 @@
+{
+  "name": "cargo-sweep",
+  "version": "0.7.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199347134,
+  "transmit": 364620,
+  "disk": 324972
+}
