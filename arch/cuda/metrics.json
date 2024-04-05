@@ -1,0 +1,14 @@
+{
+  "name": "cuda",
+  "version": "12.4.1-1",
+  "depends": [
+    "opencl-nvidia",
+    "nvidia-utils",
+    "python",
+    "gcc"
+  ],
+  "makedepends": [],
+  "receive": 4696896900,
+  "transmit": 9829830,
+  "disk": 4454997464
+}
