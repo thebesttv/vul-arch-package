@@ -1,0 +1,13 @@
+{
+  "name": "cargo-dist",
+  "version": "0.12.2-1",
+  "depends": [
+    "cargo",
+    "xz",
+    "bzip2"
+  ],
+  "makedepends": [],
+  "receive": 199233881,
+  "transmit": 256476,
+  "disk": 7640752
+}
