@@ -1,0 +1,11 @@
+{
+  "name": "gnome-shell-extension-vitals",
+  "version": "66.0.1-1",
+  "depends": [
+    "gnome-shell"
+  ],
+  "makedepends": [],
+  "receive": 199348280,
+  "transmit": 365361,
+  "disk": 736108
+}
