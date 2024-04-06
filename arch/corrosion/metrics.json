@@ -1,0 +1,12 @@
+{
+  "name": "corrosion",
+  "version": "0.4.8-1",
+  "depends": [
+    "cmake",
+    "rust"
+  ],
+  "makedepends": [],
+  "receive": 199352062,
+  "transmit": 422082,
+  "disk": 933906
+}
