@@ -1,0 +1,11 @@
+{
+  "name": "perl-variable-magic",
+  "version": "0.64-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199485102,
+  "transmit": 479275,
+  "disk": 512824
+}
