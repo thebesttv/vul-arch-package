@@ -1,0 +1,27 @@
+{
+  "name": "python-ipyparallel",
+  "version": "8.8.0-1",
+  "depends": [
+    "ipython",
+    "python",
+    "python-dateutil",
+    "python-decorator",
+    "python-entrypoints",
+    "python-ipykernel",
+    "python-jupyter-client",
+    "python-jupyter-core",
+    "python-psutil",
+    "python-pyzmq",
+    "python-tornado",
+    "python-tqdm",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 199240192,
+  "transmit": 233129,
+  "disk": 18777995
+}
