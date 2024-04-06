@@ -1,0 +1,39 @@
+{
+  "name": "giac",
+  "version": "1.9.0.97-1",
+  "depends": [
+    "blas",
+    "cblas",
+    "curl",
+    "fltk",
+    "gcc-libs",
+    "glibc",
+    "glpk",
+    "gmp",
+    "gmp-ecm",
+    "gsl",
+    "lapack",
+    "libao",
+    "libglvnd",
+    "libpng",
+    "libsamplerate",
+    "libusb",
+    "mpfi",
+    "mpfr",
+    "ntl",
+    "pari",
+    "readline",
+    "zlib"
+  ],
+  "makedepends": [
+    "hevea",
+    "libjpeg-turbo",
+    "nauty",
+    "python",
+    "texlive-latexrecommended",
+    "texlive-mathscience"
+  ],
+  "receive": 326672068,
+  "transmit": 605675,
+  "disk": 481031087
+}
