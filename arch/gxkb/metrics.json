@@ -1,0 +1,13 @@
+{
+  "name": "gxkb",
+  "version": "0.9.5-1",
+  "depends": [
+    "libxklavier",
+    "libwnck3",
+    "gtk3"
+  ],
+  "makedepends": [],
+  "receive": 199277754,
+  "transmit": 335849,
+  "disk": 476697
+}
