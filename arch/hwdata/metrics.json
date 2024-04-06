@@ -1,0 +1,11 @@
+{
+  "name": "hwdata",
+  "version": "0.381-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199434210,
+  "transmit": 395490,
+  "disk": 43787867
+}
