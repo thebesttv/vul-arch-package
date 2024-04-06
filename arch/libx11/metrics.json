@@ -1,0 +1,16 @@
+{
+  "name": "libx11",
+  "version": "1.8.9-1",
+  "depends": [
+    "libxcb",
+    "glibc",
+    "xorgproto"
+  ],
+  "makedepends": [
+    "xorg-util-macros",
+    "xtrans"
+  ],
+  "receive": 199595487,
+  "transmit": 354438,
+  "disk": 18583773
+}
