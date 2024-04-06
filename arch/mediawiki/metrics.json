@@ -1,0 +1,12 @@
+{
+  "name": "mediawiki",
+  "version": "1.41.1-1",
+  "depends": [
+    "php",
+    "diffutils"
+  ],
+  "makedepends": [],
+  "receive": 316172054,
+  "transmit": 766099,
+  "disk": 510929331
+}
