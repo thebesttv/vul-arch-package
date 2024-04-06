@@ -1,0 +1,11 @@
+{
+  "name": "ffnvcodec-headers",
+  "version": "12.2.72.0-1",
+  "depends": [],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199287623,
+  "transmit": 330204,
+  "disk": 962090
+}
