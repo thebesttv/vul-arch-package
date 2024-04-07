@@ -1,0 +1,13 @@
+{
+  "name": "croc",
+  "version": "9.6.15-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199446940,
+  "transmit": 407593,
+  "disk": 16644082
+}
