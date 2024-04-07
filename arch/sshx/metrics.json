@@ -1,0 +1,15 @@
+{
+  "name": "sshx",
+  "version": "0.2.3-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo",
+    "protobuf"
+  ],
+  "receive": 199573748,
+  "transmit": 479470,
+  "disk": 1738790
+}
