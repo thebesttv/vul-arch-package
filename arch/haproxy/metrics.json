@@ -1,0 +1,19 @@
+{
+  "name": "haproxy",
+  "version": "2.9.7-1",
+  "depends": [
+    "openssl",
+    "pcre2",
+    "zlib",
+    "libxcrypt",
+    "libcrypt.so",
+    "lua",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 199646937,
+  "transmit": 459337,
+  "disk": 23124202
+}
