@@ -1,0 +1,11 @@
+{
+  "name": "passt",
+  "version": "2024_04_05.954589b-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199256562,
+  "transmit": 229248,
+  "disk": 1548578
+}
