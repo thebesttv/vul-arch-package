@@ -1,0 +1,15 @@
+{
+  "name": "aerc",
+  "version": "0.17.0-1",
+  "depends": [
+    "notmuch-runtime",
+    "gawk"
+  ],
+  "makedepends": [
+    "go",
+    "scdoc"
+  ],
+  "receive": 199300492,
+  "transmit": 321787,
+  "disk": 2428568
+}
