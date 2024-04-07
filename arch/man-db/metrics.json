@@ -1,0 +1,20 @@
+{
+  "name": "man-db",
+  "version": "2.12.1-1",
+  "depends": [
+    "bash",
+    "gdbm",
+    "zlib",
+    "groff",
+    "libpipeline",
+    "less",
+    "libseccomp",
+    "glibc"
+  ],
+  "makedepends": [
+    "po4a"
+  ],
+  "receive": 199374251,
+  "transmit": 346092,
+  "disk": 21818996
+}
