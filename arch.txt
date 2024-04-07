@@ -31,7 +31,7 @@ acme-user 1.0.1-1
 acme.sh 3.0.7-1
 acorn 1:8.11.0-1
 acpi 1.7-3
-acpi_call 1.2.2-194
+acpi_call 1.2.2-196
 acpi_call-dkms 1.2.2-2
 acpi_call-lts 1.2.2-181
 acpica 20240321-1
@@ -56,7 +56,7 @@ adriconf 2.7.1-1
 adwaita-icon-theme 46.0-1
 aegisub 3.3.3-7
 aeolus 0.10.4-2
-aerc 0.16.0-1
+aerc 0.17.0-1
 afew 3.0.1-6
 afl 2.57b-13
 afl-utils 1.35a-1
@@ -233,7 +233,7 @@ arti 1.2.1-1
 artikulate 24.02.1-1
 artyfx 1.3.1-2
 asar 3.2.8-1
-ascii 3.18-3
+ascii 3.20-3
 asciidoc 10.2.0-4
 asciidoctor 2.0.21-1
 asciinema 2.4.0-2
@@ -391,7 +391,7 @@ bats-file 0.4.0-1
 bats-support 0.3.0-5
 bazel 7.1.1-1
 bbpager 0.4.7-9
-bbswitch 0.8-662
+bbswitch 0.8-664
 bc 1.07.1-4
 bcachefs-tools 3:1.6.4-2
 bcc 0.30.0-1
@@ -508,7 +508,7 @@ brial 1.2.12-2
 bridge-utils 1.7.1-2
 brightnessctl 0.5.1-2
 brltty 6.6-6
-broadcom-wl 6.30.223.271-538
+broadcom-wl 6.30.223.271-540
 broadcom-wl-dkms 6.30.223.271-36
 brook 20221010-1
 broot 1.36.1-1
@@ -621,7 +621,7 @@ cargo-deny 0.14.20-1
 cargo-depgraph 1.6.0-2
 cargo-dist 0.12.2-1
 cargo-edit 0.12.2-1
-cargo-expand 1.0.81-1
+cargo-expand 1.0.82-1
 cargo-feature 0.7.0-1
 cargo-flamegraph 0.6.5-3
 cargo-fuzz 0.12.0-1
@@ -852,7 +852,7 @@ coin-or-asl 2.0.1-1
 coin-or-cbc 2.10.11-1
 coin-or-cgl 0.60.8-2
 coin-or-clp 1.17.9-2
-coin-or-coinutils 2.11.10-1
+coin-or-coinutils 2.11.11-1
 coin-or-csdp 6.2.0-4
 coin-or-data-sample 1.2.12-1
 coin-or-lemon 1.3.1-5
@@ -934,7 +934,7 @@ crimson-font 0.800-2
 crimson-pro-font 1.003-2
 critter 1.0.2-12
 criu 3.18-2
-croc 9.6.14-1
+croc 9.6.15-1
 cronie 1.7.1-1
 cross 0.2.5-1
 crosstool-ng 1.26.0-1
@@ -1061,7 +1061,7 @@ debugedit 5.0-5
 deepin-account-faces 1.0.16-1
 deepin-album 6.0.4-5
 deepin-anything 5.0.18-1
-deepin-anything-arch 6.1.2-60
+deepin-anything-arch 6.1.2-62
 deepin-api 6.0.9-1
 deepin-app-services 1.0.25-1
 deepin-appearance 1.1.26-1
@@ -1502,7 +1502,7 @@ fasd 1.0.2-1
 fasm 1.73.32-1
 fast_float 6.1.0-2
 fastd 22-4
-fastfetch 2.9.0-1
+fastfetch 2.9.1-1
 fastjar 0.98-6
 fastjet 3.4.2-1
 fatresize 1.1.0-1
@@ -1579,7 +1579,7 @@ feeluown-netease 1.0.1-1
 feeluown-qqmusic 1.0.2-1
 feeluown-ytmusic 0.3.4-1
 feh 3.10.2-1
-felix-rs 2.12.1-1
+felix-rs 2.13.0-1
 fennel 1.4.2-1
 ferm 2.7-2
 festival 2.5.0-5
@@ -1888,7 +1888,7 @@ gitolite 3.6.13-1
 gitoxide 0.33.0-1
 gitprompt-rs 0.3.0-1
 gitsign 0.8.0-1
-gitu 0.13.1-1
+gitu 0.14.0-1
 gitui 0.25.2-1
 givaro 4.2.0-1
 gjs 2:1.80.2-2
@@ -2078,9 +2078,9 @@ goobox 3.6.0-2
 goocanvas 3.0.0-4
 goocanvasmm 1.90.11-7
 google-glog 0.7.0-1
-gopass 1.15.12-2
-gopass-hibp 1.15.12-1
-gopass-jsonapi 1.15.12-1
+gopass 1.15.13-1
+gopass-hibp 1.15.13-1
+gopass-jsonapi 1.15.13-1
 gopass-summon-provider 1.15.11-1
 gopls 0.15.2-1
 goreleaser 1.22.1-1
@@ -2262,7 +2262,7 @@ hamster-time-tracker 3.0.3-1
 handbrake 1.7.3-1
 handlr-regex 0.10.0-2
 happy 1.20.1.1-2
-haproxy 2.9.6-1
+haproxy 2.9.7-1
 harfbuzz 8.4.0-1
 haruna 1.0.2-1
 harvid 0.9.1-2
@@ -3550,7 +3550,7 @@ hyphen-it 20071127-6
 hyphen-nl 20050617-6
 hyprcursor 0.1.5-1
 hypridle 0.1.1-2
-hyprland 0.38.0-1
+hyprland 0.38.1-1
 hyprlang 0.5.0-1
 hyprlock 0.2.0-2
 hyprpaper 0.6.0-4
@@ -3566,7 +3566,7 @@ iagno 3.38.1+r57+gd147e1a-1
 iaito 5.9.0-1
 iana-etc 20240222-1
 ibm-sw-tpm2 1682-2
-ibus 1.5.29-3
+ibus 1.5.29-4
 ibus-anthy 1.5.15-1
 ibus-chewing 2.0.0-1
 ibus-hangul 1.5.5-1
@@ -3578,7 +3578,7 @@ ibus-sunpinyin 3.0.0rc1+32+gf39c195-3
 ibus-table 1.17.4-1
 ibus-table-chinese 1.8.12-1
 ibus-table-extraphrase 1.3.9.20110826-4
-ibus-typing-booster 2.25.1-1
+ibus-typing-booster 2.25.4-1
 ibus-unikey 0.6.1-7
 icedtea-web 1.8.8-1
 icewm 3.4.7-2
@@ -4413,7 +4413,7 @@ lib32-libmikmod 3.3.11.1-6
 lib32-libmodplug 0.8.9.0-4
 lib32-libndp 1.8-1
 lib32-libnewt 0.52.24-1
-lib32-libnghttp2 1.60.0-1
+lib32-libnghttp2 1.61.0-1
 lib32-libnghttp3 1.2.0-1
 lib32-libnl 3.9.0-1
 lib32-libnm 1.46.0-1
@@ -4685,7 +4685,7 @@ libertinus-font 7.040-2
 libesmtp 1.1.0-2
 libetebase 0.5.6-2
 libetonyek 0.1.10-3
-libetpan 1.9.4-4
+libetpan 1.9.4-5
 libev 4.33-2
 libevdev 1.13.1-1
 libevent 2.1.12-4
@@ -4913,7 +4913,7 @@ libnfc 1.8.0-2
 libnfnetlink 1.0.2-2
 libnfs 5.0.3-1
 libnftnl 1.2.6-1
-libnghttp2 1.60.0-1
+libnghttp2 1.61.0-1
 libnghttp3 1.2.0-1
 libngtcp2 1.4.0-1
 libnice 0.1.22-1
@@ -5124,7 +5124,7 @@ libtasn1 4.19.0-1
 libteam 1.32-1
 libtecla 1.6.3-2
 libtermkey 0.22-3
-libtg_owt 0.git24.592b14d-2
+libtg_owt 0.git25.afd9d5d-1
 libthai 0.1.29-3
 libtheora 1.1.1-6
 libtiff 4.6.0-4
@@ -5281,7 +5281,7 @@ linenoise-ng 1.0.1-2
 link-grammar 5.12.3-2
 links 2.29-1
 linssid 3.6-10
-linux 6.8.2.arch2-1
+linux 6.8.4.arch1-1
 linux-api-headers 6.7-1
 linux-atm 2.5.2-8
 linux-firmware 20240312.3b128b60-1
@@ -5290,7 +5290,7 @@ linux-lts 6.6.25-1
 linux-rt 6.7.0.6.realtime1-1
 linux-rt-lts 6.6.23.28.realtime1-1
 linux-tools 6.7-2
-linux-zen 6.8.2.zen2-1
+linux-zen 6.8.4.zen1-1
 linuxconsole 1.8.1-1
 linuxdoc-tools 0.9.83-1
 linuxsampler 2.3.1-1
@@ -5517,7 +5517,7 @@ maliit-framework 2.3.0-1
 maliit-keyboard 2.3.1-2
 mallard-ducktype 1.0.2-10
 mame 0.264-1
-man-db 2.12.0-1
+man-db 2.12.1-1
 man-pages 6.7-1
 man-pages-l10n 4.22.0-1
 man-pages-zh 1.6.4.0-2
@@ -5662,7 +5662,7 @@ meson-python 0.15.0-1
 messagelib 24.02.1-1
 metacity 3.52.0-1
 metalog 20230719-1
-metasploit 6.4.1-1
+metasploit 6.4.2-1
 mfoc 0.10.7+38+gba072f1-1
 mg 20230501-2
 mgard 1.0.0-1
@@ -5696,7 +5696,7 @@ minidlna 1.3.3-1
 minieap 0.93-1
 miniflux 2.1.2-1
 minikube 1.32.0-1
-minio 2024.03.30-1
+minio 2024.04.06-1
 minio-client 2024.03.30-1
 minisat 2.2.1.20201216-1
 miniserve 0.27.1-1
@@ -5825,7 +5825,7 @@ musl 1.2.5-1
 mustache 4.1-3
 mustache-d 0.1.5-15
 mutt 2.2.13-2
-mutter 46.0-2
+mutter 46.0-3
 mutter45 45.5-1
 mvt 2.5.0-1
 mxml 3.3.1-1
@@ -5915,7 +5915,7 @@ netcdf-openmpi 4.9.2-4
 netcf 0.2.8-8
 netctl 1.29-1
 netdata 1.44.3-2
-netfilter-fullconenat r73.0cf3b48-359
+netfilter-fullconenat r73.0cf3b48-361
 nethack 3.6.7-5
 nethogs 0.8.7-1
 nethsm-pkcs11 1.3.0-1
@@ -6062,11 +6062,11 @@ nushell 0.92.1-1
 nuspell 5.1.4-2
 nut 2.8.1-3
 nvchecker 2.13.1-1
-nvidia 550.67-3
+nvidia 550.67-5
 nvidia-cg-toolkit 3.1-6
 nvidia-container-toolkit 1.14.6-4
 nvidia-lts 1:550.67-4
-nvidia-open 550.67-3
+nvidia-open 550.67-5
 nvidia-prime 1.0-4
 nvidia-settings 550.67-1
 nvidia-utils 550.67-1
@@ -6408,7 +6408,7 @@ pass-otp 1.2.0-2
 passenger 6.0.20-1
 passff-host 1:1.2.4-1
 passim 0.1.5-1
-passt 2024_03_26.4988e2b-2
+passt 2024_04_05.954589b-1
 pastebinit 1.5.1-1
 pastel 0.9.0-3
 pasystray 0.8.2-1
@@ -7191,13 +7191,13 @@ pkgconf 2.1.1-1
 pkgdiff 1.7.2-4
 pkgfile 21-2
 pkgstats 3.2.17-1
-plan9port 20230913-1
+plan9port 20240406-2
 planarity 3.0.2.0-1
 plank 0.11.89-4
 plantri 5.4-1
 plantuml 1.2023.13-1
 plantuml-ascii-math 20171116-3
-plantuml-server 1.2024.3-1
+plantuml-server 1.2024.4-1
 plasma-activities 6.0.3-1
 plasma-activities-stats 6.0.3-1
 plasma-applet-window-buttons 0.11.1-4
@@ -7663,7 +7663,7 @@ python-cloudpickle 2.2.1-2
 python-cmake-build-extension 0.5.1-3
 python-cmarkgfm 2024.1.14-1
 python-cmd2 2.4.3-2
-python-cmsis-pack-manager 0.5.3-1
+python-cmsis-pack-manager 0.5.3-2
 python-cogapp 3.3.0-4
 python-colorama 0.4.6-2
 python-colorcet 3.0.1-3
@@ -7829,7 +7829,7 @@ python-editor 1.0.4-9
 python-editorconfig 0.12.3-4
 python-elasticsearch 7.9.0-5
 python-elementpath 4.4.0-1
-python-email-validator 2.1.0-1
+python-email-validator 2.1.1-1
 python-emoji 2.11.0-1
 python-empy 4.0.1-1
 python-engineio 4.8.2-1
@@ -8247,7 +8247,7 @@ python-markdown 3.6-2
 python-markdown-it-py 3.0.0-1
 python-markdown-math 0.8-6
 python-markdown2 2.4.12-1
-python-markups 3.1.3-5
+python-markups 3.1.3-8
 python-markupsafe 2.1.5-1
 python-marshmallow 3.20.2-2
 python-marshmallow-sqlalchemy 1.0.0-1
@@ -8465,7 +8465,7 @@ python-phonenumbers 8.13.33-1
 python-phpserialize 1.3-11
 python-pickleshare 0.7.5-9
 python-piexif 1.1.3-8
-python-pikepdf 8.14.0-1
+python-pikepdf 8.15.0-1
 python-pilkit 3.0-1
 python-pillow 10.2.0-2
 python-pint 0.19.2-3
@@ -8592,7 +8592,7 @@ python-pyface 8.0.0-2
 python-pyfakefs 5.3.5-1
 python-pyfiglet 1.0.2-1
 python-pyflakes 3.2.0-1
-python-pyftdi 0.55.0-1
+python-pyftdi 0.55.3-1
 python-pyftpdlib 1.5.9-1
 python-pygal 1:3.0.4-1
 python-pygaljs 1.0.2-2
@@ -8652,7 +8652,7 @@ python-pypeg2 2.15.2-9
 python-pyperclip 1.8.2-6
 python-pyphen 0.14.0-2
 python-pypng 0.20231004.0-1
-python-pyppeteer 1.0.2-4
+python-pyppeteer 2.0.0-1
 python-pyppmd 1.1.0-1
 python-pyproj 3.6.1-1
 python-pyproject-api 1.6.1-1
@@ -9458,7 +9458,7 @@ qxmpp 1.6.0-1
 r 4.3.3-2
 r10k 3.16.0-1
 r2ghidra 5.8.8-1
-r8168 8.052.01-38
+r8168 8.052.01-40
 r8168-lts 8.052.01-37
 rabbitmq 3.12.10-1
 racket 8.11.1-1
@@ -9613,7 +9613,7 @@ rlwrap 0.46.1-1
 rmlint 2.10.2-1
 rng-tools 6.16-2
 rnnoise 0.4.1-1
-rnote 0.10.1-1
+rnote 0.10.2-1
 robin-map 1.2.1-1
 robotfindskitten 2.8284271.702-1
 roc-toolkit 0.3.0-1
@@ -9670,7 +9670,7 @@ rpm-sequoia 1.6.0-1
 rpm-tools 4.19.1.1-1
 rpmextract 1.0-9
 rq 1.0.4-1
-rqbit 5.5.4-1
+rqbit 5.6.0-1
 rrdtool 1.8.0-3
 rshijack 0.5.1-1
 rsibreak 0.12.15-2
@@ -9681,7 +9681,7 @@ rss2email 3.14-5
 rssguard 4.6.6-1
 rst2pdf 0.101-1
 rstcheck 6.2.0-1
-rsync 3.2.7-6
+rsync 3.3.0-1
 rt-tests 2.6-1
 rtaudio 6.0.1-1
 rtirq 20240220-1
@@ -10462,7 +10462,7 @@ sshfs 3.7.3-1
 sshguard 2.4.3-1
 sshpass 1.10-1
 sshuttle 1.1.2-1
-sshx 0.2.2-1
+sshx 0.2.3-1
 sslh 2.1.1-1
 sslscan 2.1.2-1
 sslsplit 0.5.5-3
@@ -10813,7 +10813,7 @@ touchegg 2.0.17-1
 towncrier 22.12.0-3
 toxcore 1:0.2.19-1
 toxic 0.15.1-1
-tp_smapi 0.44-47
+tp_smapi 0.44-49
 tp_smapi-lts 0.44-22
 tpm2-abrmd 3.0.0-1
 tpm2-openssl 1.2.0-1
@@ -10848,7 +10848,7 @@ tree-sitter-vimdoc 2.5.1-2
 treeify r7958.90292b20-2
 triehash 0.3.3-2
 trippy 0.10.0-1
-trivy 0.50.0-1
+trivy 0.50.1-1
 trojan 1.16.0-10
 trompeloeil 47-1
 trurl 0.10-1
@@ -11029,8 +11029,8 @@ uwsgi 2.0.24-2
 uwsgitop 0.11-6
 uwufetch 2.1-1
 v2ray 5.14.1-1
-v2ray-domain-list-community 20240402003241-1
-v2ray-geoip 202403280038-1
+v2ray-domain-list-community 20240404120755-1
+v2ray-geoip 202404040040-1
 v4l-utils 1.26.1-1
 v4l2loopback 0.13.1-1
 vagrant 2.4.1-1
@@ -11070,7 +11070,7 @@ vegeta 12.11.1-1
 veracrypt 1.26.7-1
 verdict 1.4.2-1
 verilator 5.022-1
-vhba-module 20240202-11
+vhba-module 20240202-13
 vhs 0.7.1-1
 vi 1:070224-6
 vice 3.8-2
@@ -11122,7 +11122,7 @@ virt-what 1.25-1
 virtiofsd 1.10.1-1
 virtualbox 7.0.14-2
 virtualbox-guest-iso 7.0.14-1
-virtualbox-host-modules-arch 7.0.14-17
+virtualbox-host-modules-arch 7.0.14-19
 virtualgl 3.1.1-1
 vis 0.8-2
 visidata 3.0.2-2
@@ -11188,7 +11188,7 @@ wasi-libc 1:0+352+c5264e2b-1
 wasi-libc++ 17.0.6-1
 wasm-bindgen 0.2.92-1
 wasm-pack 0.12.1-1
-wasmer 4.2.3-2
+wasmer 4.2.8-1
 wasmtime 19.0.1-1
 watchbind 0.2.1-1
 watchexec 1.25.1-1
