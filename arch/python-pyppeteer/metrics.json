@@ -1,0 +1,20 @@
+{
+  "name": "python-pyppeteer",
+  "version": "2.0.0-1",
+  "depends": [
+    "python-appdirs",
+    "python-certifi",
+    "python-pyee",
+    "python-tqdm",
+    "python-urllib3",
+    "python-websockets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 199276880,
+  "transmit": 311161,
+  "disk": 3256128
+}
