@@ -1,0 +1,13 @@
+{
+  "name": "kodi-addon-imagedecoder-raw",
+  "version": "20.1.0-10",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "kodi-dev",
+    "libraw"
+  ],
+  "receive": 199406995,
+  "transmit": 380416,
+  "disk": 746923
+}
