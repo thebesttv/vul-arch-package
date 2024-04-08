@@ -1,0 +1,14 @@
+{
+  "name": "goreleaser",
+  "version": "1.25.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 199404054,
+  "transmit": 413213,
+  "disk": 4990579
+}
