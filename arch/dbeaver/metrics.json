@@ -1,0 +1,17 @@
+{
+  "name": "dbeaver",
+  "version": "24.0.2-1",
+  "depends": [
+    "java-runtime>=17",
+    "gtk3",
+    "gtk-update-icon-cache",
+    "libsecret"
+  ],
+  "makedepends": [
+    "maven",
+    "java-environment=17"
+  ],
+  "receive": 210648686,
+  "transmit": 467922,
+  "disk": 69944380
+}
