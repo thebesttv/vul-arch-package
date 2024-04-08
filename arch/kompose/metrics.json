@@ -1,0 +1,15 @@
+{
+  "name": "kompose",
+  "version": "1.32.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git",
+    "jq"
+  ],
+  "receive": 199301339,
+  "transmit": 351685,
+  "disk": 40544551
+}
