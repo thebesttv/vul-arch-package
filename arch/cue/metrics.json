@@ -1,0 +1,13 @@
+{
+  "name": "cue",
+  "version": "0.8.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199269365,
+  "transmit": 257592,
+  "disk": 14780648
+}
