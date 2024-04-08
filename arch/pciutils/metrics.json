@@ -1,0 +1,15 @@
+{
+  "name": "pciutils",
+  "version": "3.12.0-1",
+  "depends": [
+    "glibc",
+    "hwdata",
+    "kmod"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199399274,
+  "transmit": 396435,
+  "disk": 4373309
+}
