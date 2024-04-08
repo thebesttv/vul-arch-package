@@ -1,0 +1,13 @@
+{
+  "name": "kubeseal",
+  "version": "0.26.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199637906,
+  "transmit": 503273,
+  "disk": 4140039
+}
