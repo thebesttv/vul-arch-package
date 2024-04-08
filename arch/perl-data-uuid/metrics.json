@@ -1,0 +1,11 @@
+{
+  "name": "perl-data-uuid",
+  "version": "1.227-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 200207434,
+  "transmit": 746581,
+  "disk": 178869
+}
