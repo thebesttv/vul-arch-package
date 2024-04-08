@@ -1,0 +1,23 @@
+{
+  "name": "js91",
+  "version": "91.13.0-2",
+  "depends": [
+    "gcc-libs",
+    "readline",
+    "sh",
+    "zlib"
+  ],
+  "makedepends": [
+    "autoconf2.13",
+    "clang",
+    "lld",
+    "llvm",
+    "python",
+    "python-setuptools",
+    "rustup",
+    "zip"
+  ],
+  "receive": 583292125,
+  "transmit": 1596450,
+  "disk": 2510044356
+}
