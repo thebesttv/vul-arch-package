@@ -1,0 +1,13 @@
+{
+  "name": "kodi-addon-screensaver-pyro",
+  "version": "1:20.1.0-10",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake",
+    "kodi-dev"
+  ],
+  "receive": 199295922,
+  "transmit": 346297,
+  "disk": 814042
+}
