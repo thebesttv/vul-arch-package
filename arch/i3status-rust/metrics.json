@@ -1,0 +1,17 @@
+{
+  "name": "i3status-rust",
+  "version": "0.33.1-1",
+  "depends": [
+    "libpipewire",
+    "libpulse",
+    "lm_sensors"
+  ],
+  "makedepends": [
+    "clang",
+    "rust",
+    "pandoc"
+  ],
+  "receive": 199422867,
+  "transmit": 400475,
+  "disk": 1823001
+}
