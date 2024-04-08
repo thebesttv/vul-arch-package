@@ -1,0 +1,14 @@
+{
+  "name": "refind",
+  "version": "0.14.2-1",
+  "depends": [],
+  "makedepends": [
+    "bash",
+    "dosfstools",
+    "efibootmgr",
+    "gnu-efi"
+  ],
+  "receive": 199367513,
+  "transmit": 390117,
+  "disk": 13357294
+}
