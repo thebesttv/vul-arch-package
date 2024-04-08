@@ -1,0 +1,11 @@
+{
+  "name": "filesystem",
+  "version": "2024.04.07-1",
+  "depends": [
+    "iana-etc"
+  ],
+  "makedepends": [],
+  "receive": 199537950,
+  "transmit": 282914,
+  "disk": 412836
+}
