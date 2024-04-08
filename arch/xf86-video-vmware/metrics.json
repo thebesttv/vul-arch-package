@@ -1,0 +1,19 @@
+{
+  "name": "xf86-video-vmware",
+  "version": "13.4.0-3",
+  "depends": [
+    "mesa",
+    "systemd-libs",
+    "libxext",
+    "libx11",
+    "libdrm",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-VIDEODRV_VERSION=25.2"
+  ],
+  "receive": 199398694,
+  "transmit": 366326,
+  "disk": 3320828
+}
