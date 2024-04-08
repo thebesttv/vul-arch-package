@@ -1,0 +1,13 @@
+{
+  "name": "kodi-addon-visualization-projectm",
+  "version": "1:20.2.0-10",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "projectm",
+    "kodi-dev"
+  ],
+  "receive": 199253999,
+  "transmit": 253918,
+  "disk": 5921863
+}
