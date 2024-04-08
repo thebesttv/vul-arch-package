@@ -1,0 +1,14 @@
+{
+  "name": "kodi-addon-imagedecoder-heif",
+  "version": "20.1.0-11",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "kodi-dev",
+    "libheif",
+    "tinyxml2"
+  ],
+  "receive": 199225651,
+  "transmit": 214520,
+  "disk": 753759
+}
