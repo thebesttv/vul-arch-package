@@ -1,0 +1,13 @@
+{
+  "name": "cfssl",
+  "version": "1.6.5-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 208842038,
+  "transmit": 881528,
+  "disk": 43482774
+}
