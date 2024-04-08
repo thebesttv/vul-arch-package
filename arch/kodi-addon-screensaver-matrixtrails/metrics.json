@@ -1,0 +1,12 @@
+{
+  "name": "kodi-addon-screensaver-matrixtrails",
+  "version": "1:20.1.0-10",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "kodi-dev"
+  ],
+  "receive": 199288871,
+  "transmit": 263724,
+  "disk": 2894217
+}
