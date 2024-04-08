@@ -1,0 +1,11 @@
+{
+  "name": "vcsh",
+  "version": "2.0.10-1",
+  "depends": [
+    "git"
+  ],
+  "makedepends": [],
+  "receive": 199204772,
+  "transmit": 242873,
+  "disk": 639053
+}
