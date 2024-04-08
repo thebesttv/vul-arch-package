@@ -1,0 +1,15 @@
+{
+  "name": "kodi-addon-visualization-shadertoy",
+  "version": "1:20.3.0-11",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "p8-platform",
+    "glm",
+    "jsoncpp",
+    "kodi-dev"
+  ],
+  "receive": 199217933,
+  "transmit": 269589,
+  "disk": 26577257
+}
