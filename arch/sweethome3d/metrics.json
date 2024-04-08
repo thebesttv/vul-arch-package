@@ -1,0 +1,21 @@
+{
+  "name": "sweethome3d",
+  "version": "7.3-1",
+  "depends": [
+    "java-runtime",
+    "shared-mime-info",
+    "desktop-file-utils",
+    "libxext",
+    "libgl",
+    "libxrender",
+    "libnsl"
+  ],
+  "makedepends": [
+    "java-environment<20",
+    "ant",
+    "strip-nondeterminism"
+  ],
+  "receive": 249755593,
+  "transmit": 414594,
+  "disk": 169384172
+}
