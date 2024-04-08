@@ -1,0 +1,12 @@
+{
+  "name": "kodi-addon-screensaver-biogenesis",
+  "version": "1:20.1.0-10",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "kodi-dev"
+  ],
+  "receive": 199294709,
+  "transmit": 336535,
+  "disk": 1045132
+}
