@@ -1,0 +1,14 @@
+{
+  "name": "loki",
+  "version": "3.0.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "systemd"
+  ],
+  "receive": 264804126,
+  "transmit": 892870,
+  "disk": 348477883
+}
