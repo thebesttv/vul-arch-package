@@ -1,0 +1,21 @@
+{
+  "name": "python-pydantic",
+  "version": "2.6.4-2",
+  "depends": [
+    "python",
+    "python-annotated-types",
+    "python-pydantic-core",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-fancy-pypi-readme",
+    "python-wheel"
+  ],
+  "receive": 199255657,
+  "transmit": 284633,
+  "disk": 9419663
+}
