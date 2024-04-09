@@ -1,0 +1,16 @@
+{
+  "name": "ayatana-ido",
+  "version": "0.10.2-1",
+  "depends": [
+    "gtk3"
+  ],
+  "makedepends": [
+    "cmake",
+    "gobject-introspection",
+    "vala",
+    "gtest"
+  ],
+  "receive": 199439014,
+  "transmit": 429168,
+  "disk": 880842
+}
