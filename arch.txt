@@ -342,7 +342,7 @@ aws-vault 7.2.0-1
 awstats 7.9-1
 awxkit 24.1.0-1
 axel 2.17.14-1
-ayatana-ido 0.10.1-1
+ayatana-ido 0.10.2-1
 azure-cli 2.59.0-1
 b3sum 1.5.1-1
 b4 0.13.0-1
@@ -459,7 +459,7 @@ blosc2 2.13.2-1
 blueberry 1.4.8-1
 bluedevil 1:6.0.3-1
 bluefish 2.2.15-1
-blueman 2.4-1
+blueman 2.4.1-1
 blueprint-compiler 0.12.0-1
 bluez 5.73-4
 bluez-qt 6.0.0-1
@@ -487,7 +487,7 @@ booth 1.1.3-1
 bore 0.5.0-1
 borg 1.2.8-1
 borgmatic 1.8.9-2
-botan 3.3.0-1
+botan 3.4.0-1
 botan2 2.19.3-1
 bottom 0.9.6-1
 bovo 24.02.1-1
@@ -619,7 +619,7 @@ cargo-cyclonedx 0.5.0-1
 cargo-deb 2.1.0-1
 cargo-deny 0.14.20-1
 cargo-depgraph 1.6.0-2
-cargo-dist 0.12.2-1
+cargo-dist 0.13.0-1
 cargo-edit 0.12.2-1
 cargo-expand 1.0.82-1
 cargo-feature 0.7.0-1
@@ -897,7 +897,7 @@ copr-cli 1.105-1
 copyq 8.0.0-1
 coq 8.19.1-2
 cordova 12.0.0-1
-corectrl 1.4.0-2
+corectrl 1.4.0-3
 coreutils 9.5-1
 corkscrew 2.0-8
 cormorant 3.609-2
@@ -935,7 +935,7 @@ crimson-pro-font 1.003-2
 critter 1.0.2-12
 criu 3.18-2
 croc 9.6.15-1
-cronie 1.7.1-1
+cronie 1.7.2-1
 cross 0.2.5-1
 crosstool-ng 1.26.0-1
 crun 1.14.4-1
@@ -1186,7 +1186,7 @@ dino 0.4.3-4
 directx-headers 1.611.0-1
 directx-shader-compiler 1.7.2308-1
 direnv 2.34.0-1
-discord 0.0.48-1
+discord 0.0.49-1
 discount 3.0.0.d-1
 discover 6.0.3-1
 diskonaut 0.11.0-2
@@ -1209,7 +1209,7 @@ dkms 3.0.12-1
 dleyna 0.8.2-2
 dma 0.13-2
 dmapi 2.2.12-5
-dmd 1:2.107.1-1
+dmd 1:2.108.0-1
 dmenu 5.3-2
 dmidecode 3.5-1
 dmraid 1.0.0.rc16.3-14
@@ -1259,7 +1259,7 @@ dosemu 1:1.4.0.8+753+g18f6f5cd-3
 dosfstools 4.2-3
 dot-language-server 1.2.1-1
 dot2tex 2.11.3-6
-dotconf 1.3-7
+dotconf 1.4.1-1
 dotnet-core 8.0.3.sdk103-1
 dotnet-core-6.0 6.0.28.sdk128-1
 dotnet-core-7.0 7.0.17.sdk117-1
@@ -1309,9 +1309,9 @@ dtkcore 1:5.6.26-1
 dtkdeclarative 5.6.26-1
 dtkgui 1:5.6.26-1
 dtkwidget 5.6.26-1
-dtools 2.107.1-1
+dtools 2.108.0-1
 dua-cli 2.29.0-1
-dub 1.36.0-1
+dub 1.37.0-1
 duf 0.8.1-2
 duktape 2.7.0-6
 dumb 2.0.3-3
@@ -1350,7 +1350,7 @@ ecasound 2.9.3-9
 ecb 2.40.1pre-12
 echoping 6.0.2-12
 ecl 23.9.9-1
-eclib 20231212-2
+eclib 20240408-1
 eclipse-ecj 4.31-1
 ecm-tools 1.03-3
 ecos 2.0.10-2
@@ -1701,7 +1701,7 @@ frameworkintegration 6.0.0-1
 frameworkintegration5 5.115.0-1
 freealut 1.1.0-8
 freebasic 1.10.1-1
-freecad 0.21.2-8
+freecad 0.21.2-12
 freecell-solver 6.8.0-1
 freeciv 3.1.0-1
 freecol 1.1.0-1
@@ -1873,7 +1873,7 @@ git-repair 1.20230814-42
 git-revise 0.7.0-3
 git-sizer 1.5.0-2
 git-smash 0.1.0-1
-git-warp-time 0.7.4-1
+git-warp-time 0.7.6-1
 gitea 1.21.10-2
 gitg 2:44-1
 github-cli 2.47.0-1
@@ -3436,7 +3436,7 @@ heaptrack 1.5.0-3
 hedgedoc 1.9.9-1
 hedgewars 1.0.2-84
 hefur 1.0-12
-heh 0.4.1-1
+heh 0.5.0-1
 heimdall 1.4.2-7
 helix 23.10-1
 helm 3.14.3-1
@@ -3531,7 +3531,7 @@ hunspell-ro 3.3.10-7
 hunspell-ru 20210731-2
 hut 0.4.0-1
 hwdata 0.381-1
-hwdetect 2024.04.08.1916-1
+hwdetect 2024.04.09.0801-1
 hwinfo 23.2-1
 hwloc 2.10.0-1
 hy 1:0.28.0-1
@@ -3813,7 +3813,7 @@ jupyter-notebook-shim 0.2.4-1
 jupyter-server 2.13.0-1
 jupyter-server-fileid 0.9.1-1
 jupyter-server-mathjax 0.2.6-2
-jupyterlab 4.1.5-1
+jupyterlab 4.1.6-1
 jupyterlab-pygments 0.3.0-1
 jupyterlab-widgets 3.0.10-1
 just 1.25.2-1
@@ -3953,7 +3953,7 @@ keditbookmarks 24.02.1-1
 keepalived 2.2.8-1
 keepass 2.56-1
 keepass-plugin-keeagent 0.12.1-3
-keepassxc 2.7.7-1
+keepassxc 2.7.7-2
 kemoticons 5.115.0-1
 kernel-hardening-checker 0.6.6-1
 kernel-headers-musl 4.19.88-2
@@ -5270,7 +5270,7 @@ lightdm-slick-greeter 2.0.3-1
 lightdm-webkit-theme-litarvan 3.2.0-1
 lightdm-webkit2-greeter 2.2.5-7
 lightsoff 46.0-1
-lighttpd 1.4.74-1
+lighttpd 1.4.75-1
 lilv 0.24.24-1
 lilypond 2.24.3-2
 limesuite 23.11.0-1
@@ -5332,7 +5332,7 @@ log4cxx 1.1.0-1
 logrotate 3.21.0-2
 logwatch 7.10-1
 lokalize 24.02.1-1
-loki 2.9.4-1
+loki 3.0.0-1
 lolcat 100.0.1-1
 lollypop 1.4.37-4
 lorcon 2:2020.06.06-4
@@ -5582,7 +5582,7 @@ mathjax2 2.7.9-1
 matrix-appservice-irc 1.0.1-2
 matrix-synapse 1.103.0-1
 matterbridge 1.26.0-2
-mattermost 9.7.0-1
+mattermost 9.7.1-1
 mattermost-desktop 5.7.0-1
 maturin 1.5.1-1
 maude 3.3-1
@@ -5638,7 +5638,7 @@ megaglest 3.13.0-8
 megaglest-data 3.13.0-3
 megatools 1.11.1+20230212-2
 meilisearch 1.6.2-1
-melange 0.6.10-1
+melange 0.6.11-1
 meld 3.22.2-2
 mellite 3.13.11-1
 memcached 1.6.21-1
@@ -6134,7 +6134,7 @@ ois 1.5.1-1
 okteta 1:0.26.15-1
 okular 24.02.1-1
 okularpart5 23.08.5-1
-ollama 0.1.30-2
+ollama 0.1.31-1
 ollama-cuda 0.1.30-1
 onboard 1.4.1-8
 one_gadget 1.9.0-1
@@ -7484,7 +7484,7 @@ python-amqp 5.2.0-1
 python-ana 0.06-2
 python-aniso8601 9.0.1-6
 python-annotated-types 0.6.0-1
-python-ansi2html 1.8.0-4
+python-ansi2html 1.9.1-1
 python-ansible-compat 4.1.12-1
 python-ansicolor 0.3.2-5
 python-antlr4 4.13.1-1
@@ -8149,7 +8149,7 @@ python-jupyter-packaging 0.12.3-4
 python-jupyter-server-terminals 0.5.3-1
 python-jupyter-sphinx 0.5.3-1
 python-jupyter-ydoc 2.0.1-1
-python-jupyterlab-server 2.25.4-1
+python-jupyterlab-server 2.26.0-1
 python-justbases 0.15-4
 python-justbytes 0.15-4
 python-jwcrypto 1.5.6-1
@@ -8563,14 +8563,14 @@ python-pyclipper 1.3.0.post5-1
 python-pycodestyle 2.11.1-1
 python-pycountry 23.12.11-1
 python-pycparser 2.22-1
-python-pycrdt 0.8.17-1
+python-pycrdt 0.8.18-1
 python-pycrdt-websocket 0.12.7-1
 python-pycryptodome 3.20.0-1
 python-pycryptodomex 3.12.0-2
 python-pyct 0.5.0-2
 python-pycuda 2024.1-1
 python-pycurl 7.45.2-3
-python-pydantic 2.6.4-1
+python-pydantic 2.6.4-2
 python-pydantic-core 1:2.16.3-1
 python-pydantic-extra-types 2.6.0-1
 python-pydantic-settings 2.2.1-1
@@ -9081,7 +9081,7 @@ python-testtools 2.7.1-1
 python-text-unidecode 1.3-10
 python-textdistance 4.6.1-1
 python-texttable 1.7.0-1
-python-textual 0.55.1-1
+python-textual 0.56.3-1
 python-threadloop 1.0.2-7
 python-threadpoolctl 3.4.0-1
 python-threat9-test-bed 0.6.0+2+g1ed61b3-9
@@ -9291,8 +9291,8 @@ qalculate-qt 5.0.0-2
 qastools 1.4.0-1
 qbe 1.2-1
 qbittorrent 4.6.4-1
-qbs 2.2.2-1
-qca 2.3.8-2
+qbs 2.3.0-1
+qca 2.3.8-3
 qcad 3.29.6.0-2
 qconf 2.5-3
 qcoro 0.10.0-1
@@ -9674,7 +9674,7 @@ rrdtool 1.8.0-3
 rshijack 0.5.1-1
 rsibreak 0.12.15-2
 rsnapshot 1.4.5-1
-rsop 0.2.1-2
+rsop 0.3.0-1
 rspamd 3.8.4-1
 rss2email 3.14-5
 rssguard 4.6.6-1
@@ -10318,7 +10318,7 @@ sloccount 2.26-10
 slock 1.5-2
 slop 7.6-4
 slowhttptest 1.9.0-1
-slumber 0.16.0-1
+slumber 0.17.0-1
 slurm-llnl 23.11.3.1-2
 slurp 1.5.0-1
 smali 2.5.2-2
@@ -10343,7 +10343,7 @@ sndio 1.9.0-1
 snes9x 1.62.3-1
 sniffglue 0.16.0-1
 sniffit 0.5-3
-sniffnet 1.2.2-1
+sniffnet 1.3.0-1
 sniproxy 0.6.1-1
 snorenotify 0.7.0-5
 snowball 2.2.0-2
@@ -10385,7 +10385,7 @@ sound-gambit 0.7-2
 sound-juicer 3.40.0-2
 sound-theme-elementary 1.1.0-2
 sound-theme-freedesktop 0.8-5
-soundconverter 4.0.4-1
+soundconverter 4.0.5-1
 soundfont-fluid 3.1-4
 soundtouch 2.3.3-1
 source-highlight 3.1.9-11
@@ -10611,7 +10611,7 @@ sympow 2.023.6-1
 synapse 0.2.99.4-2
 synbak 3.8.2-1
 syncplay 1.7.2-1
-syncthing 1.27.5-1
+syncthing 1.27.6-1
 syndication 6.0.0-1
 syndication-domination 1.0-3
 syndication5 5.115.0-1
@@ -10687,7 +10687,7 @@ tectonic 0.15.0-1
 teensy-loader-cli 2.2-2
 teeworlds 0.7.5-2
 tekton-cli 0.33.0-1
-telegram-desktop 4.16.1-1
+telegram-desktop 4.16.5-1
 telepathy-gabble 0.18.4-4
 telepathy-glib 0.24.2-3
 telepathy-idle 0.2.2-2
@@ -10761,7 +10761,7 @@ timew 1.7.1-1
 timezonemap 0.4.5.2-1
 timidity++ 2.15.0-10
 tinc 1.0.36-3
-tint2 17.0.2-3
+tint2 17.0.2-4
 tinycdb 0.81-1
 tinycompress 1.2.11-1
 tinyemu 2019_12_21-3
@@ -10886,6 +10886,7 @@ ttf-mona-sans 1.0.1-1
 ttf-monofur 1.0-7
 ttf-monoid 0.61-7
 ttf-nerd-fonts-symbols 3.2.0-1
+ttf-nunito 3.601-2
 ttf-opensans 1.101-2
 ttf-roboto 2.138-4
 ttf-roboto-mono 3.000-2
@@ -10913,7 +10914,7 @@ txt2tags 3.9-1
 typescript 5.4.4-1
 typescript-language-server 4.3.3-1
 typescript-svelte-plugin 0.3.37-1
-typos 1.20.4-1
+typos 1.20.5-1
 typst 1:0.11.0-2
 tzdata 2024a-1
 uasm 2.56.2-1
@@ -11064,7 +11065,7 @@ vcspull 1.28.1-1
 vde2 2.3.3-5
 vdirsyncer 0.19.2-1
 vdpauinfo 1.5-1
-vector 0.37.0-2
+vector 0.37.1-1
 vector-blf 2.4.2-1
 vegeta 12.11.1-1
 veracrypt 1.26.7-1
@@ -11216,7 +11217,7 @@ webrtc-audio-processing-1 1.3-2
 websocat 1.12.0-1
 websocketpp 0.8.2-1
 websvn 2.8.4-1
-weechat 4.2.1-1
+weechat 4.2.2-2
 wesnoth 1:1.18.0-3
 weston 13.0.0-2
 wev 1.0.0-13
@@ -11531,7 +11532,7 @@ xorg-xset 1.2.5-1
 xorg-xsetroot 1.1.3-1
 xorg-xvidtune 1.0.4-1
 xorg-xvinfo 1.1.5-1
-xorg-xwayland 23.2.5-1
+xorg-xwayland 23.2.6-1
 xorg-xwd 1.0.9-1
 xorg-xwininfo 1.1.6-1
 xorg-xwud 1.0.6-1
