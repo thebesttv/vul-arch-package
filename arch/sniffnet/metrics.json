@@ -1,0 +1,17 @@
+{
+  "name": "sniffnet",
+  "version": "1.3.0-1",
+  "depends": [
+    "alsa-lib",
+    "fontconfig",
+    "libpcap",
+    "freetype2",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199367843,
+  "transmit": 391385,
+  "disk": 90612144
+}
