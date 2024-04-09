@@ -1,0 +1,16 @@
+{
+  "name": "qbs",
+  "version": "2.3.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-5compat"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 205105127,
+  "transmit": 437921,
+  "disk": 28910838
+}

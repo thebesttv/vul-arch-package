@@ -1,0 +1,44 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.80 s (1113.5 files/s 128880.7 lines/s)"
+730,C++,14405,24478,90248
+97,C,4773,4983,55312
+555,C/C++ Header,8537,18924,37408
+1214,QML,3722,6876,33728
+83,JavaScript,1580,2267,11899
+33,XML,15,45,11294
+19,Python,1061,576,5703
+1,ANTLR Grammar,409,99,2515
+52,CMake,179,33,1964
+1,diff,275,2030,1756
+60,Assembly,103,661,1690
+13,YAML,40,10,1614
+60,Markdown,366,0,1376
+20,Bourne Shell,199,856,804
+31,Java,135,217,693
+19,JSON,0,0,653
+8,Dockerfile,103,139,577
+13,Objective-C++,66,151,491
+5,Linker Script,65,284,366
+12,Objective-C,96,289,357
+1,CSS,42,0,253
+5,Qt,0,0,177
+8,lex,48,76,148
+1,Perl,6,38,138
+7,TypeScript,20,1,99
+33,Text,15,0,94
+9,Protocol Buffers,30,28,93
+4,yacc,20,0,79
+4,WiX source,9,0,77
+4,C#,1,0,41
+2,Qt Linguist,0,0,38
+3,DOS Batch,8,37,34
+4,Windows Resource File,6,0,30
+1,HTML,0,0,18
+1,PowerShell,3,0,16
+1,Visual Basic .NET,0,0,7
+2,MATLAB,0,0,5
+1,TOML,0,0,4
+1,Windows Module Definition,0,0,3
+1,F#,0,0,1
+1,INI,0,0,1
+1,WiX string localization,0,0,1
+3121,SUM,36337,63098,261805
