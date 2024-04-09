@@ -1,0 +1,15 @@
+{
+  "name": "rsop",
+  "version": "0.3.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "pcsclite",
+    "rust"
+  ],
+  "receive": 199273041,
+  "transmit": 256434,
+  "disk": 314247
+}
