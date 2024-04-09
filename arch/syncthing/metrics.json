@@ -1,0 +1,14 @@
+{
+  "name": "syncthing",
+  "version": "1.27.6-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 214732167,
+  "transmit": 318854,
+  "disk": 66003732
+}
