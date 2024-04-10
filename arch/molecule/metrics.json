@@ -1,0 +1,29 @@
+{
+  "name": "molecule",
+  "version": "24.2.1-1",
+  "depends": [
+    "python",
+    "python-ansible-compat",
+    "python-click",
+    "python-click-help-colors",
+    "python-cookiecutter",
+    "python-enrich",
+    "python-jinja",
+    "python-jsonschema",
+    "python-packaging",
+    "python-pluggy",
+    "python-pyyaml",
+    "python-rich",
+    "python-wcmatch"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199427122,
+  "transmit": 348818,
+  "disk": 16970713
+}
