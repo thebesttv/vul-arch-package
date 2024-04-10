@@ -1,0 +1,11 @@
+{
+  "name": "wordpress",
+  "version": "6.5.2-1",
+  "depends": [
+    "php"
+  ],
+  "makedepends": [],
+  "receive": 224189656,
+  "transmit": 304606,
+  "disk": 96541798
+}
