@@ -1,0 +1,33 @@
+{
+  "name": "ginkgo-hpc",
+  "version": "1.7.0-4",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hwloc",
+    "openmpi"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "nlohmann-json",
+    "gflags",
+    "gtest",
+    "numactl",
+    "doxygen",
+    "graphviz",
+    "texlive-bin",
+    "texlive-latexextra",
+    "cuda",
+    "hip-runtime-amd",
+    "hipblas",
+    "hipfft",
+    "hiprand",
+    "hipsparse",
+    "rocthrust",
+    "roctracer"
+  ],
+  "receive": 208282343,
+  "transmit": 536162,
+  "disk": 56096888
+}
