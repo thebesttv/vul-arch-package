@@ -1,0 +1,28 @@
+{
+  "name": "gerbera",
+  "version": "2.1.0-1",
+  "depends": [
+    "taglib",
+    "curl",
+    "sqlite",
+    "file",
+    "gcc-libs",
+    "libupnp",
+    "duktape",
+    "libexif",
+    "libgexiv2",
+    "fmt",
+    "pugixml",
+    "spdlog",
+    "ffmpeg",
+    "ffmpegthumbnailer",
+    "libmatroska",
+    "libebml"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 205334989,
+  "transmit": 341474,
+  "disk": 18139037
+}
