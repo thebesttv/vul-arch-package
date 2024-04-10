@@ -1,0 +1,13 @@
+{
+  "name": "revive",
+  "version": "1.3.7-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199519106,
+  "transmit": 482388,
+  "disk": 2189771
+}
