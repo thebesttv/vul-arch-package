@@ -1,0 +1,15 @@
+{
+  "name": "mruby",
+  "version": "3.3.0-1",
+  "depends": [
+    "readline"
+  ],
+  "makedepends": [
+    "bison",
+    "ruby",
+    "ruby-rake"
+  ],
+  "receive": 199311342,
+  "transmit": 308226,
+  "disk": 5774348
+}
