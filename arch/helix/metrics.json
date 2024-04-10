@@ -1,0 +1,16 @@
+{
+  "name": "helix",
+  "version": "24.03-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "cargo",
+    "git"
+  ],
+  "receive": 199509201,
+  "transmit": 476997,
+  "disk": 9647408
+}
