@@ -126,7 +126,7 @@ ambdec 0.7.1-2
 ambix 0.2.10-4
 amdvlk 2024.Q1.3-2
 amf-headers 1.4.33-1
-amfora 1.10.0-1
+amfora 1.10.0-2
 aml 0.3.0-1
 ammonite 2.5.9-1
 ams 2.2.1-1
@@ -144,7 +144,7 @@ ansible 9.4.0-2
 ansible-bender 0.10.1-2
 ansible-core 2.16.5-2
 ansible-language-server 1.2.1-1
-ansible-lint 24.2.1-1
+ansible-lint 24.2.2-1
 ant 1.10.14-1
 anthy 9100h-6
 antiword 0.37-10
@@ -340,7 +340,7 @@ aws-crt-cpp 0.20.7-1
 aws-sdk-cpp 1.11.124-1
 aws-vault 7.2.0-1
 awstats 7.9-1
-awxkit 24.1.0-1
+awxkit 24.2.0-1
 axel 2.17.14-1
 ayatana-ido 0.10.2-1
 azure-cli 2.59.0-1
@@ -944,7 +944,7 @@ crypto++ 8.9.0-1
 cryptol 3.0.0-56
 cryptominisat 5.11.21-1
 cryptsetup 2.7.1-1
-crystal 1.11.2-2
+crystal 1.12.0-1
 cscope 15.9-2
 csfml 2.6.0-1
 csound 6.18.1-3
@@ -1287,7 +1287,7 @@ drone-cli 1.7.0-1
 drone-runner-docker 1.8.3-1
 drone-runner-exec 1.0.0.beta.10-1
 drone-runner-ssh 1.0.1-4
-dropbear 2022.83-1
+dropbear 2024.84-1
 drumgizmo 0.9.20-2
 drumkv1 0.9.34-1
 drumstick 2.9.0-1
@@ -1620,7 +1620,7 @@ fira-sans 1:4.301-2
 firecracker 1.5.0-1
 firefox 124.0.2-1
 firefox-adblock-plus 3.17.1-1
-firefox-decentraleyes 2.0.19-1
+firefox-decentraleyes 2.0.19-2
 firefox-developer-edition 125.0b9-1
 firefox-developer-edition-i18n 125.0b9-1
 firefox-extension-mailvelope 5.1.2-1
@@ -1825,7 +1825,7 @@ geonkick 3.4.0-1
 geos 3.12.0-1
 geotag 0.103-5
 gephi 0.10.1-2
-gerbera 2.0.0-3
+gerbera 2.1.0-1
 getdns 1.7.3-1
 gettext 0.22.4-1
 gf2x 1.3.0-2
@@ -1852,7 +1852,7 @@ gimp 2.10.36-6
 gimp-help 2.10.34-1
 gimp-nufraw 0.43.3-9
 ginac 1.8.6-1
-ginkgo-hpc 1.7.0-3
+ginkgo-hpc 1.7.0-4
 gio-qt 0.0.12-1
 gir-to-d 0.23.1-7
 girara 0.4.3-3
@@ -3438,7 +3438,7 @@ hedgewars 1.0.2-84
 hefur 1.0-12
 heh 0.5.0-1
 heimdall 1.4.2-7
-helix 23.10-1
+helix 24.03-1
 helm 3.14.3-1
 helmfile 0.159.0-1
 help2man 1.49.3-1
@@ -3603,7 +3603,7 @@ igsc 0.8.13-2
 ihaskell 0.10.4.0-73
 iio-sensor-proxy 3.5-2
 ijs 0.35-6
-imagemagick 7.1.1.29-2
+imagemagick 7.1.1.30-2
 imagescan 3.65.0-10
 imaginary 1.2.4-1
 imake 1.0.10-1
@@ -3757,7 +3757,7 @@ jellyfin-ffmpeg 1:6.0.1p5-1
 jellyfin-server 10.8.13-1
 jellyfin-web 10.8.13-1
 jemalloc 1:5.3.0-3
-jenkins 2.452-1
+jenkins 2.453-1
 jenv 0.5.7-1
 jetring 0.30-1
 jfsutils 1.1.15-9
@@ -4573,7 +4573,7 @@ libantlr3c 3.5.3-1
 libao 1.2.2-6
 libappimage 1.0.4.5-5
 libappindicator 12.10.0.r298-3
-libarchive 3.7.2-2
+libarchive 3.7.3-1
 libass 0.17.1-4
 libassuan 2.5.7-2
 libasyncns 1:0.8+r3+g68cd5af-2
@@ -5229,7 +5229,7 @@ libxml++-5.0 5.2.0-1
 libxml++2.6 2.42.1-1
 libxml-perl 0.08-8
 libxml2 2.12.6-1
-libxmlb 0.3.17-1
+libxmlb 0.3.18-1
 libxmlbird 1.2.15-1
 libxmlrpc 1:1.59.02-1
 libxmu 1.2.0-1
@@ -5492,7 +5492,7 @@ mac 10.46-1
 macchanger 1.7.0-5
 maeparser 1.3.1-2
 mage 1.15.0-1
-magic-wormhole 0.14.0-1
+magic-wormhole 0.14.0-2
 magma 2.7.2-4
 magnum 2020.06-3
 magnum-plugins 2020.06-3
@@ -5747,7 +5747,7 @@ modemmanager-qt5 5.115.0-1
 modest 0.0.6.d021b90-3
 mokutil 0.7.0-1
 mold 2.30.0-1
-molecule 24.2.0-1
+molecule 24.2.1-1
 molecule-plugins 23.5.0-1
 molequeue 0.9.0-3
 monaspace-font 1.000-2
@@ -5792,7 +5792,7 @@ mpv 1:0.37.0-3
 mpv-mpris 1.1-1
 mpvqt 1.0.0-1
 mqttui 0.20.0-2
-mruby 3.2.0-1
+mruby 3.3.0-1
 msgpack-c 5.0.0-2
 msgpack-cxx 6.1.0-1
 msgraph 0.2.1-1
@@ -6053,7 +6053,7 @@ ntk 1.3.1001-2
 ntl 11.5.1-1
 ntp 4.2.8.p17-1
 nuget 6.5.0-1
-nuitka 2.1.3-2
+nuitka 2.1.5-1
 nuklear 4.10.6-1
 nullmailer 2.2-3
 numactl 2.0.18-1
@@ -6135,7 +6135,7 @@ okteta 1:0.26.15-1
 okular 24.02.1-1
 okularpart5 23.08.5-1
 ollama 0.1.31-1
-ollama-cuda 0.1.30-1
+ollama-cuda 0.1.31-1
 onboard 1.4.1-8
 one_gadget 1.9.0-1
 onednn 3.4.1-1
@@ -6591,7 +6591,7 @@ perl-datetime-format-iso8601 0.16-2
 perl-datetime-format-mail 0.403-4
 perl-datetime-format-strptime 1.79-2
 perl-datetime-format-w3cdtf 0.08-3
-perl-datetime-locale 1.40-1
+perl-datetime-locale 1.41-1
 perl-datetime-set 0.3900-4
 perl-datetime-timezone 2.62-1
 perl-dbd-mariadb 1.23-1
@@ -7410,7 +7410,7 @@ pyenv 1:2.3.36-1
 pyflow 0.3.1-1
 pygobject 3.48.1-2
 pylibacl 0.6.0-3
-pymol 2.5.0-7
+pymol 3.0.0-1
 pynormaliz 2.19-1
 pyopengl 3.1.6-2
 pypinyin 0.50.0-2
@@ -8027,7 +8027,6 @@ python-html5-parser 0.4.11-1
 python-html5lib 1.1-13
 python-html5tagger 1.3.0-1
 python-htmlmin 0.1.12-9
-python-http-parser 0.9.0-8
 python-httpcore 1.0.2-2
 python-httplib2 0.22.0-4
 python-httpretty 1.1.4-7
@@ -8139,7 +8138,6 @@ python-jsonrpclib-pelix 0.4.3.2-2
 python-jsonschema 4.21.1-1
 python-jsonschema-objects 0.5.3-1
 python-jsonschema-path 0.3.2-2
-python-jsonschema-spec 0.2.3-1
 python-jsonschema-specifications 2023.12.1-1
 python-junit-xml 1.9-7
 python-jupyter-client 8.6.1-1
@@ -8369,7 +8367,7 @@ python-omegaconf 2.3.0-2
 python-omemo-dr 1.0.1-1
 python-onnx 1:1.16.0-2
 python-openai 1.16.2-1
-python-openapi-core 0.19.0-1
+python-openapi-core 0.19.0-3
 python-openapi-schema-validator 0.6.2-1
 python-openapi-spec-validator 0.7.1-1
 python-openid 3.2.0-6
@@ -8773,6 +8771,7 @@ python-pytest-vcr 1.0.2-7
 python-pytest-xdist 3.5.0-1
 python-pytest-xprocess 0.23.0-1
 python-pytest-xvfb 2.0.0-6
+python-pytest7 7.4.4-2
 python-python-multipart 0.0.6-2
 python-python-pkcs11 0.7.0-6
 python-python-socks 2.4.4-1
@@ -8901,7 +8900,7 @@ python-schema 0.7.5-4
 python-schemdraw 0.16-2
 python-scikit-build 0.17.6-2
 python-scikit-hep-testdata 0.4.25-2
-python-scikit-learn 1.4.1.post1-1
+python-scikit-learn 1.4.2-1
 python-scipy 1.13.0-1
 python-scramp 1.4.4-3
 python-scripttest 1.3.0-10
@@ -9557,7 +9556,7 @@ retry 1.0.5-2
 retsnoop 0.9.8-2
 reuse 3.0.1-1
 rev-plugins 0.8.1-2
-revive 1.3.3-1
+revive 1.3.7-1
 rfc 20221112-1
 rfdump 1.6-5
 rgbds 0.7.0-1
@@ -10246,7 +10245,7 @@ shairplay 20180824.096b61a-4
 shairport-sync 4.3.2-1
 shake 1.0-3
 shapelib 1.5.0-3
-shards 0.17.4-1
+shards 0.18.0-1
 shared-color-targets 0.1.7-4
 shared-mime-info 2.4-1
 shared_meataxe 1.0.1-1
@@ -10254,7 +10253,7 @@ sharutils 4.15.2-5
 shattered-pixel-dungeon 2.3.2-1
 sheldon 0.7.4-1
 shellcheck 0.10.0-2
-shellharden 4.3.1-1
+shellharden 4.3.1-2
 sherlock.lv2 0.28.0-2
 shfmt 3.7.0-1
 shfs-utils 0.35-7
@@ -10440,7 +10439,7 @@ squashfs-tools 4.6.1-1
 squashfuse 0.5.2-1
 squeak-vm 4.10.2.2614-7
 squeekboard 1.22.0-1
-squid 6.8-1
+squid 6.9-1
 sratom 0.6.16-1
 srrdb-terminal-client 1.2.1-1
 srs 5.0_r1-1
@@ -10491,7 +10490,7 @@ stk 5.0.1-3
 stlink 1.8.0-1
 stochas 1.3.10-1
 stoken 0.92-4
-stow 2.3.1-3
+stow 2.4.0-1
 stp 2.3.3-11
 strace 6.8-1
 stratis-cli 3.6.0-1
@@ -10561,17 +10560,17 @@ svt-hevc 1.5.1-3
 svt-vp9 0.3.0-3
 swaks 20201014.0-1
 swappy 1.5.1-1
-sway 1:1.9-1
+sway 1:1.9-3
 sway-contrib 1.9.0-1
 swaybg 1.2.0-1
 swayidle 1.8.0-1
-swayimg 2.1-3
+swayimg 2.2-1
 swaylock 1.7.2-1
 sweeper 24.02.1-1
 sweethome3d 7.3-1
 swell-foop 46.0-1
 swh-plugins 0.4.17-5
-swi-prolog 9.2.2-1
+swi-prolog 9.2.3-1
 swig 4.2.1-1
 switchboard 6.0.2-1
 switchboard-plug-a11y 2.3.0-2
@@ -10646,7 +10645,7 @@ t1lib 5.1.2-8
 t1utils 1.42-2
 tachyon 0.99.5-1
 taffybar 4.0.1-84
-taglib 2.0-1
+taglib 2.0.1-1
 taglib1 1.13.1-2
 tailscale 1.62.1-3
 tailspin 3.0.1-1
@@ -10902,7 +10901,7 @@ tumbler 4.18.2-1
 tuna 1:0.19-3
 tuning-library 1.1.0-3
 tuntox 0.0.10.1-2
-tup 0.7.11-1
+tup 0.8-1
 tupitube 0.2.18-5
 turbo 1.13.2-1
 tuxcards 2.2.1-8
@@ -10914,7 +10913,7 @@ txt2tags 3.9-1
 typescript 5.4.4-1
 typescript-language-server 4.3.3-1
 typescript-svelte-plugin 0.3.37-1
-typos 1.20.5-1
+typos 1.20.7-1
 typst 1:0.11.0-2
 tzdata 2024a-1
 uasm 2.56.2-1
@@ -10934,7 +10933,7 @@ udpxy 1.0.25.1-1
 ueberzug 18.2.2-1
 ufmt 2.1.0-1
 ufw 0.36.2-3
-ufw-extras 1.1.0-1
+ufw-extras 1.1.0-2
 uget 2.2.3-6
 uglify-js 3.17.4-1
 ugrep 5.1.3-1
@@ -11196,7 +11195,7 @@ watchexec 1.25.1-1
 wavegain 1.3.1-4
 wavemon 0.9.5-1
 wavpack 5.7.0-1
-waybar 0.10.0-3
+waybar 0.10.0-4
 waycheck 1.2.0-1
 wayland 1.22.0-1
 wayland-protocols 1.34-1
@@ -11286,7 +11285,7 @@ wolf-spectrum 1.0.0-2
 wolfssl 5.7.0-1
 woob 3.6-3
 woodpecker 2.4.1-1
-wordpress 6.5-1
+wordpress 6.5.2-1
 words 2.1-8
 worker-build 0.0.10-1
 workerd 1.20240405.0-1
@@ -11448,7 +11447,7 @@ xkeyboard-config 2.41-1
 xkeycaps 2.47-3
 xl2tpd 1.3.18-1
 xloadimage 4.1-16
-xlockmore 5.76-1
+xlockmore 5.77-1
 xmake 2.8.9-1
 xmldiff 2.6.3-1
 xmlsec 1.3.3-2
@@ -11608,7 +11607,7 @@ yoshimi 2.3.2-1
 yosys 0.38-1
 yq 3.2.3-1
 yrd 0.5.3-7
-yt-dlp 2024.03.10-1
+yt-dlp 2024.04.09-1
 ytfzf 2.6.2-1
 yubico-c 1.13-7
 yubico-c-client 2.15-6
