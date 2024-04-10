@@ -1,0 +1,11 @@
+{
+  "name": "stow",
+  "version": "2.4.0-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199220838,
+  "transmit": 235966,
+  "disk": 2840702
+}
