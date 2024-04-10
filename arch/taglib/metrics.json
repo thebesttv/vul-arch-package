@@ -1,0 +1,17 @@
+{
+  "name": "taglib",
+  "version": "2.0.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "sh",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "utf8cpp"
+  ],
+  "receive": 199423293,
+  "transmit": 296770,
+  "disk": 5973593
+}
