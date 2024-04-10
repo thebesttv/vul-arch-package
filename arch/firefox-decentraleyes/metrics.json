@@ -1,0 +1,14 @@
+{
+  "name": "firefox-decentraleyes",
+  "version": "2.0.19-2",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "npm",
+    "strip-nondeterminism",
+    "zip"
+  ],
+  "receive": 213529996,
+  "transmit": 397753,
+  "disk": 36728559
+}
