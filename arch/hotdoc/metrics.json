@@ -1,0 +1,28 @@
+{
+  "name": "hotdoc",
+  "version": "0.16-1",
+  "depends": [
+    "python-appdirs",
+    "python-dbus-deviation",
+    "python-faust-cchardet",
+    "python-lxml",
+    "python-networkx",
+    "python-pkgconfig",
+    "python-schema",
+    "python-toposort",
+    "python-wheezy-template",
+    "python-yaml",
+    "python-feedgen",
+    "json-glib"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "cmake"
+  ],
+  "receive": 199355259,
+  "transmit": 353933,
+  "disk": 9974485
+}
