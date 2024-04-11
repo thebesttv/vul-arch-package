@@ -1,0 +1,14 @@
+{
+  "name": "libchewing",
+  "version": "0.7.0-1",
+  "depends": [
+    "sqlite"
+  ],
+  "makedepends": [
+    "cmake",
+    "minisign"
+  ],
+  "receive": 199284926,
+  "transmit": 292974,
+  "disk": 22965078
+}
