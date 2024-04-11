@@ -1,0 +1,14 @@
+{
+  "name": "sqlx-cli",
+  "version": "0.7.4-2",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199328399,
+  "transmit": 343067,
+  "disk": 5906530
+}
