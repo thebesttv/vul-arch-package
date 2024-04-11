@@ -1,0 +1,16 @@
+{
+  "name": "daktilo",
+  "version": "0.6.0-1",
+  "depends": [
+    "gcc-libs",
+    "alsa-lib",
+    "libxtst",
+    "libxi"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199277398,
+  "transmit": 344454,
+  "disk": 5881746
+}
