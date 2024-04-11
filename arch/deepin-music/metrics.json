@@ -1,0 +1,29 @@
+{
+  "name": "deepin-music",
+  "version": "7.0.4-1",
+  "depends": [
+    "dtkcore",
+    "dtkgui",
+    "dtkwidget",
+    "dtkdeclarative",
+    "qt5-base",
+    "qt5-declarative",
+    "glibc",
+    "gcc-libs",
+    "kcodecs5",
+    "qt5-multimedia",
+    "qtmpris",
+    "ffmpeg",
+    "taglib",
+    "udisks2-qt5",
+    "vlc"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt5-tools"
+  ],
+  "receive": 199473786,
+  "transmit": 360122,
+  "disk": 46640980
+}
