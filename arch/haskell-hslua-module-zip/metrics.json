@@ -1,0 +1,24 @@
+{
+  "name": "haskell-hslua-module-zip",
+  "version": "1.1.1-16",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslua-core",
+    "haskell-hslua-list",
+    "haskell-hslua-marshalling",
+    "haskell-hslua-packaging",
+    "haskell-hslua-typing",
+    "haskell-zip-archive"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hslua-module-system",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-lua"
+  ],
+  "receive": 199479926,
+  "transmit": 392199,
+  "disk": 259245
+}
