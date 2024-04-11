@@ -1,0 +1,58 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=37.93 s (488.6 files/s 208257.9 lines/s)"
+352,Perl,29277,25395,1768063
+1925,C++,163653,171644,1147097
+7814,JavaScript,100550,125691,845842
+3373,C/C++ Header,123434,257038,580134
+323,Assembly,49396,10191,571825
+1657,C,85423,78139,553440
+751,HTML,17799,663,272765
+498,JSON,22,0,272525
+461,Markdown,56434,18473,189576
+688,Python,19286,24305,175491
+115,Bourne Shell,6671,7303,36931
+105,Text,868,0,36116
+32,m4,2087,363,14703
+138,TypeScript,1963,2532,14609
+9,Starlark,336,641,5666
+14,IDL,761,0,4093
+5,Rust,15,11,4072
+24,CMake,610,650,2846
+22,make,540,407,2786
+16,CSS,494,11,2522
+16,diff,146,720,1977
+31,DOS Batch,147,60,1107
+14,Pascal,259,1880,978
+15,XML,17,43,900
+4,XHTML,101,36,834
+2,Fortran 90,86,268,641
+31,YAML,26,37,494
+7,Fortran 77,19,19,387
+16,PowerShell,22,78,362
+1,WiX source,51,8,346
+5,R,55,52,272
+2,Lisp,42,38,258
+3,PHP,31,170,248
+1,Scheme,13,51,222
+4,Windows Resource File,48,105,209
+1,C#,55,9,186
+6,Bourne Again Shell,45,38,178
+20,WebAssembly,22,14,167
+5,SVG,1,9,154
+3,vim script,28,30,147
+3,TOML,15,31,145
+3,Windows Module Definition,1,7,96
+1,MSBuild script,0,0,70
+2,reStructuredText,26,14,66
+1,Visual Studio Solution,0,1,52
+1,Bazel,12,3,42
+3,INI,10,1,39
+1,WiX string localization,11,3,28
+1,Fish Shell,5,14,21
+1,awk,1,10,18
+1,CoffeeScript,7,8,14
+1,Ruby,4,6,14
+1,JSX,1,0,11
+1,Dockerfile,3,0,10
+2,Linker Script,0,0,6
+1,sed,0,0,6
+18533,SUM,660929,727220,6511807
