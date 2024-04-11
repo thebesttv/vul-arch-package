@@ -1,0 +1,23 @@
+{
+  "name": "pam",
+  "version": "1.6.1-2",
+  "depends": [
+    "glibc",
+    "libtirpc",
+    "pambase",
+    "audit",
+    "libaudit.so",
+    "libxcrypt",
+    "libcrypt.so",
+    "libnsl"
+  ],
+  "makedepends": [
+    "flex",
+    "w3m",
+    "docbook-xml>=4.4",
+    "docbook-xsl"
+  ],
+  "receive": 199355505,
+  "transmit": 273878,
+  "disk": 13862141
+}
