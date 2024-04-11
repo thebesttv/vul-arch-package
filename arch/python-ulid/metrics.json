@@ -1,0 +1,18 @@
+{
+  "name": "python-ulid",
+  "version": "2.4.0.post0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-fancy-pypi-readme",
+    "python-hatch-vcs",
+    "python-hatchling",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199420006,
+  "transmit": 403203,
+  "disk": 196572
+}
