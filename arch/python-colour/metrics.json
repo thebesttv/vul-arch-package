@@ -1,0 +1,13 @@
+{
+  "name": "python-colour",
+  "version": "0.1.5-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 199856983,
+  "transmit": 531039,
+  "disk": 227272
+}
