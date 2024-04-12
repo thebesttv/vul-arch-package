@@ -1,0 +1,24 @@
+{
+  "name": "kcron",
+  "version": "24.02.2-1",
+  "depends": [
+    "cron",
+    "gcc-libs",
+    "glibc",
+    "kauth",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcmutils",
+    "ki18n",
+    "kio",
+    "kwidgetsaddons",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199502889,
+  "transmit": 506345,
+  "disk": 4670493
+}
