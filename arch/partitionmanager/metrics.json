@@ -1,0 +1,29 @@
+{
+  "name": "partitionmanager",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "kpmcore",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "polkit-qt6",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199548064,
+  "transmit": 402759,
+  "disk": 14379138
+}
