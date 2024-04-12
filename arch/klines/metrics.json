@@ -1,0 +1,25 @@
+{
+  "name": "klines",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libkdegames",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199298813,
+  "transmit": 347755,
+  "disk": 10266159
+}
