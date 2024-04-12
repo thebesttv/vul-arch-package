@@ -1,0 +1,25 @@
+{
+  "name": "swtpm",
+  "version": "0.8.1-1",
+  "depends": [
+    "fuse2",
+    "glib2",
+    "gnutls",
+    "json-glib",
+    "libseccomp",
+    "libtpms",
+    "openssl",
+    "libseccomp.so"
+  ],
+  "makedepends": [
+    "git",
+    "expect",
+    "iproute2",
+    "libtasn1",
+    "python",
+    "socat"
+  ],
+  "receive": 199354742,
+  "transmit": 401672,
+  "disk": 6898165
+}
