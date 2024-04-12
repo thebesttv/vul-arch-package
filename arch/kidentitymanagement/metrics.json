@@ -1,0 +1,29 @@
+{
+  "name": "kidentitymanagement",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcodecs",
+    "kcompletion",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kpimtextedit",
+    "ktextaddons",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "kirigami-addons",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199321492,
+  "transmit": 317542,
+  "disk": 1977916
+}
