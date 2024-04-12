@@ -1,0 +1,19 @@
+{
+  "name": "qt6-3d",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "assimp",
+    "cmake",
+    "ninja",
+    "qt6-declarative",
+    "qt6-shadertools"
+  ],
+  "receive": 344387660,
+  "transmit": 2341740,
+  "disk": 329290342
+}
