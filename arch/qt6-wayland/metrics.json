@@ -1,0 +1,20 @@
+{
+  "name": "qt6-wayland",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libglvnd",
+    "libxkbcommon",
+    "qt6-base",
+    "qt6-declarative",
+    "wayland"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199395819,
+  "transmit": 412663,
+  "disk": 6709823
+}
