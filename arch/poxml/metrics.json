@@ -1,0 +1,17 @@
+{
+  "name": "poxml",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "gettext",
+    "glibc",
+    "qt5-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5"
+  ],
+  "receive": 200141295,
+  "transmit": 924077,
+  "disk": 695865
+}
