@@ -1,0 +1,17 @@
+{
+  "name": "qt6-datavis3d",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-declarative"
+  ],
+  "receive": 199858717,
+  "transmit": 610918,
+  "disk": 12109482
+}
