@@ -1,0 +1,24 @@
+{
+  "name": "qmlkonsole",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "kpty",
+    "kwindowsystem",
+    "qt6-5compat",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199271882,
+  "transmit": 330920,
+  "disk": 1645215
+}
