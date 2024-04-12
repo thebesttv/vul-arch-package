@@ -1,0 +1,29 @@
+{
+  "name": "kasts",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-multimedia",
+    "qtkeychain-qt6",
+    "syndication",
+    "taglib",
+    "threadweaver",
+    "vlc"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "python"
+  ],
+  "receive": 201249253,
+  "transmit": 1238044,
+  "disk": 4288438
+}
