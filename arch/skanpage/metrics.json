@@ -1,0 +1,27 @@
+{
+  "name": "skanpage",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kirigami",
+    "kquickimageeditor",
+    "ksanecore",
+    "kxmlgui",
+    "leptonica",
+    "purpose",
+    "qt6-base",
+    "qt6-declarative",
+    "tesseract"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199480298,
+  "transmit": 433503,
+  "disk": 4104006
+}
