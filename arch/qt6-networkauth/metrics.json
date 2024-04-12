@@ -1,0 +1,16 @@
+{
+  "name": "qt6-networkauth",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199437894,
+  "transmit": 426780,
+  "disk": 895792
+}
