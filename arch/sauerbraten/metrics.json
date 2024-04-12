@@ -1,0 +1,14 @@
+{
+  "name": "sauerbraten",
+  "version": "2020_12_29-1",
+  "depends": [],
+  "makedepends": [
+    "sdl2_mixer",
+    "sdl2_image",
+    "mesa-libgl",
+    "glu"
+  ],
+  "receive": 1189609773,
+  "transmit": 2632725,
+  "disk": 2060535343
+}
