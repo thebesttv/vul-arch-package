@@ -1,0 +1,42 @@
+{
+  "name": "kio5-extras",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive5",
+    "kconfig5",
+    "kcoreaddons5",
+    "kdbusaddons5",
+    "kdnssd5",
+    "kdsoap-qt5",
+    "ki18n5",
+    "kio5",
+    "libimobiledevice",
+    "libkexiv2-qt5",
+    "libmtp",
+    "libplist",
+    "libssh",
+    "libtirpc",
+    "libxcursor",
+    "phonon-qt5",
+    "kactivities5",
+    "qt5-base",
+    "qt5-svg",
+    "smbclient",
+    "solid5",
+    "syntax-highlighting5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "gperf",
+    "kdoctools5",
+    "libappimage",
+    "openexr",
+    "kactivities-stats5",
+    "taglib"
+  ],
+  "receive": 199292454,
+  "transmit": 349700,
+  "disk": 9899834
+}
