@@ -1,0 +1,17 @@
+{
+  "name": "ruby-minitest-sprint",
+  "version": "1.2.2-1",
+  "depends": [
+    "ruby",
+    "ruby-minitest",
+    "ruby-path_expander"
+  ],
+  "makedepends": [
+    "ruby-rdoc",
+    "ruby-rake",
+    "ruby-hoe"
+  ],
+  "receive": 199394108,
+  "transmit": 431293,
+  "disk": 118726
+}
