@@ -1,0 +1,17 @@
+{
+  "name": "qt6-serialport",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199394260,
+  "transmit": 366938,
+  "disk": 3065626
+}
