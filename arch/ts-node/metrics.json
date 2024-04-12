@@ -1,0 +1,14 @@
+{
+  "name": "ts-node",
+  "version": "10.9.2-1",
+  "depends": [
+    "nodejs",
+    "typescript"
+  ],
+  "makedepends": [
+    "npm"
+  ],
+  "receive": 199426645,
+  "transmit": 370452,
+  "disk": 314073
+}
