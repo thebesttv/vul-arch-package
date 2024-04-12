@@ -1,0 +1,29 @@
+{
+  "name": "kio-gdrive",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kaccounts-integration",
+    "kaccounts-providers",
+    "kcoreaddons",
+    "kdeclarative",
+    "ki18n",
+    "kio",
+    "knotifications",
+    "kwidgetsaddons",
+    "libaccounts-qt",
+    "libkgapi",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "intltool",
+    "kdoctools",
+    "purpose"
+  ],
+  "receive": 199405717,
+  "transmit": 424903,
+  "disk": 1193917
+}
