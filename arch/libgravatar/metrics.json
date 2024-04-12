@@ -1,0 +1,24 @@
+{
+  "name": "libgravatar",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "ki18n",
+    "ktextwidgets",
+    "kwidgetsaddons",
+    "pimcommon",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199293217,
+  "transmit": 361613,
+  "disk": 675148
+}
