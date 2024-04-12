@@ -1,0 +1,11 @@
+{
+  "name": "ruby-minitest-rg",
+  "version": "5.3.0-1",
+  "depends": [
+    "ruby-minitest"
+  ],
+  "makedepends": [],
+  "receive": 199431556,
+  "transmit": 421837,
+  "disk": 136427
+}
