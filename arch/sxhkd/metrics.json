@@ -1,0 +1,14 @@
+{
+  "name": "sxhkd",
+  "version": "0.6.2-3",
+  "depends": [
+    "xcb-util-keysyms"
+  ],
+  "makedepends": [
+    "git",
+    "xcb-util"
+  ],
+  "receive": 199562424,
+  "transmit": 482163,
+  "disk": 1008689
+}
