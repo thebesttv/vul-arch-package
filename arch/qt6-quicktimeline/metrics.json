@@ -1,0 +1,17 @@
+{
+  "name": "qt6-quicktimeline",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199342117,
+  "transmit": 374591,
+  "disk": 697688
+}
