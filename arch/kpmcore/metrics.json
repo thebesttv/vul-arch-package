@@ -1,0 +1,21 @@
+{
+  "name": "kpmcore",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kwidgetsaddons",
+    "polkit-qt6",
+    "qt6-base",
+    "smartmontools",
+    "util-linux-libs"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199378885,
+  "transmit": 358354,
+  "disk": 9377923
+}
