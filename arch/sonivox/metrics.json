@@ -1,0 +1,14 @@
+{
+  "name": "sonivox",
+  "version": "3.6.12-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest"
+  ],
+  "receive": 199317719,
+  "transmit": 372489,
+  "disk": 40844271
+}
