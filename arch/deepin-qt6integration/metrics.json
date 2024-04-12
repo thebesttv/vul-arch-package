@@ -1,0 +1,22 @@
+{
+  "name": "deepin-qt6integration",
+  "version": "6.0.4-4",
+  "depends": [
+    "dtk6core",
+    "dtk6gui",
+    "dtk6widget",
+    "qt6-base",
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-tools",
+    "xcb-util-renderutil",
+    "gtest"
+  ],
+  "receive": 199227176,
+  "transmit": 296462,
+  "disk": 1353970
+}
