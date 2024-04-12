@@ -1,0 +1,23 @@
+{
+  "name": "kimap",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kio",
+    "kmime",
+    "libsasl",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199453151,
+  "transmit": 415643,
+  "disk": 1552002
+}
