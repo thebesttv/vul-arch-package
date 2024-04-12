@@ -1,0 +1,19 @@
+{
+  "name": "qt6-declarative",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "python",
+    "qt6-languageserver",
+    "qt6-shadertools"
+  ],
+  "receive": 235287651,
+  "transmit": 724455,
+  "disk": 190662309
+}
