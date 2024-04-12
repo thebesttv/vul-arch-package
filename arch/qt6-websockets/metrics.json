@@ -1,0 +1,17 @@
+{
+  "name": "qt6-websockets",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-declarative"
+  ],
+  "receive": 200036543,
+  "transmit": 529316,
+  "disk": 3522618
+}
