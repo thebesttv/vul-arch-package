@@ -1,0 +1,19 @@
+{
+  "name": "kmbox",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kmime",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199503972,
+  "transmit": 403766,
+  "disk": 407118
+}
