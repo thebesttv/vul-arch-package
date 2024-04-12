@@ -1,0 +1,13 @@
+{
+  "name": "qt6-translations",
+  "version": "6.7.0-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-tools"
+  ],
+  "receive": 200169838,
+  "transmit": 986780,
+  "disk": 21426020
+}
