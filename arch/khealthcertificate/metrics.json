@@ -1,0 +1,21 @@
+{
+  "name": "khealthcertificate",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcodecs",
+    "ki18n",
+    "openssl",
+    "qt6-base",
+    "zlib"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt6-declarative"
+  ],
+  "receive": 199319524,
+  "transmit": 324861,
+  "disk": 2476039
+}
