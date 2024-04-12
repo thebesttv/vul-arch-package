@@ -1,0 +1,15 @@
+{
+  "name": "fcitx-qt5",
+  "version": "1.2.7-24",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules",
+    "fcitx",
+    "libxkbcommon",
+    "qt5-base",
+    "qt6-base"
+  ],
+  "receive": 199458159,
+  "transmit": 404426,
+  "disk": 896895
+}
