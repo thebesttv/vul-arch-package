@@ -1,0 +1,19 @@
+{
+  "name": "qt6-quick3dphysics",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-declarative",
+    "qt6-quick3d"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-shadertools"
+  ],
+  "receive": 199373265,
+  "transmit": 378906,
+  "disk": 24594761
+}
