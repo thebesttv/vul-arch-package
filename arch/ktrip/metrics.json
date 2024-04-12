@@ -1,0 +1,24 @@
+{
+  "name": "ktrip",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "kirigami-addons",
+    "kpublictransport",
+    "qqc2-desktop-style",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "python"
+  ],
+  "receive": 199277597,
+  "transmit": 306983,
+  "disk": 3397155
+}
