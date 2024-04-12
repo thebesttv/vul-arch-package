@@ -1,0 +1,12 @@
+{
+  "name": "sx",
+  "version": "3.0-1",
+  "depends": [
+    "xorg-server",
+    "xorg-xauth"
+  ],
+  "makedepends": [],
+  "receive": 199325605,
+  "transmit": 379765,
+  "disk": 107671
+}
