@@ -1,0 +1,18 @@
+{
+  "name": "usbctl",
+  "version": "1.2-2",
+  "depends": [
+    "linux-hardened",
+    "bash",
+    "usbutils",
+    "coreutils",
+    "diffutils",
+    "procps-ng",
+    "grep",
+    "util-linux"
+  ],
+  "makedepends": [],
+  "receive": 199306696,
+  "transmit": 357169,
+  "disk": 136050
+}
