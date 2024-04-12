@@ -1,0 +1,20 @@
+{
+  "name": "qt6-imageformats",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "jasper",
+    "libmng",
+    "libtiff",
+    "libwebp",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199465842,
+  "transmit": 389204,
+  "disk": 12009037
+}
