@@ -1,0 +1,17 @@
+{
+  "name": "libkdcraw",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libraw"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt5-base",
+    "qt6-base"
+  ],
+  "receive": 199535383,
+  "transmit": 428373,
+  "disk": 504007
+}
