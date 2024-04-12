@@ -1,0 +1,22 @@
+{
+  "name": "kjournald",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "qqc2-desktop-style",
+    "qt6-base",
+    "qt6-declarative",
+    "systemd",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199252647,
+  "transmit": 288590,
+  "disk": 1840903
+}
