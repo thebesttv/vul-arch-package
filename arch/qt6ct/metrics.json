@@ -1,0 +1,17 @@
+{
+  "name": "qt6ct",
+  "version": "0.9-7",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-svg"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt6-tools"
+  ],
+  "receive": 199617176,
+  "transmit": 394821,
+  "disk": 1566759
+}
