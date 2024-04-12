@@ -1,0 +1,34 @@
+{
+  "name": "kwalletmanager",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kauth",
+    "kcmutils",
+    "kcodecs",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kio",
+    "kitemviews",
+    "kservice",
+    "kstatusnotifieritem",
+    "kwallet",
+    "kwidgetsaddons",
+    "kwindowsystem",
+    "kxmlgui",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199331756,
+  "transmit": 378395,
+  "disk": 5359280
+}
