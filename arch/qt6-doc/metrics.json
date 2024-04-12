@@ -1,0 +1,31 @@
+{
+  "name": "qt6-doc",
+  "version": "6.7.0-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "clang",
+    "cmake",
+    "cups",
+    "freetds",
+    "gperf",
+    "gst-plugins-base-libs",
+    "gtk3",
+    "libpulse",
+    "libxkbfile",
+    "llvm",
+    "mariadb-libs",
+    "ninja",
+    "nodejs",
+    "postgresql",
+    "python",
+    "python-html5lib",
+    "qt6-declarative",
+    "qt6-tools",
+    "unixodbc",
+    "vulkan-headers"
+  ],
+  "receive": 1140963920,
+  "transmit": 4363118,
+  "disk": 5320351174
+}
