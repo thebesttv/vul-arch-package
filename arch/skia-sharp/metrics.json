@@ -1,0 +1,22 @@
+{
+  "name": "skia-sharp",
+  "version": "2.88.8-1",
+  "depends": [
+    "expat",
+    "fontconfig",
+    "libfreetype.so",
+    "libjpeg-turbo",
+    "libheif",
+    "libpng",
+    "libwebp",
+    "zlib"
+  ],
+  "makedepends": [
+    "clang",
+    "git",
+    "python"
+  ],
+  "receive": 1346668868,
+  "transmit": 4942403,
+  "disk": 1361702386
+}
