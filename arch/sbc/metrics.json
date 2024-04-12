@@ -1,0 +1,13 @@
+{
+  "name": "sbc",
+  "version": "2.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 199288083,
+  "transmit": 322187,
+  "disk": 738567
+}
