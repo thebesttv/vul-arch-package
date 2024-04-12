@@ -1,0 +1,19 @@
+{
+  "name": "kpkpass",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199566058,
+  "transmit": 566048,
+  "disk": 340642
+}
