@@ -1,0 +1,15 @@
+{
+  "name": "qt6-quickeffectmaker",
+  "version": "6.7.0-1",
+  "depends": [
+    "qt6-shadertools",
+    "qt6-quick3d"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199392502,
+  "transmit": 412498,
+  "disk": 10362764
+}
