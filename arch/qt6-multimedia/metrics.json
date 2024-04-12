@@ -1,0 +1,23 @@
+{
+  "name": "qt6-multimedia",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libpulse",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ffmpeg",
+    "gst-plugins-base",
+    "libxrandr",
+    "ninja",
+    "qt6-declarative",
+    "qt6-quick3d",
+    "qt6-shadertools"
+  ],
+  "receive": 200100748,
+  "transmit": 840025,
+  "disk": 33537722
+}
