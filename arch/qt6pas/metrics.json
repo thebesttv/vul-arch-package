@@ -1,0 +1,11 @@
+{
+  "name": "qt6pas",
+  "version": "6.2.7-2",
+  "depends": [
+    "qt6-base"
+  ],
+  "makedepends": [],
+  "receive": 245016285,
+  "transmit": 424019,
+  "disk": 263234021
+}
