@@ -1,0 +1,42 @@
+{
+  "name": "akonadi-calendar",
+  "version": "24.02.2-1",
+  "depends": [
+    "akonadi-contacts",
+    "akonadi-mime",
+    "gcc-libs",
+    "glibc",
+    "gpgme",
+    "kcalendarcore",
+    "kcalutils",
+    "kcodecs",
+    "kconfig",
+    "kcontacts",
+    "kcoreaddons",
+    "kdbusaddons",
+    "ki18n",
+    "kidentitymanagement",
+    "kio",
+    "kitemmodels",
+    "kmailtransport",
+    "kmime",
+    "knotifications",
+    "kservice",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libakonadi",
+    "libkleo",
+    "messagelib",
+    "qgpgme-qt6",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199316748,
+  "transmit": 370409,
+  "disk": 5939838
+}
