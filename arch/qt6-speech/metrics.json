@@ -1,0 +1,20 @@
+{
+  "name": "qt6-speech",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "qt6-multimedia"
+  ],
+  "makedepends": [
+    "cmake",
+    "flite",
+    "ninja",
+    "qt6-declarative",
+    "speech-dispatcher"
+  ],
+  "receive": 199306760,
+  "transmit": 338943,
+  "disk": 1298286
+}
