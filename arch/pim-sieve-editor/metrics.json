@@ -1,0 +1,31 @@
+{
+  "name": "pim-sieve-editor",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kbookmarks",
+    "kcolorscheme",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kcrash",
+    "kdbusaddons",
+    "ki18n",
+    "kmailtransport",
+    "kuserfeedback",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "libksieve",
+    "pimcommon",
+    "qt6-base",
+    "qtkeychain-qt6"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199393057,
+  "transmit": 347476,
+  "disk": 2882800
+}
