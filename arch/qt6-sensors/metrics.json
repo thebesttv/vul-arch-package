@@ -1,0 +1,17 @@
+{
+  "name": "qt6-sensors",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "qt6-declarative"
+  ],
+  "receive": 199355920,
+  "transmit": 359916,
+  "disk": 6935514
+}
