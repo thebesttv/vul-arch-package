@@ -1,0 +1,17 @@
+{
+  "name": "qt6-svg",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199381451,
+  "transmit": 373152,
+  "disk": 8592430
+}
