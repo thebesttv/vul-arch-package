@@ -1,0 +1,24 @@
+{
+  "name": "isoimagewriter",
+  "version": "24.02.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gpgme",
+    "karchive",
+    "kcoreaddons",
+    "kcrash",
+    "ki18n",
+    "kiconthemes",
+    "kwidgetsaddons",
+    "qgpgme-qt6",
+    "qt6-base",
+    "solid"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199379102,
+  "transmit": 413853,
+  "disk": 2122216
+}
