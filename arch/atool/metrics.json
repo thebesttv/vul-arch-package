@@ -1,0 +1,12 @@
+{
+  "name": "atool",
+  "version": "0.39.0-9",
+  "depends": [
+    "file",
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 199296989,
+  "transmit": 326478,
+  "disk": 671821
+}
