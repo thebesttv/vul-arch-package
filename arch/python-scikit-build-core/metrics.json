@@ -1,0 +1,22 @@
+{
+  "name": "python-scikit-build-core",
+  "version": "0.8.2-2",
+  "depends": [
+    "cmake",
+    "ninja",
+    "python-cattrs",
+    "python-packaging",
+    "python-pathspec",
+    "python-pyproject-metadata",
+    "python-rich"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-hatch-vcs",
+    "python-installer"
+  ],
+  "receive": 199237865,
+  "transmit": 278586,
+  "disk": 1690239
+}
