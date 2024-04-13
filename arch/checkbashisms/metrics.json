@@ -1,0 +1,11 @@
+{
+  "name": "checkbashisms",
+  "version": "2.23.7-1",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [],
+  "receive": 201219052,
+  "transmit": 422064,
+  "disk": 9406065
+}
