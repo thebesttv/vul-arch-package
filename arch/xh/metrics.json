@@ -1,0 +1,14 @@
+{
+  "name": "xh",
+  "version": "0.22.0-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199383007,
+  "transmit": 368625,
+  "disk": 1457660
+}
