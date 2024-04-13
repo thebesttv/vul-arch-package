@@ -1,0 +1,30 @@
+{
+  "name": "cardinal",
+  "version": "24.04-1",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "dbus",
+    "file",
+    "fftw",
+    "gcc-libs",
+    "gendesk",
+    "git",
+    "glibc",
+    "jansson",
+    "libarchive",
+    "libglvnd",
+    "liblo",
+    "libsndfile",
+    "libsamplerate",
+    "libx11",
+    "libxext",
+    "libxrandr",
+    "mold",
+    "python",
+    "speexdsp"
+  ],
+  "receive": 647612523,
+  "transmit": 729016,
+  "disk": 1602584200
+}
