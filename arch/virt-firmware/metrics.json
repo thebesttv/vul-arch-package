@@ -1,0 +1,19 @@
+{
+  "name": "virt-firmware",
+  "version": "24.4-1",
+  "depends": [
+    "python",
+    "python-crc32c",
+    "python-cryptography",
+    "python-pefile",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199350258,
+  "transmit": 333084,
+  "disk": 608708
+}
