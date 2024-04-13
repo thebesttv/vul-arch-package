@@ -1,0 +1,20 @@
+{
+  "name": "cargo-tarpaulin",
+  "version": "0.28.0-1",
+  "depends": [
+    "cargo",
+    "gcc-libs",
+    "glibc",
+    "libcurl.so",
+    "openssl",
+    "libssh2",
+    "libgit2",
+    "zlib"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 203733362,
+  "transmit": 383083,
+  "disk": 6472444
+}
