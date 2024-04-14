@@ -1,0 +1,19 @@
+{
+  "name": "sniffnet",
+  "version": "1.3.0-2",
+  "depends": [
+    "alsa-lib",
+    "fontconfig",
+    "libpcap",
+    "freetype2",
+    "glibc",
+    "zenity",
+    "xdg-desktop-portal"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 204301060,
+  "transmit": 500731,
+  "disk": 90614334
+}
