@@ -1,0 +1,21 @@
+{
+  "name": "kjobwidgets",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcoreaddons",
+    "knotifications",
+    "kwidgetsaddons",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 201698690,
+  "transmit": 287444,
+  "disk": 24622942
+}
