@@ -1,0 +1,13 @@
+{
+  "name": "coin-or-osi",
+  "version": "0.108.10-1",
+  "depends": [
+    "coin-or-coinutils"
+  ],
+  "makedepends": [
+    "gcc-fortran"
+  ],
+  "receive": 199389266,
+  "transmit": 431787,
+  "disk": 6420178
+}
