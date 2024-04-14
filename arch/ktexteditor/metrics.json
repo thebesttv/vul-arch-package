@@ -1,0 +1,39 @@
+{
+  "name": "ktexteditor",
+  "version": "6.1.0-1",
+  "depends": [
+    "editorconfig-core-c",
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kauth",
+    "kcodecs",
+    "kcolorscheme",
+    "kcompletion",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kguiaddons",
+    "ki18n",
+    "kio",
+    "kitemviews",
+    "kparts",
+    "ktextwidgets",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-declarative",
+    "qt6-base",
+    "qt6-speech",
+    "sonnet",
+    "syntax-highlighting"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 202273447,
+  "transmit": 343906,
+  "disk": 37614021
+}
