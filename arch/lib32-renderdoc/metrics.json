@@ -1,0 +1,19 @@
+{
+  "name": "lib32-renderdoc",
+  "version": "1.32-1",
+  "depends": [
+    "lib32-libx11",
+    "lib32-libxcb",
+    "lib32-mesa",
+    "lib32-libgl",
+    "lib32-xcb-util-keysyms"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "ninja"
+  ],
+  "receive": 252892153,
+  "transmit": 1129543,
+  "disk": 238855600
+}
