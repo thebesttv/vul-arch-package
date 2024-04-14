@@ -1,0 +1,14 @@
+{
+  "name": "fq",
+  "version": "0.11.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 208852749,
+  "transmit": 953012,
+  "disk": 134354454
+}
