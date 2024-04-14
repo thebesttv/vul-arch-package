@@ -1,0 +1,19 @@
+{
+  "name": "kcodecs",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "gperf",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199515192,
+  "transmit": 424133,
+  "disk": 26781365
+}
