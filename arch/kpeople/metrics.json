@@ -1,0 +1,24 @@
+{
+  "name": "kpeople",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcontacts",
+    "kcoreaddons",
+    "ki18n",
+    "kitemviews",
+    "kwidgetsaddons",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199379619,
+  "transmit": 297802,
+  "disk": 915902
+}
