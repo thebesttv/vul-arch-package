@@ -1,0 +1,19 @@
+{
+  "name": "syndication",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcodecs",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199438830,
+  "transmit": 476275,
+  "disk": 6459442
+}
