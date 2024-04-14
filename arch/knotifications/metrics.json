@@ -1,0 +1,21 @@
+{
+  "name": "knotifications",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "libcanberra",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199239341,
+  "transmit": 291153,
+  "disk": 25032495
+}
