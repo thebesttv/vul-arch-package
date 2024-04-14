@@ -1,0 +1,30 @@
+{
+  "name": "kcmutils",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kconfigwidgets",
+    "kcoreaddons",
+    "kguiaddons",
+    "ki18n",
+    "kio",
+    "kirigami",
+    "kitemviews",
+    "kservice",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199375961,
+  "transmit": 404299,
+  "disk": 26901657
+}
