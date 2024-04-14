@@ -1,0 +1,13 @@
+{
+  "name": "less",
+  "version": "1:643-2",
+  "depends": [
+    "glibc",
+    "ncurses",
+    "pcre2"
+  ],
+  "makedepends": [],
+  "receive": 199354292,
+  "transmit": 353648,
+  "disk": 9614841
+}
