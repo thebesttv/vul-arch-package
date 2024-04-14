@@ -1,0 +1,19 @@
+{
+  "name": "haskell-tidal-link",
+  "version": "1.0.3-1",
+  "depends": [
+    "gcc-libs",
+    "ghc-libs",
+    "glibc",
+    "gmp"
+  ],
+  "makedepends": [
+    "ghc",
+    "libffi",
+    "numactl",
+    "uusi"
+  ],
+  "receive": 200298736,
+  "transmit": 440379,
+  "disk": 8348826
+}
