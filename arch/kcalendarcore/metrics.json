@@ -1,0 +1,19 @@
+{
+  "name": "kcalendarcore",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libical",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199310208,
+  "transmit": 286057,
+  "disk": 3271488
+}
