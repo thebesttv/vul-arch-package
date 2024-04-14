@@ -1,0 +1,21 @@
+{
+  "name": "kimageformats",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "karchive",
+    "libavif",
+    "libheif",
+    "libjxl",
+    "libraw",
+    "openexr"
+  ],
+  "receive": 215447235,
+  "transmit": 350465,
+  "disk": 52580605
+}
