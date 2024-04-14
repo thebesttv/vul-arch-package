@@ -1,0 +1,15 @@
+{
+  "name": "assimp",
+  "version": "5.4.0-1",
+  "depends": [
+    "zlib",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 229070818,
+  "transmit": 604971,
+  "disk": 197907061
+}
