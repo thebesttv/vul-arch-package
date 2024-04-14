@@ -1,0 +1,22 @@
+{
+  "name": "kpackage",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "karchive",
+    "kcoreaddons",
+    "ki18n",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "kdoctools",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 199589645,
+  "transmit": 406542,
+  "disk": 2235445
+}
