@@ -1,0 +1,19 @@
+{
+  "name": "syntax-highlighting",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "doxygen",
+    "extra-cmake-modules",
+    "qt6-declarative",
+    "qt6-doc",
+    "qt6-tools"
+  ],
+  "receive": 203017014,
+  "transmit": 400845,
+  "disk": 46408597
+}
