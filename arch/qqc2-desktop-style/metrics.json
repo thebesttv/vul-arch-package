@@ -1,0 +1,22 @@
+{
+  "name": "qqc2-desktop-style",
+  "version": "6.1.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "kiconthemes",
+    "kirigami",
+    "qt6-base",
+    "qt6-declarative",
+    "sonnet"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "qt6-tools"
+  ],
+  "receive": 199218950,
+  "transmit": 244781,
+  "disk": 952847
+}
