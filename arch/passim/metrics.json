@@ -1,0 +1,22 @@
+{
+  "name": "passim",
+  "version": "0.1.6-1",
+  "depends": [
+    "avahi",
+    "glib2",
+    "libgio-2.0.so",
+    "gnutls",
+    "hicolor-icon-theme",
+    "libsoup3",
+    "libsoup-3.0.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "gobject-introspection",
+    "meson",
+    "systemd"
+  ],
+  "receive": 199301928,
+  "transmit": 385564,
+  "disk": 652272
+}
