@@ -1,0 +1,13 @@
+{
+  "name": "havn",
+  "version": "0.1.10-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199400486,
+  "transmit": 414328,
+  "disk": 684573
+}
