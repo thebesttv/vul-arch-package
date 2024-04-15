@@ -1,0 +1,26 @@
+{
+  "name": "xf86-input-wacom",
+  "version": "1.2.2-1",
+  "depends": [
+    "libxi",
+    "libxinerama",
+    "libxrandr",
+    "systemd-libs",
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-server-devel",
+    "X-ABI-XINPUT_VERSION=24.4",
+    "meson",
+    "gobject-introspection",
+    "python-libevdev",
+    "python-pytest",
+    "python-yaml",
+    "python-gobject",
+    "python-attrs"
+  ],
+  "receive": 199445461,
+  "transmit": 423719,
+  "disk": 4341785
+}
