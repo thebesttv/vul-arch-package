@@ -1,0 +1,12 @@
+{
+  "name": "cargo-bloat",
+  "version": "0.12.0-1",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199396101,
+  "transmit": 402708,
+  "disk": 196519
+}
