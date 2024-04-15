@@ -1,0 +1,17 @@
+{
+  "name": "python-nampa",
+  "version": "1.0-4",
+  "depends": [
+    "python",
+    "python-future"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199320007,
+  "transmit": 359057,
+  "disk": 217505
+}
