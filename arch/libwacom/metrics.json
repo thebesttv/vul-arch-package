@@ -1,0 +1,17 @@
+{
+  "name": "libwacom",
+  "version": "2.11.0-1",
+  "depends": [
+    "glib2",
+    "libevdev",
+    "libgudev",
+    "glibc"
+  ],
+  "makedepends": [
+    "libxml2",
+    "meson"
+  ],
+  "receive": 199292683,
+  "transmit": 313255,
+  "disk": 1241985
+}
