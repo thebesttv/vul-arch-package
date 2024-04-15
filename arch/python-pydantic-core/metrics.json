@@ -1,0 +1,18 @@
+{
+  "name": "python-pydantic-core",
+  "version": "1:2.18.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-maturin"
+  ],
+  "receive": 199303901,
+  "transmit": 318808,
+  "disk": 3057401
+}
