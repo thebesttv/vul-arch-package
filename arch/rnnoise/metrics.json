@@ -1,0 +1,13 @@
+{
+  "name": "rnnoise",
+  "version": "1:0.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "wget"
+  ],
+  "receive": 199348696,
+  "transmit": 391685,
+  "disk": 653194
+}
