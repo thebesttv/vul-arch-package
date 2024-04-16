@@ -1,0 +1,13 @@
+{
+  "name": "kustomize",
+  "version": "5.4.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199287464,
+  "transmit": 337955,
+  "disk": 18110788
+}
