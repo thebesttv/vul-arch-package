@@ -1,0 +1,15 @@
+{
+  "name": "hugo",
+  "version": "0.125.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 199371285,
+  "transmit": 317295,
+  "disk": 51882978
+}
