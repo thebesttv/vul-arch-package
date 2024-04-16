@@ -1,0 +1,18 @@
+{
+  "name": "libfilezilla",
+  "version": "1:0.47.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "nettle",
+    "gnutls",
+    "libnettle.so",
+    "libhogweed.so"
+  ],
+  "makedepends": [
+    "clang"
+  ],
+  "receive": 199242327,
+  "transmit": 291834,
+  "disk": 4438029
+}
