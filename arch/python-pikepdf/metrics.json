@@ -1,0 +1,26 @@
+{
+  "name": "python-pikepdf",
+  "version": "8.15.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-deprecated",
+    "python-lxml",
+    "python-numpy",
+    "python-packaging",
+    "python-pillow",
+    "qpdf"
+  ],
+  "makedepends": [
+    "pybind11",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 199472322,
+  "transmit": 488103,
+  "disk": 7292368
+}
