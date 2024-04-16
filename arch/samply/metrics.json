@@ -1,0 +1,13 @@
+{
+  "name": "samply",
+  "version": "0.12.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 225256298,
+  "transmit": 671522,
+  "disk": 133939583
+}
