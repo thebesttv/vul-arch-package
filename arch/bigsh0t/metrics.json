@@ -1,0 +1,14 @@
+{
+  "name": "bigsh0t",
+  "version": "2.7-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "python"
+  ],
+  "receive": 199304490,
+  "transmit": 372062,
+  "disk": 1230423
+}
