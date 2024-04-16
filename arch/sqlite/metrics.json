@@ -1,0 +1,13 @@
+{
+  "name": "sqlite",
+  "version": "3.45.3-1",
+  "depends": [],
+  "makedepends": [
+    "tcl",
+    "readline",
+    "zlib"
+  ],
+  "receive": 224502152,
+  "transmit": 458440,
+  "disk": 169083927
+}
