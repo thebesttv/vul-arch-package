@@ -1,0 +1,17 @@
+{
+  "name": "lynx",
+  "version": "2.9.1-1",
+  "depends": [
+    "brotli",
+    "bzip2",
+    "glibc",
+    "libidn2",
+    "ncurses",
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199555270,
+  "transmit": 370853,
+  "disk": 17940431
+}
