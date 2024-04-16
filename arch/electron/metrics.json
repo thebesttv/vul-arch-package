@@ -1,0 +1,11 @@
+{
+  "name": "electron",
+  "version": "1:30-1",
+  "depends": [
+    "electron30"
+  ],
+  "makedepends": [],
+  "receive": 199204213,
+  "transmit": 271980,
+  "disk": 464816
+}
