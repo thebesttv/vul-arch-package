@@ -1,0 +1,17 @@
+{
+  "name": "nginx-mainline",
+  "version": "1.25.5-1",
+  "depends": [],
+  "makedepends": [
+    "mercurial",
+    "pcre2",
+    "zlib",
+    "openssl",
+    "geoip",
+    "mailcap",
+    "libxcrypt"
+  ],
+  "receive": 199344901,
+  "transmit": 293148,
+  "disk": 13548253
+}
