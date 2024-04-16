@@ -1,0 +1,15 @@
+{
+  "name": "aalib",
+  "version": "1.4rc5-18",
+  "depends": [
+    "glibc",
+    "gpm",
+    "libx11",
+    "ncurses",
+    "slang"
+  ],
+  "makedepends": [],
+  "receive": 199430339,
+  "transmit": 396022,
+  "disk": 2210287
+}
