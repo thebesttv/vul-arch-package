@@ -1,0 +1,28 @@
+{
+  "name": "filezilla",
+  "version": "3.67.0-1",
+  "depends": [
+    "dbus",
+    "libdbus-1.so",
+    "gtk3",
+    "libgtk-3.so",
+    "libgdk-3.so",
+    "hicolor-icon-theme",
+    "libfilezilla",
+    "libfilezilla.so",
+    "nettle",
+    "libnettle.so",
+    "sqlite",
+    "libsqlite3.so",
+    "wxwidgets-gtk3",
+    "xdg-utils"
+  ],
+  "makedepends": [
+    "boost",
+    "gnutls",
+    "libidn"
+  ],
+  "receive": 199632045,
+  "transmit": 486226,
+  "disk": 32187314
+}
