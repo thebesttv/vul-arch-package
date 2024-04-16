@@ -1,0 +1,14 @@
+{
+  "name": "hyprlang",
+  "version": "0.5.1-1",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199313858,
+  "transmit": 357273,
+  "disk": 432652
+}
