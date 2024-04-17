@@ -1,0 +1,16 @@
+{
+  "name": "openapi-generator",
+  "version": "7.5.0-1",
+  "depends": [
+    "bash",
+    "java-runtime=11"
+  ],
+  "makedepends": [
+    "maven",
+    "java-environment=11",
+    "strip-nondeterminism"
+  ],
+  "receive": 238411536,
+  "transmit": 884532,
+  "disk": 294287009
+}
