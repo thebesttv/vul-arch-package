@@ -1,0 +1,21 @@
+{
+  "name": "libnbd",
+  "version": "1.20.0-1",
+  "depends": [
+    "glibc",
+    "gnutls",
+    "libxml2"
+  ],
+  "makedepends": [
+    "perl",
+    "ocamlbuild",
+    "ocaml-findlib",
+    "rust",
+    "fuse3",
+    "python",
+    "go"
+  ],
+  "receive": 199267854,
+  "transmit": 293905,
+  "disk": 10145783
+}
