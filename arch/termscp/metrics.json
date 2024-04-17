@@ -1,0 +1,17 @@
+{
+  "name": "termscp",
+  "version": "0.13.0-2",
+  "depends": [
+    "gcc-libs",
+    "zlib",
+    "openssl",
+    "dbus",
+    "smbclient"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199193538,
+  "transmit": 251960,
+  "disk": 25795394
+}
