@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-observability-plugin",
+  "version": "2.13.0.0-1",
+  "depends": [
+    "opensearch=2.13.0"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 199344249,
+  "transmit": 276383,
+  "disk": 1014304
+}
