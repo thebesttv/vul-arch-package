@@ -1,0 +1,25 @@
+{
+  "name": "kactivitymanagerd",
+  "version": "6.0.4-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kcrash",
+    "kglobalaccel",
+    "ki18n",
+    "kio",
+    "kservice",
+    "kwindowsystem",
+    "kxmlgui",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "boost",
+    "extra-cmake-modules"
+  ],
+  "receive": 199506466,
+  "transmit": 488573,
+  "disk": 1355469
+}
