@@ -1,0 +1,23 @@
+{
+  "name": "java8-openjdk",
+  "version": "8.412.u08-1",
+  "depends": [],
+  "makedepends": [
+    "alsa-lib",
+    "bash",
+    "ccache",
+    "cpio",
+    "fontconfig",
+    "giflib",
+    "git",
+    "java-environment=8",
+    "libcups",
+    "libxrender",
+    "libxtst",
+    "unzip",
+    "zip"
+  ],
+  "receive": 295511730,
+  "transmit": 1279098,
+  "disk": 582323694
+}
