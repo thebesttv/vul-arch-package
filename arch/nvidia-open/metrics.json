@@ -1,0 +1,14 @@
+{
+  "name": "nvidia-open",
+  "version": "550.67-7",
+  "depends": [
+    "nvidia-utils=550.67",
+    "libglvnd"
+  ],
+  "makedepends": [
+    "linux-headers"
+  ],
+  "receive": 212970932,
+  "transmit": 496662,
+  "disk": 97068005
+}
