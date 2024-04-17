@@ -1,0 +1,11 @@
+{
+  "name": "jmol",
+  "version": "16.2.5-1",
+  "depends": [],
+  "makedepends": [
+    "unzip"
+  ],
+  "receive": 199511906,
+  "transmit": 430151,
+  "disk": 133297252
+}
