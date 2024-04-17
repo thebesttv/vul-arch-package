@@ -1,0 +1,13 @@
+{
+  "name": "mqttui",
+  "version": "0.21.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199271520,
+  "transmit": 305211,
+  "disk": 761689
+}
