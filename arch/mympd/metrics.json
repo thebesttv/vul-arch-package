@@ -1,0 +1,20 @@
+{
+  "name": "mympd",
+  "version": "14.1.2-1",
+  "depends": [
+    "glibc",
+    "lua"
+  ],
+  "makedepends": [
+    "cmake",
+    "flac",
+    "jq",
+    "libid3tag",
+    "openssl",
+    "pcre2",
+    "perl"
+  ],
+  "receive": 199232753,
+  "transmit": 288745,
+  "disk": 10160450
+}
