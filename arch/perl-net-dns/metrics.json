@@ -1,0 +1,12 @@
+{
+  "name": "perl-net-dns",
+  "version": "1.44-1",
+  "depends": [
+    "perl-digest-hmac",
+    "perl-net-ip"
+  ],
+  "makedepends": [],
+  "receive": 199369231,
+  "transmit": 351272,
+  "disk": 1557719
+}
