@@ -1,0 +1,13 @@
+{
+  "name": "tup",
+  "version": "0.8-2",
+  "depends": [
+    "fuse3",
+    "glibc",
+    "pcre2"
+  ],
+  "makedepends": [],
+  "receive": 204401989,
+  "transmit": 270067,
+  "disk": 22522890
+}
