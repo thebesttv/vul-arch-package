@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-anomaly-detection-plugin",
+  "version": "2.13.0.0-1",
+  "depends": [
+    "opensearch=2.13.0"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 201332002,
+  "transmit": 280152,
+  "disk": 10924956
+}
