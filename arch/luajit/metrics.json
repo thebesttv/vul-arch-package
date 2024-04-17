@@ -1,0 +1,11 @@
+{
+  "name": "luajit",
+  "version": "2.1.1710088188-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199839495,
+  "transmit": 576981,
+  "disk": 5618547
+}
