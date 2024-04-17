@@ -1,0 +1,11 @@
+{
+  "name": "oxygen-sounds",
+  "version": "6.0.4-1",
+  "depends": [],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199354246,
+  "transmit": 332444,
+  "disk": 4337299
+}
