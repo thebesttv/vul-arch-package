@@ -1,0 +1,23 @@
+{
+  "name": "plasma-firewall",
+  "version": "6.0.4-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kauth",
+    "kcmutils",
+    "kconfig",
+    "kcoreaddons",
+    "ki18n",
+    "kirigami",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "python"
+  ],
+  "receive": 199489528,
+  "transmit": 462349,
+  "disk": 2160719
+}
