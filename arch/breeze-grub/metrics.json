@@ -1,0 +1,11 @@
+{
+  "name": "breeze-grub",
+  "version": "6.0.4-1",
+  "depends": [
+    "grub"
+  ],
+  "makedepends": [],
+  "receive": 199214890,
+  "transmit": 246873,
+  "disk": 6663862
+}
