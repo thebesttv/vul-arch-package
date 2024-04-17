@@ -1,0 +1,19 @@
+{
+  "name": "bitcoin",
+  "version": "27.0-1",
+  "depends": [],
+  "makedepends": [
+    "boost",
+    "db5.3",
+    "libevent",
+    "libminiupnpc.so",
+    "libsqlite3.so",
+    "libzmq.so",
+    "qrencode",
+    "qt5-base",
+    "qt5-tools"
+  ],
+  "receive": 212904904,
+  "transmit": 637526,
+  "disk": 59718878
+}
