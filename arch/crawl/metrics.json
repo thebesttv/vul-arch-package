@@ -1,0 +1,31 @@
+{
+  "name": "crawl",
+  "version": "0.31.0-2",
+  "depends": [],
+  "makedepends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "lua51",
+    "sqlite",
+    "zlib",
+    "freetype2",
+    "glu",
+    "libglvnd",
+    "sdl2",
+    "sdl2_image",
+    "sdl2_mixer",
+    "ttf-dejavu",
+    "ncurses",
+    "bison",
+    "flex",
+    "imagemagick",
+    "mesa",
+    "perl",
+    "pngcrush",
+    "python-yaml"
+  ],
+  "receive": 219015878,
+  "transmit": 424720,
+  "disk": 77087720
+}
