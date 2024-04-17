@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-sql-plugin",
+  "version": "2.13.0.0-1",
+  "depends": [
+    "opensearch=2.13.0"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 209818032,
+  "transmit": 449777,
+  "disk": 79154866
+}
