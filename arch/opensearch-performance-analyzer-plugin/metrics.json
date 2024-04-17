@@ -1,0 +1,15 @@
+{
+  "name": "opensearch-performance-analyzer-plugin",
+  "version": "2.13.0.0-1",
+  "depends": [
+    "opensearch=2.13.0"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip",
+    "git"
+  ],
+  "receive": 216000101,
+  "transmit": 385662,
+  "disk": 46452813
+}
