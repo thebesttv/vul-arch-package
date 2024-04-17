@@ -1,0 +1,15 @@
+{
+  "name": "opensearch-index-management-plugin",
+  "version": "2.13.0.0-1",
+  "depends": [
+    "opensearch=2.13.0",
+    "opensearch-notifications-plugin"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 199437880,
+  "transmit": 397855,
+  "disk": 7665717
+}
