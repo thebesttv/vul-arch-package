@@ -1,0 +1,13 @@
+{
+  "name": "terraform",
+  "version": "1.8.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 205986081,
+  "transmit": 409132,
+  "disk": 37269240
+}
