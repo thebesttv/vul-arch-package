@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-reports-scheduler-plugin",
+  "version": "2.13.0.0-1",
+  "depends": [
+    "opensearch=2.13.0"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 199246445,
+  "transmit": 276078,
+  "disk": 27498837
+}
