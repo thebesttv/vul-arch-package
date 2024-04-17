@@ -1,0 +1,22 @@
+{
+  "name": "qqc2-breeze-style",
+  "version": "6.0.4-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kcolorscheme",
+    "kconfig",
+    "kguiaddons",
+    "kiconthemes",
+    "kirigami",
+    "kquickcharts",
+    "qt6-base",
+    "qt6-declarative"
+  ],
+  "makedepends": [
+    "extra-cmake-modules"
+  ],
+  "receive": 199387598,
+  "transmit": 380171,
+  "disk": 648483
+}
