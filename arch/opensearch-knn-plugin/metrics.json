@@ -1,0 +1,14 @@
+{
+  "name": "opensearch-knn-plugin",
+  "version": "2.13.0.0-1",
+  "depends": [
+    "opensearch=2.13.0"
+  ],
+  "makedepends": [
+    "java-environment=11",
+    "unzip"
+  ],
+  "receive": 199393083,
+  "transmit": 430642,
+  "disk": 18469955
+}
