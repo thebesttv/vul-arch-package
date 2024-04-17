@@ -1,0 +1,13 @@
+{
+  "name": "bob",
+  "version": "2.9.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199353464,
+  "transmit": 392815,
+  "disk": 1969336
+}
