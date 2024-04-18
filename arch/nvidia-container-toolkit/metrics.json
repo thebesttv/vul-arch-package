@@ -1,0 +1,14 @@
+{
+  "name": "nvidia-container-toolkit",
+  "version": "1.15.0-1",
+  "depends": [
+    "glibc",
+    "libnvidia-container=1.15.0"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199304619,
+  "transmit": 369451,
+  "disk": 17365798
+}
