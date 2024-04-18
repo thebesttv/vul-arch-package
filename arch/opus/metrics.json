@@ -1,0 +1,14 @@
+{
+  "name": "opus",
+  "version": "1.5.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "doxygen",
+    "meson"
+  ],
+  "receive": 207170430,
+  "transmit": 273154,
+  "disk": 31154201
+}
