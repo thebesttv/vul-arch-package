@@ -1,0 +1,12 @@
+{
+  "name": "broadcom-wl",
+  "version": "6.30.223.271-543",
+  "depends": [],
+  "makedepends": [
+    "linux-headers",
+    "broadcom-wl-dkms=6.30.223.271"
+  ],
+  "receive": 199241779,
+  "transmit": 249777,
+  "disk": 466277
+}
