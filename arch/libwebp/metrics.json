@@ -1,0 +1,18 @@
+{
+  "name": "libwebp",
+  "version": "1.4.0-1",
+  "depends": [
+    "giflib",
+    "glibc",
+    "libjpeg",
+    "libpng",
+    "libtiff"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199296098,
+  "transmit": 325262,
+  "disk": 14394303
+}
