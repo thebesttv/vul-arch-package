@@ -1,0 +1,16 @@
+{
+  "name": "rattler-build",
+  "version": "0.15.0-1",
+  "depends": [
+    "gcc-libs",
+    "openssl",
+    "bzip2",
+    "xz"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199366478,
+  "transmit": 390193,
+  "disk": 3119884
+}
