@@ -1,0 +1,15 @@
+{
+  "name": "lib32-opus",
+  "version": "1.5.2-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "opus"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 205103120,
+  "transmit": 421809,
+  "disk": 31144587
+}
