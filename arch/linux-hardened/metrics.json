@@ -1,0 +1,24 @@
+{
+  "name": "linux-hardened",
+  "version": "6.8.7.hardened1-2",
+  "depends": [],
+  "makedepends": [
+    "bc",
+    "cpio",
+    "gettext",
+    "libelf",
+    "pahole",
+    "perl",
+    "python",
+    "tar",
+    "xz",
+    "graphviz",
+    "imagemagick",
+    "python-sphinx",
+    "python-yaml",
+    "texlive-latexextra"
+  ],
+  "receive": 343365327,
+  "transmit": 521933,
+  "disk": 1564255912
+}
