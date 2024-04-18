@@ -1,0 +1,12 @@
+{
+  "name": "virtualbox-host-modules-arch",
+  "version": "7.0.16-2",
+  "depends": [],
+  "makedepends": [
+    "linux-headers",
+    "virtualbox-host-dkms=7.0.16"
+  ],
+  "receive": 199518905,
+  "transmit": 281326,
+  "disk": 376585
+}
