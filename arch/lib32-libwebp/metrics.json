@@ -1,0 +1,16 @@
+{
+  "name": "lib32-libwebp",
+  "version": "1.4.0-1",
+  "depends": [
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "libwebp"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 199252990,
+  "transmit": 305881,
+  "disk": 14380554
+}
