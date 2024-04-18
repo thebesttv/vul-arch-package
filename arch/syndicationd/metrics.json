@@ -1,0 +1,13 @@
+{
+  "name": "syndicationd",
+  "version": "0.2.2-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199219070,
+  "transmit": 268177,
+  "disk": 16415851
+}
