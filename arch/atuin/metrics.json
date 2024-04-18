@@ -1,0 +1,14 @@
+{
+  "name": "atuin",
+  "version": "18.2.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199409154,
+  "transmit": 380086,
+  "disk": 4444362
+}
