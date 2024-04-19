@@ -1,0 +1,14 @@
+{
+  "name": "gnome-shell-extension-appindicator",
+  "version": "1:58-1",
+  "depends": [
+    "gnome-shell"
+  ],
+  "makedepends": [
+    "jq",
+    "meson"
+  ],
+  "receive": 199185158,
+  "transmit": 237372,
+  "disk": 526829
+}
