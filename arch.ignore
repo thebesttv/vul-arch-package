@@ -986,3 +986,4 @@ docker 1:26.0.2-1
 flatpak 1:1.15.8-1
 libgtop 2.41.3-2
 docker-buildx 0.14.0-1
+uv 0.1.34-1
