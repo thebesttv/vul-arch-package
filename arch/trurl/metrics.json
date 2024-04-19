@@ -1,0 +1,12 @@
+{
+  "name": "trurl",
+  "version": "0.12-1",
+  "depends": [
+    "curl",
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199302478,
+  "transmit": 402967,
+  "disk": 389044
+}
