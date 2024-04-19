@@ -1,0 +1,13 @@
+{
+  "name": "ttyper",
+  "version": "1.4.1-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199218342,
+  "transmit": 257171,
+  "disk": 2636062
+}
