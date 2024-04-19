@@ -1,0 +1,13 @@
+{
+  "name": "libjuice",
+  "version": "1.4.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199254670,
+  "transmit": 309440,
+  "disk": 719347
+}
