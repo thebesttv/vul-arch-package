@@ -984,3 +984,4 @@ gunicorn 22.0.0-1
 pyright 1.1.359-1
 docker 1:26.0.2-1
 flatpak 1:1.15.8-1
+libgtop 2.41.3-2
