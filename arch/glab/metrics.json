@@ -1,0 +1,13 @@
+{
+  "name": "glab",
+  "version": "1.39.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199302195,
+  "transmit": 354495,
+  "disk": 36313529
+}
