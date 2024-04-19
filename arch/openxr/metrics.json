@@ -1,0 +1,23 @@
+{
+  "name": "openxr",
+  "version": "1.1.36-1",
+  "depends": [
+    "jsoncpp",
+    "libx11",
+    "vulkan-icd-loader",
+    "libglvnd",
+    "libxrandr",
+    "libxxf86vm"
+  ],
+  "makedepends": [
+    "cmake",
+    "vulkan-headers",
+    "python",
+    "ninja",
+    "wayland",
+    "mesa"
+  ],
+  "receive": 199285772,
+  "transmit": 355819,
+  "disk": 12746045
+}
