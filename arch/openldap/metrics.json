@@ -1,0 +1,17 @@
+{
+  "name": "openldap",
+  "version": "2.6.7-2",
+  "depends": [],
+  "makedepends": [
+    "libtool",
+    "libsasl",
+    "util-linux",
+    "chrpath",
+    "unixodbc",
+    "libsodium",
+    "systemd"
+  ],
+  "receive": 205789453,
+  "transmit": 356989,
+  "disk": 35978576
+}
