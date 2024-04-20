@@ -1,0 +1,13 @@
+{
+  "name": "pulumi",
+  "version": "3.113.3-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 252985593,
+  "transmit": 804058,
+  "disk": 468314839
+}
