@@ -1,0 +1,28 @@
+{
+  "name": "swaync",
+  "version": "0.10.1-2",
+  "depends": [
+    "gtk3",
+    "gtk-layer-shell",
+    "dbus",
+    "glib2",
+    "gobject-introspection",
+    "libgee",
+    "json-glib",
+    "libhandy",
+    "libpulse",
+    "gvfs",
+    "libnotify",
+    "granite"
+  ],
+  "makedepends": [
+    "vala",
+    "meson",
+    "git",
+    "scdoc",
+    "sassc"
+  ],
+  "receive": 199086029,
+  "transmit": 298359,
+  "disk": 4159521
+}
