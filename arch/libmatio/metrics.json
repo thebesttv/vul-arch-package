@@ -1,0 +1,13 @@
+{
+  "name": "libmatio",
+  "version": "1.5.27-1",
+  "depends": [
+    "glibc",
+    "hdf5",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 199042708,
+  "transmit": 248542,
+  "disk": 43227705
+}
