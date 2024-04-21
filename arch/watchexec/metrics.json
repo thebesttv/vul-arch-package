@@ -1,0 +1,14 @@
+{
+  "name": "watchexec",
+  "version": "2.0.0-1",
+  "depends": [
+    "gcc-libs",
+    "zlib"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199114872,
+  "transmit": 273520,
+  "disk": 1774652
+}
