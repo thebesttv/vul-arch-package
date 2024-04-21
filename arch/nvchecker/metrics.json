@@ -1,0 +1,27 @@
+{
+  "name": "nvchecker",
+  "version": "2.14.1-1",
+  "depends": [
+    "python",
+    "python-structlog",
+    "python-platformdirs",
+    "python-tornado",
+    "python-pycurl"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-docutils",
+    "python-pygments",
+    "python-gobject",
+    "python-toml",
+    "python-aiohttp",
+    "python-httpx"
+  ],
+  "receive": 199088260,
+  "transmit": 294072,
+  "disk": 1742391
+}
