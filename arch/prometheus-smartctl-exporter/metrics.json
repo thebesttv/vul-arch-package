@@ -1,0 +1,14 @@
+{
+  "name": "prometheus-smartctl-exporter",
+  "version": "0.12.0-2",
+  "depends": [
+    "glibc",
+    "smartmontools"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199083458,
+  "transmit": 284713,
+  "disk": 1766607
+}
