@@ -1,0 +1,18 @@
+{
+  "name": "pyqt-builder",
+  "version": "1.16.1-1",
+  "depends": [
+    "python",
+    "python-packaging",
+    "sip"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 199180871,
+  "transmit": 391532,
+  "disk": 13240195
+}
