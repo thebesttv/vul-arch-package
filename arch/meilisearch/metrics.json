@@ -1,0 +1,13 @@
+{
+  "name": "meilisearch",
+  "version": "1.7.6-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 200502749,
+  "transmit": 261785,
+  "disk": 37594746
+}
