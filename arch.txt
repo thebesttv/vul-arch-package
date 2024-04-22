@@ -540,6 +540,7 @@ budgie-extras 1.7.1-1
 budgie-screensaver 5.1.0-2
 budgie-session 0.9.1-1
 buf 1.30.1-1
+bugstalker 0.1.4-1
 bugzilla 5.0.6-5
 buho 3.1.0-1
 build2 0.16.0-2
@@ -1266,7 +1267,7 @@ dotnet-core 8.0.4.sdk104-1
 dotnet-core-6.0 6.0.29.sdk129-1
 dotnet-core-7.0 7.0.18.sdk118-1
 double-conversion 3.3.0-1
-doublecmd 1.1.12-1
+doublecmd 1.1.13-2
 doulos-sil-font 6.200-2
 dovecot 2.3.20-4
 dovecot-fts-elastic 1.1.0-4
@@ -1379,9 +1380,9 @@ electron 1:30-1
 electron22 22.3.27-5
 electron23 23.3.13-5
 electron27 27.3.11-1
-electron28 28.3.1-1
-electron29 29.3.1-1
-electron30 30.0.1-1
+electron28 28.3.1-2
+electron29 29.3.1-2
+electron30 30.0.1-2
 electrum 4.5.4-1
 element 0.46.6-1
 element.io 1.11.64-1
@@ -1506,7 +1507,7 @@ fasd 1.0.2-1
 fasm 1.73.32-1
 fast_float 6.1.0-2
 fastd 22-4
-fastfetch 2.9.2-1
+fastfetch 2.10.1-1
 fastjar 0.98-6
 fastjet 3.4.2-1
 fatresize 1.1.0-1
@@ -1625,7 +1626,7 @@ firecracker 1.5.0-1
 firefox 125.0.1-1
 firefox-adblock-plus 3.17.1-1
 firefox-decentraleyes 2.0.19-2
-firefox-developer-edition 126.0b3-1
+firefox-developer-edition 126.0b4-1
 firefox-developer-edition-i18n 126.0b3-1
 firefox-extension-mailvelope 5.1.2-1
 firefox-extension-passff 1.16.0-1
@@ -1880,12 +1881,12 @@ git-smash 0.1.0-1
 git-warp-time 0.7.6-1
 gitea 1.21.11-1
 gitg 2:44-1
-github-cli 2.48.0-1
+github-cli 2.48.0-2
 gitlab 16.11.0-1
 gitlab-exporter 0.5.1-1
 gitlab-gitaly 16.11.0-1
 gitlab-pages 16.11.0-1
-gitlab-runner 16.10.0-1
+gitlab-runner 16.11.0-1
 gitlab-shell 3:14.35.0-1
 gitleaks 8.18.1-1
 gitolite 3.6.13-1
@@ -1962,16 +1963,16 @@ gnome-break-timer 2.1.0-1
 gnome-browser-connector 42.1-4
 gnome-builder 46.1-1
 gnome-calculator 46.0-1
-gnome-calendar 46.0-2
+gnome-calendar 46.1-1
 gnome-characters 46.0-1
 gnome-chess 46.0-1
 gnome-clocks 46.0-1
 gnome-color-manager 3.36.0+r51+gcf7ee2b5-1
 gnome-common 3.18.0-4
-gnome-connections 46.0-2
+gnome-connections 46.0-3
 gnome-console 46.0-2
 gnome-contacts 46.0-1
-gnome-control-center 46.0.1-2
+gnome-control-center 46.1-1
 gnome-desktop 1:44.0-1
 gnome-devel-docs 40.3-1
 gnome-dictionary 40.0-2
@@ -1982,7 +1983,7 @@ gnome-flashback 3.52.1-1
 gnome-font-viewer 46.0-1
 gnome-games 40.0-4
 gnome-info-collect 1.0.5-1
-gnome-initial-setup 46.0-1
+gnome-initial-setup 46.0-2
 gnome-keyring 1:46.1-2
 gnome-klotski 3.38.2-1
 gnome-latex 3.46.0-2
@@ -2013,7 +2014,7 @@ gnome-settings-daemon 46.0-1
 gnome-shell 1:46.1-1
 gnome-shell-extension-appindicator 1:58-1
 gnome-shell-extension-arc-menu 55-1
-gnome-shell-extension-caffeine 53-1
+gnome-shell-extension-caffeine 53-2
 gnome-shell-extension-dash-to-panel 62-1
 gnome-shell-extension-desktop-icons-ng 47.0.9-1
 gnome-shell-extension-vitals 66.0.1-1
@@ -2025,14 +2026,14 @@ gnome-subtitles 1.7.2-1
 gnome-sudoku 46.0-1
 gnome-system-monitor 46.0-1
 gnome-taquin 3.38.1+r35+g35edb95-1
-gnome-terminal 3.52.0-1
+gnome-terminal 3.52.1-1
 gnome-tetravex 3.38.2-1
 gnome-text-editor 46.1-1
 gnome-themes-extra 3.28+r6+g45b1d457-1
 gnome-tour 46.0-1
 gnome-tweaks 46.0-2
 gnome-usage 46.0-1
-gnome-user-docs 46.0-1
+gnome-user-docs 46.1-1
 gnome-user-share 43.0-1
 gnome-video-effects 1:0.6.0-1
 gnome-weather 46.0-1
@@ -2146,7 +2147,7 @@ graphite 1:1.3.14-3
 graphviz 10.0.1-1
 grc 1.13-1
 grcov 0.8.19-1
-greetd 0.9.0-3
+greetd 0.10.0-1
 greetd-gtkgreet 0.8-1
 greetd-regreet 0.1.1-1
 greetd-tuigreet 0.8.0-2
@@ -3534,6 +3535,7 @@ hunspell-nl 2.20.19-3
 hunspell-pl 20230701-1
 hunspell-ro 3.3.10-7
 hunspell-ru 20210731-2
+hurl 4.2.0-1
 hut 0.4.0-1
 hwdata 0.381-1
 hwdetect 2024.04.14.2206-1
@@ -3608,7 +3610,7 @@ igsc 0.8.13-2
 ihaskell 0.10.4.0-73
 iio-sensor-proxy 3.5-2
 ijs 0.35-6
-imagemagick 7.1.1.30-2
+imagemagick 7.1.1.31-1
 imagescan 3.65.0-10
 imaginary 1.2.4-1
 imake 1.0.10-1
@@ -3754,7 +3756,6 @@ java21-openjdk 21.0.3.u9-1
 java8-openjdk 8.412.u08-1
 jbig2dec 0.20-1
 jbigkit 2.1-7
-jc 1.25.1-1
 jc303 0.9.1-2
 jconvolver 1.1.0-3
 jedi-language-server 0.41.3-1
@@ -3802,7 +3803,7 @@ judy 1.0.5-7
 jujutsu 0.16.0-1
 juk 24.02.2-1
 julia 2:1.10.2-2
-jumpy 0.11.2-1
+jumpy 0.12.0-1
 junicode-font 2.206-1
 junit 4.13.2-1
 jupymake 0.9-19
@@ -4250,7 +4251,7 @@ kweather 24.02.2-1
 kweathercore 0.8.0-2
 kwidgetsaddons 6.1.0-1
 kwidgetsaddons5 5.115.0-1
-kwin 6.0.4-1
+kwin 6.0.4.1-1
 kwindowsystem 6.1.0-1
 kwindowsystem5 5.115.0-1
 kwordquiz 24.02.2-1
@@ -4289,7 +4290,7 @@ lbzip2 2.5-5
 lcalc 2.0.5-2
 lcdproc 0.5.9-9
 lcms2 2.16-1
-lcov 2.0-3
+lcov 2.1-1
 ld-lsb 3-8
 ldb 2:2.9.0-2
 ldc 3:1.37.0-1
@@ -4891,7 +4892,7 @@ libmpack 1.0.5-3
 libmpc 1.3.1-1
 libmpd 11.8.17-6
 libmpdclient 2.22-1
-libmpeg2 0.5.1-9
+libmpeg2 0.5.1-10
 libmspack 1:1.11-1
 libmspub 0.1.4-15
 libmsym 0.2.3-8
@@ -5388,7 +5389,7 @@ lua-fluent 0.2.0-2
 lua-http 0.4-1
 lua-inifile 1.1-1
 lua-lanes 3.16.3-1
-lua-language-server 3.7.4-1
+lua-language-server 3.8.0-1
 lua-linenoise 0.9-8
 lua-loadkit 1.1.0-1
 lua-lpeg-patterns 0.5-1
@@ -5497,7 +5498,7 @@ mac 10.46-1
 macchanger 1.7.0-5
 maeparser 1.3.1-2
 mage 1.15.0-1
-magic-wormhole 0.14.0-4
+magic-wormhole 0.14.0-6
 magma 2.7.2-4
 magnum 2020.06-3
 magnum-plugins 2020.06-3
@@ -5666,7 +5667,7 @@ meson-python 0.16.0-1
 messagelib 24.02.2-1
 metacity 3.52.0-1
 metalog 20230719-1
-metasploit 6.4.2-1
+metasploit 6.4.5-1
 mfoc 0.10.7+38+gba072f1-1
 mg 20230501-2
 mgard 1.0.0-1
@@ -5799,7 +5800,7 @@ mqttui 0.21.0-1
 mruby 3.3.0-1
 msgpack-c 5.0.0-2
 msgpack-cxx 6.1.0-1
-msgraph 0.2.1-1
+msgraph 0.2.1-2
 msitools 0.103-2
 msmtp 1.8.25-2
 msolve 0.6.5-2
@@ -5830,7 +5831,7 @@ mustache 4.1-3
 mustache-d 0.1.5-15
 mutt 2.2.13-2
 mutter 46.1-1
-mutter45 45.5-1
+mutter45 45.6-1
 mvt 2.5.3-1
 mxml 3.3.1-1
 mygui 3.4.2-1
@@ -5860,7 +5861,7 @@ nano-syntax-highlighting 2020.10.10-1
 nanomsg 1.2-1
 nanosvg 0.1.0.git1.9da543e-3
 nasm 2.16.01-1
-nautilus 46.0-1
+nautilus 46.1-1
 nautilus-image-converter 0.4.0-1
 nautilus-python 4.0-2
 nautilus-sendto 3.8.6+28+gc87aac4-1
@@ -5869,10 +5870,10 @@ nauty 1:2.8.8-2
 navi 2.23.0-1
 navidrome 0.51.1-1
 navit 0.5.6-6
-nawk 20240311-2
+nawk 20240422-1
 nbd 3.26.1-1
 nbtscan 1.7.2-1
-nccl 2.19.4-1
+nccl 2.21.5-1
 ncdu 2.3-1
 ncftp 3.2.7-1
 ncmpc 0.49-1
@@ -5881,7 +5882,7 @@ ncnn 20240102-2
 ncompress 5.0-2
 ncrack 0.7-3
 ncspot 1.1.0-1
-ncurses 6.4_20230520-1
+ncurses 6.4_20230520-2
 ndctl 78-1
 ndisc6 1.0.8-1
 ndiswrapper 1.62-4
@@ -5926,6 +5927,7 @@ nethsm-pkcs11 1.3.0-1
 netpbm 10.86.41-1
 netperf 2.7.0-6
 netplan 0.107-3
+netscanner 0.4.4-2
 netsniff-ng 0.6.8-6
 netstat-nat 1.4.10-5
 netsurf 3.11-7
@@ -6076,7 +6078,9 @@ nvidia-utils 550.76-1
 nvme-cli 2.8-1
 nvmetcli 0.8-2
 nvtop 3.1.0-1
+nwg-icon-picker 0.1.1-2
 nwg-look 0.2.7-1
+nwg-panel 0.9.27-2
 nyancat 1.5.2-2
 nyx 2.1.0-7
 nyxt 3.11.1-1
@@ -6315,7 +6319,7 @@ ovenmediaengine 0.16.5-2
 overpass-fonts 3.0.5-2
 owl-lisp 0.2.2-1
 owncloud-client 5.2.1.13040-2
-oxipng 9.0.0-1
+oxipng 9.1.0-1
 oxygen 6.0.4-1
 oxygen-icons 1:6.0.0-2
 oxygen-sounds 6.0.4-1
@@ -7250,7 +7254,7 @@ podofo 0.10.3-1
 poedit 1:3.4.2-1
 poke 3.3-1
 poketex 1.12.2-1
-polari 45.0-1
+polari 46.0-1
 polkit 124-2
 polkit-gnome 0.105-10
 polkit-kde-agent 6.0.4-1
@@ -7305,7 +7309,7 @@ ppsspp 1.17.1-1
 pptpclient 1.10.0-3
 pptpd 1.4.0-3
 pqiv 2.13.1-1
-praat 6.4.08-2
+praat 6.4.10-1
 pragha 1.3.4-6
 pre-commit 3.7.0-1
 premake 5.0beta2-1
@@ -7338,7 +7342,7 @@ proj 9.4.0-1
 projectm 3.1.12-4
 prometheus 2.51.2-1
 prometheus-bird-exporter 1.4.3-1
-prometheus-blackbox-exporter 0.24.0-1
+prometheus-blackbox-exporter 0.25.0-1
 prometheus-elasticsearch-exporter 1.7.0-1
 prometheus-ipmi-exporter 1.6.1-2
 prometheus-json-exporter 0.6.0-1
@@ -7394,7 +7398,7 @@ purpose 6.1.0-1
 purpose5 5.115.0-3
 putty 0.81-1
 puzzles 20240103-1
-pv 1.8.5-2
+pv 1.8.9-1
 pvoc 0.1.12-5
 pwgen 2.08-2
 pwndbg 2024.02.14-2
@@ -7730,6 +7734,7 @@ python-cytoolz 0.12.3-1
 python-daemonize 2.5.0-6
 python-daiquiri 3.2.5.1-1
 python-darkdetect 0.8.0-2
+python-dasbus 1.7-2
 python-dask 2023.8.0-1
 python-database-cubic-hecke 2022.4.4-2
 python-database-knotinfo 2024.4.1-1
@@ -9075,7 +9080,7 @@ python-testtools 2.7.1-1
 python-text-unidecode 1.3-10
 python-textdistance 4.6.1-1
 python-texttable 1.7.0-1
-python-textual 0.57.0-1
+python-textual 0.57.1-1
 python-threadloop 1.0.2-7
 python-threadpoolctl 3.4.0-1
 python-threat9-test-bed 0.6.0+2+g1ed61b3-9
@@ -9640,6 +9645,7 @@ rofi-calc 2.2.1-1
 rofi-emoji 3.3.0-1
 rofi-pass 2.0.2-2
 rofi-rbw 1.3.0-3
+rofi-wayland 1.7.5+wayland3-2
 rofimoji 6.2.0-1
 root 6.30.04-1
 rootlesskit 1.1.1-1
@@ -10092,7 +10098,7 @@ run-parts 5.17-1
 runc 1.1.12-1
 runst 0.1.7-1
 rust 1:1.77.2-1
-rust-analyzer 20240415-1
+rust-analyzer 20240422-1
 rust-bindgen 0.69.4-1
 rust-script 0.34.0-1
 rustscan 2.2.2-1
@@ -10738,7 +10744,7 @@ thunar 4.18.10-1
 thunar-archive-plugin 0.5.2-1
 thunar-media-tags-plugin 0.4.0-2
 thunar-volman 4.18.0-1
-thunderbird 115.10.0-1
+thunderbird 115.10.1-1
 tickrs 2:0.14.9-1
 tidy 5.8.0-2
 tig 2.5.9-1
@@ -10747,7 +10753,7 @@ tilda 2.0.0-1
 tiled 1.10.2-1
 tilix 1.9.6-3
 time 1.9-4
-timescaledb 2.14.2-1
+timescaledb 2.14.2-2
 timescaledb-old-upgrade 2.14.2-1
 timescaledb-tune 0.15.0-1
 timeshift 24.01.1-1
@@ -11021,7 +11027,7 @@ uucp 1.07-7
 uudeview 20230502-3
 uusi 0.4.3.0-33
 uutils-coreutils 0.0.25-2
-uv 0.1.34-1
+uv 0.1.35-1
 uvicorn 0.29.0-1
 uwsgi 2.0.24-2
 uwsgitop 0.11-6
@@ -11150,7 +11156,7 @@ vscode-languageservers 1.88.0-1
 vsftpd 3.0.5-1
 vsqlite++ 0.3.13-8
 vst3sdk 3.7.10_build_14-1
-vte3 0.76.0-2
+vte3 0.76.1-1
 vtk 9.3.0-11
 vtr 8.0.0-4
 vue-language-tools 2.0.10-1
@@ -11199,7 +11205,7 @@ wayland 1.22.0-1
 wayland-protocols 1.35-1
 wayland-utils 1.2.0-1
 waylandpp 1.0.0-2
-waylock 0.6.5-1
+waylock 1.0.0-1
 wayvnc 0.8.0-1
 wcslib 8.2.2-1
 wdiff 1.2.2-4
@@ -11259,7 +11265,7 @@ wire-desktop 3.34.3307-2
 wireguard-tools 1.0.20210914-2
 wireless-regdb 2024.01.23-1
 wireless_tools 30.pre9-3
-wireplumber 0.5.1-2
+wireplumber 0.5.2-1
 wireproxy 1.0.7-1
 wireshark 4.2.4-2
 wishbone-utils 0.7.8-1
@@ -11268,6 +11274,7 @@ wiznote 2.8.5-1
 wl-clipboard 1:2.2.1-1
 wl-mirror 0.16.2-1
 wldash 0.3.0-2
+wlr-randr 0.4.1-4
 wlroots 0.17.2-1
 wlroots0.16 0.16.2-2
 wlsunset 0.4.0-1
@@ -11286,7 +11293,7 @@ woodpecker 2.4.1-1
 wordpress 6.5.2-1
 words 2.1-8
 worker-build 0.0.10-1
-workerd 1.20240405.0-1
+workerd 1.20240419.0-1
 workrave 1.10.52-3
 wp-cli 2.10.0-1
 wpa_supplicant 2:2.10-8
@@ -11352,8 +11359,8 @@ xdelta3 3.1.0-4
 xdg-dbus-proxy 0.1.5-1
 xdg-desktop-portal 1.18.4-1
 xdg-desktop-portal-dde 1.0.5-5
-xdg-desktop-portal-gnome 46.0-1
-xdg-desktop-portal-gtk 1.15.1-1
+xdg-desktop-portal-gnome 46.1-1
+xdg-desktop-portal-gtk 1.15.1-2
 xdg-desktop-portal-hyprland 1.3.1-6
 xdg-desktop-portal-kde 6.0.4-1
 xdg-desktop-portal-lxqt 0.5.0-1
@@ -11446,7 +11453,7 @@ xkeycaps 2.47-3
 xl2tpd 1.3.18-1
 xloadimage 4.1-16
 xlockmore 5.77-1
-xmake 2.8.9-1
+xmake 2.9.1-1
 xmldiff 2.6.3-1
 xmlsec 1.3.4-1
 xmlstarlet 1.6.1-3
