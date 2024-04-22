@@ -1,0 +1,14 @@
+{
+  "name": "bugstalker",
+  "version": "0.1.4-1",
+  "depends": [
+    "gcc-libs",
+    "libunwind"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199133659,
+  "transmit": 327111,
+  "disk": 2913480
+}
