@@ -1,0 +1,18 @@
+{
+  "name": "python-textual",
+  "version": "0.57.1-1",
+  "depends": [
+    "python",
+    "python-rich",
+    "python-markdown-it-py",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 219863754,
+  "transmit": 539667,
+  "disk": 74624354
+}
