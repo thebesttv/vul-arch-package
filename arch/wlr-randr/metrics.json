@@ -1,0 +1,14 @@
+{
+  "name": "wlr-randr",
+  "version": "0.4.1-4",
+  "depends": [
+    "wayland",
+    "glibc"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 199105748,
+  "transmit": 311867,
+  "disk": 164263
+}
