@@ -1,0 +1,16 @@
+{
+  "name": "praat",
+  "version": "6.4.10-1",
+  "depends": [
+    "alsa-lib",
+    "gtk3",
+    "jack",
+    "libpulse",
+    "ttf-charis-sil",
+    "ttf-doulos-sil"
+  ],
+  "makedepends": [],
+  "receive": 278916151,
+  "transmit": 1132925,
+  "disk": 391270287
+}
