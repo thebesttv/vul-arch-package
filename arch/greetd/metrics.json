@@ -1,0 +1,16 @@
+{
+  "name": "greetd",
+  "version": "0.10.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "systemd"
+  ],
+  "makedepends": [
+    "cargo",
+    "scdoc"
+  ],
+  "receive": 199206320,
+  "transmit": 416202,
+  "disk": 397663
+}
