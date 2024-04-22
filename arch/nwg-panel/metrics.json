@@ -1,0 +1,30 @@
+{
+  "name": "nwg-panel",
+  "version": "0.9.27-2",
+  "depends": [
+    "python",
+    "python-gobject",
+    "python-i3ipc",
+    "python-cairo",
+    "python-dasbus",
+    "python-netifaces",
+    "python-psutil",
+    "python-requests",
+    "bluez-utils",
+    "gtk3",
+    "libappindicator-gtk3",
+    "gtk-layer-shell",
+    "brightnessctl",
+    "playerctl",
+    "glib2"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 199119756,
+  "transmit": 311232,
+  "disk": 2187548
+}
