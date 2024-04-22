@@ -1,0 +1,14 @@
+{
+  "name": "netscanner",
+  "version": "0.4.4-2",
+  "depends": [
+    "gcc-libs",
+    "iw"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199091709,
+  "transmit": 293862,
+  "disk": 753969
+}
