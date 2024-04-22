@@ -1,0 +1,11 @@
+{
+  "name": "pv",
+  "version": "1.8.9-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199480549,
+  "transmit": 421301,
+  "disk": 1793860
+}
