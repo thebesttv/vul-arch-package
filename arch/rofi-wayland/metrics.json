@@ -1,0 +1,27 @@
+{
+  "name": "rofi-wayland",
+  "version": "1.7.5+wayland3-2",
+  "depends": [
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "glibc",
+    "hicolor-icon-theme",
+    "libxcb",
+    "libxkbcommon",
+    "libxkbcommon-x11",
+    "pango",
+    "startup-notification",
+    "wayland",
+    "xcb-util",
+    "xcb-util-cursor",
+    "xcb-util-wm"
+  ],
+  "makedepends": [
+    "meson",
+    "wayland-protocols"
+  ],
+  "receive": 199102101,
+  "transmit": 271509,
+  "disk": 18802207
+}
