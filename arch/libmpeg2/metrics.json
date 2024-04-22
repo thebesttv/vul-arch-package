@@ -1,0 +1,11 @@
+{
+  "name": "libmpeg2",
+  "version": "0.5.1-10",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199119103,
+  "transmit": 295971,
+  "disk": 3107540
+}
