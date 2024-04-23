@@ -1,0 +1,17 @@
+{
+  "name": "mednafen",
+  "version": "1.32.1-1",
+  "depends": [
+    "flac",
+    "sdl2",
+    "zlib",
+    "alsa-lib"
+  ],
+  "makedepends": [
+    "mesa",
+    "glu"
+  ],
+  "receive": 202774000,
+  "transmit": 341097,
+  "disk": 44175356
+}

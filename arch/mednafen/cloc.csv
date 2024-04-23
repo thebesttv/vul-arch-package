@@ -1,0 +1,25 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=2.35 s (743.4 files/s 367157.7 lines/s)"
+675,C++,51702,28178,241725
+673,C/C++ Header,12454,16532,115238
+29,Pascal,6934,24658,60393
+2,Windows Module Definition,27715,0,60014
+103,C,8105,9927,57026
+68,Fortran 77,2336,16,52822
+23,Bourne Shell,3400,2811,23671
+3,PO File,5874,7058,14358
+46,PHP,1418,963,7947
+45,m4,542,739,5858
+27,HTML,274,5,5106
+16,Text,457,0,2216
+11,diff,135,648,706
+5,Assembly,100,49,468
+1,yacc,56,38,291
+7,make,72,7,238
+3,Markdown,51,0,196
+1,CSS,25,18,128
+2,Windows Resource File,7,1,90
+1,CMake,4,0,19
+2,sed,0,0,16
+1,DOS Batch,0,0,8
+1,XML,0,0,8
+1745,SUM,121661,91648,648542
