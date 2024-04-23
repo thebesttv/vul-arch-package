@@ -1,0 +1,15 @@
+{
+  "name": "zerotier-one",
+  "version": "1.14.0-1",
+  "depends": [
+    "gcc-libs",
+    "libnatpmp",
+    "miniupnpc"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 212058669,
+  "transmit": 484784,
+  "disk": 68565488
+}
