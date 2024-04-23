@@ -1,0 +1,11 @@
+{
+  "name": "fping",
+  "version": "5.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 199168091,
+  "transmit": 327575,
+  "disk": 1055000
+}
