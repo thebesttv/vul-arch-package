@@ -1,0 +1,13 @@
+{
+  "name": "earlyoom",
+  "version": "1.8.1-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "pandoc"
+  ],
+  "receive": 200185602,
+  "transmit": 865516,
+  "disk": 398488
+}
