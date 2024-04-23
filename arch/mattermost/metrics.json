@@ -1,0 +1,21 @@
+{
+  "name": "mattermost",
+  "version": "9.7.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go<2:1.22",
+    "go>=2:1.21",
+    "jq",
+    "libpng",
+    "nodejs-lts-iron",
+    "moreutils",
+    "npm",
+    "python"
+  ],
+  "receive": 312748651,
+  "transmit": 1576391,
+  "disk": 301818422
+}
