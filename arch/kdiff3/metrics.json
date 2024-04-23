@@ -1,0 +1,26 @@
+{
+  "name": "kdiff3",
+  "version": "1.11.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "kconfig",
+    "kcoreaddons",
+    "kconfigwidgets",
+    "kcrash",
+    "ki18n",
+    "kio",
+    "kwidgetsaddons",
+    "kxmlgui",
+    "qt6-5compat",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "boost",
+    "extra-cmake-modules",
+    "kdoctools"
+  ],
+  "receive": 199966929,
+  "transmit": 335546,
+  "disk": 10418127
+}
