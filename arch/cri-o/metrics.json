@@ -1,0 +1,29 @@
+{
+  "name": "cri-o",
+  "version": "1.29.3-1",
+  "depends": [
+    "cni-plugins",
+    "conmon",
+    "conntrack-tools",
+    "containers-common",
+    "gcc-libs",
+    "glibc",
+    "gpgme",
+    "iproute2",
+    "iptables",
+    "oci-runtime"
+  ],
+  "makedepends": [
+    "apparmor",
+    "btrfs-progs",
+    "device-mapper",
+    "go",
+    "go-md2man",
+    "libassuan",
+    "libseccomp",
+    "ostree"
+  ],
+  "receive": 221103112,
+  "transmit": 531054,
+  "disk": 127698046
+}
