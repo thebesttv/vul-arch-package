@@ -1,0 +1,13 @@
+{
+  "name": "atac",
+  "version": "0.14.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199161410,
+  "transmit": 356280,
+  "disk": 9655549
+}
