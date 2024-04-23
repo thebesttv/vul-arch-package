@@ -1,0 +1,15 @@
+{
+  "name": "packer",
+  "version": "1.10.3-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "go-tools"
+  ],
+  "receive": 199209111,
+  "transmit": 415562,
+  "disk": 9463586
+}
