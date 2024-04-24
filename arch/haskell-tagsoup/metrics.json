@@ -1,0 +1,14 @@
+{
+  "name": "haskell-tagsoup",
+  "version": "0.14.8-226",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199333956,
+  "transmit": 391669,
+  "disk": 520863
+}
