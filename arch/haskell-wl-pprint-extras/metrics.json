@@ -1,0 +1,15 @@
+{
+  "name": "haskell-wl-pprint-extras",
+  "version": "3.5.0.5-419",
+  "depends": [
+    "ghc-libs",
+    "haskell-semigroupoids",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199439990,
+  "transmit": 442442,
+  "disk": 509884
+}
