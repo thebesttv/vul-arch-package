@@ -1,0 +1,17 @@
+{
+  "name": "haskell-hslua-repl",
+  "version": "0.1.2-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslua-core",
+    "haskell-isocline",
+    "haskell-lua"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199143892,
+  "transmit": 341668,
+  "disk": 206778
+}
