@@ -1,0 +1,23 @@
+{
+  "name": "haskell-authenticate-oauth",
+  "version": "1.7-222",
+  "depends": [
+    "ghc-libs",
+    "haskell-http-client",
+    "haskell-crypto-pubkey-types",
+    "haskell-rsa",
+    "haskell-data-default",
+    "haskell-base64-bytestring",
+    "haskell-sha",
+    "haskell-random",
+    "haskell-http-types",
+    "haskell-blaze-builder",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199174522,
+  "transmit": 412444,
+  "disk": 611005
+}
