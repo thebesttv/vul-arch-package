@@ -1,0 +1,14 @@
+{
+  "name": "trivy",
+  "version": "0.50.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "btrfs-progs"
+  ],
+  "receive": 219965519,
+  "transmit": 460451,
+  "disk": 145390110
+}
