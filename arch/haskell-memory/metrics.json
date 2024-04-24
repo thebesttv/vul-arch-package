@@ -1,0 +1,15 @@
+{
+  "name": "haskell-memory",
+  "version": "0.18.0-8",
+  "depends": [
+    "ghc-libs",
+    "haskell-basement"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-foundation"
+  ],
+  "receive": 199050273,
+  "transmit": 262763,
+  "disk": 597552
+}
