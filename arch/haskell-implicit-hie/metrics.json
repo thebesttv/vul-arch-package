@@ -1,0 +1,18 @@
+{
+  "name": "haskell-implicit-hie",
+  "version": "0.1.2.7-149",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-filepattern",
+    "haskell-yaml"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-attoparsec"
+  ],
+  "receive": 199042685,
+  "transmit": 254532,
+  "disk": 451384
+}
