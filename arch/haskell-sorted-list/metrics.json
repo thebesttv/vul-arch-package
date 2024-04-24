@@ -1,0 +1,15 @@
+{
+  "name": "haskell-sorted-list",
+  "version": "0.2.2.0-15",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck"
+  ],
+  "receive": 199208600,
+  "transmit": 437213,
+  "disk": 175482
+}
