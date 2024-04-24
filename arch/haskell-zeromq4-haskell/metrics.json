@@ -1,0 +1,22 @@
+{
+  "name": "haskell-zeromq4-haskell",
+  "version": "0.8.0-46",
+  "depends": [
+    "ghc-libs",
+    "zeromq",
+    "haskell-async",
+    "haskell-monad-control",
+    "haskell-transformers-base"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199038520,
+  "transmit": 255608,
+  "disk": 337347
+}
