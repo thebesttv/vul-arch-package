@@ -1,0 +1,13 @@
+{
+  "name": "age-plugin-tkey",
+  "version": "0.0.4-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 199150239,
+  "transmit": 379274,
+  "disk": 400185
+}
