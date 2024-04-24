@@ -1,0 +1,14 @@
+{
+  "name": "haskell-boxes",
+  "version": "0.1.5-239",
+  "depends": [
+    "ghc-libs",
+    "haskell-split"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199442834,
+  "transmit": 489009,
+  "disk": 322456
+}
