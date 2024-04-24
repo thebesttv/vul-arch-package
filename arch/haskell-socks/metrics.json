@@ -1,0 +1,16 @@
+{
+  "name": "haskell-socks",
+  "version": "0.6.1-237",
+  "depends": [
+    "ghc-libs",
+    "haskell-basement",
+    "haskell-cereal",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199328975,
+  "transmit": 388024,
+  "disk": 381054
+}
