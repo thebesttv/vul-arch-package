@@ -1,0 +1,20 @@
+{
+  "name": "haskell-rere",
+  "version": "0.2.0.1-23",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-fin",
+    "haskell-vec"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199156883,
+  "transmit": 361138,
+  "disk": 471259
+}
