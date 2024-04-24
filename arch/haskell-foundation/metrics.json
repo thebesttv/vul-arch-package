@@ -1,0 +1,16 @@
+{
+  "name": "haskell-foundation",
+  "version": "0.0.30-20",
+  "depends": [
+    "ghc-libs",
+    "haskell-basement"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-doctest"
+  ],
+  "receive": 199126696,
+  "transmit": 284432,
+  "disk": 1116383
+}
