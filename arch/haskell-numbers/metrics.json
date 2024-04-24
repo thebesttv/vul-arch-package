@@ -1,0 +1,16 @@
+{
+  "name": "haskell-numbers",
+  "version": "3000.2.0.2-46",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-test-framework",
+    "haskell-test-framework-quickcheck2"
+  ],
+  "receive": 199163300,
+  "transmit": 291953,
+  "disk": 244734
+}
