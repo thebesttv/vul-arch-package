@@ -1,0 +1,13 @@
+{
+  "name": "haskell-logict",
+  "version": "0.7.1.0-246",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199084287,
+  "transmit": 274755,
+  "disk": 465662
+}
