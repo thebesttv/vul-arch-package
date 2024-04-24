@@ -1,0 +1,24 @@
+{
+  "name": "haskell-hspec-core",
+  "version": "2.10.9-97",
+  "depends": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-call-stack",
+    "haskell-hspec-expectations",
+    "haskell-hunit",
+    "haskell-lexer",
+    "haskell-quickcheck",
+    "haskell-quickcheck-io",
+    "haskell-random",
+    "haskell-setenv",
+    "haskell-tf-random"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199207022,
+  "transmit": 347016,
+  "disk": 1452609
+}
