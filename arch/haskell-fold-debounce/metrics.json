@@ -1,0 +1,15 @@
+{
+  "name": "haskell-fold-debounce",
+  "version": "0.2.0.10-31",
+  "depends": [
+    "ghc-libs",
+    "haskell-stm-delay",
+    "haskell-data-default-class"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199353712,
+  "transmit": 443050,
+  "disk": 302773
+}
