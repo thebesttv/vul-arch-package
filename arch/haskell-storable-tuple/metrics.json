@@ -1,0 +1,16 @@
+{
+  "name": "haskell-storable-tuple",
+  "version": "0.1-27",
+  "depends": [
+    "ghc-libs",
+    "haskell-storable-record",
+    "haskell-utility-ht",
+    "haskell-base-orphans"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199058959,
+  "transmit": 274932,
+  "disk": 317178
+}
