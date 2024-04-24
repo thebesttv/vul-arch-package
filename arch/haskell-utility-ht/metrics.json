@@ -1,0 +1,13 @@
+{
+  "name": "haskell-utility-ht",
+  "version": "0.0.17.1-10",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199305903,
+  "transmit": 472378,
+  "disk": 591179
+}
