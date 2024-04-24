@@ -1,0 +1,14 @@
+{
+  "name": "haskell-fdo-notify",
+  "version": "0.3.1-734",
+  "depends": [
+    "ghc-libs",
+    "haskell-dbus"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199129780,
+  "transmit": 342096,
+  "disk": 666630
+}
