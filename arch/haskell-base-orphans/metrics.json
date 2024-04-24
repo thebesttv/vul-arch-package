@@ -1,0 +1,16 @@
+{
+  "name": "haskell-base-orphans",
+  "version": "0.8.8.2-13",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-quickcheck"
+  ],
+  "receive": 199067733,
+  "transmit": 281764,
+  "disk": 678365
+}
