@@ -1,0 +1,22 @@
+{
+  "name": "haskell-mono-traversable",
+  "version": "1.0.17.0-4",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-split",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-vector-algorithms"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-foldl",
+    "haskell-hspec"
+  ],
+  "receive": 199487673,
+  "transmit": 368883,
+  "disk": 756548
+}
