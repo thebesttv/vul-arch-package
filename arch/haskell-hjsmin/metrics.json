@@ -1,0 +1,16 @@
+{
+  "name": "haskell-hjsmin",
+  "version": "0.2.0.4-225",
+  "depends": [
+    "ghc-libs",
+    "haskell-language-javascript",
+    "haskell-optparse-applicative"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199166762,
+  "transmit": 357507,
+  "disk": 368147
+}
