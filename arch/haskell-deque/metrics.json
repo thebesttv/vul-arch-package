@@ -1,0 +1,19 @@
+{
+  "name": "haskell-deque",
+  "version": "0.4.4.1-29",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-strict-list"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199436364,
+  "transmit": 411526,
+  "disk": 445013
+}
