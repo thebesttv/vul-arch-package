@@ -1,0 +1,16 @@
+{
+  "name": "haskell-filepattern",
+  "version": "0.1.3-88",
+  "depends": [
+    "ghc-libs",
+    "haskell-extra"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck"
+  ],
+  "receive": 199412124,
+  "transmit": 455432,
+  "disk": 454200
+}
