@@ -1,0 +1,24 @@
+{
+  "name": "haskell-monad-logger",
+  "version": "0.3.40-56",
+  "depends": [
+    "ghc-libs",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-fast-logger",
+    "haskell-lifted-base",
+    "haskell-monad-control",
+    "haskell-monad-loops",
+    "haskell-resourcet",
+    "haskell-stm-chans",
+    "haskell-transformers-base",
+    "haskell-transformers-compat",
+    "haskell-unliftio-core"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199664661,
+  "transmit": 367282,
+  "disk": 778556
+}
