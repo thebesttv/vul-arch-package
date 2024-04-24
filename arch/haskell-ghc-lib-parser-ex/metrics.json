@@ -1,0 +1,19 @@
+{
+  "name": "haskell-ghc-lib-parser-ex",
+  "version": "9.2.1.1-7",
+  "depends": [
+    "ghc-libs",
+    "haskell-uniplate",
+    "haskell-ghc"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-extra",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-uniplate"
+  ],
+  "receive": 199115022,
+  "transmit": 337452,
+  "disk": 554067
+}
