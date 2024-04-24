@@ -1,0 +1,15 @@
+{
+  "name": "haskell-cmark-gfm",
+  "version": "0.2.5-40",
+  "depends": [
+    "ghc-libs",
+    "cmark-gfm"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit"
+  ],
+  "receive": 199313484,
+  "transmit": 385352,
+  "disk": 1998185
+}
