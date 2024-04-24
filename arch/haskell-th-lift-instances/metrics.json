@@ -1,0 +1,15 @@
+{
+  "name": "haskell-th-lift-instances",
+  "version": "0.1.20-47",
+  "depends": [
+    "ghc-libs",
+    "haskell-th-lift",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199037917,
+  "transmit": 239022,
+  "disk": 345699
+}
