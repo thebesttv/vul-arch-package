@@ -1,0 +1,14 @@
+{
+  "name": "haskell-split",
+  "version": "0.2.5-6",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199261186,
+  "transmit": 416410,
+  "disk": 401007
+}
