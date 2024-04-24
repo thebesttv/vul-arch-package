@@ -1,0 +1,23 @@
+{
+  "name": "haskell-hedgehog-classes",
+  "version": "0.2.5.4-69",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-comonad",
+    "haskell-hedgehog",
+    "haskell-pretty-show",
+    "haskell-primitive",
+    "haskell-semirings",
+    "haskell-silently",
+    "haskell-vector",
+    "haskell-wl-pprint-annotated"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199237680,
+  "transmit": 455310,
+  "disk": 597930
+}
