@@ -1,0 +1,17 @@
+{
+  "name": "haskell-focus",
+  "version": "1.0.3.2-28",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199491996,
+  "transmit": 565550,
+  "disk": 247935
+}
