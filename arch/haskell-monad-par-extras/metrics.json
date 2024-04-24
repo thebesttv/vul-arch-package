@@ -1,0 +1,16 @@
+{
+  "name": "haskell-monad-par-extras",
+  "version": "0.3.3-216",
+  "depends": [
+    "ghc-libs",
+    "haskell-abstract-par",
+    "haskell-cereal",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199256111,
+  "transmit": 294488,
+  "disk": 306011
+}
