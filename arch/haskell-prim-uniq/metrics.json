@@ -1,0 +1,15 @@
+{
+  "name": "haskell-prim-uniq",
+  "version": "0.2-101",
+  "depends": [
+    "ghc-libs",
+    "haskell-dependent-sum",
+    "haskell-primitive"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199429155,
+  "transmit": 558774,
+  "disk": 248606
+}
