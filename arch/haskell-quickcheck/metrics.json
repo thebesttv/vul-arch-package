@@ -1,0 +1,16 @@
+{
+  "name": "haskell-quickcheck",
+  "version": "2.14.3-64",
+  "depends": [
+    "ghc-libs",
+    "haskell-erf",
+    "haskell-random",
+    "haskell-splitmix"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199767041,
+  "transmit": 489275,
+  "disk": 964238
+}
