@@ -1,0 +1,14 @@
+{
+  "name": "haskell-regex-applicative",
+  "version": "0.3.4-193",
+  "depends": [
+    "ghc-libs",
+    "haskell-filtrable"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199060551,
+  "transmit": 265523,
+  "disk": 344065
+}
