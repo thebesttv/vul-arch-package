@@ -1,0 +1,23 @@
+{
+  "name": "haskell-floskell",
+  "version": "0.10.8-19",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-attoparsec",
+    "haskell-data-default",
+    "haskell-src-exts",
+    "haskell-monad-dijkstra",
+    "haskell-optparse-applicative",
+    "haskell-unordered-containers",
+    "haskell-utf8-string"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199143395,
+  "transmit": 331428,
+  "disk": 863959
+}
