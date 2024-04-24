@@ -1,0 +1,16 @@
+{
+  "name": "haskell-th-compat",
+  "version": "0.1.5-2",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-base-compat",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199122313,
+  "transmit": 338028,
+  "disk": 343673
+}
