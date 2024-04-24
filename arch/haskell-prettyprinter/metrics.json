@@ -1,0 +1,19 @@
+{
+  "name": "haskell-prettyprinter",
+  "version": "1.7.1-162",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest",
+    "haskell-pgp-wordlist",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199409862,
+  "transmit": 530226,
+  "disk": 759986
+}
