@@ -1,0 +1,16 @@
+{
+  "name": "haskell-recaptcha",
+  "version": "0.1.0.4-171",
+  "depends": [
+    "ghc-libs",
+    "haskell-http",
+    "haskell-network",
+    "haskell-network-uri"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199120817,
+  "transmit": 359278,
+  "disk": 334782
+}
