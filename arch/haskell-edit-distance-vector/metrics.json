@@ -1,0 +1,16 @@
+{
+  "name": "haskell-edit-distance-vector",
+  "version": "1.0.0.4-341",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances"
+  ],
+  "receive": 199313134,
+  "transmit": 248091,
+  "disk": 403024
+}
