@@ -1,0 +1,13 @@
+{
+  "name": "cargo-zigbuild",
+  "version": "0.18.4-1",
+  "depends": [
+    "cargo",
+    "zig",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199034356,
+  "transmit": 258848,
+  "disk": 522645
+}
