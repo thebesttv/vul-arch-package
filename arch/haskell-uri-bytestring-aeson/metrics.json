@@ -1,0 +1,15 @@
+{
+  "name": "haskell-uri-bytestring-aeson",
+  "version": "0.1.0.8-103",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-uri-bytestring"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199403750,
+  "transmit": 475858,
+  "disk": 239501
+}
