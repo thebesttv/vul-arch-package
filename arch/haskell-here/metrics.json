@@ -1,0 +1,15 @@
+{
+  "name": "haskell-here",
+  "version": "1.2.14-17",
+  "depends": [
+    "ghc-libs",
+    "haskell-src-meta"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199162400,
+  "transmit": 320574,
+  "disk": 428534
+}
