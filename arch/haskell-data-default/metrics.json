@@ -1,0 +1,17 @@
+{
+  "name": "haskell-data-default",
+  "version": "0.7.1.1-306",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default-class",
+    "haskell-data-default-instances-containers",
+    "haskell-data-default-instances-dlist",
+    "haskell-data-default-instances-old-locale"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199126743,
+  "transmit": 361096,
+  "disk": 355534
+}
