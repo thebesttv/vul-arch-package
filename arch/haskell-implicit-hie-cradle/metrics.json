@@ -1,0 +1,16 @@
+{
+  "name": "haskell-implicit-hie-cradle",
+  "version": "0.5.0.1-13",
+  "depends": [
+    "ghc-libs",
+    "haskell-extra",
+    "haskell-hie-bios",
+    "haskell-implicit-hie"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199215481,
+  "transmit": 408297,
+  "disk": 431031
+}
