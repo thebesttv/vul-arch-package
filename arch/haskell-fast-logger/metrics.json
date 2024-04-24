@@ -1,0 +1,19 @@
+{
+  "name": "haskell-fast-logger",
+  "version": "3.1.2-70",
+  "depends": [
+    "ghc-libs",
+    "haskell-auto-update",
+    "haskell-easy-file",
+    "haskell-unix-compat",
+    "haskell-unix-time"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199041351,
+  "transmit": 263958,
+  "disk": 518157
+}
