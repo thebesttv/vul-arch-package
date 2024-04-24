@@ -1,0 +1,15 @@
+{
+  "name": "haskell-edisoncore",
+  "version": "1.3.3-38",
+  "depends": [
+    "ghc-libs",
+    "haskell-edisonapi",
+    "haskell-quickcheck"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199261283,
+  "transmit": 296803,
+  "disk": 884401
+}
