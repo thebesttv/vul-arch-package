@@ -1,0 +1,14 @@
+{
+  "name": "haskell-tuple",
+  "version": "0.3.0.2-42",
+  "depends": [
+    "ghc-libs",
+    "haskell-onetuple"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199232684,
+  "transmit": 403677,
+  "disk": 492049
+}
