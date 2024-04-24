@@ -1,0 +1,18 @@
+{
+  "name": "haskell-nettle",
+  "version": "0.3.1.1-2",
+  "depends": [
+    "ghc-libs",
+    "nettle",
+    "haskell-byteable",
+    "haskell-crypto-cipher-types",
+    "haskell-tagged",
+    "haskell-securemem"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199062541,
+  "transmit": 292442,
+  "disk": 1171472
+}
