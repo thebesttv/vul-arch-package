@@ -1,0 +1,13 @@
+{
+  "name": "haskell-call-stack",
+  "version": "0.4.0-184",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199159049,
+  "transmit": 363984,
+  "disk": 382587
+}
