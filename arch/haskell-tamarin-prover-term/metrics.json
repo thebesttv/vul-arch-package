@@ -1,0 +1,18 @@
+{
+  "name": "haskell-tamarin-prover-term",
+  "version": "1.8.0-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-hunit",
+    "haskell-attoparsec",
+    "haskell-dlist",
+    "haskell-safe",
+    "haskell-tamarin-prover-utils"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199450698,
+  "transmit": 409167,
+  "disk": 272768029
+}
