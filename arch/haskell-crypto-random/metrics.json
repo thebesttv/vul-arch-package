@@ -1,0 +1,15 @@
+{
+  "name": "haskell-crypto-random",
+  "version": "0.0.9-333",
+  "depends": [
+    "ghc-libs",
+    "haskell-securemem",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199413554,
+  "transmit": 440338,
+  "disk": 389101
+}
