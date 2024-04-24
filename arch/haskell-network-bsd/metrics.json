@@ -1,0 +1,14 @@
+{
+  "name": "haskell-network-bsd",
+  "version": "2.8.1.0-210",
+  "depends": [
+    "ghc-libs",
+    "haskell-network"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199131711,
+  "transmit": 348477,
+  "disk": 320808
+}
