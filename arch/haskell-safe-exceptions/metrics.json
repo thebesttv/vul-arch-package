@@ -1,0 +1,15 @@
+{
+  "name": "haskell-safe-exceptions",
+  "version": "0.1.7.4-21",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-void"
+  ],
+  "receive": 199440359,
+  "transmit": 452085,
+  "disk": 390683
+}
