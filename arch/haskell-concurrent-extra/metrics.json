@@ -1,0 +1,19 @@
+{
+  "name": "haskell-concurrent-extra",
+  "version": "0.7.0.12-50",
+  "depends": [
+    "ghc-libs",
+    "haskell-unbounded-delays"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-async",
+    "haskell-random",
+    "haskell-test-framework",
+    "haskell-test-framework-hunit"
+  ],
+  "receive": 199207696,
+  "transmit": 424416,
+  "disk": 289920
+}
