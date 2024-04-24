@@ -1,0 +1,18 @@
+{
+  "name": "haskell-bower-json",
+  "version": "1.1.0.0-81",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-better-errors",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199517692,
+  "transmit": 355825,
+  "disk": 531787
+}
