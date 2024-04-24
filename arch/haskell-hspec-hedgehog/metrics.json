@@ -1,0 +1,19 @@
+{
+  "name": "haskell-hspec-hedgehog",
+  "version": "0.0.1.2-256",
+  "depends": [
+    "ghc-libs",
+    "haskell-hspec",
+    "haskell-hspec-core",
+    "haskell-hedgehog",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-splitmix"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199232865,
+  "transmit": 484318,
+  "disk": 338478
+}
