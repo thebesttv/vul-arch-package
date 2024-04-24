@@ -1,0 +1,15 @@
+{
+  "name": "haskell-th-extras",
+  "version": "0.0.0.8-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-syb",
+    "haskell-th-abstraction"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199194925,
+  "transmit": 305136,
+  "disk": 263581
+}
