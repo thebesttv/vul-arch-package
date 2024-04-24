@@ -1,0 +1,16 @@
+{
+  "name": "haskell-gtk3",
+  "version": "0.15.7-69",
+  "depends": [
+    "ghc-libs",
+    "gtk3",
+    "haskell-pango"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-gtk2hs-buildtools"
+  ],
+  "receive": 199247508,
+  "transmit": 357420,
+  "disk": 4389847
+}
