@@ -1,0 +1,24 @@
+{
+  "name": "haskell-fsnotify",
+  "version": "0.4.0.0-65",
+  "depends": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-hinotify",
+    "haskell-monad-control",
+    "haskell-safe-exceptions",
+    "haskell-unix-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-hspec",
+    "haskell-hspec-core",
+    "haskell-hspec-expectations",
+    "haskell-retry",
+    "haskell-temporary"
+  ],
+  "receive": 199644968,
+  "transmit": 539462,
+  "disk": 566650
+}
