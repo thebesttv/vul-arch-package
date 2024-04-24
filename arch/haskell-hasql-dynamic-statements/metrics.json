@@ -1,0 +1,25 @@
+{
+  "name": "haskell-hasql-dynamic-statements",
+  "version": "0.3.1.1-93",
+  "depends": [
+    "ghc-libs",
+    "haskell-hasql",
+    "haskell-hasql-implicits",
+    "haskell-ptr"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-rerebase",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "pifpaf",
+    "postgresql"
+  ],
+  "receive": 199168659,
+  "transmit": 382950,
+  "disk": 419698
+}
