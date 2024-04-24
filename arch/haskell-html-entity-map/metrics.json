@@ -1,0 +1,14 @@
+{
+  "name": "haskell-html-entity-map",
+  "version": "0.1.0.0-167",
+  "depends": [
+    "ghc-libs",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199155426,
+  "transmit": 368184,
+  "disk": 323880
+}
