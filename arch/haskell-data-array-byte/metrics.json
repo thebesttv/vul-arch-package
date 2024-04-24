@@ -1,0 +1,14 @@
+{
+  "name": "haskell-data-array-byte",
+  "version": "0.1.0.1-55",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199177101,
+  "transmit": 394458,
+  "disk": 227401
+}
