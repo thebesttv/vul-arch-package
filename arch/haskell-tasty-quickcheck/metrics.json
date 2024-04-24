@@ -1,0 +1,18 @@
+{
+  "name": "haskell-tasty-quickcheck",
+  "version": "0.10.2-349",
+  "depends": [
+    "ghc-libs",
+    "haskell-optparse-applicative",
+    "haskell-quickcheck",
+    "haskell-random",
+    "haskell-tagged",
+    "haskell-tasty"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 201491147,
+  "transmit": 1209429,
+  "disk": 783023
+}
