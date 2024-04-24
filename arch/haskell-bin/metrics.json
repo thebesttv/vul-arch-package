@@ -1,0 +1,20 @@
+{
+  "name": "haskell-bin",
+  "version": "0.1.3-24",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-boring",
+    "haskell-dec",
+    "haskell-fin",
+    "haskell-hashable",
+    "haskell-some"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199098160,
+  "transmit": 306435,
+  "disk": 319767
+}
