@@ -1,0 +1,17 @@
+{
+  "name": "haskell-shellmet",
+  "version": "0.0.4.1-52",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-doctest",
+    "haskell-glob",
+    "haskell-markdown-unlit"
+  ],
+  "receive": 199142122,
+  "transmit": 337445,
+  "disk": 285341
+}
