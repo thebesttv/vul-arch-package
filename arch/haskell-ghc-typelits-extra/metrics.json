@@ -1,0 +1,19 @@
+{
+  "name": "haskell-ghc-typelits-extra",
+  "version": "0.4.4-35",
+  "depends": [
+    "ghc-libs",
+    "haskell-ghc",
+    "haskell-ghc-tcplugins-extra",
+    "haskell-ghc-typelits-knownnat",
+    "haskell-ghc-typelits-natnormalise"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199046345,
+  "transmit": 278517,
+  "disk": 474286
+}
