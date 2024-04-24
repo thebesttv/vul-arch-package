@@ -1,0 +1,15 @@
+{
+  "name": "haskell-crypto-cipher-types",
+  "version": "0.0.9-326",
+  "depends": [
+    "ghc-libs",
+    "haskell-byteable",
+    "haskell-securemem"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199355856,
+  "transmit": 386437,
+  "disk": 385903
+}
