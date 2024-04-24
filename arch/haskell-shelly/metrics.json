@@ -1,0 +1,24 @@
+{
+  "name": "haskell-shelly",
+  "version": "1.10.0.1-25",
+  "depends": [
+    "ghc-libs",
+    "haskell-unix-compat",
+    "haskell-monad-control",
+    "haskell-lifted-base",
+    "haskell-lifted-async",
+    "haskell-enclosed-exceptions",
+    "haskell-async",
+    "haskell-transformers-base"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hunit",
+    "haskell-hspec",
+    "haskell-hspec-contrib"
+  ],
+  "receive": 199204543,
+  "transmit": 319697,
+  "disk": 793592
+}
