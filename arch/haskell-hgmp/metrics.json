@@ -1,0 +1,14 @@
+{
+  "name": "haskell-hgmp",
+  "version": "0.1.2.1-17",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199494285,
+  "transmit": 360759,
+  "disk": 258665
+}
