@@ -1,0 +1,13 @@
+{
+  "name": "haskell-say",
+  "version": "0.1.0.1-224",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199288971,
+  "transmit": 444152,
+  "disk": 298422
+}
