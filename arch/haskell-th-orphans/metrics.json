@@ -1,0 +1,18 @@
+{
+  "name": "haskell-th-orphans",
+  "version": "0.13.14-53",
+  "depends": [
+    "ghc-libs",
+    "haskell-th-compat",
+    "haskell-th-lift",
+    "haskell-th-reify-many"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199132992,
+  "transmit": 381774,
+  "disk": 410796
+}
