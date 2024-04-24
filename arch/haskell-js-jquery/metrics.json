@@ -1,0 +1,14 @@
+{
+  "name": "haskell-js-jquery",
+  "version": "3.3.1-997",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-http"
+  ],
+  "receive": 199281057,
+  "transmit": 376506,
+  "disk": 1346294
+}
