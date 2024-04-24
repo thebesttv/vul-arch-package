@@ -1,0 +1,19 @@
+{
+  "name": "haskell-wai-http2-extra",
+  "version": "0.1.3-167",
+  "depends": [
+    "ghc-libs",
+    "haskell-http-types",
+    "haskell-psqueues",
+    "haskell-wai",
+    "haskell-warp",
+    "haskell-word8"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-doctest"
+  ],
+  "receive": 199342800,
+  "transmit": 331938,
+  "disk": 356792
+}
