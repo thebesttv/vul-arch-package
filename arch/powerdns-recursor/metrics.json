@@ -1,0 +1,27 @@
+{
+  "name": "powerdns-recursor",
+  "version": "5.0.4-1",
+  "depends": [
+    "gcc-libs",
+    "boost-libs",
+    "libcap",
+    "libcurl.so",
+    "libsodium",
+    "systemd-libs",
+    "luajit",
+    "openssl",
+    "libboost_context.so",
+    "fstrm",
+    "net-snmp"
+  ],
+  "makedepends": [
+    "boost",
+    "pandoc",
+    "ragel",
+    "rust",
+    "systemd"
+  ],
+  "receive": 200793211,
+  "transmit": 277551,
+  "disk": 11227101
+}
