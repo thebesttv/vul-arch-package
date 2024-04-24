@@ -1,0 +1,26 @@
+{
+  "name": "haskell-hls-gadt-plugin",
+  "version": "1.0.1.0-161",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-extra",
+    "haskell-ghc",
+    "haskell-ghc-exactprint",
+    "haskell-ghcide",
+    "haskell-hls-plugin-api",
+    "haskell-hls-refactor-plugin",
+    "haskell-lens",
+    "haskell-lsp",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hls-test-utils",
+    "haskell-lsp-test"
+  ],
+  "receive": 199714369,
+  "transmit": 597272,
+  "disk": 486407
+}
