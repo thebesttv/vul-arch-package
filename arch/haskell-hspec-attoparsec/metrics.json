@@ -1,0 +1,16 @@
+{
+  "name": "haskell-hspec-attoparsec",
+  "version": "0.1.0.2-182",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-hspec-expectations"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199588361,
+  "transmit": 503884,
+  "disk": 271134
+}
