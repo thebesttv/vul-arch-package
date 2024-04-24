@@ -1,0 +1,15 @@
+{
+  "name": "haskell-universe-base",
+  "version": "1.1.3.1-24",
+  "depends": [
+    "ghc-libs",
+    "haskell-tagged"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck"
+  ],
+  "receive": 199144127,
+  "transmit": 339800,
+  "disk": 298338
+}
