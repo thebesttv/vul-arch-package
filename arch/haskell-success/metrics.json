@@ -1,0 +1,15 @@
+{
+  "name": "haskell-success",
+  "version": "0.2.6-276",
+  "depends": [
+    "ghc-libs",
+    "haskell-transformers-base",
+    "haskell-monad-control"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199309337,
+  "transmit": 276280,
+  "disk": 313383
+}
