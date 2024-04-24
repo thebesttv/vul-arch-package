@@ -1,0 +1,15 @@
+{
+  "name": "haskell-random-shuffle",
+  "version": "0.0.4-181",
+  "depends": [
+    "ghc-libs",
+    "haskell-monadrandom",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199152949,
+  "transmit": 384486,
+  "disk": 254735
+}
