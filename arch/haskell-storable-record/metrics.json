@@ -1,0 +1,15 @@
+{
+  "name": "haskell-storable-record",
+  "version": "0.0.7-28",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-utility-ht"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199162142,
+  "transmit": 425716,
+  "disk": 277924
+}
