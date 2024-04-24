@@ -1,0 +1,21 @@
+{
+  "name": "haskell-hw-hspec-hedgehog",
+  "version": "0.1.1.1-67",
+  "depends": [
+    "ghc-libs",
+    "haskell-hunit",
+    "haskell-call-stack",
+    "haskell-hedgehog",
+    "haskell-hspec"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-doctest",
+    "haskell-doctest-discover",
+    "haskell-hspec-discover"
+  ],
+  "receive": 199750699,
+  "transmit": 829489,
+  "disk": 233353
+}
