@@ -1,0 +1,15 @@
+{
+  "name": "haskell-unagi-chan",
+  "version": "0.4.1.4-85",
+  "depends": [
+    "ghc-libs",
+    "haskell-atomic-primops",
+    "haskell-primitive"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199080354,
+  "transmit": 250954,
+  "disk": 588006
+}
