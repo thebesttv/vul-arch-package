@@ -1,0 +1,14 @@
+{
+  "name": "haskell-src-exts-simple",
+  "version": "1.23.0.0-53",
+  "depends": [
+    "ghc-libs",
+    "haskell-src-exts"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199094286,
+  "transmit": 294932,
+  "disk": 234705
+}
