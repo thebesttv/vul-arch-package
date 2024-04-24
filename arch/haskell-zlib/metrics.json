@@ -1,0 +1,18 @@
+{
+  "name": "haskell-zlib",
+  "version": "0.6.3.0-60",
+  "depends": [
+    "ghc-libs",
+    "zlib"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199118796,
+  "transmit": 329909,
+  "disk": 1798066
+}
