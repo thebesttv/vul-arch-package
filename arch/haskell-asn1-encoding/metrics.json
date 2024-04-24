@@ -1,0 +1,15 @@
+{
+  "name": "haskell-asn1-encoding",
+  "version": "0.9.6-230",
+  "depends": [
+    "ghc-libs",
+    "haskell-asn1-types",
+    "haskell-hourglass"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199046725,
+  "transmit": 261006,
+  "disk": 438075
+}
