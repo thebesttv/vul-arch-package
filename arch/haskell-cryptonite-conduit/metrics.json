@@ -1,0 +1,18 @@
+{
+  "name": "haskell-cryptonite-conduit",
+  "version": "0.2.2-627",
+  "depends": [
+    "ghc-libs",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-cryptonite",
+    "haskell-memory",
+    "haskell-resourcet"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 200332095,
+  "transmit": 729529,
+  "disk": 652691
+}
