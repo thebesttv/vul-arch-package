@@ -1,0 +1,14 @@
+{
+  "name": "haskell-critbit",
+  "version": "0.2.0.0-254",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199037455,
+  "transmit": 229170,
+  "disk": 509764
+}
