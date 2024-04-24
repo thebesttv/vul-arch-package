@@ -1,0 +1,21 @@
+{
+  "name": "pypy3",
+  "version": "7.3.16-1",
+  "depends": [
+    "expat",
+    "bzip2",
+    "gdbm",
+    "openssl",
+    "libffi",
+    "zlib",
+    "ncurses"
+  ],
+  "makedepends": [
+    "pypy",
+    "sqlite",
+    "tk"
+  ],
+  "receive": 229813367,
+  "transmit": 322166,
+  "disk": 145785943
+}
