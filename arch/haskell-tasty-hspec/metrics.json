@@ -1,0 +1,19 @@
+{
+  "name": "haskell-tasty-hspec",
+  "version": "1.2.0.3-27",
+  "depends": [
+    "ghc-libs",
+    "haskell-hspec",
+    "haskell-hspec-core",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-smallcheck",
+    "haskell-tasty-quickcheck"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199247469,
+  "transmit": 280218,
+  "disk": 285671
+}
