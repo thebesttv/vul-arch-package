@@ -1,0 +1,16 @@
+{
+  "name": "haskell-auto-update",
+  "version": "0.1.6-337",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec",
+    "haskell-retry",
+    "haskell-hunit"
+  ],
+  "receive": 199076941,
+  "transmit": 296831,
+  "disk": 430014
+}
