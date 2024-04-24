@@ -1,0 +1,15 @@
+{
+  "name": "haskell-rerebase",
+  "version": "1.18-49",
+  "depends": [
+    "ghc-libs",
+    "haskell-rebase"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199482783,
+  "transmit": 373889,
+  "disk": 931215
+}
