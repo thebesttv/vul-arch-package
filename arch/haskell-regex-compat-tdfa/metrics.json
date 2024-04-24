@@ -1,0 +1,15 @@
+{
+  "name": "haskell-regex-compat-tdfa",
+  "version": "0.95.1.4-204",
+  "depends": [
+    "ghc-libs",
+    "haskell-regex-base",
+    "haskell-regex-tdfa"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199195401,
+  "transmit": 387034,
+  "disk": 307040
+}
