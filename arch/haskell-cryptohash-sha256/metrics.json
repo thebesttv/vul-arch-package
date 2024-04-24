@@ -1,0 +1,18 @@
+{
+  "name": "haskell-cryptohash-sha256",
+  "version": "0.11.102.1-91",
+  "depends": [
+    "ghc-libs",
+    "haskell-base16-bytestring"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-sha",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199238058,
+  "transmit": 366309,
+  "disk": 360430
+}
