@@ -1,0 +1,17 @@
+{
+  "name": "haskell-tasty-smallcheck",
+  "version": "0.8.2-465",
+  "depends": [
+    "ghc-libs",
+    "haskell-optparse-applicative",
+    "haskell-smallcheck",
+    "haskell-tagged",
+    "haskell-tasty"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199087983,
+  "transmit": 249606,
+  "disk": 574058
+}
