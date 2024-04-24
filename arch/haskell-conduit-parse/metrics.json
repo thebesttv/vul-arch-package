@@ -1,0 +1,22 @@
+{
+  "name": "haskell-conduit-parse",
+  "version": "0.2.1.1-140",
+  "depends": [
+    "ghc-libs",
+    "haskell-conduit",
+    "haskell-dlist",
+    "haskell-parsers",
+    "haskell-safe",
+    "haskell-safe-exceptions"
+  ],
+  "makedepends": [
+    "ghc",
+    "hlint",
+    "haskell-resourcet",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199146581,
+  "transmit": 366235,
+  "disk": 439872
+}
