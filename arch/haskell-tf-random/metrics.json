@@ -1,0 +1,15 @@
+{
+  "name": "haskell-tf-random",
+  "version": "0.5-699",
+  "depends": [
+    "ghc-libs",
+    "haskell-random",
+    "haskell-primitive"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199607903,
+  "transmit": 409872,
+  "disk": 743435
+}
