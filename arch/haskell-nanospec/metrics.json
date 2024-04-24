@@ -1,0 +1,13 @@
+{
+  "name": "haskell-nanospec",
+  "version": "0.2.2-359",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199463908,
+  "transmit": 436946,
+  "disk": 400654
+}
