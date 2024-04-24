@@ -1,0 +1,15 @@
+{
+  "name": "haskell-filemanip",
+  "version": "0.3.6.3-145",
+  "depends": [
+    "ghc-libs",
+    "sh",
+    "haskell-unix-compat"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199029218,
+  "transmit": 257106,
+  "disk": 300458
+}
