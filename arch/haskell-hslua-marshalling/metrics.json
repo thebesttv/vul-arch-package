@@ -1,0 +1,22 @@
+{
+  "name": "haskell-hslua-marshalling",
+  "version": "2.3.0-43",
+  "depends": [
+    "ghc-libs",
+    "haskell-hslua-core"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-lua-arbitrary",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-hslua",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199084108,
+  "transmit": 277268,
+  "disk": 368703
+}
