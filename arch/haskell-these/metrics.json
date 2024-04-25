@@ -1,0 +1,16 @@
+{
+  "name": "haskell-these",
+  "version": "1.1.1.1-261",
+  "depends": [
+    "ghc-libs",
+    "haskell-assoc",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199085507,
+  "transmit": 337655,
+  "disk": 430863
+}
