@@ -1,0 +1,12 @@
+{
+  "name": "cargo-nextest",
+  "version": "0.9.70-1",
+  "depends": [
+    "cargo",
+    "gcc-libs"
+  ],
+  "makedepends": [],
+  "receive": 199568536,
+  "transmit": 539787,
+  "disk": 17958683
+}
