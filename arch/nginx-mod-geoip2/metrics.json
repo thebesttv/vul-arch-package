@@ -1,0 +1,14 @@
+{
+  "name": "nginx-mod-geoip2",
+  "version": "3.4-4",
+  "depends": [
+    "nginx",
+    "libmaxminddb"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199086541,
+  "transmit": 312928,
+  "disk": 178001
+}
