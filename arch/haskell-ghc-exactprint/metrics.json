@@ -1,0 +1,23 @@
+{
+  "name": "haskell-ghc-exactprint",
+  "version": "1.5.0-7",
+  "depends": [
+    "ghc-libs",
+    "haskell-data-default",
+    "haskell-free",
+    "haskell-ghc-paths",
+    "haskell-ordered-containers",
+    "haskell-syb"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-diff",
+    "haskell-hunit",
+    "haskell-filemanip",
+    "haskell-silently"
+  ],
+  "receive": 199162912,
+  "transmit": 352599,
+  "disk": 2415859
+}
