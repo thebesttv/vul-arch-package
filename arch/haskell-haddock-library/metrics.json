@@ -1,0 +1,20 @@
+{
+  "name": "haskell-haddock-library",
+  "version": "1.11.0-13",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-base-compat",
+    "haskell-hspec",
+    "haskell-hspec-discover",
+    "haskell-quickcheck",
+    "haskell-optparse-applicative",
+    "haskell-tree-diff"
+  ],
+  "receive": 199051837,
+  "transmit": 243673,
+  "disk": 767655
+}
