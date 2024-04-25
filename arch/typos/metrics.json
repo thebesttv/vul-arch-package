@@ -1,0 +1,13 @@
+{
+  "name": "typos",
+  "version": "1.20.10-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 201978937,
+  "transmit": 406027,
+  "disk": 42101148
+}
