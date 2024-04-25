@@ -1,0 +1,13 @@
+{
+  "name": "nginx-mod-vts",
+  "version": "0.2.2-2",
+  "depends": [
+    "nginx"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199250224,
+  "transmit": 412865,
+  "disk": 1198929
+}
