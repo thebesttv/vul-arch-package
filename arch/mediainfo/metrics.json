@@ -1,0 +1,13 @@
+{
+  "name": "mediainfo",
+  "version": "24.04-1",
+  "depends": [
+    "libmediainfo=24.04"
+  ],
+  "makedepends": [
+    "wxwidgets-gtk3"
+  ],
+  "receive": 199368591,
+  "transmit": 462853,
+  "disk": 16295604
+}
