@@ -1,0 +1,15 @@
+{
+  "name": "haskell-iospec",
+  "version": "0.3.1.2-22",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-stream"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199148794,
+  "transmit": 362854,
+  "disk": 238786
+}
