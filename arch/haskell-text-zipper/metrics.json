@@ -1,0 +1,14 @@
+{
+  "name": "haskell-text-zipper",
+  "version": "0.13-26",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199226156,
+  "transmit": 373319,
+  "disk": 351273
+}
