@@ -1,0 +1,19 @@
+{
+  "name": "haskell-src-meta",
+  "version": "0.8.12-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-src-exts",
+    "haskell-syb",
+    "haskell-th-orphans"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 200082255,
+  "transmit": 817872,
+  "disk": 558413
+}
