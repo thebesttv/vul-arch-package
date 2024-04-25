@@ -1,0 +1,13 @@
+{
+  "name": "nginx-mod-redis",
+  "version": "0.3.9-13",
+  "depends": [
+    "nginx"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199130937,
+  "transmit": 372282,
+  "disk": 189944
+}
