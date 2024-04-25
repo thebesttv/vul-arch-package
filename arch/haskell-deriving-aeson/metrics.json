@@ -1,0 +1,14 @@
+{
+  "name": "haskell-deriving-aeson",
+  "version": "0.2.9-64",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199219456,
+  "transmit": 401320,
+  "disk": 346983
+}
