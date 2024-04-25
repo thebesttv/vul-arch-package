@@ -1,0 +1,16 @@
+{
+  "name": "haskell-juicypixels",
+  "version": "3.3.8-31",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive",
+    "haskell-vector",
+    "haskell-zlib"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199118784,
+  "transmit": 342318,
+  "disk": 1101262
+}
