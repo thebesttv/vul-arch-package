@@ -1,0 +1,20 @@
+{
+  "name": "openpgp-card-tools",
+  "version": "0.10.1-1",
+  "depends": [
+    "ccid",
+    "gcc-libs",
+    "glibc",
+    "gmp"
+  ],
+  "makedepends": [
+    "bzip2",
+    "cargo",
+    "clang",
+    "nettle",
+    "pcsclite"
+  ],
+  "receive": 199304285,
+  "transmit": 351244,
+  "disk": 497638
+}
