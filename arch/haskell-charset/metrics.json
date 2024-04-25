@@ -1,0 +1,14 @@
+{
+  "name": "haskell-charset",
+  "version": "0.3.10-26",
+  "depends": [
+    "ghc-libs",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199270138,
+  "transmit": 448118,
+  "disk": 447615
+}
