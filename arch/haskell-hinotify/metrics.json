@@ -1,0 +1,14 @@
+{
+  "name": "haskell-hinotify",
+  "version": "0.4.1-171",
+  "depends": [
+    "ghc-libs",
+    "haskell-async"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199238178,
+  "transmit": 289995,
+  "disk": 317165
+}
