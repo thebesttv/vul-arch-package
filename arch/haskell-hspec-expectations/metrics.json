@@ -1,0 +1,15 @@
+{
+  "name": "haskell-hspec-expectations",
+  "version": "0.8.3-39",
+  "depends": [
+    "ghc-libs",
+    "haskell-call-stack",
+    "haskell-hunit"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199259248,
+  "transmit": 458156,
+  "disk": 422908
+}
