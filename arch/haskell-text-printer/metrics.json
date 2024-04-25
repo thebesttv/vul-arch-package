@@ -1,0 +1,14 @@
+{
+  "name": "haskell-text-printer",
+  "version": "0.5.0.2-93",
+  "depends": [
+    "ghc-libs",
+    "haskell-text-latin1"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199083185,
+  "transmit": 318829,
+  "disk": 357540
+}
