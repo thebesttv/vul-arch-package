@@ -1,0 +1,15 @@
+{
+  "name": "haskell-expiring-cache-map",
+  "version": "0.0.6.1-317",
+  "depends": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199064103,
+  "transmit": 227638,
+  "disk": 500466
+}
