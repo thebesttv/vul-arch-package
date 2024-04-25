@@ -1,0 +1,14 @@
+{
+  "name": "nginx-mod-auth-pam",
+  "version": "1.5.5-2",
+  "depends": [
+    "nginx",
+    "pam"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199186605,
+  "transmit": 397428,
+  "disk": 148612
+}
