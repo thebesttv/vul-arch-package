@@ -1,0 +1,19 @@
+{
+  "name": "haskell-pcre-heavy",
+  "version": "1.0.0.3-37",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-pcre-light",
+    "haskell-string-conversions"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-glob",
+    "haskell-doctest"
+  ],
+  "receive": 199054619,
+  "transmit": 299560,
+  "disk": 352568
+}
