@@ -1,0 +1,14 @@
+{
+  "name": "haskell-logging-facade",
+  "version": "0.3.1-176",
+  "depends": [
+    "ghc-libs",
+    "haskell-call-stack"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199160982,
+  "transmit": 383476,
+  "disk": 476719
+}
