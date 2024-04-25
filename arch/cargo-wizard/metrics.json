@@ -1,0 +1,13 @@
+{
+  "name": "cargo-wizard",
+  "version": "0.2.2-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199447128,
+  "transmit": 531103,
+  "disk": 1077195
+}
