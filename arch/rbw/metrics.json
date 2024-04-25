@@ -1,0 +1,15 @@
+{
+  "name": "rbw",
+  "version": "1.10.0-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "pinentry"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199090002,
+  "transmit": 307158,
+  "disk": 719309
+}
