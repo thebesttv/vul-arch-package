@@ -1,0 +1,17 @@
+{
+  "name": "haskell-topograph",
+  "version": "1.0.0.2-46",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-base-orphans",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199196480,
+  "transmit": 369558,
+  "disk": 298095
+}
