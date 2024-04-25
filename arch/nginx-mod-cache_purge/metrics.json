@@ -1,0 +1,13 @@
+{
+  "name": "nginx-mod-cache_purge",
+  "version": "2.5.3-3",
+  "depends": [
+    "nginx"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199263428,
+  "transmit": 445623,
+  "disk": 252633
+}
