@@ -1,0 +1,17 @@
+{
+  "name": "haskell-semirings",
+  "version": "0.6-154",
+  "depends": [
+    "ghc-libs",
+    "haskell-base-compat-batteries",
+    "haskell-hashable",
+    "haskell-unordered-containers"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199124592,
+  "transmit": 349058,
+  "disk": 343083
+}
