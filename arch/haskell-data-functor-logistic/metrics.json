@@ -1,0 +1,15 @@
+{
+  "name": "haskell-data-functor-logistic",
+  "version": "0.0-41",
+  "depends": [
+    "ghc-libs",
+    "haskell-distributive"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199281336,
+  "transmit": 464988,
+  "disk": 165461
+}
