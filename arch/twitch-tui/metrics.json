@@ -1,0 +1,14 @@
+{
+  "name": "twitch-tui",
+  "version": "2.6.7-1",
+  "depends": [
+    "gcc-libs",
+    "openssl"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199134097,
+  "transmit": 365507,
+  "disk": 902853
+}
