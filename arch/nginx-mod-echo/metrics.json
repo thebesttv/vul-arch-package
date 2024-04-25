@@ -1,0 +1,13 @@
+{
+  "name": "nginx-mod-echo",
+  "version": "0.62-7",
+  "depends": [
+    "nginx"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199121869,
+  "transmit": 356133,
+  "disk": 468881
+}
