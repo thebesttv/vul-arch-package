@@ -1,0 +1,21 @@
+{
+  "name": "haskell-deriving-compat",
+  "version": "0.6.6-2",
+  "depends": [
+    "ghc-libs",
+    "haskell-th-abstraction",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-base-compat",
+    "haskell-base-orphans",
+    "haskell-hspec",
+    "haskell-quickcheck",
+    "haskell-tagged",
+    "haskell-void"
+  ],
+  "receive": 200453085,
+  "transmit": 920301,
+  "disk": 781376
+}
