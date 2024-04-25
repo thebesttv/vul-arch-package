@@ -1,0 +1,14 @@
+{
+  "name": "gifski",
+  "version": "1.32.0-1",
+  "depends": [
+    "ffmpeg"
+  ],
+  "makedepends": [
+    "cargo",
+    "clang"
+  ],
+  "receive": 199174771,
+  "transmit": 340914,
+  "disk": 531552
+}
