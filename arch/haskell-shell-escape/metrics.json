@@ -1,0 +1,14 @@
+{
+  "name": "haskell-shell-escape",
+  "version": "0.2.0-200",
+  "depends": [
+    "ghc-libs",
+    "haskell-vector"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199183825,
+  "transmit": 363866,
+  "disk": 294400
+}
