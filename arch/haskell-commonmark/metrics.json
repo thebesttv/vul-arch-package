@@ -1,0 +1,18 @@
+{
+  "name": "haskell-commonmark",
+  "version": "0.2.4-3",
+  "depends": [
+    "ghc-libs",
+    "haskell-unicode-data",
+    "haskell-unicode-transforms"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199276430,
+  "transmit": 345106,
+  "disk": 818235
+}
