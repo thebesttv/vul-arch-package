@@ -1,0 +1,16 @@
+{
+  "name": "haskell-jira-wiki-markup",
+  "version": "1.5.1-22",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-hunit"
+  ],
+  "receive": 199170953,
+  "transmit": 380268,
+  "disk": 423061
+}
