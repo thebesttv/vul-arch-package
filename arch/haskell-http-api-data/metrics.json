@@ -1,0 +1,28 @@
+{
+  "name": "haskell-http-api-data",
+  "version": "0.5.1-51",
+  "depends": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-attoparsec-iso8601",
+    "haskell-base-compat",
+    "haskell-cookie",
+    "haskell-hashable",
+    "haskell-http-types",
+    "haskell-tagged",
+    "haskell-time-compat",
+    "haskell-unordered-containers",
+    "haskell-uuid-types"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-hspec",
+    "haskell-hunit",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances"
+  ],
+  "receive": 199148770,
+  "transmit": 352298,
+  "disk": 614721
+}
