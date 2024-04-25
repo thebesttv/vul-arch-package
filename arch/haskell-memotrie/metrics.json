@@ -1,0 +1,14 @@
+{
+  "name": "haskell-memotrie",
+  "version": "0.6.10-218",
+  "depends": [
+    "ghc-libs",
+    "haskell-newtype-generics"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199136295,
+  "transmit": 362394,
+  "disk": 332784
+}
