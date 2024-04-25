@@ -1,0 +1,17 @@
+{
+  "name": "cabal-fmt",
+  "version": "0.1.5.1-116",
+  "depends": [
+    "ghc-libs",
+    "haskell-optparse-applicative"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-tasty",
+    "haskell-tasty-golden"
+  ],
+  "receive": 199038713,
+  "transmit": 298095,
+  "disk": 450587
+}
