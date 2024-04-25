@@ -1,0 +1,13 @@
+{
+  "name": "nginx-mod-naxsi",
+  "version": "1.4-2",
+  "depends": [
+    "nginx"
+  ],
+  "makedepends": [
+    "nginx-src"
+  ],
+  "receive": 199146267,
+  "transmit": 360244,
+  "disk": 29995188
+}
