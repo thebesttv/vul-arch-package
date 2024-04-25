@@ -1,0 +1,16 @@
+{
+  "name": "haskell-dbus-hslogger",
+  "version": "0.1.0.1-485",
+  "depends": [
+    "ghc-libs",
+    "haskell-dbus",
+    "haskell-hslogger",
+    "haskell-optparse-applicative"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199161149,
+  "transmit": 351447,
+  "disk": 511905
+}
