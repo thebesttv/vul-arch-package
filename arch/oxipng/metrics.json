@@ -1,0 +1,13 @@
+{
+  "name": "oxipng",
+  "version": "9.1.1-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "rust"
+  ],
+  "receive": 199221507,
+  "transmit": 409488,
+  "disk": 43763056
+}
