@@ -1,0 +1,14 @@
+{
+  "name": "haskell-utf8-string",
+  "version": "1.0.2-150",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hunit"
+  ],
+  "receive": 199136875,
+  "transmit": 378202,
+  "disk": 341663
+}
