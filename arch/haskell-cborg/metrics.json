@@ -1,0 +1,26 @@
+{
+  "name": "haskell-cborg",
+  "version": "0.2.9.0-40",
+  "depends": [
+    "ghc-libs",
+    "haskell-half",
+    "haskell-primitive"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-aeson",
+    "haskell-base-orphans",
+    "haskell-base16-bytestring",
+    "haskell-base64-bytestring",
+    "haskell-quickcheck",
+    "haskell-scientific",
+    "haskell-tasty",
+    "haskell-tasty-hunit",
+    "haskell-tasty-quickcheck",
+    "haskell-vector"
+  ],
+  "receive": 199427803,
+  "transmit": 378587,
+  "disk": 973913
+}
