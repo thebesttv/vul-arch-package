@@ -1,0 +1,23 @@
+{
+  "name": "js115",
+  "version": "115.10.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "readline",
+    "sh",
+    "zlib"
+  ],
+  "makedepends": [
+    "autoconf2.13",
+    "clang",
+    "lld",
+    "llvm",
+    "python",
+    "rust",
+    "zip"
+  ],
+  "receive": 713544692,
+  "transmit": 3377018,
+  "disk": 2995440080
+}
