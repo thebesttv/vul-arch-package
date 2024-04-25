@@ -1,0 +1,20 @@
+{
+  "name": "xmonad-contrib",
+  "version": "0.18.0-8",
+  "depends": [
+    "ghc-libs",
+    "xmonad",
+    "haskell-x11",
+    "haskell-x11-xft",
+    "haskell-utf8-string",
+    "haskell-random"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-hspec"
+  ],
+  "receive": 199121534,
+  "transmit": 334918,
+  "disk": 3857134
+}
