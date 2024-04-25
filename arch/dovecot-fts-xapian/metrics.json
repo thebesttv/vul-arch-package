@@ -1,0 +1,13 @@
+{
+  "name": "dovecot-fts-xapian",
+  "version": "1.7.10-1",
+  "depends": [
+    "dovecot=2.3.20",
+    "icu",
+    "xapian-core"
+  ],
+  "makedepends": [],
+  "receive": 199069725,
+  "transmit": 241407,
+  "disk": 318551
+}
