@@ -1,0 +1,12 @@
+{
+  "name": "gnome-shell-extension-arc-menu",
+  "version": "56-1",
+  "depends": [
+    "gnome-menus",
+    "gnome-shell"
+  ],
+  "makedepends": [],
+  "receive": 199096544,
+  "transmit": 273962,
+  "disk": 3532322
+}
