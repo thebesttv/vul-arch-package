@@ -1,0 +1,31 @@
+{
+  "name": "haskell-binary-instances",
+  "version": "1.0.4-13",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-binary-orphans",
+    "haskell-case-insensitive",
+    "haskell-hashable",
+    "haskell-primitive",
+    "haskell-scientific",
+    "haskell-tagged",
+    "haskell-text-binary",
+    "haskell-time-compat",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-vector-binary-instances"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-quickcheck",
+    "haskell-data-array-byte",
+    "haskell-quickcheck-instances",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199076557,
+  "transmit": 288701,
+  "disk": 424573
+}
