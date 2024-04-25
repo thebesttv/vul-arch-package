@@ -1,0 +1,16 @@
+{
+  "name": "haskell-monad-control",
+  "version": "1.0.3.1-102",
+  "depends": [
+    "ghc-libs",
+    "haskell-transformers-base",
+    "haskell-transformers-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199248578,
+  "transmit": 391042,
+  "disk": 384258
+}
