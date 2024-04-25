@@ -1,0 +1,15 @@
+{
+  "name": "haskell-th-env",
+  "version": "0.1.1-57",
+  "depends": [
+    "ghc-libs",
+    "haskell-th-compat"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-markdown-unlit"
+  ],
+  "receive": 199574463,
+  "transmit": 517320,
+  "disk": 241958
+}
