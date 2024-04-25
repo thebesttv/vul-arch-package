@@ -1,0 +1,19 @@
+{
+  "name": "haskell-attoparsec",
+  "version": "0.14.4-74",
+  "depends": [
+    "ghc-libs",
+    "haskell-scientific"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-quickcheck",
+    "haskell-quickcheck-unicode",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck",
+    "haskell-vector"
+  ],
+  "receive": 199056361,
+  "transmit": 290432,
+  "disk": 1196282
+}
