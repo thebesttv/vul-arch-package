@@ -1,0 +1,21 @@
+{
+  "name": "haskell-path",
+  "version": "0.9.5-13",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-hashable"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-genvalidity",
+    "haskell-genvalidity-hspec",
+    "haskell-genvalidity-property",
+    "haskell-hspec",
+    "haskell-quickcheck",
+    "haskell-validity"
+  ],
+  "receive": 200017589,
+  "transmit": 749680,
+  "disk": 668067
+}
