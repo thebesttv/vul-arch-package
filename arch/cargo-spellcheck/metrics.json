@@ -1,0 +1,15 @@
+{
+  "name": "cargo-spellcheck",
+  "version": "0.14.0-1",
+  "depends": [
+    "cargo",
+    "hunspell"
+  ],
+  "makedepends": [
+    "clang",
+    "hunspell-en_US"
+  ],
+  "receive": 199085849,
+  "transmit": 266274,
+  "disk": 16172869
+}
