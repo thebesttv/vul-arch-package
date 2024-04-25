@@ -1,0 +1,23 @@
+{
+  "name": "python-django-allauth",
+  "version": "0.62.0-1",
+  "depends": [
+    "python",
+    "python-asgiref",
+    "python-cryptography",
+    "python-django",
+    "python-openid",
+    "python-requests",
+    "python-requests-oauthlib",
+    "python-pyjwt"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199203027,
+  "transmit": 409562,
+  "disk": 7049351
+}
