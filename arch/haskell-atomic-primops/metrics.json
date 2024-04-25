@@ -1,0 +1,14 @@
+{
+  "name": "haskell-atomic-primops",
+  "version": "0.8.5-5",
+  "depends": [
+    "ghc-libs",
+    "haskell-primitive"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199025888,
+  "transmit": 215376,
+  "disk": 395141
+}
