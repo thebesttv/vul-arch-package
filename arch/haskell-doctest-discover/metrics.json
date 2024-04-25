@@ -1,0 +1,16 @@
+{
+  "name": "haskell-doctest-discover",
+  "version": "0.2.0.0-67",
+  "depends": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-doctest"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi"
+  ],
+  "receive": 199020041,
+  "transmit": 236261,
+  "disk": 240978
+}
