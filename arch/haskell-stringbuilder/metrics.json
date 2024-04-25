@@ -1,0 +1,13 @@
+{
+  "name": "haskell-stringbuilder",
+  "version": "0.5.1-407",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199526396,
+  "transmit": 384821,
+  "disk": 425853
+}
