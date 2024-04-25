@@ -1,0 +1,15 @@
+{
+  "name": "haskell-mysql",
+  "version": "0.2.1-86",
+  "depends": [
+    "ghc-libs",
+    "mariadb-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "haskell-hspec"
+  ],
+  "receive": 199262492,
+  "transmit": 341287,
+  "disk": 330151
+}
