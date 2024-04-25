@@ -1,0 +1,15 @@
+{
+  "name": "haskell-stream",
+  "version": "0.4.7.2-126",
+  "depends": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-lazysmallcheck"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 199030831,
+  "transmit": 260418,
+  "disk": 228990
+}
