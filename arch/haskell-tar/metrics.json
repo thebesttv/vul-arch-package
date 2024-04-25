@@ -1,0 +1,18 @@
+{
+  "name": "haskell-tar",
+  "version": "0.5.1.1-172",
+  "depends": [
+    "ghc-libs"
+  ],
+  "makedepends": [
+    "ghc",
+    "uusi",
+    "haskell-bytestring-handle",
+    "haskell-quickcheck",
+    "haskell-tasty",
+    "haskell-tasty-quickcheck"
+  ],
+  "receive": 199306720,
+  "transmit": 397698,
+  "disk": 466687
+}
