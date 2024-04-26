@@ -1,0 +1,20 @@
+{
+  "name": "pyqt6-datavisualization",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-pyqt6",
+    "qt6-base",
+    "qt6-datavis3d"
+  ],
+  "makedepends": [
+    "pyqt-builder",
+    "qt6-declarative",
+    "sip"
+  ],
+  "receive": 199216727,
+  "transmit": 418310,
+  "disk": 844323
+}
