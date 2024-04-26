@@ -1,0 +1,15 @@
+{
+  "name": "yazi",
+  "version": "0.2.5-1",
+  "depends": [
+    "gcc-libs",
+    "ttf-nerd-fonts-symbols"
+  ],
+  "makedepends": [
+    "cargo",
+    "imagemagick"
+  ],
+  "receive": 199282900,
+  "transmit": 417290,
+  "disk": 2491511
+}
