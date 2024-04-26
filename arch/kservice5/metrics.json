@@ -1,0 +1,20 @@
+{
+  "name": "kservice5",
+  "version": "5.115.0-2",
+  "depends": [
+    "ki18n5",
+    "kconfig5",
+    "kdbusaddons5",
+    "kcoreaddons5"
+  ],
+  "makedepends": [
+    "extra-cmake-modules",
+    "kdoctools5",
+    "doxygen",
+    "qt5-tools",
+    "qt5-doc"
+  ],
+  "receive": 202874309,
+  "transmit": 976496,
+  "disk": 27357634
+}
