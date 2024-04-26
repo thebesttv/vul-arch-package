@@ -153,7 +153,7 @@ antlr4-runtime 4.13.1-1
 anura 4.0.2-1
 anything-sync-daemon 6.0.0-2
 aom 3.9.0-1
-apache 2.4.58-1
+apache 2.4.59-1
 apache-orc 1.9.2-1
 apcupsd 3.14.14-7
 apitrace 11.1-2
@@ -207,7 +207,7 @@ arduino-fwuploader 2.4.1-2
 arduino-ide 2.3.2-1
 arduino-language-server 0.7.6-1
 argbash 2.10.0-2
-argocd 2.10.6-1
+argocd 2.10.8-1
 argon2 20190702-5
 argparse 3.0-2
 argtable 2.13-5
@@ -546,7 +546,7 @@ buho 3.1.0-1
 build2 0.16.0-2
 buildah 1.35.3-1
 buildbot 3.11.1-1
-buildkit 0.13.1-1
+buildkit 0.13.2-1
 bullet 3.25-3
 bully 1.2-1
 bumblebee 3.2.1-21
@@ -616,7 +616,7 @@ cargo-c 0.9.31-1
 cargo-clone 1.2.1-3
 cargo-crev 0.25.6-1
 cargo-cyclonedx 0.5.0-1
-cargo-deb 2.1.0-1
+cargo-deb 2.1.1-1
 cargo-deny 0.14.22-1
 cargo-depgraph 1.6.0-2
 cargo-dist 0.13.3-1
@@ -642,10 +642,10 @@ cargo-outdated 0.15.0-1
 cargo-pgrx 0.11.2-1
 cargo-public-api 0.34.1-1
 cargo-rdme 1.4.3-1
-cargo-release 0.25.6-1
+cargo-release 0.25.7-1
 cargo-run-bin 1.7.2-2
 cargo-semver-checks 0.31.0-1
-cargo-show-asm 0.2.33-1
+cargo-show-asm 0.2.34-1
 cargo-shuttle 0.44.0-1
 cargo-sort 1.0.9-1
 cargo-spellcheck 0.14.0-1
@@ -745,7 +745,7 @@ chntpw 140201-4
 choose 1.3.4-1
 choria-io 0.23.0-1
 chromaprint 1.5.1-7
-chromium 124.0.6367.78-1
+chromium 124.0.6367.91-1
 chromium-bsu 0.9.16.1-2
 chrono-date 3.0.1-3
 chrony 4.5-1
@@ -1013,7 +1013,7 @@ daktilo 0.6.0-1
 danmaq 0.2.3.2-1
 dante 1.4.3-3
 darcs 2.18.1-6
-dark-reader 4.9.83-1
+dark-reader 4.9.84-1
 darkhttpd 1.16-1
 darkman 1.5.4-2
 darkstat 3.0.721-3
@@ -1137,7 +1137,7 @@ deja-dup 45.2-1
 dejagnu 1.6.3-8
 deluge 1:2.1.1-4
 delve 1.22.1-1
-deno 1.42.1-1
+deno 1.42.2-1
 desktop-file-utils 0.27-1
 desmume 0.9.13-1
 desync 0.9.5-1
@@ -1251,7 +1251,7 @@ dokuwiki 20240206_a-2
 dolphin 24.02.2-2
 dolphin-emu 1:5.0.r21264.1efda863e4-1
 dolphin-plugins 24.02.2-1
-dolt 1:1.35.10-1
+dolt 1:1.35.11-1
 dontpanic 1.02-2
 dool 1.3.1-1
 doomretro 5.2.1-1
@@ -1304,7 +1304,7 @@ dsp 1.9-3
 dsq 0.23.0-2
 dssi 1.1.1-12
 dtc 1.7.0-4
-dtk6core 6.0.10-1
+dtk6core 6.0.11-1
 dtk6declarative 6.0.10-1
 dtk6gui 1:6.0.10-1
 dtk6widget 6.0.10-1
@@ -1334,7 +1334,7 @@ dvdstyler 3.2.1-2
 dvgrab 3.5-13
 dvisvgm 3.3-1
 dvtm 0.15-5
-dwarffortress 50.12-1
+dwarffortress 50.13-1
 dwayland 5.25.0-1
 dysk 2.8.2-1
 dzen2 0.9.5.14.488ab66-2
@@ -1544,23 +1544,23 @@ fcitx-table-other 0.2.4-2
 fcitx-ui-light 0.1.3-5
 fcitx-unikey 0.2.7-3
 fcitx5 5.1.9-1
-fcitx5-anthy 5.1.3-1
-fcitx5-bamboo 1.0.4-1
+fcitx5-anthy 5.1.4-1
+fcitx5-bamboo 1.0.5-1
 fcitx5-breeze 2.0.0-2
-fcitx5-chewing 5.1.1-1
+fcitx5-chewing 5.1.2-1
 fcitx5-chinese-addons 5.1.4-1
 fcitx5-configtool 5.1.4-1
-fcitx5-gtk 5.1.2-1
-fcitx5-hangul 5.1.2-1
-fcitx5-kkc 5.1.2-1
-fcitx5-libthai 5.1.2-1
-fcitx5-lua 5.0.12-1
+fcitx5-gtk 5.1.3-1
+fcitx5-hangul 5.1.3-1
+fcitx5-kkc 5.1.3-1
+fcitx5-libthai 5.1.3-1
+fcitx5-lua 5.0.13-1
 fcitx5-m17n 5.1.0-1
 fcitx5-material-color 0.2.1-1
 fcitx5-mozc 2.26.4632.102.g4d2e3bd-2
 fcitx5-nord 0.0.0.20210727-1
-fcitx5-pinyin-zhwiki 1:0.2.4.20240210-1
-fcitx5-qt 5.1.5-4
+fcitx5-pinyin-zhwiki 1:0.2.4.20240426-1
+fcitx5-qt 5.1.6-1
 fcitx5-rime 5.1.5-1
 fcitx5-sayura 5.1.1-1
 fcitx5-skk 5.1.2-1
@@ -1633,7 +1633,7 @@ firefox-extension-passff 1.16.0-1
 firefox-i18n 125.0.2-1
 firefox-noscript 11.4.29-1
 firefox-spell-ru 0.4.5.1-1
-firefox-tree-style-tab 4.0.13-1
+firefox-tree-style-tab 4.0.14-1
 firefox-tridactyl 1.24.1-1
 firejail 0.9.72-2
 firetools 0.9.72-2
@@ -1658,7 +1658,7 @@ flawfinder 2.0.19-1
 flex 2.6.4-5
 flickcurl 1.26-12
 flim 1.14.9-9
-flint 3.1.2-1
+flint 3.1.3-1
 flip-link 0.1.8-1
 flite 2.2-1
 flobopuyo 0.20-11
@@ -1864,7 +1864,7 @@ girara 0.4.3-3
 gist 6.0.0-1
 git 2.44.0-1
 git-absorb 0.6.13-1
-git-annex 10.20240227-16
+git-annex 10.20240227-17
 git-branchless 0.8.0-2
 git-bug 0.8.0-2
 git-cliff 2.2.1-1
@@ -2125,7 +2125,7 @@ gptfdisk 1.0.10-1
 gputils 1.5.2-1
 gpx-viewer 0.4.0-4
 gpxsee 13.18-1
-gradle 8.7-1
+gradle 8.7-2
 gradle7 7.6.4-1
 grafana 10.4.2-1
 grafana-agent 0.40.2-1
@@ -2373,8 +2373,8 @@ haskell-call-stack 0.4.0-184
 haskell-casa-client 0.0.1-686
 haskell-casa-types 0.0.2-426
 haskell-case-insensitive 1.2.1.0-203
-haskell-cassava 0.5.3.0-96
-haskell-cassava-megaparsec 2.1.1-6
+haskell-cassava 0.5.3.1-1
+haskell-cassava-megaparsec 2.1.1-7
 haskell-cborg 0.2.9.0-40
 haskell-cborg-json 0.2.5.0-86
 haskell-cereal 0.5.8.3-2
@@ -2434,7 +2434,7 @@ haskell-cookie 0.4.6-2
 haskell-cpphs 1.20.9.1-13
 haskell-cracknum 3.2-244
 haskell-critbit 0.2.0.0-254
-haskell-criterion 1.6.1.0-18
+haskell-criterion 1.6.1.0-19
 haskell-criterion-measurement 0.2.1.0-54
 haskell-crypto-api 0.13.3-39
 haskell-crypto-api-tests 0.3-255
@@ -2641,7 +2641,7 @@ haskell-glib 0.13.10.0-13
 haskell-glob 0.10.2-90
 haskell-gnuidn 0.2.2-202
 haskell-gnutls 0.2-26
-haskell-graphite 0.10.0.1-211
+haskell-graphite 0.10.0.1-212
 haskell-graphscc 1.0.4-26
 haskell-graphviz 2999.20.2.0-2
 haskell-gridtables 0.1.0.0-48
@@ -2655,7 +2655,7 @@ haskell-hackage-db 2.1.3-45
 haskell-hackage-security 0.6.2.5-2
 haskell-haddock-library 1.11.0-13
 haskell-hadrian 0.1.0.0+9.4.8-11
-haskell-hakyll 4.16.0.0-150
+haskell-hakyll 4.16.0.0-151
 haskell-half 0.3.1-151
 haskell-happstack-server 7.9.0-11
 haskell-hashable 1.4.3.0-46
@@ -2682,7 +2682,7 @@ haskell-hiedb 0.4.2.0-67
 haskell-hinotify 0.4.1-171
 haskell-hint 0.9.0.6-43
 haskell-hjsmin 0.2.0.4-225
-haskell-hledger-lib 1.32.1-30
+haskell-hledger-lib 1.32.1-31
 haskell-hls-alternate-number-format-plugin 1.3.0.0-161
 haskell-hls-cabal-fmt-plugin 0.1.0.0-161
 haskell-hls-cabal-plugin 0.1.0.0-161
@@ -2985,10 +2985,10 @@ haskell-optparse-simple 0.1.1.4-318
 haskell-ordered-containers 0.2.3-2
 haskell-ormolu 0.5.0.1-8
 haskell-pager 0.1.1.0-53
-haskell-pandoc 3.1.8-20
-haskell-pandoc-lua-engine 0.2.1.2-6
+haskell-pandoc 3.1.8-21
+haskell-pandoc-lua-engine 0.2.1.2-7
 haskell-pandoc-lua-marshal 0.2.3-4
-haskell-pandoc-server 0.1.0.5-23
+haskell-pandoc-server 0.1.0.5-24
 haskell-pandoc-types 1.23.1-18
 haskell-pango 0.13.8.2-74
 haskell-panic 0.4.0.1-25
@@ -3311,7 +3311,7 @@ haskell-type-errors 0.2.0.2-24
 haskell-type-errors-pretty 0.0.1.2-103
 haskell-type-hint 0.1-29
 haskell-typed-process 0.2.11.1-15
-haskell-typst 0.3.2.1-26
+haskell-typst 0.3.2.1-27
 haskell-typst-symbols 0.1.4-2
 haskell-tz 0.1.3.6-96
 haskell-tzdata 0.2.20240201.0-5
@@ -3482,10 +3482,10 @@ hiredis 1.2.0-2
 hitch 1.8.0-1
 hitori 44.0-1
 hivex 1.3.23-4
-hledger 1.32.1-38
-hledger-iadd 1.3.20-26
-hledger-ui 1.32.1-41
-hledger-web 1.32.1-50
+hledger 1.32.1-39
+hledger-iadd 1.3.20-27
+hledger-ui 1.32.1-42
+hledger-web 1.32.1-51
 hlint 3.4.1-9
 hm 18.0-1
 hoel 1.4.29-1
@@ -3555,7 +3555,7 @@ hyphen-fr 3.0-5
 hyphen-hu 20240321-1
 hyphen-it 20071127-6
 hyphen-nl 20050617-6
-hyprcursor 0.1.7-1
+hyprcursor 0.1.8-1
 hypridle 0.1.2-1
 hyprland 0.39.1-5
 hyprlang 0.5.1-1
@@ -3773,7 +3773,7 @@ jhead 3.08-1
 jitterentropy 3.4.1-1
 jlatexmath 1.0.7-2
 jless 0.9.0-1
-jmol 16.2.7-1
+jmol 16.2.9-1
 jnettop 0.13.0-9
 jnoisemeter 0.4.1-1
 jo 1.9-1
@@ -3820,7 +3820,7 @@ jupyter-notebook-shim 0.2.4-1
 jupyter-server 2.14.0-1
 jupyter-server-fileid 0.9.2-1
 jupyter-server-mathjax 0.2.6-2
-jupyterlab 4.1.6-1
+jupyterlab 4.1.7-1
 jupyterlab-pygments 0.3.0-1
 jupyterlab-widgets 3.0.10-1
 just 1.25.2-1
@@ -4184,7 +4184,7 @@ kscreenlocker 6.0.4-1
 kscreenlocker5 5.27.11-1
 kseexpr 4.0.4.0-1
 kservice 6.1.0-1
-kservice5 5.115.0-1
+kservice5 5.115.0-2
 ksh 2020.0.0-3
 kshisen 24.02.2-1
 kshutdown 5.2-2
@@ -4580,14 +4580,14 @@ libantlr3c 3.5.3-1
 libao 1.2.2-6
 libappimage 1.0.4.5-5
 libappindicator 12.10.0.r298-3
-libarchive 3.7.3-1
+libarchive 3.7.3-3
 libass 0.17.1-4
 libassuan 2.5.7-2
 libasyncns 1:0.8+r3+g68cd5af-2
 libatasmart 0.19-6
 libatomic_ops 7.8.0-1
 libavc1394 0.5.4-6
-libavif 1.0.4-2
+libavif 1.0.4-3
 libavtp 0.2.0-2
 libaxc 0.3.7-1
 libayatana-appindicator 0.5.93-1
@@ -5154,7 +5154,7 @@ libunibreak 6.1-1
 libuninameslist 20221022-1
 libunistring 1.2-1
 libunwind 1.8.1-2
-libupnp 1.14.19-1
+libupnp 1.14.19-2
 libupnpp 0.26.2-1
 liburcu 0.14.0-1
 liburing 2.5-1
@@ -5331,7 +5331,7 @@ lm_sensors 1:3.6.0.r41.g31d1f125-2
 lmdb 0.9.32-1
 lmdbxx 1.0.0-2
 lmms 1.2.2-22
-lnav 0.12.2-1
+lnav 0.12.2-2
 lockfile-progs 0.1.19-3
 log4cplus 2.1.0-1
 log4cpp 1.1.4-1
@@ -5668,7 +5668,7 @@ meson-python 0.16.0-1
 messagelib 24.02.2-1
 metacity 3.52.0-1
 metalog 20230719-1
-metasploit 6.4.5-1
+metasploit 6.4.6-1
 mfoc 0.10.7+38+gba072f1-1
 mg 20230501-2
 mgard 1.0.0-1
@@ -6359,9 +6359,9 @@ pam_mount 2.20-1
 pam_wrapper 1.1.5-1
 pambase 20230918-1
 pamixer 1.6-3
-pandoc-cli 0.1.1.1-94
-pandoc-crossref 0.3.17.0-20
-pandoc-plot 1.8.0-64
+pandoc-cli 0.1.1.1-95
+pandoc-crossref 0.3.17.0-21
+pandoc-plot 1.8.0-65
 pango 1:1.52.2-1
 pango-perl 1.227-16
 pangomm 2.46.4-1
@@ -6614,7 +6614,7 @@ perl-dbi-shell 11.97-4
 perl-devel-checkbin 0.04-9
 perl-devel-checkcompiler 0.07-9
 perl-devel-checklib 1.16-2
-perl-devel-cover 1.40-2
+perl-devel-cover 1.42-1
 perl-devel-cycle 1.12-4
 perl-devel-globaldestruction 0.14-9
 perl-devel-leak 0.03-13
@@ -7190,7 +7190,7 @@ pipewire-media-session 1:0.4.2-2
 piping-server 0.18.0-1
 pitivi 2023.03-2
 pius 3.0.0-6
-pixi 0.20.0-1
+pixi 0.20.1-1
 pixiewps 1.4.2-3
 pixman 0.43.4-1
 pixz 1.0.7-4
@@ -7288,7 +7288,7 @@ postgis 3.4.2-1
 postgresql 16.2-1
 postgresql-ip4r 2.4.2-2
 postgresql-old-upgrade 15.5-5
-postgrest 10.0.0-232
+postgrest 10.0.0-233
 postgrey 1.37-5
 postorius 1.3.10-1
 potrace 1.16-3
@@ -7428,7 +7428,7 @@ pypiserver 2.0.1-1
 pyprof2calltree 1.4.5-10
 pypy 7.3.16-1
 pypy3 7.3.16-1
-pyqt-builder 1.16.1-1
+pyqt-builder 1.16.2-1
 pyqt5 5.15.10-1
 pyqt5-3d 5.15.6-2
 pyqt5-chart 5.15.6-2
@@ -7436,12 +7436,12 @@ pyqt5-datavisualization 5.15.5-4
 pyqt5-networkauth 5.15.5-4
 pyqt5-purchasing 5.15.5-4
 pyqt5-webengine 5.15.6-2
-pyqt6 6.7.0dev2404081550-1
-pyqt6-3d 6.6.0-1
-pyqt6-charts 6.6.0-1
-pyqt6-datavisualization 6.6.0-1
-pyqt6-networkauth 6.6.0-1
-pyqt6-webengine 6.6.0-1
+pyqt6 6.7.0-1
+pyqt6-3d 6.7.0-1
+pyqt6-charts 6.7.0-1
+pyqt6-datavisualization 6.7.0-1
+pyqt6-networkauth 6.7.0-1
+pyqt6-webengine 6.7.0-1
 pyright 1.1.360-1
 pyside6 6.7.0-3
 pysmbc 1.0.25.1-1
@@ -8037,6 +8037,7 @@ python-httplib2 0.22.0-4
 python-httpretty 1.1.4-7
 python-httptools 0.6.1-1
 python-httpx 0.26.0-1
+python-httpx-ws 0.6.0-1
 python-humanfriendly 10.0-6
 python-humanize 4.9.0-1
 python-hunter 3.6.0-1
@@ -8081,7 +8082,7 @@ python-ioflo 2.0.2-6
 python-iosbackup 0.9.925-2
 python-ipdb 0.13.13-2
 python-ipip-ipdb 1.6.0-3
-python-ipycanvas 0.13.1-2
+python-ipycanvas 0.13.2-1
 python-ipykernel 6.29.4-1
 python-ipympl 0.9.4-1
 python-ipyparallel 8.8.0-1
@@ -8565,7 +8566,7 @@ python-pycodestyle 2.11.1-1
 python-pycountry 23.12.11-1
 python-pycparser 2.22-1
 python-pycrdt 0.8.19-1
-python-pycrdt-websocket 0.12.7-1
+python-pycrdt-websocket 0.13.0-1
 python-pycryptodome 3.20.0-1
 python-pycryptodomex 3.12.0-2
 python-pyct 0.5.0-2
@@ -9023,6 +9024,7 @@ python-sqlalchemy 1.4.52-1
 python-sqlalchemy-continuum 1.3.14-2
 python-sqlalchemy-i18n 1.1.0-4
 python-sqlalchemy-utils 0.38.3-3
+python-sqlite-anyio 0.2.0-1
 python-sqlitedict 2.1.0-2
 python-sqlobject 3.11.0-1
 python-sqlparse 0.4.4-1
@@ -9618,7 +9620,7 @@ roc-toolkit 0.3.0-1
 rocalution 6.0.2-1
 rocblas 6.0.2-1
 rocfft 6.0.2-1
-rocksdb 9.0.0-1
+rocksdb 9.1.1-1
 rocksndiamonds 4.3.7.1-1
 rocksndiamonds-contrib 5-3
 rocksndiamonds-data 4.3.7.1-1
@@ -10093,7 +10095,7 @@ ruby-yard 0.9.34-1
 ruby-zeitwerk 2.6.13-1
 ruby2.7 2.7.8-1
 rubygems 3.3.25-1
-ruff 0.4.1-1
+ruff 0.4.2-1
 ruff-lsp 0.0.53-2
 run-parts 5.17-1
 runc 1.1.12-1
@@ -10102,6 +10104,7 @@ rust 1:1.77.2-1
 rust-analyzer 20240422-1
 rust-bindgen 0.69.4-1
 rust-script 0.34.0-1
+rustic 0.7.0-2
 rustscan 2.2.2-1
 rustup 1.27.0-1
 rustypaste 0.15.0-2
@@ -10313,7 +10316,7 @@ slib 3b7-1
 slim 1.4.0-2
 slim-themes 1.2.3-9
 slimevolley 2.4.2-5
-slirp4netns 1.2.3-1
+slirp4netns 1.3.0-1
 sloccount 2.26-10
 slock 1.5-2
 slop 7.6-4
@@ -10552,7 +10555,7 @@ surge-xt 1.3.0-1
 suscan 0.3.0-1
 sushi 46.0-1
 suwidgets 0.3.0-1
-svelte-language-server 0.16.7-1
+svelte-language-server 0.16.8-1
 svgcleaner 0.9.5-3
 svgpart 24.02.2-1
 svt-av1 2.0.0-1
@@ -10774,7 +10777,7 @@ tinyssh 20240101-1
 tinyxml 2.6.2-10
 tinyxml2 10.0.0-1
 tinyxxd 1.3.1-1
-tipp10 3.3.1-1
+tipp10 3.3.2-1
 tk 8.6.14-2
 tl-expected 1.1.0-1
 tldp-howtos-html-single 20161114-3
@@ -10875,7 +10878,7 @@ ttf-hannom 2005-6
 ttf-ibm-plex 6.4.0-1
 ttf-inconsolata 1:3.000-3
 ttf-indic-otf 0.2-11
-ttf-input 20220502-2
+ttf-input 20220502-3
 ttf-jetbrains-mono 2.304-1
 ttf-joypixels 8.0.0-1
 ttf-khmer 5.0-7
@@ -10916,7 +10919,7 @@ txt2man 1.7.1-3
 txt2tags 3.9-1
 typescript 5.4.5-1
 typescript-language-server 4.3.3-1
-typescript-svelte-plugin 0.3.37-1
+typescript-svelte-plugin 0.3.38-1
 typos 1.20.10-1
 typst 1:0.11.0-2
 typst-lsp 0.13.0-2
@@ -10989,7 +10992,7 @@ unlambda 0.1.4.2-10
 unoconv 0.9-2
 unp 1:2.0-1
 unpaper 7.0.0-2
-unrar 1:7.0.7-1
+unrar 1:7.0.8-1
 unrar-free 1:0.3.0-1
 unrealircd 6.1.4-1
 unrtf 0.21.10-2
@@ -11447,7 +11450,7 @@ xh 0.22.0-1
 xine-lib 1.2.13-6
 xine-ui 0.99.14-1
 xiphos 4.2.1-13
-xjadeo 0.8.13-1
+xjadeo 0.8.14-1
 xkbsel 0.13-11
 xkeyboard-config 2.41-1
 xkeycaps 2.47-3
@@ -11600,7 +11603,7 @@ yasm 1.3.0-6
 yass 0.1.0-2
 yate 6.4.0-3
 yaz 5.34.0-3
-yazi 0.2.4-1
+yazi 0.2.5-1
 yder 1.4.20-1
 ydotool 1.0.4-1
 yelp 42.2-2
@@ -11611,7 +11614,7 @@ yices 2.6.4-1
 yodl 4.03.03-4
 yoshimi 2.3.2-1
 yosys 0.38-1
-yq 3.4.1-1
+yq 3.4.2-1
 yrd 0.5.3-7
 yt-dlp 2024.04.09-1
 ytfzf 2.6.2-1
@@ -11685,7 +11688,7 @@ zls 0.11.0-1
 zmap 3.0.0-1
 znc 1.9.0-3
 znc-clientbuffer 1.0.48-3
-zola 0.18.0-1
+zola 0.18.0-2
 zopfli 1.0.3-3
 zoxide 0.9.4-2
 zps 2.0.0-1
