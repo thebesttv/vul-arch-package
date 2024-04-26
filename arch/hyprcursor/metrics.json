@@ -1,0 +1,23 @@
+{
+  "name": "hyprcursor",
+  "version": "0.1.8-1",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "hyprlang",
+    "libhyprlang.so",
+    "librsvg",
+    "librsvg-2.so",
+    "libzip",
+    "libzip.so",
+    "tomlplusplus",
+    "libtomlplusplus.so"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 199114391,
+  "transmit": 343771,
+  "disk": 265783
+}
