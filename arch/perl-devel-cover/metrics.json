@@ -1,0 +1,12 @@
+{
+  "name": "perl-devel-cover",
+  "version": "1.42-1",
+  "depends": [
+    "perl",
+    "perl-html-parser"
+  ],
+  "makedepends": [],
+  "receive": 199178411,
+  "transmit": 436236,
+  "disk": 10115784
+}
