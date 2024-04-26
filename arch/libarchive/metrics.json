@@ -1,0 +1,20 @@
+{
+  "name": "libarchive",
+  "version": "3.7.3-3",
+  "depends": [
+    "acl",
+    "libacl.so",
+    "bzip2",
+    "expat",
+    "lz4",
+    "openssl",
+    "libcrypto.so",
+    "xz",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [],
+  "receive": 204745669,
+  "transmit": 414853,
+  "disk": 28230932
+}
