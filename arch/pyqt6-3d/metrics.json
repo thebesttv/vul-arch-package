@@ -1,0 +1,19 @@
+{
+  "name": "pyqt6-3d",
+  "version": "6.7.0-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-pyqt6",
+    "qt6-3d",
+    "qt6-base"
+  ],
+  "makedepends": [
+    "pyqt-builder",
+    "sip"
+  ],
+  "receive": 199143835,
+  "transmit": 367622,
+  "disk": 19088801
+}
