@@ -1,0 +1,13 @@
+{
+  "name": "zola",
+  "version": "0.18.0-2",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 199144491,
+  "transmit": 383778,
+  "disk": 65492976
+}
