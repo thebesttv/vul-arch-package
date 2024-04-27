@@ -1,0 +1,17 @@
+{
+  "name": "python-pint",
+  "version": "0.23-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools-scm",
+    "python-setuptools",
+    "python-wheel",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196516832,
+  "transmit": 310163,
+  "disk": 1950518
+}
