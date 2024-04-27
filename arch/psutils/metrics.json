@@ -1,0 +1,20 @@
+{
+  "name": "psutils",
+  "version": "3.3.2-2",
+  "depends": [
+    "libpaper",
+    "python",
+    "python-puremagic",
+    "python-pypdf"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-argparse-manpage",
+    "python-setuptools"
+  ],
+  "receive": 196490137,
+  "transmit": 314467,
+  "disk": 6212686
+}
