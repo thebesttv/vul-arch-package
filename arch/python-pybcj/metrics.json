@@ -1,0 +1,16 @@
+{
+  "name": "python-pybcj",
+  "version": "1.0.2-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 196427160,
+  "transmit": 291848,
+  "disk": 4444005
+}
