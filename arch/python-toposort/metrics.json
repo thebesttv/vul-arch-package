@@ -1,0 +1,16 @@
+{
+  "name": "python-toposort",
+  "version": "1.10-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196586180,
+  "transmit": 427362,
+  "disk": 148288
+}
