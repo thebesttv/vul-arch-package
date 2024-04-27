@@ -1,0 +1,16 @@
+{
+  "name": "python-pytimeparse",
+  "version": "1.1.8-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196530121,
+  "transmit": 370556,
+  "disk": 155745
+}
