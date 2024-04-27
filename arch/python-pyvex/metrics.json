@@ -1,0 +1,20 @@
+{
+  "name": "python-pyvex",
+  "version": "9.2.81-2",
+  "depends": [
+    "python",
+    "python-archinfo",
+    "python-bitstring",
+    "python-cffi",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196605797,
+  "transmit": 379036,
+  "disk": 32437796
+}
