@@ -1,0 +1,14 @@
+{
+  "name": "python-update-checker",
+  "version": "0.18.0-7",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-requests"
+  ],
+  "receive": 196442459,
+  "transmit": 271094,
+  "disk": 131446
+}
