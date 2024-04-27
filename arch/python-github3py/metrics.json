@@ -1,0 +1,19 @@
+{
+  "name": "python-github3py",
+  "version": "4.0.1-2",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-uritemplate",
+    "python-dateutil",
+    "python-jwcrypto"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling"
+  ],
+  "receive": 234152028,
+  "transmit": 774614,
+  "disk": 114797602
+}
