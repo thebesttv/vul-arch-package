@@ -1,0 +1,16 @@
+{
+  "name": "python-overrides",
+  "version": "7.7.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196407618,
+  "transmit": 199142,
+  "disk": 232231
+}
