@@ -1,0 +1,13 @@
+{
+  "name": "isodate",
+  "version": "0.6.1-4",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196467404,
+  "transmit": 296082,
+  "disk": 299708
+}
