@@ -1,0 +1,17 @@
+{
+  "name": "python-memory-allocator",
+  "version": "0.1.4-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196402627,
+  "transmit": 239810,
+  "disk": 188613
+}
