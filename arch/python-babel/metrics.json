@@ -1,0 +1,14 @@
+{
+  "name": "python-babel",
+  "version": "2.14.0-2",
+  "depends": [
+    "python",
+    "python-pytz"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 261169323,
+  "transmit": 670415,
+  "disk": 320955891
+}
