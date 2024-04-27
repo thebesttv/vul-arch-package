@@ -1,0 +1,16 @@
+{
+  "name": "python-partd",
+  "version": "1.4.1-2",
+  "depends": [
+    "python",
+    "python-locket",
+    "python-toolz"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-versioneer"
+  ],
+  "receive": 196621349,
+  "transmit": 454706,
+  "disk": 292892
+}
