@@ -1,0 +1,15 @@
+{
+  "name": "python-installer",
+  "version": "0.7.0-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-flit-core",
+    "python-build"
+  ],
+  "receive": 196557339,
+  "transmit": 409882,
+  "disk": 1680007
+}
