@@ -1,0 +1,21 @@
+{
+  "name": "python-ufolib2",
+  "version": "0.16.0-2",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-cattrs",
+    "python-fonttools",
+    "python-fs",
+    "python-lxml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 196485269,
+  "transmit": 284450,
+  "disk": 802223
+}
