@@ -1,0 +1,17 @@
+{
+  "name": "python-poetry-core",
+  "version": "1.9.0-5",
+  "depends": [
+    "python",
+    "python-fastjsonschema",
+    "python-lark-parser",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196503134,
+  "transmit": 266583,
+  "disk": 3111156
+}
