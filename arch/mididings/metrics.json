@@ -1,0 +1,27 @@
+{
+  "name": "mididings",
+  "version": "20230114-5",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "boost",
+    "boost-libs",
+    "alsa-lib",
+    "jack",
+    "python",
+    "python-decorator",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-sphinx",
+    "python-sphinxcontrib-fulltoc",
+    "python-pyinotify",
+    "python-pyliblo",
+    "dbus-python",
+    "scdoc"
+  ],
+  "receive": 196381014,
+  "transmit": 148303,
+  "disk": 9062372
+}
