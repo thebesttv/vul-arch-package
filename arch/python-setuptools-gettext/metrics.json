@@ -1,0 +1,18 @@
+{
+  "name": "python-setuptools-gettext",
+  "version": "0.1.9-2",
+  "depends": [
+    "python",
+    "python-setuptools",
+    "python-tomli"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196600318,
+  "transmit": 400663,
+  "disk": 558890
+}
