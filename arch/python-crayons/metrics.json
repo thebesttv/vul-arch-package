@@ -1,0 +1,13 @@
+{
+  "name": "python-crayons",
+  "version": "0.4.0-5",
+  "depends": [
+    "python-colorama"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196411321,
+  "transmit": 244382,
+  "disk": 123742
+}
