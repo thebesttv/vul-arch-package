@@ -1,0 +1,14 @@
+{
+  "name": "python-cheetah3",
+  "version": "3.3.3-2",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "python",
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 196548775,
+  "transmit": 365336,
+  "disk": 7662342
+}
