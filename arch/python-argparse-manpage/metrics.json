@@ -1,0 +1,14 @@
+{
+  "name": "python-argparse-manpage",
+  "version": "4.5-2",
+  "depends": [],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196667196,
+  "transmit": 466408,
+  "disk": 496603
+}
