@@ -1,0 +1,19 @@
+{
+  "name": "python-pysnmp",
+  "version": "6.1.2-1",
+  "depends": [
+    "python",
+    "python-pysmi",
+    "python-pyasn1",
+    "python-pycryptodomex"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 197115837,
+  "transmit": 737051,
+  "disk": 3144285
+}
