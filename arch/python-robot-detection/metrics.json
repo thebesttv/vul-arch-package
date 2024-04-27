@@ -1,0 +1,17 @@
+{
+  "name": "python-robot-detection",
+  "version": "0.4.0-8",
+  "depends": [
+    "python",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196556826,
+  "transmit": 386614,
+  "disk": 499715
+}
