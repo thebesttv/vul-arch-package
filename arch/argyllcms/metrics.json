@@ -1,0 +1,21 @@
+{
+  "name": "argyllcms",
+  "version": "3.2.0-1",
+  "depends": [
+    "libpng",
+    "libtiff",
+    "libxss",
+    "libxinerama",
+    "libxxf86vm",
+    "libxrandr",
+    "openssl"
+  ],
+  "makedepends": [
+    "ftjam",
+    "zip",
+    "unzip"
+  ],
+  "receive": 211372694,
+  "transmit": 455911,
+  "disk": 60034183
+}
