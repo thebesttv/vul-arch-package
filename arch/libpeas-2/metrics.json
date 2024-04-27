@@ -1,0 +1,26 @@
+{
+  "name": "libpeas-2",
+  "version": "2.0.1-2",
+  "depends": [
+    "glib2"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "gjs",
+    "glade",
+    "gobject-introspection",
+    "js115",
+    "lua51",
+    "lua51-lgi",
+    "luajit",
+    "meson",
+    "python",
+    "python-gobject",
+    "python-setuptools",
+    "vala"
+  ],
+  "receive": 196508796,
+  "transmit": 324326,
+  "disk": 4040368
+}
