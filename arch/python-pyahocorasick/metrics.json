@@ -1,0 +1,16 @@
+{
+  "name": "python-pyahocorasick",
+  "version": "2.1.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196551540,
+  "transmit": 392246,
+  "disk": 714656
+}
