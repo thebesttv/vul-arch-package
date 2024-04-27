@@ -1,0 +1,26 @@
+{
+  "name": "notmuch",
+  "version": "0.38.3-2",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "python-build",
+    "python-cffi",
+    "python-installer",
+    "python-setuptools",
+    "python-sphinx",
+    "python-wheel",
+    "doxygen",
+    "emacs",
+    "gnupg",
+    "ruby",
+    "pkgconfig",
+    "xapian-core",
+    "gmime3",
+    "talloc",
+    "sfsexp"
+  ],
+  "receive": 197229633,
+  "transmit": 696320,
+  "disk": 6193616
+}
