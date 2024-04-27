@@ -1,0 +1,15 @@
+{
+  "name": "python-m2crypto",
+  "version": "0.41.0-2",
+  "depends": [
+    "python",
+    "openssl"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "swig"
+  ],
+  "receive": 196464585,
+  "transmit": 294786,
+  "disk": 10401894
+}
