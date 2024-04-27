@@ -1,0 +1,16 @@
+{
+  "name": "flake8",
+  "version": "1:7.0.0-2",
+  "depends": [
+    "python-pyflakes",
+    "python-mccabe",
+    "python-pycodestyle",
+    "python-entrypoints"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196561232,
+  "transmit": 318818,
+  "disk": 907197
+}
