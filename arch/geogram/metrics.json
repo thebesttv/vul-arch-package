@@ -1,0 +1,15 @@
+{
+  "name": "geogram",
+  "version": "1.8.8-2",
+  "depends": [
+    "glu",
+    "glfw-x11"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja"
+  ],
+  "receive": 196469948,
+  "transmit": 274153,
+  "disk": 63460820
+}
