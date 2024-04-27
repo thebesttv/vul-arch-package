@@ -1,0 +1,20 @@
+{
+  "name": "mitmproxy2swagger",
+  "version": "0.13.0-2",
+  "depends": [
+    "mitmproxy",
+    "python",
+    "python-json-stream",
+    "python-msgpack",
+    "python-ruamel-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 196597643,
+  "transmit": 430902,
+  "disk": 30868971
+}
