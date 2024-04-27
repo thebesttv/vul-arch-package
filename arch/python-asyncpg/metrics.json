@@ -1,0 +1,18 @@
+{
+  "name": "python-asyncpg",
+  "version": "0.29.0-3",
+  "depends": [
+    "python",
+    "python-async-timeout"
+  ],
+  "makedepends": [
+    "cython0",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196556214,
+  "transmit": 365444,
+  "disk": 8289315
+}
