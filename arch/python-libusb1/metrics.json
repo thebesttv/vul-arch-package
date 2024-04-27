@@ -1,0 +1,17 @@
+{
+  "name": "python-libusb1",
+  "version": "3.1.0-2",
+  "depends": [
+    "python",
+    "libusb"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196703325,
+  "transmit": 486502,
+  "disk": 584903
+}
