@@ -1,0 +1,17 @@
+{
+  "name": "jupyter-nbclassic",
+  "version": "1.0.0-2",
+  "depends": [
+    "python-jupyter-server-terminals",
+    "jupyter-notebook-shim",
+    "mathjax2"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-jupyter-packaging"
+  ],
+  "receive": 216814033,
+  "transmit": 301369,
+  "disk": 78962828
+}
