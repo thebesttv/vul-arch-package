@@ -1,0 +1,16 @@
+{
+  "name": "python-pew",
+  "version": "1.2.0-8",
+  "depends": [
+    "python",
+    "python-virtualenv",
+    "python-virtualenv-clone"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196461475,
+  "transmit": 291460,
+  "disk": 267191
+}
