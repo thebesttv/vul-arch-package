@@ -1,0 +1,17 @@
+{
+  "name": "python-h2",
+  "version": "4.1.0-4",
+  "depends": [
+    "python-hpack",
+    "python-hyperframe"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196650413,
+  "transmit": 459583,
+  "disk": 5679539
+}
