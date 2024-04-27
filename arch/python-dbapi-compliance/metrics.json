@@ -1,0 +1,13 @@
+{
+  "name": "python-dbapi-compliance",
+  "version": "1.15.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196538681,
+  "transmit": 400322,
+  "disk": 147140
+}
