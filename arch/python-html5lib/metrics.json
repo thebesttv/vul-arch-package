@@ -1,0 +1,16 @@
+{
+  "name": "python-html5lib",
+  "version": "1.1-14",
+  "depends": [
+    "python-six",
+    "python-webencodings"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-six",
+    "python-webencodings"
+  ],
+  "receive": 196784439,
+  "transmit": 456535,
+  "disk": 4237289
+}
