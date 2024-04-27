@@ -1,0 +1,17 @@
+{
+  "name": "python-h5py",
+  "version": "3.11.0-1",
+  "depends": [
+    "hdf5",
+    "liblzf",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "cython0",
+    "python-pkgconfig",
+    "python-setuptools"
+  ],
+  "receive": 196575586,
+  "transmit": 398638,
+  "disk": 2270300
+}
