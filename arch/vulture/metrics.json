@@ -1,0 +1,16 @@
+{
+  "name": "vulture",
+  "version": "2.11-3",
+  "depends": [
+    "python-setuptools",
+    "python-toml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196418399,
+  "transmit": 263438,
+  "disk": 325628
+}
