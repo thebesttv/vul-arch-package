@@ -1,0 +1,22 @@
+{
+  "name": "python-black",
+  "version": "24.3.0-3",
+  "depends": [
+    "python",
+    "python-click",
+    "python-mypy_extensions",
+    "python-packaging",
+    "python-pathspec",
+    "python-platformdirs"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-fancy-pypi-readme",
+    "python-hatch-vcs",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 197325598,
+  "transmit": 882676,
+  "disk": 2846824
+}
