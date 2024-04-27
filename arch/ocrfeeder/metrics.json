@@ -1,0 +1,25 @@
+{
+  "name": "ocrfeeder",
+  "version": "0.8.5-3",
+  "depends": [
+    "ghostscript",
+    "goocanvas",
+    "gtk3",
+    "gtkspell3",
+    "iso-codes",
+    "python-gobject",
+    "python-odfpy",
+    "python-pillow",
+    "python-pyenchant",
+    "python-reportlab",
+    "python-sane",
+    "unpaper"
+  ],
+  "makedepends": [
+    "git",
+    "gnome-common"
+  ],
+  "receive": 196456721,
+  "transmit": 273543,
+  "disk": 5706122
+}
