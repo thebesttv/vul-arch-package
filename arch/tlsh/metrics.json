@@ -1,0 +1,14 @@
+{
+  "name": "tlsh",
+  "version": "4.8.2-3",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "python",
+    "gcc-libs",
+    "python-setuptools"
+  ],
+  "receive": 196518797,
+  "transmit": 369780,
+  "disk": 11865583
+}
