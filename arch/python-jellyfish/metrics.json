@@ -1,0 +1,16 @@
+{
+  "name": "python-jellyfish",
+  "version": "1.0.3-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-maturin",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196502172,
+  "transmit": 363268,
+  "disk": 4568151
+}
