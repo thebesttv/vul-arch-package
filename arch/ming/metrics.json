@@ -1,0 +1,20 @@
+{
+  "name": "ming",
+  "version": "0.4.8.r68.g04aee523-6",
+  "depends": [
+    "freetype2",
+    "libpng",
+    "flex",
+    "giflib"
+  ],
+  "makedepends": [
+    "bison",
+    "pkgconf",
+    "swig",
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 216073677,
+  "transmit": 304982,
+  "disk": 41305635
+}
