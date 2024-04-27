@@ -1,0 +1,24 @@
+{
+  "name": "libcaca",
+  "version": "0.99.beta20-4",
+  "depends": [
+    "freeglut",
+    "gcc-libs",
+    "glibc",
+    "glu",
+    "imlib2",
+    "libglvnd",
+    "libx11",
+    "ncurses",
+    "slang",
+    "zlib"
+  ],
+  "makedepends": [
+    "doxygen",
+    "pango",
+    "python"
+  ],
+  "receive": 196406642,
+  "transmit": 268139,
+  "disk": 6959032
+}
