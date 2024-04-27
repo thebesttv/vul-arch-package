@@ -1,0 +1,16 @@
+{
+  "name": "python-xattr",
+  "version": "0.10.1-4",
+  "depends": [
+    "python-cffi"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196661231,
+  "transmit": 437145,
+  "disk": 207170
+}
