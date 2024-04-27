@@ -1,0 +1,14 @@
+{
+  "name": "python-dogpile.cache",
+  "version": "1.2.2-2",
+  "depends": [
+    "python-decorator",
+    "python-stevedore"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196505169,
+  "transmit": 365156,
+  "disk": 1994774
+}
