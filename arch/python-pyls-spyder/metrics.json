@@ -1,0 +1,13 @@
+{
+  "name": "python-pyls-spyder",
+  "version": "0.4.0-5",
+  "depends": [
+    "python-lsp-server"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196547883,
+  "transmit": 395374,
+  "disk": 148417
+}
