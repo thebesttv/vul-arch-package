@@ -1,0 +1,15 @@
+{
+  "name": "xmldiff",
+  "version": "2.6.3-3",
+  "depends": [
+    "python",
+    "libxslt",
+    "jade",
+    "python-setuptools",
+    "python-lxml"
+  ],
+  "makedepends": [],
+  "receive": 196474477,
+  "transmit": 329721,
+  "disk": 614883
+}
