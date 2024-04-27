@@ -1,0 +1,13 @@
+{
+  "name": "python-unidiff",
+  "version": "0.7.5-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196417140,
+  "transmit": 270262,
+  "disk": 236423
+}
