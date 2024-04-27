@@ -1,0 +1,19 @@
+{
+  "name": "python-sphinx-jinja",
+  "version": "2.0.2-4",
+  "depends": [
+    "python",
+    "python-docutils",
+    "python-jinja",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196532300,
+  "transmit": 359084,
+  "disk": 498596
+}
