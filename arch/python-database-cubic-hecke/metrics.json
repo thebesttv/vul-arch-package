@@ -1,0 +1,16 @@
+{
+  "name": "python-database-cubic-hecke",
+  "version": "2022.4.4-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196461807,
+  "transmit": 297694,
+  "disk": 2778855
+}
