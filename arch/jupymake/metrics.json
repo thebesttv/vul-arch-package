@@ -1,0 +1,19 @@
+{
+  "name": "jupymake",
+  "version": "0.9-20",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "polymake",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196526972,
+  "transmit": 395824,
+  "disk": 144709
+}
