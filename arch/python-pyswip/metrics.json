@@ -1,0 +1,15 @@
+{
+  "name": "python-pyswip",
+  "version": "0.2.10-4",
+  "depends": [
+    "python",
+    "swi-prolog"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196431709,
+  "transmit": 254872,
+  "disk": 976082
+}
