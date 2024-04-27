@@ -1,0 +1,13 @@
+{
+  "name": "shadowsocks",
+  "version": "3.0.0a.20180219-7",
+  "depends": [
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 196408264,
+  "transmit": 257213,
+  "disk": 623809
+}
