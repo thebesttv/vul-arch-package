@@ -1,0 +1,13 @@
+{
+  "name": "jython",
+  "version": "2.7.3-3",
+  "depends": [
+    "java-environment=8",
+    "bash",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 286256259,
+  "transmit": 337644,
+  "disk": 260090996
+}
