@@ -1,0 +1,13 @@
+{
+  "name": "python-beniget",
+  "version": "0.4.1-6",
+  "depends": [
+    "python-gast"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196461278,
+  "transmit": 326956,
+  "disk": 204314
+}
