@@ -1,0 +1,14 @@
+{
+  "name": "python-treelib",
+  "version": "1.6.4-3",
+  "depends": [
+    "python",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196570127,
+  "transmit": 411577,
+  "disk": 238836
+}
