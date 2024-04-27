@@ -1,0 +1,19 @@
+{
+  "name": "python-keyutils",
+  "version": "0.6-10",
+  "depends": [
+    "python",
+    "keyutils"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "cython"
+  ],
+  "receive": 196529059,
+  "transmit": 337317,
+  "disk": 468866
+}
