@@ -1,0 +1,16 @@
+{
+  "name": "python-genshi",
+  "version": "0.7.7-3",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196805173,
+  "transmit": 513346,
+  "disk": 1697138
+}
