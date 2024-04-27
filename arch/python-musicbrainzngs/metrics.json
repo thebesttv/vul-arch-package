@@ -1,0 +1,14 @@
+{
+  "name": "python-musicbrainzngs",
+  "version": "0.7.1-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196453140,
+  "transmit": 286982,
+  "disk": 1965366
+}
