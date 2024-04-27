@@ -1,0 +1,16 @@
+{
+  "name": "python-webcolors",
+  "version": "1.13-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196431702,
+  "transmit": 259900,
+  "disk": 314130
+}
