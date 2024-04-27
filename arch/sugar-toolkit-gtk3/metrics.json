@@ -1,0 +1,24 @@
+{
+  "name": "sugar-toolkit-gtk3",
+  "version": "0.120-2",
+  "depends": [
+    "alsa-lib",
+    "gtk3",
+    "libsm",
+    "python-cairo",
+    "python-dateutil",
+    "python-decorator",
+    "python-six",
+    "sugar-artwork",
+    "sugar-datastore",
+    "telepathy-mission-control",
+    "unzip"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection"
+  ],
+  "receive": 196500202,
+  "transmit": 336299,
+  "disk": 5195211
+}
