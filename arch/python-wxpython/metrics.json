@@ -1,0 +1,22 @@
+{
+  "name": "python-wxpython",
+  "version": "1:4.2.1-2",
+  "depends": [
+    "wxwidgets-gtk3",
+    "python-six"
+  ],
+  "makedepends": [
+    "mesa",
+    "glu",
+    "webkit2gtk",
+    "python-requests",
+    "python-setuptools",
+    "python-attrdict",
+    "sip",
+    "doxygen",
+    "waf"
+  ],
+  "receive": 270692729,
+  "transmit": 514697,
+  "disk": 394358627
+}
