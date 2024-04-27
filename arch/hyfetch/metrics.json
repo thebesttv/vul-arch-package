@@ -1,0 +1,12 @@
+{
+  "name": "hyfetch",
+  "version": "1.4.11-2",
+  "depends": [
+    "python-setuptools",
+    "python-typing_extensions"
+  ],
+  "makedepends": [],
+  "receive": 196709107,
+  "transmit": 444284,
+  "disk": 1502489
+}
