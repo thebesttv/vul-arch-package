@@ -1,0 +1,13 @@
+{
+  "name": "python-hawkauthlib",
+  "version": "2.0.0-12",
+  "depends": [
+    "python-webob"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196467549,
+  "transmit": 304358,
+  "disk": 189339
+}
