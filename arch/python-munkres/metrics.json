@@ -1,0 +1,14 @@
+{
+  "name": "python-munkres",
+  "version": "1.1.4-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196447415,
+  "transmit": 254635,
+  "disk": 491949
+}
