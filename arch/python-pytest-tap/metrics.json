@@ -1,0 +1,14 @@
+{
+  "name": "python-pytest-tap",
+  "version": "3.3-3",
+  "depends": [
+    "python-pytest",
+    "python-tappy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196395694,
+  "transmit": 249913,
+  "disk": 156194
+}
