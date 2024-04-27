@@ -1,0 +1,15 @@
+{
+  "name": "python-pydocstyle",
+  "version": "6.3.0-4",
+  "depends": [
+    "python-snowballstemmer"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196519902,
+  "transmit": 348141,
+  "disk": 558208
+}
