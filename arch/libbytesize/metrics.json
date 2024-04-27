@@ -1,0 +1,14 @@
+{
+  "name": "libbytesize",
+  "version": "2.8-3",
+  "depends": [
+    "mpfr",
+    "pcre2"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 196414578,
+  "transmit": 233066,
+  "disk": 757554
+}
