@@ -1,0 +1,18 @@
+{
+  "name": "python-flit",
+  "version": "3.9.0-2",
+  "depends": [
+    "python",
+    "python-docutils",
+    "python-flit-core",
+    "python-requests",
+    "python-tomli-w"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196597315,
+  "transmit": 355812,
+  "disk": 1071159
+}
