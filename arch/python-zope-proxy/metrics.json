@@ -1,0 +1,17 @@
+{
+  "name": "python-zope-proxy",
+  "version": "5.2-2",
+  "depends": [
+    "python-setuptools",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196599813,
+  "transmit": 443489,
+  "disk": 938359
+}
