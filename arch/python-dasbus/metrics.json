@@ -1,0 +1,19 @@
+{
+  "name": "python-dasbus",
+  "version": "1.7-3",
+  "depends": [
+    "python",
+    "python-gobject",
+    "dbus",
+    "glib2"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196636615,
+  "transmit": 496966,
+  "disk": 741890
+}
