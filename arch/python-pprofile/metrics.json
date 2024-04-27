@@ -1,0 +1,16 @@
+{
+  "name": "python-pprofile",
+  "version": "2.1.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196590199,
+  "transmit": 363491,
+  "disk": 400405
+}
