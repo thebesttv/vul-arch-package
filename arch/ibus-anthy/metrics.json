@@ -1,0 +1,18 @@
+{
+  "name": "ibus-anthy",
+  "version": "1.5.15-2",
+  "depends": [
+    "ibus",
+    "anthy",
+    "python",
+    "gtk-update-icon-cache",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "intltool",
+    "gobject-introspection"
+  ],
+  "receive": 196421374,
+  "transmit": 280155,
+  "disk": 2186630
+}
