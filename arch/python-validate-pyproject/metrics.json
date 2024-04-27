@@ -1,0 +1,19 @@
+{
+  "name": "python-validate-pyproject",
+  "version": "0.13-3",
+  "depends": [
+    "python-fastjsonschema",
+    "python-packaging",
+    "python-trove-classifiers"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 196558247,
+  "transmit": 267688,
+  "disk": 1466771
+}
