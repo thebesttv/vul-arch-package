@@ -1,0 +1,19 @@
+{
+  "name": "python-alembic",
+  "version": "1.13.1-2",
+  "depends": [
+    "python",
+    "python-mako",
+    "python-sqlalchemy",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196799341,
+  "transmit": 547877,
+  "disk": 3340353
+}
