@@ -1,0 +1,18 @@
+{
+  "name": "glide",
+  "version": "0.6.3-1",
+  "depends": [
+    "gst-plugins-bad",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gtk4",
+    "libadwaita"
+  ],
+  "makedepends": [
+    "meson",
+    "rust"
+  ],
+  "receive": 223309018,
+  "transmit": 1440403,
+  "disk": 411854861
+}
