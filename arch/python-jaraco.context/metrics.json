@@ -1,0 +1,17 @@
+{
+  "name": "python-jaraco.context",
+  "version": "4.3.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196522182,
+  "transmit": 333464,
+  "disk": 766191
+}
