@@ -1,0 +1,19 @@
+{
+  "name": "python-mocket",
+  "version": "3.12.5-1",
+  "depends": [
+    "python-decorator",
+    "python-httptools",
+    "python-magic",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-hatchling",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196497012,
+  "transmit": 320780,
+  "disk": 410989
+}
