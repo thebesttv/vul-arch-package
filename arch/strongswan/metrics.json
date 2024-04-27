@@ -1,0 +1,25 @@
+{
+  "name": "strongswan",
+  "version": "5.9.13-2",
+  "depends": [
+    "curl",
+    "gmp",
+    "iproute2",
+    "openssl",
+    "sqlite",
+    "libcap",
+    "systemd-libs",
+    "pam"
+  ],
+  "makedepends": [
+    "libnm",
+    "systemd",
+    "python",
+    "ruby",
+    "mariadb",
+    "python-setuptools"
+  ],
+  "receive": 201494628,
+  "transmit": 428165,
+  "disk": 59364101
+}
