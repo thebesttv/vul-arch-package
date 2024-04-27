@@ -1,0 +1,17 @@
+{
+  "name": "python-discogs-client",
+  "version": "2.7-2",
+  "depends": [
+    "python-dateutil",
+    "python-six",
+    "python-requests",
+    "python-oauthlib"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196500439,
+  "transmit": 282248,
+  "disk": 1155917
+}
