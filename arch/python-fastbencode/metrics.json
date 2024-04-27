@@ -1,0 +1,17 @@
+{
+  "name": "python-fastbencode",
+  "version": "0.2-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "cython",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196982051,
+  "transmit": 611984,
+  "disk": 208778
+}
