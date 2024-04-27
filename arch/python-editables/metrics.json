@@ -1,0 +1,16 @@
+{
+  "name": "python-editables",
+  "version": "0.5-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 196447433,
+  "transmit": 297123,
+  "disk": 443532
+}
