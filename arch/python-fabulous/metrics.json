@@ -1,0 +1,13 @@
+{
+  "name": "python-fabulous",
+  "version": "0.4.0-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196616109,
+  "transmit": 437527,
+  "disk": 1708876
+}
