@@ -1,0 +1,17 @@
+{
+  "name": "ibus-table",
+  "version": "1.17.4-2",
+  "depends": [
+    "python-pyenchant",
+    "ibus",
+    "aspell-en"
+  ],
+  "makedepends": [
+    "docbook2x",
+    "docbook-sgml",
+    "docbook-utils"
+  ],
+  "receive": 196535461,
+  "transmit": 355001,
+  "disk": 5307974
+}
