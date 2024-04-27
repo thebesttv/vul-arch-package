@@ -1,0 +1,16 @@
+{
+  "name": "python-diff-match-patch",
+  "version": "20230430-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-flit-core"
+  ],
+  "receive": 196459046,
+  "transmit": 256941,
+  "disk": 342098
+}
