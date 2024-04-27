@@ -1,0 +1,20 @@
+{
+  "name": "python-nkdfu",
+  "version": "0.2-4",
+  "depends": [
+    "python",
+    "python-fire",
+    "python-tqdm",
+    "python-intelhex",
+    "python-libusb1"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196660501,
+  "transmit": 430629,
+  "disk": 167769
+}
