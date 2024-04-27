@@ -1,0 +1,19 @@
+{
+  "name": "python-flake8-docstrings",
+  "version": "1.7.0-2",
+  "depends": [
+    "python",
+    "flake8",
+    "python-pydocstyle"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196591047,
+  "transmit": 459945,
+  "disk": 473071
+}
