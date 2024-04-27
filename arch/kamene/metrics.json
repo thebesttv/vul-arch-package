@@ -1,0 +1,14 @@
+{
+  "name": "kamene",
+  "version": "0.32-6",
+  "depends": [
+    "tcpdump",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196444555,
+  "transmit": 289685,
+  "disk": 4602994
+}
