@@ -1,0 +1,11 @@
+{
+  "name": "python-sphinx-typlog-theme",
+  "version": "0.8.0-7",
+  "depends": [],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196436079,
+  "transmit": 259966,
+  "disk": 273968
+}
