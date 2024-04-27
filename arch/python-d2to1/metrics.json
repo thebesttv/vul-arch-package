@@ -1,0 +1,13 @@
+{
+  "name": "python-d2to1",
+  "version": "0.2.12.post1-13",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196707983,
+  "transmit": 466718,
+  "disk": 289233
+}
