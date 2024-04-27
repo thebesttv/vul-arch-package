@@ -1,0 +1,17 @@
+{
+  "name": "python-django-modeltranslation",
+  "version": "0.18.12-3",
+  "depends": [
+    "python-django"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196456050,
+  "transmit": 315863,
+  "disk": 5553927
+}
