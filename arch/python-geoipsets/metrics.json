@@ -1,0 +1,14 @@
+{
+  "name": "python-geoipsets",
+  "version": "2.3.6-2",
+  "depends": [
+    "python-requests",
+    "python-beautifulsoup4"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196430311,
+  "transmit": 290887,
+  "disk": 261049
+}
