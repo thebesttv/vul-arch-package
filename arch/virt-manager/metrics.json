@@ -1,0 +1,12 @@
+{
+  "name": "virt-manager",
+  "version": "4.1.0-3",
+  "depends": [],
+  "makedepends": [
+    "python-docutils",
+    "python-setuptools"
+  ],
+  "receive": 196665796,
+  "transmit": 416224,
+  "disk": 20535763
+}
