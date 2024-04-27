@@ -1,0 +1,18 @@
+{
+  "name": "python-ytmusicapi",
+  "version": "1.6.0-2",
+  "depends": [
+    "python",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 196626033,
+  "transmit": 411316,
+  "disk": 835536
+}
