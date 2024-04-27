@@ -1,0 +1,16 @@
+{
+  "name": "python-jsonrpclib-pelix",
+  "version": "0.4.3.2-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196531416,
+  "transmit": 380780,
+  "disk": 334136
+}
