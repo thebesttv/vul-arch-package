@@ -1,0 +1,16 @@
+{
+  "name": "python-pywinrm",
+  "version": "0.4.3-3",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-xmltodict",
+    "python-requests-ntlm"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196717757,
+  "transmit": 539602,
+  "disk": 355937
+}
