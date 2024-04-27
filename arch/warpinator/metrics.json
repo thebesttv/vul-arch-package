@@ -1,0 +1,28 @@
+{
+  "name": "warpinator",
+  "version": "1.8.3-2",
+  "depends": [
+    "gtk3",
+    "libnm",
+    "python-cryptography",
+    "python-gobject",
+    "python-grpcio",
+    "python-protobuf",
+    "python-pynacl",
+    "python-setproctitle",
+    "python-setuptools",
+    "python-xapp",
+    "python-zeroconf",
+    "xapp",
+    "python-cairo",
+    "python-qrcode",
+    "python-pillow"
+  ],
+  "makedepends": [
+    "meson",
+    "polkit"
+  ],
+  "receive": 246331833,
+  "transmit": 874306,
+  "disk": 224552397
+}
