@@ -1,0 +1,20 @@
+{
+  "name": "redshift",
+  "version": "1.12-11",
+  "depends": [
+    "glib2",
+    "glibc",
+    "hicolor-icon-theme",
+    "libdrm",
+    "libx11",
+    "libxcb",
+    "libxxf86vm"
+  ],
+  "makedepends": [
+    "intltool",
+    "python"
+  ],
+  "receive": 196480682,
+  "transmit": 372229,
+  "disk": 2926393
+}
