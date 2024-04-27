@@ -1,0 +1,15 @@
+{
+  "name": "bleachbit",
+  "version": "4.6.0-2",
+  "depends": [
+    "gtk3",
+    "python",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 196496850,
+  "transmit": 346942,
+  "disk": 30209467
+}
