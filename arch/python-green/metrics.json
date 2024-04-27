@@ -1,0 +1,20 @@
+{
+  "name": "python-green",
+  "version": "4.0.1-2",
+  "depends": [
+    "python-colorama",
+    "python-coverage",
+    "python-lxml",
+    "python-setuptools",
+    "python-unidecode"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196455377,
+  "transmit": 310562,
+  "disk": 4890748
+}
