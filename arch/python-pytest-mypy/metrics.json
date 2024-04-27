@@ -1,0 +1,21 @@
+{
+  "name": "python-pytest-mypy",
+  "version": "0.10.3-6",
+  "depends": [
+    "python-attrs",
+    "python-filelock",
+    "python-pytest",
+    "mypy"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196488101,
+  "transmit": 320503,
+  "disk": 671297
+}
