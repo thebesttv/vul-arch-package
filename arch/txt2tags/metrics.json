@@ -1,0 +1,13 @@
+{
+  "name": "txt2tags",
+  "version": "3.9-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196447803,
+  "transmit": 301876,
+  "disk": 373209
+}
