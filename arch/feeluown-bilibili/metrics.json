@@ -1,0 +1,18 @@
+{
+  "name": "feeluown-bilibili",
+  "version": "0.3.3-2",
+  "depends": [
+    "feeluown",
+    "python-cachetools",
+    "python-beautifulsoup4",
+    "python-pycryptodome"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196662298,
+  "transmit": 396750,
+  "disk": 433547
+}
