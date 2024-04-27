@@ -1,0 +1,16 @@
+{
+  "name": "brotli",
+  "version": "1.1.0-2",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 244504521,
+  "transmit": 478212,
+  "disk": 112817258
+}
