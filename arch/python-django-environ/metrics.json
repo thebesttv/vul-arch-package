@@ -1,0 +1,17 @@
+{
+  "name": "python-django-environ",
+  "version": "0.11.2-2",
+  "depends": [
+    "python",
+    "python-django"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196530439,
+  "transmit": 346529,
+  "disk": 398914
+}
