@@ -1,0 +1,14 @@
+{
+  "name": "python-aresponses",
+  "version": "3.0.0-2",
+  "depends": [
+    "python-aiohttp",
+    "python-pytest-asyncio"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196570537,
+  "transmit": 416575,
+  "disk": 182309
+}
