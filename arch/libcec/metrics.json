@@ -1,0 +1,17 @@
+{
+  "name": "libcec",
+  "version": "6.0.2-5",
+  "depends": [
+    "udev",
+    "p8-platform",
+    "libxrandr"
+  ],
+  "makedepends": [
+    "cmake",
+    "swig",
+    "python"
+  ],
+  "receive": 196496241,
+  "transmit": 339784,
+  "disk": 2257191
+}
