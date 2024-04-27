@@ -1,0 +1,20 @@
+{
+  "name": "blanket",
+  "version": "0.7.0-1",
+  "depends": [
+    "gst-plugins-bad-libs",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gst-python",
+    "libadwaita",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "meson",
+    "blueprint-compiler"
+  ],
+  "receive": 196558902,
+  "transmit": 413106,
+  "disk": 37076398
+}
