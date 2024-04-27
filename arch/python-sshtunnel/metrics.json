@@ -1,0 +1,17 @@
+{
+  "name": "python-sshtunnel",
+  "version": "0.4.0-7",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-paramiko",
+    "python-setuptools",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 196538517,
+  "transmit": 370300,
+  "disk": 1334386
+}
