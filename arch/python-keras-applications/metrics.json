@@ -1,0 +1,14 @@
+{
+  "name": "python-keras-applications",
+  "version": "1.0.8-10",
+  "depends": [
+    "python",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196528919,
+  "transmit": 388224,
+  "disk": 887070
+}
