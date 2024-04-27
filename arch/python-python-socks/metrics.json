@@ -1,0 +1,17 @@
+{
+  "name": "python-python-socks",
+  "version": "2.4.4-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196404027,
+  "transmit": 222935,
+  "disk": 2086760
+}
