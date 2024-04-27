@@ -1,0 +1,23 @@
+{
+  "name": "weechat",
+  "version": "4.2.2-3",
+  "depends": [
+    "gnutls",
+    "curl",
+    "libgcrypt"
+  ],
+  "makedepends": [
+    "asciidoctor",
+    "cmake",
+    "enchant",
+    "guile",
+    "lua",
+    "perl",
+    "python",
+    "ruby",
+    "tcl"
+  ],
+  "receive": 196501988,
+  "transmit": 288228,
+  "disk": 28893672
+}
