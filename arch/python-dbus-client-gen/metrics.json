@@ -1,0 +1,17 @@
+{
+  "name": "python-dbus-client-gen",
+  "version": "0.8.3-2",
+  "depends": [
+    "dbus-python",
+    "dbus-client-gen",
+    "python-into-dbus"
+  ],
+  "makedepends": [
+    "git",
+    "python-pylint",
+    "python-setuptools"
+  ],
+  "receive": 196564354,
+  "transmit": 412064,
+  "disk": 197995
+}
