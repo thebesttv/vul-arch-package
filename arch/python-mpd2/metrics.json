@@ -1,0 +1,14 @@
+{
+  "name": "python-mpd2",
+  "version": "3.1.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196757847,
+  "transmit": 607000,
+  "disk": 1300473
+}
