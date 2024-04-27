@@ -1,0 +1,17 @@
+{
+  "name": "python-pylibmc",
+  "version": "1.6.3-3",
+  "depends": [
+    "libmemcached",
+    "python"
+  ],
+  "makedepends": [
+    "python",
+    "gcc",
+    "zlib",
+    "python-setuptools"
+  ],
+  "receive": 196557533,
+  "transmit": 375464,
+  "disk": 425687
+}
