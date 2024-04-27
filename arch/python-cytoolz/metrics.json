@@ -1,0 +1,19 @@
+{
+  "name": "python-cytoolz",
+  "version": "0.12.3-2",
+  "depends": [
+    "glibc",
+    "python",
+    "python-toolz"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196547376,
+  "transmit": 360976,
+  "disk": 6015656
+}
