@@ -1,0 +1,17 @@
+{
+  "name": "python-linux-procfs",
+  "version": "0.7.3-2",
+  "depends": [
+    "python",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196483044,
+  "transmit": 294370,
+  "disk": 168567
+}
