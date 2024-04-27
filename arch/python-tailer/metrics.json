@@ -1,0 +1,13 @@
+{
+  "name": "python-tailer",
+  "version": "0.4.1-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196598164,
+  "transmit": 399323,
+  "disk": 134649
+}
