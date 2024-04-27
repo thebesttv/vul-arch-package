@@ -1,0 +1,15 @@
+{
+  "name": "python-pyproj",
+  "version": "3.6.1-2",
+  "depends": [
+    "proj",
+    "python-certifi"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 196410799,
+  "transmit": 237974,
+  "disk": 1566567
+}
