@@ -1,0 +1,16 @@
+{
+  "name": "python-py-partiql-parser",
+  "version": "0.5.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196566670,
+  "transmit": 419800,
+  "disk": 274422
+}
