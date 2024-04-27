@@ -1,0 +1,18 @@
+{
+  "name": "python-aafigure",
+  "version": "0.6-5",
+  "depends": [
+    "python",
+    "python-pillow",
+    "python-reportlab"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196634929,
+  "transmit": 464412,
+  "disk": 384747
+}
