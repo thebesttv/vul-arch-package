@@ -1,0 +1,13 @@
+{
+  "name": "python-linetable",
+  "version": "0.0.3-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196472518,
+  "transmit": 349462,
+  "disk": 127962
+}
