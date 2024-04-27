@@ -1,0 +1,16 @@
+{
+  "name": "python-plette",
+  "version": "1.0.0-2",
+  "depends": [
+    "python-tomlkit"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196422164,
+  "transmit": 250992,
+  "disk": 354189
+}
