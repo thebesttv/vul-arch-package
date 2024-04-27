@@ -1,0 +1,17 @@
+{
+  "name": "python-bottle",
+  "version": "0.12.25-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196582544,
+  "transmit": 395719,
+  "disk": 1336443
+}
