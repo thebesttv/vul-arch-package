@@ -1,0 +1,23 @@
+{
+  "name": "python-poetry-dynamic-versioning",
+  "version": "1.2.0-2",
+  "depends": [
+    "python",
+    "python-dunamai",
+    "python-tomlkit",
+    "python-jinja",
+    "python-poetry",
+    "python-cleo",
+    "python-poetry-core",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196454250,
+  "transmit": 261658,
+  "disk": 1130832
+}
