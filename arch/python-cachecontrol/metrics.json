@@ -1,0 +1,20 @@
+{
+  "name": "python-cachecontrol",
+  "version": "1:0.14.0-3",
+  "depends": [
+    "python",
+    "python-filelock",
+    "python-msgpack",
+    "python-requests",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196595953,
+  "transmit": 449075,
+  "disk": 342350
+}
