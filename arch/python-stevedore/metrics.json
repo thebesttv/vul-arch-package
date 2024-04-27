@@ -1,0 +1,14 @@
+{
+  "name": "python-stevedore",
+  "version": "5.2.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-pbr",
+    "python-setuptools"
+  ],
+  "receive": 196514510,
+  "transmit": 278564,
+  "disk": 1540166
+}
