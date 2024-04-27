@@ -1,0 +1,17 @@
+{
+  "name": "python-cymem",
+  "version": "2.0.8-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196474009,
+  "transmit": 345126,
+  "disk": 151827
+}
