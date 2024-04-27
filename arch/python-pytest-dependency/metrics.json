@@ -1,0 +1,13 @@
+{
+  "name": "python-pytest-dependency",
+  "version": "0.6.0-2",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 197119870,
+  "transmit": 697810,
+  "disk": 231901
+}
