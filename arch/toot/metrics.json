@@ -1,0 +1,24 @@
+{
+  "name": "toot",
+  "version": "0.41.1-2",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-beautifulsoup4",
+    "python-wcwidth",
+    "python-urwid",
+    "python-tomlkit",
+    "python-click",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196532939,
+  "transmit": 378430,
+  "disk": 4737548
+}
