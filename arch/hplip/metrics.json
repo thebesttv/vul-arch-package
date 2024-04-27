@@ -1,0 +1,33 @@
+{
+  "name": "hplip",
+  "version": "1:3.23.12-4",
+  "depends": [
+    "python-dbus",
+    "python-distro",
+    "ghostscript",
+    "net-snmp",
+    "foomatic-db-engine",
+    "python-gobject",
+    "libjpeg-turbo",
+    "dbus",
+    "gcc-libs",
+    "avahi",
+    "python",
+    "xdg-utils",
+    "zlib",
+    "libcups",
+    "glibc",
+    "sh"
+  ],
+  "makedepends": [
+    "python-pyqt5",
+    "sane",
+    "rpcbind",
+    "cups",
+    "libusb",
+    "python-setuptools"
+  ],
+  "receive": 227574573,
+  "transmit": 510450,
+  "disk": 88563548
+}
