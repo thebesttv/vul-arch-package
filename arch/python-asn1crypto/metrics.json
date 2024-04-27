@@ -1,0 +1,13 @@
+{
+  "name": "python-asn1crypto",
+  "version": "1.5.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196508943,
+  "transmit": 408566,
+  "disk": 3226123
+}
