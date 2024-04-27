@@ -1,0 +1,13 @@
+{
+  "name": "python-extras",
+  "version": "1.0.0-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196394036,
+  "transmit": 264195,
+  "disk": 131041
+}
