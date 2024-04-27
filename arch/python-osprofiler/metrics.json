@@ -1,0 +1,20 @@
+{
+  "name": "python-osprofiler",
+  "version": "3.4.3-5",
+  "depends": [
+    "python-netaddr",
+    "python-oslo-concurrency",
+    "python-oslo-serialization",
+    "python-oslo-utils",
+    "python-prettytable",
+    "python-requests",
+    "python-webob"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196615809,
+  "transmit": 417389,
+  "disk": 1604121
+}
