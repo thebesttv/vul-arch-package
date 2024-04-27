@@ -1,0 +1,13 @@
+{
+  "name": "python-aniso8601",
+  "version": "9.0.1-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196629869,
+  "transmit": 437946,
+  "disk": 587474
+}
