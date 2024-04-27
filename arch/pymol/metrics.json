@@ -1,0 +1,29 @@
+{
+  "name": "pymol",
+  "version": "3.0.0-4",
+  "depends": [
+    "freetype2",
+    "gcc-libs",
+    "glew",
+    "glm",
+    "glut",
+    "netcdf",
+    "netcdf-cxx",
+    "python",
+    "python-numpy",
+    "tcsh"
+  ],
+  "makedepends": [
+    "desktop-file-utils",
+    "gendesk",
+    "mmtf-cpp",
+    "msgpack-c",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 220406323,
+  "transmit": 520753,
+  "disk": 101110999
+}
