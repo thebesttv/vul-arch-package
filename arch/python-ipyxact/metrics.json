@@ -1,0 +1,17 @@
+{
+  "name": "python-ipyxact",
+  "version": "0.3.2-3",
+  "depends": [
+    "python",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196508398,
+  "transmit": 372018,
+  "disk": 3210176
+}
