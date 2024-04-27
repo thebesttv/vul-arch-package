@@ -1,0 +1,16 @@
+{
+  "name": "python-wsgiproxy2",
+  "version": "0.5.1-7",
+  "depends": [
+    "python-webob"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196517677,
+  "transmit": 295640,
+  "disk": 184635
+}
