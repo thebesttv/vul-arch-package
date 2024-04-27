@@ -1,0 +1,25 @@
+{
+  "name": "python-threat9-test-bed",
+  "version": "0.6.0+2+g1ed61b3-10",
+  "depends": [
+    "python",
+    "python-click",
+    "python-faker",
+    "python-flask",
+    "python-asgiref",
+    "gunicorn",
+    "python-pyopenssl",
+    "python-requests"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196475637,
+  "transmit": 338152,
+  "disk": 438036
+}
