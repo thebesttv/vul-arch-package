@@ -1,0 +1,23 @@
+{
+  "name": "gammastep",
+  "version": "2.0.9-3",
+  "depends": [
+    "geoclue",
+    "glibc",
+    "hicolor-icon-theme",
+    "libdrm",
+    "libx11",
+    "libxcb",
+    "libxxf86vm",
+    "wayland"
+  ],
+  "makedepends": [
+    "glib2",
+    "intltool",
+    "python",
+    "systemd"
+  ],
+  "receive": 196527539,
+  "transmit": 351601,
+  "disk": 2623445
+}
