@@ -1,0 +1,19 @@
+{
+  "name": "python-requests-unixsocket",
+  "version": "0.3.0-4",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-pbr"
+  ],
+  "receive": 196514117,
+  "transmit": 337275,
+  "disk": 180146
+}
