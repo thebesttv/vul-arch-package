@@ -1,0 +1,13 @@
+{
+  "name": "python-mypy_extensions",
+  "version": "1.0.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196447817,
+  "transmit": 291914,
+  "disk": 118083
+}
