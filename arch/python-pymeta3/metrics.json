@@ -1,0 +1,13 @@
+{
+  "name": "python-pymeta3",
+  "version": "0.5.1-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196573640,
+  "transmit": 393460,
+  "disk": 295804
+}
