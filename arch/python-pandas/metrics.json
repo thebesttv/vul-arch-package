@@ -1,0 +1,16 @@
+{
+  "name": "python-pandas",
+  "version": "1.5.3-4",
+  "depends": [
+    "python-numpy",
+    "python-dateutil",
+    "python-pytz"
+  ],
+  "makedepends": [
+    "cython0",
+    "python-setuptools"
+  ],
+  "receive": 208958974,
+  "transmit": 367248,
+  "disk": 62784800
+}
