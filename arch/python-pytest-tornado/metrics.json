@@ -1,0 +1,13 @@
+{
+  "name": "python-pytest-tornado",
+  "version": "0.8.1-8",
+  "depends": [
+    "python-pytest",
+    "python-tornado",
+    "python-setuptools"
+  ],
+  "makedepends": [],
+  "receive": 196381716,
+  "transmit": 256600,
+  "disk": 160438
+}
