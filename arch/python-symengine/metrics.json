@@ -1,0 +1,24 @@
+{
+  "name": "python-symengine",
+  "version": "0.11.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "gperftools",
+    "libmpc",
+    "mpfr",
+    "python",
+    "symengine"
+  ],
+  "makedepends": [
+    "cereal",
+    "cmake",
+    "cython",
+    "llvm",
+    "python-setuptools"
+  ],
+  "receive": 196707231,
+  "transmit": 487169,
+  "disk": 1128924
+}
