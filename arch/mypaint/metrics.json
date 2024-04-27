@@ -1,0 +1,19 @@
+{
+  "name": "mypaint",
+  "version": "2.0.1-4",
+  "depends": [
+    "gtk3",
+    "libmypaint",
+    "mypaint-brushes",
+    "python-cairo",
+    "python-gobject",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "swig"
+  ],
+  "receive": 197866187,
+  "transmit": 477352,
+  "disk": 33666231
+}
