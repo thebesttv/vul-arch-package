@@ -1,0 +1,13 @@
+{
+  "name": "python-locket",
+  "version": "1.0.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196637665,
+  "transmit": 492660,
+  "disk": 141456
+}
