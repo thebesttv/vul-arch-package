@@ -1,0 +1,19 @@
+{
+  "name": "certbot-apache",
+  "version": "2.8.0-2",
+  "depends": [
+    "certbot=2.8.0",
+    "python-acme=2.8.0",
+    "python-augeas",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-wheel",
+    "python-installer"
+  ],
+  "receive": 225294015,
+  "transmit": 541215,
+  "disk": 103018882
+}
