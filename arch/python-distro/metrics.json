@@ -1,0 +1,17 @@
+{
+  "name": "python-distro",
+  "version": "1.9.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-sphinx",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196467632,
+  "transmit": 281268,
+  "disk": 1056876
+}
