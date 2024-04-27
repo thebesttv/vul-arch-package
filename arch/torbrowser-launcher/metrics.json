@@ -1,0 +1,26 @@
+{
+  "name": "torbrowser-launcher",
+  "version": "0.3.7-2",
+  "depends": [
+    "dbus-glib",
+    "gnupg",
+    "hicolor-icon-theme",
+    "python",
+    "python-gpgme",
+    "python-packaging",
+    "python-pyqt5",
+    "python-pysocks",
+    "python-requests",
+    "tor"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-distro",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199788972,
+  "transmit": 430911,
+  "disk": 3880881
+}
