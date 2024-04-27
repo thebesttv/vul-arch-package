@@ -1,0 +1,34 @@
+{
+  "name": "sssd",
+  "version": "2.9.4-4",
+  "depends": [
+    "bind",
+    "c-ares",
+    "cyrus-sasl-gssapi",
+    "ding-libs",
+    "libnl",
+    "libunistring",
+    "smbclient",
+    "nfsidmap",
+    "jansson",
+    "jose",
+    "libtevent.so",
+    "libldb.so",
+    "curl",
+    "pcre2"
+  ],
+  "makedepends": [
+    "docbook-xsl",
+    "doxygen",
+    "python",
+    "samba",
+    "systemd",
+    "tevent",
+    "ldb",
+    "bc",
+    "python-setuptools"
+  ],
+  "receive": 196875902,
+  "transmit": 350134,
+  "disk": 58041324
+}
