@@ -1,0 +1,13 @@
+{
+  "name": "python-astor",
+  "version": "0.8.1-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196387843,
+  "transmit": 254262,
+  "disk": 301492
+}
