@@ -1,0 +1,27 @@
+{
+  "name": "audaspace",
+  "version": "1.4.0-3",
+  "depends": [
+    "ffmpeg",
+    "fftw",
+    "gcc-libs",
+    "glibc",
+    "jack",
+    "libpulse",
+    "libsndfile",
+    "openal",
+    "sdl2"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-numpy"
+  ],
+  "receive": 196455736,
+  "transmit": 304420,
+  "disk": 9914831
+}
