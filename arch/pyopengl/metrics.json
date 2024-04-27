@@ -1,0 +1,14 @@
+{
+  "name": "pyopengl",
+  "version": "3.1.6-3",
+  "depends": [
+    "python",
+    "freeglut"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 198392913,
+  "transmit": 259676,
+  "disk": 10970709
+}
