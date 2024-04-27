@@ -1,0 +1,14 @@
+{
+  "name": "haskell-microlens-ghc",
+  "version": "0.4.14.3-1",
+  "depends": [
+    "ghc-libs",
+    "haskell-microlens"
+  ],
+  "makedepends": [
+    "ghc"
+  ],
+  "receive": 196525962,
+  "transmit": 339709,
+  "disk": 172173
+}
