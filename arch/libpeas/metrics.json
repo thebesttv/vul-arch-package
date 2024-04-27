@@ -1,0 +1,23 @@
+{
+  "name": "libpeas",
+  "version": "1.36.0-5",
+  "depends": [
+    "gobject-introspection-runtime",
+    "gtk3"
+  ],
+  "makedepends": [
+    "gi-docgen",
+    "git",
+    "glade",
+    "gobject-introspection",
+    "lua51-lgi",
+    "luajit",
+    "meson",
+    "python-gobject",
+    "python-setuptools",
+    "vala"
+  ],
+  "receive": 196629896,
+  "transmit": 422080,
+  "disk": 4479901
+}
