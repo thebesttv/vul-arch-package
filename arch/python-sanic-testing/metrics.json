@@ -1,0 +1,14 @@
+{
+  "name": "python-sanic-testing",
+  "version": "23.12.0-2",
+  "depends": [
+    "python",
+    "python-httpx"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196417274,
+  "transmit": 269536,
+  "disk": 155557
+}
