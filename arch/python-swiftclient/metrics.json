@@ -1,0 +1,15 @@
+{
+  "name": "python-swiftclient",
+  "version": "4.5.0-2",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-pbr"
+  ],
+  "receive": 199579624,
+  "transmit": 397679,
+  "disk": 5292246
+}
