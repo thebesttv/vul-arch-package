@@ -1,0 +1,13 @@
+{
+  "name": "python-pythondata-cpu-vexriscv",
+  "version": "2022.08-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196584303,
+  "transmit": 413951,
+  "disk": 34251949
+}
