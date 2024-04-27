@@ -1,0 +1,38 @@
+{
+  "name": "muse",
+  "version": "4.2.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "python",
+    "python-pyqt5",
+    "python-pyro",
+    "python-six",
+    "qt5-base",
+    "qt5-svg"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "dssi",
+    "extra-cmake-modules",
+    "fluidsynth",
+    "glib2",
+    "jack",
+    "ladspa",
+    "liblo",
+    "liblrdf",
+    "libsamplerate",
+    "libsndfile",
+    "lilv",
+    "lv2",
+    "qt5-tools",
+    "rtaudio",
+    "rubberband",
+    "serd"
+  ],
+  "receive": 196477971,
+  "transmit": 267611,
+  "disk": 57231590
+}
