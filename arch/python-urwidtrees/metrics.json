@@ -1,0 +1,15 @@
+{
+  "name": "python-urwidtrees",
+  "version": "1.0.3-10",
+  "depends": [
+    "python",
+    "python-urwid>=1.1.0"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 196540127,
+  "transmit": 395046,
+  "disk": 833793
+}
