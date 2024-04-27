@@ -1,0 +1,16 @@
+{
+  "name": "python-setproctitle",
+  "version": "1.3.3-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-wheel",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196535630,
+  "transmit": 362360,
+  "disk": 258211
+}
