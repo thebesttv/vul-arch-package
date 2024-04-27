@@ -1,0 +1,17 @@
+{
+  "name": "python-smmap",
+  "version": "1:5.0.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196425160,
+  "transmit": 244163,
+  "disk": 837930
+}
