@@ -1,0 +1,14 @@
+{
+  "name": "lorcon",
+  "version": "2:2020.06.06-5",
+  "depends": [],
+  "makedepends": [
+    "glibc",
+    "python",
+    "libpcap",
+    "python-setuptools"
+  ],
+  "receive": 196519318,
+  "transmit": 359305,
+  "disk": 2868685
+}
