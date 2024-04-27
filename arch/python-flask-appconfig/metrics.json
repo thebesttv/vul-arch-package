@@ -1,0 +1,18 @@
+{
+  "name": "python-flask-appconfig",
+  "version": "0.11.1.20151214-8",
+  "depends": [
+    "python-click",
+    "python-flask",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196458378,
+  "transmit": 297194,
+  "disk": 164364
+}
