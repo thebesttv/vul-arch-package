@@ -1,0 +1,13 @@
+{
+  "name": "python-process-tests",
+  "version": "2.1.2-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196564535,
+  "transmit": 389806,
+  "disk": 169837
+}
