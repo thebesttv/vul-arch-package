@@ -1,0 +1,14 @@
+{
+  "name": "python-persistent",
+  "version": "5.1-2",
+  "depends": [
+    "python-cffi",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196680024,
+  "transmit": 444033,
+  "disk": 770480
+}
