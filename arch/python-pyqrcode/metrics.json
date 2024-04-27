@@ -1,0 +1,15 @@
+{
+  "name": "python-pyqrcode",
+  "version": "1.2.1-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196443954,
+  "transmit": 239675,
+  "disk": 384336
+}
