@@ -1,0 +1,17 @@
+{
+  "name": "python-ndindex",
+  "version": "1.8-2",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-versioneer"
+  ],
+  "receive": 196797052,
+  "transmit": 505088,
+  "disk": 6541548
+}
