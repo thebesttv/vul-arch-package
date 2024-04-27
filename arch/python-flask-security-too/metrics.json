@@ -1,0 +1,29 @@
+{
+  "name": "python-flask-security-too",
+  "version": "5.4.3-2",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-flask-login",
+    "python-flask-mailman",
+    "python-flask-principal",
+    "python-flask-wtf",
+    "python-flask-babel",
+    "python-itsdangerous",
+    "python-passlib",
+    "python-email-validator",
+    "python-importlib_resources"
+  ],
+  "makedepends": [
+    "python-sphinx",
+    "python-pallets-sphinx-themes",
+    "python-sphinx-issues",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196513210,
+  "transmit": 341844,
+  "disk": 3327288
+}
