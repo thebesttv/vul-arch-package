@@ -1,0 +1,17 @@
+{
+  "name": "soapysdr",
+  "version": "0.8.1-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "cmake",
+    "swig",
+    "doxygen",
+    "graphviz",
+    "python-setuptools"
+  ],
+  "receive": 196505575,
+  "transmit": 344267,
+  "disk": 906733
+}
