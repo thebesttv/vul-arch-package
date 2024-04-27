@@ -1,0 +1,14 @@
+{
+  "name": "python-thrift",
+  "version": "0.20.0-2",
+  "depends": [
+    "python",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196435305,
+  "transmit": 272540,
+  "disk": 28611956
+}
