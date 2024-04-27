@@ -1,0 +1,14 @@
+{
+  "name": "python-ly",
+  "version": "0.9.7-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 196731365,
+  "transmit": 475026,
+  "disk": 1150586
+}
