@@ -1,0 +1,14 @@
+{
+  "name": "python-bracex",
+  "version": "2.4-2",
+  "depends": [],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196513690,
+  "transmit": 374153,
+  "disk": 264581
+}
