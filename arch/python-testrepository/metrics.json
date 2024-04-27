@@ -1,0 +1,19 @@
+{
+  "name": "python-testrepository",
+  "version": "0.0.21-1",
+  "depends": [
+    "python-testtools",
+    "python-fixtures",
+    "python-subunit"
+  ],
+  "makedepends": [
+    "python-hatch",
+    "python-hatch-vcs",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 199108678,
+  "transmit": 456677,
+  "disk": 13063296
+}
