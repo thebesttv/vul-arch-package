@@ -1,0 +1,21 @@
+{
+  "name": "python-reportlab",
+  "version": "4.1.0-2",
+  "depends": [
+    "python",
+    "freetype2",
+    "python-pillow"
+  ],
+  "makedepends": [
+    "freetype2",
+    "python-pillow",
+    "mercurial",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196413909,
+  "transmit": 260257,
+  "disk": 10846198
+}
