@@ -1,0 +1,13 @@
+{
+  "name": "python-sphinxcontrib-log-cabinet",
+  "version": "1.0.1-5",
+  "depends": [
+    "python",
+    "python-sphinx",
+    "python-setuptools"
+  ],
+  "makedepends": [],
+  "receive": 196407238,
+  "transmit": 269308,
+  "disk": 113845
+}
