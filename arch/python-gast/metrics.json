@@ -1,0 +1,13 @@
+{
+  "name": "python-gast",
+  "version": "0.5.4-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196657448,
+  "transmit": 422916,
+  "disk": 273142
+}
