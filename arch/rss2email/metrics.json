@@ -1,0 +1,17 @@
+{
+  "name": "rss2email",
+  "version": "3.14-6",
+  "depends": [
+    "python",
+    "python-html2text",
+    "python-feedparser"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 197000198,
+  "transmit": 442865,
+  "disk": 1224688
+}
