@@ -1,0 +1,16 @@
+{
+  "name": "python-click-log",
+  "version": "0.4.0-4",
+  "depends": [
+    "python-click"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196780200,
+  "transmit": 433607,
+  "disk": 163054
+}
