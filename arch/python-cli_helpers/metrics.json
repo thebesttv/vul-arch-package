@@ -1,0 +1,18 @@
+{
+  "name": "python-cli_helpers",
+  "version": "2.3.1-2",
+  "depends": [
+    "python",
+    "python-tabulate",
+    "python-configobj"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 197054237,
+  "transmit": 692945,
+  "disk": 291408
+}
