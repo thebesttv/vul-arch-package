@@ -1,0 +1,23 @@
+{
+  "name": "python-b2sdk",
+  "version": "1.26.0-2",
+  "depends": [
+    "python",
+    "python-logfury",
+    "python-requests",
+    "python-tqdm",
+    "python-urllib3",
+    "python-setuptools",
+    "python-importlib-metadata"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196460469,
+  "transmit": 300881,
+  "disk": 7803748
+}
