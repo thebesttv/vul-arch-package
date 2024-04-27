@@ -1,0 +1,13 @@
+{
+  "name": "python-speg",
+  "version": "0.3-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196565226,
+  "transmit": 349241,
+  "disk": 115870
+}
