@@ -1,0 +1,17 @@
+{
+  "name": "distcc",
+  "version": "3.4-10",
+  "depends": [
+    "avahi",
+    "popt",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "gtk3",
+    "python-setuptools"
+  ],
+  "receive": 196548110,
+  "transmit": 361737,
+  "disk": 23517003
+}
