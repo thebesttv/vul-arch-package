@@ -1,0 +1,27 @@
+{
+  "name": "avahi",
+  "version": "1:0.8+r194+g3f79789-2",
+  "depends": [
+    "dbus",
+    "expat",
+    "gdbm",
+    "glib2",
+    "libcap",
+    "libdaemon"
+  ],
+  "makedepends": [
+    "doxygen",
+    "git",
+    "gobject-introspection",
+    "graphviz",
+    "gtk3",
+    "libevent",
+    "python-dbus",
+    "python-gobject",
+    "qt5-base",
+    "xmltoman"
+  ],
+  "receive": 196512708,
+  "transmit": 356609,
+  "disk": 11371250
+}
