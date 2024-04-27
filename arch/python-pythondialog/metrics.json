@@ -1,0 +1,14 @@
+{
+  "name": "python-pythondialog",
+  "version": "3.5.3-3",
+  "depends": [
+    "python",
+    "dialog"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196480305,
+  "transmit": 252054,
+  "disk": 3733663
+}
