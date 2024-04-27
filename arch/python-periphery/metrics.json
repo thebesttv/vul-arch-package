@@ -1,0 +1,16 @@
+{
+  "name": "python-periphery",
+  "version": "2.3.0-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196408061,
+  "transmit": 243728,
+  "disk": 346005
+}
