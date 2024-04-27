@@ -1,0 +1,17 @@
+{
+  "name": "python-flask-debug",
+  "version": "0.4.3-8",
+  "depends": [
+    "python-flask",
+    "python-inflection"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196471850,
+  "transmit": 281242,
+  "disk": 163041
+}
