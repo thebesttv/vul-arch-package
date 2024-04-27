@@ -1,0 +1,17 @@
+{
+  "name": "python-shtab",
+  "version": "1.6.5-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 196429855,
+  "transmit": 283543,
+  "disk": 1573517
+}
