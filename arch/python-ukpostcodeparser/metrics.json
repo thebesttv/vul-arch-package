@@ -1,0 +1,13 @@
+{
+  "name": "python-ukpostcodeparser",
+  "version": "1.1.2-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196566099,
+  "transmit": 409917,
+  "disk": 151763
+}
