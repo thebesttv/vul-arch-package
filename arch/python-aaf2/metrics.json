@@ -1,0 +1,16 @@
+{
+  "name": "python-aaf2",
+  "version": "1.7.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196442918,
+  "transmit": 297372,
+  "disk": 863870
+}
