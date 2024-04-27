@@ -1,0 +1,14 @@
+{
+  "name": "python-requestsexceptions",
+  "version": "1.4.0-11",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-pbr"
+  ],
+  "receive": 196523708,
+  "transmit": 362781,
+  "disk": 126005
+}
