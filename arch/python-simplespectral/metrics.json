@@ -1,0 +1,14 @@
+{
+  "name": "python-simplespectral",
+  "version": "1.0.0-11",
+  "depends": [
+    "python",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196434623,
+  "transmit": 266012,
+  "disk": 116181
+}
