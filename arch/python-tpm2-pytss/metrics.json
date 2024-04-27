@@ -1,0 +1,26 @@
+{
+  "name": "python-tpm2-pytss",
+  "version": "2.1.0.r40.70a4ccc-1",
+  "depends": [
+    "glibc",
+    "python",
+    "python-asn1crypto",
+    "python-cffi",
+    "python-cryptography",
+    "python-packaging",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-pkgconfig",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel",
+    "tpm2-tss"
+  ],
+  "receive": 196523427,
+  "transmit": 358446,
+  "disk": 41489181
+}
