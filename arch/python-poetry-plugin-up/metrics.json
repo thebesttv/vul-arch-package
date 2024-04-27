@@ -1,0 +1,16 @@
+{
+  "name": "python-poetry-plugin-up",
+  "version": "0.7.1-2",
+  "depends": [
+    "python",
+    "python-poetry"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196661437,
+  "transmit": 494974,
+  "disk": 778478
+}
