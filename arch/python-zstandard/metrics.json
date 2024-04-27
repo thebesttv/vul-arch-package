@@ -1,0 +1,13 @@
+{
+  "name": "python-zstandard",
+  "version": "0.22.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196413597,
+  "transmit": 258715,
+  "disk": 4220383
+}
