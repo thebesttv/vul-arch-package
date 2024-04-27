@@ -1,0 +1,16 @@
+{
+  "name": "python-qrencode",
+  "version": "1.2-14",
+  "depends": [
+    "python",
+    "python-pillow",
+    "qrencode",
+    "glibc"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196691564,
+  "transmit": 448884,
+  "disk": 119680
+}
