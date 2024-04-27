@@ -1,0 +1,14 @@
+{
+  "name": "geos",
+  "version": "3.12.1-1",
+  "depends": [
+    "gcc-libs",
+    "bash"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 203490094,
+  "transmit": 380151,
+  "disk": 33168672
+}
