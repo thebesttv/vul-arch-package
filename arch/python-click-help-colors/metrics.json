@@ -1,0 +1,17 @@
+{
+  "name": "python-click-help-colors",
+  "version": "0.9.4-2",
+  "depends": [
+    "python",
+    "python-click"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196472017,
+  "transmit": 276994,
+  "disk": 422269
+}
