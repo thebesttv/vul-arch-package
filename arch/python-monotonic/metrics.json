@@ -1,0 +1,13 @@
+{
+  "name": "python-monotonic",
+  "version": "1.6-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196874324,
+  "transmit": 572271,
+  "disk": 127530
+}
