@@ -1,0 +1,13 @@
+{
+  "name": "python-strict-rfc3339",
+  "version": "0.7-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196576552,
+  "transmit": 406796,
+  "disk": 167865
+}
