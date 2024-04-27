@@ -1,0 +1,14 @@
+{
+  "name": "python-lockfile",
+  "version": "0.12.2-13",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-pbr"
+  ],
+  "receive": 196426126,
+  "transmit": 280752,
+  "disk": 215273
+}
