@@ -1,0 +1,17 @@
+{
+  "name": "python-zipp",
+  "version": "3.17.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196544081,
+  "transmit": 340391,
+  "disk": 1106620
+}
