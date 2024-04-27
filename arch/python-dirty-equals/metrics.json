@@ -1,0 +1,16 @@
+{
+  "name": "python-dirty-equals",
+  "version": "0.7.1.post0-4",
+  "depends": [
+    "python",
+    "python-pytz"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 196472989,
+  "transmit": 287289,
+  "disk": 369307
+}
