@@ -1,0 +1,23 @@
+{
+  "name": "python-pysaml2",
+  "version": "7.5.0-2",
+  "depends": [
+    "python",
+    "python-cryptography",
+    "python-dateutil",
+    "python-defusedxml",
+    "python-pyopenssl",
+    "python-pytz",
+    "python-requests",
+    "python-xmlschema",
+    "xmlsec"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196432316,
+  "transmit": 244298,
+  "disk": 45825183
+}
