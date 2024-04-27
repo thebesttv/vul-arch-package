@@ -1,0 +1,29 @@
+{
+  "name": "python-sqlalchemy-utils",
+  "version": "0.38.3-4",
+  "depends": [
+    "python",
+    "python-sqlalchemy",
+    "python-anyjson",
+    "python-babel",
+    "python-arrow",
+    "python-intervals",
+    "python-phonenumbers",
+    "python-passlib",
+    "python-colour",
+    "python-dateutil",
+    "python-furl",
+    "python-cryptography",
+    "python-pendulum"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196560398,
+  "transmit": 385873,
+  "disk": 994778
+}
