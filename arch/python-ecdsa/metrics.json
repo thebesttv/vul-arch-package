@@ -1,0 +1,13 @@
+{
+  "name": "python-ecdsa",
+  "version": "0.18.0-4",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196540698,
+  "transmit": 385954,
+  "disk": 1117770
+}
