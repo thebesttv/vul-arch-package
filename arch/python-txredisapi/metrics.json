@@ -1,0 +1,15 @@
+{
+  "name": "python-txredisapi",
+  "version": "1.4.7-6",
+  "depends": [
+    "python",
+    "python-twisted",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196435664,
+  "transmit": 257016,
+  "disk": 243097
+}
