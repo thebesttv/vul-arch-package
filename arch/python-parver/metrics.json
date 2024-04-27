@@ -1,0 +1,17 @@
+{
+  "name": "python-parver",
+  "version": "0.4-3",
+  "depends": [
+    "python-arpeggio",
+    "python-attrs"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196492650,
+  "transmit": 364042,
+  "disk": 268411
+}
