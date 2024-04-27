@@ -1,0 +1,14 @@
+{
+  "name": "tevent",
+  "version": "1:0.16.1-3",
+  "depends": [
+    "talloc"
+  ],
+  "makedepends": [
+    "python",
+    "cmocka"
+  ],
+  "receive": 196515893,
+  "transmit": 384582,
+  "disk": 4885097
+}
