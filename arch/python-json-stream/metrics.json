@@ -1,0 +1,17 @@
+{
+  "name": "python-json-stream",
+  "version": "2.3.2-3",
+  "depends": [
+    "python",
+    "python-json-stream-rs-tokenizer"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196455327,
+  "transmit": 293560,
+  "disk": 311866
+}
