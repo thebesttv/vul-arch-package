@@ -1,0 +1,15 @@
+{
+  "name": "python-astunparse",
+  "version": "1.6.3-8",
+  "depends": [
+    "python",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196504208,
+  "transmit": 366681,
+  "disk": 217494
+}
