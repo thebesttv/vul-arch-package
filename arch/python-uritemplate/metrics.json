@@ -1,0 +1,16 @@
+{
+  "name": "python-uritemplate",
+  "version": "4.1.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196429616,
+  "transmit": 297392,
+  "disk": 285358
+}
