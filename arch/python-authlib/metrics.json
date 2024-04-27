@@ -1,0 +1,16 @@
+{
+  "name": "python-authlib",
+  "version": "1.2.1-2",
+  "depends": [
+    "python-cryptography"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196579668,
+  "transmit": 380909,
+  "disk": 2302926
+}
