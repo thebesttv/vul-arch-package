@@ -1,0 +1,13 @@
+{
+  "name": "python-euclid3",
+  "version": "0.01-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196559476,
+  "transmit": 386576,
+  "disk": 181042
+}
