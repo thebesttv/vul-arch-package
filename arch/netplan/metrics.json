@@ -1,0 +1,35 @@
+{
+  "name": "netplan",
+  "version": "0.107-4",
+  "depends": [
+    "dbus-python",
+    "gcc-libs",
+    "glibc",
+    "glib2",
+    "libyaml",
+    "python",
+    "python-cffi",
+    "python-yaml",
+    "python-netifaces",
+    "python-rich",
+    "iproute2",
+    "systemd",
+    "systemd-libs",
+    "util-linux-libs"
+  ],
+  "makedepends": [
+    "bash-completion",
+    "cmocka",
+    "meson",
+    "pandoc",
+    "python-coverage",
+    "python-pycodestyle",
+    "python-pyflakes",
+    "python-pytest",
+    "python-setuptools",
+    "python-pytest-cov"
+  ],
+  "receive": 196606225,
+  "transmit": 386112,
+  "disk": 2997633
+}
