@@ -1,0 +1,14 @@
+{
+  "name": "python-rebulk",
+  "version": "3.2.0-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196492395,
+  "transmit": 340500,
+  "disk": 1407639
+}
