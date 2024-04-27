@@ -1,0 +1,20 @@
+{
+  "name": "python-tweepy",
+  "version": "4.14.0-2",
+  "depends": [
+    "python",
+    "python-oauthlib",
+    "python-python-socks",
+    "python-requests",
+    "python-requests-oauthlib"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196747369,
+  "transmit": 523230,
+  "disk": 16084887
+}
