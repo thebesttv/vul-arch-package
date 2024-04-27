@@ -1,0 +1,17 @@
+{
+  "name": "python-django-csp",
+  "version": "3.8-2",
+  "depends": [
+    "python-django",
+    "python-jinja"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196450020,
+  "transmit": 273984,
+  "disk": 252546
+}
