@@ -1,0 +1,16 @@
+{
+  "name": "python-plumbum",
+  "version": "1.8.2-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-vcs",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 196920062,
+  "transmit": 578495,
+  "disk": 1395400
+}
