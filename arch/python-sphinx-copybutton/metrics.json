@@ -1,0 +1,13 @@
+{
+  "name": "python-sphinx-copybutton",
+  "version": "0.5.2-2",
+  "depends": [
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196516140,
+  "transmit": 357952,
+  "disk": 214000
+}
