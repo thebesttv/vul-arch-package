@@ -1,0 +1,14 @@
+{
+  "name": "python-digitalocean",
+  "version": "1.17.0-6",
+  "depends": [
+    "python-requests",
+    "python-jsonpickle"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196570956,
+  "transmit": 423488,
+  "disk": 641201
+}
