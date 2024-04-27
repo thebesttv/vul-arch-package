@@ -1,0 +1,19 @@
+{
+  "name": "python-pybluez",
+  "version": "0.23.r58.g4d46ce1-3",
+  "depends": [
+    "bluez-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196391701,
+  "transmit": 268495,
+  "disk": 2757634
+}
