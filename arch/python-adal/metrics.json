@@ -1,0 +1,17 @@
+{
+  "name": "python-adal",
+  "version": "1.2.7-5",
+  "depends": [
+    "python-cryptography",
+    "python-dateutil",
+    "python-pyjwt",
+    "python-requests"
+  ],
+  "makedepends": [
+    "fakeroot",
+    "python-setuptools"
+  ],
+  "receive": 196496224,
+  "transmit": 340196,
+  "disk": 1367360
+}
