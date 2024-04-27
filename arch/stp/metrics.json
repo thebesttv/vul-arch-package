@@ -1,0 +1,20 @@
+{
+  "name": "stp",
+  "version": "2.3.3-12",
+  "depends": [
+    "boost-libs",
+    "cryptominisat",
+    "minisat"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "help2man",
+    "ninja",
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196507460,
+  "transmit": 358515,
+  "disk": 12112446
+}
