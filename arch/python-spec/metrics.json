@@ -1,0 +1,14 @@
+{
+  "name": "python-spec",
+  "version": "1.4.1-5",
+  "depends": [
+    "python-nose",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196472479,
+  "transmit": 319004,
+  "disk": 226827
+}
