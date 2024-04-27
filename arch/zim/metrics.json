@@ -1,0 +1,15 @@
+{
+  "name": "zim",
+  "version": "0.75.2-3",
+  "depends": [
+    "python",
+    "python-gobject",
+    "ttf-font",
+    "gtk3",
+    "python-xdg"
+  ],
+  "makedepends": [],
+  "receive": 196410831,
+  "transmit": 295633,
+  "disk": 14792450
+}
