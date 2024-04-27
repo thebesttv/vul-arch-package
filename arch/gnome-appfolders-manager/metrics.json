@@ -1,0 +1,15 @@
+{
+  "name": "gnome-appfolders-manager",
+  "version": "0.4.7-3",
+  "depends": [
+    "gtk3",
+    "python-xdg",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196520406,
+  "transmit": 393348,
+  "disk": 658026
+}
