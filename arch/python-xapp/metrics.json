@@ -1,0 +1,14 @@
+{
+  "name": "python-xapp",
+  "version": "2.4.1-2",
+  "depends": [
+    "python",
+    "python-psutil"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 196496695,
+  "transmit": 357744,
+  "disk": 221631
+}
