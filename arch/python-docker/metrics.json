@@ -1,0 +1,20 @@
+{
+  "name": "python-docker",
+  "version": "7.0.0-2",
+  "depends": [
+    "python-packaging",
+    "python-requests",
+    "python-urllib3",
+    "python-websocket-client"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196498614,
+  "transmit": 258837,
+  "disk": 1747416
+}
