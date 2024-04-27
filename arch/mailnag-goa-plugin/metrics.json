@@ -1,0 +1,14 @@
+{
+  "name": "mailnag-goa-plugin",
+  "version": "2.0.0-5",
+  "depends": [
+    "gnome-online-accounts",
+    "mailnag"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196515733,
+  "transmit": 340312,
+  "disk": 127700
+}
