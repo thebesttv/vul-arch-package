@@ -1,0 +1,15 @@
+{
+  "name": "python-mplhep_data",
+  "version": "0.0.3-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-setuptools-scm"
+  ],
+  "receive": 196507044,
+  "transmit": 352885,
+  "disk": 17665996
+}
