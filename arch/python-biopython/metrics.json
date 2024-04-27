@@ -1,0 +1,13 @@
+{
+  "name": "python-biopython",
+  "version": "1.81-3",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 215861479,
+  "transmit": 301749,
+  "disk": 97666542
+}
