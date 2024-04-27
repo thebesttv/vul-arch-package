@@ -1,0 +1,13 @@
+{
+  "name": "python-pynamecheap",
+  "version": "0.0.3-10",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196576588,
+  "transmit": 399353,
+  "disk": 340357
+}
