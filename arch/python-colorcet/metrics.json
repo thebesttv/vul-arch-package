@@ -1,0 +1,17 @@
+{
+  "name": "python-colorcet",
+  "version": "3.1.0-2",
+  "depends": [
+    "python-pyct"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196610267,
+  "transmit": 351701,
+  "disk": 6036966
+}
