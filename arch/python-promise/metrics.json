@@ -1,0 +1,14 @@
+{
+  "name": "python-promise",
+  "version": "2.3.0-7",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196500571,
+  "transmit": 362892,
+  "disk": 760668
+}
