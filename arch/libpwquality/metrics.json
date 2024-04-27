@@ -1,0 +1,15 @@
+{
+  "name": "libpwquality",
+  "version": "1.4.5-5",
+  "depends": [
+    "cracklib",
+    "glibc",
+    "pam"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196586432,
+  "transmit": 418782,
+  "disk": 3337222
+}
