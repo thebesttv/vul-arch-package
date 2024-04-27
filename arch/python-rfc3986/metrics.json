@@ -1,0 +1,13 @@
+{
+  "name": "python-rfc3986",
+  "version": "2.0.0-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196428000,
+  "transmit": 244571,
+  "disk": 406800
+}
