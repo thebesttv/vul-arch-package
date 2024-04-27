@@ -1,0 +1,16 @@
+{
+  "name": "python-odfpy",
+  "version": "1.4.2-5",
+  "depends": [
+    "python-defusedxml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196700733,
+  "transmit": 485449,
+  "disk": 32609421
+}
