@@ -1,0 +1,31 @@
+{
+  "name": "mvt",
+  "version": "2.5.3-2",
+  "depends": [
+    "libusb",
+    "python",
+    "python-adb-shell",
+    "python-appdirs",
+    "python-click",
+    "python-cryptography",
+    "python-iosbackup",
+    "python-libusb1",
+    "python-packaging",
+    "python-pyahocorasick",
+    "python-requests",
+    "python-rich",
+    "python-simplejson",
+    "python-tld",
+    "python-tqdm",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196626310,
+  "transmit": 437772,
+  "disk": 6700839
+}
