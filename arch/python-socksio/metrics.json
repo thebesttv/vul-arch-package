@@ -1,0 +1,16 @@
+{
+  "name": "python-socksio",
+  "version": "1.0.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-flit-core",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196578107,
+  "transmit": 432944,
+  "disk": 210692
+}
