@@ -1,0 +1,19 @@
+{
+  "name": "python-jwcrypto",
+  "version": "1.5.6-2",
+  "depends": [
+    "python",
+    "python-cryptography",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196441130,
+  "transmit": 270876,
+  "disk": 1704480
+}
