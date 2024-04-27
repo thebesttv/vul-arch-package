@@ -1,0 +1,17 @@
+{
+  "name": "python-pytest-pretty",
+  "version": "1.2.0-2",
+  "depends": [
+    "python",
+    "python-pytest",
+    "python-rich"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 196497774,
+  "transmit": 374986,
+  "disk": 561223
+}
