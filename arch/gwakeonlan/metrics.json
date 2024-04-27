@@ -1,0 +1,16 @@
+{
+  "name": "gwakeonlan",
+  "version": "0.8.5-3",
+  "depends": [
+    "gtk3",
+    "python-xdg",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "gettext"
+  ],
+  "receive": 197021603,
+  "transmit": 580887,
+  "disk": 827013
+}
