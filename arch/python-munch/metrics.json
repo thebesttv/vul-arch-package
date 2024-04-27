@@ -1,0 +1,15 @@
+{
+  "name": "python-munch",
+  "version": "4.0.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-pbr",
+    "git"
+  ],
+  "receive": 196567863,
+  "transmit": 409594,
+  "disk": 212972
+}
