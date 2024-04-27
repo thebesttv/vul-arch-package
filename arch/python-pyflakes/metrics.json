@@ -1,0 +1,16 @@
+{
+  "name": "python-pyflakes",
+  "version": "3.2.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196808797,
+  "transmit": 625754,
+  "disk": 511397
+}
