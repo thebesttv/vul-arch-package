@@ -1,0 +1,12 @@
+{
+  "name": "python-hglib",
+  "version": "2.6.2-6",
+  "depends": [
+    "python",
+    "mercurial"
+  ],
+  "makedepends": [],
+  "receive": 196492062,
+  "transmit": 368357,
+  "disk": 340186
+}
