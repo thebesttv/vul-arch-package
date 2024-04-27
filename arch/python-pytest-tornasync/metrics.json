@@ -1,0 +1,14 @@
+{
+  "name": "python-pytest-tornasync",
+  "version": "0.6.0.post2-6",
+  "depends": [
+    "python-tornado",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196487276,
+  "transmit": 306378,
+  "disk": 141095
+}
