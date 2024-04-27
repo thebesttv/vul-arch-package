@@ -1,0 +1,17 @@
+{
+  "name": "python-django-haystack",
+  "version": "3.2.1-4",
+  "depends": [
+    "python",
+    "python-django"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196604459,
+  "transmit": 422162,
+  "disk": 2699919
+}
