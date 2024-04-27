@@ -1,0 +1,25 @@
+{
+  "name": "python-ipykernel",
+  "version": "6.29.4-2",
+  "depends": [
+    "ipython",
+    "python",
+    "python-comm",
+    "python-jupyter-client",
+    "python-jupyter-core",
+    "python-nest-asyncio",
+    "python-packaging",
+    "python-psutil",
+    "python-pyzmq",
+    "python-tornado",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 196887542,
+  "transmit": 532938,
+  "disk": 1064832
+}
