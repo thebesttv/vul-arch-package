@@ -1,0 +1,14 @@
+{
+  "name": "python-log_symbols",
+  "version": "0.0.14-6",
+  "depends": [
+    "python",
+    "python-colorama"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196491115,
+  "transmit": 310676,
+  "disk": 111686
+}
