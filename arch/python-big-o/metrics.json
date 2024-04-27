@@ -1,0 +1,17 @@
+{
+  "name": "python-big-o",
+  "version": "0.11.0-2",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196478325,
+  "transmit": 323432,
+  "disk": 453124
+}
