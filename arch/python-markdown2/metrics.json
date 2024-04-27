@@ -1,0 +1,14 @@
+{
+  "name": "python-markdown2",
+  "version": "2.4.12-2",
+  "depends": [
+    "python",
+    "python-pygments"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196501828,
+  "transmit": 308678,
+  "disk": 4797195
+}
