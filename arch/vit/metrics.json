@@ -1,0 +1,16 @@
+{
+  "name": "vit",
+  "version": "2.3.1-2",
+  "depends": [
+    "task",
+    "python",
+    "python-urwid",
+    "python-tasklib"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 197126109,
+  "transmit": 727085,
+  "disk": 529682
+}
