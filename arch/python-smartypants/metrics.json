@@ -1,0 +1,13 @@
+{
+  "name": "python-smartypants",
+  "version": "2.0.1-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196402932,
+  "transmit": 224862,
+  "disk": 213413
+}
