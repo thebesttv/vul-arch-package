@@ -1,0 +1,16 @@
+{
+  "name": "python-rope",
+  "version": "1.12.0-2",
+  "depends": [
+    "python-pytoolconfig"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196528550,
+  "transmit": 370630,
+  "disk": 2238336
+}
