@@ -1,0 +1,16 @@
+{
+  "name": "python-sphinxygen",
+  "version": "1.0.4-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196777749,
+  "transmit": 427012,
+  "disk": 195437
+}
