@@ -1,0 +1,16 @@
+{
+  "name": "python-shellingham",
+  "version": "1.5.4-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196413993,
+  "transmit": 224627,
+  "disk": 226445
+}
