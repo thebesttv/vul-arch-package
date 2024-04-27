@@ -1,0 +1,14 @@
+{
+  "name": "python-memcached",
+  "version": "1.62-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196937341,
+  "transmit": 679570,
+  "disk": 1024441
+}
