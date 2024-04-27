@@ -1,0 +1,13 @@
+{
+  "name": "python-wurlitzer",
+  "version": "3.0.3-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196654497,
+  "transmit": 467924,
+  "disk": 145521
+}
