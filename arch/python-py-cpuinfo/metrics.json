@@ -1,0 +1,16 @@
+{
+  "name": "python-py-cpuinfo",
+  "version": "9.0.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196646286,
+  "transmit": 427631,
+  "disk": 817568
+}
