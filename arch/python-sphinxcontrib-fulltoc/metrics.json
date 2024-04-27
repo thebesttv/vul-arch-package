@@ -1,0 +1,19 @@
+{
+  "name": "python-sphinxcontrib-fulltoc",
+  "version": "1.2-4",
+  "depends": [
+    "python",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-pbr"
+  ],
+  "receive": 196551271,
+  "transmit": 409596,
+  "disk": 362133
+}
