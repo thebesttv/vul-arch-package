@@ -1,0 +1,17 @@
+{
+  "name": "python-ajsonrpc",
+  "version": "1.2.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196656171,
+  "transmit": 448117,
+  "disk": 923625
+}
