@@ -1,0 +1,15 @@
+{
+  "name": "libloc",
+  "version": "0.9.17-4",
+  "depends": [],
+  "makedepends": [
+    "asciidoc",
+    "intltool",
+    "libcrypto.so",
+    "python",
+    "systemd"
+  ],
+  "receive": 196663526,
+  "transmit": 281643,
+  "disk": 49514790
+}
