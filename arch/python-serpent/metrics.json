@@ -1,0 +1,13 @@
+{
+  "name": "python-serpent",
+  "version": "1.41-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 196440921,
+  "transmit": 248580,
+  "disk": 2300663
+}
