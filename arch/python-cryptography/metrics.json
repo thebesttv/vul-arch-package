@@ -1,0 +1,20 @@
+{
+  "name": "python-cryptography",
+  "version": "42.0.5-2",
+  "depends": [
+    "python-cffi"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-rust",
+    "llvm",
+    "clang",
+    "lld",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 1749419565,
+  "transmit": 4550729,
+  "disk": 1607187069
+}
