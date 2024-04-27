@@ -1,0 +1,22 @@
+{
+  "name": "python-pytest-trio",
+  "version": "0.8.0-5",
+  "depends": [
+    "python",
+    "python-exceptiongroup",
+    "python-hypothesis",
+    "python-outcome",
+    "python-pytest",
+    "python-trio"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196574262,
+  "transmit": 425902,
+  "disk": 873531
+}
