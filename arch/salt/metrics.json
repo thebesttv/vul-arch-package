@@ -1,0 +1,27 @@
+{
+  "name": "salt",
+  "version": "3007.0-2",
+  "depends": [
+    "python-jinja",
+    "python-jmespath",
+    "python-msgpack",
+    "python-yaml",
+    "python-markupsafe",
+    "python-requests",
+    "python-distro",
+    "python-psutil",
+    "python-packaging",
+    "python-looseversion",
+    "python-pyzmq",
+    "python-m2crypto",
+    "python-systemd",
+    "python-importlib-metadata",
+    "python-pycryptodomex"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 217101295,
+  "transmit": 432956,
+  "disk": 106048013
+}
