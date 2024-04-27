@@ -1,0 +1,12 @@
+{
+  "name": "nss-pam-ldapd",
+  "version": "0.9.12-4",
+  "depends": [
+    "pam",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 196618721,
+  "transmit": 438472,
+  "disk": 4606230
+}
