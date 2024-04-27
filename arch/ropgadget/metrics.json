@@ -1,0 +1,17 @@
+{
+  "name": "ropgadget",
+  "version": "7.4-2",
+  "depends": [
+    "python",
+    "python-capstone"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196418187,
+  "transmit": 260580,
+  "disk": 31782647
+}
