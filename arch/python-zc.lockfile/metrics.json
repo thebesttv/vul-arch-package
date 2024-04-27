@@ -1,0 +1,11 @@
+{
+  "name": "python-zc.lockfile",
+  "version": "3.0.post1-3",
+  "depends": [],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196646809,
+  "transmit": 409953,
+  "disk": 155861
+}
