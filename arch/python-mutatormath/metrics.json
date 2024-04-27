@@ -1,0 +1,19 @@
+{
+  "name": "python-mutatormath",
+  "version": "3.0.1-5",
+  "depends": [
+    "python",
+    "python-defcon",
+    "python-fontmath",
+    "python-fonttools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196405772,
+  "transmit": 240193,
+  "disk": 1644634
+}
