@@ -1,0 +1,21 @@
+{
+  "name": "crun",
+  "version": "1.14.4-2",
+  "depends": [
+    "yajl",
+    "systemd-libs",
+    "libcap",
+    "libseccomp",
+    "criu"
+  ],
+  "makedepends": [
+    "libtool",
+    "python",
+    "go-md2man",
+    "systemd",
+    "git"
+  ],
+  "receive": 196669572,
+  "transmit": 443347,
+  "disk": 9075181
+}
