@@ -1,0 +1,13 @@
+{
+  "name": "python-sqlitedict",
+  "version": "2.1.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196450152,
+  "transmit": 319403,
+  "disk": 218068
+}
