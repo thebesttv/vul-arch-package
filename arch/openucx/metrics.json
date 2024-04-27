@@ -1,0 +1,18 @@
+{
+  "name": "openucx",
+  "version": "1.15.0-4",
+  "depends": [
+    "binutils",
+    "glibc",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "rdma-core",
+    "cuda",
+    "rocm-language-runtime"
+  ],
+  "receive": 196560811,
+  "transmit": 429653,
+  "disk": 16283841
+}
