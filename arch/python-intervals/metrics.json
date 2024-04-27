@@ -1,0 +1,15 @@
+{
+  "name": "python-intervals",
+  "version": "0.9.2-5",
+  "depends": [
+    "python",
+    "python-infinity"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196436130,
+  "transmit": 275212,
+  "disk": 207727
+}
