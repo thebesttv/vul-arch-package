@@ -1139,3 +1139,4 @@ python-docstring-to-markdown 0.15-2
 autopep8 1:2.1.0-2
 python-curio 1.6-4
 python-time-machine 2.14.1-2
+python-aiohttp-openmetrics 0.0.12-2
