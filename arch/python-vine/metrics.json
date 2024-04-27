@@ -1,0 +1,14 @@
+{
+  "name": "python-vine",
+  "version": "5.1.0-4",
+  "depends": [],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196522915,
+  "transmit": 350083,
+  "disk": 321341
+}
