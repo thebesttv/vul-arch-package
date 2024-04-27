@@ -1,0 +1,18 @@
+{
+  "name": "python-django-sekizai",
+  "version": "4.1.0-3",
+  "depends": [
+    "python",
+    "python-django",
+    "python-django-classy-tags"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196384857,
+  "transmit": 252112,
+  "disk": 207119
+}
