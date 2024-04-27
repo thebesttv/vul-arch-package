@@ -1,0 +1,17 @@
+{
+  "name": "python-pyhcl",
+  "version": "0.4.5-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196590575,
+  "transmit": 402496,
+  "disk": 828480
+}
