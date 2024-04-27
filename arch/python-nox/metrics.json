@@ -1,0 +1,20 @@
+{
+  "name": "python-nox",
+  "version": "2023.04.22-3",
+  "depends": [
+    "python",
+    "python-argcomplete",
+    "python-colorlog",
+    "python-py",
+    "python-virtualenv",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling"
+  ],
+  "receive": 196488305,
+  "transmit": 334092,
+  "disk": 8476620
+}
