@@ -1,0 +1,21 @@
+{
+  "name": "python-nethsm-sdk-py",
+  "version": "1.0.0-2",
+  "depends": [
+    "python",
+    "python-certifi",
+    "python-cryptography",
+    "python-dateutil",
+    "python-typing_extensions",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 227501682,
+  "transmit": 569551,
+  "disk": 103995103
+}
