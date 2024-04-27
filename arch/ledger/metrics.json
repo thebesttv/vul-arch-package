@@ -1,0 +1,17 @@
+{
+  "name": "ledger",
+  "version": "3.3.2-5",
+  "depends": [
+    "boost-libs",
+    "libedit",
+    "mpfr"
+  ],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "python"
+  ],
+  "receive": 196482325,
+  "transmit": 259705,
+  "disk": 5834271
+}
