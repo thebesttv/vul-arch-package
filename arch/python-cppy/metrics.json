@@ -1,0 +1,17 @@
+{
+  "name": "python-cppy",
+  "version": "1.2.1-7",
+  "depends": [
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196426363,
+  "transmit": 345593,
+  "disk": 443597
+}
