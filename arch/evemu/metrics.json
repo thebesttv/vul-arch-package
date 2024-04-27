@@ -1,0 +1,15 @@
+{
+  "name": "evemu",
+  "version": "2.7.0-10",
+  "depends": [
+    "libevdev"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "python",
+    "xmlto"
+  ],
+  "receive": 196569398,
+  "transmit": 389427,
+  "disk": 6666290
+}
