@@ -1,0 +1,16 @@
+{
+  "name": "python-cramjam",
+  "version": "2.8.3-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-installer",
+    "maturin",
+    "rust",
+    "patchelf"
+  ],
+  "receive": 196484658,
+  "transmit": 345930,
+  "disk": 4373961
+}
