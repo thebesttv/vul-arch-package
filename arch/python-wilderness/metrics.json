@@ -1,0 +1,16 @@
+{
+  "name": "python-wilderness",
+  "version": "0.1.10-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196564533,
+  "transmit": 351377,
+  "disk": 345286
+}
