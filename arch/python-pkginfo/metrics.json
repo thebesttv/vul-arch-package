@@ -1,0 +1,16 @@
+{
+  "name": "python-pkginfo",
+  "version": "1.9.6-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196632282,
+  "transmit": 503790,
+  "disk": 1078619
+}
