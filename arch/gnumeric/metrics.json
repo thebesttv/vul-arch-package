@@ -1,0 +1,21 @@
+{
+  "name": "gnumeric",
+  "version": "1.12.57-3",
+  "depends": [
+    "goffice"
+  ],
+  "makedepends": [
+    "intltool",
+    "psiconv",
+    "pygobject-devel",
+    "docbook-xml",
+    "gobject-introspection",
+    "python-gobject",
+    "gtk-doc",
+    "yelp-tools",
+    "python-setuptools"
+  ],
+  "receive": 214960150,
+  "transmit": 467404,
+  "disk": 126837767
+}
