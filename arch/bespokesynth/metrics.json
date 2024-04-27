@@ -1,0 +1,37 @@
+{
+  "name": "bespokesynth",
+  "version": "1.2.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "libpng",
+    "python",
+    "zlib"
+  ],
+  "makedepends": [
+    "abletonlink",
+    "alsa-lib",
+    "cmake",
+    "flac",
+    "freetype2",
+    "git",
+    "jack",
+    "jsoncpp",
+    "juce",
+    "libjpeg-turbo",
+    "libogg",
+    "libvorbis",
+    "libusb",
+    "libx11",
+    "libxcursor",
+    "libxinerama",
+    "pybind11",
+    "tuning-library",
+    "xorg-xrandr"
+  ],
+  "receive": 196598719,
+  "transmit": 433656,
+  "disk": 110582862
+}
