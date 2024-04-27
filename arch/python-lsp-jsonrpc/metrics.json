@@ -1,0 +1,16 @@
+{
+  "name": "python-lsp-jsonrpc",
+  "version": "1.1.2-2",
+  "depends": [
+    "python-ujson"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196610430,
+  "transmit": 413432,
+  "disk": 185930
+}
