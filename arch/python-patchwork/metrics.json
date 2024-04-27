@@ -1,0 +1,13 @@
+{
+  "name": "python-patchwork",
+  "version": "1.0.1-8",
+  "depends": [
+    "fabric"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196522613,
+  "transmit": 341974,
+  "disk": 169761
+}
