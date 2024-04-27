@@ -1,0 +1,19 @@
+{
+  "name": "meson",
+  "version": "1.4.0-4",
+  "depends": [
+    "ninja",
+    "python",
+    "python-tqdm",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 199022702,
+  "transmit": 451789,
+  "disk": 17658805
+}
