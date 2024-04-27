@@ -1,0 +1,21 @@
+{
+  "name": "python-tensorflow-serving-api",
+  "version": "2.16.1-2",
+  "depends": [
+    "python",
+    "python-grpcio",
+    "python-tensorflow",
+    "python-protobuf"
+  ],
+  "makedepends": [
+    "bazel",
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196703794,
+  "transmit": 349800,
+  "disk": 23450838
+}
