@@ -1,0 +1,20 @@
+{
+  "name": "python-geoip2",
+  "version": "4.8.0-2",
+  "depends": [
+    "python",
+    "python-aiohttp",
+    "python-maxminddb",
+    "python-requests",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196416571,
+  "transmit": 219990,
+  "disk": 3282126
+}
