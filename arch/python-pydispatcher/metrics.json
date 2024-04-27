@@ -1,0 +1,16 @@
+{
+  "name": "python-pydispatcher",
+  "version": "2.0.7-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196469192,
+  "transmit": 312390,
+  "disk": 385566
+}
