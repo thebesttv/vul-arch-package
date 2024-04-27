@@ -1,0 +1,14 @@
+{
+  "name": "python-testscenarios",
+  "version": "0.5.0-16",
+  "depends": [
+    "python-pbr",
+    "python-testtools"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196502695,
+  "transmit": 254981,
+  "disk": 234442
+}
