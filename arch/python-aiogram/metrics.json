@@ -1,0 +1,18 @@
+{
+  "name": "python-aiogram",
+  "version": "2.22.2-4",
+  "depends": [
+    "python-aiohttp",
+    "python-babel",
+    "python-certifi"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196553817,
+  "transmit": 326003,
+  "disk": 1934335
+}
