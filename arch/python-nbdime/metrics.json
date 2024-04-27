@@ -1,0 +1,32 @@
+{
+  "name": "python-nbdime",
+  "version": "4.0.1-3",
+  "depends": [
+    "python",
+    "jupyter-nbformat",
+    "python-colorama",
+    "python-pygments",
+    "python-tornado",
+    "python-requests",
+    "python-gitpython",
+    "jupyter-server",
+    "jupyter-server-mathjax",
+    "python-jinja",
+    "python-traitlets",
+    "python-jupyter-core"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "jupyterlab",
+    "python-hatch-jupyter-builder",
+    "npm",
+    "python-tabulate",
+    "jupyter-notebook",
+    "python-packaging"
+  ],
+  "receive": 196552833,
+  "transmit": 311260,
+  "disk": 10795887
+}
