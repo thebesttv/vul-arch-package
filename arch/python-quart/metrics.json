@@ -1,0 +1,26 @@
+{
+  "name": "python-quart",
+  "version": "0.19.5-1",
+  "depends": [
+    "hypercorn",
+    "python",
+    "python-aiofiles",
+    "python-blinker",
+    "python-click",
+    "python-importlib-metadata",
+    "python-itsdangerous",
+    "python-jinja",
+    "python-markupsafe",
+    "python-werkzeug"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 196377037,
+  "transmit": 228933,
+  "disk": 4238465
+}
