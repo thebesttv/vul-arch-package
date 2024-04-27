@@ -1,0 +1,16 @@
+{
+  "name": "python-vagrant",
+  "version": "1.0.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196579927,
+  "transmit": 415505,
+  "disk": 309832
+}
