@@ -1,0 +1,12 @@
+{
+  "name": "nltk-data",
+  "version": "3.7-2",
+  "depends": [],
+  "makedepends": [
+    "python-nltk",
+    "unzip"
+  ],
+  "receive": 877825621,
+  "transmit": 1347868,
+  "disk": 3943727595
+}
