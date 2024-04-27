@@ -1,0 +1,17 @@
+{
+  "name": "python-lz4",
+  "version": "4.3.3-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-pkgconfig",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196655674,
+  "transmit": 514366,
+  "disk": 1098669
+}
