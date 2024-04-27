@@ -1,0 +1,19 @@
+{
+  "name": "python-requests-ntlm",
+  "version": "1.2.0-4",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-ntlm-auth",
+    "python-pyspnego"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-wheel",
+    "python-installer"
+  ],
+  "receive": 196416521,
+  "transmit": 272444,
+  "disk": 142745
+}
