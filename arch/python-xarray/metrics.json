@@ -1,0 +1,19 @@
+{
+  "name": "python-xarray",
+  "version": "2023.01.0-4",
+  "depends": [
+    "python-numpy",
+    "python-packaging",
+    "python-pandas"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196428058,
+  "transmit": 236440,
+  "disk": 11111345
+}
