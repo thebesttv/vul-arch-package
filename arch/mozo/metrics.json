@@ -1,0 +1,16 @@
+{
+  "name": "mozo",
+  "version": "1.28.0-2",
+  "depends": [
+    "gtk3",
+    "python>=3.5",
+    "mate-menus",
+    "python-gobject",
+    "gettext",
+    "mate-panel"
+  ],
+  "makedepends": [],
+  "receive": 196710092,
+  "transmit": 463226,
+  "disk": 1990032
+}
