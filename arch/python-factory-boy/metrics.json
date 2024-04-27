@@ -1,0 +1,16 @@
+{
+  "name": "python-factory-boy",
+  "version": "3.3.0-2",
+  "depends": [
+    "python-faker"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196424845,
+  "transmit": 240522,
+  "disk": 910513
+}
