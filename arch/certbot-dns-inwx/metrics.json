@@ -1,0 +1,16 @@
+{
+  "name": "certbot-dns-inwx",
+  "version": "2.2.0-4",
+  "depends": [
+    "certbot",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196492565,
+  "transmit": 330952,
+  "disk": 155831
+}
