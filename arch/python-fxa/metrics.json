@@ -1,0 +1,21 @@
+{
+  "name": "python-fxa",
+  "version": "0.7.8-1",
+  "depends": [
+    "python-browserid",
+    "python-cryptography",
+    "python-hawkauthlib",
+    "python-pyjwt",
+    "python-requests",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196439095,
+  "transmit": 247207,
+  "disk": 340854
+}
