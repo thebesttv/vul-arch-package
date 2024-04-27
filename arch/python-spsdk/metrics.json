@@ -1,0 +1,40 @@
+{
+  "name": "python-spsdk",
+  "version": "2.1.1-2",
+  "depends": [
+    "python",
+    "python-asn1crypto",
+    "python-astunparse",
+    "python-bincopy",
+    "python-bitstring",
+    "python-click",
+    "python-click-command-tree",
+    "python-click-option-group",
+    "python-colorama",
+    "python-crcmod",
+    "python-cryptography",
+    "python-deepmerge",
+    "python-fastjsonschema",
+    "python-hexdump",
+    "python-libusbsio",
+    "python-oscrypto",
+    "python-platformdirs",
+    "python-prettytable",
+    "python-pylink-square",
+    "python-pyocd",
+    "python-pyserial",
+    "python-requests",
+    "python-ruamel-yaml",
+    "python-sly",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 218050809,
+  "transmit": 459560,
+  "disk": 74033593
+}
