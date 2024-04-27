@@ -1,0 +1,17 @@
+{
+  "name": "python-bottleneck",
+  "version": "1.3.7-4",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-versioneer"
+  ],
+  "receive": 196471134,
+  "transmit": 311108,
+  "disk": 865289
+}
