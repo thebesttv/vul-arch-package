@@ -1,0 +1,16 @@
+{
+  "name": "python-objsize",
+  "version": "0.7.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196508374,
+  "transmit": 348080,
+  "disk": 218757
+}
