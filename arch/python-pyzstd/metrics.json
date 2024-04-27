@@ -1,0 +1,17 @@
+{
+  "name": "python-pyzstd",
+  "version": "0.15.10-3",
+  "depends": [
+    "python",
+    "zstd"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196562463,
+  "transmit": 385450,
+  "disk": 4638560
+}
