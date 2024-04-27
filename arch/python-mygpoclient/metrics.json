@@ -1,0 +1,13 @@
+{
+  "name": "python-mygpoclient",
+  "version": "1.9-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196427518,
+  "transmit": 258088,
+  "disk": 366032
+}
