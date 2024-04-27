@@ -1,0 +1,18 @@
+{
+  "name": "pythia8",
+  "version": "8.3.10-5",
+  "depends": [],
+  "makedepends": [
+    "fastjet",
+    "hepmc",
+    "hepmc2",
+    "lhapdf",
+    "openmp",
+    "python",
+    "root",
+    "zlib"
+  ],
+  "receive": 225933206,
+  "transmit": 664376,
+  "disk": 126263771
+}
