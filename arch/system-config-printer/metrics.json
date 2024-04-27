@@ -1,0 +1,30 @@
+{
+  "name": "system-config-printer",
+  "version": "1.5.18-3",
+  "depends": [
+    "python-pycups",
+    "python-dbus",
+    "libnotify",
+    "python-gobject",
+    "gtk3",
+    "python-cairo",
+    "libusb",
+    "pango",
+    "glib2",
+    "libcups",
+    "systemd-libs",
+    "glibc",
+    "gdk-pixbuf2",
+    "sh"
+  ],
+  "makedepends": [
+    "xmlto",
+    "docbook-xsl",
+    "desktop-file-utils",
+    "libsecret",
+    "python-setuptools"
+  ],
+  "receive": 196405557,
+  "transmit": 265184,
+  "disk": 15889130
+}
