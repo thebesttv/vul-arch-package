@@ -1,0 +1,17 @@
+{
+  "name": "python-xlsxwriter",
+  "version": "3.1.9-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 488592853,
+  "transmit": 1145168,
+  "disk": 338700279
+}
