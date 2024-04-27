@@ -1,0 +1,25 @@
+{
+  "name": "criu",
+  "version": "3.18-3",
+  "depends": [
+    "libbsd",
+    "libnet",
+    "libnl",
+    "protobuf-c",
+    "python-protobuf",
+    "gnutls",
+    "nftables"
+  ],
+  "makedepends": [
+    "git",
+    "xmlto",
+    "asciidoc",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 210253168,
+  "transmit": 386295,
+  "disk": 75862059
+}
