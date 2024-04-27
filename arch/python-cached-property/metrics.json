@@ -1,0 +1,13 @@
+{
+  "name": "python-cached-property",
+  "version": "1.5.2-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196752972,
+  "transmit": 475641,
+  "disk": 168860
+}
