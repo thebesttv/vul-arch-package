@@ -1,0 +1,17 @@
+{
+  "name": "uutils-coreutils",
+  "version": "0.0.26-1",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "oniguruma"
+  ],
+  "makedepends": [
+    "rust",
+    "cargo",
+    "python-sphinx"
+  ],
+  "receive": 196478597,
+  "transmit": 348946,
+  "disk": 13483533
+}
