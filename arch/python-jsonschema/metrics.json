@@ -1,0 +1,24 @@
+{
+  "name": "python-jsonschema",
+  "version": "4.21.1-2",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-pyrsistent",
+    "python-typing_extensions",
+    "python-referencing",
+    "python-jsonschema-specifications"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-hatchling",
+    "python-hatch-vcs",
+    "python-hatch-fancy-pypi-readme"
+  ],
+  "receive": 196610122,
+  "transmit": 396850,
+  "disk": 7935940
+}
