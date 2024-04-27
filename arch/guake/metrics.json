@@ -1,0 +1,23 @@
+{
+  "name": "guake",
+  "version": "3.10-2",
+  "depends": [
+    "libkeybinder3",
+    "libnotify",
+    "libutempter",
+    "libwnck3",
+    "python-cairo",
+    "python-dbus",
+    "python-gobject",
+    "python-pbr",
+    "vte3",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "git",
+    "python-pip"
+  ],
+  "receive": 196506679,
+  "transmit": 357817,
+  "disk": 13375588
+}
