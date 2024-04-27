@@ -1,0 +1,16 @@
+{
+  "name": "python-sortedcontainers",
+  "version": "2.4.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196442781,
+  "transmit": 279422,
+  "disk": 20080789
+}
