@@ -1,0 +1,19 @@
+{
+  "name": "python-progressbar",
+  "version": "4.4.2-2",
+  "depends": [
+    "python",
+    "python-utils"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 197820148,
+  "transmit": 983862,
+  "disk": 743018
+}
