@@ -1,0 +1,13 @@
+{
+  "name": "python-pyperclip",
+  "version": "1.8.2-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196423750,
+  "transmit": 246848,
+  "disk": 236864
+}
