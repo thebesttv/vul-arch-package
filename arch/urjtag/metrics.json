@@ -1,0 +1,15 @@
+{
+  "name": "urjtag",
+  "version": "2021.03-4",
+  "depends": [
+    "libftdi-compat",
+    "libusb-compat"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196587639,
+  "transmit": 394682,
+  "disk": 18244084
+}
