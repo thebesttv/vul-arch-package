@@ -1,0 +1,14 @@
+{
+  "name": "python-harparser",
+  "version": "0.4-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196464547,
+  "transmit": 265819,
+  "disk": 148722
+}
