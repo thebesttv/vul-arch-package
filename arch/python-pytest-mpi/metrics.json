@@ -1,0 +1,13 @@
+{
+  "name": "python-pytest-mpi",
+  "version": "0.6-5",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196787941,
+  "transmit": 444356,
+  "disk": 293896
+}
