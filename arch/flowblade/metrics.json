@@ -1,0 +1,24 @@
+{
+  "name": "flowblade",
+  "version": "2.14.0.2-1",
+  "depends": [
+    "dbus-python",
+    "ffmpeg",
+    "frei0r-plugins",
+    "gmic",
+    "gtk3",
+    "mlt",
+    "python-cairo",
+    "python-gobject",
+    "python-numpy",
+    "python-pillow",
+    "sdl_image",
+    "swh-plugins"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 204255501,
+  "transmit": 417285,
+  "disk": 70455806
+}
