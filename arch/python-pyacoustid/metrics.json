@@ -1,0 +1,15 @@
+{
+  "name": "python-pyacoustid",
+  "version": "1.3.0-2",
+  "depends": [
+    "chromaprint",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196401794,
+  "transmit": 277880,
+  "disk": 482457
+}
