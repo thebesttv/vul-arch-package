@@ -1,0 +1,20 @@
+{
+  "name": "python-yara",
+  "version": "4.5.0-2",
+  "depends": [
+    "python",
+    "yara",
+    "libyara.so",
+    "glibc"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196551058,
+  "transmit": 355333,
+  "disk": 994604
+}
