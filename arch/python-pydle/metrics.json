@@ -1,0 +1,15 @@
+{
+  "name": "python-pydle",
+  "version": "1.0.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196824284,
+  "transmit": 585005,
+  "disk": 396438
+}
