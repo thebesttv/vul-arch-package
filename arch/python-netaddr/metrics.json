@@ -1,0 +1,14 @@
+{
+  "name": "python-netaddr",
+  "version": "0.8.0-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 196484808,
+  "transmit": 299046,
+  "disk": 10407184
+}
