@@ -1,0 +1,20 @@
+{
+  "name": "python-barectf",
+  "version": "3.1.1-4",
+  "depends": [
+    "python-termcolor",
+    "python-yaml",
+    "python-jsonschema",
+    "python-jinja",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-poetry-core",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196644478,
+  "transmit": 467715,
+  "disk": 2688115
+}
