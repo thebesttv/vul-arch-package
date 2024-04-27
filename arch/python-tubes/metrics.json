@@ -1,0 +1,15 @@
+{
+  "name": "python-tubes",
+  "version": "0.2.1-6",
+  "depends": [
+    "python",
+    "python-six",
+    "python-twisted"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196444188,
+  "transmit": 319978,
+  "disk": 490092
+}
