@@ -1,0 +1,13 @@
+{
+  "name": "python-construct",
+  "version": "2.10.70-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196515137,
+  "transmit": 334156,
+  "disk": 3902015
+}
