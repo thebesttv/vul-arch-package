@@ -1,0 +1,14 @@
+{
+  "name": "python-pytest-freezegun",
+  "version": "0.4.2-8",
+  "depends": [
+    "python-pytest",
+    "python-freezegun"
+  ],
+  "makedepends": [
+    "python-setuptools-scm"
+  ],
+  "receive": 196400122,
+  "transmit": 213458,
+  "disk": 129184
+}
