@@ -1,0 +1,13 @@
+{
+  "name": "python-databases",
+  "version": "0.8.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196648504,
+  "transmit": 491226,
+  "disk": 362115
+}
