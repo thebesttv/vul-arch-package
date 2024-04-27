@@ -1,0 +1,17 @@
+{
+  "name": "python-pycountry",
+  "version": "23.12.11-2",
+  "depends": [
+    "python",
+    "python-lxml"
+  ],
+  "makedepends": [
+    "python",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196901989,
+  "transmit": 608902,
+  "disk": 23657560
+}
