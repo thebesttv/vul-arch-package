@@ -1,0 +1,16 @@
+{
+  "name": "ranger",
+  "version": "1.9.3-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196719638,
+  "transmit": 460579,
+  "disk": 1731476
+}
