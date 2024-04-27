@@ -1,0 +1,13 @@
+{
+  "name": "python-mohawk",
+  "version": "1.1.0-9",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196534885,
+  "transmit": 368950,
+  "disk": 281739
+}
