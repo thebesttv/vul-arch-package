@@ -1,0 +1,26 @@
+{
+  "name": "variety",
+  "version": "0.8.12-2",
+  "depends": [
+    "gtk3",
+    "imagemagick",
+    "libgexiv2",
+    "libnotify",
+    "python-beautifulsoup4",
+    "python-cairo",
+    "python-configobj",
+    "dbus-python",
+    "python-gobject",
+    "python-httplib2",
+    "python-pillow",
+    "python-lxml",
+    "python-pycurl",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-distutils-extra"
+  ],
+  "receive": 196543352,
+  "transmit": 335565,
+  "disk": 3762058
+}
