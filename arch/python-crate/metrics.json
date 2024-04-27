@@ -1,0 +1,17 @@
+{
+  "name": "python-crate",
+  "version": "0.35.2-2",
+  "depends": [
+    "python",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196663809,
+  "transmit": 494806,
+  "disk": 574202
+}
