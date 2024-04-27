@@ -1,0 +1,16 @@
+{
+  "name": "python-autocommand",
+  "version": "2.2.2-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196445398,
+  "transmit": 251105,
+  "disk": 215299
+}
