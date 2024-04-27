@@ -1,0 +1,16 @@
+{
+  "name": "python-jsonmerge",
+  "version": "1.9.2-2",
+  "depends": [
+    "python-jsonschema"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196741844,
+  "transmit": 449082,
+  "disk": 277658
+}
