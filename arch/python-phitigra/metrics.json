@@ -1,0 +1,16 @@
+{
+  "name": "python-phitigra",
+  "version": "0.2.6-3",
+  "depends": [
+    "sagemath",
+    "python-ipycanvas"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196510845,
+  "transmit": 337004,
+  "disk": 227580
+}
