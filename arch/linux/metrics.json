@@ -1,0 +1,24 @@
+{
+  "name": "linux",
+  "version": "6.8.7.arch1-2",
+  "depends": [],
+  "makedepends": [
+    "bc",
+    "cpio",
+    "gettext",
+    "libelf",
+    "pahole",
+    "perl",
+    "python",
+    "tar",
+    "xz",
+    "graphviz",
+    "imagemagick",
+    "python-sphinx",
+    "python-yaml",
+    "texlive-latexextra"
+  ],
+  "receive": 341396249,
+  "transmit": 480636,
+  "disk": 1565081510
+}
