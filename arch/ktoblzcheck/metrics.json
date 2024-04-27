@@ -1,0 +1,13 @@
+{
+  "name": "ktoblzcheck",
+  "version": "1.53-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 196432686,
+  "transmit": 259482,
+  "disk": 4836799
+}
