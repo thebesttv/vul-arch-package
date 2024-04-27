@@ -1,0 +1,15 @@
+{
+  "name": "python-pysmi",
+  "version": "0.3.4-11",
+  "depends": [
+    "python",
+    "python-ply"
+  ],
+  "makedepends": [
+    "python-sphinx",
+    "python-setuptools"
+  ],
+  "receive": 196460069,
+  "transmit": 291513,
+  "disk": 815205
+}
