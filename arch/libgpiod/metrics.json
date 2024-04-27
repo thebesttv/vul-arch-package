@@ -1,0 +1,16 @@
+{
+  "name": "libgpiod",
+  "version": "2.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "autoconf-archive",
+    "doxygen",
+    "help2man",
+    "python-setuptools"
+  ],
+  "receive": 197927942,
+  "transmit": 1013296,
+  "disk": 1599177
+}
