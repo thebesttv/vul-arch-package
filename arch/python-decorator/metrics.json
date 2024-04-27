@@ -1,0 +1,14 @@
+{
+  "name": "python-decorator",
+  "version": "5.1.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196430601,
+  "transmit": 277688,
+  "disk": 287896
+}
