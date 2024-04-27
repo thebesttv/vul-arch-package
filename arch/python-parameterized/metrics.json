@@ -1,0 +1,16 @@
+{
+  "name": "python-parameterized",
+  "version": "0.9.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196391695,
+  "transmit": 262590,
+  "disk": 237073
+}
