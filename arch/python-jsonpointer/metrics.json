@@ -1,0 +1,13 @@
+{
+  "name": "python-jsonpointer",
+  "version": "2.4-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196405455,
+  "transmit": 263963,
+  "disk": 198275
+}
