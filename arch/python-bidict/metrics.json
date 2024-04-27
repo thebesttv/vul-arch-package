@@ -1,0 +1,17 @@
+{
+  "name": "python-bidict",
+  "version": "0.23.1-2",
+  "depends": [
+    "python",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196438920,
+  "transmit": 253122,
+  "disk": 1247910
+}
