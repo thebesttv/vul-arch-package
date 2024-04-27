@@ -1,0 +1,13 @@
+{
+  "name": "python-purl",
+  "version": "1.6-5",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196431539,
+  "transmit": 257356,
+  "disk": 194165
+}
