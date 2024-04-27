@@ -1,0 +1,17 @@
+{
+  "name": "arandr",
+  "version": "0.1.11-3",
+  "depends": [
+    "gtk3",
+    "python-cairo",
+    "python-gobject",
+    "xorg-xrandr"
+  ],
+  "makedepends": [
+    "python-docutils",
+    "python-setuptools"
+  ],
+  "receive": 196456333,
+  "transmit": 296006,
+  "disk": 649010
+}
