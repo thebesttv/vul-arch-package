@@ -1,0 +1,15 @@
+{
+  "name": "marisa",
+  "version": "0.2.6-12",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "ruby",
+    "perl",
+    "swig",
+    "python-setuptools"
+  ],
+  "receive": 196472446,
+  "transmit": 323638,
+  "disk": 1424857
+}
