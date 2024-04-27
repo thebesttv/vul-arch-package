@@ -1,0 +1,13 @@
+{
+  "name": "pyxdg",
+  "version": "0.28-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196606506,
+  "transmit": 411770,
+  "disk": 571132
+}
