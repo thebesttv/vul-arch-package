@@ -1,0 +1,13 @@
+{
+  "name": "python-prometheus_client",
+  "version": "0.20.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196473193,
+  "transmit": 320432,
+  "disk": 15638250
+}
