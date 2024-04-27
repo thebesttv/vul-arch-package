@@ -1,0 +1,19 @@
+{
+  "name": "python-networkx",
+  "version": "3.2.1-2",
+  "depends": [
+    "python-numpy",
+    "python-scipy",
+    "python-matplotlib",
+    "python-pandas"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196784129,
+  "transmit": 519723,
+  "disk": 11511347
+}
