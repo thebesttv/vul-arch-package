@@ -1,0 +1,11 @@
+{
+  "name": "qperf",
+  "version": "0.4.11-4",
+  "depends": [
+    "rdma-core"
+  ],
+  "makedepends": [],
+  "receive": 196584901,
+  "transmit": 396272,
+  "disk": 432175
+}
