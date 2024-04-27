@@ -1,0 +1,13 @@
+{
+  "name": "python-dnslib",
+  "version": "0.9.24-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196461222,
+  "transmit": 318733,
+  "disk": 535381
+}
