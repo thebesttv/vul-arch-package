@@ -1,0 +1,19 @@
+{
+  "name": "python-sanic",
+  "version": "22.12.0-2",
+  "depends": [
+    "python-sanic-routing",
+    "python-httptools",
+    "python-uvloop",
+    "python-ujson",
+    "python-aiofiles",
+    "python-websockets",
+    "python-multidict"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196630130,
+  "transmit": 418131,
+  "disk": 2168615
+}
