@@ -1,0 +1,13 @@
+{
+  "name": "python-sgmllib3k",
+  "version": "1.0.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196542162,
+  "transmit": 384067,
+  "disk": 123792
+}
