@@ -1,0 +1,19 @@
+{
+  "name": "python-flask-paranoid",
+  "version": "0.3.0-4",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-werkzeug>=2.3.3"
+  ],
+  "makedepends": [
+    "python-sphinx",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196669462,
+  "transmit": 435720,
+  "disk": 370524
+}
