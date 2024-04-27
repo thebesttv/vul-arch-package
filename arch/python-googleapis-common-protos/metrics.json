@@ -1,0 +1,16 @@
+{
+  "name": "python-googleapis-common-protos",
+  "version": "1.63.0-2",
+  "depends": [
+    "python-protobuf"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196582950,
+  "transmit": 425152,
+  "disk": 895471
+}
