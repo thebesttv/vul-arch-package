@@ -1,0 +1,16 @@
+{
+  "name": "python-zipfile-deflate64",
+  "version": "0.2.0-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196530871,
+  "transmit": 375552,
+  "disk": 405172
+}
