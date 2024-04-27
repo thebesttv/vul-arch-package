@@ -1,0 +1,16 @@
+{
+  "name": "python-pretend",
+  "version": "1.0.9-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196607041,
+  "transmit": 468688,
+  "disk": 122841
+}
