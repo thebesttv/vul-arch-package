@@ -1,0 +1,15 @@
+{
+  "name": "python-webrtcvad",
+  "version": "2.0.10-4",
+  "depends": [
+    "glibc",
+    "python",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 196746597,
+  "transmit": 328986,
+  "disk": 996191
+}
