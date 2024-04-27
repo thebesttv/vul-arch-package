@@ -1,0 +1,11 @@
+{
+  "name": "python-zope-deprecation",
+  "version": "5.0-3",
+  "depends": [
+    "python-setuptools"
+  ],
+  "makedepends": [],
+  "receive": 196464510,
+  "transmit": 274901,
+  "disk": 236515
+}
