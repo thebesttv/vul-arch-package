@@ -1,0 +1,17 @@
+{
+  "name": "python-simplesat",
+  "version": "0.8.2-7",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-okonomiyaki",
+    "python-six"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196590805,
+  "transmit": 416275,
+  "disk": 3285842
+}
