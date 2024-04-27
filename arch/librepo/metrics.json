@@ -1,0 +1,18 @@
+{
+  "name": "librepo",
+  "version": "1.17.0-2",
+  "depends": [
+    "curl",
+    "glib2",
+    "gpgme",
+    "libxml2",
+    "openssl"
+  ],
+  "makedepends": [
+    "cmake",
+    "python"
+  ],
+  "receive": 196740886,
+  "transmit": 504593,
+  "disk": 4174062
+}
