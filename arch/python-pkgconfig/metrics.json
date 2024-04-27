@@ -1,0 +1,13 @@
+{
+  "name": "python-pkgconfig",
+  "version": "1.5.5-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196418815,
+  "transmit": 233152,
+  "disk": 137997
+}
