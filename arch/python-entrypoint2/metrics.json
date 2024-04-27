@@ -1,0 +1,13 @@
+{
+  "name": "python-entrypoint2",
+  "version": "1.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196467394,
+  "transmit": 282024,
+  "disk": 182168
+}
