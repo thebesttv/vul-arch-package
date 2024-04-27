@@ -1,0 +1,13 @@
+{
+  "name": "wireproxy",
+  "version": "1.0.9-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 196536032,
+  "transmit": 350287,
+  "disk": 213269
+}
