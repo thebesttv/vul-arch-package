@@ -1,0 +1,16 @@
+{
+  "name": "python-identify",
+  "version": "2.5.35-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196622424,
+  "transmit": 405604,
+  "disk": 696157
+}
