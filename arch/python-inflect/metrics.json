@@ -1,0 +1,20 @@
+{
+  "name": "python-inflect",
+  "version": "7.2.1-2",
+  "depends": [
+    "python",
+    "python-more-itertools",
+    "python-typeguard",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 196390197,
+  "transmit": 251914,
+  "disk": 466129
+}
