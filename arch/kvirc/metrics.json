@@ -1,0 +1,20 @@
+{
+  "name": "kvirc",
+  "version": "5.2.2-3",
+  "depends": [
+    "enchant",
+    "hicolor-icon-theme",
+    "qt6-multimedia",
+    "qt6-svg",
+    "qt6-webengine",
+    "qt6-5compat"
+  ],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "python"
+  ],
+  "receive": 203586139,
+  "transmit": 751278,
+  "disk": 35227202
+}
