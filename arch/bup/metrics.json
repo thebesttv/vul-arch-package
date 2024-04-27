@@ -1,0 +1,21 @@
+{
+  "name": "bup",
+  "version": "0.33.3-2",
+  "depends": [
+    "acl",
+    "git",
+    "glibc",
+    "par2cmdline",
+    "python",
+    "python-fuse",
+    "python-pyxattr",
+    "readline",
+    "sh"
+  ],
+  "makedepends": [
+    "pandoc"
+  ],
+  "receive": 196393902,
+  "transmit": 252175,
+  "disk": 2529373
+}
