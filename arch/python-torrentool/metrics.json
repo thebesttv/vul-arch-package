@@ -1,0 +1,16 @@
+{
+  "name": "python-torrentool",
+  "version": "1.2.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196556664,
+  "transmit": 406253,
+  "disk": 197430
+}
