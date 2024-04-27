@@ -1,0 +1,16 @@
+{
+  "name": "python-xmljson",
+  "version": "0.2.1-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196682918,
+  "transmit": 466456,
+  "disk": 226277
+}
