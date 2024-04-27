@@ -1,0 +1,17 @@
+{
+  "name": "pulsemixer",
+  "version": "1.5.1-6",
+  "depends": [
+    "python",
+    "pulse-native-provider"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196983914,
+  "transmit": 761534,
+  "disk": 225917
+}
