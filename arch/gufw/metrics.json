@@ -1,0 +1,22 @@
+{
+  "name": "gufw",
+  "version": "24.04-2",
+  "depends": [
+    "gtk3",
+    "polkit",
+    "python",
+    "python-gobject",
+    "ufw",
+    "webkit2gtk",
+    "desktop-file-utils",
+    "gtk-update-icon-cache"
+  ],
+  "makedepends": [
+    "intltool",
+    "python-distutils-extra",
+    "python-setuptools"
+  ],
+  "receive": 196517404,
+  "transmit": 364330,
+  "disk": 13209174
+}
