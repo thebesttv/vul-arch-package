@@ -1,0 +1,13 @@
+{
+  "name": "uwsgitop",
+  "version": "0.11-7",
+  "depends": [
+    "python-simplejson"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196389969,
+  "transmit": 228392,
+  "disk": 117100
+}
