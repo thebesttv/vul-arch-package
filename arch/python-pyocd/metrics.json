@@ -1,0 +1,34 @@
+{
+  "name": "python-pyocd",
+  "version": "0.36.0-2",
+  "depends": [
+    "python",
+    "python-capstone",
+    "python-cmsis-pack-manager",
+    "python-colorama",
+    "python-importlib-metadata",
+    "python-importlib-resources",
+    "python-intelhex",
+    "python-intervaltree",
+    "python-lark",
+    "python-natsort",
+    "python-prettytable",
+    "python-pyelftools",
+    "python-pylink-square",
+    "python-pyusb",
+    "python-pyyaml",
+    "python-six",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 214304188,
+  "transmit": 423934,
+  "disk": 365260417
+}
