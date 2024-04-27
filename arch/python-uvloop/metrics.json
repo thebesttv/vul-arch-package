@@ -1,0 +1,20 @@
+{
+  "name": "python-uvloop",
+  "version": "0.19.0-3",
+  "depends": [
+    "glibc",
+    "python",
+    "libuv"
+  ],
+  "makedepends": [
+    "cython0",
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196496820,
+  "transmit": 358742,
+  "disk": 4195610
+}
