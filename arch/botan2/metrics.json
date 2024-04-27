@@ -1,0 +1,15 @@
+{
+  "name": "botan2",
+  "version": "2.19.3-2",
+  "depends": [
+    "xz",
+    "sqlite"
+  ],
+  "makedepends": [
+    "python",
+    "boost"
+  ],
+  "receive": 202622150,
+  "transmit": 317096,
+  "disk": 35944014
+}
