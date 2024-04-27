@@ -1,0 +1,18 @@
+{
+  "name": "libsvm",
+  "version": "3.32-2",
+  "depends": [
+    "gnuplot",
+    "python"
+  ],
+  "makedepends": [
+    "qt5-base",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196543332,
+  "transmit": 374491,
+  "disk": 3020692
+}
