@@ -1,0 +1,18 @@
+{
+  "name": "python-lark-parser",
+  "version": "1.1.9-3",
+  "depends": [
+    "python",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196549067,
+  "transmit": 395056,
+  "disk": 10698270
+}
