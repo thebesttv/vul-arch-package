@@ -1,0 +1,17 @@
+{
+  "name": "python-pyjwt",
+  "version": "2.8.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196562689,
+  "transmit": 386482,
+  "disk": 2489547
+}
