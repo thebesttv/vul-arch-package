@@ -1,0 +1,15 @@
+{
+  "name": "python-scs",
+  "version": "3.2.4.post1-2",
+  "depends": [
+    "python-scipy"
+  ],
+  "makedepends": [
+    "meson-python",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196754415,
+  "transmit": 536368,
+  "disk": 5179301
+}
