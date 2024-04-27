@@ -1,0 +1,13 @@
+{
+  "name": "python-speaklater",
+  "version": "1.3-13",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196517876,
+  "transmit": 354779,
+  "disk": 114212
+}
