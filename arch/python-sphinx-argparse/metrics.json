@@ -1,0 +1,16 @@
+{
+  "name": "python-sphinx-argparse",
+  "version": "0.4.0-4",
+  "depends": [
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 196676686,
+  "transmit": 406055,
+  "disk": 184932
+}
