@@ -1,0 +1,13 @@
+{
+  "name": "python-oscpy",
+  "version": "0.6.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196447394,
+  "transmit": 277400,
+  "disk": 263209
+}
