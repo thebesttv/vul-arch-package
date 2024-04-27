@@ -1,0 +1,13 @@
+{
+  "name": "python-pytest-qt",
+  "version": "4.4.0-3",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools-scm"
+  ],
+  "receive": 196408872,
+  "transmit": 255345,
+  "disk": 663609
+}
