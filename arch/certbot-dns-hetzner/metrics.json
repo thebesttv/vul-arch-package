@@ -1,0 +1,18 @@
+{
+  "name": "certbot-dns-hetzner",
+  "version": "2.0.0-3",
+  "depends": [
+    "certbot",
+    "python-requests",
+    "python-requests-mock",
+    "python-tldextract",
+    "dns-lexicon",
+    "python-parsedatetime"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196760378,
+  "transmit": 461053,
+  "disk": 146005
+}
