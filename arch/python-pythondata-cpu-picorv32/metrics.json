@@ -1,0 +1,13 @@
+{
+  "name": "python-pythondata-cpu-picorv32",
+  "version": "2022.08-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196428780,
+  "transmit": 267368,
+  "disk": 1135656
+}
