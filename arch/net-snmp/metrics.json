@@ -1,0 +1,19 @@
+{
+  "name": "net-snmp",
+  "version": "5.9.4-3",
+  "depends": [
+    "libnsl",
+    "libpcap",
+    "lm_sensors",
+    "openssl",
+    "pciutils",
+    "pcre2",
+    "perl"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 203498291,
+  "transmit": 423421,
+  "disk": 41287258
+}
