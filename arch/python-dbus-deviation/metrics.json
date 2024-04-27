@@ -1,0 +1,14 @@
+{
+  "name": "python-dbus-deviation",
+  "version": "0.6.1-7",
+  "depends": [
+    "python-lxml"
+  ],
+  "makedepends": [
+    "python-setuptools-git",
+    "python-sphinx"
+  ],
+  "receive": 196521421,
+  "transmit": 366110,
+  "disk": 573437
+}
