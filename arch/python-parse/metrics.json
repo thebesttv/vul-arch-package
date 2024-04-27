@@ -1,0 +1,16 @@
+{
+  "name": "python-parse",
+  "version": "1.20.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196447037,
+  "transmit": 259222,
+  "disk": 252548
+}
