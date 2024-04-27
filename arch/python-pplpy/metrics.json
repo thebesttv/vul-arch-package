@@ -1,0 +1,24 @@
+{
+  "name": "python-pplpy",
+  "version": "0.8.10-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "ppl",
+    "python",
+    "python-cysignals",
+    "python-gmpy2"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 197666698,
+  "transmit": 1110141,
+  "disk": 537277
+}
