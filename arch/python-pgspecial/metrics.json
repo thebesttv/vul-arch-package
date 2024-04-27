@@ -1,0 +1,20 @@
+{
+  "name": "python-pgspecial",
+  "version": "2.1.0-4",
+  "depends": [
+    "python",
+    "python-click",
+    "python-sqlparse",
+    "python-psycopg"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196566447,
+  "transmit": 306470,
+  "disk": 1108875
+}
