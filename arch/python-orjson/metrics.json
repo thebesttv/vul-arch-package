@@ -1,0 +1,17 @@
+{
+  "name": "python-orjson",
+  "version": "3.10.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "maturin",
+    "python-installer",
+    "rust"
+  ],
+  "receive": 196435699,
+  "transmit": 258760,
+  "disk": 3230009
+}
