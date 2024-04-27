@@ -1,0 +1,13 @@
+{
+  "name": "python-asgiref",
+  "version": "3.7.2-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196544998,
+  "transmit": 252836,
+  "disk": 287017
+}
