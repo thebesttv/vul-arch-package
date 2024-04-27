@@ -1,0 +1,20 @@
+{
+  "name": "python-sphinx-prompt",
+  "version": "1.8.0-2",
+  "depends": [
+    "python",
+    "python-sphinx",
+    "python-pygments",
+    "python-docutils"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 196429793,
+  "transmit": 257300,
+  "disk": 1556775
+}
