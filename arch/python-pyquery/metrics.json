@@ -1,0 +1,17 @@
+{
+  "name": "python-pyquery",
+  "version": "2.0.0-4",
+  "depends": [
+    "python-lxml",
+    "python-cssselect"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196498081,
+  "transmit": 366287,
+  "disk": 342049
+}
