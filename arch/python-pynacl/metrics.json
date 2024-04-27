@@ -1,0 +1,20 @@
+{
+  "name": "python-pynacl",
+  "version": "1.5.0-1",
+  "depends": [
+    "libsodium",
+    "python",
+    "python-cffi"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-pycparser",
+    "python-wheel",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 200014639,
+  "transmit": 409204,
+  "disk": 17197185
+}
