@@ -1,0 +1,13 @@
+{
+  "name": "iotop",
+  "version": "0.6-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196650097,
+  "transmit": 475310,
+  "disk": 278051
+}
