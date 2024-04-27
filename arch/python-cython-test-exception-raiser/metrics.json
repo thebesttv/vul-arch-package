@@ -1,0 +1,17 @@
+{
+  "name": "python-cython-test-exception-raiser",
+  "version": "1.0.2-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "cython"
+  ],
+  "receive": 196557826,
+  "transmit": 385193,
+  "disk": 121414
+}
