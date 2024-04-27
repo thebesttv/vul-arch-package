@@ -1,0 +1,15 @@
+{
+  "name": "python-axolotl",
+  "version": "0.2.3-7",
+  "depends": [
+    "python-protobuf",
+    "python-cryptography",
+    "python-axolotl-curve25519"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196566859,
+  "transmit": 401345,
+  "disk": 483713
+}
