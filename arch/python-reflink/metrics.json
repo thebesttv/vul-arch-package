@@ -1,0 +1,17 @@
+{
+  "name": "python-reflink",
+  "version": "0.2.2-3",
+  "depends": [
+    "glibc",
+    "python",
+    "python-cffi"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196535975,
+  "transmit": 382148,
+  "disk": 428121
+}
