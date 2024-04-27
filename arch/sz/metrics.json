@@ -1,0 +1,20 @@
+{
+  "name": "sz",
+  "version": "2.1.12.5-4",
+  "depends": [
+    "glibc",
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "gcc-fortran",
+    "hdf5",
+    "netcdf",
+    "python",
+    "python-numpy",
+    "swig"
+  ],
+  "receive": 196515365,
+  "transmit": 359126,
+  "disk": 14046256
+}
