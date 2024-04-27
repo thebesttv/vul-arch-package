@@ -1,0 +1,17 @@
+{
+  "name": "python-globre",
+  "version": "0.1.5-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "git"
+  ],
+  "receive": 196542205,
+  "transmit": 375243,
+  "disk": 388428
+}
