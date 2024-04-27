@@ -1,0 +1,14 @@
+{
+  "name": "python-bsddb",
+  "version": "6.2.9-6",
+  "depends": [
+    "db",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196667709,
+  "transmit": 464178,
+  "disk": 1660920
+}
