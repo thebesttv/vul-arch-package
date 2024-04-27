@@ -1,0 +1,17 @@
+{
+  "name": "python-hatch-jupyter-builder",
+  "version": "0.9.1-2",
+  "depends": [
+    "python",
+    "python-hatchling",
+    "python-packaging",
+    "python-tomli"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196427536,
+  "transmit": 291793,
+  "disk": 505087
+}
