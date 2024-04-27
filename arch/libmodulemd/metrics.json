@@ -1,0 +1,19 @@
+{
+  "name": "libmodulemd",
+  "version": "2.15.0-3",
+  "depends": [
+    "file",
+    "glib2",
+    "libyaml",
+    "rpm-tools"
+  ],
+  "makedepends": [
+    "gobject-introspection",
+    "help2man",
+    "meson",
+    "python-gobject"
+  ],
+  "receive": 196575712,
+  "transmit": 443578,
+  "disk": 4371581
+}
