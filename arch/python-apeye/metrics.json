@@ -1,0 +1,20 @@
+{
+  "name": "python-apeye",
+  "version": "1.4.0-2",
+  "depends": [
+    "python",
+    "python-apeye-core",
+    "python-domdf-python-tools",
+    "python-platformdirs",
+    "python-requests"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 196500473,
+  "transmit": 343688,
+  "disk": 1695822
+}
