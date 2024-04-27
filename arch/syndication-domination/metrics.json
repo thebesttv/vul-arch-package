@@ -1,0 +1,16 @@
+{
+  "name": "syndication-domination",
+  "version": "1.0-4",
+  "depends": [
+    "pugixml",
+    "fmt",
+    "tidy"
+  ],
+  "makedepends": [
+    "meson",
+    "pybind11"
+  ],
+  "receive": 196528932,
+  "transmit": 360062,
+  "disk": 358704
+}
