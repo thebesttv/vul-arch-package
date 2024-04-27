@@ -1,0 +1,12 @@
+{
+  "name": "python-htmlmin",
+  "version": "0.1.12-10",
+  "depends": [],
+  "makedepends": [
+    "python-sphinx",
+    "python-setuptools"
+  ],
+  "receive": 196555007,
+  "transmit": 370584,
+  "disk": 744839
+}
