@@ -1,0 +1,22 @@
+{
+  "name": "in-toto",
+  "version": "1.2.0-5",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-dateutil",
+    "python-iso8601",
+    "python-pathspec",
+    "python-securesystemslib"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196471753,
+  "transmit": 267801,
+  "disk": 5351396
+}
