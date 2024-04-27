@@ -1,0 +1,18 @@
+{
+  "name": "python-flask-nav",
+  "version": "0.6-8",
+  "depends": [
+    "python-flask",
+    "python-visitor",
+    "python-dominate"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196411326,
+  "transmit": 206102,
+  "disk": 169334
+}
