@@ -1,0 +1,17 @@
+{
+  "name": "pycosat",
+  "version": "0.6.6-2",
+  "depends": [
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196404631,
+  "transmit": 260532,
+  "disk": 507611
+}
