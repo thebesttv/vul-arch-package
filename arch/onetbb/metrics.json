@@ -1,0 +1,19 @@
+{
+  "name": "onetbb",
+  "version": "2021.12.0-2",
+  "depends": [
+    "gcc-libs",
+    "hwloc"
+  ],
+  "makedepends": [
+    "cmake",
+    "inetutils",
+    "ninja",
+    "python",
+    "swig",
+    "python-setuptools"
+  ],
+  "receive": 196549021,
+  "transmit": 371481,
+  "disk": 14410067
+}
