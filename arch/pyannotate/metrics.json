@@ -1,0 +1,14 @@
+{
+  "name": "pyannotate",
+  "version": "1.2.0-7",
+  "depends": [
+    "python-mypy_extensions",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196555015,
+  "transmit": 380683,
+  "disk": 408334
+}
