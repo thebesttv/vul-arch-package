@@ -1,0 +1,17 @@
+{
+  "name": "python-formencode",
+  "version": "2.1.0-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-setuptools-scm"
+  ],
+  "receive": 196531817,
+  "transmit": 353875,
+  "disk": 1922338
+}
