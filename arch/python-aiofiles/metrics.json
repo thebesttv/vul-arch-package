@@ -1,0 +1,16 @@
+{
+  "name": "python-aiofiles",
+  "version": "23.2.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 196434156,
+  "transmit": 288040,
+  "disk": 807802
+}
