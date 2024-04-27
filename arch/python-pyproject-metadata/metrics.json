@@ -1,0 +1,17 @@
+{
+  "name": "python-pyproject-metadata",
+  "version": "0.7.1-4",
+  "depends": [
+    "python",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196549064,
+  "transmit": 430514,
+  "disk": 212518
+}
