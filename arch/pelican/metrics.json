@@ -1,0 +1,26 @@
+{
+  "name": "pelican",
+  "version": "4.9.1-2",
+  "depends": [
+    "python-jinja",
+    "python-pygments",
+    "python-feedgenerator",
+    "python-docutils",
+    "python-blinker",
+    "python-unidecode",
+    "python-dateutil",
+    "python-rich",
+    "python-watchfiles",
+    "python-ordered-set"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-sphinx",
+    "python-sphinxext-opengraph",
+    "python-pdm-backend"
+  ],
+  "receive": 196612497,
+  "transmit": 389829,
+  "disk": 5314534
+}
