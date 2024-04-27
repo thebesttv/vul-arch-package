@@ -1,0 +1,28 @@
+{
+  "name": "glom",
+  "version": "1.32.0-14",
+  "depends": [
+    "gettext",
+    "boost-libs",
+    "libgdamm",
+    "libxml++",
+    "python-gobject",
+    "libepc",
+    "goocanvasmm",
+    "gtksourceviewmm",
+    "evince",
+    "postgresql",
+    "libgda-postgres"
+  ],
+  "makedepends": [
+    "intltool",
+    "python-sphinx",
+    "boost",
+    "itstool",
+    "libgda-mysql",
+    "python-setuptools"
+  ],
+  "receive": 196492257,
+  "transmit": 265888,
+  "disk": 51508254
+}
