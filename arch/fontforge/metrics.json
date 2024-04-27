@@ -1,0 +1,26 @@
+{
+  "name": "fontforge",
+  "version": "20230101-4",
+  "depends": [
+    "libtool",
+    "pango",
+    "giflib",
+    "libtiff",
+    "libxml2",
+    "libspiro",
+    "python",
+    "potrace",
+    "woff2",
+    "gtk3",
+    "libuninameslist"
+  ],
+  "makedepends": [
+    "cmake",
+    "git",
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 196728572,
+  "transmit": 409523,
+  "disk": 66905876
+}
