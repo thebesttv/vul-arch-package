@@ -1,0 +1,13 @@
+{
+  "name": "python-cligj",
+  "version": "0.7.2-5",
+  "depends": [
+    "python-click"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196519704,
+  "transmit": 374183,
+  "disk": 160028
+}
