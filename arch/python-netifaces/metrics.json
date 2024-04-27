@@ -1,0 +1,13 @@
+{
+  "name": "python-netifaces",
+  "version": "0.11.0-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196412507,
+  "transmit": 234979,
+  "disk": 269257
+}
