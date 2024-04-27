@@ -1,0 +1,15 @@
+{
+  "name": "python-mss",
+  "version": "9.0.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools"
+  ],
+  "receive": 196448932,
+  "transmit": 296332,
+  "disk": 419196
+}
