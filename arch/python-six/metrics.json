@@ -1,0 +1,13 @@
+{
+  "name": "python-six",
+  "version": "1.16.0-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196444502,
+  "transmit": 271742,
+  "disk": 282690
+}
