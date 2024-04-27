@@ -1,0 +1,16 @@
+{
+  "name": "python-betamax",
+  "version": "0.9.0-3",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196607562,
+  "transmit": 428037,
+  "disk": 581915
+}
