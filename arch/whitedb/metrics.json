@@ -1,0 +1,11 @@
+{
+  "name": "whitedb",
+  "version": "0.7.3-10",
+  "depends": [],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 196665572,
+  "transmit": 428953,
+  "disk": 3542689
+}
