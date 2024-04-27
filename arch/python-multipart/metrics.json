@@ -1,0 +1,13 @@
+{
+  "name": "python-multipart",
+  "version": "0.2.4-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196583059,
+  "transmit": 442259,
+  "disk": 194593
+}
