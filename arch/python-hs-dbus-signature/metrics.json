@@ -1,0 +1,14 @@
+{
+  "name": "python-hs-dbus-signature",
+  "version": "0.7-5",
+  "depends": [
+    "python-hypothesis"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196596327,
+  "transmit": 375462,
+  "disk": 145396
+}
