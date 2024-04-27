@@ -1,0 +1,16 @@
+{
+  "name": "python-tzdata",
+  "version": "2024.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196600301,
+  "transmit": 387689,
+  "disk": 1043924
+}
