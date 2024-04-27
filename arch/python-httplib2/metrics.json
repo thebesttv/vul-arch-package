@@ -1,0 +1,19 @@
+{
+  "name": "python-httplib2",
+  "version": "0.22.0-5",
+  "depends": [
+    "ca-certificates",
+    "python",
+    "python-pyparsing"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196384545,
+  "transmit": 243532,
+  "disk": 6011199
+}
