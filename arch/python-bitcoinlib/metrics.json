@@ -1,0 +1,16 @@
+{
+  "name": "python-bitcoinlib",
+  "version": "0.12.2-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 197351971,
+  "transmit": 781664,
+  "disk": 965108
+}
