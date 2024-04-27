@@ -1,0 +1,19 @@
+{
+  "name": "python-contourpy",
+  "version": "1.2.1-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "meson-python",
+    "pybind11",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196414727,
+  "transmit": 260787,
+  "disk": 30014407
+}
