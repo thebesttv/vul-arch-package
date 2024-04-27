@@ -1,0 +1,31 @@
+{
+  "name": "libplacebo",
+  "version": "6.338.2-6",
+  "depends": [
+    "vulkan-icd-loader",
+    "glslang",
+    "lcms2",
+    "shaderc",
+    "glibc",
+    "gcc-libs",
+    "libunwind",
+    "libdovi",
+    "xxhash"
+  ],
+  "makedepends": [
+    "meson",
+    "ninja",
+    "vulkan-headers",
+    "glad",
+    "nuklear",
+    "python",
+    "python-setuptools",
+    "python-mako",
+    "python-markupsafe",
+    "python-jinja",
+    "libglvnd"
+  ],
+  "receive": 196568170,
+  "transmit": 363565,
+  "disk": 4226742
+}
