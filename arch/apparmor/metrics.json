@@ -1,0 +1,22 @@
+{
+  "name": "apparmor",
+  "version": "3.1.7-2",
+  "depends": [
+    "audit",
+    "bash",
+    "gcc-libs",
+    "glibc",
+    "pam",
+    "python"
+  ],
+  "makedepends": [
+    "apache",
+    "libxcrypt",
+    "python-setuptools",
+    "ruby",
+    "swig"
+  ],
+  "receive": 196471293,
+  "transmit": 299562,
+  "disk": 27077181
+}
