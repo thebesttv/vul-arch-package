@@ -1,0 +1,14 @@
+{
+  "name": "python-ghp-import",
+  "version": "2.1.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 196519841,
+  "transmit": 364834,
+  "disk": 161545
+}
