@@ -1,0 +1,18 @@
+{
+  "name": "python-sniffio",
+  "version": "1.3.1-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196515093,
+  "transmit": 343805,
+  "disk": 490379
+}
