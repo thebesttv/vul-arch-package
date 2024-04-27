@@ -1,0 +1,14 @@
+{
+  "name": "python-sane",
+  "version": "2.9.1-5",
+  "depends": [
+    "sane",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196517368,
+  "transmit": 310655,
+  "disk": 203605
+}
