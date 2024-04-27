@@ -1,0 +1,16 @@
+{
+  "name": "python-immutabledict",
+  "version": "4.1.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 196608116,
+  "transmit": 418403,
+  "disk": 269090
+}
