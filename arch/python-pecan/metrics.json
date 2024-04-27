@@ -1,0 +1,26 @@
+{
+  "name": "python-pecan",
+  "version": "1.5.1-1",
+  "depends": [
+    "python",
+    "python-webob",
+    "python-mako",
+    "python-webtest",
+    "python-logutils"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools",
+    "python-sphinx",
+    "python-webob",
+    "python-mako",
+    "python-webtest",
+    "python-logutils",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196481655,
+  "transmit": 340018,
+  "disk": 1116114
+}
