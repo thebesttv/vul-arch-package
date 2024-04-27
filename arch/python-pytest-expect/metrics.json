@@ -1,0 +1,16 @@
+{
+  "name": "python-pytest-expect",
+  "version": "1.1.0-11",
+  "depends": [
+    "python-pytest",
+    "python-u-msgpack"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-pytest",
+    "python-u-msgpack"
+  ],
+  "receive": 196656217,
+  "transmit": 367734,
+  "disk": 114666
+}
