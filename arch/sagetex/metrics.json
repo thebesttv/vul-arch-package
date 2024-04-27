@@ -1,0 +1,17 @@
+{
+  "name": "sagetex",
+  "version": "3.6.1-5",
+  "depends": [
+    "sagemath",
+    "texlive-latexrecommended"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196575483,
+  "transmit": 385177,
+  "disk": 1963123
+}
