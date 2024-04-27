@@ -1,0 +1,16 @@
+{
+  "name": "python-hypothesis-fspaths",
+  "version": "0.1.0-10",
+  "depends": [
+    "python-hypothesis"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196593267,
+  "transmit": 471596,
+  "disk": 124503
+}
