@@ -1,0 +1,15 @@
+{
+  "name": "python-pandas-datareader",
+  "version": "0.10.0-4",
+  "depends": [
+    "python-pandas",
+    "python-lxml",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196479957,
+  "transmit": 339040,
+  "disk": 1742415
+}
