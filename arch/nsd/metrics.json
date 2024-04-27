@@ -1,0 +1,17 @@
+{
+  "name": "nsd",
+  "version": "4.9.1-1",
+  "depends": [
+    "openssl",
+    "libevent",
+    "fstrm",
+    "protobuf-c",
+    "systemd-libs"
+  ],
+  "makedepends": [
+    "systemd"
+  ],
+  "receive": 196876938,
+  "transmit": 360471,
+  "disk": 5778997
+}
