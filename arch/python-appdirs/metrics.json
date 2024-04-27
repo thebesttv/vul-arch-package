@@ -1,0 +1,16 @@
+{
+  "name": "python-appdirs",
+  "version": "1.4.4-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196554658,
+  "transmit": 400778,
+  "disk": 157197
+}
