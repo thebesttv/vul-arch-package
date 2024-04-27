@@ -1,0 +1,12 @@
+{
+  "name": "python-hexdump",
+  "version": "3.3-9",
+  "depends": [
+    "python",
+    "python-setuptools"
+  ],
+  "makedepends": [],
+  "receive": 196629293,
+  "transmit": 391366,
+  "disk": 142336
+}
