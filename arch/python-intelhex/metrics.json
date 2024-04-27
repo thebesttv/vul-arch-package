@@ -1,0 +1,16 @@
+{
+  "name": "python-intelhex",
+  "version": "2.3.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196580567,
+  "transmit": 442662,
+  "disk": 433435
+}
