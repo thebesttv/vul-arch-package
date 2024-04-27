@@ -1,0 +1,17 @@
+{
+  "name": "python-argon2_cffi",
+  "version": "23.1.0-2",
+  "depends": [
+    "python-argon2-cffi-bindings"
+  ],
+  "makedepends": [
+    "git",
+    "python-hatch-vcs",
+    "python-hatch-fancy-pypi-readme",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196630452,
+  "transmit": 446604,
+  "disk": 11844137
+}
