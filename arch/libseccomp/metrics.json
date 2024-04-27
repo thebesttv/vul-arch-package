@@ -1,0 +1,15 @@
+{
+  "name": "libseccomp",
+  "version": "2.5.5-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "gperf",
+    "cython",
+    "python-setuptools"
+  ],
+  "receive": 196485686,
+  "transmit": 264955,
+  "disk": 3736470
+}
