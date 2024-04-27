@@ -1,0 +1,14 @@
+{
+  "name": "python-mechanize",
+  "version": "1:0.4.8-3",
+  "depends": [
+    "python-html5lib"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 196618649,
+  "transmit": 463352,
+  "disk": 3452188
+}
