@@ -1,0 +1,15 @@
+{
+  "name": "python-automat",
+  "version": "22.10.0-4",
+  "depends": [
+    "python-attrs",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196413900,
+  "transmit": 285232,
+  "disk": 370853
+}
