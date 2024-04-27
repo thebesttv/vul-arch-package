@@ -1,0 +1,16 @@
+{
+  "name": "python-dpcontracts",
+  "version": "0.6.0-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196447818,
+  "transmit": 248883,
+  "disk": 203277
+}
