@@ -1,0 +1,31 @@
+{
+  "name": "repod",
+  "version": "0.3.1-2",
+  "depends": [
+    "pyalpm",
+    "python",
+    "python-aiofiles",
+    "python-email-validator",
+    "python-jinja",
+    "python-magic",
+    "python-orjson",
+    "python-pydantic",
+    "python-pydantic-settings",
+    "python-pyxdg",
+    "python-pyzstd",
+    "python-subprocess-tee",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-pdm-backend",
+    "python-sphinx",
+    "python-sphinx-argparse",
+    "python-sphinx_rtd_theme",
+    "python-sphinxcontrib-programoutput"
+  ],
+  "receive": 196826335,
+  "transmit": 434393,
+  "disk": 1680576
+}
