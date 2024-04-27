@@ -1,0 +1,18 @@
+{
+  "name": "python-tqdm",
+  "version": "4.66.2-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196618343,
+  "transmit": 376474,
+  "disk": 9346541
+}
