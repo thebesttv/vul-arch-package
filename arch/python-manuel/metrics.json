@@ -1,0 +1,16 @@
+{
+  "name": "python-manuel",
+  "version": "1.12.4-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196750934,
+  "transmit": 458742,
+  "disk": 329113
+}
