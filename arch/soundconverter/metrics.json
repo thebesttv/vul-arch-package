@@ -1,0 +1,21 @@
+{
+  "name": "soundconverter",
+  "version": "4.0.5-2",
+  "depends": [
+    "desktop-file-utils",
+    "gst-plugins-good",
+    "gst-plugins-ugly",
+    "gst-python",
+    "python-gobject",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-distutils-extra"
+  ],
+  "receive": 197600598,
+  "transmit": 874836,
+  "disk": 3706414
+}
