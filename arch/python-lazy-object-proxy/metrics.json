@@ -1,0 +1,13 @@
+{
+  "name": "python-lazy-object-proxy",
+  "version": "1.10.0-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools-scm"
+  ],
+  "receive": 196391903,
+  "transmit": 220205,
+  "disk": 400820
+}
