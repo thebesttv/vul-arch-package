@@ -1,0 +1,26 @@
+{
+  "name": "python-moto",
+  "version": "4.2.13-3",
+  "depends": [
+    "python",
+    "python-boto3",
+    "python-botocore",
+    "python-cryptography",
+    "python-requests",
+    "python-xmltodict",
+    "python-werkzeug",
+    "python-dateutil",
+    "python-responses",
+    "python-jinja",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 201955734,
+  "transmit": 452599,
+  "disk": 58391208
+}
