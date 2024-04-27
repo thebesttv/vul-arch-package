@@ -1,0 +1,18 @@
+{
+  "name": "devede",
+  "version": "4.17.0-3",
+  "depends": [
+    "gtk3",
+    "python-cairo",
+    "python-gobject",
+    "python-setuptools",
+    "ffmpeg",
+    "cdrtools",
+    "dvdauthor",
+    "vcdimager"
+  ],
+  "makedepends": [],
+  "receive": 197225177,
+  "transmit": 756440,
+  "disk": 5524885
+}
