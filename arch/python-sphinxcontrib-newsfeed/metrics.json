@@ -1,0 +1,13 @@
+{
+  "name": "python-sphinxcontrib-newsfeed",
+  "version": "0.1.4-15",
+  "depends": [
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196465904,
+  "transmit": 300362,
+  "disk": 168158
+}
