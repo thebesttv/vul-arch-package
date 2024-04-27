@@ -1,0 +1,12 @@
+{
+  "name": "perl-mozilla-ca",
+  "version": "20240313-1",
+  "depends": [
+    "perl",
+    "ca-certificates"
+  ],
+  "makedepends": [],
+  "receive": 196717274,
+  "transmit": 532960,
+  "disk": 564871
+}
