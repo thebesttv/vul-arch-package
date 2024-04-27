@@ -1,0 +1,16 @@
+{
+  "name": "python-protego",
+  "version": "0.3.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196500683,
+  "transmit": 362417,
+  "disk": 20826569
+}
