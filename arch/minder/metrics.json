@@ -1,0 +1,18 @@
+{
+  "name": "minder",
+  "version": "1.16.4-1",
+  "depends": [
+    "discount",
+    "granite",
+    "gtksourceview4",
+    "libarchive",
+    "libhandy"
+  ],
+  "makedepends": [
+    "meson",
+    "vala"
+  ],
+  "receive": 196550035,
+  "transmit": 359418,
+  "disk": 9452556
+}
