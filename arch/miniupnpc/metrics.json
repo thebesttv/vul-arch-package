@@ -1,0 +1,15 @@
+{
+  "name": "miniupnpc",
+  "version": "2.2.7-2",
+  "depends": [],
+  "makedepends": [
+    "sh",
+    "glibc",
+    "lsb-release",
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196470458,
+  "transmit": 245314,
+  "disk": 713970
+}
