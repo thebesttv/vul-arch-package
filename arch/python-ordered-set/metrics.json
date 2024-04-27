@@ -1,0 +1,15 @@
+{
+  "name": "python-ordered-set",
+  "version": "4.1.0-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 196555136,
+  "transmit": 427936,
+  "disk": 160653
+}
