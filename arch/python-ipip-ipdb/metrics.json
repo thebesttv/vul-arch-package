@@ -1,0 +1,13 @@
+{
+  "name": "python-ipip-ipdb",
+  "version": "1.6.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196443761,
+  "transmit": 294938,
+  "disk": 124907
+}
