@@ -1,0 +1,13 @@
+{
+  "name": "python-pypeg2",
+  "version": "2.15.2-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196431398,
+  "transmit": 233781,
+  "disk": 349080
+}
