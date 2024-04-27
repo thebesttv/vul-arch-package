@@ -1,0 +1,13 @@
+{
+  "name": "python-scripttest",
+  "version": "1.3.0-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196643591,
+  "transmit": 452875,
+  "disk": 174666
+}
