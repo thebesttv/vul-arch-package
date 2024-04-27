@@ -1,0 +1,16 @@
+{
+  "name": "python-inflection",
+  "version": "0.5.1-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196414584,
+  "transmit": 257223,
+  "disk": 162385
+}
