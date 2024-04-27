@@ -1,0 +1,16 @@
+{
+  "name": "python-et-xmlfile",
+  "version": "1.1-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196428552,
+  "transmit": 254303,
+  "disk": 167452
+}
