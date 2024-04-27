@@ -1,0 +1,22 @@
+{
+  "name": "libsolv",
+  "version": "0.7.28-3",
+  "depends": [
+    "bzip2",
+    "expat",
+    "rpm-tools",
+    "xz",
+    "zlib",
+    "zstd"
+  ],
+  "makedepends": [
+    "cmake",
+    "perl",
+    "python",
+    "ruby",
+    "swig"
+  ],
+  "receive": 196977637,
+  "transmit": 605619,
+  "disk": 4403198
+}
