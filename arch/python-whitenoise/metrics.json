@@ -1,0 +1,16 @@
+{
+  "name": "python-whitenoise",
+  "version": "6.6.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196503272,
+  "transmit": 282001,
+  "disk": 445838
+}
