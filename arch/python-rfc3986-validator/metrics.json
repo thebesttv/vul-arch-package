@@ -1,0 +1,16 @@
+{
+  "name": "python-rfc3986-validator",
+  "version": "0.1.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196525909,
+  "transmit": 317006,
+  "disk": 129800
+}
