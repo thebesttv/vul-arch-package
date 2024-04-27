@@ -1,0 +1,16 @@
+{
+  "name": "libnewt",
+  "version": "0.52.24-2",
+  "depends": [
+    "gpm",
+    "popt",
+    "slang"
+  ],
+  "makedepends": [
+    "python",
+    "tcl>=8.6"
+  ],
+  "receive": 196522628,
+  "transmit": 352707,
+  "disk": 1022670
+}
