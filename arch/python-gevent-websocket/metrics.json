@@ -1,0 +1,18 @@
+{
+  "name": "python-gevent-websocket",
+  "version": "0.10.1-10",
+  "depends": [
+    "python",
+    "python-gevent",
+    "gunicorn",
+    "python-ujson"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 196571325,
+  "transmit": 397387,
+  "disk": 4722090
+}
