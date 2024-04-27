@@ -1,0 +1,20 @@
+{
+  "name": "eolie",
+  "version": "0.9.101-5",
+  "depends": [
+    "gnome-settings-daemon",
+    "gtkspell3",
+    "libhandy",
+    "python-cairo",
+    "python-gobject",
+    "webkit2gtk"
+  ],
+  "makedepends": [
+    "git",
+    "gobject-introspection",
+    "meson"
+  ],
+  "receive": 196532679,
+  "transmit": 285859,
+  "disk": 11164024
+}
