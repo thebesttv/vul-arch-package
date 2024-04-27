@@ -1,0 +1,16 @@
+{
+  "name": "scapy",
+  "version": "2.5.0-5",
+  "depends": [],
+  "makedepends": [
+    "tcpdump",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-sphinx"
+  ],
+  "receive": 198432548,
+  "transmit": 425501,
+  "disk": 25117734
+}
