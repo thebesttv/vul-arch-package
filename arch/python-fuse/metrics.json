@@ -1,0 +1,17 @@
+{
+  "name": "python-fuse",
+  "version": "1.0.7-2",
+  "depends": [
+    "fuse2",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196476168,
+  "transmit": 332969,
+  "disk": 325274
+}
