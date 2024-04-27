@@ -1,0 +1,14 @@
+{
+  "name": "python-u-msgpack",
+  "version": "2.8.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196544157,
+  "transmit": 393656,
+  "disk": 220717
+}
