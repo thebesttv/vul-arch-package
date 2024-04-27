@@ -1,0 +1,35 @@
+{
+  "name": "openimageio",
+  "version": "2.5.9.0-2",
+  "depends": [
+    "openexr",
+    "boost-libs",
+    "openjpeg2",
+    "glew",
+    "libtiff",
+    "opencolorio",
+    "libpng",
+    "libraw",
+    "libwebp",
+    "pugixml",
+    "pybind11",
+    "libheif",
+    "hdf5",
+    "freetype2"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-base",
+    "python",
+    "boost",
+    "mesa",
+    "fontconfig",
+    "libxrender",
+    "ninja",
+    "robin-map",
+    "fmt"
+  ],
+  "receive": 212802056,
+  "transmit": 570500,
+  "disk": 132347635
+}
