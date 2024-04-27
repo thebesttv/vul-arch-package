@@ -1,0 +1,25 @@
+{
+  "name": "khard",
+  "version": "0.19.1-2",
+  "depends": [
+    "python",
+    "python-atomicwrites",
+    "python-configobj",
+    "python-ruamel-yaml",
+    "python-unidecode",
+    "python-vobject"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-sphinx",
+    "python-sphinx-autoapi",
+    "python-sphinx-autodoc-typehints",
+    "python-wheel"
+  ],
+  "receive": 196466854,
+  "transmit": 317859,
+  "disk": 1748762
+}
