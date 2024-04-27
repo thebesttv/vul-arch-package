@@ -1,0 +1,14 @@
+{
+  "name": "python-ndg-httpsclient",
+  "version": "0.5.1-14",
+  "depends": [
+    "python-pyopenssl",
+    "python-pyasn1"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196465770,
+  "transmit": 342900,
+  "disk": 258630
+}
