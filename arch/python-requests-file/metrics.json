@@ -1,0 +1,14 @@
+{
+  "name": "python-requests-file",
+  "version": "1.5.1-7",
+  "depends": [
+    "python-six",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196420132,
+  "transmit": 244888,
+  "disk": 135880
+}
