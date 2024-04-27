@@ -1,0 +1,17 @@
+{
+  "name": "python-orderedmultidict",
+  "version": "1.0.1-11",
+  "depends": [
+    "python",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196628341,
+  "transmit": 441729,
+  "disk": 232841
+}
