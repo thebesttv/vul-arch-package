@@ -1,0 +1,16 @@
+{
+  "name": "hy",
+  "version": "1:0.28.0-2",
+  "depends": [
+    "python-funcparserlib"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-wheel",
+    "python-installer"
+  ],
+  "receive": 196497834,
+  "transmit": 335486,
+  "disk": 1647540
+}
