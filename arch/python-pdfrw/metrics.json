@@ -1,0 +1,13 @@
+{
+  "name": "python-pdfrw",
+  "version": "0.4-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196651998,
+  "transmit": 404434,
+  "disk": 437193
+}
