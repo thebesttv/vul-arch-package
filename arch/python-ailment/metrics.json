@@ -1,0 +1,19 @@
+{
+  "name": "python-ailment",
+  "version": "9.2.66-2",
+  "depends": [
+    "python",
+    "python-claripy",
+    "python-pyvex",
+    "python-pypcode"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196504837,
+  "transmit": 377000,
+  "disk": 295279
+}
