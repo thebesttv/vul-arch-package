@@ -1,0 +1,27 @@
+{
+  "name": "osbuild",
+  "version": "117-1",
+  "depends": [
+    "bubblewrap",
+    "curl",
+    "e2fsprogs",
+    "qemu-img",
+    "python",
+    "util-linux",
+    "python-yaml",
+    "python-jsonschema",
+    "python-toml",
+    "skopeo"
+  ],
+  "makedepends": [
+    "make",
+    "python-docutils",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196510720,
+  "transmit": 267429,
+  "disk": 40439948
+}
