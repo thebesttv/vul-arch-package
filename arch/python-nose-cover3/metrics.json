@@ -1,0 +1,15 @@
+{
+  "name": "python-nose-cover3",
+  "version": "0.1.0-11",
+  "depends": [
+    "python-nose",
+    "python-coverage"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 196409442,
+  "transmit": 262955,
+  "disk": 341495
+}
