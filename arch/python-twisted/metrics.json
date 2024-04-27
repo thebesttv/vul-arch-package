@@ -1,0 +1,24 @@
+{
+  "name": "python-twisted",
+  "version": "24.3.0-2",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-automat",
+    "python-constantly",
+    "python-hyperlink",
+    "python-incremental",
+    "python-typing_extensions",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-fancy-pypi-readme",
+    "python-hatchling",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 200230839,
+  "transmit": 400651,
+  "disk": 19209074
+}
