@@ -1,0 +1,16 @@
+{
+  "name": "python-flickrapi",
+  "version": "2.4.0-8",
+  "depends": [
+    "python-six",
+    "python-requests-oauthlib",
+    "python-requests-toolbelt"
+  ],
+  "makedepends": [
+    "python-docutils",
+    "python-setuptools"
+  ],
+  "receive": 196611787,
+  "transmit": 390085,
+  "disk": 316994
+}
