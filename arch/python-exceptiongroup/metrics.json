@@ -1,0 +1,16 @@
+{
+  "name": "python-exceptiongroup",
+  "version": "1.2.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-flit-scm"
+  ],
+  "receive": 196489033,
+  "transmit": 323176,
+  "disk": 292700
+}
