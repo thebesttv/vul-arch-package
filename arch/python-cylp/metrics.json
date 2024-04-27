@@ -1,0 +1,26 @@
+{
+  "name": "python-cylp",
+  "version": "0.92.2-2",
+  "depends": [
+    "coin-or-cbc",
+    "coin-or-cgl",
+    "coin-or-clp",
+    "coin-or-coinutils",
+    "coin-or-osi",
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-numpy",
+    "python-scipy"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196458192,
+  "transmit": 245801,
+  "disk": 73646468
+}
