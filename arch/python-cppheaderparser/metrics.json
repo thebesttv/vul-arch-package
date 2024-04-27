@@ -1,0 +1,17 @@
+{
+  "name": "python-cppheaderparser",
+  "version": "2.7.4-8",
+  "depends": [
+    "python",
+    "python-ply"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196558160,
+  "transmit": 392548,
+  "disk": 684969
+}
