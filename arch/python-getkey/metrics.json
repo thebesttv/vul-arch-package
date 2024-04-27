@@ -1,0 +1,14 @@
+{
+  "name": "python-getkey",
+  "version": "0.6.5-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "flake8"
+  ],
+  "receive": 196578677,
+  "transmit": 420486,
+  "disk": 191942
+}
