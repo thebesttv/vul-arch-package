@@ -1,0 +1,21 @@
+{
+  "name": "udiskie",
+  "version": "2.5.2-2",
+  "depends": [
+    "udisks2",
+    "python",
+    "python-gobject",
+    "python-yaml",
+    "python-docopt",
+    "gtk3",
+    "libnotify",
+    "python-keyutils"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "python-setuptools"
+  ],
+  "receive": 196797309,
+  "transmit": 550261,
+  "disk": 842241
+}
