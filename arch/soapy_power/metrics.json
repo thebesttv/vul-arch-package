@@ -1,0 +1,16 @@
+{
+  "name": "soapy_power",
+  "version": "1.6.1-12",
+  "depends": [
+    "python",
+    "python-numpy",
+    "python-simplesoapy",
+    "python-simplespectral"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196668074,
+  "transmit": 454907,
+  "disk": 175341
+}
