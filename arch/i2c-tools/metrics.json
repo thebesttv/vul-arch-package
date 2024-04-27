@@ -1,0 +1,16 @@
+{
+  "name": "i2c-tools",
+  "version": "4.3-6",
+  "depends": [
+    "perl"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196576533,
+  "transmit": 404911,
+  "disk": 601150
+}
