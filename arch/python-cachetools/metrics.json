@@ -1,0 +1,16 @@
+{
+  "name": "python-cachetools",
+  "version": "5.3.2-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196501430,
+  "transmit": 331826,
+  "disk": 295252
+}
