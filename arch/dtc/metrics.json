@@ -1,0 +1,18 @@
+{
+  "name": "dtc",
+  "version": "1.7.0-5",
+  "depends": [
+    "bash",
+    "glibc",
+    "libyaml",
+    "python"
+  ],
+  "makedepends": [
+    "meson",
+    "swig",
+    "python-setuptools-scm"
+  ],
+  "receive": 196411618,
+  "transmit": 271318,
+  "disk": 1168581
+}
