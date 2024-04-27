@@ -1,0 +1,17 @@
+{
+  "name": "python-devtools",
+  "version": "0.12.2-2",
+  "depends": [
+    "python",
+    "python-asttokens",
+    "python-executing"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 196544268,
+  "transmit": 418792,
+  "disk": 395799
+}
