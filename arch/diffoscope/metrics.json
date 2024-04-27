@@ -1,0 +1,23 @@
+{
+  "name": "diffoscope",
+  "version": "265-2",
+  "depends": [
+    "python-magic",
+    "python-libarchive-c",
+    "python-distro",
+    "python-defusedxml",
+    "python-tlsh"
+  ],
+  "makedepends": [
+    "help2man",
+    "python-docutils",
+    "git",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196707082,
+  "transmit": 349039,
+  "disk": 13257314
+}
