@@ -1,0 +1,19 @@
+{
+  "name": "python-feedgenerator",
+  "version": "2.1.0-3",
+  "depends": [
+    "python",
+    "python-pytz",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-distribute",
+    "python-nose",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196555475,
+  "transmit": 384317,
+  "disk": 211489
+}
