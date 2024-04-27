@@ -1,0 +1,17 @@
+{
+  "name": "python-pylint-venv",
+  "version": "3.0.3-2",
+  "depends": [
+    "python-pylint",
+    "python-virtualenv"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 196909347,
+  "transmit": 598974,
+  "disk": 167794
+}
