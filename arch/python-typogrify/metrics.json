@@ -1,0 +1,14 @@
+{
+  "name": "python-typogrify",
+  "version": "2.0.7-15",
+  "depends": [
+    "python",
+    "python-smartypants"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196704287,
+  "transmit": 483347,
+  "disk": 177149
+}
