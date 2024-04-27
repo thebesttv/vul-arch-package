@@ -1,0 +1,22 @@
+{
+  "name": "volatility3",
+  "version": "2.5.2-2",
+  "depends": [
+    "python",
+    "python-yara",
+    "python-capstone",
+    "python-jsonschema",
+    "python-pycryptodome",
+    "python-pefile",
+    "python-snappy"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 197412503,
+  "transmit": 533929,
+  "disk": 3716498
+}
