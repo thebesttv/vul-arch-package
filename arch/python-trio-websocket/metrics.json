@@ -1,0 +1,19 @@
+{
+  "name": "python-trio-websocket",
+  "version": "0.11.1-2",
+  "depends": [
+    "python",
+    "python-exceptiongroup",
+    "python-trio",
+    "python-wsproto"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196526527,
+  "transmit": 343934,
+  "disk": 353126
+}
