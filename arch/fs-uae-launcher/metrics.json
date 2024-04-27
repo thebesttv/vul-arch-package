@@ -1,0 +1,19 @@
+{
+  "name": "fs-uae-launcher",
+  "version": "3.1.68-4",
+  "depends": [
+    "fs-uae",
+    "python",
+    "python-idna",
+    "python-opengl",
+    "python-pillow",
+    "python-pyqt5",
+    "python-requests",
+    "python-setuptools",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [],
+  "receive": 204380409,
+  "transmit": 410691,
+  "disk": 26741402
+}
