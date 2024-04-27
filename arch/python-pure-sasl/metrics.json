@@ -1,0 +1,13 @@
+{
+  "name": "python-pure-sasl",
+  "version": "0.6.2-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196514465,
+  "transmit": 360682,
+  "disk": 197099
+}
