@@ -1,0 +1,23 @@
+{
+  "name": "namcap",
+  "version": "3.5.2-2",
+  "depends": [
+    "binutils",
+    "elfutils",
+    "licenses",
+    "pkgconf",
+    "pyalpm",
+    "python",
+    "python-license-expression",
+    "python-pyelftools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196560784,
+  "transmit": 338646,
+  "disk": 542158
+}
