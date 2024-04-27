@@ -1,0 +1,13 @@
+{
+  "name": "python-pytest-datadir",
+  "version": "1.5.0-2",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools-scm"
+  ],
+  "receive": 196934625,
+  "transmit": 561850,
+  "disk": 157011
+}
