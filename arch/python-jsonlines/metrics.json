@@ -1,0 +1,13 @@
+{
+  "name": "python-jsonlines",
+  "version": "4.0.0-2",
+  "depends": [
+    "python-attrs"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196835995,
+  "transmit": 546514,
+  "disk": 169856
+}
