@@ -1,0 +1,14 @@
+{
+  "name": "python-pynamodb",
+  "version": "5.5.1-2",
+  "depends": [
+    "python",
+    "python-botocore"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196500297,
+  "transmit": 341292,
+  "disk": 1134334
+}
