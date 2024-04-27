@@ -1,0 +1,16 @@
+{
+  "name": "python-dnspython",
+  "version": "1:2.5.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-hatchling"
+  ],
+  "receive": 196792334,
+  "transmit": 518524,
+  "disk": 2262866
+}
