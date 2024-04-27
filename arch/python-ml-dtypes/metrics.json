@@ -1,0 +1,21 @@
+{
+  "name": "python-ml-dtypes",
+  "version": "0.3.2-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "pybind11",
+    "python-absl",
+    "python-build",
+    "python-installer",
+    "python-pytest",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196579309,
+  "transmit": 399046,
+  "disk": 20172471
+}
