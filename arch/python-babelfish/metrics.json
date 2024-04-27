@@ -1,0 +1,17 @@
+{
+  "name": "python-babelfish",
+  "version": "0.6.0-4",
+  "depends": [
+    "python",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196534290,
+  "transmit": 369806,
+  "disk": 872115
+}
