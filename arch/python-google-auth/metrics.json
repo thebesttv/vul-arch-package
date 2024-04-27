@@ -1,0 +1,22 @@
+{
+  "name": "python-google-auth",
+  "version": "2.29.0-2",
+  "depends": [
+    "python",
+    "python-cachetools",
+    "python-certifi",
+    "python-oauth2client",
+    "python-packaging",
+    "python-pyasn1-modules",
+    "python-rsa"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196774078,
+  "transmit": 418907,
+  "disk": 2848408
+}
