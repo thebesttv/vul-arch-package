@@ -1,0 +1,16 @@
+{
+  "name": "python-uc-micro-py",
+  "version": "1.0.3-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196639011,
+  "transmit": 458227,
+  "disk": 162603
+}
