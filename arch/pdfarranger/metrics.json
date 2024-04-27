@@ -1,0 +1,23 @@
+{
+  "name": "pdfarranger",
+  "version": "1.10.1-2",
+  "depends": [
+    "ghostscript",
+    "gtk3",
+    "poppler-glib",
+    "python",
+    "python-cairo",
+    "python-dateutil",
+    "python-gobject",
+    "python-pikepdf"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196491309,
+  "transmit": 333142,
+  "disk": 1609210
+}
