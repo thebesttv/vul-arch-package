@@ -1,0 +1,17 @@
+{
+  "name": "python-cloudflare",
+  "version": "2.11.7-2",
+  "depends": [
+    "python-requests",
+    "python-future",
+    "python-yaml",
+    "python-jsonlines",
+    "python-beautifulsoup4"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196607162,
+  "transmit": 421164,
+  "disk": 600306
+}
