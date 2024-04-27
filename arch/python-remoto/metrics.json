@@ -1,0 +1,17 @@
+{
+  "name": "python-remoto",
+  "version": "1.2.1-5",
+  "depends": [
+    "python",
+    "python-execnet"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196481878,
+  "transmit": 366422,
+  "disk": 231675
+}
