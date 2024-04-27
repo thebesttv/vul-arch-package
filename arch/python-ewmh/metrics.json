@@ -1,0 +1,13 @@
+{
+  "name": "python-ewmh",
+  "version": "0.1.6-6",
+  "depends": [
+    "python-xlib"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196749028,
+  "transmit": 498963,
+  "disk": 154589
+}
