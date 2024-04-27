@@ -1,0 +1,16 @@
+{
+  "name": "libplist",
+  "version": "2.4.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cython",
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196965492,
+  "transmit": 290328,
+  "disk": 8022706
+}
