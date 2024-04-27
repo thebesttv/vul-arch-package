@@ -1,0 +1,15 @@
+{
+  "name": "rubber",
+  "version": "1.6.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "texinfo",
+    "texlive-plaingeneric",
+    "python-setuptools"
+  ],
+  "receive": 196508408,
+  "transmit": 350930,
+  "disk": 1115545
+}
