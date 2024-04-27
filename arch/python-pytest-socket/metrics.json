@@ -1,0 +1,17 @@
+{
+  "name": "python-pytest-socket",
+  "version": "0.7.0-4",
+  "depends": [
+    "python",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 197103621,
+  "transmit": 599779,
+  "disk": 337898
+}
