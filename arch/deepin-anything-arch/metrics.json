@@ -1,0 +1,11 @@
+{
+  "name": "deepin-anything-arch",
+  "version": "6.1.2-66",
+  "depends": [],
+  "makedepends": [
+    "linux-headers"
+  ],
+  "receive": 196525367,
+  "transmit": 387873,
+  "disk": 1421312
+}
