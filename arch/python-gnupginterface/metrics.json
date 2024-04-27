@@ -1,0 +1,14 @@
+{
+  "name": "python-gnupginterface",
+  "version": "0.3.2-12",
+  "depends": [
+    "gnupg",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196459571,
+  "transmit": 290517,
+  "disk": 185395
+}
