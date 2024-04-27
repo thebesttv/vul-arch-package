@@ -1,0 +1,23 @@
+{
+  "name": "jrnl",
+  "version": "4.1-2",
+  "depends": [
+    "python-colorama",
+    "python-cryptography",
+    "python-keyring",
+    "python-parsedatetime",
+    "python-dateutil",
+    "python-pyxdg",
+    "python-rich",
+    "python-ruamel-yaml",
+    "python-tzlocal"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196465454,
+  "transmit": 275590,
+  "disk": 2312884
+}
