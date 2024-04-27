@@ -1,0 +1,17 @@
+{
+  "name": "python-pilkit",
+  "version": "3.0-2",
+  "depends": [
+    "python",
+    "python-pillow"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196543814,
+  "transmit": 356040,
+  "disk": 1004881
+}
