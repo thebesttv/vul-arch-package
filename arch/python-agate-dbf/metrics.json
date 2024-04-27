@@ -1,0 +1,17 @@
+{
+  "name": "python-agate-dbf",
+  "version": "0.2.3-2",
+  "depends": [
+    "python",
+    "python-agate",
+    "python-dbfread",
+    "python-sphinx_rtd_theme"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx"
+  ],
+  "receive": 196458163,
+  "transmit": 279464,
+  "disk": 146147
+}
