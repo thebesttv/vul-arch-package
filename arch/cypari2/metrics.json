@@ -1,0 +1,20 @@
+{
+  "name": "cypari2",
+  "version": "2.1.5-2",
+  "depends": [
+    "glibc",
+    "pari",
+    "python",
+    "python-cysignals"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196701637,
+  "transmit": 422051,
+  "disk": 826368
+}
