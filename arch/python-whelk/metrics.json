@@ -1,0 +1,13 @@
+{
+  "name": "python-whelk",
+  "version": "3.0-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196973173,
+  "transmit": 567182,
+  "disk": 293984
+}
