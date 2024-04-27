@@ -1,0 +1,13 @@
+{
+  "name": "python-xlrd",
+  "version": "2.0.1-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196419239,
+  "transmit": 230339,
+  "disk": 2082569
+}
