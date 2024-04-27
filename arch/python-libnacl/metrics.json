@@ -1,0 +1,16 @@
+{
+  "name": "python-libnacl",
+  "version": "1.9.0-2",
+  "depends": [
+    "python",
+    "libsodium"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196501368,
+  "transmit": 336892,
+  "disk": 376358
+}
