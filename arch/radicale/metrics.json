@@ -1,0 +1,21 @@
+{
+  "name": "radicale",
+  "version": "3.1.9-2",
+  "depends": [
+    "python",
+    "python-bcrypt",
+    "python-dateutil",
+    "python-defusedxml",
+    "python-passlib",
+    "python-vobject"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196515889,
+  "transmit": 369904,
+  "disk": 986391
+}
