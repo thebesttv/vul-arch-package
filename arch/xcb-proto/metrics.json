@@ -1,0 +1,12 @@
+{
+  "name": "xcb-proto",
+  "version": "1.17.0-2",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "libxml2"
+  ],
+  "receive": 196584333,
+  "transmit": 386950,
+  "disk": 1417635
+}
