@@ -1,0 +1,17 @@
+{
+  "name": "python-sphinx-external-toc",
+  "version": "1.0.1-4",
+  "depends": [
+    "python-click",
+    "python-yaml",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 196438097,
+  "transmit": 273654,
+  "disk": 711260
+}
