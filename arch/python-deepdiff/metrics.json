@@ -1,0 +1,13 @@
+{
+  "name": "python-deepdiff",
+  "version": "7.0.1-1",
+  "depends": [
+    "python-ordered-set"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196416072,
+  "transmit": 259940,
+  "disk": 1822557
+}
