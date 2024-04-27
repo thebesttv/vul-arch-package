@@ -1,0 +1,15 @@
+{
+  "name": "uboot-tools",
+  "version": "2024.04-1",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools",
+    "swig"
+  ],
+  "receive": 216986678,
+  "transmit": 502233,
+  "disk": 159765368
+}
