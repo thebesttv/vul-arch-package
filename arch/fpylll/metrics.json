@@ -1,0 +1,25 @@
+{
+  "name": "fpylll",
+  "version": "0.6.1-2",
+  "depends": [
+    "fplll",
+    "gcc-libs",
+    "glibc",
+    "gmp",
+    "mpfr",
+    "python",
+    "python-cysignals",
+    "python-numpy",
+    "qd"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196664520,
+  "transmit": 508709,
+  "disk": 942242
+}
