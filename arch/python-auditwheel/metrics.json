@@ -1,0 +1,21 @@
+{
+  "name": "python-auditwheel",
+  "version": "6.0.0-2",
+  "depends": [
+    "python",
+    "python-wheel",
+    "python-pyelftools",
+    "unzip",
+    "patchelf"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196391338,
+  "transmit": 219602,
+  "disk": 1572867
+}
