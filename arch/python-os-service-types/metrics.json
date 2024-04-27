@@ -1,0 +1,14 @@
+{
+  "name": "python-os-service-types",
+  "version": "1.7.0-15",
+  "depends": [
+    "python-pbr"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196602638,
+  "transmit": 438438,
+  "disk": 577948
+}
