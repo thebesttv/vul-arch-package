@@ -1,0 +1,20 @@
+{
+  "name": "python-awscrt",
+  "version": "0.19.19-2",
+  "depends": [
+    "glibc",
+    "gcc-libs",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "cmake",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 1045887699,
+  "transmit": 2617586,
+  "disk": 1134568044
+}
