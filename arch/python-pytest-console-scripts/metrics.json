@@ -1,0 +1,16 @@
+{
+  "name": "python-pytest-console-scripts",
+  "version": "1.4.1-2",
+  "depends": [
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196408211,
+  "transmit": 248648,
+  "disk": 217655
+}
