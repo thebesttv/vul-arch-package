@@ -1,0 +1,17 @@
+{
+  "name": "python-opt_einsum",
+  "version": "3.3.0-8",
+  "depends": [
+    "python",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196588183,
+  "transmit": 384326,
+  "disk": 2950102
+}
