@@ -1,0 +1,17 @@
+{
+  "name": "python-versioneer",
+  "version": "0.29-2",
+  "depends": [
+    "python",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196422780,
+  "transmit": 237365,
+  "disk": 1900478
+}
