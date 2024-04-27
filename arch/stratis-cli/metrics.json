@@ -1,0 +1,27 @@
+{
+  "name": "stratis-cli",
+  "version": "3.6.0-2",
+  "depends": [
+    "python-dbus-client-gen",
+    "python-into-dbus",
+    "python-justbytes",
+    "python-dateutil",
+    "python-packaging",
+    "python-psutil",
+    "python-wcwidth"
+  ],
+  "makedepends": [
+    "dbus-glib",
+    "git",
+    "mpfr",
+    "dbus-python",
+    "asciidoc",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196426807,
+  "transmit": 275966,
+  "disk": 732464
+}
