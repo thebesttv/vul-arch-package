@@ -1,0 +1,16 @@
+{
+  "name": "python-hpack",
+  "version": "4.0.0-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196711620,
+  "transmit": 349528,
+  "disk": 62191907
+}
