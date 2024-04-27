@@ -1,0 +1,14 @@
+{
+  "name": "python-routes",
+  "version": "2.5.1-7",
+  "depends": [
+    "python-repoze.lru",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196499311,
+  "transmit": 253049,
+  "disk": 1201759
+}
