@@ -1,0 +1,18 @@
+{
+  "name": "python-srcinfo",
+  "version": "0.1.2-2",
+  "depends": [
+    "python",
+    "python-parse"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 196486273,
+  "transmit": 341117,
+  "disk": 410084
+}
