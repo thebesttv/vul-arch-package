@@ -1,0 +1,17 @@
+{
+  "name": "python-basemap",
+  "version": "1.4.1-2",
+  "depends": [],
+  "makedepends": [
+    "cython0",
+    "python-setuptools",
+    "python-matplotlib",
+    "geos",
+    "shapelib",
+    "python-numpy",
+    "python-pyproj"
+  ],
+  "receive": 331210399,
+  "transmit": 1839273,
+  "disk": 347123620
+}
