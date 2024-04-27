@@ -1,0 +1,14 @@
+{
+  "name": "python-inotify-simple",
+  "version": "1.3.5-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196495347,
+  "transmit": 360565,
+  "disk": 385839
+}
