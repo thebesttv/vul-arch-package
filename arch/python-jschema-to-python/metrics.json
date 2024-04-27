@@ -1,0 +1,15 @@
+{
+  "name": "python-jschema-to-python",
+  "version": "1.2.3-6",
+  "depends": [
+    "python-attrs",
+    "python-jsonpickle",
+    "python-pbr"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196549608,
+  "transmit": 345637,
+  "disk": 141565
+}
