@@ -1,0 +1,16 @@
+{
+  "name": "python-watchgod",
+  "version": "1:0.8.2-3",
+  "depends": [
+    "python",
+    "python-anyio"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-setuptools-rust",
+    "rust"
+  ],
+  "receive": 196488371,
+  "transmit": 355468,
+  "disk": 182189
+}
