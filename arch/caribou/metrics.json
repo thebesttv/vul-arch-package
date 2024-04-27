@@ -1,0 +1,25 @@
+{
+  "name": "caribou",
+  "version": "0.4.21+75+g8ad9883-6",
+  "depends": [
+    "at-spi2-atk",
+    "python-atspi",
+    "python-gobject",
+    "gtk3",
+    "libxklavier",
+    "libgee",
+    "clutter",
+    "dconf"
+  ],
+  "makedepends": [
+    "intltool",
+    "docbook-xsl",
+    "gobject-introspection",
+    "vala",
+    "git",
+    "gnome-common"
+  ],
+  "receive": 196422730,
+  "transmit": 264519,
+  "disk": 2359840
+}
