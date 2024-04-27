@@ -1,0 +1,19 @@
+{
+  "name": "python-pytest-xprocess",
+  "version": "0.23.0-2",
+  "depends": [
+    "python",
+    "python-psutil",
+    "python-py",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196413162,
+  "transmit": 252420,
+  "disk": 250658
+}
