@@ -1,0 +1,16 @@
+{
+  "name": "python-whatthepatch",
+  "version": "1.0.5-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196596865,
+  "transmit": 419822,
+  "disk": 305449
+}
