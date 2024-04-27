@@ -1,0 +1,16 @@
+{
+  "name": "python-unicodedata2",
+  "version": "15.1.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196523842,
+  "transmit": 347345,
+  "disk": 4034939
+}
