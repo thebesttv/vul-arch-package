@@ -1,0 +1,13 @@
+{
+  "name": "python-voluptuous",
+  "version": "0.14.2-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196614373,
+  "transmit": 429171,
+  "disk": 362037
+}
