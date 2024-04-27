@@ -1,0 +1,21 @@
+{
+  "name": "python-octaviaclient",
+  "version": "3.7.0-2",
+  "depends": [
+    "python-cliff",
+    "python-keystoneauth1",
+    "python-neutronclient",
+    "python-openstackclient",
+    "python-osc-lib",
+    "python-oslo-serialization",
+    "python-oslo-utils",
+    "python-pbr",
+    "python-requests"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 196516574,
+  "transmit": 342558,
+  "disk": 2018043
+}
