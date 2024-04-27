@@ -1,0 +1,17 @@
+{
+  "name": "python-apipkg",
+  "version": "3.0.2-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs"
+  ],
+  "receive": 196394286,
+  "transmit": 205670,
+  "disk": 558689
+}
