@@ -1,0 +1,14 @@
+{
+  "name": "python-sarif-om",
+  "version": "1.0.4-6",
+  "depends": [
+    "python-attrs",
+    "python-pbr"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196434943,
+  "transmit": 279936,
+  "disk": 297414
+}
