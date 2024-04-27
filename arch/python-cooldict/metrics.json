@@ -1,0 +1,17 @@
+{
+  "name": "python-cooldict",
+  "version": "1.04-3",
+  "depends": [
+    "python",
+    "python-ana"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196535374,
+  "transmit": 376144,
+  "disk": 117998
+}
