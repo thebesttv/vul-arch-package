@@ -1,0 +1,22 @@
+{
+  "name": "llvm",
+  "version": "17.0.6-3",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "zlib",
+    "zstd",
+    "libffi",
+    "libedit",
+    "ncurses",
+    "libxml2",
+    "python-setuptools",
+    "python-psutil",
+    "python-sphinx",
+    "python-recommonmark"
+  ],
+  "receive": 256904883,
+  "transmit": 578795,
+  "disk": 859541827
+}
