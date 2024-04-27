@@ -1,0 +1,17 @@
+{
+  "name": "python-anysqlite",
+  "version": "0.0.5-2",
+  "depends": [
+    "python",
+    "python-anyio"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-fancy-pypi-readme",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 196689521,
+  "transmit": 406664,
+  "disk": 141986
+}
