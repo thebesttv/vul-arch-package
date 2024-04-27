@@ -1,0 +1,12 @@
+{
+  "name": "python-zope-deferredimport",
+  "version": "5.0-2",
+  "depends": [
+    "python-setuptools",
+    "python-zope-proxy"
+  ],
+  "makedepends": [],
+  "receive": 196471165,
+  "transmit": 350863,
+  "disk": 204644
+}
