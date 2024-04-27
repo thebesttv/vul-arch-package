@@ -1,0 +1,18 @@
+{
+  "name": "python-flask-httpauth",
+  "version": "4.8.0-3",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-werkzeug"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196517199,
+  "transmit": 348182,
+  "disk": 388054
+}
