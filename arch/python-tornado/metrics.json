@@ -1,0 +1,17 @@
+{
+  "name": "python-tornado",
+  "version": "6.4.0-1",
+  "depends": [
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196432227,
+  "transmit": 266171,
+  "disk": 2921925
+}
