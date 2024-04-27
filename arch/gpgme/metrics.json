@@ -1,0 +1,19 @@
+{
+  "name": "gpgme",
+  "version": "1.23.2-4",
+  "depends": [],
+  "makedepends": [
+    "gnupg",
+    "libgpg-error",
+    "python",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "qt6-base",
+    "swig"
+  ],
+  "receive": 196674712,
+  "transmit": 462872,
+  "disk": 12556968
+}
