@@ -1,0 +1,14 @@
+{
+  "name": "python-resumable-urlretrieve",
+  "version": "0.1.6-7",
+  "depends": [
+    "python",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196580337,
+  "transmit": 393237,
+  "disk": 771954
+}
