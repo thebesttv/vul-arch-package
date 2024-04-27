@@ -1,0 +1,12 @@
+{
+  "name": "gef",
+  "version": "2022.06-4",
+  "depends": [
+    "gdb",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 196467785,
+  "transmit": 280336,
+  "disk": 1582788
+}
