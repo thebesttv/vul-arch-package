@@ -1,0 +1,16 @@
+{
+  "name": "python-hyperlink",
+  "version": "21.0.0-6",
+  "depends": [
+    "python-idna"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196570308,
+  "transmit": 432168,
+  "disk": 581737
+}
