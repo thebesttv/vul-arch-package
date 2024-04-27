@@ -1,0 +1,17 @@
+{
+  "name": "python-rstr",
+  "version": "3.2.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196453922,
+  "transmit": 293076,
+  "disk": 173471
+}
