@@ -1,0 +1,16 @@
+{
+  "name": "python-tokenize-rt",
+  "version": "5.2.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196442078,
+  "transmit": 264584,
+  "disk": 152271
+}
