@@ -1,0 +1,16 @@
+{
+  "name": "python-pymysql",
+  "version": "1.1.0-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196465821,
+  "transmit": 269171,
+  "disk": 726753
+}
