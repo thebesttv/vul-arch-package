@@ -1,0 +1,15 @@
+{
+  "name": "python-plyvel",
+  "version": "1.5.1-1",
+  "depends": [
+    "leveldb",
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools"
+  ],
+  "receive": 196497822,
+  "transmit": 373859,
+  "disk": 2019993
+}
