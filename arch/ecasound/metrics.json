@@ -1,0 +1,26 @@
+{
+  "name": "ecasound",
+  "version": "2.9.3-10",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "audiofile",
+    "jack",
+    "liblo",
+    "libmikmod",
+    "libsamplerate",
+    "libsndfile",
+    "lilv",
+    "lv2",
+    "ncurses",
+    "python",
+    "readline",
+    "ruby"
+  ],
+  "receive": 196668043,
+  "transmit": 474586,
+  "disk": 5942773
+}
