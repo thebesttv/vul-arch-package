@@ -1,0 +1,14 @@
+{
+  "name": "python-librabbitmq",
+  "version": "2.0.0-10",
+  "depends": [
+    "python-amqp",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196602705,
+  "transmit": 425855,
+  "disk": 1511905
+}
