@@ -1,0 +1,25 @@
+{
+  "name": "whipper",
+  "version": "0.10.0-6",
+  "depends": [
+    "cdrdao",
+    "flac",
+    "libcdio-paranoia",
+    "libsndfile",
+    "python-discid",
+    "python-gobject",
+    "python-musicbrainzngs",
+    "python-mutagen",
+    "python-pycdio",
+    "python-ruamel-yaml",
+    "python-setuptools",
+    "sox"
+  ],
+  "makedepends": [
+    "python-setuptools-scm",
+    "python-docutils"
+  ],
+  "receive": 196907348,
+  "transmit": 608804,
+  "disk": 1566175
+}
