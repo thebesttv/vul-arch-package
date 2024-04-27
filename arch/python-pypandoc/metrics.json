@@ -1,0 +1,16 @@
+{
+  "name": "python-pypandoc",
+  "version": "1.13-2",
+  "depends": [
+    "pandoc"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 196633986,
+  "transmit": 467114,
+  "disk": 383572
+}
