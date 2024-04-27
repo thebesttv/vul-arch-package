@@ -1,0 +1,22 @@
+{
+  "name": "python-geopandas",
+  "version": "0.14.3-5",
+  "depends": [
+    "gdal",
+    "python-fiona",
+    "python-numpy",
+    "python-packaging",
+    "python-pandas",
+    "python-pyproj",
+    "python-shapely"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 203084597,
+  "transmit": 382336,
+  "disk": 18326951
+}
