@@ -1,0 +1,13 @@
+{
+  "name": "python-pythondata-cpu-mor1kx",
+  "version": "2022.08-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196646884,
+  "transmit": 461736,
+  "disk": 1453094
+}
