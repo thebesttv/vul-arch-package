@@ -1,0 +1,17 @@
+{
+  "name": "python-tensorflow-estimator",
+  "version": "2.15.0-2",
+  "depends": [
+    "python-wrapt"
+  ],
+  "makedepends": [
+    "bazel",
+    "python-installer",
+    "python-setuptools",
+    "python-tensorflow",
+    "python-wheel"
+  ],
+  "receive": 196971728,
+  "transmit": 676713,
+  "disk": 4924990
+}
