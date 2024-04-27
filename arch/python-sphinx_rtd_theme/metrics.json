@@ -1,0 +1,18 @@
+{
+  "name": "python-sphinx_rtd_theme",
+  "version": "1.3.0-2",
+  "depends": [
+    "python",
+    "python-sphinx",
+    "python-sphinxcontrib-jquery"
+  ],
+  "makedepends": [
+    "python-setuptools-scm",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 197005383,
+  "transmit": 613944,
+  "disk": 7936096
+}
