@@ -1,0 +1,19 @@
+{
+  "name": "python-pooch",
+  "version": "1.8.1-2",
+  "depends": [
+    "python",
+    "python-packaging",
+    "python-platformdirs",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196522834,
+  "transmit": 367038,
+  "disk": 528178
+}
