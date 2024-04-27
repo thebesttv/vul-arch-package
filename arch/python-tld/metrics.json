@@ -1,0 +1,16 @@
+{
+  "name": "python-tld",
+  "version": "0.13-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 196480338,
+  "transmit": 347622,
+  "disk": 1997772
+}
