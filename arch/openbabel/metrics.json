@@ -1,0 +1,19 @@
+{
+  "name": "openbabel",
+  "version": "3.1.1-8",
+  "depends": [],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "coordgen",
+    "eigen",
+    "maeparser",
+    "python-setuptools",
+    "rapidjson",
+    "swig",
+    "wxwidgets-gtk3"
+  ],
+  "receive": 224359699,
+  "transmit": 304012,
+  "disk": 232035312
+}
