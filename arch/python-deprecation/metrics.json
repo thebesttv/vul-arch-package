@@ -1,0 +1,13 @@
+{
+  "name": "python-deprecation",
+  "version": "2.1.0-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196534675,
+  "transmit": 420778,
+  "disk": 907425
+}
