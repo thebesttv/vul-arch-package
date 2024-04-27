@@ -1,0 +1,13 @@
+{
+  "name": "python-wcag-contrast-ratio",
+  "version": "0.9-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196632506,
+  "transmit": 401808,
+  "disk": 108244
+}
