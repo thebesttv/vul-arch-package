@@ -1,0 +1,16 @@
+{
+  "name": "python-stdlibs",
+  "version": "2022.10.9-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core",
+    "python-wheel"
+  ],
+  "receive": 196845316,
+  "transmit": 561309,
+  "disk": 322565
+}
