@@ -1,0 +1,13 @@
+{
+  "name": "python-configargparse",
+  "version": "1.5.5-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196429573,
+  "transmit": 256397,
+  "disk": 331325
+}
