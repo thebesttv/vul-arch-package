@@ -1,0 +1,13 @@
+{
+  "name": "python-pyaes",
+  "version": "1.6.1-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196503622,
+  "transmit": 373090,
+  "disk": 234926
+}
