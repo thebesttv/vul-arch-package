@@ -1,0 +1,13 @@
+{
+  "name": "python-should-dsl",
+  "version": "2.1.2-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196762291,
+  "transmit": 481824,
+  "disk": 532487
+}
