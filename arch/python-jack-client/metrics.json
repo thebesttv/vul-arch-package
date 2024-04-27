@@ -1,0 +1,18 @@
+{
+  "name": "python-jack-client",
+  "version": "0.5.4-4",
+  "depends": [
+    "jack",
+    "python",
+    "python-cffi"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196609801,
+  "transmit": 415025,
+  "disk": 350691
+}
