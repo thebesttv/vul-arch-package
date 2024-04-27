@@ -1,0 +1,22 @@
+{
+  "name": "python-sphinx-theme-builder",
+  "version": "0.2.0b2-3",
+  "depends": [
+    "python",
+    "python-packaging",
+    "python-rich",
+    "python-tomli",
+    "python-nodeenv",
+    "python-setuptools",
+    "python-pep621",
+    "python-pyproject-metadata"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 196507759,
+  "transmit": 358630,
+  "disk": 344617
+}
