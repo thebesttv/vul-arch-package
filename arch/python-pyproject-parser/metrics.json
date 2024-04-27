@@ -1,0 +1,26 @@
+{
+  "name": "python-pyproject-parser",
+  "version": "0.9.1-2",
+  "depends": [
+    "python",
+    "python-apeye-core",
+    "python-attrs",
+    "python-dom-toml",
+    "python-domdf-python-tools",
+    "python-natsort",
+    "python-packaging",
+    "python-shippinglabel",
+    "python-toml",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196713252,
+  "transmit": 434780,
+  "disk": 1449318
+}
