@@ -1,0 +1,19 @@
+{
+  "name": "dnf",
+  "version": "4.19.0-2",
+  "depends": [
+    "libdnf",
+    "libcomps",
+    "python",
+    "python-gpgme",
+    "rpm-tools"
+  ],
+  "makedepends": [
+    "bash-completion",
+    "cmake",
+    "python-sphinx"
+  ],
+  "receive": 196584617,
+  "transmit": 406361,
+  "disk": 12695541
+}
