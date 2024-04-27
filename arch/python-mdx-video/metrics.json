@@ -1,0 +1,13 @@
+{
+  "name": "python-mdx-video",
+  "version": "0.1.8-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196577554,
+  "transmit": 421549,
+  "disk": 106339
+}
