@@ -1,0 +1,13 @@
+{
+  "name": "python-json-rpc",
+  "version": "1.13.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196568111,
+  "transmit": 377332,
+  "disk": 376569
+}
