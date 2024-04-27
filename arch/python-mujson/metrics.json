@@ -1,0 +1,16 @@
+{
+  "name": "python-mujson",
+  "version": "1.4-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196693837,
+  "transmit": 502285,
+  "disk": 8212741
+}
