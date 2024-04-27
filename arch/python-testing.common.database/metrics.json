@@ -1,0 +1,13 @@
+{
+  "name": "python-testing.common.database",
+  "version": "2.0.3-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 197199484,
+  "transmit": 704966,
+  "disk": 151884
+}
