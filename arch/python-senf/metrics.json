@@ -1,0 +1,13 @@
+{
+  "name": "python-senf",
+  "version": "1.5.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196547606,
+  "transmit": 377555,
+  "disk": 463681
+}
