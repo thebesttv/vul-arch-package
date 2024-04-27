@@ -1,0 +1,24 @@
+{
+  "name": "python-shippinglabel",
+  "version": "1.7.1-2",
+  "depends": [
+    "python",
+    "python-apeye",
+    "python-dist-meta",
+    "python-dom-toml",
+    "python-domdf-python-tools",
+    "python-packaging",
+    "python-platformdirs",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196571149,
+  "transmit": 403140,
+  "disk": 53897184
+}
