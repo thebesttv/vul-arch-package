@@ -1,0 +1,17 @@
+{
+  "name": "python-pybtex",
+  "version": "0.24.0-6",
+  "depends": [
+    "python",
+    "python-setuptools",
+    "python-six",
+    "python-yaml",
+    "python-latexcodec"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196558596,
+  "transmit": 385847,
+  "disk": 3767277
+}
