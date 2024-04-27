@@ -1,0 +1,18 @@
+{
+  "name": "python-nose",
+  "version": "1.3.7-16",
+  "depends": [
+    "python",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "dos2unix",
+    "python-build",
+    "python-coverage",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196625000,
+  "transmit": 343165,
+  "disk": 2151567
+}
