@@ -1,0 +1,17 @@
+{
+  "name": "boost",
+  "version": "1.83.0-6",
+  "depends": [],
+  "makedepends": [
+    "icu",
+    "python",
+    "python-numpy",
+    "bzip2",
+    "zlib",
+    "openmpi",
+    "zstd"
+  ],
+  "receive": 320432623,
+  "transmit": 679562,
+  "disk": 901920541
+}
