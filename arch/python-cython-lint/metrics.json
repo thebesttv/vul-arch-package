@@ -1,0 +1,19 @@
+{
+  "name": "python-cython-lint",
+  "version": "0.16.0-2",
+  "depends": [
+    "python",
+    "cython",
+    "python-tokenize-rt",
+    "python-pycodestyle"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196471462,
+  "transmit": 322334,
+  "disk": 240718
+}
