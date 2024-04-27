@@ -1,0 +1,16 @@
+{
+  "name": "python-jieba",
+  "version": "0.42.1-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 221871300,
+  "transmit": 643997,
+  "disk": 77197985
+}
