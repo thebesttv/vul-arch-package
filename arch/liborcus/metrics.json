@@ -1,0 +1,19 @@
+{
+  "name": "liborcus",
+  "version": "0.19.2-2",
+  "depends": [
+    "libixion",
+    "glibc",
+    "boost-libs",
+    "gcc-libs",
+    "zlib",
+    "python"
+  ],
+  "makedepends": [
+    "boost",
+    "mdds"
+  ],
+  "receive": 196592346,
+  "transmit": 484926,
+  "disk": 15071284
+}
