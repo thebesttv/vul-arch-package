@@ -1,0 +1,16 @@
+{
+  "name": "python-cairo",
+  "version": "1.26.0-2",
+  "depends": [
+    "cairo",
+    "python"
+  ],
+  "makedepends": [
+    "meson",
+    "python-sphinx",
+    "python-sphinx_rtd_theme"
+  ],
+  "receive": 196594072,
+  "transmit": 436754,
+  "disk": 1875310
+}
