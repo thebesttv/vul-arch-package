@@ -1,0 +1,32 @@
+{
+  "name": "opensnitch",
+  "version": "1.6.4-2",
+  "depends": [
+    "glibc",
+    "hicolor-icon-theme",
+    "libnetfilter_queue",
+    "libnfnetlink",
+    "python",
+    "python-grpcio",
+    "python-protobuf",
+    "python-slugify",
+    "python-pyqt5",
+    "python-pyinotify",
+    "python-notify2"
+  ],
+  "makedepends": [
+    "git",
+    "go",
+    "python-grpcio-tools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-nspektr",
+    "python-jaraco.text",
+    "qt5-tools"
+  ],
+  "receive": 199852316,
+  "transmit": 426007,
+  "disk": 51367346
+}
