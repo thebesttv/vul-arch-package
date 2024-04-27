@@ -1,0 +1,12 @@
+{
+  "name": "android-udev",
+  "version": "20240221-1",
+  "depends": [
+    "udev",
+    "libmtp"
+  ],
+  "makedepends": [],
+  "receive": 196391961,
+  "transmit": 311020,
+  "disk": 261534
+}
