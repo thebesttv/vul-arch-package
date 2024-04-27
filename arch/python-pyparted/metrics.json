@@ -1,0 +1,17 @@
+{
+  "name": "python-pyparted",
+  "version": "3.13.0-4",
+  "depends": [
+    "parted",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196628199,
+  "transmit": 453977,
+  "disk": 805945
+}
