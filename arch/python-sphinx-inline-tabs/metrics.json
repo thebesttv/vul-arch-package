@@ -1,0 +1,15 @@
+{
+  "name": "python-sphinx-inline-tabs",
+  "version": "2023.04.21-2",
+  "depends": [
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 196631611,
+  "transmit": 459743,
+  "disk": 224132
+}
