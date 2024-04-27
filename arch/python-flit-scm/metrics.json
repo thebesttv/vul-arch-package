@@ -1,0 +1,17 @@
+{
+  "name": "python-flit-scm",
+  "version": "1.7.0-5",
+  "depends": [
+    "python",
+    "python-flit-core",
+    "python-setuptools-scm"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196545200,
+  "transmit": 290985,
+  "disk": 107045
+}
