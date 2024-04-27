@@ -1,0 +1,13 @@
+{
+  "name": "python-fluidity",
+  "version": "0.2.1-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196739677,
+  "transmit": 455030,
+  "disk": 151774
+}
