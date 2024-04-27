@@ -1,0 +1,16 @@
+{
+  "name": "python-nskeyedunarchiver",
+  "version": "1.5-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196451354,
+  "transmit": 297138,
+  "disk": 118660
+}
