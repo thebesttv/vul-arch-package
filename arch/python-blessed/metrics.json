@@ -1,0 +1,16 @@
+{
+  "name": "python-blessed",
+  "version": "1.20.0-5",
+  "depends": [
+    "python",
+    "python-six",
+    "python-wcwidth"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196414933,
+  "transmit": 258703,
+  "disk": 18616165
+}
