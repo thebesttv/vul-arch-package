@@ -1,0 +1,19 @@
+{
+  "name": "jupyter-nbformat",
+  "version": "5.10.4-2",
+  "depends": [
+    "python",
+    "python-fastjsonschema",
+    "python-jsonschema",
+    "python-jupyter-core",
+    "python-traitlets"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatch-nodejs-version"
+  ],
+  "receive": 196520905,
+  "transmit": 359110,
+  "disk": 970735
+}
