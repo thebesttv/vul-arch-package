@@ -1,0 +1,13 @@
+{
+  "name": "python-args",
+  "version": "0.1.0.20170708-9",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196581354,
+  "transmit": 420938,
+  "disk": 119882
+}
