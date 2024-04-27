@@ -1,0 +1,16 @@
+{
+  "name": "python-openstackdocstheme",
+  "version": "3.2.0-2",
+  "depends": [
+    "python-pbr",
+    "python-dulwich",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196497729,
+  "transmit": 381778,
+  "disk": 7361462
+}
