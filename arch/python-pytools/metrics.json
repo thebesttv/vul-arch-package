@@ -1,0 +1,15 @@
+{
+  "name": "python-pytools",
+  "version": "2023.1.1-2",
+  "depends": [
+    "python-numpy",
+    "python-platformdirs",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196489278,
+  "transmit": 312696,
+  "disk": 529962
+}
