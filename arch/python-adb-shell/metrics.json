@@ -1,0 +1,19 @@
+{
+  "name": "python-adb-shell",
+  "version": "0.4.4-2",
+  "depends": [
+    "python",
+    "python-cryptography",
+    "python-pyasn1",
+    "python-rsa"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196640014,
+  "transmit": 477756,
+  "disk": 673101
+}
