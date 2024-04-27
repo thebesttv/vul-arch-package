@@ -1,0 +1,13 @@
+{
+  "name": "python-pyu2f",
+  "version": "0.1.5-8",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196622125,
+  "transmit": 430949,
+  "disk": 382945
+}
