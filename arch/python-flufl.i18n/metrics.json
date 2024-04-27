@@ -1,0 +1,16 @@
+{
+  "name": "python-flufl.i18n",
+  "version": "5.1.0-2",
+  "depends": [
+    "python",
+    "python-atpublic"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 196620007,
+  "transmit": 441965,
+  "disk": 247074
+}
