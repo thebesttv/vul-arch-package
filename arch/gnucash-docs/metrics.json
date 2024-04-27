@@ -1,0 +1,13 @@
+{
+  "name": "gnucash-docs",
+  "version": "5.6-1",
+  "depends": [
+    "yelp"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 239731741,
+  "transmit": 832934,
+  "disk": 275973318
+}
