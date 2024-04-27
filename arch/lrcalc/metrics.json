@@ -1,0 +1,14 @@
+{
+  "name": "lrcalc",
+  "version": "2.1-5",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 196630768,
+  "transmit": 398104,
+  "disk": 2288691
+}
