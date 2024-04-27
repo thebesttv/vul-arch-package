@@ -1,0 +1,17 @@
+{
+  "name": "python-elasticsearch",
+  "version": "7.9.0-6",
+  "depends": [
+    "python-certifi",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196420851,
+  "transmit": 261088,
+  "disk": 1735358
+}
