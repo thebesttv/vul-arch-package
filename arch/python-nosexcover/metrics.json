@@ -1,0 +1,16 @@
+{
+  "name": "python-nosexcover",
+  "version": "1.0.11-9",
+  "depends": [
+    "python-nose",
+    "python-coverage"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-nose",
+    "python-coverage"
+  ],
+  "receive": 196550445,
+  "transmit": 369242,
+  "disk": 109978
+}
