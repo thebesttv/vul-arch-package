@@ -1,0 +1,17 @@
+{
+  "name": "jupyterlab-pygments",
+  "version": "0.3.0-2",
+  "depends": [
+    "python-pygments"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatch-jupyter-builder",
+    "python-hatch-nodejs-version",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 197021927,
+  "transmit": 588482,
+  "disk": 1326079
+}
