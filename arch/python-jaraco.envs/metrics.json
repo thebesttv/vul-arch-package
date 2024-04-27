@@ -1,0 +1,19 @@
+{
+  "name": "python-jaraco.envs",
+  "version": "2.6.0-2",
+  "depends": [
+    "python-path",
+    "python-virtualenv",
+    "python-tox"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196538457,
+  "transmit": 366646,
+  "disk": 146650
+}
