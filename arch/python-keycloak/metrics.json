@@ -1,0 +1,21 @@
+{
+  "name": "python-keycloak",
+  "version": "3.3.0-2",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-requests-toolbelt",
+    "python-jose",
+    "python-urllib3",
+    "python-deprecation"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 196410301,
+  "transmit": 276995,
+  "disk": 5687721
+}
