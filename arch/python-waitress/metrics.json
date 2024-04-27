@@ -1,0 +1,16 @@
+{
+  "name": "python-waitress",
+  "version": "3.0.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196534703,
+  "transmit": 379308,
+  "disk": 987714
+}
