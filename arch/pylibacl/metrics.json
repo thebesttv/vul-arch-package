@@ -1,0 +1,13 @@
+{
+  "name": "pylibacl",
+  "version": "0.6.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196433706,
+  "transmit": 289244,
+  "disk": 324733
+}
