@@ -1,0 +1,17 @@
+{
+  "name": "python-wheezy-template",
+  "version": "3.2.2-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196538200,
+  "transmit": 347427,
+  "disk": 462134
+}
