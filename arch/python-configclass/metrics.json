@@ -1,0 +1,17 @@
+{
+  "name": "python-configclass",
+  "version": "0.2.0-6",
+  "depends": [
+    "python",
+    "python-mergedict"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196390955,
+  "transmit": 236961,
+  "disk": 114363
+}
