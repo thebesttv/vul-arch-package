@@ -1,0 +1,13 @@
+{
+  "name": "python-olefile",
+  "version": "0.47-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196431805,
+  "transmit": 276197,
+  "disk": 501501
+}
