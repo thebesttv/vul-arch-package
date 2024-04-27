@@ -1,0 +1,13 @@
+{
+  "name": "python-os-client-config",
+  "version": "2.1.0-9",
+  "depends": [
+    "python-openstacksdk"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196617770,
+  "transmit": 441712,
+  "disk": 387616
+}
