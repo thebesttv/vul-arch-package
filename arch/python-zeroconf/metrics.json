@@ -1,0 +1,22 @@
+{
+  "name": "python-zeroconf",
+  "version": "0.63.0-2",
+  "depends": [
+    "python",
+    "python-netifaces",
+    "python-six",
+    "python-ifaddr",
+    "python-async-timeout"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core",
+    "cython"
+  ],
+  "receive": 196521736,
+  "transmit": 330205,
+  "disk": 1096620
+}
