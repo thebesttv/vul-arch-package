@@ -1,0 +1,12 @@
+{
+  "name": "sqlmap",
+  "version": "1.8-2",
+  "depends": [
+    "python",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 196640000,
+  "transmit": 441029,
+  "disk": 18787704
+}
