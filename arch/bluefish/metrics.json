@@ -1,0 +1,16 @@
+{
+  "name": "bluefish",
+  "version": "2.2.15-2",
+  "depends": [
+    "gtk3",
+    "enchant",
+    "python"
+  ],
+  "makedepends": [
+    "gucharmap",
+    "intltool"
+  ],
+  "receive": 201348055,
+  "transmit": 411484,
+  "disk": 34446209
+}
