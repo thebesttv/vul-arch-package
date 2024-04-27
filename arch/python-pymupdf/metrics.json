@@ -1,0 +1,24 @@
+{
+  "name": "python-pymupdf",
+  "version": "1.24.2-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libmupdf",
+    "python",
+    "python-mupdf"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-distro",
+    "python-installer",
+    "python-psutil",
+    "python-setuptools",
+    "python-wheel",
+    "swig",
+    "systemd"
+  ],
+  "receive": 214053225,
+  "transmit": 480627,
+  "disk": 73414781
+}
