@@ -1,0 +1,14 @@
+{
+  "name": "python-voluptuous-serialize",
+  "version": "2.6.0-3",
+  "depends": [
+    "python-voluptuous"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196577495,
+  "transmit": 372578,
+  "disk": 561367
+}
