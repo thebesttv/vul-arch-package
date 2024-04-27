@@ -1,0 +1,19 @@
+{
+  "name": "python-referencing",
+  "version": "0.33.0-3",
+  "depends": [
+    "python",
+    "python-attrs",
+    "python-rpds-py"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs"
+  ],
+  "receive": 197094838,
+  "transmit": 268716,
+  "disk": 1566510
+}
