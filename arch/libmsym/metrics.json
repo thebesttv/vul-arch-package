@@ -1,0 +1,14 @@
+{
+  "name": "libmsym",
+  "version": "0.2.3-9",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake",
+    "python-setuptools"
+  ],
+  "receive": 196520800,
+  "transmit": 361556,
+  "disk": 716286
+}
