@@ -1,0 +1,14 @@
+{
+  "name": "grammalecte",
+  "version": "2.1.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "unzip",
+    "python-setuptools"
+  ],
+  "receive": 196677930,
+  "transmit": 457319,
+  "disk": 22610167
+}
