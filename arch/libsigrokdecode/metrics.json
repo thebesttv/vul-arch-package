@@ -1,0 +1,12 @@
+{
+  "name": "libsigrokdecode",
+  "version": "0.5.3-7",
+  "depends": [
+    "glib2",
+    "python"
+  ],
+  "makedepends": [],
+  "receive": 196419625,
+  "transmit": 270100,
+  "disk": 5148761
+}
