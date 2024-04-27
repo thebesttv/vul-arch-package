@@ -1,0 +1,16 @@
+{
+  "name": "python-itemadapter",
+  "version": "0.8.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196536901,
+  "transmit": 364056,
+  "disk": 235148
+}
