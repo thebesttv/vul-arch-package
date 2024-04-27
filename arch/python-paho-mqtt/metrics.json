@@ -1,0 +1,13 @@
+{
+  "name": "python-paho-mqtt",
+  "version": "1.6.1-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196475292,
+  "transmit": 329359,
+  "disk": 899861
+}
