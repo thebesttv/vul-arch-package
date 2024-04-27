@@ -1,0 +1,17 @@
+{
+  "name": "libusbsio",
+  "version": "2.1.11-4",
+  "depends": [],
+  "makedepends": [
+    "hidapi",
+    "libusb",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "systemd"
+  ],
+  "receive": 196596182,
+  "transmit": 450000,
+  "disk": 9334583
+}
