@@ -1,0 +1,18 @@
+{
+  "name": "gramps",
+  "version": "2:5.2.2-1",
+  "depends": [
+    "gtk3",
+    "python-bsddb",
+    "python-cairo",
+    "python-gobject",
+    "xdg-utils"
+  ],
+  "makedepends": [
+    "intltool",
+    "python-setuptools"
+  ],
+  "receive": 218496971,
+  "transmit": 659383,
+  "disk": 118783985
+}
