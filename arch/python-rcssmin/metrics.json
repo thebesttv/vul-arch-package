@@ -1,0 +1,17 @@
+{
+  "name": "python-rcssmin",
+  "version": "1.1.2-2",
+  "depends": [
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196501689,
+  "transmit": 334784,
+  "disk": 2571939
+}
