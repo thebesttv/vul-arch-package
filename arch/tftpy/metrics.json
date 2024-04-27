@@ -1,0 +1,12 @@
+{
+  "name": "tftpy",
+  "version": "0.8.2-3",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196392309,
+  "transmit": 258929,
+  "disk": 2128640
+}
