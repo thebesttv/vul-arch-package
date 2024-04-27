@@ -1,0 +1,16 @@
+{
+  "name": "python-chardet",
+  "version": "5.2.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196662869,
+  "transmit": 453546,
+  "disk": 10612859
+}
