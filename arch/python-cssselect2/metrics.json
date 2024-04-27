@@ -1,0 +1,17 @@
+{
+  "name": "python-cssselect2",
+  "version": "0.7.0-4",
+  "depends": [
+    "python",
+    "python-tinycss2",
+    "python-webencodings"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer"
+  ],
+  "receive": 196629667,
+  "transmit": 514066,
+  "disk": 337066
+}
