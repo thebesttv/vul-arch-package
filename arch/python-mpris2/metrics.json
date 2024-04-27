@@ -1,0 +1,18 @@
+{
+  "name": "python-mpris2",
+  "version": "1.0.2-3",
+  "depends": [
+    "dbus-python",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196528151,
+  "transmit": 369809,
+  "disk": 512552
+}
