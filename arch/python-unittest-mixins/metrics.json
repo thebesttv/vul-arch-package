@@ -1,0 +1,16 @@
+{
+  "name": "python-unittest-mixins",
+  "version": "1.6-11",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196555225,
+  "transmit": 387128,
+  "disk": 178086
+}
