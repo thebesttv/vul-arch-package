@@ -1,0 +1,14 @@
+{
+  "name": "python-easygui",
+  "version": "0.98.3-2",
+  "depends": [
+    "python",
+    "tk"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196652576,
+  "transmit": 451182,
+  "disk": 427979
+}
