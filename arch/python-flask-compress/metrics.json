@@ -1,0 +1,19 @@
+{
+  "name": "python-flask-compress",
+  "version": "1.14-2",
+  "depends": [
+    "python",
+    "python-flask",
+    "python-brotli"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196428031,
+  "transmit": 274920,
+  "disk": 202630
+}
