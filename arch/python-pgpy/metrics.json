@@ -1,0 +1,19 @@
+{
+  "name": "python-pgpy",
+  "version": "0.6.0-4",
+  "depends": [
+    "python",
+    "python-cryptography",
+    "python-pyasn1"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196574841,
+  "transmit": 448156,
+  "disk": 5965502
+}
