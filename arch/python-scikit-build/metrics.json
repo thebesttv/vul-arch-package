@@ -1,0 +1,22 @@
+{
+  "name": "python-scikit-build",
+  "version": "0.17.6-3",
+  "depends": [
+    "cmake",
+    "python-distro",
+    "python-packaging",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs",
+    "python-hatch-fancy-pypi-readme"
+  ],
+  "receive": 196694642,
+  "transmit": 458211,
+  "disk": 4981157
+}
