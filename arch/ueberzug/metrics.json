@@ -1,0 +1,20 @@
+{
+  "name": "ueberzug",
+  "version": "18.2.2-2",
+  "depends": [
+    "libxext",
+    "libxres",
+    "python-attrs",
+    "python-docopt",
+    "python-pillow"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196431657,
+  "transmit": 261296,
+  "disk": 392504
+}
