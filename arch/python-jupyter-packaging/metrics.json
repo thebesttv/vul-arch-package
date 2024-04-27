@@ -1,0 +1,19 @@
+{
+  "name": "python-jupyter-packaging",
+  "version": "0.12.3-5",
+  "depends": [
+    "python-deprecation",
+    "python-wheel",
+    "python-tomlkit",
+    "python-packaging",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling"
+  ],
+  "receive": 196517503,
+  "transmit": 359927,
+  "disk": 246620
+}
