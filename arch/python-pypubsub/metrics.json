@@ -1,0 +1,16 @@
+{
+  "name": "python-pypubsub",
+  "version": "4.0.3-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196648181,
+  "transmit": 423151,
+  "disk": 864189
+}
