@@ -1,0 +1,20 @@
+{
+  "name": "python-stem",
+  "version": "1.8.3-2",
+  "depends": [
+    "procps-ng",
+    "python",
+    "python-cryptography",
+    "python-pynacl"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "git"
+  ],
+  "receive": 196730641,
+  "transmit": 552380,
+  "disk": 9855544
+}
