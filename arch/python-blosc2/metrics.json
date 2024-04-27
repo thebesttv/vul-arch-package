@@ -1,0 +1,25 @@
+{
+  "name": "python-blosc2",
+  "version": "2.5.1-2",
+  "depends": [
+    "blosc2",
+    "glibc",
+    "python",
+    "python-msgpack",
+    "python-ndindex",
+    "python-numpy",
+    "python-py-cpuinfo"
+  ],
+  "makedepends": [
+    "cmake",
+    "cython",
+    "ninja",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-scikit-build"
+  ],
+  "receive": 196439277,
+  "transmit": 306754,
+  "disk": 4188784
+}
