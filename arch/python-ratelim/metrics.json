@@ -1,0 +1,13 @@
+{
+  "name": "python-ratelim",
+  "version": "0.1.6-9",
+  "depends": [
+    "python-decorator"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 197055179,
+  "transmit": 754094,
+  "disk": 116719
+}
