@@ -1,0 +1,17 @@
+{
+  "name": "python-puremagic",
+  "version": "1.15-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196418037,
+  "transmit": 221594,
+  "disk": 2581167
+}
