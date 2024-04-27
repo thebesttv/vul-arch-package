@@ -1,0 +1,21 @@
+{
+  "name": "python-botocore",
+  "version": "1.34.34-2",
+  "depends": [
+    "python",
+    "python-certifi",
+    "python-dateutil",
+    "python-jmespath",
+    "python-urllib3"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-awscrt"
+  ],
+  "receive": 209826478,
+  "transmit": 395431,
+  "disk": 123472128
+}
