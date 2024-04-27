@@ -1,0 +1,13 @@
+{
+  "name": "python-fields",
+  "version": "5.0.0-17",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196416587,
+  "transmit": 246058,
+  "disk": 241307
+}
