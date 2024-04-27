@@ -1,0 +1,18 @@
+{
+  "name": "gottengeography",
+  "version": "2.5-14",
+  "depends": [
+    "libchamplain",
+    "libgexiv2",
+    "python-dateutil",
+    "python-gobject"
+  ],
+  "makedepends": [
+    "git",
+    "python-distutils-extra",
+    "python-setuptools"
+  ],
+  "receive": 224758139,
+  "transmit": 409656,
+  "disk": 84452738
+}
