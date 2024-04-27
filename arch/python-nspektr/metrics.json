@@ -1,0 +1,20 @@
+{
+  "name": "python-nspektr",
+  "version": "0.5.0-2",
+  "depends": [
+    "python-jaraco.context",
+    "python-jaraco.functools",
+    "python-more-itertools",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 196863052,
+  "transmit": 475112,
+  "disk": 498223
+}
