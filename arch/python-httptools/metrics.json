@@ -1,0 +1,17 @@
+{
+  "name": "python-httptools",
+  "version": "0.6.1-2",
+  "depends": [
+    "python",
+    "http-parser"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-wheel",
+    "cython"
+  ],
+  "receive": 196547356,
+  "transmit": 382568,
+  "disk": 17046689
+}
