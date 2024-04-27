@@ -1,0 +1,14 @@
+{
+  "name": "libiptcdata",
+  "version": "1.0.5-3",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196738959,
+  "transmit": 461452,
+  "disk": 3296866
+}
