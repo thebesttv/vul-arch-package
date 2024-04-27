@@ -1,0 +1,16 @@
+{
+  "name": "python-linkify-it-py",
+  "version": "2.0.3-2",
+  "depends": [
+    "python-uc-micro-py"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196569200,
+  "transmit": 385837,
+  "disk": 521732
+}
