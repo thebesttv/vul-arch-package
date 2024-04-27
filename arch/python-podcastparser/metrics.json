@@ -1,0 +1,13 @@
+{
+  "name": "python-podcastparser",
+  "version": "0.6.10-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196414567,
+  "transmit": 259744,
+  "disk": 285765
+}
