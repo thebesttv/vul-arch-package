@@ -1,0 +1,27 @@
+{
+  "name": "libdnf",
+  "version": "0.73.1-1",
+  "depends": [
+    "glib2",
+    "gpgme",
+    "json-c",
+    "libmodulemd",
+    "librepo",
+    "libsolv",
+    "libutil-linux",
+    "openssl",
+    "rpm-tools",
+    "sqlite",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtk-doc",
+    "python",
+    "python-sphinx",
+    "swig"
+  ],
+  "receive": 196570166,
+  "transmit": 385142,
+  "disk": 8855361
+}
