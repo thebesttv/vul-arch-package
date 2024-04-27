@@ -1,0 +1,17 @@
+{
+  "name": "python-whoosh",
+  "version": "2.7.4-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "git"
+  ],
+  "receive": 196512056,
+  "transmit": 277318,
+  "disk": 33036299
+}
