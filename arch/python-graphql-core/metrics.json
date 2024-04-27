@@ -1,0 +1,21 @@
+{
+  "name": "python-graphql-core",
+  "version": "3.2.3-4",
+  "depends": [
+    "python-six",
+    "python-promise",
+    "python-rx",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196502416,
+  "transmit": 330962,
+  "disk": 9841153
+}
