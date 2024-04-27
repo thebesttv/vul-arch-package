@@ -1,0 +1,31 @@
+{
+  "name": "python-distributed",
+  "version": "2024.4.1-2",
+  "depends": [
+    "python",
+    "python-click",
+    "python-cloudpickle",
+    "python-dask",
+    "python-jinja",
+    "python-msgpack",
+    "python-packaging",
+    "python-psutil",
+    "python-sortedcontainers",
+    "python-tblib",
+    "python-toolz",
+    "python-tornado",
+    "python-urllib3",
+    "python-yaml",
+    "python-zict"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-versioneer",
+    "python-wheel"
+  ],
+  "receive": 196537942,
+  "transmit": 369937,
+  "disk": 10196649
+}
