@@ -1,0 +1,25 @@
+{
+  "name": "python-heatclient",
+  "version": "3.5.0-2",
+  "depends": [
+    "python-pbr",
+    "python-cliff",
+    "python-iso8601",
+    "python-osc-lib",
+    "python-prettytable",
+    "python-oslo-i18n",
+    "python-oslo-serialization",
+    "python-oslo-utils",
+    "python-keystoneauth1",
+    "python-swiftclient",
+    "python-yaml",
+    "python-requests",
+    "python-six"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 196556593,
+  "transmit": 362216,
+  "disk": 4441326
+}
