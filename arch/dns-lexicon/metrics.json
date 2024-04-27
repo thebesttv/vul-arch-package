@@ -1,0 +1,22 @@
+{
+  "name": "dns-lexicon",
+  "version": "3.17.0-2",
+  "depends": [
+    "python-beautifulsoup4",
+    "python-cryptography",
+    "python-yaml",
+    "python-requests",
+    "python-tldextract",
+    "python-importlib-metadata",
+    "python-pyotp",
+    "python-dnspython"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196795718,
+  "transmit": 515973,
+  "disk": 80668084
+}
