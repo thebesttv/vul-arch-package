@@ -1,0 +1,20 @@
+{
+  "name": "python-gitlabber",
+  "version": "1.1.9-3",
+  "depends": [
+    "python-setuptools",
+    "python-anytree",
+    "python-gitpython",
+    "python-gitlab",
+    "python-globre",
+    "python-pyyaml",
+    "python-tqdm",
+    "python-docopt"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 196509686,
+  "transmit": 288868,
+  "disk": 534509
+}
