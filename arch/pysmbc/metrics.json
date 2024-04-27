@@ -1,0 +1,13 @@
+{
+  "name": "pysmbc",
+  "version": "1.0.25.1-3",
+  "depends": [],
+  "makedepends": [
+    "python",
+    "smbclient",
+    "python-setuptools"
+  ],
+  "receive": 196774849,
+  "transmit": 496466,
+  "disk": 309702
+}
