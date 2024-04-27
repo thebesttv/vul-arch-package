@@ -1,0 +1,24 @@
+{
+  "name": "httpie",
+  "version": "3.2.2-2",
+  "depends": [
+    "python-charset-normalizer",
+    "python-defusedxml",
+    "python-multidict",
+    "python-pip",
+    "python-pygments",
+    "python-pysocks",
+    "python-requests",
+    "python-requests-toolbelt",
+    "python-rich"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196623462,
+  "transmit": 381085,
+  "disk": 3722311
+}
