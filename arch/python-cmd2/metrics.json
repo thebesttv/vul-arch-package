@@ -1,0 +1,20 @@
+{
+  "name": "python-cmd2",
+  "version": "2.4.3-3",
+  "depends": [
+    "python-attrs",
+    "python-colorama",
+    "python-pyperclip",
+    "python-wcwidth"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196551280,
+  "transmit": 385184,
+  "disk": 12134660
+}
