@@ -1,0 +1,17 @@
+{
+  "name": "python-gnupg",
+  "version": "0.5.2-2",
+  "depends": [
+    "gnupg",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196500770,
+  "transmit": 338297,
+  "disk": 408900
+}
