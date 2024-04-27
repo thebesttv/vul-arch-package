@@ -1,0 +1,14 @@
+{
+  "name": "python-pywal",
+  "version": "3.3.0-9",
+  "depends": [
+    "python",
+    "imagemagick"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196528589,
+  "transmit": 369884,
+  "disk": 440646
+}
