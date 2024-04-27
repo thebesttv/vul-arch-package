@@ -1,0 +1,17 @@
+{
+  "name": "python-constantly",
+  "version": "23.10.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-versioneer"
+  ],
+  "receive": 196572104,
+  "transmit": 398895,
+  "disk": 294460
+}
