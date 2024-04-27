@@ -1,0 +1,17 @@
+{
+  "name": "python-sqlalchemy",
+  "version": "1.4.52-3",
+  "depends": [
+    "python",
+    "python-greenlet"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 205186048,
+  "transmit": 388427,
+  "disk": 62781132
+}
