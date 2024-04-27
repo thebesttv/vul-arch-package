@@ -1,0 +1,21 @@
+{
+  "name": "ppc64le-elf-gdb",
+  "version": "14.2-2",
+  "depends": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile",
+    "gdb-common",
+    "mpfr",
+    "libelf",
+    "source-highlight"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 222120406,
+  "transmit": 1171817,
+  "disk": 237279896
+}
