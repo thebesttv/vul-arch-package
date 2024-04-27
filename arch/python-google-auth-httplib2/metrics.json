@@ -1,0 +1,17 @@
+{
+  "name": "python-google-auth-httplib2",
+  "version": "0.2.0-2",
+  "depends": [
+    "python-google-auth",
+    "python-httplib2"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196419540,
+  "transmit": 269660,
+  "disk": 165169
+}
