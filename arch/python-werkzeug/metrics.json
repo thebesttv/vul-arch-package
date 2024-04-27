@@ -1,0 +1,15 @@
+{
+  "name": "python-werkzeug",
+  "version": "3.0.1-1",
+  "depends": [
+    "python-markupsafe"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core"
+  ],
+  "receive": 196451228,
+  "transmit": 359748,
+  "disk": 3143616
+}
