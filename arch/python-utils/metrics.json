@@ -1,0 +1,17 @@
+{
+  "name": "python-utils",
+  "version": "3.8.2-2",
+  "depends": [
+    "python",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196480671,
+  "transmit": 299263,
+  "disk": 322285
+}
