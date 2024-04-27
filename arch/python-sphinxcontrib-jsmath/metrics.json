@@ -1,0 +1,14 @@
+{
+  "name": "python-sphinxcontrib-jsmath",
+  "version": "1.0.1-17",
+  "depends": [],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196389269,
+  "transmit": 237332,
+  "disk": 156780
+}
