@@ -1,0 +1,11 @@
+{
+  "name": "python-zope-hookable",
+  "version": "6.0-2",
+  "depends": [
+    "python-setuptools"
+  ],
+  "makedepends": [],
+  "receive": 196903348,
+  "transmit": 578331,
+  "disk": 242570
+}
