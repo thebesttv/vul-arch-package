@@ -1,0 +1,13 @@
+{
+  "name": "python-cram",
+  "version": "0.7-11",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196418085,
+  "transmit": 250794,
+  "disk": 267440
+}
