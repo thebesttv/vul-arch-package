@@ -1,0 +1,17 @@
+{
+  "name": "comtool",
+  "version": "2.2.1-2",
+  "depends": [
+    "python-pyqt5",
+    "python-pyserial",
+    "python-requests",
+    "python-babel",
+    "python-qtawesome"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196452241,
+  "transmit": 279584,
+  "disk": 1624052
+}
