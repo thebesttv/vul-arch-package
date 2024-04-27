@@ -1,0 +1,16 @@
+{
+  "name": "python-manhole",
+  "version": "1.8.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196553534,
+  "transmit": 358365,
+  "disk": 284484
+}
