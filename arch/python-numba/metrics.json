@@ -1,0 +1,22 @@
+{
+  "name": "python-numba",
+  "version": "0.59.1-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-llvmlite",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "onetbb",
+    "openmp",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196503452,
+  "transmit": 345884,
+  "disk": 15964073
+}
