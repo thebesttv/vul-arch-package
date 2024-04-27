@@ -1,0 +1,18 @@
+{
+  "name": "python-pt",
+  "version": "r20231230.107.3efc26e-2",
+  "depends": [
+    "gdb",
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 196496751,
+  "transmit": 356036,
+  "disk": 1598174
+}
