@@ -1,0 +1,16 @@
+{
+  "name": "python-frozendict",
+  "version": "1:2.4.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196675478,
+  "transmit": 421582,
+  "disk": 2117233
+}
