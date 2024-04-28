@@ -1,0 +1,14 @@
+{
+  "name": "python-xtarfile",
+  "version": "0.1.0-6",
+  "depends": [
+    "python-zstandard",
+    "python-lz4"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 197540191,
+  "transmit": 909451,
+  "disk": 143050
+}
