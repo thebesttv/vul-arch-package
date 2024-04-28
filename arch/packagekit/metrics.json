@@ -1,0 +1,18 @@
+{
+  "name": "packagekit",
+  "version": "1.2.8-8",
+  "depends": [],
+  "makedepends": [
+    "polkit",
+    "sqlite",
+    "gobject-introspection",
+    "intltool",
+    "bash-completion",
+    "vala",
+    "meson",
+    "python-setuptools"
+  ],
+  "receive": 196812531,
+  "transmit": 370824,
+  "disk": 12801978
+}
