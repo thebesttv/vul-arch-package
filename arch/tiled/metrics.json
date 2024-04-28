@@ -1,0 +1,25 @@
+{
+  "name": "tiled",
+  "version": "1.10.2-2",
+  "depends": [
+    "qt6-base",
+    "libgl",
+    "gtk-update-icon-cache",
+    "shared-mime-info",
+    "desktop-file-utils",
+    "libxkbcommon-x11",
+    "qt6-declarative",
+    "qt6-quickcontrols2",
+    "qt6-svg",
+    "zstd"
+  ],
+  "makedepends": [
+    "mesa",
+    "qt6-tools",
+    "python",
+    "qbs"
+  ],
+  "receive": 212414750,
+  "transmit": 449231,
+  "disk": 54003059
+}
