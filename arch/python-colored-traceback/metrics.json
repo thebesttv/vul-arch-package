@@ -1,0 +1,14 @@
+{
+  "name": "python-colored-traceback",
+  "version": "0.3.0-5",
+  "depends": [
+    "python",
+    "python-pygments"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196426787,
+  "transmit": 261056,
+  "disk": 133107
+}
