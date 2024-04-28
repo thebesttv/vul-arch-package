@@ -1,0 +1,20 @@
+{
+  "name": "pynormaliz",
+  "version": "2.19-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "normaliz",
+    "python"
+  ],
+  "makedepends": [
+    "boost",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196406412,
+  "transmit": 255090,
+  "disk": 956255
+}
