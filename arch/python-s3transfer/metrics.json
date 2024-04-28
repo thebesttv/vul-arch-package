@@ -1,0 +1,18 @@
+{
+  "name": "python-s3transfer",
+  "version": "0.10.0-2",
+  "depends": [
+    "python",
+    "python-botocore"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-awscrt"
+  ],
+  "receive": 196396621,
+  "transmit": 293300,
+  "disk": 1200297
+}
