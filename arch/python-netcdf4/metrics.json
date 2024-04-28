@@ -1,0 +1,17 @@
+{
+  "name": "python-netcdf4",
+  "version": "1.6.5-2",
+  "depends": [
+    "python-numpy",
+    "python-cftime",
+    "netcdf",
+    "python-certifi"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools"
+  ],
+  "receive": 196597139,
+  "transmit": 416000,
+  "disk": 2953722
+}
