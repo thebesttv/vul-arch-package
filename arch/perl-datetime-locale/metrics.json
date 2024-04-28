@@ -1,0 +1,14 @@
+{
+  "name": "perl-datetime-locale",
+  "version": "1.42-1",
+  "depends": [
+    "perl-params-validate",
+    "perl-list-moreutils",
+    "perl-file-sharedir",
+    "perl-file-sharedir-install"
+  ],
+  "makedepends": [],
+  "receive": 196428288,
+  "transmit": 263710,
+  "disk": 23672984
+}
