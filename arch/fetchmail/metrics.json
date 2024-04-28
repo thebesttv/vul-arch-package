@@ -1,0 +1,13 @@
+{
+  "name": "fetchmail",
+  "version": "6.4.38-2",
+  "depends": [
+    "openssl"
+  ],
+  "makedepends": [
+    "python"
+  ],
+  "receive": 196612795,
+  "transmit": 426139,
+  "disk": 8735664
+}
