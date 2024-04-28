@@ -1,0 +1,20 @@
+{
+  "name": "python-optree",
+  "version": "0.11.0-2",
+  "depends": [
+    "python",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "cmake",
+    "gcc",
+    "pybind11"
+  ],
+  "receive": 196657725,
+  "transmit": 485273,
+  "disk": 1094456
+}
