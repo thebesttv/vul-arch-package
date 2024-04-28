@@ -1,0 +1,19 @@
+{
+  "name": "b4",
+  "version": "0.13.0-2",
+  "depends": [
+    "python-requests",
+    "git-filter-repo",
+    "patatt"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196469514,
+  "transmit": 293173,
+  "disk": 1213042
+}
