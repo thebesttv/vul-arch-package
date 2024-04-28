@@ -1,0 +1,18 @@
+{
+  "name": "python-uri-template",
+  "version": "1.3.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools",
+    "python-setuptools-scm"
+  ],
+  "receive": 196516928,
+  "transmit": 358578,
+  "disk": 403632
+}
