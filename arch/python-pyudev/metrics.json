@@ -1,0 +1,17 @@
+{
+  "name": "python-pyudev",
+  "version": "0.24.1-4",
+  "depends": [
+    "systemd"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-sphinx"
+  ],
+  "receive": 197509025,
+  "transmit": 805964,
+  "disk": 624508
+}
