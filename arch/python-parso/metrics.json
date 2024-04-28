@@ -1,0 +1,17 @@
+{
+  "name": "python-parso",
+  "version": "1:0.8.4-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-sphinx",
+    "python-wheel"
+  ],
+  "receive": 196493185,
+  "transmit": 308557,
+  "disk": 1442319
+}
