@@ -1,0 +1,17 @@
+{
+  "name": "rednotebook",
+  "version": "2.31-2",
+  "depends": [
+    "gtksourceview3",
+    "python-gobject",
+    "python-pyenchant",
+    "python-yaml",
+    "webkit2gtk"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196578073,
+  "transmit": 418624,
+  "disk": 7709069
+}
