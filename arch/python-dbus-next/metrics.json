@@ -1,0 +1,17 @@
+{
+  "name": "python-dbus-next",
+  "version": "0.2.3-5",
+  "depends": [
+    "dbus",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 197759285,
+  "transmit": 985036,
+  "disk": 635714
+}
