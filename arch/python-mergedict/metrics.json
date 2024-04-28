@@ -1,0 +1,16 @@
+{
+  "name": "python-mergedict",
+  "version": "1.0.0-8",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196507574,
+  "transmit": 335970,
+  "disk": 114071
+}
