@@ -1,0 +1,13 @@
+{
+  "name": "perl-mime-tools",
+  "version": "5.515-1",
+  "depends": [
+    "perl-mailtools",
+    "perl-io-stringy",
+    "perl-convert-binhex"
+  ],
+  "makedepends": [],
+  "receive": 196647392,
+  "transmit": 450477,
+  "disk": 1563738
+}
