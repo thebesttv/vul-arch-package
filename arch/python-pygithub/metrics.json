@@ -1,0 +1,20 @@
+{
+  "name": "python-pygithub",
+  "version": "2.3.0-2",
+  "depends": [
+    "python-deprecated",
+    "python-pyjwt",
+    "python-requests",
+    "python-pynacl",
+    "python-dateutil"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196528782,
+  "transmit": 372467,
+  "disk": 33099268
+}
