@@ -1,0 +1,21 @@
+{
+  "name": "python-authheaders",
+  "version": "0.16.2-2",
+  "depends": [
+    "publicsuffix-list",
+    "python",
+    "python-authres",
+    "python-dkim",
+    "python-dnspython",
+    "python-publicsuffix2"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196492351,
+  "transmit": 326275,
+  "disk": 657867
+}
