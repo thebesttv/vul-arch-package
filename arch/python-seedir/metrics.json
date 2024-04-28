@@ -1,0 +1,17 @@
+{
+  "name": "python-seedir",
+  "version": "0.4.2-4",
+  "depends": [
+    "python-natsort"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196583487,
+  "transmit": 424772,
+  "disk": 7774460
+}
