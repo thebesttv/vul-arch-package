@@ -1,0 +1,16 @@
+{
+  "name": "python-pymongo",
+  "version": "4.6.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 198226328,
+  "transmit": 1207898,
+  "disk": 13638192
+}
