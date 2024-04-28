@@ -1,0 +1,22 @@
+{
+  "name": "android-tools",
+  "version": "35.0.1-1",
+  "depends": [
+    "libusb",
+    "protobuf",
+    "brotli",
+    "zstd",
+    "android-udev",
+    "pcre2"
+  ],
+  "makedepends": [
+    "gtest",
+    "cmake",
+    "go",
+    "ninja",
+    "git"
+  ],
+  "receive": 218261606,
+  "transmit": 400398,
+  "disk": 179069001
+}
