@@ -1,0 +1,32 @@
+{
+  "name": "cairo-dock-plug-ins",
+  "version": "3.5.0-3",
+  "depends": [
+    "cairo-dock"
+  ],
+  "makedepends": [
+    "alsa-lib",
+    "cmake",
+    "dbus-sharp-glib",
+    "fftw",
+    "gnome-menus",
+    "gtk-sharp-3",
+    "gvfs",
+    "libetpan",
+    "libexif",
+    "libical",
+    "libpulse",
+    "libxklavier",
+    "lm_sensors",
+    "python",
+    "ruby",
+    "upower",
+    "vala",
+    "vte3",
+    "zeitgeist",
+    "python-setuptools"
+  ],
+  "receive": 196510943,
+  "transmit": 366214,
+  "disk": 32021997
+}
