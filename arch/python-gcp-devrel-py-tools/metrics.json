@@ -1,0 +1,15 @@
+{
+  "name": "python-gcp-devrel-py-tools",
+  "version": "0.0.16-7",
+  "depends": [
+    "python-setuptools",
+    "python-requests",
+    "python-retrying",
+    "python-packaging",
+    "python-pylint"
+  ],
+  "makedepends": [],
+  "receive": 196422615,
+  "transmit": 284030,
+  "disk": 186302
+}
