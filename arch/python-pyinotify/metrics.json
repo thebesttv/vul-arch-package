@@ -1,0 +1,14 @@
+{
+  "name": "python-pyinotify",
+  "version": "0.9.6-14",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196504865,
+  "transmit": 332013,
+  "disk": 424627
+}
