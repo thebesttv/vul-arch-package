@@ -1,0 +1,16 @@
+{
+  "name": "python-litex",
+  "version": "2021.08-4",
+  "depends": [
+    "python-migen",
+    "python-pyserial",
+    "python-requests",
+    "python-pythondata-software-compiler_rt"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196465119,
+  "transmit": 356122,
+  "disk": 11475195
+}
