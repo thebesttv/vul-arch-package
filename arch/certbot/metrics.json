@@ -1,0 +1,27 @@
+{
+  "name": "certbot",
+  "version": "2.8.0-2",
+  "depends": [
+    "ca-certificates",
+    "python-acme=2.8.0",
+    "python-configargparse",
+    "python-configobj",
+    "python-cryptography",
+    "python-distro",
+    "python-parsedatetime",
+    "python-pyrfc3339",
+    "python-pytz",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-wheel",
+    "python-installer",
+    "python-sphinx",
+    "python-sphinx_rtd_theme"
+  ],
+  "receive": 261140453,
+  "transmit": 648379,
+  "disk": 103005871
+}
