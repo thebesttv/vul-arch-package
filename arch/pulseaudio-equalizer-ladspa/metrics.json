@@ -1,0 +1,17 @@
+{
+  "name": "pulseaudio-equalizer-ladspa",
+  "version": "3.0.2-7",
+  "depends": [
+    "python-gobject",
+    "gtk3",
+    "swh-plugins",
+    "pulseaudio",
+    "bc"
+  ],
+  "makedepends": [
+    "meson"
+  ],
+  "receive": 196511274,
+  "transmit": 330858,
+  "disk": 248747
+}
