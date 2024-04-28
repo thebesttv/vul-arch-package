@@ -1,0 +1,14 @@
+{
+  "name": "python-ntlm-auth",
+  "version": "1.5.0-9",
+  "depends": [
+    "python",
+    "python-cryptography"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196531240,
+  "transmit": 361303,
+  "disk": 404483
+}
