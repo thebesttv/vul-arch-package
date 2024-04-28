@@ -1,0 +1,13 @@
+{
+  "name": "python-passlib",
+  "version": "1.7.4-7",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196472461,
+  "transmit": 267195,
+  "disk": 3542666
+}
