@@ -1,0 +1,20 @@
+{
+  "name": "python-nbxmpp",
+  "version": "4.5.4-2",
+  "depends": [
+    "libsoup3",
+    "python-gobject",
+    "python-idna",
+    "python-precis_i18n",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196406061,
+  "transmit": 232860,
+  "disk": 1247210
+}
