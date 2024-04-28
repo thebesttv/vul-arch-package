@@ -1,0 +1,16 @@
+{
+  "name": "python-pymacaroons",
+  "version": "0.13.0-12",
+  "depends": [
+    "python",
+    "python-pynacl",
+    "python-six"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196587539,
+  "transmit": 436140,
+  "disk": 275600
+}
