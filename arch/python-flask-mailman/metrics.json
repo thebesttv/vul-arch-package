@@ -1,0 +1,16 @@
+{
+  "name": "python-flask-mailman",
+  "version": "1.0.0-1",
+  "depends": [
+    "python",
+    "python-flask"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196616160,
+  "transmit": 425698,
+  "disk": 477179
+}
