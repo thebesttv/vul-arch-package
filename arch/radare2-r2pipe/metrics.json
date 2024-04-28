@@ -1,0 +1,17 @@
+{
+  "name": "radare2-r2pipe",
+  "version": "5.7.2-3",
+  "depends": [],
+  "makedepends": [
+    "radare2",
+    "python",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-sphinx"
+  ],
+  "receive": 196379352,
+  "transmit": 226575,
+  "disk": 1520954
+}
