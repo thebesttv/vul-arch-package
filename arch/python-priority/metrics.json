@@ -1,0 +1,16 @@
+{
+  "name": "python-priority",
+  "version": "2.0.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196487840,
+  "transmit": 322648,
+  "disk": 232196
+}
