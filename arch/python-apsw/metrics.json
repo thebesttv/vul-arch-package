@@ -1,0 +1,14 @@
+{
+  "name": "python-apsw",
+  "version": "3.45.2.0-2",
+  "depends": [
+    "python",
+    "sqlite"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196478701,
+  "transmit": 313411,
+  "disk": 3897187
+}
