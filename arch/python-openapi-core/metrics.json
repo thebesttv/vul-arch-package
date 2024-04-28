@@ -1,0 +1,24 @@
+{
+  "name": "python-openapi-core",
+  "version": "0.19.1-1",
+  "depends": [
+    "python",
+    "python-asgiref",
+    "python-isodate",
+    "python-jsonschema",
+    "python-jsonschema-path",
+    "python-more-itertools",
+    "python-openapi-schema-validator",
+    "python-openapi-spec-validator",
+    "python-parse",
+    "python-werkzeug"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196475632,
+  "transmit": 313201,
+  "disk": 1733680
+}
