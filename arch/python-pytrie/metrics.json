@@ -1,0 +1,14 @@
+{
+  "name": "python-pytrie",
+  "version": "0.4.0-7",
+  "depends": [
+    "python",
+    "python-sortedcontainers"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196423190,
+  "transmit": 263728,
+  "disk": 570569
+}
