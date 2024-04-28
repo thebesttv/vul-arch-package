@@ -1,0 +1,14 @@
+{
+  "name": "prometheus-node-exporter",
+  "version": "1.8.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go",
+    "git"
+  ],
+  "receive": 196619121,
+  "transmit": 420223,
+  "disk": 2692579
+}
