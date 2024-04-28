@@ -1,0 +1,16 @@
+{
+  "name": "python-resolvelib",
+  "version": "1.0.1-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196450034,
+  "transmit": 269581,
+  "disk": 17413167
+}
