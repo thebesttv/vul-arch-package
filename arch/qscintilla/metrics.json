@@ -1,0 +1,16 @@
+{
+  "name": "qscintilla",
+  "version": "2.14.1-2",
+  "depends": [],
+  "makedepends": [
+    "python-pyqt5",
+    "qt5-tools",
+    "python-pyqt6",
+    "qt6-tools",
+    "sip",
+    "pyqt-builder"
+  ],
+  "receive": 199936302,
+  "transmit": 444909,
+  "disk": 21245655
+}
