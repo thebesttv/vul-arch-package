@@ -1,0 +1,20 @@
+{
+  "name": "python-claripy",
+  "version": "9.2.69-2",
+  "depends": [
+    "python",
+    "python-cachetools",
+    "python-decorator",
+    "python-pysmt",
+    "python-z3-solver"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196524307,
+  "transmit": 329061,
+  "disk": 1169684
+}
