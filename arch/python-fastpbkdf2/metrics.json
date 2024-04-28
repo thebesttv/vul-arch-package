@@ -1,0 +1,15 @@
+{
+  "name": "python-fastpbkdf2",
+  "version": "0.2-12",
+  "depends": [
+    "python-cffi",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 196837618,
+  "transmit": 572468,
+  "disk": 392171
+}
