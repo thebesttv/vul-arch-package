@@ -1,0 +1,14 @@
+{
+  "name": "python-py_stringmatching",
+  "version": "0.4.5-2",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "cython"
+  ],
+  "receive": 196545233,
+  "transmit": 421310,
+  "disk": 7354369
+}
