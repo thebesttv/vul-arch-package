@@ -1,0 +1,23 @@
+{
+  "name": "feeluown-ytmusic",
+  "version": "0.3.4-2",
+  "depends": [
+    "feeluown",
+    "python",
+    "python-pydantic",
+    "python-cachetools",
+    "python-pyqt5",
+    "python-pytube",
+    "python-requests",
+    "python-ytmusicapi"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core",
+    "python-wheel"
+  ],
+  "receive": 196548843,
+  "transmit": 400164,
+  "disk": 411473
+}
