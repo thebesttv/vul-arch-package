@@ -1,0 +1,18 @@
+{
+  "name": "unrealircd",
+  "version": "6.1.5-1",
+  "depends": [
+    "openssl",
+    "curl",
+    "c-ares",
+    "tre",
+    "pcre2",
+    "libnsl",
+    "argon2",
+    "libsodium"
+  ],
+  "makedepends": [],
+  "receive": 196985411,
+  "transmit": 394143,
+  "disk": 25786868
+}
