@@ -1,0 +1,21 @@
+{
+  "name": "zbar",
+  "version": "0.23.93-1",
+  "depends": [
+    "dbus",
+    "imagemagick",
+    "libxv",
+    "v4l-utils"
+  ],
+  "makedepends": [
+    "gtk3",
+    "qt5-x11extras",
+    "python",
+    "xmlto",
+    "docbook-xsl",
+    "gobject-introspection"
+  ],
+  "receive": 196485853,
+  "transmit": 308888,
+  "disk": 4478077
+}
