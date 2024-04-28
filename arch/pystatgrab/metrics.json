@@ -1,0 +1,15 @@
+{
+  "name": "pystatgrab",
+  "version": "0.7.2-1",
+  "depends": [
+    "python",
+    "libstatgrab"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools"
+  ],
+  "receive": 196629145,
+  "transmit": 378552,
+  "disk": 988123
+}
