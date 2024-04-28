@@ -1,0 +1,20 @@
+{
+  "name": "copr-cli",
+  "version": "1.105-2",
+  "depends": [
+    "python-copr",
+    "python-humanize",
+    "python-simplejson",
+    "python-jinja",
+    "python-setuptools",
+    "python-future"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 204930425,
+  "transmit": 434658,
+  "disk": 24651155
+}
