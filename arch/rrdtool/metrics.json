@@ -1,0 +1,20 @@
+{
+  "name": "rrdtool",
+  "version": "1.8.0-4",
+  "depends": [
+    "libxml2",
+    "pango",
+    "ttf-dejavu"
+  ],
+  "makedepends": [
+    "intltool",
+    "ruby",
+    "python-setuptools",
+    "tcl",
+    "lua51",
+    "systemd"
+  ],
+  "receive": 196765256,
+  "transmit": 494447,
+  "disk": 11766495
+}
