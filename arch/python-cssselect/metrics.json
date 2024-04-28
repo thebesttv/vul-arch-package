@@ -1,0 +1,16 @@
+{
+  "name": "python-cssselect",
+  "version": "1.2.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196503013,
+  "transmit": 345760,
+  "disk": 336650
+}
