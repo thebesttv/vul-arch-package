@@ -1,0 +1,15 @@
+{
+  "name": "singularity",
+  "version": "1.00-8",
+  "depends": [
+    "python",
+    "python-pygame",
+    "python-numpy"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 241297578,
+  "transmit": 729133,
+  "disk": 117750687
+}
