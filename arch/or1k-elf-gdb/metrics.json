@@ -1,0 +1,21 @@
+{
+  "name": "or1k-elf-gdb",
+  "version": "14.2-1",
+  "depends": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile",
+    "gdb-common",
+    "mpfr",
+    "libelf",
+    "source-highlight"
+  ],
+  "makedepends": [
+    "boost"
+  ],
+  "receive": 221142663,
+  "transmit": 656091,
+  "disk": 237283445
+}
