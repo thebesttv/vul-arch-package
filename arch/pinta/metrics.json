@@ -1,0 +1,16 @@
+{
+  "name": "pinta",
+  "version": "2.1.2-1",
+  "depends": [
+    "gtk3>=3.24.21",
+    "dotnet-runtime-7.0",
+    "webp-pixbuf-loader"
+  ],
+  "makedepends": [
+    "intltool",
+    "dotnet-sdk-7.0"
+  ],
+  "receive": 196401496,
+  "transmit": 232670,
+  "disk": 20098502
+}
