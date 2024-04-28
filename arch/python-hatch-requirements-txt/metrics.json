@@ -1,0 +1,17 @@
+{
+  "name": "python-hatch-requirements-txt",
+  "version": "0.4.1-2",
+  "depends": [
+    "python",
+    "python-hatchling",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196476396,
+  "transmit": 339728,
+  "disk": 590062
+}
