@@ -1,0 +1,17 @@
+{
+  "name": "python-btrees",
+  "version": "4.11.3-4",
+  "depends": [
+    "python-persistent",
+    "python-zope-interface"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-wheel",
+    "python-installer"
+  ],
+  "receive": 196566754,
+  "transmit": 369478,
+  "disk": 1226202
+}
