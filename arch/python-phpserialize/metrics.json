@@ -1,0 +1,16 @@
+{
+  "name": "python-phpserialize",
+  "version": "1.3-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196459536,
+  "transmit": 270988,
+  "disk": 133489
+}
