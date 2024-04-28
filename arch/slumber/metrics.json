@@ -1,0 +1,13 @@
+{
+  "name": "slumber",
+  "version": "1.0.1-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 196582320,
+  "transmit": 448568,
+  "disk": 2150499
+}
