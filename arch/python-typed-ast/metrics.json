@@ -1,0 +1,13 @@
+{
+  "name": "python-typed-ast",
+  "version": "1.5.5-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196906226,
+  "transmit": 516462,
+  "disk": 1977084
+}
