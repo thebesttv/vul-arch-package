@@ -1,0 +1,14 @@
+{
+  "name": "python-texttable",
+  "version": "1.7.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-cjkwrap",
+    "python-setuptools"
+  ],
+  "receive": 196538990,
+  "transmit": 369271,
+  "disk": 177637
+}
