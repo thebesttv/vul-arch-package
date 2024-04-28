@@ -1,0 +1,20 @@
+{
+  "name": "python-dist-meta",
+  "version": "0.8.0-2",
+  "depends": [
+    "python",
+    "python-domdf-python-tools",
+    "python-handy-archives",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196674421,
+  "transmit": 512986,
+  "disk": 75144323
+}
