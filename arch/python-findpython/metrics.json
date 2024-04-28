@@ -1,0 +1,17 @@
+{
+  "name": "python-findpython",
+  "version": "0.6.1-2",
+  "depends": [
+    "python",
+    "python-packaging"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-pdm-backend",
+    "python-wheel"
+  ],
+  "receive": 196525302,
+  "transmit": 377098,
+  "disk": 225608
+}
