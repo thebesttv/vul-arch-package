@@ -1,0 +1,20 @@
+{
+  "name": "python-hishel",
+  "version": "0.0.26-2",
+  "depends": [
+    "python",
+    "python-anyio",
+    "python-httpcore",
+    "python-httpx",
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-hatch-fancy-pypi-readme",
+    "python-installer"
+  ],
+  "receive": 198085908,
+  "transmit": 1209133,
+  "disk": 2200299
+}
