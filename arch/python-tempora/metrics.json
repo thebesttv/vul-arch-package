@@ -1,0 +1,19 @@
+{
+  "name": "python-tempora",
+  "version": "5.5.0-1",
+  "depends": [
+    "python",
+    "python-pytz",
+    "python-jaraco.functools"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196564845,
+  "transmit": 411362,
+  "disk": 213395
+}
