@@ -1,0 +1,19 @@
+{
+  "name": "python-pytest-localserver",
+  "version": "0.8.1-2",
+  "depends": [
+    "python-pytest",
+    "python-werkzeug"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 196546527,
+  "transmit": 365651,
+  "disk": 1043003
+}
