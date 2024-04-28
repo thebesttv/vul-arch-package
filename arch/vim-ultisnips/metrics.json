@@ -1,0 +1,14 @@
+{
+  "name": "vim-ultisnips",
+  "version": "3.2-9",
+  "depends": [
+    "vim-plugin-runtime",
+    "python"
+  ],
+  "makedepends": [
+    "git"
+  ],
+  "receive": 196464118,
+  "transmit": 298122,
+  "disk": 12509755
+}
