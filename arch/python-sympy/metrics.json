@@ -1,0 +1,16 @@
+{
+  "name": "python-sympy",
+  "version": "1.12.1rc1-1",
+  "depends": [
+    "python-mpmath"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 204143935,
+  "transmit": 508047,
+  "disk": 36875524
+}
