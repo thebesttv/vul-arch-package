@@ -1,0 +1,16 @@
+{
+  "name": "python-owslib",
+  "version": "0.30.0-1",
+  "depends": [
+    "python-dateutil",
+    "python-pyproj",
+    "python-pytz",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196431642,
+  "transmit": 270016,
+  "disk": 10474037
+}
