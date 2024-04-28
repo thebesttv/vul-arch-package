@@ -1,0 +1,19 @@
+{
+  "name": "python-gitdb",
+  "version": "1:4.0.11-3",
+  "depends": [
+    "git",
+    "python",
+    "python-smmap"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196426683,
+  "transmit": 235912,
+  "disk": 2792797
+}
