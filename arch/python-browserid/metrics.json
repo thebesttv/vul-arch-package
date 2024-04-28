@@ -1,0 +1,16 @@
+{
+  "name": "python-browserid",
+  "version": "0.14.0-14",
+  "depends": [
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196521327,
+  "transmit": 362962,
+  "disk": 282570
+}
