@@ -1,0 +1,19 @@
+{
+  "name": "pyqt6-charts",
+  "version": "6.7.0-2",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "python",
+    "python-pyqt6",
+    "qt6-base",
+    "qt6-charts"
+  ],
+  "makedepends": [
+    "pyqt-builder",
+    "sip"
+  ],
+  "receive": 196455155,
+  "transmit": 286010,
+  "disk": 377538
+}
