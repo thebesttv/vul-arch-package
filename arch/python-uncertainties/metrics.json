@@ -1,0 +1,13 @@
+{
+  "name": "python-uncertainties",
+  "version": "3.1.7-3",
+  "depends": [
+    "python-future"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196404938,
+  "transmit": 265571,
+  "disk": 748994
+}
