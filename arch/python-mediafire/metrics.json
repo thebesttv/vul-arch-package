@@ -1,0 +1,19 @@
+{
+  "name": "python-mediafire",
+  "version": "0.6.1-2",
+  "depends": [
+    "python",
+    "python-requests",
+    "python-requests-toolbelt",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196486007,
+  "transmit": 333674,
+  "disk": 230296
+}
