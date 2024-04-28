@@ -1,0 +1,14 @@
+{
+  "name": "python-dbus-signature-pyparsing",
+  "version": "0.4.1-2",
+  "depends": [
+    "python-pyparsing"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "git"
+  ],
+  "receive": 196603944,
+  "transmit": 396232,
+  "disk": 159954
+}
