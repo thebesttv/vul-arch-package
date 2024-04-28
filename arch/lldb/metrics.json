@@ -1,0 +1,25 @@
+{
+  "name": "lldb",
+  "version": "17.0.6-2",
+  "depends": [
+    "llvm-libs",
+    "clang",
+    "gcc-libs",
+    "zlib",
+    "xz",
+    "libedit",
+    "ncurses",
+    "libxml2",
+    "python"
+  ],
+  "makedepends": [
+    "llvm",
+    "cmake",
+    "ninja",
+    "swig",
+    "python-sphinx"
+  ],
+  "receive": 207155298,
+  "transmit": 343415,
+  "disk": 75462687
+}
