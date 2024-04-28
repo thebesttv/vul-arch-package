@@ -1,0 +1,21 @@
+{
+  "name": "hamlib",
+  "version": "4.5.5-4",
+  "depends": [
+    "perl",
+    "python",
+    "lua",
+    "tcl",
+    "libxml2",
+    "libusb-compat",
+    "libtool",
+    "libuhd",
+    "libindi"
+  ],
+  "makedepends": [
+    "swig"
+  ],
+  "receive": 196480459,
+  "transmit": 334408,
+  "disk": 13683175
+}
