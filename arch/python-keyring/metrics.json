@@ -1,0 +1,19 @@
+{
+  "name": "python-keyring",
+  "version": "25.2.0-1",
+  "depends": [
+    "python-jaraco.classes",
+    "python-secretstorage",
+    "python-jaraco.functools",
+    "python-jaraco.context"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196442938,
+  "transmit": 302762,
+  "disk": 505553
+}
