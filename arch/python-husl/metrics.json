@@ -1,0 +1,16 @@
+{
+  "name": "python-husl",
+  "version": "4.0.3-12",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196567640,
+  "transmit": 389165,
+  "disk": 117716
+}
