@@ -1,0 +1,20 @@
+{
+  "name": "bullet",
+  "version": "3.25-4",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "graphviz",
+    "ttf-dejavu",
+    "mesa",
+    "glu",
+    "python",
+    "python-numpy",
+    "python-setuptools",
+    "ninja"
+  ],
+  "receive": 341149567,
+  "transmit": 1847745,
+  "disk": 482791199
+}
