@@ -1,0 +1,13 @@
+{
+  "name": "python-spinners",
+  "version": "0.0.24-5",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 197150518,
+  "transmit": 841533,
+  "disk": 131865
+}
