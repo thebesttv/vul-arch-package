@@ -1,0 +1,14 @@
+{
+  "name": "python-requests-hawk",
+  "version": "1.2.1-2",
+  "depends": [
+    "python-mohawk",
+    "python-requests"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196536845,
+  "transmit": 378781,
+  "disk": 138856
+}
