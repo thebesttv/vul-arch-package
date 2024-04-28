@@ -1,0 +1,19 @@
+{
+  "name": "python-joserfc",
+  "version": "0.9.0-2",
+  "depends": [
+    "python",
+    "python-cryptography"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel",
+    "python-pycryptodome"
+  ],
+  "receive": 196441228,
+  "transmit": 282293,
+  "disk": 3290607
+}
