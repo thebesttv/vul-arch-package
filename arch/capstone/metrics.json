@@ -1,0 +1,16 @@
+{
+  "name": "capstone",
+  "version": "5.0.1-3",
+  "depends": [],
+  "makedepends": [
+    "glibc",
+    "python",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 204493893,
+  "transmit": 465623,
+  "disk": 63634410
+}
