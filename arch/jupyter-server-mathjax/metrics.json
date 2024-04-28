@@ -1,0 +1,17 @@
+{
+  "name": "jupyter-server-mathjax",
+  "version": "0.2.6-3",
+  "depends": [
+    "jupyter-server",
+    "mathjax2"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-jupyter_packaging",
+    "python-setuptools"
+  ],
+  "receive": 196465307,
+  "transmit": 262488,
+  "disk": 13299228
+}
