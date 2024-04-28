@@ -1,0 +1,17 @@
+{
+  "name": "python-sphinxcontrib-apidoc",
+  "version": "0.4.0-2",
+  "depends": [
+    "python-sphinx",
+    "python-pbr"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196456762,
+  "transmit": 251543,
+  "disk": 223985
+}
