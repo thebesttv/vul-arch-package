@@ -1,0 +1,13 @@
+{
+  "name": "python-three-merge",
+  "version": "0.1.1-5",
+  "depends": [
+    "python-diff-match-patch"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196536714,
+  "transmit": 348341,
+  "disk": 146236
+}
