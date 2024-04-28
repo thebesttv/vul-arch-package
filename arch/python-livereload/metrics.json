@@ -1,0 +1,15 @@
+{
+  "name": "python-livereload",
+  "version": "2.6.3-6",
+  "depends": [
+    "python",
+    "python-tornado",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196490439,
+  "transmit": 346570,
+  "disk": 266459
+}
