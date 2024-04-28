@@ -1,0 +1,17 @@
+{
+  "name": "python-msgpack",
+  "version": "1.0.5-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "cython",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196515741,
+  "transmit": 344678,
+  "disk": 427780
+}
