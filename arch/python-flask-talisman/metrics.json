@@ -1,0 +1,14 @@
+{
+  "name": "python-flask-talisman",
+  "version": "1.1.0-2",
+  "depends": [
+    "python-flask",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 197667266,
+  "transmit": 897448,
+  "disk": 217361
+}
