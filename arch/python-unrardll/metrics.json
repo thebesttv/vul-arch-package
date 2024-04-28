@@ -1,0 +1,14 @@
+{
+  "name": "python-unrardll",
+  "version": "0.1.7-2",
+  "depends": [
+    "libunrar",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196467914,
+  "transmit": 268779,
+  "disk": 21734201
+}
