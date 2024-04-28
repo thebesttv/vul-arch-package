@@ -1,0 +1,13 @@
+{
+  "name": "python-logutils",
+  "version": "0.3.5-13",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196444608,
+  "transmit": 309576,
+  "disk": 257247
+}
