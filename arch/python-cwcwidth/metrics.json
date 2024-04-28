@@ -1,0 +1,17 @@
+{
+  "name": "python-cwcwidth",
+  "version": "0.1.9-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "cython",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196424005,
+  "transmit": 288554,
+  "disk": 162645
+}
