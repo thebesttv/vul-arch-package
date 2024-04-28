@@ -1,0 +1,31 @@
+{
+  "name": "cloud-init",
+  "version": "24.1-2",
+  "depends": [
+    "bash",
+    "dhclient",
+    "python",
+    "python-configobj",
+    "python-jinja",
+    "python-jsonpatch",
+    "python-jsonschema",
+    "python-netifaces",
+    "python-oauthlib",
+    "python-pyserial",
+    "python-pyyaml",
+    "python-requests",
+    "python-typing_extensions",
+    "sudo",
+    "systemd"
+  ],
+  "makedepends": [
+    "netplan",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196477414,
+  "transmit": 321234,
+  "disk": 9874172
+}
