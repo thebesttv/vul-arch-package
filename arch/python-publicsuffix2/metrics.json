@@ -1,0 +1,17 @@
+{
+  "name": "python-publicsuffix2",
+  "version": "2.20191221-8",
+  "depends": [
+    "publicsuffix-list",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196422639,
+  "transmit": 251124,
+  "disk": 542180
+}
