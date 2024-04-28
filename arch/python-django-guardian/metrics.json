@@ -1,0 +1,18 @@
+{
+  "name": "python-django-guardian",
+  "version": "2.4.0-5",
+  "depends": [
+    "python",
+    "python-django",
+    "python-django-environ"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196444701,
+  "transmit": 269765,
+  "disk": 1209167
+}
