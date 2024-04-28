@@ -1,0 +1,19 @@
+{
+  "name": "systray-x",
+  "version": "0.9.9-1",
+  "depends": [
+    "qt5-base",
+    "qt5-x11extras",
+    "thunderbird"
+  ],
+  "makedepends": [
+    "git",
+    "zip",
+    "unzip",
+    "libx11",
+    "knotifications5"
+  ],
+  "receive": 196441392,
+  "transmit": 246793,
+  "disk": 10684159
+}
