@@ -1,0 +1,13 @@
+{
+  "name": "csvlens",
+  "version": "0.9.0-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 196516620,
+  "transmit": 343231,
+  "disk": 2360592
+}
