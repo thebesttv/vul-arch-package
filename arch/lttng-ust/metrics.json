@@ -1,0 +1,18 @@
+{
+  "name": "lttng-ust",
+  "version": "2.13.8-1",
+  "depends": [],
+  "makedepends": [
+    "asciidoc",
+    "xmlto",
+    "libxml2",
+    "python",
+    "liburcu>=0.7.2",
+    "util-linux",
+    "numactl",
+    "python-setuptools"
+  ],
+  "receive": 196612612,
+  "transmit": 425221,
+  "disk": 19220534
+}
