@@ -1,0 +1,17 @@
+{
+  "name": "python-coloredlogs",
+  "version": "15.0.1-5",
+  "depends": [
+    "python",
+    "python-humanfriendly"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196617440,
+  "transmit": 434708,
+  "disk": 829415
+}
