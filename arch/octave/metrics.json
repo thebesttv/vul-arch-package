@@ -1,0 +1,35 @@
+{
+  "name": "octave",
+  "version": "9.1.0-1",
+  "depends": [
+    "fftw",
+    "curl",
+    "graphicsmagick",
+    "glpk",
+    "hdf5",
+    "qhull",
+    "arpack",
+    "glu",
+    "ghostscript",
+    "sundials",
+    "gl2ps",
+    "qscintilla-qt6",
+    "libsndfile",
+    "qt6-tools",
+    "qrupdate",
+    "pcre2"
+  ],
+  "makedepends": [
+    "gcc-fortran",
+    "suitesparse",
+    "texinfo",
+    "gnuplot",
+    "fltk",
+    "portaudio",
+    "jdk-openjdk",
+    "rapidjson"
+  ],
+  "receive": 235041968,
+  "transmit": 799425,
+  "disk": 165351154
+}
