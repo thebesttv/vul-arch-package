@@ -1,0 +1,17 @@
+{
+  "name": "python-rjsmin",
+  "version": "1.2.2-2",
+  "depends": [
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196485177,
+  "transmit": 330032,
+  "disk": 2263154
+}
