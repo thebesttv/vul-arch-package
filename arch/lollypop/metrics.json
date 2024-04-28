@@ -1,0 +1,34 @@
+{
+  "name": "lollypop",
+  "version": "1.4.37-5",
+  "depends": [
+    "dconf",
+    "gdk-pixbuf2",
+    "gobject-introspection-runtime",
+    "gst-plugins-base-libs",
+    "gst-python",
+    "gstreamer",
+    "gtk3",
+    "hicolor-icon-theme",
+    "libhandy",
+    "libsoup3",
+    "pango",
+    "python",
+    "python-beautifulsoup4",
+    "python-cairo",
+    "python-gobject",
+    "python-pillow",
+    "totem-plparser"
+  ],
+  "makedepends": [
+    "appstream-glib",
+    "git",
+    "gobject-introspection",
+    "intltool",
+    "itstool",
+    "meson"
+  ],
+  "receive": 196678345,
+  "transmit": 361233,
+  "disk": 33023719
+}
