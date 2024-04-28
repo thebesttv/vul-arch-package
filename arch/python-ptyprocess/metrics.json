@@ -1,0 +1,16 @@
+{
+  "name": "python-ptyprocess",
+  "version": "0.7.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-flit-core"
+  ],
+  "receive": 196444841,
+  "transmit": 289970,
+  "disk": 343219
+}
