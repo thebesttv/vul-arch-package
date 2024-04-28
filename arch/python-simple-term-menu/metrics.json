@@ -1,0 +1,13 @@
+{
+  "name": "python-simple-term-menu",
+  "version": "1.6.4-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196498646,
+  "transmit": 338348,
+  "disk": 319998
+}
