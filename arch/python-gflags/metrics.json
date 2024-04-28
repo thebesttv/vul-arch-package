@@ -1,0 +1,17 @@
+{
+  "name": "python-gflags",
+  "version": "3.1.2-9",
+  "depends": [
+    "python",
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196415620,
+  "transmit": 223899,
+  "disk": 388215
+}
