@@ -1,0 +1,21 @@
+{
+  "name": "python-service-identity",
+  "version": "23.1.0-2",
+  "depends": [
+    "python-attrs",
+    "python-pyasn1-modules",
+    "python-pyasn1",
+    "python-cryptography"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-fancy-pypi-readme",
+    "python-hatch-vcs"
+  ],
+  "receive": 196551479,
+  "transmit": 383684,
+  "disk": 1021556
+}
