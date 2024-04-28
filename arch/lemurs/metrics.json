@@ -1,0 +1,14 @@
+{
+  "name": "lemurs",
+  "version": "0.3.2-2",
+  "depends": [
+    "systemd",
+    "pam"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 196559588,
+  "transmit": 386106,
+  "disk": 440829
+}
