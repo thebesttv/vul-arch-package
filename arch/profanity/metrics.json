@@ -1,0 +1,31 @@
+{
+  "name": "profanity",
+  "version": "1:0.14.0-2",
+  "depends": [],
+  "makedepends": [
+    "libcurl.so",
+    "libncursesw.so",
+    "expat",
+    "glib2",
+    "libotr",
+    "libnotify.so",
+    "libgpgme.so",
+    "python",
+    "libgcrypt",
+    "libsignal-protocol-c",
+    "glibc",
+    "libreadline.so",
+    "libassuan",
+    "libgpg-error",
+    "libstrophe.so",
+    "libgtk-3.so",
+    "libxss",
+    "libx11",
+    "gdk-pixbuf2",
+    "cairo",
+    "autoconf-archive"
+  ],
+  "receive": 196576122,
+  "transmit": 367247,
+  "disk": 4648441
+}
