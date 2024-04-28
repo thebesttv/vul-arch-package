@@ -1,0 +1,16 @@
+{
+  "name": "python-ruamel.yaml.clib",
+  "version": "0.2.8-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196541946,
+  "transmit": 277728,
+  "disk": 2241108
+}
