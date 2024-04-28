@@ -1,0 +1,13 @@
+{
+  "name": "python-markdown-math",
+  "version": "0.8-7",
+  "depends": [
+    "python-markdown"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196580267,
+  "transmit": 392195,
+  "disk": 175707
+}
