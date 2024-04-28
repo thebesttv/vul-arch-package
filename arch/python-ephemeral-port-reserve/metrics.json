@@ -1,0 +1,16 @@
+{
+  "name": "python-ephemeral-port-reserve",
+  "version": "1.1.4-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196524028,
+  "transmit": 367712,
+  "disk": 112908
+}
