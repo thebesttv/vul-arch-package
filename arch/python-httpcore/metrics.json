@@ -1,0 +1,23 @@
+{
+  "name": "python-httpcore",
+  "version": "1.0.2-3",
+  "depends": [
+    "python",
+    "python-h11",
+    "python-certifi"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-fancy-pypi-readme",
+    "python-h2",
+    "python-socksio",
+    "python-trio",
+    "python-anyio",
+    "python-sniffio"
+  ],
+  "receive": 196569680,
+  "transmit": 424842,
+  "disk": 789775
+}
