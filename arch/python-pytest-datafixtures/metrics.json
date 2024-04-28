@@ -1,0 +1,17 @@
+{
+  "name": "python-pytest-datafixtures",
+  "version": "1.0.0-5",
+  "depends": [
+    "python",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196458488,
+  "transmit": 276243,
+  "disk": 134069
+}
