@@ -1,0 +1,17 @@
+{
+  "name": "python-cftime",
+  "version": "1.6.3-3",
+  "depends": [
+    "python-numpy"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196526139,
+  "transmit": 369038,
+  "disk": 446749
+}
