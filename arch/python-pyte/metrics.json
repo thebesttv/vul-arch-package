@@ -1,0 +1,16 @@
+{
+  "name": "python-pyte",
+  "version": "0.8.2-3",
+  "depends": [
+    "python-wcwidth"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196401649,
+  "transmit": 197332,
+  "disk": 624236
+}
