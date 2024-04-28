@@ -1,0 +1,16 @@
+{
+  "name": "python-ziafont",
+  "version": "0.7-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196650153,
+  "transmit": 274646,
+  "disk": 31574331
+}
