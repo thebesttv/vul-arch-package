@@ -1,0 +1,11 @@
+{
+  "name": "intel-oneapi-basekit",
+  "version": "2024.0.0.49564-3",
+  "depends": [
+    "level-zero-loader"
+  ],
+  "makedepends": [],
+  "receive": 3034203165,
+  "transmit": 7456966,
+  "disk": 2821938368
+}
