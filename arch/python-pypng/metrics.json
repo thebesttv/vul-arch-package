@@ -1,0 +1,13 @@
+{
+  "name": "python-pypng",
+  "version": "0.20231004.0-2",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196449717,
+  "transmit": 307002,
+  "disk": 595453
+}
