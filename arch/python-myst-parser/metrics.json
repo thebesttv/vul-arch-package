@@ -1,0 +1,23 @@
+{
+  "name": "python-myst-parser",
+  "version": "3.0.0-2",
+  "depends": [
+    "python",
+    "python-docutils",
+    "python-jinja",
+    "python-markdown-it-py",
+    "python-mdit_py_plugins",
+    "python-pygments",
+    "python-sphinx",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core",
+    "python-wheel"
+  ],
+  "receive": 196579338,
+  "transmit": 398388,
+  "disk": 2697756
+}
