@@ -1,0 +1,16 @@
+{
+  "name": "python-bleach",
+  "version": "6.1.0-2",
+  "depends": [
+    "python-packaging",
+    "python-six",
+    "python-webencodings"
+  ],
+  "makedepends": [
+    "python",
+    "python-setuptools"
+  ],
+  "receive": 196420534,
+  "transmit": 265128,
+  "disk": 1255460
+}
