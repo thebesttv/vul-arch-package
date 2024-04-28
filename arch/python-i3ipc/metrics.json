@@ -1,0 +1,14 @@
+{
+  "name": "python-i3ipc",
+  "version": "2.2.1-5",
+  "depends": [
+    "python",
+    "python-xlib"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196451707,
+  "transmit": 290331,
+  "disk": 394459
+}
