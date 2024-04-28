@@ -1,0 +1,22 @@
+{
+  "name": "hypercorn",
+  "version": "0.16.0-2",
+  "depends": [
+    "python",
+    "python-exceptiongroup",
+    "python-h11",
+    "python-h2",
+    "python-priority",
+    "python-tomli",
+    "python-wsproto"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196496341,
+  "transmit": 328284,
+  "disk": 2246591
+}
