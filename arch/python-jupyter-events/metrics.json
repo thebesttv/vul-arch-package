@@ -1,0 +1,22 @@
+{
+  "name": "python-jupyter-events",
+  "version": "0.10.0-2",
+  "depends": [
+    "python",
+    "python-click",
+    "python-json-logger",
+    "python-jsonschema",
+    "python-referencing",
+    "python-rich",
+    "python-traitlets",
+    "python-yaml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-hatchling",
+    "python-installer"
+  ],
+  "receive": 196562750,
+  "transmit": 385882,
+  "disk": 386811
+}
