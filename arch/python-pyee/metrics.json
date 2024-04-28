@@ -1,0 +1,16 @@
+{
+  "name": "python-pyee",
+  "version": "11.0.1-2",
+  "depends": [
+    "python-typing_extensions"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196598527,
+  "transmit": 448876,
+  "disk": 267873
+}
