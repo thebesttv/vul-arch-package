@@ -1,0 +1,21 @@
+{
+  "name": "python-softlayer",
+  "version": "6.1.4-3",
+  "depends": [
+    "python-six",
+    "python-prettytable",
+    "python-click",
+    "python-requests",
+    "python-prompt_toolkit",
+    "python-pygments",
+    "python-urllib3",
+    "python-rich"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools"
+  ],
+  "receive": 196569181,
+  "transmit": 421032,
+  "disk": 22491067
+}
