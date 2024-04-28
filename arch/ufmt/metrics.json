@@ -1,0 +1,23 @@
+{
+  "name": "ufmt",
+  "version": "2.1.0-2",
+  "depends": [
+    "python-black",
+    "python-click",
+    "python-libcst",
+    "python-moreorless",
+    "python-tomlkit",
+    "python-trailrunner",
+    "python-typing_extensions",
+    "usort"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-flit-core",
+    "python-wheel"
+  ],
+  "receive": 196458609,
+  "transmit": 274586,
+  "disk": 343868
+}
