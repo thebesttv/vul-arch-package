@@ -1,0 +1,19 @@
+{
+  "name": "python-pytest-metadata",
+  "version": "3.1.1-2",
+  "depends": [
+    "python",
+    "python-pluggy",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-vcs",
+    "python-wheel"
+  ],
+  "receive": 196545502,
+  "transmit": 388321,
+  "disk": 171104
+}
