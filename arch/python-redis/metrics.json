@@ -1,0 +1,18 @@
+{
+  "name": "python-redis",
+  "version": "5.0.1-2",
+  "depends": [
+    "python",
+    "python-async-timeout"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196607038,
+  "transmit": 400944,
+  "disk": 121107069
+}
