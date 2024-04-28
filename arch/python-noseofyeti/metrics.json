@@ -1,0 +1,16 @@
+{
+  "name": "python-noseofyeti",
+  "version": "2.4.8-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-build",
+    "python-installer",
+    "python-hatchling"
+  ],
+  "receive": 196515574,
+  "transmit": 357781,
+  "disk": 1087154
+}
