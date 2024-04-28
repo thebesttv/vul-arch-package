@@ -1,0 +1,20 @@
+{
+  "name": "canto-curses",
+  "version": "0.9.9-6",
+  "depends": [
+    "canto-daemon",
+    "glibc",
+    "python"
+  ],
+  "makedepends": [
+    "ncurses",
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "readline"
+  ],
+  "receive": 196456067,
+  "transmit": 316378,
+  "disk": 515896
+}
