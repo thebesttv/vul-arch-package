@@ -1,0 +1,13 @@
+{
+  "name": "python-pygaljs",
+  "version": "1.0.2-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196506074,
+  "transmit": 368074,
+  "disk": 490299
+}
