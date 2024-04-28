@@ -1,0 +1,19 @@
+{
+  "name": "python-iwlib",
+  "version": "1.7.0-6",
+  "depends": [
+    "glibc",
+    "python",
+    "python-cffi",
+    "wireless_tools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196600322,
+  "transmit": 394756,
+  "disk": 168331
+}
