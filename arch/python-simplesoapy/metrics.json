@@ -1,0 +1,15 @@
+{
+  "name": "python-simplesoapy",
+  "version": "1.5.1-11",
+  "depends": [
+    "python",
+    "python-numpy",
+    "soapysdr"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196369517,
+  "transmit": 225542,
+  "disk": 122514
+}
