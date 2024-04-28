@@ -1,0 +1,14 @@
+{
+  "name": "python-plop",
+  "version": "0.4.0-6",
+  "depends": [
+    "python-six",
+    "python-tornado"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196398485,
+  "transmit": 245965,
+  "disk": 163941
+}
