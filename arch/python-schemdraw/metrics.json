@@ -1,0 +1,16 @@
+{
+  "name": "python-schemdraw",
+  "version": "0.16-3",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools"
+  ],
+  "receive": 196460757,
+  "transmit": 276532,
+  "disk": 12503244
+}
