@@ -1,0 +1,14 @@
+{
+  "name": "rustic",
+  "version": "0.7.0-3",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 196468857,
+  "transmit": 259311,
+  "disk": 1392083
+}
