@@ -1,0 +1,17 @@
+{
+  "name": "python-hunter",
+  "version": "3.6.0-2",
+  "depends": [
+    "python-colorama",
+    "python-cymem",
+    "python-manhole"
+  ],
+  "makedepends": [
+    "python-setuptools-scm",
+    "python-wheel",
+    "cython"
+  ],
+  "receive": 196473677,
+  "transmit": 276969,
+  "disk": 4795090
+}
