@@ -1,0 +1,14 @@
+{
+  "name": "python-rawkit",
+  "version": "0.6.0-14",
+  "depends": [
+    "libraw",
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196530631,
+  "transmit": 385744,
+  "disk": 451940
+}
