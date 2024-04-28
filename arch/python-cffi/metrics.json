@@ -1,0 +1,16 @@
+{
+  "name": "python-cffi",
+  "version": "1.16.0-2",
+  "depends": [
+    "python-pycparser"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196580926,
+  "transmit": 371273,
+  "disk": 2968274
+}
