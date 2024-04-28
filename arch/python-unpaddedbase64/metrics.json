@@ -1,0 +1,15 @@
+{
+  "name": "python-unpaddedbase64",
+  "version": "2.1.0-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 196492982,
+  "transmit": 343017,
+  "disk": 136853
+}
