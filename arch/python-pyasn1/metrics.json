@@ -1,0 +1,16 @@
+{
+  "name": "python-pyasn1",
+  "version": "0.5.1-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196948022,
+  "transmit": 539076,
+  "disk": 1276211
+}
