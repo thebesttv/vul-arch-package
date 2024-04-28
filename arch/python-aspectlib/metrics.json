@@ -1,0 +1,17 @@
+{
+  "name": "python-aspectlib",
+  "version": "1.5.2-8",
+  "depends": [
+    "python",
+    "python-fields"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196625654,
+  "transmit": 402622,
+  "disk": 669582
+}
