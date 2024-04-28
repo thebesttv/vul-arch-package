@@ -1,0 +1,14 @@
+{
+  "name": "python-poetry-plugin-export",
+  "version": "1.5.0-3",
+  "depends": [
+    "python-poetry"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196681577,
+  "transmit": 495818,
+  "disk": 570856
+}
