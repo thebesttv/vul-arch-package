@@ -1,0 +1,16 @@
+{
+  "name": "python-flask-principal",
+  "version": "0.4.0-10",
+  "depends": [
+    "python",
+    "python-flask"
+  ],
+  "makedepends": [
+    "python-blinker",
+    "python-sphinx",
+    "python-setuptools"
+  ],
+  "receive": 196402004,
+  "transmit": 237497,
+  "disk": 183706
+}
