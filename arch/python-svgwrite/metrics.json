@@ -1,0 +1,17 @@
+{
+  "name": "python-svgwrite",
+  "version": "1.4.3-3",
+  "depends": [
+    "python",
+    "python-pyparsing"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196559363,
+  "transmit": 405748,
+  "disk": 1922863
+}
