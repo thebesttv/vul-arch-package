@@ -1,0 +1,13 @@
+{
+  "name": "python-ldap3",
+  "version": "2.9.1-5",
+  "depends": [
+    "python-pyasn1"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196399625,
+  "transmit": 254218,
+  "disk": 6373445
+}
