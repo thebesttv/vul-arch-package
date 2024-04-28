@@ -1,0 +1,13 @@
+{
+  "name": "python-flup",
+  "version": "1.0.3-10",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196539669,
+  "transmit": 403444,
+  "disk": 410712
+}
