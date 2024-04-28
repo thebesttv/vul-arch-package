@@ -1,0 +1,44 @@
+files,language,blank,comment,code,"github.com/AlDanial/cloc v 2.00  T=8.97 s (441.9 files/s 254242.4 lines/s)"
+1950,Python,136946,158235,638172
+365,C,60390,57353,411383
+492,C/C++ Header,21558,11905,206865
+492,reStructuredText,85400,106890,102701
+134,Text,2830,0,96067
+23,JSON,3,0,68819
+194,XML,362,144,44072
+18,Bourne Shell,5682,2792,29923
+2,m4,721,300,7172
+7,C++,819,338,3719
+67,TOML,83,115,2420
+11,HTML,144,0,2309
+32,DOS Batch,365,113,1790
+47,WiX source,169,44,1742
+2,Visual Studio Solution,1,2,1677
+10,Markdown,336,0,1120
+7,Objective-C,98,61,635
+27,MSBuild script,41,3,630
+6,Windows Module Definition,23,12,557
+6,diff,17,277,542
+1,Lisp,109,81,502
+7,PowerShell,87,179,352
+4,make,83,43,346
+6,Windows Resource File,37,52,242
+2,Fortran 77,116,0,200
+11,WiX string localization,19,0,180
+6,INI,59,27,179
+2,JavaScript,9,9,124
+2,PHP,34,17,108
+1,CSS,27,4,81
+5,D,8,1,74
+3,YAML,7,4,62
+3,Bourne Again Shell,10,2,56
+1,Fish Shell,13,14,42
+2,Assembly,2,39,33
+1,IDL,0,0,24
+1,Dockerfile,6,0,18
+2,XSLT,5,12,16
+1,C Shell,10,5,12
+9,SVG,0,0,9
+1,DTD,4,0,2
+1,Visual Basic Script,0,1,0
+3964,SUM,316633,339074,1624977
