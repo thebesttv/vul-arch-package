@@ -1,0 +1,14 @@
+{
+  "name": "python-zict",
+  "version": "3.0.0-1",
+  "depends": [
+    "python",
+    "python-heapdict"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196502948,
+  "transmit": 319903,
+  "disk": 277457
+}
