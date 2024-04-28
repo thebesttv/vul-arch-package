@@ -1,0 +1,13 @@
+{
+  "name": "python-pyserial",
+  "version": "3.5-6",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 196591382,
+  "transmit": 391124,
+  "disk": 913840
+}
