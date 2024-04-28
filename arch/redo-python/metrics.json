@@ -1,0 +1,15 @@
+{
+  "name": "redo-python",
+  "version": "0.42.d-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "git",
+    "python-beautifulsoup4",
+    "python-markdown"
+  ],
+  "receive": 196555793,
+  "transmit": 406172,
+  "disk": 2476855
+}
