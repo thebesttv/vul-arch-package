@@ -1,0 +1,20 @@
+{
+  "name": "python-nbsphinx",
+  "version": "0.9.3-1",
+  "depends": [
+    "python-docutils",
+    "python-jinja",
+    "jupyter-nbconvert",
+    "jupyter-nbformat",
+    "python-sphinx"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-setuptools-scm"
+  ],
+  "receive": 196604079,
+  "transmit": 459822,
+  "disk": 760909
+}
