@@ -1,0 +1,12 @@
+{
+  "name": "cockpit-machines",
+  "version": "312-1",
+  "depends": [
+    "cockpit",
+    "libvirt-dbus"
+  ],
+  "makedepends": [],
+  "receive": 196568530,
+  "transmit": 367961,
+  "disk": 10576816
+}
