@@ -1,0 +1,19 @@
+{
+  "name": "libcomps",
+  "version": "0.1.21-2",
+  "depends": [
+    "expat",
+    "libxml2",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "python",
+    "python-setuptools",
+    "doxygen",
+    "python-sphinx"
+  ],
+  "receive": 196438721,
+  "transmit": 285658,
+  "disk": 18641879
+}
