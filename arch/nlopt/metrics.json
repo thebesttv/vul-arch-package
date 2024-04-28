@@ -1,0 +1,17 @@
+{
+  "name": "nlopt",
+  "version": "2.7.1-10",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "python-numpy",
+    "octave",
+    "guile",
+    "swig"
+  ],
+  "receive": 196466254,
+  "transmit": 291714,
+  "disk": 6302480
+}
