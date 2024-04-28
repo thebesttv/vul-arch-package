@@ -1,0 +1,14 @@
+{
+  "name": "lapack",
+  "version": "3.12.0-5",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "doxygen",
+    "gcc-fortran",
+    "python"
+  ],
+  "receive": 205282921,
+  "transmit": 745044,
+  "disk": 73251362
+}
