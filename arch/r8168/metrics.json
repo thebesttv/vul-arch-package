@@ -1,0 +1,11 @@
+{
+  "name": "r8168",
+  "version": "8.053.00-2",
+  "depends": [],
+  "makedepends": [
+    "linux-headers"
+  ],
+  "receive": 196390339,
+  "transmit": 254258,
+  "disk": 2344071
+}
