@@ -1,0 +1,17 @@
+{
+  "name": "python-apscheduler",
+  "version": "3.10.1-2",
+  "depends": [
+    "python-setuptools",
+    "python-six",
+    "python-pytz",
+    "python-tzlocal"
+  ],
+  "makedepends": [
+    "git",
+    "python-setuptools-scm"
+  ],
+  "receive": 196575047,
+  "transmit": 400037,
+  "disk": 7832329
+}
