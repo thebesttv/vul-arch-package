@@ -1,0 +1,16 @@
+{
+  "name": "python-vistir",
+  "version": "0.8.0-4",
+  "depends": [
+    "python-colorama"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-wheel",
+    "python-build",
+    "python-installer"
+  ],
+  "receive": 196624446,
+  "transmit": 425159,
+  "disk": 1649753
+}
