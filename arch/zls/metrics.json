@@ -1,0 +1,11 @@
+{
+  "name": "zls",
+  "version": "0.12.0-1",
+  "depends": [
+    "zig"
+  ],
+  "makedepends": [],
+  "receive": 196900968,
+  "transmit": 342657,
+  "disk": 2590653
+}
