@@ -1,0 +1,13 @@
+{
+  "name": "ncdu",
+  "version": "2.4-1",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [
+    "zig"
+  ],
+  "receive": 196431083,
+  "transmit": 256397,
+  "disk": 388187
+}
