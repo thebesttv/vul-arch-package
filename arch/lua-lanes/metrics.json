@@ -1,0 +1,15 @@
+{
+  "name": "lua-lanes",
+  "version": "3.17.0-1",
+  "depends": [],
+  "makedepends": [
+    "lua",
+    "lua51",
+    "lua52",
+    "lua53",
+    "luarocks"
+  ],
+  "receive": 196603821,
+  "transmit": 413648,
+  "disk": 1769584
+}
