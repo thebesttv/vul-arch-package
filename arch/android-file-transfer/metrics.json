@@ -1,0 +1,19 @@
+{
+  "name": "android-file-transfer",
+  "version": "4.3-1",
+  "depends": [
+    "qt5-base",
+    "fuse2",
+    "libxkbcommon-x11",
+    "hicolor-icon-theme",
+    "file",
+    "android-udev"
+  ],
+  "makedepends": [
+    "cmake",
+    "qt5-tools"
+  ],
+  "receive": 196599842,
+  "transmit": 419416,
+  "disk": 2711739
+}
