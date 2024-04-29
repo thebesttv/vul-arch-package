@@ -1,0 +1,16 @@
+{
+  "name": "python-libevdev",
+  "version": "0.11-4",
+  "depends": [
+    "python",
+    "libevdev"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-sphinx",
+    "python-sphinx_rtd_theme"
+  ],
+  "receive": 196482966,
+  "transmit": 312068,
+  "disk": 333468
+}
