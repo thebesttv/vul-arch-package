@@ -1,0 +1,18 @@
+{
+  "name": "jujutsu",
+  "version": "0.16.0-3",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "openssl",
+    "libgit2",
+    "libgit2.so",
+    "zstd"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 196673150,
+  "transmit": 500836,
+  "disk": 6808484
+}
