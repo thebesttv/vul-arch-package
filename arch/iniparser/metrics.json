@@ -1,0 +1,13 @@
+{
+  "name": "iniparser",
+  "version": "4.2-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "chrpath"
+  ],
+  "receive": 196509515,
+  "transmit": 339701,
+  "disk": 512535
+}
