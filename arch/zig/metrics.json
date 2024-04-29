@@ -1,0 +1,16 @@
+{
+  "name": "zig",
+  "version": "0.12.0-1",
+  "depends": [
+    "clang",
+    "lld",
+    "llvm-libs"
+  ],
+  "makedepends": [
+    "cmake",
+    "llvm"
+  ],
+  "receive": 213857932,
+  "transmit": 429160,
+  "disk": 205478169
+}
