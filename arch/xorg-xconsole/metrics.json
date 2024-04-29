@@ -1,0 +1,17 @@
+{
+  "name": "xorg-xconsole",
+  "version": "1.1.0-1",
+  "depends": [
+    "libxaw",
+    "libxmu",
+    "libxt",
+    "libx11",
+    "glibc"
+  ],
+  "makedepends": [
+    "xorg-util-macros"
+  ],
+  "receive": 198698510,
+  "transmit": 1339577,
+  "disk": 1036175
+}
