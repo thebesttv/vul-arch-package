@@ -1,0 +1,11 @@
+{
+  "name": "nmon",
+  "version": "16q-1",
+  "depends": [
+    "ncurses"
+  ],
+  "makedepends": [],
+  "receive": 196434856,
+  "transmit": 278602,
+  "disk": 426401
+}
