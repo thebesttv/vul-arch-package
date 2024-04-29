@@ -1,0 +1,19 @@
+{
+  "name": "python-pytest-aiohttp",
+  "version": "1.0.5-3",
+  "depends": [
+    "python",
+    "python-pytest",
+    "python-aiohttp"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-setuptools-scm",
+    "python-wheel"
+  ],
+  "receive": 196653779,
+  "transmit": 453821,
+  "disk": 165241
+}
