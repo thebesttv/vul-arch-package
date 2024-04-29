@@ -1,0 +1,24 @@
+{
+  "name": "lxc",
+  "version": "1:6.0.0-4",
+  "depends": [
+    "bash",
+    "perl",
+    "libseccomp",
+    "libcap",
+    "python",
+    "rsync",
+    "wget"
+  ],
+  "makedepends": [
+    "docbook2x",
+    "systemd",
+    "meson",
+    "lua",
+    "python-setuptools",
+    "apparmor"
+  ],
+  "receive": 196411594,
+  "transmit": 244187,
+  "disk": 5605291
+}
