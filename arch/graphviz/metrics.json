@@ -1,0 +1,27 @@
+{
+  "name": "graphviz",
+  "version": "11.0.0-1",
+  "depends": [
+    "libltdl",
+    "gd",
+    "librsvg",
+    "ghostscript",
+    "pango",
+    "gts",
+    "gsfonts"
+  ],
+  "makedepends": [
+    "swig",
+    "mono",
+    "guile",
+    "lua",
+    "perl",
+    "python",
+    "r",
+    "tk",
+    "qt6-base"
+  ],
+  "receive": 196537675,
+  "transmit": 292054,
+  "disk": 105829492
+}
