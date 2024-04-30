@@ -1,0 +1,13 @@
+{
+  "name": "openssl",
+  "version": "3.3.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "perl"
+  ],
+  "receive": 215056754,
+  "transmit": 429877,
+  "disk": 84085427
+}
