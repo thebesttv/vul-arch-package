@@ -1,0 +1,24 @@
+{
+  "name": "git",
+  "version": "2.45.0-1",
+  "depends": [
+    "curl",
+    "expat",
+    "perl",
+    "perl-error",
+    "perl-mailtools",
+    "openssl",
+    "pcre2",
+    "grep",
+    "shadow",
+    "zlib"
+  ],
+  "makedepends": [
+    "python",
+    "xmlto",
+    "asciidoc"
+  ],
+  "receive": 196844723,
+  "transmit": 289083,
+  "disk": 52282837
+}
