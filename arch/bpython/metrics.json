@@ -1,0 +1,20 @@
+{
+  "name": "bpython",
+  "version": "0.24-5",
+  "depends": [
+    "python-pygments",
+    "python-requests",
+    "python-curtsies",
+    "python-greenlet",
+    "python-pyxdg"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 196837785,
+  "transmit": 314151,
+  "disk": 1250131
+}
