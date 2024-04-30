@@ -1,0 +1,18 @@
+{
+  "name": "fnott",
+  "version": "1.6.0-1",
+  "depends": [
+    "dbus",
+    "fcft",
+    "wayland"
+  ],
+  "makedepends": [
+    "meson",
+    "tllist",
+    "scdoc",
+    "wayland-protocols"
+  ],
+  "receive": 197114576,
+  "transmit": 578001,
+  "disk": 1536559
+}
