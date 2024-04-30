@@ -1,0 +1,16 @@
+{
+  "name": "python-async-timeout",
+  "version": "4.0.3-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196675456,
+  "transmit": 365470,
+  "disk": 185112
+}
