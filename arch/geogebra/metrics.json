@@ -1,0 +1,12 @@
+{
+  "name": "geogebra",
+  "version": "1:5.2.840.0-1",
+  "depends": [
+    "java-runtime",
+    "sh"
+  ],
+  "makedepends": [],
+  "receive": 262038380,
+  "transmit": 753457,
+  "disk": 227592266
+}
