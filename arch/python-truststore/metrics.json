@@ -1,0 +1,16 @@
+{
+  "name": "python-truststore",
+  "version": "0.9.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-flit-core",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196688298,
+  "transmit": 360738,
+  "disk": 253839
+}
