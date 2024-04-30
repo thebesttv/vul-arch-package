@@ -1,0 +1,26 @@
+{
+  "name": "niri",
+  "version": "0.1.5-4",
+  "depends": [
+    "cairo",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "libinput",
+    "libpipewire",
+    "libxkbcommon",
+    "mesa",
+    "pango",
+    "pixman",
+    "seatd",
+    "systemd-libs",
+    "xdg-desktop-portal-impl"
+  ],
+  "makedepends": [
+    "clang",
+    "rust"
+  ],
+  "receive": 196562748,
+  "transmit": 269099,
+  "disk": 1880283
+}
