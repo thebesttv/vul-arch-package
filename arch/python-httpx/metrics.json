@@ -1,0 +1,22 @@
+{
+  "name": "python-httpx",
+  "version": "0.27.0-1",
+  "depends": [
+    "python",
+    "python-certifi",
+    "python-httpcore",
+    "python-idna",
+    "python-sniffio",
+    "python-anyio"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-hatchling",
+    "python-hatch-fancy-pypi-readme",
+    "python-pygments"
+  ],
+  "receive": 197089992,
+  "transmit": 365689,
+  "disk": 5364133
+}
