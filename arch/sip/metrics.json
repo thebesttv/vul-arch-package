@@ -1,0 +1,17 @@
+{
+  "name": "sip",
+  "version": "6.8.3-3",
+  "depends": [
+    "python",
+    "python-packaging",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 196669820,
+  "transmit": 358894,
+  "disk": 6494913
+}
