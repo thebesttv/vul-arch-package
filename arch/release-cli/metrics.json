@@ -1,0 +1,13 @@
+{
+  "name": "release-cli",
+  "version": "0.18.0-1",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 196778786,
+  "transmit": 432471,
+  "disk": 442906
+}
