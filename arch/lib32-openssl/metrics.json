@@ -1,0 +1,12 @@
+{
+  "name": "lib32-openssl",
+  "version": "1:3.3.0-1",
+  "depends": [
+    "lib32-glibc",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 214870690,
+  "transmit": 336441,
+  "disk": 84016208
+}
