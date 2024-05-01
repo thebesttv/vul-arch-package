@@ -1,0 +1,27 @@
+{
+  "name": "ospray",
+  "version": "3.1.0-2",
+  "depends": [
+    "embree",
+    "gcc-libs",
+    "glibc",
+    "ispc",
+    "onetbb",
+    "openmpi",
+    "openimagedenoise",
+    "openvkl",
+    "rkcommon",
+    "snappy"
+  ],
+  "makedepends": [
+    "cmake",
+    "benchmark",
+    "glu",
+    "gtest",
+    "level-zero-headers",
+    "level-zero-loader"
+  ],
+  "receive": 200099130,
+  "transmit": 266705,
+  "disk": 10988693
+}
