@@ -1,0 +1,13 @@
+{
+  "name": "python-beaker",
+  "version": "1.13.0-1",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 198033029,
+  "transmit": 324392,
+  "disk": 622959
+}
