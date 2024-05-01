@@ -1,0 +1,17 @@
+{
+  "name": "python-tabulate",
+  "version": "0.9.0-4",
+  "depends": [
+    "python"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools-scm",
+    "python-toml",
+    "python-wheel"
+  ],
+  "receive": 198020465,
+  "transmit": 370211,
+  "disk": 588864
+}
