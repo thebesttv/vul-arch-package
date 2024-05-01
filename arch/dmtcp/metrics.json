@@ -1,0 +1,26 @@
+{
+  "name": "dmtcp",
+  "version": "2.6.1rc1-4",
+  "depends": [
+    "bash",
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "dash",
+    "emacs",
+    "gdb",
+    "java-environment",
+    "openmpi",
+    "procps-ng",
+    "python",
+    "screen",
+    "strace",
+    "tcsh",
+    "vim",
+    "zsh"
+  ],
+  "receive": 197962920,
+  "transmit": 293184,
+  "disk": 6745968
+}
