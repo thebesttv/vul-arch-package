@@ -1,0 +1,16 @@
+{
+  "name": "fftw",
+  "version": "3.3.10-7",
+  "depends": [],
+  "makedepends": [
+    "bash",
+    "cmake",
+    "gcc-fortran",
+    "gcc-libs",
+    "glibc",
+    "openmpi"
+  ],
+  "receive": 202277270,
+  "transmit": 424693,
+  "disk": 21507586
+}
