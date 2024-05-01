@@ -1,0 +1,14 @@
+{
+  "name": "pnetcdf-openmpi",
+  "version": "1.12.3-5",
+  "depends": [
+    "openmpi",
+    "netcdf-openmpi"
+  ],
+  "makedepends": [
+    "gcc-fortran"
+  ],
+  "receive": 198053148,
+  "transmit": 374830,
+  "disk": 16412130
+}
