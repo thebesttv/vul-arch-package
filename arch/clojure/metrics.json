@@ -1,0 +1,14 @@
+{
+  "name": "clojure",
+  "version": "1.11.3.1456-1",
+  "depends": [
+    "bash",
+    "java-environment"
+  ],
+  "makedepends": [
+    "setconf"
+  ],
+  "receive": 198070332,
+  "transmit": 427901,
+  "disk": 32446187
+}
