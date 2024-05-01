@@ -1,0 +1,17 @@
+{
+  "name": "mousepad",
+  "version": "0.6.2-2",
+  "depends": [
+    "gtksourceview4",
+    "desktop-file-utils",
+    "hicolor-icon-theme"
+  ],
+  "makedepends": [
+    "gspell",
+    "libxfce4ui",
+    "polkit"
+  ],
+  "receive": 198914049,
+  "transmit": 319145,
+  "disk": 10743631
+}
