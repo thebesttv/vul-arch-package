@@ -1,0 +1,33 @@
+{
+  "name": "adios2",
+  "version": "2.10.0-2",
+  "depends": [
+    "blosc",
+    "bzip2",
+    "glibc",
+    "gcc-libs",
+    "hdf5",
+    "libfabric",
+    "libpng",
+    "nlohmann-json",
+    "openmpi",
+    "pugixml",
+    "pybind11",
+    "sz",
+    "yaml-cpp",
+    "zeromq",
+    "zfp",
+    "zlib"
+  ],
+  "makedepends": [
+    "cmake",
+    "gcc-fortran",
+    "gtest",
+    "python",
+    "python-mpi4py",
+    "python-numpy"
+  ],
+  "receive": 198041832,
+  "transmit": 349884,
+  "disk": 43575311
+}
