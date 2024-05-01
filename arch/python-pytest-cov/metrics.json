@@ -1,0 +1,14 @@
+{
+  "name": "python-pytest-cov",
+  "version": "4.1.0-5",
+  "depends": [
+    "python-coverage",
+    "python-pytest"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 198062120,
+  "transmit": 400880,
+  "disk": 437205
+}
