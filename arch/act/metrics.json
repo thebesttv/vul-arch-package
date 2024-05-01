@@ -1,0 +1,11 @@
+{
+  "name": "act",
+  "version": "0.2.62-1",
+  "depends": [],
+  "makedepends": [
+    "go"
+  ],
+  "receive": 207631954,
+  "transmit": 453044,
+  "disk": 56371475
+}
