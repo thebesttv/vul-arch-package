@@ -1,0 +1,12 @@
+{
+  "name": "openntpd",
+  "version": "6.8p1-8",
+  "depends": [
+    "glibc",
+    "libretls"
+  ],
+  "makedepends": [],
+  "receive": 197939498,
+  "transmit": 289693,
+  "disk": 2458088
+}
