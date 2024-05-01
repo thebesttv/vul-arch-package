@@ -1,0 +1,14 @@
+{
+  "name": "fdm",
+  "version": "2.2-3",
+  "depends": [
+    "openssl",
+    "pcre2",
+    "tdb",
+    "zlib"
+  ],
+  "makedepends": [],
+  "receive": 197950363,
+  "transmit": 264419,
+  "disk": 1762755
+}
