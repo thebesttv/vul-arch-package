@@ -1,0 +1,17 @@
+{
+  "name": "python-rdflib",
+  "version": "7.0.0-4",
+  "depends": [
+    "python-isodate",
+    "python-pyparsing",
+    "python-setuptools"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-poetry-core"
+  ],
+  "receive": 198056228,
+  "transmit": 369202,
+  "disk": 51025145
+}
