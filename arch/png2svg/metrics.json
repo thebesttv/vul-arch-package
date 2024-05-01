@@ -1,0 +1,12 @@
+{
+  "name": "png2svg",
+  "version": "1.5.4-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "go"
+  ],
+  "receive": 209031382,
+  "transmit": 407415,
+  "disk": 31463795
+}
