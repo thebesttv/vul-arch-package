@@ -1,0 +1,18 @@
+{
+  "name": "qcad",
+  "version": "3.29.6.4-1",
+  "depends": [
+    "qt5-script",
+    "qt5-svg",
+    "gcc-libs",
+    "qt5-xmlpatterns",
+    "qt5-tools",
+    "qt5-wayland"
+  ],
+  "makedepends": [
+    "glu"
+  ],
+  "receive": 242434849,
+  "transmit": 849916,
+  "disk": 341136733
+}
