@@ -1,0 +1,19 @@
+{
+  "name": "hdf5-openmpi",
+  "version": "1.14.3-3",
+  "depends": [
+    "zlib",
+    "libaec",
+    "bash",
+    "openmpi"
+  ],
+  "makedepends": [
+    "cmake",
+    "time",
+    "gcc-fortran",
+    "java-environment"
+  ],
+  "receive": 214700127,
+  "transmit": 557975,
+  "disk": 156349406
+}
