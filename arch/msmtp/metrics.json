@@ -1,0 +1,13 @@
+{
+  "name": "msmtp",
+  "version": "1.8.26-1",
+  "depends": [],
+  "makedepends": [
+    "libsecret",
+    "gsasl",
+    "texlive-plaingeneric"
+  ],
+  "receive": 198021352,
+  "transmit": 293276,
+  "disk": 3536636
+}
