@@ -1,0 +1,11 @@
+{
+  "name": "bmake",
+  "version": "20240309-2",
+  "depends": [],
+  "makedepends": [
+    "bc"
+  ],
+  "receive": 198222191,
+  "transmit": 455394,
+  "disk": 4167507
+}
