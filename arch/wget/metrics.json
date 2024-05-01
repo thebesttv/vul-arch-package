@@ -1,0 +1,22 @@
+{
+  "name": "wget",
+  "version": "1.24.5-2",
+  "depends": [
+    "glibc",
+    "zlib",
+    "gnutls",
+    "libidn2",
+    "libidn2.so",
+    "util-linux-libs",
+    "libuuid.so",
+    "libpsl",
+    "libpsl.so",
+    "pcre2",
+    "nettle",
+    "libnettle.so"
+  ],
+  "makedepends": [],
+  "receive": 198405297,
+  "transmit": 633415,
+  "disk": 25323531
+}
