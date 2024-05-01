@@ -1,0 +1,18 @@
+{
+  "name": "python-mpi4py",
+  "version": "3.1.5-5",
+  "depends": [
+    "python",
+    "openmpi"
+  ],
+  "makedepends": [
+    "cython",
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 198074471,
+  "transmit": 422705,
+  "disk": 20140245
+}
