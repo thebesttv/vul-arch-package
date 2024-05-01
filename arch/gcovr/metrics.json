@@ -1,0 +1,20 @@
+{
+  "name": "gcovr",
+  "version": "7.2-2",
+  "depends": [
+    "python",
+    "python-jinja",
+    "python-lxml",
+    "gcc",
+    "python-colorlog"
+  ],
+  "makedepends": [
+    "python-setuptools",
+    "python-build",
+    "python-installer",
+    "python-wheel"
+  ],
+  "receive": 198583389,
+  "transmit": 649535,
+  "disk": 37371886
+}
