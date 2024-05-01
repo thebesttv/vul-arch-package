@@ -1,0 +1,16 @@
+{
+  "name": "megatools",
+  "version": "1.11.1+20230212-3",
+  "depends": [
+    "curl",
+    "glib2"
+  ],
+  "makedepends": [
+    "asciidoc",
+    "docbook2x",
+    "meson"
+  ],
+  "receive": 197976316,
+  "transmit": 327885,
+  "disk": 706361
+}
