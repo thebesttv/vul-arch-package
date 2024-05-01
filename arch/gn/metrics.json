@@ -1,0 +1,16 @@
+{
+  "name": "gn",
+  "version": "0.2165.f284b6b4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "clang",
+    "ninja",
+    "python",
+    "git"
+  ],
+  "receive": 264310683,
+  "transmit": 424316,
+  "disk": 73495767
+}
