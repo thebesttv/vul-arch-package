@@ -1,0 +1,11 @@
+{
+  "name": "xclip",
+  "version": "0.13-5",
+  "depends": [
+    "libxmu"
+  ],
+  "makedepends": [],
+  "receive": 197987187,
+  "transmit": 348306,
+  "disk": 222209
+}
