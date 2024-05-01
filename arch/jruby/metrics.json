@@ -1,0 +1,14 @@
+{
+  "name": "jruby",
+  "version": "9.4.7.0-1",
+  "depends": [
+    "bash",
+    "gcc-libs",
+    "glibc",
+    "java-runtime-headless"
+  ],
+  "makedepends": [],
+  "receive": 198065759,
+  "transmit": 334363,
+  "disk": 81525277
+}
