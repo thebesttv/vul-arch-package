@@ -1,0 +1,12 @@
+{
+  "name": "cargo-deb",
+  "version": "2.2.0-1",
+  "depends": [
+    "cargo",
+    "xz"
+  ],
+  "makedepends": [],
+  "receive": 197913895,
+  "transmit": 267893,
+  "disk": 596460
+}
