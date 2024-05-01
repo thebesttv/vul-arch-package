@@ -1,0 +1,14 @@
+{
+  "name": "tnftp",
+  "version": "20230507-3",
+  "depends": [
+    "glibc",
+    "ncurses",
+    "libncursesw.so",
+    "openssl"
+  ],
+  "makedepends": [],
+  "receive": 198752728,
+  "transmit": 387404,
+  "disk": 3694618
+}
