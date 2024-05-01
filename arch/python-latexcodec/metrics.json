@@ -1,0 +1,13 @@
+{
+  "name": "python-latexcodec",
+  "version": "2.0.1-8",
+  "depends": [
+    "python-six"
+  ],
+  "makedepends": [
+    "python-setuptools"
+  ],
+  "receive": 198098959,
+  "transmit": 429705,
+  "disk": 270279
+}
