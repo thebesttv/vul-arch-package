@@ -1,0 +1,31 @@
+{
+  "name": "avogadrolibs",
+  "version": "1.99.0-3",
+  "depends": [],
+  "makedepends": [
+    "boost",
+    "cmake",
+    "eigen",
+    "fast_float",
+    "fmt",
+    "hdf5",
+    "genxrdpattern",
+    "glew",
+    "libmsym",
+    "mmtf-cpp",
+    "nlohmann-json",
+    "openmpi",
+    "pybind11",
+    "python",
+    "qt5-svg",
+    "qt5-tools",
+    "spglib",
+    "tbb",
+    "utf8cpp",
+    "verdict",
+    "vtk"
+  ],
+  "receive": 197995329,
+  "transmit": 303346,
+  "disk": 29374130
+}
