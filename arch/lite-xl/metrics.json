@@ -1,0 +1,17 @@
+{
+  "name": "lite-xl",
+  "version": "2.1.4-2",
+  "depends": [
+    "freetype2",
+    "lua",
+    "pcre2",
+    "sdl2"
+  ],
+  "makedepends": [
+    "git",
+    "meson"
+  ],
+  "receive": 197951854,
+  "transmit": 295742,
+  "disk": 2666852
+}
