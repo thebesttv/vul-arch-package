@@ -1,0 +1,16 @@
+{
+  "name": "python-dkim",
+  "version": "1.1.6-1",
+  "depends": [
+    "python-dnspython"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-setuptools",
+    "python-wheel"
+  ],
+  "receive": 198032415,
+  "transmit": 352344,
+  "disk": 475405
+}
