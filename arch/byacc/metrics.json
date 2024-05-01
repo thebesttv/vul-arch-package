@@ -1,0 +1,11 @@
+{
+  "name": "byacc",
+  "version": "20230521-2",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 198950895,
+  "transmit": 355845,
+  "disk": 6301373
+}
