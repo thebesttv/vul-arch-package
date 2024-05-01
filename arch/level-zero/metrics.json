@@ -1,0 +1,13 @@
+{
+  "name": "level-zero",
+  "version": "1.16.15-1",
+  "depends": [],
+  "makedepends": [
+    "git",
+    "cmake",
+    "opencl-headers"
+  ],
+  "receive": 197929701,
+  "transmit": 243763,
+  "disk": 12580430
+}
