@@ -1,0 +1,17 @@
+{
+  "name": "llvm14",
+  "version": "14.0.6-4",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "ninja",
+    "libffi",
+    "libedit",
+    "ncurses",
+    "libxml2",
+    "python"
+  ],
+  "receive": 247867593,
+  "transmit": 361546,
+  "disk": 655294924
+}
