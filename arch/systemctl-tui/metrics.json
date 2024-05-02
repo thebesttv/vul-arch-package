@@ -1,0 +1,13 @@
+{
+  "name": "systemctl-tui",
+  "version": "0.3.4-1",
+  "depends": [
+    "gcc-libs"
+  ],
+  "makedepends": [
+    "cargo"
+  ],
+  "receive": 198054368,
+  "transmit": 378727,
+  "disk": 294436
+}
