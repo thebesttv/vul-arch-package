@@ -1,0 +1,17 @@
+{
+  "name": "python-isort",
+  "version": "5.13.2-3",
+  "depends": [
+    "python",
+    "python-toml"
+  ],
+  "makedepends": [
+    "python-build",
+    "python-installer",
+    "python-wheel",
+    "python-poetry-core"
+  ],
+  "receive": 198036029,
+  "transmit": 384823,
+  "disk": 2929967
+}
