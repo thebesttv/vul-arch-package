@@ -1,0 +1,11 @@
+{
+  "name": "jansson",
+  "version": "2.14-4",
+  "depends": [
+    "glibc"
+  ],
+  "makedepends": [],
+  "receive": 197966272,
+  "transmit": 341341,
+  "disk": 3458817
+}
