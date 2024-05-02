@@ -1,0 +1,17 @@
+{
+  "name": "eza",
+  "version": "0.18.14-1",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libgit2",
+    "libgit2.so"
+  ],
+  "makedepends": [
+    "cargo",
+    "pandoc"
+  ],
+  "receive": 198010049,
+  "transmit": 340361,
+  "disk": 4535300
+}
