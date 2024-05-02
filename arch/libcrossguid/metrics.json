@@ -1,0 +1,11 @@
+{
+  "name": "libcrossguid",
+  "version": "1:0.2.2-5",
+  "depends": [],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 197915417,
+  "transmit": 250301,
+  "disk": 501444
+}
