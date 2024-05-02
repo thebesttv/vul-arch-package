@@ -1,0 +1,11 @@
+{
+  "name": "chicken",
+  "version": "5.3.0-6",
+  "depends": [],
+  "makedepends": [
+    "chicken"
+  ],
+  "receive": 202167244,
+  "transmit": 371478,
+  "disk": 36642064
+}
