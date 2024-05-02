@@ -1,0 +1,27 @@
+{
+  "name": "exiv2",
+  "version": "0.28.2-4",
+  "depends": [
+    "brotli",
+    "libbrotlidec.so",
+    "curl",
+    "expat",
+    "libexpat.so",
+    "gcc-libs",
+    "gettext",
+    "glibc",
+    "libcurl.so",
+    "libinih",
+    "libINIReader.so",
+    "zlib",
+    "libz.so"
+  ],
+  "makedepends": [
+    "cmake",
+    "gtest",
+    "ninja"
+  ],
+  "receive": 244640876,
+  "transmit": 677353,
+  "disk": 144774443
+}
