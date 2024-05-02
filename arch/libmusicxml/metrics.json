@@ -1,0 +1,14 @@
+{
+  "name": "libmusicxml",
+  "version": "3.22-3",
+  "depends": [
+    "gcc-libs",
+    "glibc"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 208743619,
+  "transmit": 424644,
+  "disk": 129511335
+}
