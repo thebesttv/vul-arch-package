@@ -1,0 +1,20 @@
+{
+  "name": "gitui",
+  "version": "0.26.1-5",
+  "depends": [
+    "gcc-libs",
+    "glibc",
+    "libgit2",
+    "libxcb",
+    "openssl",
+    "zlib"
+  ],
+  "makedepends": [
+    "cargo",
+    "git",
+    "python"
+  ],
+  "receive": 284769673,
+  "transmit": 788669,
+  "disk": 122975514
+}
