@@ -1,0 +1,15 @@
+{
+  "name": "kodi-addon-inputstream-adaptive",
+  "version": "21.4.6-2",
+  "depends": [],
+  "makedepends": [
+    "cmake",
+    "kodi-dev",
+    "gtest",
+    "rapidjson",
+    "pugixml"
+  ],
+  "receive": 198012659,
+  "transmit": 284875,
+  "disk": 10833999
+}
