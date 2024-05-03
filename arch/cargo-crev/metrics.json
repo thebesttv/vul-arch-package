@@ -1,0 +1,16 @@
+{
+  "name": "cargo-crev",
+  "version": "0.25.6-2",
+  "depends": [
+    "cargo",
+    "openssl",
+    "libcurl.so",
+    "libgit2.so"
+  ],
+  "makedepends": [
+    "clang"
+  ],
+  "receive": 198133740,
+  "transmit": 436386,
+  "disk": 1200076
+}
