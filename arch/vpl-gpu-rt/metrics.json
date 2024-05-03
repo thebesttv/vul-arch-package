@@ -1,0 +1,15 @@
+{
+  "name": "vpl-gpu-rt",
+  "version": "24.2.2-1",
+  "depends": [
+    "intel-media-driver",
+    "libdrm",
+    "libva"
+  ],
+  "makedepends": [
+    "cmake"
+  ],
+  "receive": 207397508,
+  "transmit": 393846,
+  "disk": 66809231
+}
