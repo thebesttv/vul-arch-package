@@ -42,7 +42,7 @@ act 0.2.62-1
 actionlint 1.6.27-1
 activity-log-manager 0.9.7-9
 adapta-gtk-theme 3.95.0.11-2
-adios2 2.10.0-2
+adios2 2.10.0-3
 adljack 1.3.1-2
 adlplug 1.0.2-10
 adns 1.6.0-2
@@ -89,7 +89,7 @@ akonadiconsole 24.02.2-1
 akregator 24.02.2-1
 alacarte 1:3.52.0-2
 alacritty 0.13.2-2
-alembic 1.8.6-1
+alembic 1.8.6-2
 alertmanager 0.27.0-1
 alex 3.2.7.4-2
 algernon 1.16.0-1
@@ -316,7 +316,7 @@ avldrums.lv2 0.7.2-1
 avogadro-crystals 1.99.0-1
 avogadro-fragments 1.99.0-1
 avogadro-molecules 1.99.0-1
-avogadrolibs 1.99.0-3
+avogadrolibs 1.99.0-4
 avr-binutils 2.42-2
 avr-gcc 13.2.0-2
 avr-gdb 14.2-2
@@ -375,7 +375,7 @@ base 3-2
 base-devel 1-1
 bash 5.2.026-2
 bash-completion 2.11-3
-bash-language-server 5.1.2-1
+bash-language-server 5.2.0-1
 bash-preexec 0.5.0-2
 bashbrew 0.1.12-2
 bashburn 3.1.0-5
@@ -410,7 +410,7 @@ bemenu 0.6.20-1
 benchmark 1.8.3-1
 benzene 20130630-2
 bespokesynth 1.2.1-2
-bettercap 2.32.0-2
+bettercap 2.32.0-3
 bettercap-caplets v20210412.r372.2d58298-3
 bfs 3.2-1
 bftpd 6.1-3
@@ -586,7 +586,7 @@ calcurse 4.8.1-1
 calendarsupport 24.02.2-1
 calf 0.90.3-6
 calibre 7.10.0-1
-caligula 0.4.4-1
+caligula 0.4.5-1
 calindori 24.02.2-1
 callaudiod 0.1.9-2
 calligra 3.2.1-58
@@ -619,9 +619,9 @@ cargo-cyclonedx 0.5.0-1
 cargo-deb 2.2.0-1
 cargo-deny 0.14.23-1
 cargo-depgraph 1.6.0-2
-cargo-dist 0.13.3-1
+cargo-dist 0.14.0-1
 cargo-edit 0.12.2-2
-cargo-expand 1.0.85-1
+cargo-expand 1.0.86-1
 cargo-feature 0.7.0-1
 cargo-flamegraph 0.6.5-3
 cargo-fuzz 0.12.0-1
@@ -645,7 +645,7 @@ cargo-rdme 1.4.3-1
 cargo-release 0.25.7-1
 cargo-run-bin 1.7.2-2
 cargo-semver-checks 0.31.0-1
-cargo-show-asm 0.2.34-2
+cargo-show-asm 0.2.35-1
 cargo-shuttle 0.44.0-1
 cargo-sort 1.0.9-1
 cargo-spellcheck 0.14.0-1
@@ -722,7 +722,7 @@ cgasm 1.0.0-4
 cgdb 0.8.0-1
 cgit 1.2.3.r54.g00ecfaa-11
 cgit-aurweb 1.2.3-3
-cgns 4.4.0-1
+cgns 4.4.0-2
 cgrep 6.6.32-432
 chafa 1.14.0-3
 charis-sil-font 6.200-1
@@ -951,7 +951,7 @@ crystal 1.12.1-1
 cscope 15.9-2
 csfml 2.6.0-1
 csound 6.18.1-4
-csound-plugins 1.0.2-9
+csound-plugins 1.0.2-10
 csoundqt 1:1.1.1-2
 csvkit 2.0.0-1
 csvlens 0.9.0-1
@@ -1188,7 +1188,7 @@ dino 0.4.3-4
 directx-headers 1.611.0-1
 directx-shader-compiler 1.7.2308-2
 direnv 2.34.0-1
-discord 0.0.52-1
+discord 0.0.53-1
 discount 3.0.0.d-1
 discover 6.0.4-1
 diskonaut 0.11.0-2
@@ -1443,7 +1443,7 @@ erlang-docs 26.0-1
 erlang-nox 26.2.5-1
 erofs-utils 1.7.1-1
 esbonio 0.16.4-2
-esbuild 0.20.2-1
+esbuild 0.21.0-1
 esh 0.3.2-1
 eslint 9.2.0-1
 eslint-language-server 2.4.4-1
@@ -1495,7 +1495,7 @@ fabla 1.4-1
 fabric 3.2.2-2
 facile 1.1.4-7
 facter 3.14.24-7
-fail2ban 1.1.0-3
+fail2ban 1.1.0-4
 fakechroot 2.20.1-3
 fakeroot 1.34-1
 falkon 24.02.2-4
@@ -1568,7 +1568,7 @@ fcitx5-unikey 5.1.3-1
 fclones 0.34.0-3
 fcrackzip 1.0-6
 fcron 3.3.1-1
-fd 9.0.0-2
+fd 10.0.0-1
 fdkaac 1.0.5-1
 fdm 2.2-3
 fdupes 1:2.2.1-2
@@ -1790,7 +1790,7 @@ gcovr 7.2-2
 gcr 3.41.2-1
 gcr-4 4.2.1-2
 gd 2.3.3-7
-gdal 3.8.5-3
+gdal 3.8.5-4
 gdb 14.2-2
 gdb-dashboard 0.17.2-1
 gdbm 1.23-2
@@ -3420,7 +3420,7 @@ haskell-zlib-bindings 0.1.1.5-158
 hasktags 0.73.0-14
 hatari 2.4.1-2
 haveged 1.9.18-2
-havn 0.1.10-1
+havn 0.1.11-1
 hawkeye 5.5.1-1
 haxe 4.3.4-3
 hblock 3.4.4-1
@@ -3431,8 +3431,8 @@ hcxkeys 6.2.1-2
 hcxtools 6.3.4-1
 hdapsd 20141203-4
 hddtemp 0.3.beta15.53-4
-hdf5 1.14.3-1
-hdf5-openmpi 1.14.3-3
+hdf5 1.14.4.2-5
+hdf5-openmpi 1.14.4.2-2
 hdparm 9.65-1
 hdr10plus-tool 1.6.0-1
 headscale 0.22.3-1
@@ -3497,7 +3497,7 @@ hostess 0.5.2-4
 hotdoc 0.16-3
 hound 0.7.1-2
 hping 3.0.0-5
-hplip 1:3.23.12-5
+hplip 1:3.23.12-6
 hq 3.1-2
 hsa-amd-aqlprofile-bin 6.0.2-1
 hsa-rocr 6.0.2-2
@@ -3602,7 +3602,7 @@ ifplugd 0.28-17
 iftop 1.0pre4-5
 ifuse 1.1.4-4
 igmpproxy 0.4-1
-igraph 0.10.11-1
+igraph 0.10.12-1
 igrep 1.2.0-1
 igsc 0.8.16-1
 ihaskell 0.10.4.0-75
@@ -4265,7 +4265,7 @@ l-smash 2.14.5-3
 l3afpad 0.8.18.1.11-7
 lablgtk3 3.1.4-1
 laborejo 2.2.2-1
-labplot 2.10.1-7
+labplot 2.10.1-8
 ladspa 1.17-4
 lager 0.1.1-1
 lame 3.100-4
@@ -4516,7 +4516,7 @@ lib32-pam 1.6.1-1
 lib32-pango 1:1.52.2-1
 lib32-pcre 8.45-3
 lib32-pcre2 10.43-1
-lib32-pcsclite 2.1.0-1
+lib32-pcsclite 2.2.0-1
 lib32-pipewire 1:1.0.5-1
 lib32-pixman 0.43.4-1
 lib32-polkit 124-1
@@ -4549,7 +4549,7 @@ lib32-taglib 2.0.1-1
 lib32-tcl 8.6.14-1
 lib32-tdb 1.4.10-1
 lib32-twolame 0.4.0-2
-lib32-util-linux 2.40-2
+lib32-util-linux 2.40.1-1
 lib32-v4l-utils 1.26.1-1
 lib32-virtualgl 3.1.1-1
 lib32-vkd3d 1.11-1
@@ -4869,7 +4869,7 @@ libmanette 0.2.7-1
 libmatekbd 1.28.0-1
 libmatemixer 1.28.0-1
 libmateweather 1.28.0-1
-libmatio 1.5.27-1
+libmatio 1.5.27-2
 libmatroska 1.7.1-1
 libmaxminddb 1.9.1-1
 libmbim 1.30.0-1
@@ -5003,7 +5003,7 @@ libptytty 2.0-4
 libpurple-lurch 0.7.0-1
 libpwquality 1.4.5-5
 libqaccessibilityclient 0.6.0-1
-libqalculate 5.1.0-1
+libqalculate 5.1.1-1
 libqb 2.0.3-2
 libqmi 1.34.0-1
 libqrtr-glib 1.2.2-2
@@ -5138,7 +5138,7 @@ libtermkey 0.22-3
 libtg_owt 0.git25.afd9d5d-1
 libthai 0.1.29-3
 libtheora 1.1.1-6
-libtiff 4.6.0-4
+libtiff 4.6.0-5
 libtiff4 3.9.7-5
 libtiger 0.3.4-7
 libtirpc 1.3.4-1
@@ -5294,7 +5294,7 @@ link-grammar 5.12.3-3
 links 2.29-1
 linssid 3.6-10
 linux 6.8.9.arch1-1
-linux-api-headers 6.7-1
+linux-api-headers 6.8-1
 linux-atm 2.5.2-8
 linux-firmware 20240409.1addd7dc-1
 linux-hardened 6.8.9.hardened1-1
@@ -5638,7 +5638,7 @@ mdf2iso 0.3.1-4
 mdformat 0.7.17-3
 mdk4 4.2-1
 mdp 1.0.15-2
-med-openmpi 4.1.1-8
+med-openmpi 4.1.1-9
 media-player-info 24-2
 mediaelch 2.10.6-1
 mediainfo 24.04-1
@@ -5662,7 +5662,7 @@ menu-cache 1.1.0-4
 menumaker 0.99.14-2
 menyoki 1.7.0-1
 mephisto.lv2 0.18.2-3
-mercurial 6.7.2-2
+mercurial 6.7.3-1
 merkaartor 0.19.0-8
 merkuro 24.02.2-1
 mesa 1:24.0.6-2
@@ -5674,7 +5674,7 @@ meson-python 0.16.0-3
 messagelib 24.02.2-1
 metacity 3.52.0-1
 metalog 20230719-1
-metasploit 6.4.6-1
+metasploit 6.4.7-1
 mfoc 0.10.7+38+gba072f1-1
 mg 20230501-3
 mgard 1.0.0-1
@@ -5709,7 +5709,7 @@ minieap 0.93-1
 miniflux 2.1.2-1
 minikube 1.32.0-1
 minio 2024.05.01-1
-minio-client 2024.04.29-1
+minio-client 2024.05.03-1
 minisat 2.2.1.20201216-1
 miniserve 0.27.1-1
 minisign 0.11-3
@@ -5920,11 +5920,11 @@ net-tools 2.10-2
 netavark 1.10.3-1
 netbeans 16-1
 netbrake 0.2-7
-netcdf 4.9.2-2
+netcdf 4.9.2-3
 netcdf-cxx 4.3.1-3
 netcdf-fortran 4.6.1-1
 netcdf-fortran-openmpi 4.6.1-1
-netcdf-openmpi 4.9.2-4
+netcdf-openmpi 4.9.2-5
 netcf 0.2.8-8
 netctl 1.29-1
 netdata 1.44.3-2
@@ -5995,7 +5995,7 @@ ngspice 42-1
 nheko 0.11.3-11
 nickel 1.2.1-2
 nickle 2.90-1
-nicotine+ 3.3.3-1
+nicotine+ 3.3.4-1
 nikola 8.3.1-1
 nikto 2.5.0-1
 nilfs-utils 2.2.11-1
@@ -6047,7 +6047,7 @@ noto-fonts 1:24.5.1-1
 noto-fonts-cjk 20230817-1
 noto-fonts-emoji 1:2.042-1
 npapi-sdk 0.27.2-4
-npm 10.5.2-1
+npm 10.7.0-1
 npm-check-updates 16.14.19-1
 npth 1.7-1
 nrg2iso 0.4.1-2
@@ -6134,7 +6134,7 @@ ocl-icd 2.3.2-1
 ocrad 0.29-1
 ocrdesktop 4.0-1
 ocrfeeder 0.8.5-3
-octave 9.1.0-4
+octave 9.1.0-5
 oculante 0.8.19-3
 ode 0.16.2-2
 odin2-synthesizer 2.3.4-2
@@ -6167,7 +6167,7 @@ open-vm-tools 6:12.4.0-1
 openal 1.23.1-1
 openapi-diff 2.0.1-2
 openapi-generator 7.5.0-1
-openapi-tui 0.9.1-1
+openapi-tui 0.9.2-1
 openbabel 3.1.1-8
 openblas 0.3.26-3
 openbox 3.6.1-10
@@ -6182,7 +6182,7 @@ opencolorio 2.3.2-2
 openconnect 1:9.12-1
 opencore-amr 0.1.6-1
 opencsg 1.6.0-1
-opencv 4.9.0-5
+opencv 4.9.0-6
 opendbx 1.4.6-12
 opendesktop-fonts 1.4.2-6
 opendht 1:3.1.9-2
@@ -6405,7 +6405,7 @@ pappl 1.4.6-1
 paprefs 1.2-1
 par2cmdline 0.8.1-2
 parallel 20240322-1
-paraview 5.12.0-7
+paraview 5.12.0-8
 parcellite 1.2.2-1
 pari 2.15.5-1
 pari-elldata 20210301-1
@@ -6450,7 +6450,7 @@ pcre 8.45-4
 pcre2 10.43-4
 pcsc-perl 1.4.16-1
 pcsc-tools 1.7.1-1
-pcsclite 2.2.0-1
+pcsclite 2.2.0-4
 pd 0.54.1-1
 pd-gem 0.94-11
 pd-lua 0.11.6-1
@@ -7147,12 +7147,12 @@ phosh 0.38.0-1
 phosh-mobile-settings 0.38.0-1
 photoflare 1.6.13-1
 phototonic 2.1-5
-php 8.3.6-1
+php 8.3.7-1
 php-apcu 5.1.23-3
 php-geoip 1.1.1-12
 php-igbinary 3.2.15-4
 php-imagick 3.7.0-8
-php-legacy 8.2.18-1
+php-legacy 8.2.19-1
 php-memcache 8.2-4
 php-memcached 3.2.0-5
 php-mongodb 1.18.1-1
@@ -7198,7 +7198,7 @@ pipewire-media-session 1:0.4.2-2
 piping-server 0.18.0-1
 pitivi 2023.03-3
 pius 3.0.0-7
-pixi 0.20.1-1
+pixi 0.21.1-1
 pixiewps 1.4.2-3
 pixman 0.43.4-1
 pixz 1.0.7-4
@@ -7254,7 +7254,7 @@ png++ 0.2.10-2
 png2svg 1.5.4-1
 pngcrush 1.8.13-3
 pngquant 3.0.3-2
-pnpm 8.15.2-2
+pnpm 9.1.0-1
 po4a 0.71-1
 pocl 5.0-1
 poco 1.12.5p2-1
@@ -7400,7 +7400,7 @@ pulseaudio-equalizer-ladspa 3.0.2-7
 pulseaudio-qt 1.4.0-3
 pulsemixer 1.5.1-6
 pulseview 0.4.2-10
-pulumi 3.115.1-1
+pulumi 3.115.2-1
 puppet 7.27.0-3
 purple-plugin-pack 2.8.0-1
 purple-skypeweb 1.7-4
@@ -7539,7 +7539,7 @@ python-assertpy 1.1-2
 python-asteval 0.9.32-2
 python-astor 0.8.1-7
 python-astral 3.2-3
-python-astroid 3.1.0-5
+python-astroid 3.2.0-1
 python-astropy 6.0.1-1
 python-astropy-iers-data 0.2024.03.18.00.29.47-3
 python-asttokens 2.4.1-2
@@ -7999,8 +7999,8 @@ python-guzzle-sphinx-theme 0.7.11-12
 python-gwebsockets 0.7-7
 python-h11 0.14.0-3
 python-h2 4.1.0-4
-python-h5py 3.11.0-1
-python-h5py-openmpi 3.11.0-1
+python-h5py 3.11.0-2
+python-h5py-openmpi 3.11.0-2
 python-hachoir 3.2.0-4
 python-hacking 6.1.0-2
 python-halo 0.0.31-6
@@ -8367,7 +8367,7 @@ python-olefile 0.47-2
 python-omegaconf 2.3.0-3
 python-omemo-dr 1.0.1-2
 python-onnx 1:1.16.0-3
-python-openai 1.24.1-1
+python-openai 1.26.0-1
 python-openapi-core 0.19.1-1
 python-openapi-schema-validator 0.6.2-2
 python-openapi-spec-validator 0.7.1-2
@@ -8688,7 +8688,7 @@ python-pysrt 1.1.2-6
 python-pystache 0.6.5-2
 python-pystemmer 2.2.0.1-3
 python-pyswip 0.2.10-4
-python-pytables 3.9.2-2
+python-pytables 3.9.2-3
 python-pytddmon 1.0.8-11
 python-pyte 0.8.2-3
 python-pytesseract 0.3.13-2
@@ -8945,7 +8945,7 @@ python-sly 0.5-3
 python-smartypants 2.0.1-12
 python-smbprotocol 1.12.0-3
 python-smmap 1:5.0.1-2
-python-snappy 0.6.1-4
+python-snappy 0.7.1-1
 python-sniffio 1.3.1-3
 python-snowballstemmer 2.2.0-6
 python-snowboy 1.3.0-6
@@ -8976,14 +8976,14 @@ python-sphinx-click 5.1.0-2
 python-sphinx-copybutton 0.5.2-2
 python-sphinx-design 0.5.0-4
 python-sphinx-external-toc 1.0.1-4
-python-sphinx-furo 2024.04.27-1
+python-sphinx-furo 2024.05.06-1
 python-sphinx-inline-tabs 2023.04.21-2
 python-sphinx-issues 4.1.0-1
 python-sphinx-jinja 2.0.2-4
 python-sphinx-lv2-theme 1.4.2-2
 python-sphinx-prompt 1.8.0-2
 python-sphinx-pytest 0.2.0-2
-python-sphinx-reredirects 0.1.3-2
+python-sphinx-reredirects 0.1.3-3
 python-sphinx-sitemap 2.5.1-2
 python-sphinx-tabs 3.4.5-2
 python-sphinx-theme-builder 0.2.0b2-4
@@ -9192,7 +9192,7 @@ python-watchgod 1:0.8.2-3
 python-wcag-contrast-ratio 0.9-5
 python-wcmatch 8.5.1-2
 python-wcwidth 0.2.13-2
-python-weasyprint 62.0-1
+python-weasyprint 62.1-1
 python-webcolors 1.13-3
 python-webencodings 0.5.1-11
 python-webob 1.8.7-8
@@ -9293,7 +9293,7 @@ qcoro 0.10.0-1
 qcustomplot 2.1.1-1
 qd 2.3.24-1
 qemu 9.0.0-1
-qgis 3.36.2-1
+qgis 3.36.2-2
 qgit 2.10-3
 qgo 2.1.1-1
 qhexedit2 0.8.9-1
@@ -9420,7 +9420,7 @@ qt6-websockets 6.7.0-1
 qt6-webview 6.7.0-1
 qt6ct 0.9-7
 qt6pas 6.2.7-2
-qtcreator 13.0.0-1
+qtcreator 13.0.1-1
 qtdbusextended 0.0.3-1
 qterminal 1.4.0-1
 qtermwidget 1.4.0-2
@@ -9480,7 +9480,7 @@ rapydscript-ng 0.7.22-1
 rarcrack 0.2-7
 rasqal 1:0.9.33-7
 rathole 0.5.0-1
-rattler-build 0.15.0-1
+rattler-build 0.16.0-1
 rauc 1.11.3-1
 rav1e 0.7.1-1
 rawtherapee 1:5.10-1
@@ -10100,13 +10100,13 @@ rust-kanban 0.9.5-1
 rust-script 0.34.0-1
 rustic 0.7.0-3
 rustscan 2.2.3-1
-rustup 1.27.0-1
+rustup 1.27.1-1
 rustypaste 0.15.0-2
 rustypaste-cli 0.9.0-2
 rx_tools 1.0.3-4
 rxvt-unicode 9.31-4
 rye 0.33.0-1
-rygel 1:0.42.5-1
+rygel 1:0.42.6-1
 rz-cutter 2.3.4-5
 rz-ghidra 0.7.0-1
 rz-pipe 0.6.0-1
@@ -10316,7 +10316,7 @@ slock 1.5-3
 slop 7.6-4
 slowhttptest 1.9.0-1
 slumber 1.1.0-1
-slurm-llnl 23.11.3.1-4
+slurm-llnl 23.11.3.1-5
 slurp 1.5.0-1
 smali 2.5.2-2
 smartdns 45-1
@@ -10334,7 +10334,7 @@ snap-pac 3.0.1-2
 snap-sync 0.7-2
 snapper 0.11.0-1
 snappy 1.1.10-1
-snapshot 46.2-1
+snapshot 46.3-1
 snd 24.3-1
 sndio 1.9.0-1
 snes9x 1.62.3-1
@@ -10613,7 +10613,7 @@ syncthing 1.27.6-1
 syndication 6.1.0-1
 syndication-domination 1.0-4
 syndication5 5.115.0-1
-syndicationd 0.2.3-1
+syndicationd 0.2.4-1
 synergy 1.11.1-1
 synfig 1.4.4-5
 synfigstudio 1.4.4-1
@@ -10639,7 +10639,7 @@ systemdgenie 0.99.0-6
 systemsettings 6.0.4-1
 systeroid 0.4.4-1
 systray-x 0.9.9-1
-sz 2.1.12.5-4
+sz 2.1.12.5-5
 t-prot 3.4-6
 t1lib 5.1.2-8
 t1utils 1.42-2
@@ -10842,7 +10842,7 @@ tree-sitter-c 0.21.0-2
 tree-sitter-lua 0.1.0-2
 tree-sitter-markdown 0.2.3-2
 tree-sitter-python 0.21.0-2
-tree-sitter-query 0.2.1-2
+tree-sitter-query 0.3.0-1
 tree-sitter-vimdoc 2.5.1-2
 treeify r7958.90292b20-2
 triehash 0.3.3-2
@@ -10939,7 +10939,7 @@ ufw 0.36.2-4
 ufw-extras 1.1.0-2
 uget 2.2.3-6
 uglify-js 3.17.4-1
-ugrep 5.1.4-1
+ugrep 6.0.0-1
 uhttpmock 0.10.0-1
 ukui-biometric-auth 1.2.2-7
 ukui-control-center 3.0.4-11
@@ -10980,7 +10980,7 @@ unicode-cldr 42.0-1
 unicode-emoji 15.1-1
 unicorn 2.0.1.post1-1
 unifdef 2.12-3
-unison 2.53.4-4
+unison 2.53.5-1
 unittestpp 2.0.0-6
 unixodbc 2.3.12-1
 unlambda 0.1.4.2-10
@@ -11003,7 +11003,7 @@ uptimed 0.4.6-3
 upx 4.2.3-1
 uqm 0.8.0-3
 urh 2.9.6-4
-uriparser 0.9.7-1
+uriparser 0.9.8-1
 urjtag 2021.03-4
 urlscan 1.0.2-1
 urlwatch 2.28-3
@@ -11020,7 +11020,7 @@ usleep 1.0-6
 usort 1.0.4-4
 utf8cpp 4.0.5-1
 uthash 2.3.0-2
-util-linux 2.40-3
+util-linux 2.40.1-1
 utox 0.18.1-4
 uucp 1.07-7
 uudeview 20230502-3
@@ -11067,7 +11067,7 @@ vcspull 1.30.0-1
 vde2 2.3.3-5
 vdirsyncer 0.19.2-2
 vdpauinfo 1.5-1
-vector 0.37.1-1
+vector 0.38.0-1
 vector-blf 2.4.2-1
 vegeta 12.11.1-1
 veracrypt 1.26.7-1
@@ -11082,7 +11082,7 @@ vid.stab 1.1.1-1
 vidcutter 6.0.5.1-8
 viewnior 1.8-5
 vifm 0.13-1
-vigra 1.11.2-3
+vigra 1.11.2-4
 viking 1.10-2
 vim 9.1.0380-1
 vim-airline 0.11-2
@@ -11127,7 +11127,7 @@ virtualbox 7.0.18-1
 virtualbox-guest-iso 7.0.18-1
 virtualbox-host-modules-arch 7.0.18-1
 virtualgl 3.1.1-1
-vis 0.9-1
+vis 0.9-2
 visidata 3.0.2-3
 visitors 0.7-7
 visualvm 2.1.8-1
@@ -11157,9 +11157,9 @@ vsftpd 3.0.5-1
 vsqlite++ 0.3.13-8
 vst3sdk 3.7.11_build_10-2
 vte3 0.76.1-1
-vtk 9.3.0-14
+vtk 9.3.0-15
 vtr 8.0.0-4
-vue-language-tools 2.0.10-1
+vue-language-tools 2.0.16-1
 vulkan-docs 1:1.3.279-1
 vulkan-headers 1:1.3.279-1
 vulkan-icd-loader 1.3.279-1
@@ -11652,7 +11652,7 @@ zenith 0.14.1-1
 zenity 4.0.1-1
 zeroc-ice 3.7.10-1
 zeromq 4.3.5-2
-zerotier-one 1.14.0-1
+zerotier-one 1.14.0-3
 zettlr 3.1.1-1
 zfp 1.0.1-2
 zh-autoconvert 0.3.16-5
