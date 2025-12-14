@@ -23,7 +23,7 @@ def parse_cloc_csv(csv_file):
     total_lines = 0
     
     try:
-        with open(csv_file, 'r', encoding='utf-8') as f:
+        with open(csv_file, 'r', encoding='utf-8', errors='replace') as f:
             reader = csv.reader(f)
             for row in reader:
                 # 跳过表头和空行
@@ -118,9 +118,9 @@ def main():
         version = ''
         if os.path.exists(version_file):
             try:
-                with open(version_file, 'r') as f:
+                with open(version_file, 'r', encoding='utf-8') as f:
                     version = f.read().strip()
-            except:
+            except (IOError, UnicodeDecodeError):
                 pass
         
         # 输出项目名称和版本
