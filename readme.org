@@ -9,3 +9,29 @@
   - 根据 =PKGBUILD=，使用 =makepkg= 获取源码
   - 使用 =cloc= 统计代码量信息
 - 每个包的结果位于 =arch/<name>/cloc.csv= 中
+
+* 使用脚本
+
+** 列出所有C语言项目
+
+使用 =list-c-projects.py= 脚本可以列出所有C语言项目（C语言代码占比 ≥ 50%）：
+
+#+begin_src bash
+python3 list-c-projects.py
+#+end_src
+
+输出示例：
+#+begin_example
+# C语言项目列表（C语言占比 ≥ 50%）
+# 共找到 1166 个C语言项目
+
+9base 6-8
+a2jmidid 9-4
+aarch64-linux-gnu-gdb 14.2-2
+...
+#+end_example
+
+也可以将结果保存到文件：
+#+begin_src bash
+python3 list-c-projects.py > c-projects.txt
+#+end_src
